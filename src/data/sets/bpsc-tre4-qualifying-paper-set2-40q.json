@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-qualifying-paper-set2-40q",
+  "title": "Language Qualifying Set 2 (40Q)",
+  "section": "qualifying",
+  "section_name": "Part-I Language Qualifying",
+  "subject": "Language Qualifying",
+  "filename": "bpsc-tre4-qualifying-paper-set2-40q.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "id": 1,
+      "source": "BPSC Senior Secondary Booklets (TRE 2.0)",
+      "en": "Rainy season comes before",
+      "hi": "वर्षा ऋतु किसके पहले आती है?",
+      "options": [
+        "winter",
+        "spring",
+        "summer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "winter",
+      "explanation": "According to the Indian seasonal cycle and calendar progression, the rainy (monsoon) season spans July to September and directly precedes the winter (autumn/winter) season.",
+      "tip": "Chronological order of seasons in India: Summer (March–May) → Rainy/Monsoon (June–September) → Autumn/Winter (October–February) → Spring (February–March)."
+    },
+    {
+      "id": 2,
+      "source": "BPSC Senior Secondary Booklets (TRE 2.0)",
+      "en": "The eighth month of the year is",
+      "hi": "वर्ष का आठवाँ महीना है",
+      "options": [
+        "July",
+        "September",
+        "October",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "The eighth month in the Gregorian calendar is August. Since August is omitted from options (A), (B), and (C), Option (E) is the official correct choice.",
+      "tip": "BPSC calendar trap: 7th = July, 8th = August, 9th = September, 10th = October. When the accurate month name is absent, confidently select Option (E)."
+    },
+    {
+      "id": 3,
+      "source": "BPSC Senior Secondary Booklets (TRE 2.0)",
+      "en": "Sister-in-law is",
+      "hi": "सिस्टर-इन-लॉ (Sister-in-law) होती है",
+      "options": [
+        "husband's sister",
+        "wife's sister",
+        "brother's wife",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In English kinship terminology, 'sister-in-law' denotes one's brother's wife (भाभी), one's husband's sister (ननद), or one's wife's sister (साली). Since all three options are valid, (D) is triggered.",
+      "tip": "Whenever an English kinship relation encompasses multiple maternal/paternal or affine equivalents, expect Option (D) in BPSC examinations."
+    },
+    {
+      "id": 4,
+      "source": "BPSC Senior Secondary Booklets (TRE 2.0)",
+      "en": "Which of the following is a part of bedroom?",
+      "hi": "निम्नलिखित में से कौन-सा बेडरूम का एक हिस्सा है?",
+      "options": [
+        "Pillow",
+        "Table lamp",
+        "Wardrobe",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "A bedroom standardly contains pillows (for sleeping), table/bedside lamps (for reading/lighting), and wardrobes/closets. All choices represent valid bedroom furnishings.",
+      "tip": "In household vocabulary questions, as soon as two independent items naturally belong to the specified room, choose Option (D)."
+    },
+    {
+      "id": 5,
+      "source": "BPSC TGT Secondary Question Papers (TRE 2.0)",
+      "en": "Today is Sunday. The day before yesterday was",
+      "hi": "आज रविवार है। परसों (बीता हुआ कल से पूर्व का दिन) कौन-सा दिन था?",
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Saturday",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Friday",
+      "explanation": "If today is Sunday, then 'yesterday' was Saturday, and 'the day before yesterday' was Friday (Sunday minus 2 days = Friday).",
+      "tip": "Time calculation formula: Today = Day 0; Yesterday = -1; Day before yesterday = -2. For Sunday: Sunday(0) → Saturday(-1) → Friday(-2)."
+    },
+    {
+      "id": 6,
+      "source": "BPSC TGT Secondary Question Papers (TRE 2.0)",
+      "en": "Which of the following is not a part of drawing room?",
+      "hi": "निम्नलिखित में से कौन-सा ड्राइंग रूम का हिस्सा नहीं है?",
+      "options": [
+        "Washing machine",
+        "Chimney",
+        "Sofa set",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "A washing machine belongs to the laundry room/utility area, and a kitchen chimney belongs to the kitchen. Since both are not drawing room items, Option (D) is the official key.",
+      "tip": "Notice the negative phrasing 'not a part of': Having two non-drawing-room appliances (Washing machine + Chimney) automatically triggers Option (D)."
+    },
+    {
+      "id": 7,
+      "source": "BPSC TGT Secondary Question Papers (TRE 2.0)",
+      "en": "Mother's parents are",
+      "hi": "माताजी के माता-पिता कहलाते हैं",
+      "options": [
+        "son-in-laws",
+        "maternal grandparents",
+        "paternal grandparents",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "maternal grandparents",
+      "explanation": "One's mother's parents (maternal grandfather and grandmother - नाना-नानी) are termed maternal grandparents. Father's parents (दादा-दादी) are paternal grandparents.",
+      "tip": "Maternal = Mother's lineage/relations; Paternal = Father's lineage/relations."
+    },
+    {
+      "id": 8,
+      "source": "BPSC Principal & Headmaster Examination",
+      "en": "What is the time ______ your watch?आपकी घड़ी में क्या समय हुआ है?",
+      "hi": "उचित Preposition चुनें",
+      "options": [
+        "in",
+        "by",
+        "at",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "by",
+      "explanation": "In standard English idiomatic usage, time indicated according to a timepiece or watch is expressed using the preposition 'by' ('What is the time by your watch?').",
+      "tip": "Common error: Do not translate literally from Hindi ('घड़ी में' ≠ 'in your watch'). The standard English collocation is strictly 'by your watch'."
+    },
+    {
+      "id": 9,
+      "source": "BPSC Principal & Headmaster Examination",
+      "en": "The poems written by Dinkar are the most appealing ______ quality.",
+      "hi": "दिनकर द्वारा रचित कविताएँ गुणवत्ता की दृष्टि से सर्वाधिक आकर्षक हैं।",
+      "options": [
+        "for",
+        "by",
+        "of",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "of",
+      "explanation": "The preposition 'of' is used here to denote specification or belonging of an intrinsic characteristic ('appealing of quality' / 'possessing the attribute of quality').",
+      "tip": "Pay close attention to prepositional phrase idioms following adjectives like 'appealing of', 'worthy of', 'devoid of'."
+    },
+    {
+      "id": 10,
+      "source": "BPSC Principal & Headmaster Examination",
+      "en": "Which of the following is not found in a car?",
+      "hi": "निम्नलिखित में से क्या कार में नहीं पाया जाता है?",
+      "options": [
+        "Gear",
+        "Accelerator",
+        "Pistol",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Pistol",
+      "explanation": "Gears and accelerators are integral mechanical and control components of an automobile, whereas a pistol is a firearm and not a vehicular component.",
+      "tip": "Eliminate normal vehicular mechanisms to isolate the extraneous weapon/item."
+    },
+    {
+      "id": 11,
+      "source": "BPSC Principal & Headmaster Examination",
+      "en": "A sister's husband is called in English as",
+      "hi": "बहन के पति को अंग्रेजी में क्या कहा जाता है?",
+      "options": [
+        "jija",
+        "brother-in-law",
+        "maternal brother",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "brother-in-law",
+      "explanation": "One's sister's husband is designated as 'brother-in-law' in English kinship terminology. 'Jija' is a Hindi colloquial noun, not English.",
+      "tip": "BPSC options often include Hindi phonetic spellings (like 'jija' or 'chacha') as traps; always select the formal English genealogical term."
+    },
+    {
+      "id": 12,
+      "source": "BPSC Middle Teacher Question Booklet (English/Hindi)",
+      "en": "______ beauty is a gift of God.सौंदर्य ईश्वर का उपहार है।",
+      "hi": "रिक्त स्थान में उपयुक्त Article चुनें",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "When an abstract noun ('beauty') is used in a general, universal philosophical sense, it takes zero article. Since zero article is not among (A), (B), or (C), (E) is correct.",
+      "tip": "Abstract nouns (beauty, honesty, truth, wisdom) take NO article when used generally: 'Beauty is truth', 'Honesty is the best policy'."
+    },
+    {
+      "id": 13,
+      "source": "BPSC Middle Teacher Question Booklet (English/Hindi)",
+      "en": "Rajan is selected as ______ MBBS doctor.",
+      "hi": "राजन का चयन एक MBBS डॉक्टर के रूप में हुआ है।",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "an",
+      "explanation": "The abbreviation 'MBBS' is phonetically pronounced as /ˈem.biː.biː.es/, which begins with the vowel sound /e/. Therefore, the indefinite article 'an' is required.",
+      "tip": "Phonetics rule: Abbreviations beginning with letters pronounced with an initial vowel sound (M = /em/, S = /es/, F = /ef/, H = /eɪtʃ/, L = /el/) take 'an' ('an MBBS', 'an SP', 'an FIR')."
+    },
+    {
+      "id": 14,
+      "source": "BPSC Middle Teacher Question Booklet (English/Hindi)",
+      "en": "Which of the following is not a part of grocery store?",
+      "hi": "निम्नलिखित में से कौन-सा किराने की दुकान (Grocery store) का हिस्सा नहीं है?",
+      "options": [
+        "Cereals",
+        "Oil",
+        "Leather",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Leather",
+      "explanation": "Grocery stores sell food provisions and household consumables like edible grains/cereals and cooking oil. Leather is a processed animal hide sold in footwear or fabric stores.",
+      "tip": "Distinguish food/edible consumable groceries from heavy industrial/animal trade materials like leather and timber."
+    },
+    {
+      "id": 15,
+      "source": "BPSC Middle Teacher Question Booklet (English/Hindi)",
+      "en": "Which of the following is not a continent?",
+      "hi": "निम्नलिखित में से कौन-सा महाद्वीप नहीं है?",
+      "options": [
+        "Asia",
+        "Australia",
+        "Arab",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Arab",
+      "explanation": "Asia and Australia are recognized world continents, whereas the Arabian Peninsula (Arab) is a geographical region/sub-region located within the continent of Asia.",
+      "tip": "The 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Arab is a geopolitical peninsula, not a continent.\n■ PART B: GENERAL HINDI"
+    },
+    {
+      "id": 16,
+      "source": "BPSC Primary Teacher Question Booklet (TRE 1.0)",
+      "en": "Which prefix (",
+      "hi": "उपसर्ग) is used in the word 'समुज्ज्वल'?'समुज्ज्वल' शब्द में किस उपसर्ग का प्रयोग हुआ है?",
+      "options": [
+        "सम",
+        "सन्",
+        "सम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "सम्",
+      "explanation": "'सम् + उत् + ज्वल = समुज्ज्वल'। यहाँ प्रथम उपसर्ग 'सम्' (हलन्तयुक्त म्) है जो संस्कृत का तत्सम उपसर्ग है।",
+      "tip": "संस्कृत के 'सम्' उपसर्ग में 'म्' सदैव हलंतयुक्त होता है; बिना हलंत वाले विकल्प 'सम' को कभी न चुनें।"
+    },
+    {
+      "id": 17,
+      "source": "BPSC Primary Teacher Question Booklet (TRE 1.0)",
+      "en": "Which of the following words contains the prefix '",
+      "hi": "अ'?निम्नलिखित में से कौन-सा शब्द 'अ' उपसर्ग-युक्त है?",
+      "options": [
+        "अथाह",
+        "अनपढ़",
+        "अनिष्ट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अथाह",
+      "explanation": "'अ + थाह = अथाह' (जिसकी थाह न हो)। 'अनपढ़' में हिन्दी का 'अन' उपसर्ग है तथा 'अनिष्ट' में संस्कृत का 'अन्' (अन् + इष्ट) उपसर्ग है।",
+      "tip": "उपसर्ग विश्लेषण: स्वर से शुरू होने वाले शब्दों में 'अन्' (अन्+इष्ट) जुड़ता है, व्यंजन से पहले 'अ' (अ+थाह) या 'अन' (अन+पढ़) जुड़ता है।"
+    },
+    {
+      "id": 18,
+      "source": "BPSC Primary Teacher Question Booklet (TRE 1.0)",
+      "en": "Which of the following words contains the suffix '",
+      "hi": "आ'?निम्नलिखित में से कौन-सा शब्द 'आ' प्रत्यय-युक्त है?",
+      "options": [
+        "धार्मिक",
+        "असली",
+        "प्यारा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "प्यारा",
+      "explanation": "'प्यार + आ = प्यारा'। 'धार्मिक' में 'इक' प्रत्यय (धर्म + इक) और 'असली' में 'ई' प्रत्यय (असल + ई) प्रयुक्त हुआ है।",
+      "tip": "मूल शब्द अलग करें: प्यार (संज्ञा) + आ (तद्धित प्रत्यय) = प्यारा (विशेषण)।"
+    },
+    {
+      "id": 19,
+      "source": "BPSC Primary Teacher Question Booklet (TRE 1.0)",
+      "en": "'The compound in which both components are principal' is called'",
+      "hi": "जिसमें दोनों पद प्रधान होते हैं' वह कौन-सा समास है?",
+      "options": [
+        "अव्ययीभाव",
+        "द्वंद्व",
+        "बहुव्रीहि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "द्वंद्व",
+      "explanation": "द्वंद्व समास में दोनों पद (पूर्व पद और उत्तर पद) समान रूप से प्रधान होते हैं और विग्रह करने पर 'और', 'अथवा', 'या' लगता है (जैसे माता-पिता)।",
+      "tip": "समास प्रधानता नियम: अव्ययीभाव = पूर्व पद प्रधान; तत्पुरुष/कर्मधारय/द्विगु = उत्तर पद प्रधान; द्वंद्व = दोनों पद प्रधान; बहुव्रीहि = अन्य पद प्रधान।"
+    },
+    {
+      "id": 20,
+      "source": "BPSC Primary Teacher Question Booklet (TRE 1.0)",
+      "en": "Which compound (",
+      "hi": "समास) is present in the word 'जन्मांध'?'जन्मांध' शब्द में कौन-सा समास है?",
+      "options": [
+        "तत्पुरुष",
+        "कर्मधारय",
+        "द्विगु",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तत्पुरुष",
+      "explanation": "'जन्मांध' का समास विग्रह 'जन्म से अंधा' होता है। यहाँ कारक चिह्न 'से' (अपादान कारक) का लोप होने के कारण अपादान तत्पुरुष समास है।",
+      "tip": "जब विग्रह करने पर कारक की विभक्ति (ने, को, से, के लिए, का/की/के, में/पर) आए, तो वह निश्चित रूप से 'तत्पुरुष समास' होता है।"
+    },
+    {
+      "id": 21,
+      "source": "BPSC Primary Teacher Question Booklet (TRE 1.0)",
+      "en": "How many principal types of Swar Sandhi (",
+      "hi": "स्वर संधि) are there?स्वर संधि के कितने मुख्य प्रकार हैं?",
+      "options": [
+        "चार",
+        "पाँच",
+        "छः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "पाँच",
+      "explanation": "स्वर संधि के पाँच मुख्य भेद होते हैं: 1. दीर्घ स्वर संधि, 2. गुण स्वर संधि, 3. वृद्धि स्वर संधि, 4. यण स्वर संधि, तथा 5. अयादि स्वर संधि।",
+      "tip": "स्वर संधि के 5 भेद: दीर्घ (आ, ई, ऊ), गुण (ए, ओ, अर्), वृद्धि (ऐ, औ), यण (य, व, र), अयादि (अय, आय, अव, आव)।"
+    },
+    {
+      "id": 22,
+      "source": "BPSC Primary Teacher Question Booklet (TRE 1.0)",
+      "en": "The correct Sandhi-Vichchhed of '",
+      "hi": "अतीव' is'अतीव' का संधि विच्छेद होगा",
+      "options": [
+        "अति + इव",
+        "अ + तीव",
+        "अती + व",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अति + इव",
+      "explanation": "'अति + इव = अतीव'। दीर्घ स्वर संधि के नियमानुसार ह्रस्व 'इ' + ह्रस्व 'इ' मिलकर दीर्घ 'ई' (अतीव) बन जाते हैं।",
+      "tip": "उपसर्ग 'अति' में ह्रस्व 'इ' होती है और अव्यय 'इव' में भी ह्रस्व 'इ'; दीर्घ स्वर संधि से 'अतीव' बनता है।"
+    },
+    {
+      "id": 23,
+      "source": "BPSC Headmaster & Secondary Booklets",
+      "en": "Under which Article of the Constitution, Hindi written in Devanagari script is the Official Language of the Union?",
+      "hi": "भारतीय संविधान के किस अनुच्छेद के अनुसार देवनागरी लिपि में लिखित हिन्दी संघ की राजभाषा है?",
+      "options": [
+        "अनुच्छेद 343",
+        "अनुच्छेद 345",
+        "अनुच्छेद 351",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अनुच्छेद 343",
+      "explanation": "संविधान के भाग 17 के अनुच्छेद 343(1) के अनुसार संघ की राजभाषा हिन्दी और लिपि देवनागरी होगी तथा अंकों का रूप भारतीय अंकों का अंतर्राष्ट्रीय रूप होगा।",
+      "tip": "अनुच्छेद 343 = संघ की राजभाषा; अनुच्छेद 345 = राज्यों की राजभाषा; अनुच्छेद 351 = हिन्दी भाषा के विकास के लिए निर्देश।"
+    },
+    {
+      "id": 24,
+      "source": "BPSC Headmaster Examination Booklet",
+      "en": "What is the meaning of the word '",
+      "hi": "विकारी' in grammar?व्याकरण में 'विकारी' शब्द का अर्थ क्या है?",
+      "options": [
+        "परिवर्तन",
+        "विकीर",
+        "स्थिर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "परिवर्तन",
+      "explanation": "'विकारी' शब्द 'विकार' से बना है जिसका अर्थ होता है परिवर्तन या रूपांतर। जिन शब्दों में लिंग, वचन, कारक के अनुसार रूप परिवर्तित होता है, वे विकारी कहलाते हैं।",
+      "tip": "विकारी = परिवर्तनशील (संज्ञा, सर्वनाम, विशेषण, क्रिया); अविकारी = अपरिवर्तनशील / स्थिर (अव्यय)।"
+    },
+    {
+      "id": 25,
+      "source": "BPSC Headmaster Examination Booklet",
+      "en": "What is the root form of the second person singular pronoun (",
+      "hi": "मध्यमपुरुष एकवचन)?मध्यमपुरुष एकवचन का मूल रूप क्या है?",
+      "options": [
+        "तुम",
+        "तुझ",
+        "तू",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "तू",
+      "explanation": "हिन्दी में पुरुषवाचक सर्वनाम के मध्यम पुरुष का मूल एकवचन रूप 'तू' है। 'तुम' बहुवचन या आदरार्थक रूप है और 'तुझ' उसका तिर्यक्/कारक रूप है।",
+      "tip": "मूल सर्वनाम रूप: उत्तम पुरुष एकवचन = 'मैं'; मध्यम पुरुष एकवचन = 'तू'; अन्य पुरुष एकवचन = 'वह'/'यह'।"
+    },
+    {
+      "id": 26,
+      "source": "BPSC Headmaster Examination Booklet",
+      "en": "'बादल खूब गरजे किन्तु वर्षा नहीं हुई।' Which type of sentence is this?'बादल खूब गरजे किन्तु वर्षा नहीं हुई।' कौन-सा वाक्य है?",
+      "hi": "'बादल खूब गरजे किन्तु वर्षा नहीं हुई।' Which type of sentence is this?'बादल खूब गरजे किन्तु वर्षा नहीं हुई।' कौन-सा वाक्य है?",
+      "options": [
+        "संयुक्त वाक्य",
+        "साधारण वाक्य",
+        "मिश्रित वाक्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "संयुक्त वाक्य",
+      "explanation": "जहाँ दो या दो से अधिक स्वतंत्र उपवाक्य समानाधिकरण समुच्चयबोधक अव्यय (किन्तु, परन्तु, लेकिन, और) से जुड़े हों, वहाँ 'संयुक्त वाक्य' होता है।",
+      "tip": "वाक्य पहचान: 'किन्तु, परन्तु, और, इसलिए, तथा' = संयुक्त वाक्य; 'कि, जो, क्योंकि, यदि...तो, जब...तब' = मिश्रित वाक्य।"
+    },
+    {
+      "id": 27,
+      "source": "BPSC Headmaster Examination Booklet",
+      "en": "Which pair of 'one word for a phrase' is not correctly matched?",
+      "hi": "वाक्यांश के लिए एक शब्द का कौन-सा युग्म सुमेलित नहीं है?",
+      "options": [
+        "जो खुले हाथों से दान करता हो - दानी",
+        "जैसा पहले था वैसा ही - यथाविधि",
+        "जिसने मृत्यु को जीत लिया हो - मुमूर्षु",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "जो खुले हाथों से दान करे उसे 'मुक्तहस्त' कहते हैं; जिसने मृत्यु को जीत लिया हो उसे 'मृत्युंजय' कहते हैं ('मुमूर्षु' = मरने की इच्छा रखने वाला)। दो युग्म गलत होने से (D) सही है।",
+      "tip": "जब प्रश्न में दो या अधिक अशुद्ध युग्म पाए जाएँ, तो BPSC की 5-विकल्प प्रणाली में उत्तर 'उपर्युक्त में से एक से अधिक' (D) होता है।"
+    },
+    {
+      "id": 28,
+      "source": "BPSC Headmaster Examination Booklet",
+      "en": "Which pair of idiom and its meaning is not correct?",
+      "hi": "मुहावरा और अर्थ की दृष्टि से कौन-सा युग्म सही नहीं है?",
+      "options": [
+        "गोबर गणेश - बिलकुल बुद्धू",
+        "गीदड़ भभकी - दिखावटी भय",
+        "गूंगे का गुड़ होना - बोल न पाना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "गूंगे का गुड़ होना - बोल न पाना",
+      "explanation": "'गूंगे का गुड़ होना' का वास्तविक अर्थ होता है 'अकथनीय/अव्यक्त आनंद या अनुभव' जिसे वाणी द्वारा प्रकट न किया जा सके, न कि साधारण 'बोल न पाना'।",
+      "tip": "गूंगे का गुड़ = ऐसा अवर्णनीय सुख जिसका वर्णन शब्दों में संभव न हो।"
+    },
+    {
+      "id": 29,
+      "source": "BPSC Class 1–5 Examination Booklet (Advt. 10/2024)",
+      "en": "The correct meaning of the proverb '",
+      "hi": "गंगा गए गंगादास, जमुना गए जमुनादास' is'गंगा गए गंगादास, जमुना गए जमुनादास' लोकोक्ति का सही अर्थ है",
+      "options": [
+        "आदर्शवादी",
+        "चरित्रहीन",
+        "यथार्थवादी",
+        "सिद्धान्तहीन",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "सिद्धान्तहीन",
+      "explanation": "इस लोकोक्ति का अर्थ है ऐसा अवसरवादी व्यक्ति जिसका कोई दृढ़ सिद्धान्त या निष्ठा न हो और जो परिस्थिति और लाभ देखकर अपना रुख बदल लेता हो (सिद्धान्तहीन/बेपेंदी का लोटा)।",
+      "tip": "समानार्थक मुहावरा: 'बेपेंदी का लोटा होना' या 'थाली का बैंगन होना' = सिद्धान्तहीन व्यक्ति।"
+    },
+    {
+      "id": 30,
+      "source": "BPSC Class 1–5 Examination Booklet (Advt. 10/2024)",
+      "en": "What is the prefix in the word '",
+      "hi": "निराकार'?'निराकार' में उपसर्ग है",
+      "options": [
+        "निर्",
+        "नि",
+        "निरा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "निर्",
+      "explanation": "'निर् + आकार = निराकार'। यहाँ संस्कृत का हलंतयुक्त 'निर्' उपसर्ग प्रयुक्त हुआ है (रेफ स्वर के साथ जुड़कर 'रा' बन जाता है)।",
+      "tip": "हलंत का ध्यान रखें: 'निराकार', 'निरपराध', 'निर्जन' सभी में हलंतयुक्त 'निर्' उपसर्ग होता है।"
+    },
+    {
+      "id": 31,
+      "source": "BPSC Class 1–5 Examination Booklet (Advt. 10/2024)",
+      "en": "The pause/caesura occurring while reciting a verse (",
+      "hi": "छन्द) is calledछन्द पढ़ते समय आने वाले विराम को क्या कहते हैं?",
+      "options": [
+        "गति",
+        "लय",
+        "गण",
+        "यति",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "यति",
+      "explanation": "काव्य या छन्द का पाठ करते समय जहाँ स्वाभाविक रूप से रुकना या ठहरना पड़ता है, उस अल्प विराम को 'यति' कहते हैं। पाठ के प्रवाह को 'गति' कहते हैं।",
+      "tip": "छन्द के अंग: यति = विराम/ठहराव; गति = लय या प्रवाह; तुक = अंतिम वर्णों की समानता; गण = तीन वर्णों का समूह (यमाता राजभानसलगा)।"
+    },
+    {
+      "id": 32,
+      "source": "BPSC Senior Secondary Booklets (Hindi Core)",
+      "en": "'जिसकी यह पुस्तक है, उसे लौटा दो।' Which pronoun is present in this sentence?'जिसकी यह पुस्तक है, उसे लौटा दो।' इस वाक्य में कौन-सा सर्वनाम है?",
+      "hi": "'जिसकी यह पुस्तक है, उसे लौटा दो।' Which pronoun is present in this sentence?'जिसकी यह पुस्तक है, उसे लौटा दो।' इस वाक्य में कौन-सा सर्वनाम है?",
+      "options": [
+        "निश्चयवाचक",
+        "संबंधवाचक",
+        "पुरुषवाचक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "संबंधवाचक",
+      "explanation": "वाक्य में 'जिसकी' और 'उसे' परस्पर एक दूसरे उपवाक्य के संज्ञा पदों से संबंध स्थापित कर रहे हैं, अतः यहाँ 'संबंधवाचक सर्वनाम' है।",
+      "tip": "संबंधवाचक सर्वनाम के जोड़े: 'जो...सो', 'जैसा...वैसा', 'जिसकी...उसकी/उसे', 'जितना...उतना'।"
+    },
+    {
+      "id": 33,
+      "source": "BPSC Senior Secondary Booklets (Hindi Core)",
+      "en": "Which of the following is an incorrect word (",
+      "hi": "अशुद्ध शब्द)?निम्नलिखित में से कौन-सा अशुद्ध शब्द है?",
+      "options": [
+        "वीभत्स",
+        "लगान",
+        "आगामी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "उपर्युक्त में से कोई नहीं",
+      "explanation": "दिए गए तीनों शब्द 'वीभत्स', 'लगान' और 'आगामी' पूर्णतः व्याकरणिक दृष्टि से शुद्ध वर्तनी वाले हैं। कोई भी शब्द अशुद्ध न होने से उत्तर (E) है।",
+      "tip": "जब पूछे गए विकल्प में दिए गए सभी शब्द शुद्ध हों और प्रश्न 'अशुद्ध' का हो, तो उत्तर 'उपर्युक्त में से कोई नहीं' (E) बनता है।"
+    },
+    {
+      "id": 34,
+      "source": "BPSC Senior Secondary Booklets (Hindi Core)",
+      "en": "Which of the following is a word with correct spelling (",
+      "hi": "शुद्ध वर्तनी)?निम्नलिखित में से कौन-सा शुद्ध वर्तनी वाला शब्द है?",
+      "options": [
+        "क्षत्रिय",
+        "क्षत्रीय",
+        "उज्जवल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "क्षत्रिय",
+      "explanation": "'क्षत्रिय' शुद्ध वर्तनी है। 'क्षत्रीय' अशुद्ध है और 'उज्जवल' भी अशुद्ध है क्योंकि इसका शुद्ध रूप 'उज्ज्वल' (दो बार आधा 'ज्') होता है।",
+      "tip": "बार-बार पूछा जाने वाला शब्द: 'उज्ज्वल' में दो आधे 'ज्' होते हैं (उत् + ज्वल = उज्ज्वल)। 'उज्जवल' अशुद्ध वर्तनी है।"
+    },
+    {
+      "id": 35,
+      "source": "BPSC Senior Secondary Booklets (Hindi Core)",
+      "en": "Which of the following is a 'Tatsama' (",
+      "hi": "तत्सम) word?निम्नलिखित में से कौन-सा 'तत्सम' शब्द है?",
+      "options": [
+        "घर",
+        "स्नेह",
+        "छेद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "स्नेह",
+      "explanation": "'स्नेह' संस्कृत का मूल तत्सम शब्द है (जिसका तद्भव 'नेह' होता है)। 'घर' का तत्सम 'गृह' तथा 'छेद' का तत्सम 'छिद्र' होता है।",
+      "tip": "तत्सम पहचान: संयुक्त व्यंजन (क्ष, त्र, ज्ञ, श्र) और आधे व्यंजन/रेफ (स्नेह, छिद्र, गृह) वाले शब्द प्रायः तत्सम होते हैं।"
+    },
+    {
+      "id": 36,
+      "source": "BPSC Senior Secondary Booklets (Hindi Core)",
+      "en": "In which of the following sentences is an 'intransitive verb' (",
+      "hi": "अकर्मक क्रिया) used?निम्नलिखित में से किस वाक्य में 'अकर्मक क्रिया' है?",
+      "options": [
+        "उसे मत लजाओ।",
+        "बालिका लजाती है।",
+        "सेवक नदी से गागर भरता है।",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "बालिका लजाती है।",
+      "explanation": "'लजाना' कर्ता की स्वाभाविक शारीरिक/मानसिक क्रिया है जिसमें कोई कर्म नहीं है और फल सीधे बालिका पर पड़ता है। अतः 'बालिका लजाती है' अकर्मक क्रिया है।",
+      "tip": "क्रिया से पहले 'क्या' या 'किसको' लगाकर प्रश्न पूछें: यदि उत्तर न मिले, तो क्रिया अकर्मक है (बालिका क्या लजाती है? -> कोई उत्तर नहीं = अकर्मक)।"
+    },
+    {
+      "id": 37,
+      "source": "BPSC Senior Secondary Booklets (Hindi Core)",
+      "en": "From which language is the word '",
+      "hi": "खारिज' derived?'खारिज' किस भाषा का शब्द है?",
+      "options": [
+        "अरबी",
+        "फारसी",
+        "तुर्की",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अरबी",
+      "explanation": "'खारिज' अरबी भाषा का शब्द है जिसका अर्थ 'रद्द करना' या 'बाहर करना' होता है। कानून और अदालत की अधिकांश शब्दावली (दाखिल, खारिज, मुकद्दमा) अरबी मूल की है।",
+      "tip": "अदालती व प्रशासनिक अरबी शब्द: दाखिल, खारिज, फैसला, बहस, मुवक्किल, तारीख, अदालत।"
+    },
+    {
+      "id": 38,
+      "source": "BPSC Senior Secondary Booklets (Hindi Core)",
+      "en": "Which pair of incorrect and correct spelling is NOT properly matched?",
+      "hi": "अशुद्ध और शुद्ध वर्तनी का कौन-सा युग्म सही नहीं है?",
+      "options": [
+        "कोमलांगिनी - कोमलांगी",
+        "सुश्रूषा - शुश्रूषा",
+        "माहात्म - महात्म्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "माहात्म - महात्म्य",
+      "explanation": "शुद्ध शब्द 'माहात्म्य' (महात्मा + य = माहात्म्य) होता है, जिसमें आद्य स्वर वृद्धि होकर 'मा' होता है। यहाँ 'महात्म्य' लिखा गया है जो अशुद्ध है।",
+      "tip": "प्रत्यय नियम: 'य' प्रत्यय जुड़ने पर पहला स्वर दीर्घ हो जाता है: महात्मा + य = माहात्म्य; सुंदर + य = सौंदर्य; मधुर + य = माधुर्य।"
+    },
+    {
+      "id": 39,
+      "source": "BPSC TGT Language Qualifying Booklet",
+      "en": "What is the adjective form of the noun '",
+      "hi": "अग्नि'?'अग्नि' शब्द का विशेषण है",
+      "options": [
+        "आगृही",
+        "आग्नेय",
+        "आग्निक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "आग्नेय",
+      "explanation": "'अग्नि + एय = आग्नेय'। 'अग्नि' संज्ञा शब्द से बना व्याकरणिक विशेषण 'आग्नेय' होता है (जैसे आग्नेयास्त्र / आग्नेय शैल)।",
+      "tip": "संज्ञा से विशेषण निर्माण: अग्नि → आग्नेय; पृथ्वी → पार्थिव; शिव → शैव; विष्णु → वैष्णव।"
+    },
+    {
+      "id": 40,
+      "source": "BPSC TGT Language Qualifying Booklet",
+      "en": "Which of the following consonants in Hindi is a trill/rolled consonant (",
+      "hi": "प्रकंपी/लुंठित)?हिन्दी वर्णमाला में 'प्रकंपी' व्यंजन कौन-सा है?",
+      "options": [
+        "श",
+        "स",
+        "र",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "र",
+      "explanation": "'र' ध्वनि के उच्चारण में जिह्वा का अग्र भाग वर्तस्य (मसूड़े) को छूकर हवा के वेग से 2-3 बार कांपता (प्रकंपित) होता है, इसलिए इसे 'प्रकंपी' या 'लुंठित' व्यंजन कहते हैं।",
+      "tip": "वर्ण प्रयत्न वर्गीकरण: प्रकंपी/लुंठित = 'र'; पाश्विक व्यंजन = 'ल'; अर्धस्वर = 'य' और 'व'; काकल्य व्यंजन = 'ह'।\nMASTER ANSWER KEY SUMMARY — QUALIFYING PRACTICE SET 2\nComplete 40-Question Tabular Key with Subject Sections and Topic Focus Tags:\nQ. No.\nSection\nTopic / Grammar Concept Tested\nOfficial Key"
+    }
+  ]
+}

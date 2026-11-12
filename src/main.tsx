@@ -1,11 +1,21 @@
 import React, { useEffect, useMemo, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import './styles.css'
-import { qualifyingSet2, type QuestionItem } from './data/qualifyingSet2'
+import { SETS_CATALOG, SETS_DATA, type QuestionItem, type SetMeta } from './data/allSets'
 
 type Lang = 'en' | 'hi'
-type Attempt = { completedAt: string; subject: string; score: number; total: number; seconds: number; answers: Record<number, number>; flagged: number[] }
-const KEY = 'tre-ready:v1'
+type Attempt = {
+  completedAt: string
+  subject: string
+  setId: string
+  score: number
+  total: number
+  seconds: number
+  answers: Record<number, number>
+  flagged: number[]
+}
+
+const KEY = 'tre-ready:v2'
 const prefs = {
   get: <T,>(key: string, fallback: T): T => {
     try {
@@ -31,11 +41,11 @@ const copy = {
     subjects: 'Subjects',
     pyq: 'Previous papers',
     home: 'Home',
-    hero: 'Prepare Smarter. Practice Better. Crack TRE.',
-    sub: 'Targeted BPSC TRE 4.0 practice with authentic past questions and bilingual toggle.',
+    hero: 'Prepare Smarter. Practice Better. Crack TRE 4.0.',
+    sub: 'Targeted BPSC TRE 4.0 practice with 100% authentic past questions, bilingual toggle, and official 5-option format.',
     choose: 'Choose what to practise',
-    chooseSub: 'Choose a subject / set',
-    action: 'What would you like to do?',
+    chooseSub: 'Choose a question set',
+    action: 'Ready to practice',
     startPractice: 'Start practice test',
     topicAnalysis: 'Topic-wise analysis',
     saved: 'Saved on this device',
@@ -64,11 +74,11 @@ const copy = {
     subjects: 'विषय',
     pyq: 'पिछले प्रश्नपत्र',
     home: 'होम',
-    hero: 'स्मार्ट तैयारी। बेहतर अभ्यास। TRE में सफलता।',
-    sub: 'प्रामाणिक पिछले प्रश्नपत्रों और द्विभाषी टॉगल के साथ BPSC TRE 4.0 की तैयारी।',
-    choose: 'अभ्यास चुनें',
-    chooseSub: 'विषय / सेट चुनें',
-    action: 'आप क्या करना चाहेंगे?',
+    hero: 'स्मार्ट तैयारी। बेहतर अभ्यास। TRE 4.0 में सफलता।',
+    sub: 'प्रामाणिक BPSC TRE 1.0, 2.0 और 3.0 प्रश्नपत्रों, द्विभाषी टॉगल और 5-विकल्प प्रारूप के साथ संपूर्ण तैयारी।',
+    choose: 'परीक्षा खंड चुनें',
+    chooseSub: 'अभ्यास सेट चुनें',
+    action: 'अभ्यास हेतु तैयार',
     startPractice: 'अभ्यास टेस्ट शुरू करें',
     topicAnalysis: 'विषयवार विश्लेषण',
     saved: 'इस डिवाइस पर सुरक्षित',
@@ -91,54 +101,32 @@ const copy = {
   }
 }
 
-const categories = [
+export const SECTIONS = [
   {
     id: 'qualifying',
     name: 'Part-I Language Qualifying',
     hi: 'भाग-1 भाषा अर्हता परीक्षा (30% अनिवार्य)',
-    desc: 'Compulsory for PRT, Middle, TGT & PGT (English + Hindi)',
-    subjects: ['Language Practice Set 2 (40Q)', 'Part A: English (15Q)', 'Part B: Hindi (25Q)']
+    desc: 'Mandatory qualifying paper for PRT, Middle, TGT & PGT (English + Hindi)',
+    tag: '30% Pass Mark Mandatory',
+    icon: 'अ'
   },
   {
-    id: 'gk',
-    name: 'GK & GS (General Studies)',
-    hi: 'सामान्य ज्ञान और सामान्य अध्ययन (40 अंक)',
-    desc: 'History, Polity, Bihar Special, Science & Elementary Math',
-    subjects: ['Bihar GK', 'Indian National Movement', 'Indian Polity', 'General Science']
-  },
-  {
-    id: 'hindi',
-    name: 'Hindi (Main Subject)',
-    hi: 'हिंदी (मुख्य विषय - 80 अंक)',
-    desc: 'Language, grammar & literature for TGT/PGT',
-    subjects: ['व्याकरण', 'हिंदी साहित्य', 'शिक्षण शास्त्र']
-  },
-  {
-    id: 'english',
-    name: 'English (Main Subject)',
-    hi: 'English (Main Subject - 80 Marks)',
-    desc: 'Grammar, comprehension & literature',
-    subjects: ['Grammar', 'Literature', 'Pedagogy']
+    id: 'gk_gs',
+    name: 'Part-II General Studies (40 Marks)',
+    hi: 'भाग-2 सामान्य अध्ययन (40 अंक)',
+    desc: 'Common across tiers: Bihar History, National Movement, General Science & Math',
+    tag: '40 Marks Merit',
+    icon: 'G'
   },
   {
     id: 'subject',
-    name: 'Subject-wise Practice',
-    hi: 'विषयवार अभ्यास (80 अंक)',
-    desc: 'Practice for your specific teaching subject',
-    subjects: ['Mathematics', 'Science', 'Social Science', 'Computer Science']
+    name: 'Part-III Subject Practice (80 Marks)',
+    hi: 'भाग-3 मुख्य विषय (80 अंक)',
+    desc: 'Dedicated subject specialization: Science, Hindi Literature, English Literature, etc.',
+    tag: '80 Marks Merit',
+    icon: 'S'
   }
 ]
-
-function getQuestionsForSubject(subjectName: string): QuestionItem[] {
-  if (subjectName.includes('English (15Q)')) {
-    return qualifyingSet2.filter(q => q.id <= 15)
-  }
-  if (subjectName.includes('Hindi (25Q)')) {
-    return qualifyingSet2.filter(q => q.id >= 16)
-  }
-  // Default to full 40 authentic questions from Set 2
-  return qualifyingSet2
-}
 
 function Icon({ name }: { name: string }) {
   const paths: Record<string, string> = {
@@ -158,13 +146,6 @@ function Icon({ name }: { name: string }) {
 
 function Header({ lang, setLang, route, setRoute }: { lang: Lang; setLang: (x: Lang) => void; route: string; setRoute: (x: string) => void }) {
   const t = copy[lang]
-  const nav = [
-    ['/', 'home'],
-    ['/app?category=qualifying', 'qualifying'],
-    ['/app', 'practice'],
-    ['/pyq', 'pyq'],
-    ['/about', 'About']
-  ]
   return (
     <header>
       <a className="brand" href="#/" onClick={() => setRoute('/')}>
@@ -173,17 +154,27 @@ function Header({ lang, setLang, route, setRoute }: { lang: Lang; setLang: (x: L
         <small>BPSC 4.0</small>
       </a>
       <nav>
-        {nav.map(([r, n]) => (
-          <button className={route === r ? 'active' : ''} key={r} onClick={() => setRoute(r)}>
-            {n === 'qualifying' ? (lang === 'hi' ? 'अर्हता परीक्षा (40Q)' : 'Qualifying Paper (40Q)') : (t[n as keyof typeof t] || n)}
-          </button>
-        ))}
+        <button className={route === '/' ? 'active' : ''} onClick={() => setRoute('/')}>
+          {t.home}
+        </button>
+        <button className={route.startsWith('/app?category=qualifying') ? 'active' : ''} onClick={() => setRoute('/app?category=qualifying')}>
+          {lang === 'hi' ? 'अर्हता (Part-I)' : 'Qualifying (Part-I)'}
+        </button>
+        <button className={route.startsWith('/app?category=gk_gs') ? 'active' : ''} onClick={() => setRoute('/app?category=gk_gs')}>
+          {lang === 'hi' ? 'सामान्य अध्ययन (Part-II)' : 'GK / GS (Part-II)'}
+        </button>
+        <button className={route.startsWith('/app?category=subject') ? 'active' : ''} onClick={() => setRoute('/app?category=subject')}>
+          {lang === 'hi' ? 'विषय (Part-III)' : 'Subjects (Part-III)'}
+        </button>
+        <button className={route === '/pyq' ? 'active' : ''} onClick={() => setRoute('/pyq')}>
+          {t.pyq}
+        </button>
       </nav>
       <div className="head-actions">
         <button className="language" onClick={() => setLang(lang === 'en' ? 'hi' : 'en')} aria-label="Change language">
           {lang === 'en' ? 'हिन्दी' : 'English'}
         </button>
-        <button className="nav-cta" onClick={() => setRoute('/app?category=qualifying')}>
+        <button className="nav-cta" onClick={() => setRoute('/app')}>
           {t.start}
         </button>
       </div>
@@ -193,6 +184,9 @@ function Header({ lang, setLang, route, setRoute }: { lang: Lang; setLang: (x: L
 
 function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void }) {
   const t = copy[lang]
+  const totalQuestions = SETS_CATALOG.reduce((sum, s) => sum + s.question_count, 0)
+  const defaultSet = SETS_CATALOG.find(s => s.id.includes('qualifying-paper-set2')) || SETS_CATALOG[0]
+
   return (
     <>
       <section className="hero">
@@ -200,15 +194,23 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
           <p className="eyebrow">BPSC TRE 4.0 · AUTHENTIC PYQ PRACTICE COMPANION</p>
           <h1>{t.hero}</h1>
           <p className="lead">
-            Master 100% genuine BPSC TRE 1.0, 2.0 & 3.0 question booklets. Practice with in-question bilingual toggle (`EN` ⇄ `हिन्दी`), authentic 5-option format, and verified exam setter explanations.
+            Practice {totalQuestions}+ genuine questions from official BPSC TRE 1.0, 2.0 & 3.0 master question booklets.
+            Features in-question bilingual toggle (`EN` ⇄ `हिन्दी`), authentic 5-option format (A, B, C, D, E), and exam setter solutions.
           </p>
           <div className="button-row">
-            <button className="primary" onClick={() => setRoute('/app?category=qualifying')}>
+            <button
+              className="primary"
+              onClick={() => {
+                prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-paper-set2-40q')
+                prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Set 2 (40Q)')
+                setRoute('/app/practice')
+              }}
+            >
               <Icon name="book" />
-              {lang === 'hi' ? 'अर्हता परीक्षा सेट 2 (40 प्रश्न) शुरू करें' : 'Practice Qualifying Paper Set 2 (40Q)'}
+              {lang === 'hi' ? 'भाषा अर्हता सेट 2 (40 प्रश्न) शुरू करें' : 'Start Language Qualifying Set 2 (40Q)'}
             </button>
-            <button className="text-button" onClick={() => setRoute('/pyq')}>
-              Browse previous papers <Icon name="arrow" />
+            <button className="text-button" onClick={() => setRoute('/app')}>
+              Browse all {SETS_CATALOG.length} question sets ({totalQuestions}Q) <Icon name="arrow" />
             </button>
           </div>
           <p className="micro">No login required · 100% Free · Saves your progress locally</p>
@@ -216,19 +218,25 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
         <aside className="hero-paper">
           <div className="paper-top">
             <span>Part-I Qualifying Paper</span>
-            <b>40 Questions</b>
+            <b>{defaultSet?.question_count || 40} Questions</b>
           </div>
-          <h3>Language Practice Set 2</h3>
+          <h3>{defaultSet?.title || 'Language Practice Set 2'}</h3>
           <p>English (Q1–15) + General Hindi (Q16–40)</p>
           <div className="mini-progress">
             <i style={{ width: '40%' }} />
           </div>
           <div className="paper-bottom">
             <span>Min. Qualifying Criteria</span>
-            <b>30% Marks</b>
+            <b>30% Marks (12/40)</b>
           </div>
-          <button onClick={() => setRoute('/app?category=qualifying')}>
-            Start 40Q Practice Now <Icon name="arrow" />
+          <button
+            onClick={() => {
+              prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-paper-set2-40q')
+              prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Set 2 (40Q)')
+              setRoute('/app/practice')
+            }}
+          >
+            Start Practice Now <Icon name="arrow" />
           </button>
         </aside>
       </section>
@@ -236,22 +244,29 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
       <section className="section">
         <div className="section-head">
           <div>
-            <p className="eyebrow">START PRACTICE IN TWO STEPS</p>
+            <p className="eyebrow">SELECT EXAM SECTION</p>
             <h2>{t.choose}</h2>
           </div>
-          <p>Choose an exam section, then select a question set.</p>
+          <p>Choose an exam section to explore authentic question sets.</p>
         </div>
         <div className="category-grid">
-          {categories.map((c, i) => (
-            <button className="category" onClick={() => setRoute(`/app?category=${c.id}`)} key={c.id}>
-              <span className={'cat-icon c' + (i % 4)}>{['अ', 'G', 'ह', 'A', '+'][i]}</span>
-              <b>{lang === 'hi' ? c.hi : c.name}</b>
-              <small>{c.desc}</small>
-              <i>
-                <Icon name="arrow" />
-              </i>
-            </button>
-          ))}
+          {SECTIONS.map((sec, i) => {
+            const setsInSection = SETS_CATALOG.filter(s => s.section === sec.id)
+            const countQ = setsInSection.reduce((acc, s) => acc + s.question_count, 0)
+            return (
+              <button className="category" onClick={() => setRoute(`/app?category=${sec.id}`)} key={sec.id}>
+                <span className={'cat-icon c' + i}>{sec.icon}</span>
+                <b>{lang === 'hi' ? sec.hi : sec.name}</b>
+                <small>{sec.desc}</small>
+                <div style={{ marginTop: '14px', fontSize: '12px', fontWeight: 600, color: '#147d75' }}>
+                  {setsInSection.length} Sets Available · {countQ} Questions
+                </div>
+                <i>
+                  <Icon name="arrow" />
+                </i>
+              </button>
+            )
+          })}
         </div>
       </section>
 
@@ -278,22 +293,45 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
 
 function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string) => void; initial: string | null }) {
   const t = copy[lang]
-  const [category, setCategory] = useState(initial || 'qualifying')
-  const [subject, setSubject] = useState('')
-  const cat = categories.find(x => x.id === category) || categories[0]
+  const [category, setCategory] = useState<string>(initial || '')
+  const [selectedSet, setSelectedSet] = useState<SetMeta | null>(null)
 
   useEffect(() => {
-    if (category) prefs.set('lastCategory', category)
+    if (initial) {
+      setCategory(initial)
+      setSelectedSet(null)
+    }
+  }, [initial])
+
+  const activeSection = SECTIONS.find(x => x.id === category)
+  const availableSets = useMemo(() => {
+    if (!category) return SETS_CATALOG
+    return SETS_CATALOG.filter(s => s.section === category)
   }, [category])
 
   return (
     <main className="app-shell">
       <aside className="side">
-        <p className="side-label">EXAM PRACTICE</p>
-        <button className="side-active" onClick={() => setRoute('/app')}>
+        <p className="side-label">EXAM SECTIONS</p>
+        <button className={!category ? 'side-active' : ''} onClick={() => { setCategory(''); setSelectedSet(null) }}>
           <Icon name="book" />
-          Practice
+          All Sets ({SETS_CATALOG.length})
         </button>
+        {SECTIONS.map(sec => (
+          <button
+            key={sec.id}
+            className={category === sec.id ? 'side-active' : ''}
+            onClick={() => {
+              setCategory(sec.id)
+              setSelectedSet(null)
+            }}
+          >
+            <Icon name="book" />
+            {sec.name.split(' ')[0]} {sec.name.split(' ')[1]}
+          </button>
+        ))}
+        <div style={{ margin: '18px 0', borderTop: '1px solid #e4e8eb' }} />
+        <p className="side-label">PERFORMANCE</p>
         <button onClick={() => setRoute('/app/analysis')}>
           <Icon name="chart" />
           Analysis
@@ -303,43 +341,65 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
           Discussions
         </button>
         <div className="guest">
-          <b>Guest Mode Active</b>
-          <span>Your question attempts and topic mastery are saved locally in your browser.</span>
+          <b>Client-Side Mode Active</b>
+          <span>Your question attempts, timer, and scores are stored safely on your device.</span>
         </div>
       </aside>
 
       <section className="app-content">
         <p className="eyebrow">BPSC TRE 4.0 · PRACTICE SETUP</p>
-        <h1>{!category ? t.choose : !subject ? t.chooseSub : t.action}</h1>
+        <h1>
+          {!category
+            ? t.choose
+            : !selectedSet
+            ? activeSection ? (lang === 'hi' ? activeSection.hi : activeSection.name) : t.chooseSub
+            : selectedSet.title}
+        </h1>
 
+        {/* 1. Category Selector */}
         {!category && (
           <div className="category-grid compact">
-            {categories.map((c, i) => (
-              <button className="category" onClick={() => setCategory(c.id)} key={c.id}>
-                <span className={'cat-icon c' + (i % 4)}>{['अ', 'G', 'ह', 'A', '+'][i]}</span>
-                <b>{lang === 'hi' ? c.hi : c.name}</b>
-                <small>{c.desc}</small>
-              </button>
-            ))}
+            {SECTIONS.map((sec, i) => {
+              const count = SETS_CATALOG.filter(s => s.section === sec.id).length
+              const totalQ = SETS_CATALOG.filter(s => s.section === sec.id).reduce((sum, s) => sum + s.question_count, 0)
+              return (
+                <button className="category" onClick={() => setCategory(sec.id)} key={sec.id}>
+                  <span className={'cat-icon c' + (i % 4)}>{sec.icon}</span>
+                  <b>{lang === 'hi' ? sec.hi : sec.name}</b>
+                  <small>{sec.desc}</small>
+                  <div style={{ marginTop: '12px', fontSize: '12px', fontWeight: 600, color: '#147d75' }}>
+                    {count} Sets ({totalQ} Questions)
+                  </div>
+                </button>
+              )
+            })}
           </div>
         )}
 
-        {category && !subject && (
+        {/* 2. Sets List in Selected Category */}
+        {category && !selectedSet && (
           <>
             <button className="back" onClick={() => setCategory('')}>
-              ← Change section / category
+              ← Change exam section
             </button>
             <div className="subject-list">
-              {cat.subjects.map(s => (
+              {availableSets.map(s => (
                 <button
                   onClick={() => {
-                    setSubject(s)
-                    prefs.set('lastSubject', s)
+                    setSelectedSet(s)
                   }}
-                  key={s}
+                  key={s.id}
+                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '16px 20px' }}
                 >
-                  <span>{s.slice(0, 1)}</span>
-                  <b>{s}</b>
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '14px' }}>
+                    <span>{s.title.slice(0, 1)}</span>
+                    <div style={{ textAlign: 'left' }}>
+                      <b style={{ fontSize: '15px' }}>{s.title}</b>
+                      <div style={{ fontSize: '12px', color: '#667085', marginTop: '3px' }}>
+                        {s.question_count} Questions · 5 Options · Bilingual (EN/हिन्दी)
+                      </div>
+                    </div>
+                  </div>
                   <Icon name="arrow" />
                 </button>
               ))}
@@ -347,29 +407,37 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
           </>
         )}
 
-        {subject && (
+        {/* 3. Ready to Practice Confirmation */}
+        {selectedSet && (
           <>
-            <button className="back" onClick={() => setSubject('')}>
-              ← Change question set
+            <button className="back" onClick={() => setSelectedSet(null)}>
+              ← Back to {activeSection?.name || 'question sets'}
             </button>
             <div className="decision">
               <div>
-                <p className="eyebrow">{subject.toUpperCase()}</p>
-                <h2>Ready to practice.</h2>
+                <p className="eyebrow">{selectedSet.section_name.toUpperCase()}</p>
+                <h2>{selectedSet.title}</h2>
                 <p>
-                  Authentic BPSC PYQs with 5 options, official answer keys, and bilingual toggle. Qualifying pass mark: 30%.
+                  Authentic BPSC Previous Year Questions with 5-Option format, bilingual toggle on each question card, and verified exam setter explanations.
+                  {selectedSet.section === 'qualifying' && ' Qualifying Pass Criteria: Minimum 30% marks.'}
                 </p>
+                <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>
+                  <span className="source-tag">Total: {selectedSet.question_count} Questions</span>
+                  <span className="source-tag">5 Options (A to E)</span>
+                  <span className="source-tag">No Negative Marking</span>
+                </div>
               </div>
               <div className="decision-actions">
                 <button
                   className="primary"
                   onClick={() => {
-                    prefs.set('lastSubject', subject)
+                    prefs.set('currentSetId', selectedSet.id)
+                    prefs.set('lastSubject', selectedSet.title)
                     setRoute('/app/practice')
                   }}
                 >
                   <Icon name="book" />
-                  {t.startPractice}
+                  {t.startPractice} ({selectedSet.question_count}Q)
                 </button>
                 <button className="secondary" onClick={() => setRoute('/app/analysis')}>
                   <Icon name="chart" />
@@ -386,15 +454,17 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
 
 function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void }) {
   const t = copy[lang]
-  const subject = prefs.get('lastSubject', 'Language Practice Set 2 (40Q)')
-  const currentQuestions = useMemo(() => getQuestionsForSubject(subject), [subject])
+  const currentSetId = prefs.get<string>('currentSetId', SETS_CATALOG[0]?.id || '')
+  const activeSet = SETS_CATALOG.find(s => s.id === currentSetId) || SETS_CATALOG[0]
+  const currentQuestions: QuestionItem[] = useMemo(() => {
+    return SETS_DATA[activeSet.id] || []
+  }, [activeSet])
 
   const [index, setIndex] = useState(0)
-  const [answers, setAnswers] = useState<Record<number, number>>(() => prefs.get('draft', {}))
-  const [flags, setFlags] = useState<number[]>(() => prefs.get('flags', []))
-  const [seconds, setSeconds] = useState(() => prefs.get('elapsed', 0))
+  const [answers, setAnswers] = useState<Record<number, number>>(() => prefs.get(`draft_${activeSet.id}`, {}))
+  const [flags, setFlags] = useState<number[]>(() => prefs.get(`flags_${activeSet.id}`, []))
+  const [seconds, setSeconds] = useState(() => prefs.get(`elapsed_${activeSet.id}`, 0))
   const [submitted, setSubmitted] = useState(false)
-  // Per-question bilingual toggle state
   const [qLang, setQLang] = useState<'en' | 'hi'>(lang)
 
   useEffect(() => {
@@ -403,15 +473,25 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
   }, [])
 
   useEffect(() => {
-    prefs.set('draft', answers)
-    prefs.set('flags', flags)
-    prefs.set('elapsed', seconds)
-  }, [answers, flags, seconds])
+    prefs.set(`draft_${activeSet.id}`, answers)
+    prefs.set(`flags_${activeSet.id}`, flags)
+    prefs.set(`elapsed_${activeSet.id}`, seconds)
+  }, [answers, flags, seconds, activeSet.id])
 
-  // Sync default qLang when app language switches
   useEffect(() => {
     setQLang(lang)
   }, [lang])
+
+  if (!currentQuestions || currentQuestions.length === 0) {
+    return (
+      <main className="static">
+        <h1>No questions found for this set</h1>
+        <button className="primary" onClick={() => setRoute('/app')}>
+          Browse other sets
+        </button>
+      </main>
+    )
+  }
 
   const q = currentQuestions[index] || currentQuestions[0]
   const done = Object.keys(answers).length
@@ -424,7 +504,8 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
       [
         {
           completedAt: new Date().toISOString(),
-          subject,
+          subject: activeSet.title,
+          setId: activeSet.id,
           score,
           total: currentQuestions.length,
           seconds,
@@ -434,7 +515,7 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
         ...history
       ].slice(0, 30)
     )
-    prefs.set('draft', {})
+    prefs.set(`draft_${activeSet.id}`, {})
     setSubmitted(true)
   }
 
@@ -442,7 +523,7 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
     <main className="exam">
       <div className="exam-bar">
         <button className="wordmark" onClick={() => setRoute('/app')}>
-          TRE Ready · {subject}
+          TRE Ready · {activeSet.title}
         </button>
         <div className="exam-meta">
           <span>
@@ -459,19 +540,28 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
       </div>
 
       {submitted ? (
-        <Results questionsList={currentQuestions} answers={answers} seconds={seconds} setRoute={setRoute} subject={subject} />
+        <Results
+          questionsList={currentQuestions}
+          answers={answers}
+          seconds={seconds}
+          setRoute={setRoute}
+          activeSet={activeSet}
+        />
       ) : (
         <div className="exam-body">
           <section className="question-area">
             <div className="question-top">
               <p>
-                {t.question} {index + 1} of {currentQuestions.length} <span>· {q.topic}</span>
+                {t.question} {index + 1} of {currentQuestions.length}
               </p>
               <div className="q-header-actions">
                 <button className="lang-toggle-btn" onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}>
                   🌐 {qLang === 'en' ? 'हिन्दी में देखें' : 'View in English'}
                 </button>
-                <button className={flags.includes(q.id) ? 'flagged' : ''} onClick={() => setFlags(f => (f.includes(q.id) ? f.filter(x => x !== q.id) : [...f, q.id]))}>
+                <button
+                  className={flags.includes(q.id) ? 'flagged' : ''}
+                  onClick={() => setFlags(f => (f.includes(q.id) ? f.filter(x => x !== q.id) : [...f, q.id]))}
+                >
                   <Icon name="flag" />
                   {t.mark}
                 </button>
@@ -488,7 +578,11 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
 
             <div className="options">
               {q.options.map((o, i) => (
-                <button key={o + i} className={answers[q.id] === i ? 'selected' : ''} onClick={() => setAnswers(a => ({ ...a, [q.id]: i }))}>
+                <button
+                  key={o + i}
+                  className={answers[q.id] === i ? 'selected' : ''}
+                  onClick={() => setAnswers(a => ({ ...a, [q.id]: i }))}
+                >
                   <b>{String.fromCharCode(65 + i)}</b>
                   <span>{o}</span>
                 </button>
@@ -517,7 +611,9 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
               {currentQuestions.map((x, i) => (
                 <button
                   key={x.id}
-                  className={`${i === index ? 'current' : ''} ${answers[x.id] !== undefined ? 'answered' : ''} ${flags.includes(x.id) ? 'review' : ''}`}
+                  className={`${i === index ? 'current' : ''} ${answers[x.id] !== undefined ? 'answered' : ''} ${
+                    flags.includes(x.id) ? 'review' : ''
+                  }`}
                   onClick={() => setIndex(i)}
                 >
                   {i + 1}
@@ -537,17 +633,17 @@ function Results({
   answers,
   seconds,
   setRoute,
-  subject
+  activeSet
 }: {
   questionsList: QuestionItem[]
   answers: Record<number, number>
   seconds: number
   setRoute: (s: string) => void
-  subject: string
+  activeSet: SetMeta
 }) {
   const score = questionsList.filter(q => answers[q.id] === q.answer).length
   const pct = Math.round((score / questionsList.length) * 100)
-  const isQualifying = subject.includes('Qualifying') || subject.includes('Language')
+  const isQualifying = activeSet.section === 'qualifying'
   const isPassed = pct >= 30
 
   return (
@@ -580,17 +676,23 @@ function Results({
           return (
             <article key={q.id} className={isCorrect ? 'correct' : 'incorrect'}>
               <span>
-                {isCorrect ? '✓ Correct' : '✗ Incorrect / Review Needed'} · {q.part} · Question {q.id}
+                {isCorrect ? '✓ Correct' : '✗ Incorrect / Review Needed'} · Question {q.id}
               </span>
               <span className="source-tag">Source: {q.source}</span>
               <h3>
                 {q.en}
-                {q.hi !== q.en && <span style={{ display: 'block', fontSize: '14px', color: '#667085', marginTop: '4px' }}>{q.hi}</span>}
+                {q.hi !== q.en && (
+                  <span style={{ display: 'block', fontSize: '14px', color: '#667085', marginTop: '4px' }}>
+                    {q.hi}
+                  </span>
+                )}
               </h3>
 
               <p>
                 <b>Your choice:</b>{' '}
-                {answers[q.id] !== undefined ? `(${String.fromCharCode(65 + answers[q.id])}) ${q.options[answers[q.id]]}` : 'Not attempted'}
+                {answers[q.id] !== undefined
+                  ? `(${String.fromCharCode(65 + answers[q.id])}) ${q.options[answers[q.id]]}`
+                  : 'Not attempted'}
               </p>
               <p style={{ color: '#147d75' }}>
                 <b>Official Answer:</b> ({q.answer_letter}) {q.answer_text || q.options[q.answer]}
@@ -656,29 +758,33 @@ function Analysis({ setRoute }: { setRoute: (s: string) => void }) {
 
       <section className="analysis-card">
         <div>
-          <h2>Qualifying & Core Topic Breakdown</h2>
-          <p>Mastery indicators for BPSC TRE 4.0.</p>
+          <h2>Exam Section Performance</h2>
+          <p>Mastery indicators across BPSC TRE 4.0 sections.</p>
         </div>
-        {['English Language (Qualifying)', 'General Hindi (Qualifying)', 'Indian Polity', 'Bihar GK', 'General Science'].map((x, i) => {
-          const value = latest ? (i === 0 ? Math.min(100, accuracy + 5) : i === 1 ? accuracy : i === 2 ? 75 : 60) : 0
+        {SECTIONS.map((sec, i) => {
+          const secAttempts = attempts.filter(a => {
+            const meta = SETS_CATALOG.find(s => s.id === a.setId)
+            return meta?.section === sec.id
+          })
+          const secAcc = secAttempts.length
+            ? Math.round((secAttempts.reduce((sum, a) => sum + (a.score / a.total), 0) / secAttempts.length) * 100)
+            : 0
           return (
-            <div className="topic" key={x}>
-              <span>{x}</span>
+            <div className="topic" key={sec.id}>
+              <span>{sec.name.split('(')[0].trim()}</span>
               <div>
-                <i style={{ width: `${value}%` }} />
+                <i style={{ width: `${secAttempts.length ? secAcc : 0}%` }} />
               </div>
-              <b>{latest ? `${value}%` : 'Not started'}</b>
+              <b>{secAttempts.length ? `${secAcc}%` : 'Not started'}</b>
             </div>
           )
         })}
         <div className="recommend">
           <b>Recommended Revision</b>
           <span>
-            {latest && accuracy < 70
-              ? 'Re-attempt Part-I Qualifying Set 2 to strengthen 5-option elimination on Options (D) and (E).'
-              : 'Try a full 40Q timed mock test to build speed.'}
+            Practice Part-I Qualifying Set 2 and General Studies Set 1 to strengthen elimination techniques on Option (D) More than one and (E) None of the above.
           </span>
-          <button onClick={() => setRoute('/app?category=qualifying')}>Practice Qualifying Set 2 →</button>
+          <button onClick={() => setRoute('/app?category=qualifying')}>Practice Qualifying Sets →</button>
         </div>
       </section>
 
@@ -686,7 +792,6 @@ function Analysis({ setRoute }: { setRoute: (s: string) => void }) {
         className="clear"
         onClick={() => {
           localStorage.removeItem(`${KEY}:attempts`)
-          localStorage.removeItem(`${KEY}:draft`)
           location.reload()
         }}
       >
@@ -709,7 +814,7 @@ function Discussions({ setRoute }: { setRoute: (s: string) => void }) {
       name: 'Anjali Kumar',
       tag: 'Expert reviewed',
       votes: 28,
-      text: 'For Question 16: "सम् + उत् + ज्वल = समुज्ज्वल". Always look for the halant on "सम्". Without halant, "सम" is incorrect.'
+      text: 'For Sandhi questions: "सम् + उत् + ज्वल = समुज्ज्वल". Always look for the halant on "सम्". Without halant, "सम" is incorrect.'
     },
     {
       name: 'Ravi S.',
@@ -743,7 +848,9 @@ function Discussions({ setRoute }: { setRoute: (s: string) => void }) {
           <div>
             <div className="post-head">
               <b>{r.name}</b>
-              <span className={r.tag.includes('Official') ? 'official' : r.tag.includes('Expert') ? 'expert' : 'student'}>{r.tag}</span>
+              <span className={r.tag.includes('Official') ? 'official' : r.tag.includes('Expert') ? 'expert' : 'student'}>
+                {r.tag}
+              </span>
             </div>
             <p>{r.text}</p>
             <div className="post-actions">
@@ -761,10 +868,10 @@ function Static({ page, setRoute }: { page: string; setRoute: (x: string) => voi
     page === '/pyq'
       ? [
           'Previous-Year Question Papers (TRE 1, 2 & 3)',
-          'All 149 official master question booklets from BPSC TRE 1.0 (2023), TRE 2.0 (2023), and TRE 3.0 (2024) are catalogued and digitized.'
+          'All 149 official master question booklets from BPSC TRE 1.0 (2023), TRE 2.0 (2023), and TRE 3.0 (2024) are catalogued. Direct practice sets are accessible below.'
         ]
       : page === '/about'
-      ? ['Focused preparation for Bihar teachers', 'TRE Ready is designed around a simple rule: less navigation, 100% authentic practice.']
+      ? ['Focused preparation for Bihar teachers', 'TRE Ready is designed around a simple rule: zero clutter, authentic 5-option BPSC questions, and instant bilingual toggle.']
       : ['Practice categories', 'Go from category to subject to an authentic practice session in two quick choices.']
 
   return (
@@ -772,8 +879,8 @@ function Static({ page, setRoute }: { page: string; setRoute: (x: string) => voi
       <p className="eyebrow">BPSC TRE 4.0</p>
       <h1>{content[0]}</h1>
       <p className="lead">{content[1]}</p>
-      <button className="primary" onClick={() => setRoute('/app?category=qualifying')}>
-        Start Qualifying Paper (40Q)
+      <button className="primary" onClick={() => setRoute('/app')}>
+        Browse All Practice Sets ({SETS_CATALOG.length})
       </button>
     </main>
   )
@@ -820,8 +927,8 @@ function Root() {
       <Header lang={lang} setLang={setLang} route={route} setRoute={setRoute} />
       {body}
       <footer>
-        <b>TRE Ready</b>
-        <span>BPSC TRE 4.0 Bilingual Practice Platform · 100% Genuine PYQ</span>
+        <b>TRE Ready · BPSC TRE 4.0</b>
+        <span>Bilingual Practice Platform · 100% Genuine PYQ with 5 Options</span>
       </footer>
     </>
   )

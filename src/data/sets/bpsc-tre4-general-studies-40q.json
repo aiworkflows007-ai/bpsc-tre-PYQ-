@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-40q",
+  "title": "General Studies Practice Set 1 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre4-general-studies-40q.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "id": 1,
+      "source": "BPSC TRE 2.0 (Middle School) | Indian National Movement / Bihar History",
+      "en": "Who led the 1857 Revolt in Bihar?",
+      "hi": "1857 के विद्रोह के नेता बिहार में कौन थे?",
+      "options": [
+        "Mir Bakhsh",
+        "Babu Kunwar Singh",
+        "Birbhan Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Babu Kunwar Singh",
+      "explanation": "Babu Kunwar Singh of Jagdishpur (Bhojpur district) spearheaded the 1857 revolt in Bihar, leading armed resistance across Arrah, Patna, and Azamgarh until his death in April 1858.",
+      "tip": "Kunwar Singh is BPSC's most frequently tested freedom fighter; remember his brother Amar Singh led the rebellion after him in Kaimur hills."
+    },
+    {
+      "id": 2,
+      "source": "BPSC TRE 2.0 (Middle School) | Indian National Movement",
+      "en": "Which important event took place on 5th March, 1931?",
+      "hi": "5 मार्च, 1931 को कौन-सी महत्त्वपूर्ण घटना घटी?",
+      "options": [
+        "Gandhi-Irwin Pact",
+        "Gandhi attended the Round Table Conference",
+        "Karachi Congress",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Gandhi-Irwin Pact",
+      "explanation": "The historic Gandhi-Irwin Pact (also known as the Delhi Pact) was signed on 5th March 1931 between Mahatma Gandhi and Viceroy Lord Irwin, leading to the suspension of the Civil Disobedience Movement.",
+      "tip": "Chronology trap: Gandhi-Irwin Pact (5 March 1931) -> Execution of Bhagat Singh, Sukhdev & Rajguru (23 March 1931) -> Karachi Congress Session (26-31 March 1931)."
+    },
+    {
+      "id": 3,
+      "source": "BPSC TRE 2.0 (Middle School) | Indian National Movement",
+      "en": "When was the Poona Pact signed?",
+      "hi": "पूना समझौता कब हस्ताक्षरित हुआ था?",
+      "options": [
+        "24th September, 1932",
+        "24th September, 1930",
+        "26th September, 1930",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "24th September, 1932",
+      "explanation": "The Poona Pact was signed on 24th September 1932 at Yerwada Central Jail, Pune, between Dr. B.R. Ambedkar and Madan Mohan Malaviya (representing caste Hindus) to abandon separate electorates for depressed classes.",
+      "tip": "BPSC often tests exact dates for major pacts; remember Poona Pact followed Ramsay MacDonald's Communal Award of August 1932."
+    },
+    {
+      "id": 4,
+      "source": "BPSC TRE 2.0 (Middle School) | National Movement & Slogans",
+      "en": "Who gave the famous slogan 'Inquilab Zindabad'?",
+      "hi": "'इंकलाब ज़िन्दाबाद' का प्रसिद्ध नारा किसने दिया था?",
+      "options": [
+        "Hakim Ajmal Khan",
+        "Chandra Shekhar Azad",
+        "Hasrat Mohani",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Hasrat Mohani",
+      "explanation": "The slogan 'Inquilab Zindabad' was originally coined in 1921 by the Urdu poet and freedom fighter Maulana Hasrat Mohani. It was later popularized throughout India by Bhagat Singh.",
+      "tip": "BPSC official key strictly credits the creation/coining of 'Inquilab Zindabad' to Maulana Hasrat Mohani."
+    },
+    {
+      "id": 5,
+      "source": "BPSC TRE 2.0 (Middle School) | General Science: Physics / Chemistry",
+      "en": "In nuclear reactors, D2O is used as",
+      "hi": "नाभिकीय रिएक्टरों में D2O का उपयोग होता है",
+      "options": [
+        "fuel",
+        "source of deuterons",
+        "moderator",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "moderator",
+      "explanation": "Heavy water (D2O / Deuterium oxide) functions as a moderator in thermal nuclear reactors to slow down fast neutrons to thermal velocities for sustaining chain fission.",
+      "tip": "Moderator = slows down neutrons (D2O, Graphite); Control rods = absorb excess neutrons (Cadmium, Boron)."
+    },
+    {
+      "id": 6,
+      "source": "BPSC TRE 2.0 (Middle School) | General Science: Biology",
+      "en": "The study of inheritance from one generation to another is known as",
+      "hi": "एक पीढ़ी से दूसरी पीढ़ी में वंशागति के अध्ययन को कहते हैं",
+      "options": [
+        "genetics",
+        "microbiology",
+        "cytology",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "genetics",
+      "explanation": "Genetics is the biological branch dealing with the principles of heredity and the variation of inherited characteristics from parents to offspring.",
+      "tip": "Father of Genetics = Gregor Johann Mendel; Cytology = study of cells; Microbiology = study of microorganisms."
+    },
+    {
+      "id": 7,
+      "source": "BPSC TRE 2.0 (Middle School) | General Science: Biology",
+      "en": "Lacteals are concerned with",
+      "hi": "लैक्टियल्स संबंधित हैं",
+      "options": [
+        "production of milk",
+        "secretion of lactic acid",
+        "absorption of fats",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "absorption of fats",
+      "explanation": "Lacteals are specialized lymphatic capillaries located inside the intestinal villi that absorb dietary dietary lipids and fat-soluble vitamins.",
+      "tip": "Do not confuse 'lacteal' with lactation or milk production; in digestive physiology, lacteals exclusively absorb emulsified fats."
+    },
+    {
+      "id": 8,
+      "source": "BPSC TRE 2.0 (Middle School) | General Science: Biology",
+      "en": "The enzyme which is mixed with food in our mouth is",
+      "hi": "वह एंजाइम, जो हमारे मुँह में भोजन के साथ मिलता है, है",
+      "options": [
+        "pepsin",
+        "peroxidase",
+        "amylase",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "amylase",
+      "explanation": "Salivary amylase (ptyalin) is secreted by the salivary glands in the buccal cavity, initiating the breakdown of dietary starch into maltose.",
+      "tip": "Pepsin acts in the stomach in an acidic medium; Amylase acts in the mouth at near-neutral pH (6.8)."
+    },
+    {
+      "id": 9,
+      "source": "BPSC TRE 2.0 (Middle School) | General Science: Chemistry",
+      "en": "Al2O3 . 2SiO2 . 2H2O is the chemical formula for",
+      "hi": "Al2O3 . 2SiO2 . 2H2O रासायनिक सूत्र है",
+      "options": [
+        "monazite",
+        "china clay",
+        "sand",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "china clay",
+      "explanation": "Hydrated aluminium silicate (Al2O3 . 2SiO2 . 2H2O) is the mineral kaolinite, commonly known in commerce as china clay.",
+      "tip": "Sand = SiO2 (Silica); Bauxite = Al2O3 . 2H2O; China Clay (Kaolin) includes the silicate component 2SiO2."
+    },
+    {
+      "id": 10,
+      "source": "BPSC TRE 2.0 (Middle School) | General Science: Botany",
+      "en": "Which pigment is essential for nitrogen fixation by leguminous plants?",
+      "hi": "दलहनी पौधों में नाइट्रोजन स्थिरीकरण के लिए कौन-सा वर्णक आवश्यक है?",
+      "options": [
+        "Anthocyanin",
+        "Leghaemoglobin",
+        "Phycocyanin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Leghaemoglobin",
+      "explanation": "Leghaemoglobin acts as an oxygen scavenger in the root nodules of legumes, protecting the oxygen-sensitive nitrogenase enzyme during biological nitrogen fixation.",
+      "tip": "Nitrogenase requires strictly anaerobic conditions; the pinkish-red pigment leghaemoglobin absorbs free oxygen."
+    },
+    {
+      "id": 11,
+      "source": "BPSC TRE 2.0 (Middle School) | Elementary Mathematics",
+      "en": "How many prime numbers are there between 1 and 50?",
+      "hi": "1 और 50 के बीच कितनी अभाज्य संख्याएँ हैं?",
+      "options": [
+        "10",
+        "15",
+        "21",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "15",
+      "explanation": "The prime numbers between 1 and 50 are: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, making exactly 15 prime numbers.",
+      "tip": "Standard prime counts to memorize: 1 to 50 = 15 primes; 51 to 100 = 10 primes; total 1 to 100 = 25 primes."
+    },
+    {
+      "id": 12,
+      "source": "BPSC TRE 2.0 (Middle School) | Elementary Mathematics / Algebra",
+      "en": "In a shop, the cost of 2 pencils and 3 erasers is Rs 9 and the cost of 4 pencils and 6 erasers is Rs 18. What is the cost of each pencil and each eraser?",
+      "hi": "एक दुकान में 2 पेंसिल और 3 रबर की कीमत ₹9 तथा 4 पेंसिल और 6 रबर की कीमत ₹18 है। प्रत्येक पेंसिल और प्रत्येक रबर की कीमत क्या है?",
+      "options": [
+        "Cost of each pencil is Rs 1 and each eraser is Rs 2",
+        "Cost of each pencil is Rs 2 and each eraser is Rs 1",
+        "Cost of each pencil is Rs 3 and each eraser is Rs 1",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "The system has ratios a1/a2 = 2/4 = 1/2, b1/b2 = 3/6 = 1/2, c1/c2 = 9/18 = 1/2. Because lines coincide, infinite pairs exist, so unique prices cannot be determined.",
+      "tip": "When two linear equations are exact multiples of each other, they represent dependent coincident lines with infinite solutions; choose Option (E)."
+    },
+    {
+      "id": 13,
+      "source": "BPSC TRE 2.0 (Middle School) | Indian National Movement: Literature",
+      "en": "Who wrote the book 'India Divided'?",
+      "hi": "'इंडिया डिवाइडेड' नामक पुस्तक किसने लिखी थी?",
+      "options": [
+        "B. G. Tilak",
+        "Rajendra Prasad",
+        "Penderel Moon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajendra Prasad",
+      "explanation": "Dr. Rajendra Prasad wrote 'India Divided' in 1946 while imprisoned during the Quit India movement, critically examining the communal question and the Pakistan scheme.",
+      "tip": "BPSC loves books written by Bihar leaders: 'India Divided' and 'Atmakatha' were authored by Dr. Rajendra Prasad."
+    },
+    {
+      "id": 14,
+      "source": "BPSC TRE 2.0 (Middle School) | National Movement: Literature & Peasant Struggles",
+      "en": "Who wrote the play 'Neel Darpan' describing the plight of the Indigo cultivators of Bengal and Bihar?",
+      "hi": "बंगाल एवं बिहार के नील उत्पादक किसानों की दुर्दशा दर्शाने वाले नाटक 'नील दर्पण' के लेखक कौन हैं?",
+      "options": [
+        "Mahatma Gandhi",
+        "Acharya Kripalani",
+        "Dinabandhu Mitra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Dinabandhu Mitra",
+      "explanation": "Dinabandhu Mitra authored the Bengali play 'Neel Darpan' (The Mirror of Indigo) in 1858-59, powerfully exposing the British planters' exploitation during the Indigo Revolt.",
+      "tip": "Remember: The English translation of Neel Darpan was published by Rev. James Long and translated by Michael Madhusudan Dutt."
+    },
+    {
+      "id": 15,
+      "source": "BPSC TRE 2.0 (Middle School) | Bihar History: Revolutionary Nationalism",
+      "en": "Who established the branch of Anushilan Samiti at Patna in 1913?",
+      "hi": "1913 में पटना में अनुशीलन समिति की एक शाखा किसने स्थापित की थी?",
+      "options": [
+        "Sachindra Nath Sanyal",
+        "Bankim Chandra Mitra",
+        "Raghubir Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Sachindra Nath Sanyal",
+      "explanation": "Revolutionary leader Sachindra Nath Sanyal founded the Patna branch of the Anushilan Samiti in 1913 to propagate revolutionary nationalism among Bihari youth.",
+      "tip": "Sachindra Nath Sanyal was also the author of 'Bandi Jeevan' (the Bible of Indian revolutionaries) and co-founder of HRA."
+    },
+    {
+      "id": 16,
+      "source": "BPSC TRE 2.0 (Middle School / TGT) | Indian National Congress Sessions",
+      "en": "Gaya Session of Indian National Congress was held in which year?",
+      "hi": "भारतीय राष्ट्रीय काँग्रेस का गया अधिवेशन किस वर्ष आयोजित हुआ था?",
+      "options": [
+        "1922",
+        "1933",
+        "1946",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "1922",
+      "explanation": "The 37th session of the Indian National Congress was held in Gaya (Bihar) in December 1922 under the presidency of Deshbandhu Chittaranjan Das.",
+      "tip": "Three INC Sessions in Bihar: 1912 Bankipore (Patna) under R.N. Mudholkar; 1922 Gaya under C.R. Das; 1940 Ramgarh under Abul Kalam Azad."
+    },
+    {
+      "id": 17,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | General Science: Chemistry",
+      "en": "The cans in which food is packed are coated with tin and not zinc because",
+      "hi": "खाद्य पदार्थों के डिब्बों पर टिन की परत चढ़ाई जाती है, जिंक की नहीं, क्योंकि",
+      "options": [
+        "tin is more reactive than zinc",
+        "zinc is more reactive than tin",
+        "zinc is costlier than tin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "zinc is more reactive than tin",
+      "explanation": "In the chemical reactivity series, Zinc is more electropositive and reactive than Tin; zinc would react with food organic acids to produce toxic compounds.",
+      "tip": "Electrochemical reactivity series position: Zn > Fe > Sn > Pb. Tin is less reactive and safely prevents food spoilage."
+    },
+    {
+      "id": 18,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | General Science: Biology",
+      "en": "The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is",
+      "hi": "वह प्रक्रिया, जिसमें प्रकाश-संश्लेषण के दौरान वायुमण्डलीय कार्बन डाइऑक्साइड को कार्बोहाइड्रेट में परिवर्तित किया जाता है, है",
+      "options": [
+        "oxidation",
+        "reduction",
+        "hydrolysis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "reduction",
+      "explanation": "During the dark reactions (Calvin cycle) of photosynthesis, CO2 molecules gain hydrogen atoms and electrons to form carbohydrates, which is chemically a reduction process.",
+      "tip": "Photosynthesis is overall a redox process: Water (H2O) is oxidized to oxygen, and Carbon Dioxide (CO2) is reduced to glucose."
+    },
+    {
+      "id": 19,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | General Science: Human Biology & Disease",
+      "en": "Trachoma disease is related to",
+      "hi": "ट्रैकोमा रोग का सम्बन्ध है",
+      "options": [
+        "lungs",
+        "ears",
+        "eyes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "eyes",
+      "explanation": "Trachoma is a contagious bacterial eye infection caused by Chlamydia trachomatis, leading to roughening of the inner eyelids and potential blindness.",
+      "tip": "Eye diseases frequently asked in BPSC: Trachoma, Cataract, Glaucoma, Conjunctivitis, and Astigmatism."
+    },
+    {
+      "id": 20,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | General Science: Physics",
+      "en": "Which of the following makes use of Newton's third law of motion?",
+      "hi": "निम्नलिखित में से कौन-सा न्यूटन के गति के तीसरे नियम का उपयोग करता है?",
+      "options": [
+        "Archery",
+        "Space rocket",
+        "Venturimeter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Both Archery (bow pushing arrow forward while arrow pushes back on string) and Space rocket propulsion (exhaust gases ejected backward exert forward thrust) operate on action-reaction.",
+      "tip": "Whenever at least two options are technically correct in BPSC, always mark Option (D) 'More than one of the above'."
+    },
+    {
+      "id": 21,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | Indian National Movement",
+      "en": "The Partition of Bengal was made effective on",
+      "hi": "बंगाल विभाजन किस तिथि को प्रभावी हुआ था?",
+      "options": [
+        "14 October, 1905",
+        "15 October, 1905",
+        "16 October, 1905",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "16 October, 1905",
+      "explanation": "Lord Curzon announced the partition earlier, but it officially came into effect on 16th October 1905, observed across Bengal as a day of national mourning and Raksha Bandhan.",
+      "tip": "Date sequence: 20 July 1905 (Partition announced) -> 7 August 1905 (Boycott resolution at Calcutta Town Hall) -> 16 October 1905 (Partition enforced)."
+    },
+    {
+      "id": 22,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | Indian National Movement",
+      "en": "The Quit India Resolution was adopted by the Congress in Bombay on",
+      "hi": "काँग्रेस द्वारा बम्बई में भारत छोड़ो प्रस्ताव कब पारित किया गया था?",
+      "options": [
+        "7 August, 1942",
+        "8 August, 1942",
+        "9 August, 1942",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "8 August, 1942",
+      "explanation": "The All-India Congress Committee officially ratified and adopted the historic 'Quit India' resolution on 8th August 1942 at Gowalia Tank Maidan, Bombay.",
+      "tip": "8 August 1942 = Resolution passed & 'Do or Die' call; 9 August 1942 = 'Operation Zero Hour' launched by British arresting top leaders."
+    },
+    {
+      "id": 23,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | Modern Indian History",
+      "en": "Queen Victoria's Proclamation was issued on which of the following dates?",
+      "hi": "महारानी विक्टोरिया की उद्घोषणा निम्नलिखित में से किस तिथि को जारी की गई थी?",
+      "options": [
+        "1 November, 1857",
+        "27 March, 1858",
+        "1 November, 1858",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "1 November, 1858",
+      "explanation": "Lord Canning read out Queen Victoria's historic Proclamation at a grand Darbar in Allahabad on 1st November 1858, transferring governance from the East India Company to the British Crown.",
+      "tip": "1 November 1858 at Allahabad Darbar: Canning became the first Viceroy of India, ending East India Company rule."
+    },
+    {
+      "id": 24,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | Modern Indian History: Personalities",
+      "en": "Who among the following became India's unofficial Ambassador to England?",
+      "hi": "निम्नलिखित में से कौन इंग्लैंड में भारत के अनौपचारिक राजदूत बने थे?",
+      "options": [
+        "Surendranath Banerjee",
+        "Dadabhai Naoroji",
+        "Swami Vivekananda",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dadabhai Naoroji",
+      "explanation": "Dadabhai Naoroji ('Grand Old Man of India') spent decades in London campaigning for Indian rights, founded the East India Association, and became known as the 'Unofficial Ambassador of India'.",
+      "tip": "Dadabhai Naoroji was also the first Indian elected to the British House of Commons (Finsbury Central, 1892) and propounded the 'Drain of Wealth' theory."
+    },
+    {
+      "id": 25,
+      "source": "BPSC TRE 2.0 (Senior Secondary / Secondary) | Constitutional Development / Freedom Movement",
+      "en": "Who described the Government of India Act, 1935 as a 'Charter of Slavery'?",
+      "hi": "भारत शासन अधिनियम, 1935 को किसने 'गुलामी का अधिकार-पत्र' कहा था?",
+      "options": [
+        "Mahatma Gandhi",
+        "Netaji Subhas Chandra Bose",
+        "Maulana Hasrat Mohani",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Pandit Jawaharlal Nehru characterized the Government of India Act 1935 as a 'new charter of slavery' and a machine with 'all brakes, but no engine'. Because Nehru is not in (A), (B), or (C), (E) is correct.",
+      "tip": "Classic BPSC trap: High-profile historical quotes often have the author missing from options (A, B, C) to test your confidence in Option (E)."
+    },
+    {
+      "id": 26,
+      "source": "BPSC TRE 2.0 (TGT / Middle School) | Indian National Movement: INA",
+      "en": "Who was the founder of 'Indian National Army (INA)'?('",
+      "hi": "इंडियन नेशनल आर्मी (INA)' के संस्थापक कौन थे?)",
+      "options": [
+        "Subhash Chandra Bose",
+        "Mohan Singh",
+        "Lala Lajpat Rai",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mohan Singh",
+      "explanation": "Captain Mohan Singh, a British Indian Army officer captured by Japanese forces in Malaya, originally conceived and established the First INA in 1942. Subhash Chandra Bose took over leadership in 1943.",
+      "tip": "Founder = Mohan Singh (with Rash Behari Bose); Supreme Commander / Reviver = Netaji Subhas Chandra Bose."
+    },
+    {
+      "id": 27,
+      "source": "BPSC TRE 2.0 (TGT / Middle School) | Modern Indian History: Literature",
+      "en": "Which revolt is mentioned in Bankim Chandra Chatterjee's novel, 'Anandamath'?",
+      "hi": "बंकिम चन्द्र चटर्जी के उपन्यास 'आनंदमठ' में किस विद्रोह का उल्लेख है?",
+      "options": [
+        "Sannyasi",
+        "Pagalpanthi",
+        "Indigo",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Sannyasi",
+      "explanation": "Bankim Chandra Chatterjee's famous novel 'Anandamath' (1882) is set against the backdrop of the Bengal Famine of 1770 and the Sannyasi Rebellion (1763–1800).",
+      "tip": "India's national song 'Vande Mataram' was originally composed by Bankim Chandra Chatterjee and included in this very novel 'Anandamath'."
+    },
+    {
+      "id": 28,
+      "source": "BPSC TRE 2.0 (TGT / Middle School) | Indian National Movement",
+      "en": "When were 'Swadeshi' and 'Boycott' first adopted as forms of struggle in India?",
+      "hi": "प्रथम बार संघर्ष के तरीकों के रूप में 'स्वदेशी' एवं 'बहिष्कार' भारत में कब अपनाया गया?",
+      "options": [
+        "Partition of Bengal",
+        "Home Rule Movement",
+        "Non-Cooperation Movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Partition of Bengal",
+      "explanation": "The methods of Swadeshi (indigenous goods) and Boycott (of foreign cloth and goods) were formally adopted nationwide for the first time during the anti-Partition of Bengal agitation in 1905.",
+      "tip": "Swadeshi & Boycott originated in 1905 (Swadeshi Movement); Non-Cooperation in 1920 scaled it up to include boycott of schools, courts, and titles."
+    },
+    {
+      "id": 29,
+      "source": "BPSC TRE 2.0 (TGT / Middle School) | Bihar History: Peasant Movements",
+      "en": "Who led the peasants of Bihar during the Non-Cooperation Movement?",
+      "hi": "असहयोग आन्दोलन के दौरान किसने बिहार में किसानों की अगुवाई की?",
+      "options": [
+        "Raj Kumar Shukla",
+        "Swami Vidyanand",
+        "Rajendra Prasad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swami Vidyanand",
+      "explanation": "Swami Vidyanand led the militant peasant agitation in North Bihar (especially Darbhanga Raj estates) during the Non-Cooperation Movement in 1919–1922.",
+      "tip": "Differentiate clearly: 1917 Champaran = Raj Kumar Shukla; 1919-22 Non-Cooperation peasants = Swami Vidyanand; 1929-36 Kisan Sabha = Swami Sahajanand Saraswati."
+    },
+    {
+      "id": 30,
+      "source": "BPSC TRE 2.0 (TGT / Middle School) | Social & Cultural Reform / Education",
+      "en": "Who founded Hindu College at Calcutta in 1817?",
+      "hi": "1817 में कलकत्ता में हिन्दू कॉलेज की स्थापना किसने की थी?",
+      "options": [
+        "Henry Vivian Derozio",
+        "David Hare",
+        "Jonathan Duncan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "David Hare",
+      "explanation": "Scottish watchmaker and philanthropist David Hare, in close collaboration with Raja Ram Mohan Roy and Radhakanta Deb, established Hindu College in Calcutta in 1817.",
+      "tip": "Jonathan Duncan founded Sanskrit College at Varanasi (1791); Derozio was a teacher at Hindu College who started the Young Bengal Movement."
+    },
+    {
+      "id": 31,
+      "source": "BPSC TRE 2.0 (TGT / Middle School) | British Colonial Policy / Congress",
+      "en": "Who among the following said that 'Congress is tottering to its fall and one of my great ambitions while in India is to assist it to a peaceful demise'?",
+      "hi": "इनमें से किसने कहा था कि 'काँग्रेस का महल लड़खड़ा रहा है और भारत में रहते हुए मेरी एक बड़ी महत्त्वाकांक्षा यह है कि मैं शान्ति के साथ इसे मरने में सहयोग दे सकूँ'?",
+      "options": [
+        "Dufferin",
+        "Minto",
+        "Curzon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Curzon",
+      "explanation": "Viceroy Lord Curzon wrote this famous hostile statement in a letter to the Secretary of State for India, Lord George Hamilton, in 1900.",
+      "tip": "Dufferin called Congress a 'microscopic minority'; Curzon declared his ambition to assist in its 'peaceful demise'."
+    },
+    {
+      "id": 32,
+      "source": "BPSC TRE 2.0 (TGT Science / Middle School) | General Science: Physics / Optics",
+      "en": "Monochromatic light enters from one medium to the other. Which one of the following properties does not change?",
+      "hi": "एकवर्णी प्रकाश एक माध्यम से दूसरे माध्यम में प्रवेश करता है। निम्नलिखित में से कौन-सा गुण नहीं बदलता है?",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Velocity",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Frequency",
+      "explanation": "Frequency is a characteristic property determined solely by the source of radiation; hence, upon refraction across media, frequency remains constant while velocity and wavelength change.",
+      "tip": "Refraction rule: Frequency (f) remains invariant; Velocity (v) and Wavelength (λ) change proportionally (v = fλ)."
+    },
+    {
+      "id": 33,
+      "source": "BPSC TRE 2.0 (Middle School) | Environmental Science: Pollution",
+      "en": "Which of the following gases is considered as atmospheric pollutant?",
+      "hi": "निम्नलिखित में से कौन-सी गैस वायुमण्डलीय प्रदूषक मानी जाती है?",
+      "options": [
+        "Argon",
+        "Oxygen",
+        "Sulpher dioxide",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Sulpher dioxide",
+      "explanation": "Sulphur dioxide (SO2), released primarily by fossil fuel combustion and smelters, is a toxic primary pollutant responsible for respiratory ailments and acid rain.",
+      "tip": "Nitrogen, Oxygen, and Argon constitute 99.9% of clean dry air; SO2, CO, and NOx are major atmospheric pollutants."
+    },
+    {
+      "id": 34,
+      "source": "BPSC TRE 2.0 (Middle School) | General Science: Physics / Radiation",
+      "en": "Which of the following is not electromagnetic?",
+      "hi": "निम्नलिखित में से कौन-सा विद्युत्-चुम्बकीय नहीं है?",
+      "options": [
+        "Gamma rays",
+        "Alpha rays",
+        "X-rays",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Alpha rays",
+      "explanation": "Alpha particles are particulate matter consisting of helium nuclei (2 protons + 2 neutrons), carrying charge +2e, whereas Gamma and X-rays are electromagnetic waves.",
+      "tip": "Electromagnetic: Radiowaves, Microwaves, Infrared, Visible, Ultraviolet, X-rays, Gamma rays. Particulate radiation: Alpha rays, Beta rays, Cathode rays."
+    },
+    {
+      "id": 35,
+      "source": "BPSC TRE 1.0 (PRT Class 1-5) | General Science: Physics",
+      "en": "The electric fuse works on the",
+      "hi": "विद्युत फ्यूज कार्य करता है",
+      "options": [
+        "Chemical effect of current",
+        "Magnetic effect of current",
+        "Heating effect of current",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Heating effect of current",
+      "explanation": "An electric fuse operates on Joule's heating effect (H = I^2 R t); when excessive current flows, excessive heat melts the low-melting-point fuse wire, breaking the circuit.",
+      "tip": "Fuse wire characteristics: High resistance and Low melting point (typically made of Tin-Lead alloy)."
+    },
+    {
+      "id": 36,
+      "source": "BPSC TRE 1.0 (PRT Class 1-5) | Bihar History: Peasant Leadership",
+      "en": "Who was the militant peasant leader of Bihar?",
+      "hi": "बिहार के जुझारू किसान नेता कौन थे?",
+      "options": [
+        "Raj Kumar Shukla",
+        "Swami Sahajanand Saraswati",
+        "Rajendra Prasad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swami Sahajanand Saraswati",
+      "explanation": "Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha (1929) and All India Kisan Sabha (1936), leading militant agrarian struggles against the Zamindari system.",
+      "tip": "Swami Sahajanand's journal was 'Hunkar', and his central ashram was at Bihta near Patna."
+    },
+    {
+      "id": 37,
+      "source": "BPSC TRE 1.0 (PRT Class 1-5) | Environment & Ecology",
+      "en": "The major and top source of oxygen in the atmosphere is",
+      "hi": "वायुमण्डल में ऑक्सीजन का सबसे प्रमुख और शीर्ष स्रोत है",
+      "options": [
+        "Photosynthesis by forest plants",
+        "Photosynthesis by oceanic plants",
+        "Photosynthesis by grassland ecosystem",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Photosynthesis by oceanic plants",
+      "explanation": "Marine phytoplankton and oceanic photosynthetic organisms produce between 50% to 70% of the Earth's atmospheric oxygen, exceeding terrestrial forests.",
+      "tip": "Do not select 'forest plants' (Option A); oceans and their marine microalgae produce more than half the globe's atmospheric oxygen."
+    },
+    {
+      "id": 38,
+      "source": "BPSC TRE 1.0 (PRT Class 1-5) | General Science: Botany",
+      "en": "Which one of the following is a plant hormone?",
+      "hi": "निम्नलिखित में से कौन-सा एक पादप हॉर्मोन है?",
+      "options": [
+        "Cytokinin",
+        "Insulin",
+        "Oestrogen",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Cytokinin",
+      "explanation": "Cytokinin is a vital phytohormone that promotes rapid cell division, shoot proliferation, and delays leaf senescence. Insulin and Oestrogen are animal/human hormones.",
+      "tip": "Major Plant Hormones: Auxin, Gibberellin, Cytokinin, Abscisic acid (stress hormone), and Ethylene (gaseous ripening hormone)."
+    },
+    {
+      "id": 39,
+      "source": "BPSC TRE 1.0 (PRT Class 1-5) | Indian National Movement: Revolutionary Activity Abroad",
+      "en": "Who first raised the National Flag outside India?",
+      "hi": "भारत के बाहर सर्वप्रथम राष्ट्रीय ध्वज किसने फहराया था?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Madam Bhikaji Cama",
+        "Rash Behari Bose",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Madam Bhikaji Cama",
+      "explanation": "Madam Bhikaji Cama unfurled the first version of the Indian National Flag on foreign soil at the International Socialist Conference in Stuttgart, Germany, on 22nd August 1907.",
+      "tip": "Madam Cama is revered as the 'Mother of the Indian Revolution'; she also published the revolutionary newspaper 'Bande Mataram' from Paris."
+    },
+    {
+      "id": 40,
+      "source": "BPSC TRE 1.0 (PRT Class 1-5) | Bihar History & Education",
+      "en": "During which movement 'Bihar Vidyapeeth' was established?",
+      "hi": "किस आन्दोलन के दौरान 'बिहार विद्यापीठ' की स्थापना की गई थी?",
+      "options": [
+        "Swadeshi Movement",
+        "Non-Cooperation Movement",
+        "Civil Disobedience Movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Non-Cooperation Movement",
+      "explanation": "Mahatma Gandhi inaugurated the Bihar Vidyapeeth at Patna on 6th February 1921 during the Non-Cooperation Movement to provide national education boycotting British institutions.",
+      "tip": "First Chancellor of Bihar Vidyapeeth was Maulana Mazharul Haque, and Dr. Rajendra Prasad served as its first Principal.\nMaster Answer Key & Topic Index (Questions 1 to 40)\nQ. No.\nExam Subject / Category\nSub-Topic / Focus Area\nKey\nQ1\nIndian National Movement / Bihar History\nKunwar Singh is BPSC's most frequently tested freedom fighter\n(B)\nQ2\nIndian National Movement\nChronology trap: Gandhi-Irwin Pact (5 March 1931) -> Execution of Bhagat Singh, Sukhdev & Rajguru (23 March 1931) -> Karachi Congress Session (26-31 March 1931).\n(A)\nQ3\nIndian National Movement\nBPSC often tests exact dates for major pacts\n(A)\nQ4\nNational Movement & Slogans\nBPSC official key strictly credits the creation/coining of 'Inquilab Zindabad' to Maulana Hasrat Mohani.\n(C)\nQ5\nGeneral Science: Physics / Chemistry\nModerator = slows down neutrons (D2O, Graphite)\n(C)\nQ6\nGeneral Science: Biology\nFather of Genetics = Gregor Johann Mendel\n(A)\nQ7\nGeneral Science: Biology\nDo not confuse 'lacteal' with lactation or milk production\n(C)\nQ8\nGeneral Science: Biology\nPepsin acts in the stomach in an acidic medium\n(C)\nQ9\nGeneral Science: Chemistry\nSand = SiO2 (Silica)\n(B)\nQ10\nGeneral Science: Botany\nNitrogenase requires strictly anaerobic conditions\n(B)\nQ11\nElementary Mathematics\nStandard prime counts to memorize: 1 to 50 = 15 primes\n(B)\nQ12\nElementary Mathematics / Algebra\nWhen two linear equations are exact multiples of each other, they represent dependent coincident lines with infinite solutions\n(E)\nQ13\nIndian National Movement: Literature\nBPSC loves books written by Bihar leaders: 'India Divided' and 'Atmakatha' were authored by Dr. Rajendra Prasad.\n(B)\nQ14\nNational Movement: Literature & Peasant Struggles\nRemember: The English translation of Neel Darpan was published by Rev. James Long and translated by Michael Madhusudan Dutt.\n(C)\nQ15\nBihar History: Revolutionary Nationalism\nSachindra Nath Sanyal was also the author of 'Bandi Jeevan' (the Bible of Indian revolutionaries) and co-founder of HRA.\n(A)\nQ16\nIndian National Congress Sessions\nThree INC Sessions in Bihar: 1912 Bankipore (Patna) under R.N. Mudholkar\n(A)\nQ17\nGeneral Science: Chemistry\nElectrochemical reactivity series position: Zn > Fe > Sn > Pb. Tin is less reactive and safely prevents food spoilage.\n(B)\nQ18\nGeneral Science: Biology\nPhotosynthesis is overall a redox process: Water (H2O) is oxidized to oxygen, and Carbon Dioxide (CO2) is reduced to glucose.\n(B)\nQ19\nGeneral Science: Human Biology & Disease\nEye diseases frequently asked in BPSC: Trachoma, Cataract, Glaucoma, Conjunctivitis, and Astigmatism.\n(C)\nQ20\nGeneral Science: Physics\nWhenever at least two options are technically correct in BPSC, always mark Option (D) 'More than one of the above'.\n(D)\nQ21\nIndian National Movement\nDate sequence: 20 July 1905 (Partition announced) -> 7 August 1905 (Boycott resolution at Calcutta Town Hall) -> 16 October 1905 (Partition enforced).\n(C)\nQ22\nIndian National Movement\n8 August 1942 = Resolution passed & 'Do or Die' call\n(B)\nQ23\nModern Indian History\n1 November 1858 at Allahabad Darbar: Canning became the first Viceroy of India, ending East India Company rule.\n(C)\nQ24\nModern Indian History: Personalities\nDadabhai Naoroji was also the first Indian elected to the British House of Commons (Finsbury Central, 1892) and propounded the 'Drain of Wealth' theory.\n(B)\nQ25\nConstitutional Development / Freedom Movement\nClassic BPSC trap: High-profile historical quotes often have the author missing from options (A, B, C) to test your confidence in Option (E).\n(E)\nQ26\nIndian National Movement: INA\nFounder = Mohan Singh (with Rash Behari Bose)\n(B)\nQ27\nModern Indian History: Literature\nIndia's national song 'Vande Mataram' was originally composed by Bankim Chandra Chatterjee and included in this very novel 'Anandamath'.\n(A)\nQ28\nIndian National Movement\nSwadeshi & Boycott originated in 1905 (Swadeshi Movement)\n(A)\nQ29\nBihar History: Peasant Movements\nDifferentiate clearly: 1917 Champaran = Raj Kumar Shukla\n(B)\nQ30\nSocial & Cultural Reform / Education\nJonathan Duncan founded Sanskrit College at Varanasi (1791)\n(B)\nQ31\nBritish Colonial Policy / Congress\nDufferin called Congress a 'microscopic minority'\n(C)\nQ32\nGeneral Science: Physics / Optics\nRefraction rule: Frequency (f) remains invariant\n(A)\nQ33\nEnvironmental Science: Pollution\nNitrogen, Oxygen, and Argon constitute 99.9% of clean dry air\n(C)\nQ34\nGeneral Science: Physics / Radiation\nElectromagnetic: Radiowaves, Microwaves, Infrared, Visible, Ultraviolet, X-rays, Gamma rays. Particulate radiation: Alpha rays, Beta rays, Cathode rays.\n(B)\nQ35\nGeneral Science: Physics\nFuse wire characteristics: High resistance and Low melting point (typically made of Tin-Lead alloy).\n(C)\nQ36\nBihar History: Peasant Leadership\nSwami Sahajanand's journal was 'Hunkar', and his central ashram was at Bihta near Patna.\n(B)\nQ37\nEnvironment & Ecology\nDo not select 'forest plants' (Option A)\n(B)\nQ38\nGeneral Science: Botany\nMajor Plant Hormones: Auxin, Gibberellin, Cytokinin, Abscisic acid (stress hormone), and Ethylene (gaseous ripening hormone).\n(A)\nQ39\nIndian National Movement: Revolutionary Activity Abroad\nMadam Cama is revered as the 'Mother of the Indian Revolution'\n(B)\nQ40\nBihar History & Education\nFirst Chancellor of Bihar Vidyapeeth was Maulana Mazharul Haque, and Dr. Rajendra Prasad served as its first Principal.\n(B)\nKey Preparation Strategy & Option (D)/(E) Behavior for BPSC TRE 4.0Analysis of previous papers reveals that BPSC uses Option (D) ('More than one of the above') primarily when multiple events, leaders, or technical applications apply simultaneously (e.g., Newton's third law in both archery and rockets). Option (E) ('None of the above') is systematically triggered when the actual prominent figure, date, or price is omitted from choices (A), (B), and (C) (such as Jawaharlal Nehru for 'Charter of Slavery' or unique linear equation pricing). Mastering these elimination patterns guarantees high scoring in the 40-mark General Studies component."
+    }
+  ]
+}

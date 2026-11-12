@@ -1,0 +1,69 @@
+{
+  "total_sets": 7,
+  "total_questions": 400,
+  "sets": [
+    {
+      "id": "bpsc-tre4-english-literature-80q",
+      "title": "English Literature Practice (80Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "English Literature",
+      "filename": "bpsc-tre4-english-literature-80q.docx",
+      "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-general-studies-40q",
+      "title": "General Studies Practice Set 1 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Studies",
+      "filename": "bpsc-tre4-general-studies-40q.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-v2",
+      "title": "General Studies Practice Set 2 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Studies",
+      "filename": "bpsc-tre4-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-hindi-literature-80q",
+      "title": "Hindi Literature Practice (80Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Hindi Literature",
+      "filename": "bpsc-tre4-hindi-literature-80q.docx",
+      "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-qualifying-paper-40q",
+      "title": "Language Qualifying Set 1 (40Q)",
+      "section": "qualifying",
+      "section_name": "Part-I Language Qualifying",
+      "subject": "Language Qualifying",
+      "filename": "bpsc-tre4-qualifying-paper-40q.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-qualifying-paper-set2-40q",
+      "title": "Language Qualifying Set 2 (40Q)",
+      "section": "qualifying",
+      "section_name": "Part-I Language Qualifying",
+      "subject": "Language Qualifying",
+      "filename": "bpsc-tre4-qualifying-paper-set2-40q.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-science-80q",
+      "title": "Science Subject Practice (80Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Science",
+      "filename": "bpsc-tre4-science-80q.docx",
+      "question_count": 80
+    }
+  ]
+}
