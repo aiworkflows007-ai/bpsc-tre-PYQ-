@@ -1,0 +1,2837 @@
+{
+  "metadata": {
+    "exam": "TRE-1",
+    "exam_year": 2023,
+    "subject": "Arabic",
+    "class_band": "9-10",
+    "shift": null,
+    "frontend_category": "subject",
+    "frontend_subject": "Arabic",
+    "source_file": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+    "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+    "extracted_at": "2026-11-09T01:19:42.072Z",
+    "extracted_text_pages": 33
+  },
+  "questions": [
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q001",
+      "question_number": "1",
+      "question_text": "10 years ago the ratio of ages of Ramesh and Rajeev was 1 : 3. 5 years hence this ratio will become 2 : 3. What is the ratio of their ages at present?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q001",
+        "source_excerpt": "1. 10 years ago the ratio of ages of Ramesh and Rajeev was 1 : 3. 5 years hence this ratio will become 2 : 3. What is the ratio of their ages at present? (A) 2 : 5 (B) 3 : 5 (C) 1 : 2 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q002",
+      "question_number": "2",
+      "question_text": "If I walk with a speed of 5 km per hour from my house to the station, my train would have left the station 7 minutes before my arrival. But, if I walk with a speed of 6 km per hour, I will reach the station 5 minutes before the departure of my train. Accordingly, what is the distance between my house and the station?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "2",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q002",
+        "source_excerpt": "2. If I walk with a speed of 5 km per hour from my house to the station, my train would have left the station 7 minutes before my arrival. But, if I walk with a speed of 6 km per hour, I will reach the station 5 minutes before the departure of my train. Accordingly, what is the distance between my house and the station? (A) 7 km (B) 6·5 km (C) 6 km (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q003",
+      "question_number": "3",
+      "question_text": "The average monthly income of P and Q is R 5,050. The average monthly income of Q and R is R 6,250 and the average monthly income of P and R is R 5,200. The monthly income of P is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q003",
+        "source_excerpt": "3. The average monthly income of P and Q is R 5,050. The average monthly income of Q and R is R 6,250 and the average monthly income of P and R is R 5,200. The monthly income of P is (A) R 3,500 (B) R 4,050 (C) R 4,000 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q004",
+      "question_number": "4",
+      "question_text": "If 30% of P is added to 40% of Q, it becomes 80% of Q. Accordingly, what is the percentage of Q with respect to P?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q004",
+        "source_excerpt": "4. If 30% of P is added to 40% of Q, it becomes 80% of Q. Accordingly, what is the percentage of Q with respect to P? (A) 40% (B) 50% (C) 75% (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q005",
+      "question_number": "5",
+      "question_text": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets R 1,000 more than D, what is B’s share?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/7-A 2 17/MV/M–2023–01–10 (S)/7-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q005",
+        "source_excerpt": "5. A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets R 1,000 more than D, what is B’s share? (A) R 500 (B) R 1,500 (C) R 2,000 (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/7-A 2 17/MV/M–2023–01–10 (S)/7-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q006",
+      "question_number": "1",
+      "question_text": "10 df© nyd© a_oe Edß amOrd H$s Am`w H$m AZwnmV 1 : 3 Wmü& A~ go 5 df© nÌMmV≤ `h AZwnmV 2 : 3 hmo Om`oJmü& dV©_mZ _| CZH$s Am`w H$m AZwnmV ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q006",
+        "source_excerpt": "1. 10 df© nyd© a_oe Edß amOrd H$s Am`w H$m AZwnmV 1 : 3 Wmü& A~ go 5 df© nÌMmV≤ `h AZwnmV 2 : 3 hmo Om`oJmü& dV©_mZ _| CZH$s Am`w H$m AZwnmV ä`m h°? (A) 2 : 5 (B) 3 : 5 (C) 1 : 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q007",
+      "question_number": "2",
+      "question_text": "`{X _¢ AnZo Ka go 5 {H$0 _r0 ‡{V KßQ>m H$s J{V go ÒQ>oeZ Ho$ {bE MbVm hˇ±, Vmo _oar JmãS>r _oao ÒQ>oeZ nh˛±MZo go 7 {_ZQ> nhbo Ny>Q> MwH$s hmoVr h°ü& {H$›Vw `{X _¢ 6 {H$0 _r0 ‡{V KßQ>m H$s J{V go MbVm hˇ±, Vmo _¢ ÒQ>oeZ na JmãS>r Ho$ Ny>Q>Zo go 5 {_ZQ> nhbo nh˛±M OmVm hˇ±ü& VXZwgma, _oao Ka Am°a ÒQ>oeZ Ho$ ~rM H$s Xyar ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "2",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q007",
+        "source_excerpt": "2. `{X _¢ AnZo Ka go 5 {H$0 _r0 ‡{V KßQ>m H$s J{V go ÒQ>oeZ Ho$ {bE MbVm hˇ±, Vmo _oar JmãS>r _oao ÒQ>oeZ nh˛±MZo go 7 {_ZQ> nhbo Ny>Q> MwH$s hmoVr h°ü& {H$›Vw `{X _¢ 6 {H$0 _r0 ‡{V KßQ>m H$s J{V go MbVm hˇ±, Vmo _¢ ÒQ>oeZ na JmãS>r Ho$ Ny>Q>Zo go 5 {_ZQ> nhbo nh˛±M OmVm hˇ±ü& VXZwgma, _oao Ka Am°a ÒQ>oeZ Ho$ ~rM H$s Xyar ä`m h°? (A) 7 {H$0 _r0 (B) 6·5 {H$0 _r0 (C) 6 {H$0 _r0 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q008",
+      "question_number": "3",
+      "question_text": "P Am°a Q H$s Am°gV _m{gH$ Am` R 5,050 h°ü& Q Am°a R H$s Am°gV _m{gH$ Am` R 6,250 h° VWm P Am°a R H$s Am°gV _m{gH$ Am` R 5,200 h°ü& P H$s _m{gH$ Am` h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q008",
+        "source_excerpt": "3. P Am°a Q H$s Am°gV _m{gH$ Am` R 5,050 h°ü& Q Am°a R H$s Am°gV _m{gH$ Am` R 6,250 h° VWm P Am°a R H$s Am°gV _m{gH$ Am` R 5,200 h°ü& P H$s _m{gH$ Am` h° (A) R 3,500 (B) R 4,050 (C) R 4,000 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q009",
+      "question_number": "5",
+      "question_text": "A, B, C, D Ho$ ~rM 5 : 2 : 4 : 3 Ho$ AZwnmV _| YZ H$m {dVaU {H$`m OmZm h°ü& `{X C H$mo D go R 1,000 A{YH$ {_bVo h¢, Vmo B H$m {hÒgm ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q009",
+        "source_excerpt": "5. A, B, C, D Ho$ ~rM 5 : 2 : 4 : 3 Ho$ AZwnmV _| YZ H$m {dVaU {H$`m OmZm h°ü& `{X C H$mo D go R 1,000 A{YH$ {_bVo h¢, Vmo B H$m {hÒgm ä`m h°? (A) R 500 (B) R 1,500 (C) R 2,000 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q010",
+      "question_number": "6",
+      "question_text": "A shopkeeper gives a discount of 5% on the selling price of a watch. If he gives a discount of 6%, he will earn a profit which is R 15 less than the before. Accordingly, what is the marked selling price of that watch?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q010",
+        "source_excerpt": "6. A shopkeeper gives a discount of 5% on the selling price of a watch. If he gives a discount of 6%, he will earn a profit which is R 15 less than the before. Accordingly, what is the marked selling price of that watch? (A) R 1,400 (B) R 1,500 (C) R 1,800 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q011",
+      "question_number": "7",
+      "question_text": "Three numbers are in the ratio 3 : 4 : 5. The total of the largest and the smallest numbers is equal to the other number plus 52. Accordingly, which is the smallest number?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q011",
+        "source_excerpt": "7. Three numbers are in the ratio 3 : 4 : 5. The total of the largest and the smallest numbers is equal to the other number plus 52. Accordingly, which is the smallest number? (A) 27 (B) 39 (C) 52 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q012",
+      "question_number": "8",
+      "question_text": "If 2 1 8 2 1 3 n n - - = , then the value of n is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "8",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q012",
+        "source_excerpt": "8. If 2 1 8 2 1 3 n n - - = , then the value of n is (A) 3 (B) 2 (C) – 2 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q013",
+      "question_number": "9",
+      "question_text": "Which of the following photo- electric devices is the most suitable for digital applications?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "9",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q013",
+        "source_excerpt": "9. Which of the following photo- electric devices is the most suitable for digital applications? (A) Photo-voltaic cell (B) Photo-emissive cell (C) Photo-diode (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q014",
+      "question_number": "10",
+      "question_text": "The critical mass of a fissionable material is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "for chain reaction"
+        },
+        {
+          "label": "C",
+          "text": "1010 joules"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "10",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q014",
+        "source_excerpt": "10. The critical mass of a fissionable material is (A) one kilogram equivalent (B) the minimum mass needed for chain reaction (C) the rest mass equivalent to 1010 joules (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q015",
+      "question_number": "11",
+      "question_text": "Which of the following gases is used to force the ripening of fruits?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "11",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q015",
+        "source_excerpt": "11. Which of the following gases is used to force the ripening of fruits? (A) Ethane (B) Ethylene (C) Methylene (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q016",
+      "question_number": "12",
+      "question_text": "Which one of the following has zero octane number?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/7-A 4 17/MV/M–2023–01–10 (S)/7-A 5 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "12",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q016",
+        "source_excerpt": "12. Which one of the following has zero octane number? (A) Iso-octane (B) Neo-octane (C) n-octane (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/7-A 4 17/MV/M–2023–01–10 (S)/7-A 5 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q017",
+      "question_number": "6",
+      "question_text": "EH$ XwH$mZXma EH$ KãS>r ~oMVo g_` {~H´$s _yÎ` na 5% Ny>Q> XoVm h°ü& `{X dh Cg na 6% Ny>Q> Xo XoVm h°, Vmo Cgo nhbo go R 15 H$_ H$m bm^ {_boJmü& VXZwgma, Cg KãS>r H$m Aß{H$V {~H´$s _yÎ` ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q017",
+        "source_excerpt": "6. EH$ XwH$mZXma EH$ KãS>r ~oMVo g_` {~H´$s _yÎ` na 5% Ny>Q> XoVm h°ü& `{X dh Cg na 6% Ny>Q> Xo XoVm h°, Vmo Cgo nhbo go R 15 H$_ H$m bm^ {_boJmü& VXZwgma, Cg KãS>r H$m Aß{H$V {~H´$s _yÎ` ä`m h°? (A) R 1,400 (B) R 1,500 (C) R 1,800 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q018",
+      "question_number": "7",
+      "question_text": "VrZ gßª`mE± 3 : 4 : 5 Ho$ AZwnmV _| h¢ü& CZ_| g~go ~ãS>r Edß g~go N>moQ>r gßª`mAm| H$m `moJ, Xygar gßª`m VWm 52 Ho$ `moJ Ho$ ~am~a h°ü& VXZwgma, g~go N>moQ>r gßª`m H$m°Z-gr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q018",
+        "source_excerpt": "7. VrZ gßª`mE± 3 : 4 : 5 Ho$ AZwnmV _| h¢ü& CZ_| g~go ~ãS>r Edß g~go N>moQ>r gßª`mAm| H$m `moJ, Xygar gßª`m VWm 52 Ho$ `moJ Ho$ ~am~a h°ü& VXZwgma, g~go N>moQ>r gßª`m H$m°Z-gr h°? (A) 27 (B) 39 (C) 52 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q019",
+      "question_number": "13",
+      "question_text": "The edible part of Litchis is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "13",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q019",
+        "source_excerpt": "13. The edible part of Litchis is (A) aril (B) thalamus (C) seed coat (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q020",
+      "question_number": "14",
+      "question_text": "The physical process involved in the release of molecular oxygen from leaves is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "14",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q020",
+        "source_excerpt": "14. The physical process involved in the release of molecular oxygen from leaves is (A) diffusion (B) transpiration (C) osmosis (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q021",
+      "question_number": "15",
+      "question_text": "The process of finding the relative location of genes on a chromosome is called",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "15",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q021",
+        "source_excerpt": "15. The process of finding the relative location of genes on a chromosome is called (A) genome walking (B) chromosome walking (C) gene mapping (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q022",
+      "question_number": "16",
+      "question_text": "Spore mother cell in bryophytes is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "16",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q022",
+        "source_excerpt": "16. Spore mother cell in bryophytes is (A) haploid (B) diploid (C) triploid (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q023",
+      "question_number": "17",
+      "question_text": "In which year was NGT (National Green Tribunal) for protection of environment and forest established by the Government of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "17",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q023",
+        "source_excerpt": "17. In which year was NGT (National Green Tribunal) for protection of environment and forest established by the Government of India? (A) 2010 (B) 2011 (C) 2012 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q024",
+      "question_number": "18",
+      "question_text": "Which city of India started first under-water metro?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "18",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q024",
+        "source_excerpt": "18. Which city of India started first under-water metro? (A) Kochi (B) Visakhapatnam (C) Bengaluru (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q025",
+      "question_number": "19",
+      "question_text": "Under India’s G20 Presidency, where was the Tourism Working Group Meeting held?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Kashmir)"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q025",
+        "source_excerpt": "19. Under India’s G20 Presidency, where was the Tourism Working Group Meeting held? (A) Patna (Bihar) (B) Srinagar (Jammu and Kashmir) (C) Ramnagar (Uttarakhand) (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q026",
+      "question_number": "20",
+      "question_text": "Who among the following got the Silver Medal in the National Under-17 Girls Wrestling Championship?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/7-A 6 17/MV/M–2023–01–10 (S)/7-A 7 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q026",
+        "source_excerpt": "20. Who among the following got the Silver Medal in the National Under-17 Girls Wrestling Championship? (A) Liza Tomar (B) Nirjala (C) Pushpa Yadav (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/7-A 6 17/MV/M–2023–01–10 (S)/7-A 7 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q027",
+      "question_number": "17",
+      "question_text": "^maV gaH$ma ¤mam n`m©daU Am°a dZ H$s gwajm Ho$ {bE {H$g df© NGT (Z°eZb J´rZ {Q¥>„`yZb) H$s ÒWmnZm H$s JB© Wr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "17",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q027",
+        "source_excerpt": "17. ^maV gaH$ma ¤mam n`m©daU Am°a dZ H$s gwajm Ho$ {bE {H$g df© NGT (Z°eZb J´rZ {Q¥>„`yZb) H$s ÒWmnZm H$s JB© Wr? (A) 2010 (B) 2011 (C) 2012 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q028",
+      "question_number": "19",
+      "question_text": "^maV H$s G20 A‹`jVm _| n`©Q>Z H$m`©g_yh H$s ~°R>H$ H$hm± h˛B© Wr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q028",
+        "source_excerpt": "19. ^maV H$s G20 A‹`jVm _| n`©Q>Z H$m`©g_yh H$s ~°R>H$ H$hm± h˛B© Wr? (A) nQ>Zm ({~hma) (B) lrZJa (OÂ_y Am°a H$Ì_ra) (C) am_ZJa (CŒmamIßS>) (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q029",
+      "question_number": "20",
+      "question_text": "BZ_| go {H$gZo amÔ¥>r` AßS>a-17 ~m{bH$m Hw$ÌVr M°Ânr`Z{en _| aOV nXH$ ‡m· {H$`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q029",
+        "source_excerpt": "20. BZ_| go {H$gZo amÔ¥>r` AßS>a-17 ~m{bH$m Hw$ÌVr M°Ânr`Z{en _| aOV nXH$ ‡m· {H$`m? (A) brµOm Vmo_a (B) {ZO©bm (C) nwÓnm `mXd (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q030",
+      "question_number": "21",
+      "question_text": "Who won the International Booker Prize, 2022 for the novel, Tomb of Sand?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rockwell"
+        },
+        {
+          "label": "B",
+          "text": "Moschovakis"
+        },
+        {
+          "label": "C",
+          "text": "Alharthi"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q030",
+        "source_excerpt": "21. Who won the International Booker Prize, 2022 for the novel, Tomb of Sand? (A) Geetanjali Shree and Daisy Rockwell (B) David Diop and Anna Moschovakis (C) Marilyn Booth and Jokha Alharthi (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q031",
+      "question_number": "22",
+      "question_text": "Who was the Chief Guest on India’s 74th Republic Day?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "Rashid Al Maktoum"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "22",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q031",
+        "source_excerpt": "22. Who was the Chief Guest on India’s 74th Republic Day? (A) Mohammed bin Salman (B) Abdel Fattah El-Sisi (C) Sheikh Mohammed bin Rashid Al Maktoum (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q032",
+      "question_number": "23",
+      "question_text": "In which district of Bihar, the first floating solar power plant has been built?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "23",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q032",
+        "source_excerpt": "23. In which district of Bihar, the first floating solar power plant has been built? (A) Darbhanga (B) West Champaran (C) Madhubani (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q033",
+      "question_number": "24",
+      "question_text": "Which of the following has got GI Tag in Bihar?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "24",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q033",
+        "source_excerpt": "24. Which of the following has got GI Tag in Bihar? (A) Maghai Paan (B) Basmati Rice (C) Chanderi Saree (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q034",
+      "question_number": "25",
+      "question_text": "Match List–I with List–II : List—I List—II a. Char 1. Punjab plain b. Kankar 2. Delta c. Kayal 3. Bangar d. Mand 4. Coastal plain Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 4 2 3"
+        },
+        {
+          "label": "B",
+          "text": "2 3 4 1"
+        },
+        {
+          "label": "C",
+          "text": "3 1 4 2"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "25",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q034",
+        "source_excerpt": "25. Match List–I with List–II : List—I List—II a. Char 1. Punjab plain b. Kankar 2. Delta c. Kayal 3. Bangar d. Mand 4. Coastal plain Select the correct answer using the codes given below. (A) a b c d 1 4 2 3 (B) a b c d 2 3 4 1 (C) a b c d 3 1 4 2 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q035",
+      "question_number": "26",
+      "question_text": "Which of the following tributaries does not join Brahmaputra river from north?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/7-A 8 17/MV/M–2023–01–10 (S)/7-A 9 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "26",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q035",
+        "source_excerpt": "26. Which of the following tributaries does not join Brahmaputra river from north? (A) Subansiri (B) Belsiri (C) Manas (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/7-A 8 17/MV/M–2023–01–10 (S)/7-A 9 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q036",
+      "question_number": "21",
+      "question_text": "Cn›`mg Q>m∞Â~ Am∞\\$ g¢S> Ho$ {bE A›Vam©Ô¥>r` ~wH$a nwaÒH$ma, 2022 {H$gZo OrVm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q036",
+        "source_excerpt": "21. Cn›`mg Q>m∞Â~ Am∞\\$ g¢S> Ho$ {bE A›Vam©Ô¥>r` ~wH$a nwaÒH$ma, 2022 {H$gZo OrVm? (A) JrVmßO{b lr Am°a S>oµOr am∞H$dob (B) S>o{dS> {S>Amon Am°a Aﬁm _moÒH$modm{H$g (C) _°ar{bZ ~yW Am°a OmoIm AÎhmWu (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q037",
+      "question_number": "22",
+      "question_text": "^maV Ho$ 74d| JUVßÃ {Xdg na H$m°Z _wª` A{V{W Wo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "22",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q037",
+        "source_excerpt": "22. ^maV Ho$ 74d| JUVßÃ {Xdg na H$m°Z _wª` A{V{W Wo? (A) _mohÂ_X {~Z gb_mZ (B) A„Xob \\$Vh Ab-{ggr (C) eoI _mohÂ_X {~Z am{eX Ab _H$Vy_ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q038",
+      "question_number": "25",
+      "question_text": "gyMr-I H$mo gyMr-II go gw_o{bV H$s{OE : gyMr–I gyMr–II a. Mma 1. nßOm~ H$m _°XmZ b. Hß$H$a 2. S>oÎQ>m c. H$m`b 3. ~mßJa d. _mßS> 4. VQ>r` _°XmZ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 4 2 3"
+        },
+        {
+          "label": "B",
+          "text": "2 3 4 1"
+        },
+        {
+          "label": "C",
+          "text": "3 1 4 2"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "25",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q038",
+        "source_excerpt": "25. gyMr-I H$mo gyMr-II go gw_o{bV H$s{OE : gyMr–I gyMr–II a. Mma 1. nßOm~ H$m _°XmZ b. Hß$H$a 2. S>oÎQ>m c. H$m`b 3. ~mßJa d. _mßS> 4. VQ>r` _°XmZ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) a b c d 1 4 2 3 (B) a b c d 2 3 4 1 (C) a b c d 3 1 4 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q039",
+      "question_number": "27",
+      "question_text": "Likhapani glacier is located in which State of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "27",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q039",
+        "source_excerpt": "27. Likhapani glacier is located in which State of India? (A) Arunachal Pradesh (B) Himachal Pradesh (C) Sikkim (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q040",
+      "question_number": "28",
+      "question_text": "Magadha and Anga plains are parts of",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "28",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q040",
+        "source_excerpt": "28. Magadha and Anga plains are parts of (A) upper Ganga plain (B) middle Ganga plain (C) lower Ganga plain (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q041",
+      "question_number": "29",
+      "question_text": "Which of the following pairs of waterfalls and rivers is not correctly matched?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "29",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q041",
+        "source_excerpt": "29. Which of the following pairs of waterfalls and rivers is not correctly matched? (A) Jog—Sharavati (B) Kapildhara—Kaveri (C) Dhuandhar—Godavari (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q042",
+      "question_number": "4",
+      "question_text": "Visakhapatnam Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q042",
+        "source_excerpt": "4. Visakhapatnam Select the correct answer using the codes given below. (A) 1, 2, 3, 4 (B) 4, 1, 2, 3 (C) 1, 3, 2, 4 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q043",
+      "question_number": "31",
+      "question_text": "The Agreement of Kosi Irrigation and Hydroelectricity Plan in 1954 was signed between which two countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "31",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q043",
+        "source_excerpt": "31. The Agreement of Kosi Irrigation and Hydroelectricity Plan in 1954 was signed between which two countries? (A) India and Bangladesh (B) India and China (C) India and Nepal (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q044",
+      "question_number": "32",
+      "question_text": "In which climatic division does Bihar fall as per R. L. Singh’s classification scheme?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/7-A 10 17/MV/M–2023–01–10 (S)/7-A 11 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "32",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q044",
+        "source_excerpt": "32. In which climatic division does Bihar fall as per R. L. Singh’s classification scheme? (A) Humid south-east (B) Subhumid transitional (C) Subhumid continental (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/7-A 10 17/MV/M–2023–01–10 (S)/7-A 11 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q045",
+      "question_number": "28",
+      "question_text": "_JY Edß AßJ H$m _°XmZ {H$gHo$ {hÒgo h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "28",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q045",
+        "source_excerpt": "28. _JY Edß AßJ H$m _°XmZ {H$gHo$ {hÒgo h¢? (A) D$nar JßJm H$m _°XmZ (B) _‹` JßJm H$m _°XmZ (C) {ZÂZ JßJm H$m _°XmZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q046",
+      "question_number": "29",
+      "question_text": "Ob‡nmV Am°a ZXr Ho$ {ZÂZ{b{IV OmoãS>m| _| go H$m°Z-gm OmoãS>m ghr gw_o{bV Zht h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "29",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q046",
+        "source_excerpt": "29. Ob‡nmV Am°a ZXr Ho$ {ZÂZ{b{IV OmoãS>m| _| go H$m°Z-gm OmoãS>m ghr gw_o{bV Zht h°? (A) OmoJ—eamdVr (B) H${nbYmam—H$mdoar (C) YwAm±Yma—JmoXmdar (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q047",
+      "question_number": "4",
+      "question_text": "{demImnŒmZ_ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q047",
+        "source_excerpt": "4. {demImnŒmZ_ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 1, 2, 3, 4 (B) 4, 1, 2, 3 (C) 1, 3, 2, 4 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q048",
+      "question_number": "31",
+      "question_text": "1954 _| {H$Z Xmo Xoem| Ho$ ~rM H$mogr qgMmB© Edß Ob{d⁄wV≤ n[a`moOZm g_Pm°Vm hÒVmj[aV h˛Am Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "31",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q048",
+        "source_excerpt": "31. 1954 _| {H$Z Xmo Xoem| Ho$ ~rM H$mogr qgMmB© Edß Ob{d⁄wV≤ n[a`moOZm g_Pm°Vm hÒVmj[aV h˛Am Wm? (A) ^maVdf© Am°a ~mßΩbmXoe (B) ^maVdf© Am°a MrZ (C) ^maVdf© Am°a Zonmb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q049",
+      "question_number": "33",
+      "question_text": "In which Session of the Indian National Congress was the resolution of ‘Purna Swaraj’ adopted?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q049",
+        "source_excerpt": "33. In which Session of the Indian National Congress was the resolution of ‘Purna Swaraj’ adopted? (A) Kanpur Session, 1925 (B) Lahore Session, 1929 (C) Karachi Session, 1931 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q050",
+      "question_number": "34",
+      "question_text": "What was an initial objective of ‘Kuka Movement’ in Punjab?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Punjab"
+        },
+        {
+          "label": "C",
+          "text": "movement"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "34",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q050",
+        "source_excerpt": "34. What was an initial objective of ‘Kuka Movement’ in Punjab? (A) To purify the Sikh religion (B) To gain political power in Punjab (C) Organization of peasant movement (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q051",
+      "question_number": "35",
+      "question_text": "Who described the Revolt of 1857 as the ‘First Indian War of Independence’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "35",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q051",
+        "source_excerpt": "35. Who described the Revolt of 1857 as the ‘First Indian War of Independence’? (A) V. D. Savarkar (B) Bal Gangadhar Tilak (C) Bipin Chandra Pal (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q052",
+      "question_number": "36",
+      "question_text": "Where was the first instance of organized non-cooperation in the history of Indian peasantry held?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "36",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q052",
+        "source_excerpt": "36. Where was the first instance of organized non-cooperation in the history of Indian peasantry held? (A) Bihar and Bengal (B) Madras Presidency (C) Punjab Province (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q053",
+      "question_number": "37",
+      "question_text": "Which portfolio did Dr. Rajendra Prasad hold during the Interim Government of 1946?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q053",
+        "source_excerpt": "37. Which portfolio did Dr. Rajendra Prasad hold during the Interim Government of 1946? (A) Defence (B) Home (C) Food and Agriculture (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q054",
+      "question_number": "38",
+      "question_text": "Who among the following particularly urged Gandhiji to visit Champaran to witness the miseries of the Ryots?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "38",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q054",
+        "source_excerpt": "38. Who among the following particularly urged Gandhiji to visit Champaran to witness the miseries of the Ryots? (A) Brijkishore Prasad (B) Rajkumar Shukla (C) Sukhram Ganesh (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q055",
+      "question_number": "39",
+      "question_text": "The ‘Day of Deliverance’ was observed by the Muslim League on which date?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "39",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q055",
+        "source_excerpt": "39. The ‘Day of Deliverance’ was observed by the Muslim League on which date? (A) 22nd December, 1939 (B) 17th October, 1939 (C) 22nd December, 1940 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q056",
+      "question_number": "40",
+      "question_text": "Who laid the foundation stone of National College and Bihar Vidyapeeth?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/7-A 12 17/MV/M–2023–01–10 (S)/7-A 13 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "40",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q056",
+        "source_excerpt": "40. Who laid the foundation stone of National College and Bihar Vidyapeeth? (A) Dr. Rajendra Prasad (B) Maulana Abdul Bari (C) Mahatma Gandhi (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/7-A 12 17/MV/M–2023–01–10 (S)/7-A 13 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q057",
+      "question_number": "33",
+      "question_text": "^maVr` amÔ¥>r` H$mßJ´og Ho$ {H$g A{YdoeZ _| \"nyU© ÒdamO' H$m {g’m›V J•hrV h˛Am Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q057",
+        "source_excerpt": "33. ^maVr` amÔ¥>r` H$mßJ´og Ho$ {H$g A{YdoeZ _| \"nyU© ÒdamO' H$m {g’m›V J•hrV h˛Am Wm? (A) H$mZnwa A{YdoeZ, 1925 (B) bmhm°a A{YdoeZ, 1929 (C) H$amMr A{YdoeZ, 1931 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q058",
+      "question_number": "37",
+      "question_text": "df© 1946 _| ~Zr A›V[a_ gaH$ma _| S>m∞0 amOo›– ‡gmX Ho$ nmg H$m°Z-gm {d^mJ Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q058",
+        "source_excerpt": "37. df© 1946 _| ~Zr A›V[a_ gaH$ma _| S>m∞0 amOo›– ‡gmX Ho$ nmg H$m°Z-gm {d^mJ Wm? (A) ajm (B) J•h (C) Im⁄ Edß H•${f (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q059",
+      "question_number": "38",
+      "question_text": "Jm±YrOr H$mo {deof Í$n go MÂnmaU AmZo Am°a dhm± Ho$ H•$fH$m| H$s X`Zr` pÒW{V H$mo XoIZo hoVw {H$gZo AZwJ´h {H$`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "38",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q059",
+        "source_excerpt": "38. Jm±YrOr H$mo {deof Í$n go MÂnmaU AmZo Am°a dhm± Ho$ H•$fH$m| H$s X`Zr` pÒW{V H$mo XoIZo hoVw {H$gZo AZwJ´h {H$`m Wm? (A) ~•O{H$emoa ‡gmX (B) amOHw$_ma ewäb (C) gwIam_ JUoe (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-arabic-q060",
+      "question_number": "40",
+      "question_text": "Z°eZb H$m∞boO Am°a {~hma {d⁄mnrR> H$m {ebm›`mg {H$gZo {H$`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M-2023-05 ARB (S)/7-A 14 Ú j ³ à ‡ m ³ † … ] e ³ ³ ^  Î ³ k e ³ í ç ] Þ n ‚ æ ] ‡ a a a a ³ ³³ ³ ‚ ‚ ‚ ‚ ] ]] ] m m m m ³ ³³ ³ ^ ^ ^ ^ l l l l V V V V q ç ] h e ‚ â n ‚ V 65 i ^ 41 ‰ ç ] Ù Þ Û f † I– ] ]] ] Î Î Î Î j j j j f f f f ^ ^ ^ ^ Œ Œ Œ Œ ] Ö ³ Û ³ v ³ _ ù ³ ^ l Ö ³ × ³ Ï ³ _ ^ … Ò % n † é Ê ± ] Ö ã ß ‚ ! â ± Ú ˆ  u Û è Z Z e ³ ^ Ö ³ Û Š ³ ^ Ê ³ † m à æ ] Ö Û ç  Â n à æ ] Ö Û Š j Ï f × n à Ê ± ] Ö × n Ø æ ] Ö ³ ß ã ³ ^ … ! Ê n ã ^ Ú Ó ^ i g Ö × Û ç ¾ Ë n à ! â ß ^ Õ Æ † Ê è Ö ¡ Þ j ¿ ^ … ! â „ ] Ú Ó j g ] Ÿ ‰ j Ã ¡ Ú ^ l ! æ i × Ô  f ^ e n Ô u r ˆ ] Ö j „ ] Ò † æ e n ³ Ã ã ³ ³ ^ ! ] Ö ³ Û Š ³ ³ ^ Ê ³ † æ á æ ] Î ³ Ë ³ ç á Ê ± ] Ö _ ç ] e n † Ö  † ] ð ] Ö j „ ] Ò † ! ] Ö j „ Ò † é e _ ^ Î è ‘ Ç n † é Ú à ] Ö ç … Ñ ] Ö % í n à Ú _ f ç Å Â × n ã ^ $ ß Û ã ^ ( æ i ^ … m î ] Ö Š Ë † ( æ  … q j ä æ … Î Ü ] Ö Ï _ ^ … ! Ò n Ì i Ó ç á ] Ö Û v _ ^ l Ö × Ï _ ^ … Ê ± ] Ö ã ß ‚ [ -41 Ú ß ¿ Ë è (A) Ú ç ‰ Ã è (B) Ú Ó j ¿ è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú à Ò ^ Þ ç ] æ ] Î Ë n à Ê ± ] Ö _ ç ] e n † [ -42 ] Ö Û ç  Â ç á (A) ] Ö Û Š j Ï f × ç á (B) ] Ö Û Š ^ Ê † æ á (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú ³ ^ â ³ ± ] Ö ³ Û Ã × ç Ú ^ l Ò ^ Þ k Ú _ f ç Â o Â × o -43 ] Ö j „ ] Ò † [ ] Ö % Û à (A) … Î Ü ] Ö Ï _ ^ … (B) i ^ … m î ] Ö Š Ë † (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Þ r × n ˆ m è [ ð Ú ^ Ú Ã ß o Ò × Û è ] Ö _ ç ] e n † e ^ Ÿ -44 Queue (A) View (B) Few (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú ³ ^ Ú ³ Ã ³ ß ³ o Ò × Û è Z Z Ú Ó j g ] Ÿ ‰ j Ã ¡ Ú ^ l X X -45 e ^ Ÿ Þ r × n ˆ m è [ Booking office (A) Inquiry office (B) Administrative office (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) [ P.T.O. PART—II ( ARABIC ) II– ] ]] ] Î Î Î Î j j j j f f f f ^ ^ ^ ^ Œ Œ Œ Œ á ] Ö ã ³ ß ‚ e ^ Ÿ  æ ] ‰ Ã è ] Ÿ › † ] Í æ m _ × Ð Â × n ã ^ ð Z Z ]  f ä Î ^ … é ] Ö ã ß ‚ ! i Ï Ä ] Ö ã ß ‚ Ê ± ] Ö ß ^ u n è ] Ö r ß ç e n è á ] Ö ã ß ‚ Ú ß Ï Š Û è Ê ± Â ‚  ð ] Ö  † Î n è Ö Ï ^ … é Z ‰ n ^ ( ]  ] … m è i j † œ ‰ ã ^ ] Ö v Ó ç Ú è ð Ú à ] Ö ç Ÿ m ^ l Ö ×  © æ á ] Ÿ ] Ö ³ Û ³ † Ò ³ ˆ m è e ³ ß n ç  Ö ã ± ! Â ^ ‘ Û è ] Ö ã ß ‚ ! m ç q ‚ Ê ± ] Ö ã ß ‚ ] Ö ã ß ‚ æ Œ æ ] Ö Û Š × Û ç á æ ] Ö Š n î ] Ö f ç ƒ m ç á æ ] Ö ³ Û Š n ³ v n ³ ç á ! m  ³ Ó ³ Ø ] Ö Û Š × Û ç á ] ¢ Î × n è ] Ö Ó f † p ! i j f ³ Ä  æ Ö è ] Ö ã ³ ß ³ ‚ Þ ¿ ^ Ú ^  m Û Ï † ] › n ^ æ i Ã j f † œ Ò f †  m Û Ï † ] › n è Ê ± ] Ö Ã ^ Ö Ü ( æ Þ v à Ò × ß ^ Þ v j † Ý ] Ö ß ^ Œ æ Ò ³ „ Ö Ô Þ ³ v j † Ý ] Ö ‚ m ^ Þ ^ l ] Ö Û í j × Ë è ( æ ] á ] Ö ã ß ç  m v f ç á ] ¢ Ú à æ ] Ö Š ¡ Ý ! Ê ± œ m è Þ ^ u n è Ö Ï ^ … é Z ‰ n ^ i Ï Ä ] Ö ã ß ‚ [ -46 ] Ö r ß ç e n è ] Ö Ç † e n è (A) ] Ö r ß ç e n è ] Ö  Û ^ Ö n è (B) ] Ö r ß ç e n è ] Ö  † Î n è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú ³ ^ â ç ] Ö Š f g Ö j Ï Š n Ü ] Ö ã ß ‚ Ê ± ] Ö ç Ÿ m ^ l -47 ] Ö Û í j × Ë è [  ] … m è ð ] Ÿ (A) ] Ö Ã † ] Î n è (B) ] Ö ‚ m ß n è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú à â Ü m  Ó × ç á ] ¢ Î × n è ] Ö Ó f † p Ê ± ] Ö ã ß ‚ [ -48 ] Ö f ç ƒ m ç á (A) ] Ö Û Š × Û ç á (B) ] Ö Û Š n v n ç á (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] Ö ã ß ç  m v f ç á -49 ] Ö Ë ç • o æ ] Ö Ë Š ^  (A) ] Ÿ • _ † ] e ^ l æ ] Ÿ  j f ^ Ò ^ l (B) … â ^ h æ ] Ö  ‚ é ð ] Ÿ (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) á ] Ö ã ß ç  m v j † Ú ç á ð] -50 ] Ö ‚ m ^ Þ è ] Ö ã ß ‚ æ ‰ n è (A) ] Ö ‚ m ^ Þ è ] Ö f ç ƒ m è (B) ] Ö ‚ m ^ Þ ^ l ] Ö Û í j × Ë è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 15 [ P.T.O. III– ] ]] ] Î Î Î Î j j j j f f f f ^ ^ ^ ^ Œ Œ Œ Œ Î ³ ^ Ù ] Ö ³ Û ‚ … Œ V Z Z ] ¢ á œ … u g e Ó Ü Ê ± ] Ö n ç Ý ] ¢ æ Ù Ú à ] Ö Ã ^ Ý ] Ö r ‚ m ‚ ! Ú j o æ ‘ × j Ü Ú à e ¡  Ò Ü [ X X Î ^ Ù Ö o Ú Ó è ð] Â × ± V Z Z œ Þ ^ æ ‘ × k m ç Ý ] Ö % × % ^ ð ( æ ƒ â f k ¢  ] ð ] Ö ³ Ã Û † é ( æ e Ï n k â ß ^ Õ $ ¡ $ ä œ m ^ Ý ( æ … q Ã k ] Ö f ³ ^ … u è X X ! Î ^ Ù ] Ö v Š n à V Z Z œ Ú ^ œ Þ ^ Ê ç ‘ × k œ Ú ‹ X X ! ‰ ³ ³ ª Ù q ³ Û ³ ³ ^ Ù V Z Z Ò ³ Ü Ö f % ³ k $ Ü m ³ ^ œ ‰ j ³ ^ ƒ [ X X Î ³ ^ Ù ] Ö ³ Û ³ ‚ … Œ V Z Z Ö f % ³ k $ Û è m ç Ú ^ œ æ e Ã ˜ m ç Ý X X ( Ê Ï ^ Ù ] Ö ³ r ³ Û ³ ^ Ù V Z Z Ö ³ ç Â † Ê k œ Þ Ô i ª i ± e × ‚ ° Ÿ ‰ j Ï f × j Ô Ê ± ] Ö Û _ ^ … X X ! Z Z m ç Ý ] Ö % × % ^ ð X X V -51 Ú Ë Ã ç Ù Ê n ä (A) Ú Ë Ã ç Ù e ä (B) Ú Ë Ã ç Ù Ö ä (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z ] ¤ á X X V -52 ] ‰ Ü Ê Ã Ø (A) ¾ † Í Ú Ó ^ á (B) ¾ † Í ‡ Ú ^ á (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z Ö ç Â † Ê k œ Þ Ô i ª i ± ] Ö o e × ‚ ° Ÿ ‰ j Ï f × j Ô X X -53 Z Z Ö ç X X V u † Í ] Ú j ß ^ Å Ÿ Ú j ß ^ Å (A) u † Í ] Ö j Û ß ± (B) u † Í ] Ö j † q ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z ] Ö Û _ ^ … X X q Û Ã ä V -54 œ Ú ^ › † é (A) Ú _ ^ … æ á (B) Ú _ ^ … ] l (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z Ö f % k $ Û è m ç Ú ^ œ æ e Ã ˜ m ç Ý X X ! Z Z $ Û è X X V -55 u † Í Â _ Ì (A)  ^ … é ð ] ‰ Ü ] (B) u † Í i ç • n x (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 16 [ P.T.O. IV– ] ]] ] Î Î Î Î j j j j f f f f ^ ^ ^ ^ Œ Œ Œ Œ Þ ä Î ^ … p ƒ æ ‘ ç l ð Î ^ Ù ] Ö v Š à V Z Z Ö n Ï † œ â ^ Ú v Û ‚ Ê ^ q ³ Û n ³ Ø X X ! æ Î ^ Ù œ Þ ç … V Z Z œ … m ‚ œ á œ ì † t X X ( Ê Ï ^ Ù ] Ö Û ‚ … Œ V Z Z Ÿ m í † t Ê ± œ $ ß ^ ð ] Ö ‚ … Œ X X ! Î ^ Ù ‡ e n † V Z Z æ ] … œ ‰ ³ ^ å = æ ] … ] ‰ ^ å = X X ! Î ^ Ù ] Ö Û ‚ … Œ V Z Z Ú ^ e Ô m ^ ‡ e n ³ † X X [ Ê Ï ^ Ù ] Ö ˆ e n † V Z Z e ± ‘ ‚ ] Å  ‚ m ‚ ! Z å Z å = Ö o ] Ö Û Š j  Ë o ! æ Ö n „ â g Ú Ã Ô ð Î ^ Ù ] Ö Û ‚ … Œ V Z Z œ ƒ â g ] œ u ‚ ‡ Ú ¡ ñ Ô Ê ± ] Ö Š Ó à X X ! ] Ö ¡ Ý Ê ± Z Z Ö n Ï † œ â ^ X X V -56 Ÿ Ý ] Ÿ e j ‚ ] ð (A) Ÿ Ý ] ¢ Ú † (B) Ÿ Ý ] Ö ß ã ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z Ÿ m í † t Ê ± œ $ ß ^ ð ] Ö ‚ … Œ X X ( æ â „ å Z Z Ÿ ð X X V -57 ] Ö Ã ^ › Ë è (A) ] Ö ß ^ Ê n è (B) ] Ö ß ^ â n è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z Z å Z å X X V -58 ] ‰ Ü ‡ Ú ^ á (A) ] ‰ Ü Â ^ › Ë è (B) ] ‰ Ü Ê Ã Ø (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) æ â ç E Z å Z å D Ú f ß ± Â × o V -59 ] Ö Ë j x (A) ] Ö Ó Š † (B) ] Ö – Ü (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) æ Ê ^ Â × ä E œ ° Z å Z å D • Û n † i Ï ‚ m † å V -60 œ Þ ^ (A) œ Þ k (B) â ç (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 17 [ P.T.O. V– ] ]] ] Î Î Î Î j j j j f f f f ^ ^ ^ ^ Œ Œ Œ Œ á ] Ö f ³ ß ç Õ Ê ± ] Ö ã ß ‚ i ^ e Ã è ð m ³ ç q ‚ e ß Ô Ê ± u ^ … i ß ^ ! ] Z Z Ú ³ ^ Ö ³ × ³ v ³ Ó ç Ú è ] Ö Û † Ò ˆ m è œ æ Ö v Ó ç Ú ^ l ] Ö ç Ÿ m ^ l ( Þ v à ð] Ò ³ × ß ^ Þ Š j Ë n ‚ Ú à æ q ç  ] Ö f ß ç Õ Â × o ] ì j ¡ Í Ú ã ß ß ^ æ u ³ † Ê ß ^ ( m Š j Ë n ‚ Ú ß ã ^ œ ‘ v ^ h ] Ö ’ ß ^ Â ^ l Ê ± ] Ö Û ‚ á æ ] Ö ³ Ë ³ ¡ u ³ ç á Ê ± ] Ö Ï † p ( i í ‚ Ý ‡ e ^ ñ ß ã ^ Ú à Â ^ Ú è ] Ö ß ^ Œ e ³ _ ³ † Ñ Â ³ ‚ m ‚ é Ú ß ã ^ u Š ^ e ^ l ] Ö j ç Ê n † ( æ ] Ö v Š ^ e ^ l ] Ö ³ r ³ ^ … m è æ ] Ö ³ v Š ³ ^ e ³ ^ l ] Ö % ³ ^ e j è ( i ³ Ï ‚ Ý œ m – ^ Î † æ • ^ ÷ Ö × Ë ¡ u n à Ú Ï ^ e Ø Ê ç ] ñ ‚ Î × n × è X X ! Ú Ã ß o Ò × Û è Z Z u ^ … é X X V -61 ] Ö ç ]  ° (A) ] Ö Š ã Ø (B) ] Ö v Ï Ø (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú à â Ü m Š j Ë n ‚ æ á Ú à ] Ö f ß ç Õ [ -62 ] Ö Ë ¡ u ç á (A) œ ‘ v ^ h ] Ö ’ ß ^ Â ^ l (B) ] Ö _ ¡ h (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] Ö f ³ ß ³ ç Õ i ³ Ï ³ ‚ Ý ] Ö ³ Ï † æ š Ö × Ë ¡ u n à Ú Ï ^ e Ø -63 Ê ^ ñ ‚ é V Ò % n † é (A) e ^ â ¿ è (B) Î × n × è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Þ r × n ˆ m è V ð Ò × Û è Z Z ] Ö Ë ^ ñ ‚ é X X i Ã ß o e ^ Ÿ -64 Request (A) Interest (B) Earnest (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Þ r × n ˆ m è V ð Ú Ã ß o Z Z u Š ^ e ^ l ] Ö j ç Î n † X X e ^ Ÿ -65 Freeze Account (A) Savings Account (B) Current Account (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 18 [ P.T.O. Ú ^ â ç Â ‚  u † æ Í ] Ö Ã × è [ -66 ‰ j è (A) ì Û Š è (B) $ ¡ $ è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) â à › ^ Ö f ^ l Ê ± ] Ö r ^ Ú Ã è ! Ê ± â „ å ] Ö r Û × è -67 Ò × Û è Z Z › ^ Ö f ^ l X X â ± Ú % ^ Ù V ] Ö r Û Ä ] Ö Û Ó Š † (A) ] Ö r Û Ä ] Ö Û „ Ò † ] Ö Š ^ Ö Ü (B) ] Ö r Û Ä ] Ö Û © Þ & ] Ö Š ^ Ö Ü (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ‘ Ë v è Ú à ] Ö Ó j ^ h ! —— Î † œ l -68 Ú ¡ ð ] Ö Ë † ] É e ^ Ö Ã ‚  ] Ö Û ß ^ ‰ g V ð] ì Û ‹ Â  † é (A) ì Û Š è Â  † é (B) ì Û Š è Â  † (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Â ^ ñ ‚ ] l Ú à e ^ … m ‹ ! —— -69 Ú ¡ ð ] Ö Ë † ] É e ^ Ö – Û n † ] Ö Û ß ^ ‰ g Ú à ] Ö – Û ^ ñ † ð] ] Ö Û „ Ò ç … é ]  Þ ^ å V œ Þ j à (A) â Ü (B) â à (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú à Ú Ó è ] Ö Û Ó † Ú è m ^ œ ì ç ] Þ ± [ —— Ú j o -70 Ú ¡ ð ] Ö Ë † ] É e ^ Ö Ë Ã Ø ] Ö Û ß ^ ‰ g V ð] … q Ã j ö à (A) … q Ã k ø (B) … q Ã j ö Ü (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) æ q ç â Ó à e ^ Ö ’ ^ e ç á ! ——œ -71 e ^ Ö Ë Ã Ø ] Ö Û ß ^ ‰ g V Ú ¡ ð ] Ö Ë † ] É ð ] Æ Š × j ö Ü (A) Æ Š × j ö à (B) Æ Š × k ø (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 19 [ P.T.O. !—— ] Ö f ß ^ l -72 Ú ¡ ð ] Ö Ë † ] É e ^ Ö í f † ] Ö Û ß ^ ‰ g ] Ö Û „ Ò ç … ]  Þ ^ å V ð ] q ç Â ^ á (A) q ^ ñ Ã è (B) q ^ ñ Ã ^ l (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú ^ â ç Â ‚  Ê Ã Ø ] Ö Û Ï ^ … e è [ -73 œ … e Ã è (A) ì Û Š è (B) ‰ j è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Â n à ] Ö r Û × è ] Ö ’ v n v è Ú à ] Ö r Û Ø ] Ö j ^ Ö n è V -74 q ^ ð ] Ö † q ¡ á (A) q ^ ð ] Ö † q ^ Ù (B) ] Ö † q ¡ á q ^ ð (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] Ö j ³ ³ † q ³ Û è ] Ö ³ ’ ³ v n ³ v è Ö ã ³ „ å ] Ö ³ r ³ Û × è e ³ ^ Ö × Ç è -75 ] Ÿ Þ r × n ˆ m è V Z Z Þ Û j ß o Ö Ô ] Ö í n † X X ! Wish you all the best (A) Wish you good health (B) Wish you good reward (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ê ± ] Ö ’ Ì ì Û ‹ æ Â  † æ á V -76 › ^ Ö f ^ (A) › ^ Ö f è (B) › ¡ h (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z â ^ ¨ Ý X X ‘ n Ç è V -77 æ ] u ‚ Ú „ Ò † u ^ • † (A) æ ] u ‚ Ú „ Ò † Æ ^ ñ g (B) q Û Ä Ú „ Ò † u ^ • † (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 20 [ P.T.O. Â ^ Ú Ø ] Ö Û Ë Ã ç Ù ] Ö Û _ × Ð V -78 Ú ’ ‚ … (A) ] Ö Ë Ã Ø ] Ö Û  j Ð (B) ] Ö ç ‘ Ì ] Ö Û  j Ð (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ê Ã ^ Ù X X m ª i ± Æ ^ Ö f ^ V ð æ ‡ á Z Z ] -79 Ö × Û  ^ … Ò è (A) Ö × Û _ ^ æ Â è (B) Ö × j Ã ‚ m è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Â n à ] Ö r Û × è ] Ö ’ v n v è Ú à ] Ö r Û Ø ] Ö j ^ Ö n è V -80 œ … š ] Ö × ä æ ] ‰ Ã è (A) œ … š ] Ö × ä æ ] ‰ Ä (B) œ … š ] Ö × ä æ ‰ n Ä (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ö n ‹ Ú à œ Ê Ã ^ Ù ] Ö Û Ï ^ … e è V -81 œ æ  Ô (A) Ò ^  (B) œ ‘ f x (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Î ³ ^ Ù ] Ö × ä i Ã ^ Ö o F Z Z Ÿ i Ï † e ç ] ] Ö ’ ¡ å æ œ Þ j Ü -82 ‰ ³ Ó ^ … p X X ! Ê ± â „ å ] ¤ m è Z Z æ œ Þ j Ü ‰ Ó ^ … p X X Ú % ^ Ù Ö Ø V ] Ö Û Ë Ã ç Ù e ä (A) ] Ö Û Ë Ã ç Ù Ú Ã ä (B) ] Ö v ^ Ù (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Î ³ ^ Ù ] Ö ³ × ³ ä i Ã ^ Ö o F Z Z Ê r † Þ ^ ] ¢ … š Â n ç Þ ^ X X ! -83 Ê ± â „ å ] ¤ m è Z Z Â n ç Þ ^ X X Ú % ^ Ù Ö Ø V ] Ö v ^ Ù (A) ] Ö j Û n ˆ (B) Ú Ë Ã ç Ù Ú _ × Ð (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 21 [ P.T.O. u ³ ‚  ] Ö Û Ë Ã ç Ù e ä Ê ± ] Ö r Û × è V Z Z  † h ] Ö Û † m ˜ -84 ] Ö ‚ æ ] ð X X ! ] Ö Û † m ˜ (A)  † h (B) ] Ö ‚ æ ] ð (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Î † œ l ] Ö Ó j ^ h Ò × ä X X Ê ± â „ å ] Ö r Û × è Z Z Ò × ä X X Z Z -85 Ú % ^ Ù Ö Ø V ] Ö j Û n n ˆ (A) ] Ö j ª Ò n ‚ (B) ] Ö f ‚ Ù (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z Ú à m Ã Û Ø ‰ ç ð ] m r ˆ e ä X X Ú % ^ Ù V -86 q ˆ Ý ] Ö Ë Ã Ø (A) Þ ’ g ] Ö Ë Ã Ø (B) q ˆ Ý ] Ö Ë Ã × n à (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z u n % Û ^ X X ] ‰ Ü ó ó ó i – Û à Ú Ã ß o ] Ö  † ½ V -87 ] ‰ Ü ‡ Ú ^ á (A) ] ‰ Ü Ú Ó ^ á (B) ] ‰ Ü Ú f ã Ü (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) i Ï ‚ … Z Z œ á » X X q ç ] ‡ ] e Ã ‚ V -88 œ … e Ã è œ u † Í (A) ì Û Š è œ u † Í (B) ‰ j è œ u † Í (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E)  ^ … é Z Z â ß ^ Õ X X Ú í j “ h V ð ] ‰ Ü ] Ÿ -89 ] Ö Û Ó ^ á ] Ö Ï † m g (A) ] Ö Û Ó ^ á ] Ö Û j ç ‰ ¼ (B) ] Ö Û Ó ^ á ] Ö f Ã n ‚ (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 22 [ P.T.O. Ò × Û è Z Z ] ¢ æ Ÿ  X X V -90 Ú † Ò g ] ‰ ß ^  ° (A) Ú Ë †  (B) Ú † Ò g Ú ˆ q ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Z Z q Û Ä ] Ö „ â g $ Ü ƒ â g X X Ú % ^ Ù V -91 ] Ÿ Î j f ^ Œ (A) ] Ö j ç … m è (B) ] Ö r ß ^ Œ (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] Ÿ Â † ] h ] Ö j Ï ‚ m † ° â ç œ $ † ¾ ^ â † V -92 Ê ± œ æ Ù ] Ö Ó × Û è (A) Ê ± æ ‰ ¼ ] Ö Ó × Û è (B) Ê ± Z ì † ] Ö Ó × Û è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Æ n † ] Ö Û ß ’ † Í Ÿ m × v Ï ä V -93 ] Ö Ë j x (A) ] Ö Ó Š † (B) ] Ö – Ü (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] Ÿ Â † ] h e ^ Ö r ˆ Ý m í j “ h V -94 ] Ÿ ‰ Ü (A) ] Ö Ë Ã Ø (B) ] Ö v † Í (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ê Ã Ø Z Z u ç p X X V -95 Þ ^ Î “ (A) Ö Ë n Ì (B) œ q ç Í (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 23 [ P.T.O. Ò Ü æ ‡ Þ ^ Ö × † e ^ Â ± ] Ö Û r †  [ -96 æ ] u ‚ (A) ] $ ß ^ á (B) $ ¡ $ è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) œ æ Ù Î ^ Ú ç Œ Ê ± ] Ö Ã † e n è V -97 Ö Š ^ á ] Ö Ã † h (A) i ^ t ] Ö Ã † æ Œ (B) Ò j ^ h ] Ö Ã n à (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) m r g i Ï ‚ m Ü ] Ö Û Ë Ã ç Ù e ä Â × o ] Ö Ë ^ Â Ø V -98 Ö Ï ’ † ] Ö Û Ë Ã ç Ù Â × o ] Ö Ë ^ Â Ø (A) ƒ ] Ò ^ á ] Ö Ë ^ Â Ø • Û n † ] Ú j ’ ¡ ð] (B) Ö Ï ’ † ] Ö Ë ^ Â Ø Â × o ] Ö Û Ë Ã ç Ù (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) œ … œ m ³ k ] Ö „ ° m Ó „ h e ^ Ö ‚ m à ( ] Ö Û Ë Ã ç Ù e ä Ê ± -99 â „ ] ] Ö Û % ^ Ù V ] Ö – Û n † ] Ö Û j ’ Ø (A) ] Ö – Û n † ] Ö Û ß Ë ’ Ø (B) ] Ÿ ‰ Ü ] Ö Û f ß ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] ‰ ³ Ü m ³ ‚ Ù Â ³ × o Ú Ã n à e v Š g æ • Ã ä e ¡ -100 Î † m ß è ( Ê ã ç V ] ‰ Ü ] Ö r ß ‹ (A) ] ‰ Ü ] Ÿ  ^ … é (B) ] ‰ Ü ] Ö Ã × Ü (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] Ö Û Ã † h e ^ Ö v † æ Í V -101 ] Ö Û % ß o æ q Û Ä ] Ö Û „ Ò † ] Ö Š ^ Ö Ü (A) ] ¢ ‰ Û ^ ð ] Ö í Û Š è (B) ] ¢ Ê Ã ^ Ù ] Ö í Û Š è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 24 [ P.T.O. Ú à œ ‘ ‚ … Z Z ] Ö r ç ] ñ g X X [ -102 œ u Û ‚ Ê ^ … Œ ] Ö  ‚ m ^ Ñ (A) …  n ‚ … • ^ (B) Â × ± Ú f ^ … Õ (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú à œ Ö Ì Z Z Þ Ï ‚ ] Ö  Ã † X X V -103 › ä u Š n à (A) ] e à …  n Ð ] Ö Ï n † æ ] Þ ± (B) Î ‚ ] Ú è e à q Ã Ë † (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) œ ‰ ‹ Î ç ] Â ‚ Â × Ü ] Ö Ã † æ š V -104 œ ì Ë  (A) ‰ n f ç m ä (B) ì × n Ø e à œ u Û ‚ (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) i ^ t ] Ö Ã † æ Œ Z Z ‘ ß Ë ä X X V -105 Ú v Û ‚ Ú † i – o ] Ö ˆ e n ‚ ° (A) ] e à ì × ‚ æ á (B) ] Ö f n † æ Þ ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ö o ] Ö Û ‚ … ‰ è ! ð] —— ] Ö _ ^ Ö f ^ l -106 Ú ³ ¡ ð ] Ö ³ Ë † ] É e ^ Ö Ë Ã Ø ] Ö Û ß ^ ‰ g ] Ö Û „ Ò ç … å ð] ]  Þ ^ å V ƒ â g (A) ƒ â f j Ü (B) ƒ â f j à (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) !—— ] Ö † q Ø Ò ^ á -107 ] Ö Û „ Ò ç … é Ú ³ ¡ ð ] Ö ³ Ë † ] É e ^ Ö Ó × Û è ] Ö Û ß ^ ‰ f è ð] ]  Þ ^ å V º Æ ß ± (A) Æ ß n ù ^ ÷ (B) Ÿ m Ç ß ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú ¡ ð ] Ö Ë † ] É Ê ± ] Ö r Û × è e ^ ‰ Ü ] Ÿ  ^ … é V ð] -108 ] Ö _ f n f ^ á Ú ^ â † ] á X X ! —— Z Z ] æ Ö ò Ô (A) ƒ Ö Ô (B) i ^ Þ Ô (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 25 [ P.T.O. Ò ³ ç á ] Ö r Û × è ] Ö ’ v n v è e Û Š ^ Â ‚ é â „ å ] Ö Ó × Û ^ l -109 ] Ö ³ Û í j × _ è V Z Z œ Ú j Ã è ] Ö Ï _ ^ … Â × o ] Ö Û Š ^ Ê † m à ] Ö v Û ^ Ö ç á … ¨ æ ‰ ã Ü ] Ö o m v Û × ç á X X ! Ö o ð m ³ v ³ Û ³ × ³ ç á ] Ö ³ v Û ^ Ö ç á œ Ú j Ã j ã Ü ] (A) … ¨ æ ‰ ã Ü Â × o ] Ö Ï _ ^ … m ³ v ³ Û ³ × ç á Â × o … ¨ æ ‰ ã Ü ] Ö v Û ^ Ö ç á (B) Ö o ] Ö Ï _ ^ … ð œ Ú j Ã j ã Ü ] ] Ö v Û ^ Ö ç á m v Û × ç á œ Ú j Ã è ] Ö Û Š ^ Ê † m à (C) Ö o ] Ö Ï _ ^ … ð Â × ` o … ¨ æ ‰ ã Ü ] œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) u ‚  ] Ö r Û Ø ] Ö ’ v n v è Ú à ] Ö r Û Ø ] Ö j ^ Ö n è V -110 â „ ] › ^ æ Ö è Ú v Û ç  (A) … œ m k i × Ô ] Ö † q ^ Ù Ê ± ] Ö Û Ó j g (B) i × Ô ] Ö _ ^ Ö f è i Š Ó à Ê ±  Ö ã ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) u ‚  ] Ö r Û Ø ] Ö ’ v n v è Ú à ] Ö r Û Ø ] Ö j ^ Ö n è V -111 ] Ö ß ^ Œ Ê ± ] Ö Ï † m è i Š j n Ï ¿ ç á Ê ± (A) ] Ö ’ f ^ | ! ] Ö ß Š ^ ð ö m  j † Ò à Ú Ä ] Ö † q ^ Ù Ê ± (B) œ Â Û ^ Ö ã Ü i í † t ] Ö † q ^ Ù æ ] Ÿ æ Ÿ  Ê ± q Û ^ Â ^ l (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) u ‚  ] Ö r Û Ø ] Ö ’ v n v è V -112 u – † Þ ^ ¾ † ] Ö Û ‚ … ‰ è ‘ f ^ u ^ ÷ ! (A) Ú Û à œ ì „ l e „ æ … ] ¢ ‡ â ^ … m ^ Z  ^ [ (B) ‰ ^ Ú ± æ … ] q ç Ú ^ … œ æ ] ] ¢ ‘ n “ (C) ] Ö r ‚ m ‚ œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ò Ø ] ‰ Ü Ú Ã † h Z ì † å â Û ˆ é æ Î f × ã ^ œ Ö Ì ‡ ] ñ ‚ é -113 â ç V ] Ö Û Ï ’ ç … (A) ] Ö Û Û ‚ æ  (B) ] Ö Û ß Ï ç ” (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Missile Strike Þ ³ r × n ˆ m è ð Ú ³ Ã ³ ß o ] Ö Ó × Û è ] Ÿ -114 e ^ Ö Ã † e n è V • † e è Ú ‚ Ê Ã n è (A) • † e è Î „ Ê n ä (B) • † e è ‘ ^ … æ ì n è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 26 [ P.T.O. Þ  ^ ð ] Ö _ × f ± â ç V ] Ÿ -115 ] ¢ Ú † (A) ] Ö ß ã ± (B) ] Ÿ ‰ j Ë ` ^ Ý (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Mass Media Þ r × n ˆ m è ð Ú Ã ß o ] Ö Ó × Û è ] Ÿ -116 e ^ Ö Ã † e n è V Â ¡ Ý ] Ö r Û ^ â n † m è ð æ ‰ ^ ñ Ø ] Ÿ (A) Â ¡ Ý ] Ö Ã ^ Ú è ð æ ‰ ^ ñ Ø ] Ÿ (B) Â ¡ Ý ] Ö v Ó ç Ú n è ð æ ‰ ^ ñ Ø ] Ÿ (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Þ r × n ˆ m è ] Ö o ] Ö Ã † e n è V ð i † q Ü ] Ö r Û × è ] Ÿ -117 The reading is my favorite hobby. á ] Ö Ï † ] é â ± â ç ] m j ± ] Ö Û Ë – × è ! ð] (A) â ç ] m j ± ] Ö Û Ë – × è â ± Ò ^ Þ k ] Ö Ï † œ é ! (B) â ç ] m j ± ] Ö Û Ë – Ø â ç ] Ö Ï † œ é ! (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Þ r × n ˆ m è ] Ö o ] Ö Ã † e n è V ð i † q Ü ] Ö r Û × è ] Ÿ -118 Ali visited Alexandria yesterday. ‰ Ó ß ‚ … m è ! ð ‰ ^ Ê † Æ ‚ ] ÷ Â × ± ] Ÿ (A) ‰ Ó ß ‚ … m è œ Ú ‹ ! ð ] Ÿ º ‡ ] … Â × ± (B) ‰ Ó ß ‚ … m è ! ð œ Ú ‹ ] Ÿ º ƒ â g ] Ö Ã × ± (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ò ³ ç á ] Ö ³ r ³ Û ³ × è ] Ö ³ ’ ³ v n è e Û Š ^ Â ‚ é â „ å -119 ] Ö ³ Ó ³ × ³ Û ^ l ] Ö Û í j × _ è V ] Ö Û ‚ m ß è Ê ± ] Ö v n ^ é ] Ö Ï † m è ] Ö v n ^ é Ú à Ú í j × Ë è Ê ± X X ! ] Ö v n ^ é Ê ± ] Ö Ï † m è Ú í j × Ë è Ú à ] Ö v n ^ é (A) Ê ± ] Ö Û ‚ m ß è Ê ± ] Ö Ï † m è Ú í j × Ë è ] Ö v n ^ é Ú à ] Ö v n ^ é (B) Ê ± ] Ö Û ‚ m ß è Ê ± ] Ö Û ‚ m ß è ] Ö v n ^ é Ú à ] Ö Ï † m è Ú í j × Ë è (C) Ê ± ] Ö v n ^ é œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) ] Ö Û f j ‚ œ m Ó ç á  ] ñ Û ^ V -120 Ú f ß n ^ ÷ (A) Ú ß ’ ç e ^ ÷ (B) Ú r † æ … ] ÷ (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) 17/MV/M-2023-05 ARB (S)/7-A 27 [ P.T.O. SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 17/MV/M-2023-05 ARB (S)/7-A 28 [ P.T.O. 17/MV/M-2023-05 ARB (S)/7-A 29 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ [ P.T.O. SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 17/MV/M-2023-05 ARB (S)/7-A 30 [ P.T.O. SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ \u0001 \u0001 \u0001 17/MV/M-2023-05 ARB (S)/7-A 31 [ P.T.O. 17/MV/M–2023–05 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m gm_m›` A‹``Z Edß Aao{~H$ nÃ—3 ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",
+        "pdf_sha256": "a5645cb26234973d9eba6411e1dbb43a542d58950489128b36129ad6c5a93ec1",
+        "question_label": "40",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-arabic#q060",
+        "source_excerpt": "40. Z°eZb H$m∞boO Am°a {~hma {d⁄mnrR> H$m {ebm›`mg {H$gZo {H$`m Wm? (A) S>m∞0 amOo›– ‡gmX (B) _m°bmZm A„Xwb ~mar (C) _hmÀ_m Jm±Yr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M-2023-05 ARB (S)/7-A 14 Ú j ³ à ‡ m ³ † … ] e ³ ³ ^  Î ³ k e ³ í ç ] Þ n ‚ æ ] ‡ a a a a ³ ³³ ³ ‚ ‚ ‚ ‚ ] ]] ] m m m m ³ ³³ ³ ^ ^ ^ ^ l l l l V V V V q ç ] h e ‚ â n ‚ V 65 i ^ 41 ‰ ç ] Ù Þ Û f † I– ] ]] ] Î Î Î Î j j j j f f f f ^ ^ ^ ^ Œ Œ Œ Œ ] Ö ³ Û ³ v ³ _ ù ³ ^ l Ö ³ × ³ Ï ³ _ ^ … Ò % n † é Ê ± ] Ö ã ß ‚ ! â ± Ú ˆ  u Û è Z Z e ³ ^ Ö ³ Û Š ³ ^ Ê ³ † m à æ ] Ö Û ç  Â n à æ ] Ö Û Š j Ï f × n à Ê ± ] Ö × n Ø æ ] Ö ³ ß ã ³ ^ … ! Ê n ã ^ Ú Ó ^ i g Ö × Û ç ¾ Ë n à ! â ß ^ Õ Æ † Ê è Ö ¡ Þ j ¿ ^ … ! â „ ] Ú Ó j g ] Ÿ ‰ j Ã ¡ Ú ^ l ! æ i × Ô  f ^ e n Ô u r ˆ ] Ö j „ ] Ò † æ e n ³ Ã ã ³ ³ ^ ! ] Ö ³ Û Š ³ ³ ^ Ê ³ † æ á æ ] Î ³ Ë ³ ç á Ê ± ] Ö _ ç ] e n † Ö  † ] ð ] Ö j „ ] Ò † ! ] Ö j „ Ò † é e _ ^ Î è ‘ Ç n † é Ú à ] Ö ç … Ñ ] Ö % í n à Ú _ f ç Å Â × n ã ^ $ ß Û ã ^ ( æ i ^ … m î ] Ö Š Ë † ( æ  … q j ä æ … Î Ü ] Ö Ï _ ^ … ! Ò n Ì i Ó ç á ] Ö Û v _ ^ l Ö × Ï _ ^ … Ê ± ] Ö ã ß ‚ [ -41 Ú ß ¿ Ë è (A) Ú ç ‰ Ã è (B) Ú Ó j ¿ è (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú à Ò ^ Þ ç ] æ ] Î Ë n à Ê ± ] Ö _ ç ] e n † [ -42 ] Ö Û ç  Â ç á (A) ] Ö Û Š j Ï f × ç á (B) ] Ö Û Š ^ Ê † æ á (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú ³ ^ â ³ ± ] Ö ³ Û Ã × ç Ú ^ l Ò ^ Þ k Ú _ f ç Â o Â × o -43 ] Ö j „ ] Ò † [ ] Ö % Û à (A) … Î Ü ] Ö Ï _ ^ … (B) i ^ … m î ] Ö Š Ë † (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Þ r × n ˆ m è [ ð Ú ^ Ú Ã ß o Ò × Û è ] Ö _ ç ] e n † e ^ Ÿ -44 Queue (A) View (B) Few (C) œ Ò % † Ú à æ ] u ‚ Ú Û ^ ‰ f Ð (D) Ö n ‹ œ u ‚ Ú Û ^ ‰ f Ð (E) Ú ³ ^ Ú ³ Ã ³ ß ³ o Ò × Û è Z Z Ú Ó j g ] Ÿ ‰ j Ã ¡ Ú ^ l X X"
+      }
+    }
+  ]
+}

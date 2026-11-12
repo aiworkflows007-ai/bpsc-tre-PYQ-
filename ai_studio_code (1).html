@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>BPSC TRE Cracker - PYQ Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; -webkit-tap-highlight-color: transparent; }
+        .option-input:checked + .option-label {
+            background-color: #eff6ff;
+            border-color: #2563eb;
+            box-shadow: 0 0 0 1px #2563eb;
+        }
+        .option-input:checked + .option-label .opt-badge {
+            background-color: #2563eb;
+            color: white;
+            border-color: #2563eb;
+        }
+        .eliminated { opacity: 0.4; text-decoration: line-through; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col">
+
+    <!-- TOP NAVBAR (Hidden during active exam on mobile for screen space) -->
+    <header id="main-header" class="bg-gradient-to-r from-indigo-900 via-blue-900 to-indigo-900 text-white px-4 py-3.5 shadow-md sticky top-0 z-30">
+        <div class="max-w-5xl mx-auto flex justify-between items-center">
+            <div class="flex items-center gap-2.5" onclick="goHome()" role="button">
+                <div class="bg-amber-400 text-indigo-950 font-black px-2.5 py-1 rounded-lg text-sm tracking-tighter shadow">BPSC</div>
+                <div>
+                    <h1 class="text-base font-bold leading-tight">TRE PYQ Cracker</h1>
+                    <p class="text-[11px] text-blue-200">5-Option Pattern • Smart Analytics</p>
+                </div>
+            </div>
+            <button onclick="goHome()" class="bg-white/10 hover:bg-white/20 active:scale-95 transition px-3 py-1.5 rounded-lg text-xs font-semibold backdrop-blur-sm border border-white/15">
+                🏠 Dashboard
+            </button>
+        </div>
+    </header>
+
+    <!-- MAIN CONTAINER -->
+    <main class="flex-grow max-w-5xl w-full mx-auto p-3 sm:p-5">
+
+        <!-- ================= VIEW 1: HOME CATEGORIES ================= -->
+        <div id="view-categories" class="space-y-5 my-2">
+            
+            <!-- Exam Cracker Settings Banner -->
+            <div class="bg-white p-4 rounded-2xl shadow-sm border border-slate-200 flex flex-wrap justify-between items-center gap-3">
+                <div>
+                    <span class="text-xs font-bold uppercase tracking-wider text-indigo-600 bg-indigo-50 px-2.5 py-1 rounded-full">Exam Mode Settings</span>
+                    <h2 class="text-sm font-bold text-slate-700 mt-1.5">Configure Negative Marking for Practice</h2>
+                </div>
+                <div class="flex items-center gap-2 bg-slate-100 p-1.5 rounded-xl border border-slate-200 text-xs font-bold">
+                    <button onclick="setNegativeMarking(0.25)" id="neg-0.25" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white shadow-sm transition">-1/4 (0.25)</button>
+                    <button onclick="setNegativeMarking(0.33)" id="neg-0.33" class="px-3 py-1.5 rounded-lg text-slate-600 hover:bg-white transition">-1/3 (0.33)</button>
+                    <button onclick="setNegativeMarking(0)" id="neg-0" class="px-3 py-1.5 rounded-lg text-slate-600 hover:bg-white transition">No Negative</button>
+                </div>
+            </div>
+
+            <h2 class="text-lg font-extrabold text-slate-800 px-1">Choose Exam Section</h2>
+
+            <div class="grid sm:grid-cols-3 gap-4">
+                <!-- 1. Qualifying Paper -->
+                <div onclick="openSets('qualifying')" class="bg-white p-5 rounded-2xl shadow-sm hover:shadow-md active:scale-[0.99] transition cursor-pointer border border-slate-200 relative overflow-hidden group">
+                    <div class="w-1.5 h-full bg-emerald-500 absolute left-0 top-0"></div>
+                    <div class="flex justify-between items-start mb-3">
+                        <span class="bg-emerald-100 text-emerald-800 text-xs font-extrabold px-2.5 py-1 rounded-lg">Part I • 30 Qs</span>
+                        <span class="text-2xl">🗣️</span>
+                    </div>
+                    <h3 class="text-lg font-extrabold text-slate-800 group-hover:text-emerald-600 transition">Qualifying Paper</h3>
+                    <p class="text-slate-500 text-xs mt-1 leading-relaxed">English (8 Qs) & Hindi/Urdu/Bangla (22 Qs). 30% Qualifying nature.</p>
+                    <div class="mt-4 pt-3 border-t border-slate-100 flex justify-between items-center text-xs font-bold text-emerald-600">
+                        <span>Practice Sets</span>
+                        <span>Start &rarr;</span>
+                    </div>
+                </div>
+
+                <!-- 2. GK/GS Part -->
+                <div onclick="openSets('gkgs')" class="bg-white p-5 rounded-2xl shadow-sm hover:shadow-md active:scale-[0.99] transition cursor-pointer border border-slate-200 relative overflow-hidden group">
+                    <div class="w-1.5 h-full bg-blue-600 absolute left-0 top-0"></div>
+                    <div class="flex justify-between items-start mb-3">
+                        <span class="bg-blue-100 text-blue-800 text-xs font-extrabold px-2.5 py-1 rounded-lg">Part II • 40 Qs</span>
+                        <span class="text-2xl">🌍</span>
+                    </div>
+                    <h3 class="text-lg font-extrabold text-slate-800 group-hover:text-blue-600 transition">GK / GS Section</h3>
+                    <p class="text-slate-500 text-xs mt-1 leading-relaxed">Maths, Science, Indian National Movement, Geography, Current Affairs.</p>
+                    <div class="mt-4 pt-3 border-t border-slate-100 flex justify-between items-center text-xs font-bold text-blue-600">
+                        <span>Practice Sets</span>
+                        <span>Start &rarr;</span>
+                    </div>
+                </div>
+
+                <!-- 3. Subject Paper -->
+                <div onclick="openSubjects()" class="bg-white p-5 rounded-2xl shadow-sm hover:shadow-md active:scale-[0.99] transition cursor-pointer border border-slate-200 relative overflow-hidden group">
+                    <div class="w-1.5 h-full bg-purple-600 absolute left-0 top-0"></div>
+                    <div class="flex justify-between items-start mb-3">
+                        <span class="bg-purple-100 text-purple-800 text-xs font-extrabold px-2.5 py-1 rounded-lg">Part III • 80 Qs</span>
+                        <span class="text-2xl">📚</span>
+                    </div>
+                    <h3 class="text-lg font-extrabold text-slate-800 group-hover:text-purple-600 transition">Subject Paper</h3>
+                    <p class="text-slate-500 text-xs mt-1 leading-relaxed">Select your specific domain subject (Social Science, Maths/Sci, Lang, etc.)</p>
+                    <div class="mt-4 pt-3 border-t border-slate-100 flex justify-between items-center text-xs font-bold text-purple-600">
+                        <span>Choose Subject</span>
+                        <span>Explore &rarr;</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ================= VIEW 1.5: SUBJECT SELECTION ================= -->
+        <div id="view-subjects" class="hidden space-y-4 my-2">
+            <button onclick="goHome()" class="text-indigo-700 bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-lg text-xs font-bold inline-flex items-center gap-1">
+                &larr; Back to Home
+            </button>
+            <div>
+                <h2 class="text-xl font-extrabold text-slate-800">Select Your Subject</h2>
+                <p class="text-xs text-slate-500">Part III • 80 Marks Merit Deciding Domain Paper</p>
+            </div>
+            <div id="subjects-container" class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+                <!-- Subjects injected via JS -->
+            </div>
+        </div>
+
+        <!-- ================= VIEW 2: SET SELECTION ================= -->
+        <div id="view-sets" class="hidden space-y-4 my-2">
+            <button id="back-from-sets-btn" onclick="goHome()" class="text-indigo-700 bg-indigo-50 hover:bg-indigo-100 px-3 py-1.5 rounded-lg text-xs font-bold inline-flex items-center gap-1">
+                &larr; Back
+            </button>
+            <div>
+                <h2 id="set-category-title" class="text-xl font-extrabold text-slate-800">Select Practice Set</h2>
+                <p id="set-category-subtitle" class="text-xs text-slate-500 mt-0.5"></p>
+            </div>
+            <div id="sets-container" class="grid sm:grid-cols-2 gap-3.5">
+                <!-- Sets injected via JS -->
+            </div>
+        </div>
+
+        <!-- ================= VIEW 3: FULL EXAM INTERFACE ================= -->
+        <div id="view-exam" class="hidden pb-20">
+            
+            <!-- Sticky Mobile Exam Top Bar -->
+            <div class="bg-white p-3 rounded-2xl shadow-sm border border-slate-200 mb-3 sticky top-1 z-20">
+                <div class="flex justify-between items-center border-b border-slate-100 pb-2 mb-2">
+                    <div class="truncate pr-2">
+                        <h2 id="exam-title" class="font-bold text-xs sm:text-sm text-slate-800 truncate">Set Name</h2>
+                    </div>
+                    <div class="flex items-center gap-2 shrink-0">
+                        <span id="neg-badge" class="text-[10px] font-bold bg-rose-50 text-rose-700 px-2 py-0.5 rounded border border-rose-200">-0.25</span>
+                        <button onclick="toggleMobilePalette()" class="lg:hidden bg-slate-800 text-white text-xs font-bold px-2.5 py-1 rounded-lg flex items-center gap-1">
+                            <span>🔢 Palette</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- 3 Smart Timers Bar -->
+                <div class="grid grid-cols-3 gap-2 text-center">
+                    <div class="bg-blue-50/80 px-2 py-1 rounded-xl border border-blue-200/80">
+                        <span class="block text-[9px] text-blue-600 font-bold uppercase tracking-wider">Time Spent</span>
+                        <span id="q-time-spent" class="font-mono text-sm sm:text-base font-extrabold text-blue-900">00:00</span>
+                    </div>
+                    <div class="bg-emerald-50/80 px-2 py-1 rounded-xl border border-emerald-200/80">
+                        <span class="block text-[9px] text-emerald-700 font-bold uppercase tracking-wider">Best Time</span>
+                        <span id="q-best-time" class="font-mono text-sm sm:text-base font-extrabold text-emerald-800">00:45</span>
+                    </div>
+                    <div class="bg-rose-50/80 px-2 py-1 rounded-xl border border-rose-200/80">
+                        <span class="block text-[9px] text-rose-600 font-bold uppercase tracking-wider">Time Left</span>
+                        <span id="total-timer" class="font-mono text-sm sm:text-base font-extrabold text-rose-700">00:00</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Exam Grid -->
+            <div class="grid lg:grid-cols-3 gap-4">
+                
+                <!-- Question & Options Card (2 Cols on Desktop) -->
+                <div class="lg:col-span-2 bg-white p-4 sm:p-6 rounded-2xl shadow-sm border border-slate-200 flex flex-col justify-between">
+                    <div>
+                        <!-- Question Meta Bar -->
+                        <div class="flex justify-between items-center mb-3">
+                            <div class="flex items-center gap-2">
+                                <span id="q-number-badge" class="bg-indigo-600 text-white px-2.5 py-1 rounded-lg text-xs font-extrabold">Q. 1</span>
+                                <span id="pace-badge" class="text-[11px] font-bold px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800">⚡ Good Pace</span>
+                            </div>
+                            <span class="text-[11px] text-slate-400 font-medium">Tip: Use 👁️ to eliminate wrong options</span>
+                        </div>
+
+                        <!-- Question Text -->
+                        <p id="q-text" class="text-base sm:text-lg text-slate-800 font-semibold mb-5 leading-relaxed select-text">
+                            Question text goes here...
+                        </p>
+
+                        <!-- 5 Options Container -->
+                        <div id="options-container" class="space-y-2.5">
+                            <!-- Injected via JS -->
+                        </div>
+                    </div>
+
+                    <!-- Secondary Actions (Clear / Mark for review) -->
+                    <div class="flex justify-between items-center pt-4 mt-6 border-t border-slate-100 text-xs font-bold">
+                        <button onclick="clearResponse()" class="text-slate-600 hover:text-slate-900 bg-slate-100 hover:bg-slate-200 px-3 py-2 rounded-xl transition">
+                            ✖ Clear Choice
+                        </button>
+                        <button onclick="markForReview()" class="text-purple-700 bg-purple-100 hover:bg-purple-200 px-3.5 py-2 rounded-xl transition">
+                            ⚑ Mark for Review & Next
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Question Palette Drawer (Desktop Right Col + Mobile Slide-over Modal) -->
+                <div id="palette-drawer" class="fixed inset-0 bg-black/50 z-40 hidden lg:static lg:bg-transparent lg:block">
+                    <div class="bg-white w-full max-w-sm ml-auto h-full lg:h-auto lg:max-w-none p-4 sm:p-5 rounded-t-3xl lg:rounded-2xl shadow-xl lg:shadow-sm border border-slate-200 flex flex-col justify-between mt-16 lg:mt-0">
+                        <div>
+                            <div class="flex justify-between items-center border-b pb-3 mb-3">
+                                <h3 class="font-extrabold text-slate-800 text-sm">Question Navigator</h3>
+                                <button onclick="toggleMobilePalette()" class="lg:hidden text-slate-500 font-bold text-sm bg-slate-100 px-2.5 py-1 rounded-lg">Close ✕</button>
+                            </div>
+
+                            <!-- Legend -->
+                            <div class="grid grid-cols-2 gap-2 text-[11px] font-semibold text-slate-600 mb-4 bg-slate-50 p-2.5 rounded-xl">
+                                <div class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-emerald-600 inline-block"></span> Answered</div>
+                                <div class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-rose-500 inline-block"></span> Skipped</div>
+                                <div class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-purple-600 inline-block"></span> Review</div>
+                                <div class="flex items-center gap-1.5"><span class="w-3 h-3 rounded bg-slate-200 inline-block"></span> Unseen</div>
+                            </div>
+
+                            <!-- Grid -->
+                            <div id="palette-grid" class="grid grid-cols-5 gap-2 max-h-60 overflow-y-auto p-1">
+                                <!-- Buttons injected via JS -->
+                            </div>
+                        </div>
+
+                        <button onclick="submitExam()" class="w-full mt-5 bg-emerald-600 hover:bg-emerald-700 active:scale-[0.99] text-white font-extrabold py-3 rounded-xl shadow-md transition text-sm">
+                            ✓ Submit Final Exam
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Sticky Bottom Navigation Bar for Mobile/Desktop -->
+            <div class="fixed bottom-0 left-0 right-0 bg-white border-t border-slate-200 p-3 z-30 shadow-lg">
+                <div class="max-w-5xl mx-auto flex justify-between items-center gap-3">
+                    <button onclick="prevQuestion()" class="w-1/3 bg-slate-100 hover:bg-slate-200 active:scale-95 text-slate-800 font-bold py-2.5 rounded-xl text-sm transition">
+                        &larr; Previous
+                    </button>
+                    <button onclick="saveAndNext()" class="w-2/3 bg-indigo-600 hover:bg-indigo-700 active:scale-95 text-white font-bold py-2.5 rounded-xl text-sm shadow-md transition">
+                        Save & Next &rarr;
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- ================= VIEW 4: CRACKER SCORECARD & ANALYTICS ================= -->
+        <div id="view-result" class="hidden space-y-5 my-2">
+            <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200">
+                <div class="text-center border-b border-slate-100 pb-4 mb-5">
+                    <span id="res-pass-badge" class="px-3 py-1 rounded-full text-xs font-extrabold uppercase tracking-wider bg-emerald-100 text-emerald-800">的分析 Complete</span>
+                    <h2 class="text-2xl font-black text-slate-800 mt-2">Performance Scorecard</h2>
+                    <p id="res-subtitle" class="text-xs text-slate-500 mt-0.5"></p>
+                </div>
+
+                <!-- Score Grid -->
+                <div class="grid grid-cols-2 sm:grid-cols-5 gap-3 text-center mb-6">
+                    <div class="bg-indigo-50 p-3.5 rounded-xl border border-indigo-100 col-span-2 sm:col-span-1">
+                        <p class="text-[11px] font-bold text-indigo-600 uppercase">Net Score</p>
+                        <p id="res-net-score" class="text-2xl font-black text-indigo-950 mt-0.5">0.00</p>
+                    </div>
+                    <div class="bg-emerald-50 p-3.5 rounded-xl border border-emerald-100">
+                        <p class="text-[11px] font-bold text-emerald-700 uppercase">Correct (+1)</p>
+                        <p id="res-correct" class="text-xl font-black text-emerald-800 mt-0.5">0</p>
+                    </div>
+                    <div class="bg-rose-50 p-3.5 rounded-xl border border-rose-100">
+                        <p class="text-[11px] font-bold text-rose-700 uppercase">Wrong Penalty</p>
+                        <p id="res-wrong" class="text-xl font-black text-rose-800 mt-0.5">0</p>
+                    </div>
+                    <div class="bg-amber-50 p-3.5 rounded-xl border border-amber-100">
+                        <p class="text-[11px] font-bold text-amber-700 uppercase">Accuracy</p>
+                        <p id="res-accuracy" class="text-xl font-black text-amber-900 mt-0.5">0%</p>
+                    </div>
+                    <div class="bg-slate-100 p-3.5 rounded-xl border border-slate-200">
+                        <p class="text-[11px] font-bold text-slate-600 uppercase">Time Taken</p>
+                        <p id="res-time" class="text-xl font-black text-slate-800 mt-0.5">0m 0s</p>
+                    </div>
+                </div>
+
+                <h3 class="font-extrabold text-base mb-3 text-slate-800">Detailed Solutions & Time Pacing Review:</h3>
+                <div id="review-container" class="space-y-3.5"></div>
+            </div>
+        </div>
+
+    </main>
+
+    <script>
+        // =========================================================================
+        // 📚 DATABASE: BPSC TRE PYQ QUESTIONS (Add your questions easily here!)
+        // =========================================================================
+        const quizDatabase = {
+            qualifying: {
+                title: "Qualifying Paper (Language)",
+                subtitle: "30 Questions • Qualifying Nature (30% Required)",
+                sets: [
+                    {
+                        id: "qual_tre3_set1",
+                        name: "BPSC TRE 3.0 - Language Official PYQ Set 1",
+                        totalTimeMinutes: 30,
+                        questions: [
+                            {
+                                q: "Select the most appropriate synonym of the word 'ABANDON'.",
+                                options: ["Keep", "Forsake", "Cherish", "More than one of the above", "None of the above"],
+                                answer: 1,
+                                bestTimeSeconds: 25,
+                                explanation: "'Abandon' means to give up completely or desert. 'Forsake' also means to abandon or leave."
+                            },
+                            {
+                                q: "'यथाशक्ति' में कौन-सा समास है?",
+                                options: ["तत्पुरुष समास", "अव्ययीभाव समास", "द्विगु समास", "उपर्युक्त में से एक से अधिक", "उपर्युक्त में से कोई नहीं"],
+                                answer: 1,
+                                bestTimeSeconds: 20,
+                                explanation: "'यथाशक्ति' (शक्ति के अनुसार) में प्रथम पद 'यथा' अव्यय है, अतः यहाँ अव्ययीभाव समास है।"
+                            },
+                            {
+                                q: "Choose the correct article: He is ___ honest man.",
+                                options: ["a", "an", "the", "More than one of the above", "None of the above"],
+                                answer: 1,
+                                bestTimeSeconds: 20,
+                                explanation: "'Honest' starts with a vowel sound ('o'), so 'an' is used before it."
+                            }
+                        ]
+                    }
+                ]
+            },
+            gkgs: {
+                title: "General Studies (GK/GS)",
+                subtitle: "40 Questions • Common Merit Section",
+                sets: [
+                    {
+                        id: "gk_tre3_set1",
+                        name: "BPSC TRE - GK/GS High-Yield PYQ Set 1",
+                        totalTimeMinutes: 40,
+                        questions: [
+                            {
+                                q: "Who among the following was the President of the Gaya Session of the Indian National Congress held in 1922?",
+                                options: ["Chittaranjan Das", "Motilal Nehru", "Dr. Rajendra Prasad", "More than one of the above", "None of the above"],
+                                answer: 0,
+                                bestTimeSeconds: 35,
+                                explanation: "Deshbandhu Chittaranjan Das presided over the 1922 Gaya Session of the INC in Bihar."
+                            },
+                            {
+                                q: "Which of the following is used as a moderator in a nuclear reactor?",
+                                options: ["Graphite", "Heavy Water (D2O)", "Cadmium rods", "More than one of the above", "None of the above"],
+                                answer: 3,
+                                bestTimeSeconds: 40,
+                                explanation: "Both Graphite and Heavy Water are used as moderators to slow down neutrons. Cadmium rods are used as control rods. Hence, Option D (More than one of the above) is correct!"
+                            },
+                            {
+                                q: "If the cost price of 15 tables be equal to the selling price of 20 tables, the loss percent is:",
+                                options: ["20%", "25%", "30%", "More than one of the above", "None of the above"],
+                                answer: 1,
+                                bestTimeSeconds: 60,
+                                explanation: "15 CP = 20 SP => CP/SP = 20/15 = 4/3. Loss = (4-3)/4 * 100 = 25%."
+                            }
+                        ]
+                    }
+                ]
+            },
+            // NEW: Subject Wise Categorization inside Subject Paper!
+            subjects: {
+                history: {
+                    name: "History (इतिहास)",
+                    icon: "🏛️",
+                    desc: "Ancient, Medieval, Modern & World History PYQs",
+                    sets: [
+                        {
+                            id: "hist_set1",
+                            name: "BPSC TRE History - PYQ Practice Set 1",
+                            totalTimeMinutes: 60,
+                            questions: [
+                                {
+                                    q: "When did the Permanent Settlement come into operation in Bengal and Bihar?",
+                                    options: ["1790", "1793", "1798", "More than one of the above", "None of the above"],
+                                    answer: 1,
+                                    bestTimeSeconds: 35,
+                                    explanation: "Lord Cornwallis introduced the Permanent Settlement in Bengal, Bihar, and Odisha in 1793."
+                                },
+                                {
+                                    q: "Who founded the 'Swadesh Bandhab Samiti' during the Swadeshi Movement?",
+                                    options: ["Ashwini Kumar Dutta", "Rabindranath Tagore", "Aurobindo Ghosh", "More than one of the above", "None of the above"],
+                                    answer: 0,
+                                    bestTimeSeconds: 40,
+                                    explanation: "Ashwini Kumar Dutta founded the Swadesh Bandhab Samiti in Barisal to promote indigenous goods."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                polity: {
+                    name: "Polity (राजनीति विज्ञान)",
+                    icon: "⚖️",
+                    desc: "Indian Constitution, Governance & Political Theory",
+                    sets: [
+                        {
+                            id: "pol_set1",
+                            name: "BPSC TRE Polity - PYQ Practice Set 1",
+                            totalTimeMinutes: 60,
+                            questions: [
+                                {
+                                    q: "Which Article of the Indian Constitution empowers the President to promulgate Ordinances?",
+                                    options: ["Article 110", "Article 123", "Article 213", "More than one of the above", "None of the above"],
+                                    answer: 1,
+                                    bestTimeSeconds: 30,
+                                    explanation: "Article 123 grants the President power to issue ordinances, whereas Article 213 grants this power to the Governor."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                geography: {
+                    name: "Geography (भूगोल)",
+                    icon: "🗺️",
+                    desc: "Physical, Indian, Bihar & Economic Geography",
+                    sets: [
+                        {
+                            id: "geo_set1",
+                            name: "BPSC TRE Geography - PYQ Practice Set 1",
+                            totalTimeMinutes: 60,
+                            questions: [
+                                {
+                                    q: "Which river is known as the 'Sorrow of Bihar'?",
+                                    options: ["Gandak", "Kosi", "Son", "More than one of the above", "None of the above"],
+                                    answer: 1,
+                                    bestTimeSeconds: 25,
+                                    explanation: "The Kosi river is called the Sorrow of Bihar due to its frequent course changes and devastating floods."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                math_sci: {
+                    name: "Maths & Science (गणित एवं विज्ञान)",
+                    icon: "🔬",
+                    desc: "Class 6-8 & 9-10 Physics, Chemistry, Bio & Maths",
+                    sets: [
+                        {
+                            id: "ms_set1",
+                            name: "BPSC TRE Maths & Science - Set 1",
+                            totalTimeMinutes: 80,
+                            questions: [
+                                {
+                                    q: "Which of the following lenses is used to correct Myopia (short-sightedness)?",
+                                    options: ["Convex Lens", "Concave Lens", "Cylindrical Lens", "More than one of the above", "None of the above"],
+                                    answer: 1,
+                                    bestTimeSeconds: 30,
+                                    explanation: "A diverging (Concave) lens is used to correct Myopia so the image focuses directly on the retina."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                computer: {
+                    name: "Computer Science",
+                    icon: "💻",
+                    desc: "TRE PGT (11-12) C++, DBMS, Networking,DSA",
+                    sets: [
+                        {
+                            id: "cs_set1",
+                            name: "BPSC TRE Computer Science - Set 1",
+                            totalTimeMinutes: 80,
+                            questions: [
+                                {
+                                    q: "Which data structure works on the LIFO (Last In First Out) principle?",
+                                    options: ["Queue", "Stack", "Linked List", "More than one of the above", "None of the above"],
+                                    answer: 1,
+                                    bestTimeSeconds: 25,
+                                    explanation: "A Stack follows the Last In, First Out (LIFO) principle."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        };
+
+        // =========================================================================
+        // ⚙️ STATE & EXAM LOGIC
+        // =========================================================================
+        let negativeMarkValue = 0.25; // Default -1/4th
+        let currentSet = null;
+        let currentQIndex = 0;
+        let userAnswers = [];
+        let eliminatedOptions = []; // Array of Sets for 50-50 option elimination
+        let qStatus = [];
+        let qTimeSpent = [];
+        let totalTimeRemaining = 0;
+        let mainTimerInterval = null;
+
+        function setNegativeMarking(val) {
+            negativeMarkValue = val;
+            ['0.25', '0.33', '0'].forEach(v => {
+                const btn = document.getElementById('neg-' + v);
+                if (parseFloat(v) === val) {
+                    btn.className = "px-3 py-1.5 rounded-lg bg-indigo-600 text-white shadow-sm transition";
+                } else {
+                    btn.className = "px-3 py-1.5 rounded-lg text-slate-600 hover:bg-white transition";
+                }
+            });
+        }
+
+        function hideAllViews() {
+            ['view-categories', 'view-subjects', 'view-sets', 'view-exam', 'view-result'].forEach(id => {
+                document.getElementById(id).classList.add('hidden');
+            });
+            document.getElementById('main-header').classList.remove('hidden');
+        }
+
+        function goHome() {
+            clearInterval(mainTimerInterval);
+            hideAllViews();
+            document.getElementById('view-categories').classList.remove('hidden');
+        }
+
+        // Open Subject Selection Screen
+        function openSubjects() {
+            hideAllViews();
+            const container = document.getElementById('subjects-container');
+            container.innerHTML = '';
+
+            Object.keys(quizDatabase.subjects).forEach(subKey => {
+                const sub = quizDatabase.subjects[subKey];
+                container.innerHTML += `
+                    <div onclick="openSubjectSets('${subKey}')" class="bg-white p-4 rounded-2xl shadow-sm hover:shadow-md active:scale-95 transition cursor-pointer border border-slate-200 flex flex-col justify-between">
+                        <div>
+                            <span class="text-2xl">${sub.icon}</span>
+                            <h3 class="font-extrabold text-slate-800 text-sm sm:text-base mt-2">${sub.name}</h3>
+                            <p class="text-[11px] text-slate-500 mt-1">${sub.desc}</p>
+                        </div>
+                        <div class="mt-3 pt-2 border-t border-slate-100 flex justify-between items-center text-xs font-bold text-purple-600">
+                            <span>${sub.sets.length} Set(s)</span>
+                            <span>Open &rarr;</span>
+                        </div>
+                    </div>
+                `;
+            });
+
+            document.getElementById('view-subjects').classList.remove('hidden');
+        }
+
+        // Open Sets for a specific Subject
+        function openSubjectSets(subKey) {
+            hideAllViews();
+            const sub = quizDatabase.subjects[subKey];
+            document.getElementById('set-category-title').innerText = sub.name;
+            document.getElementById('set-category-subtitle').innerText = sub.desc;
+            document.getElementById('back-from-sets-btn').setAttribute('onclick', 'openSubjects()');
+
+            renderSetsList(sub.sets, 'subject', subKey);
+            document.getElementById('view-sets').classList.remove('hidden');
+        }
+
+        // Open Sets for Qualifying or GK/GS
+        function openSets(categoryKey) {
+            hideAllViews();
+            const cat = quizDatabase[categoryKey];
+            document.getElementById('set-category-title').innerText = cat.title;
+            document.getElementById('set-category-subtitle').innerText = cat.subtitle;
+            document.getElementById('back-from-sets-btn').setAttribute('onclick', 'goHome()');
+
+            renderSetsList(cat.sets, categoryKey, null);
+            document.getElementById('view-sets').classList.remove('hidden');
+        }
+
+        function renderSetsList(setsArray, categoryKey, subKey) {
+            const container = document.getElementById('sets-container');
+            container.innerHTML = '';
+
+            setsArray.forEach((set, idx) => {
+                container.innerHTML += `
+                    <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 flex flex-col justify-between">
+                        <div>
+                            <div class="flex justify-between items-center mb-2">
+                                <span class="bg-indigo-50 text-indigo-700 text-[11px] font-extrabold px-2.5 py-0.5 rounded-md">${set.questions.length} Questions</span>
+                                <span class="text-xs text-slate-500 font-semibold">⏱️ ${set.totalTimeMinutes} Mins</span>
+                            </div>
+                            <h4 class="font-extrabold text-base text-slate-800">${set.name}</h4>
+                            <p class="text-xs text-slate-500 mt-1">Marking: +1.00 | Negative: -${negativeMarkValue}</p>
+                        </div>
+                        <button onclick="startExam('${categoryKey}', '${subKey}', ${idx})" class="mt-4 w-full bg-indigo-600 hover:bg-indigo-700 active:scale-[0.99] text-white font-bold py-2.5 px-4 rounded-xl text-xs shadow-sm transition">
+                            🚀 Start Full Exam Mode
+                        </button>
+                    </div>
+                `;
+            });
+        }
+
+        function startExam(categoryKey, subKey, setIndex) {
+            if (categoryKey === 'subject') {
+                currentSet = quizDatabase.subjects[subKey].sets[setIndex];
+            } else {
+                currentSet = quizDatabase[categoryKey].sets[setIndex];
+            }
+
+            currentQIndex = 0;
+            const qCount = currentSet.questions.length;
+            userAnswers = new Array(qCount).fill(null);
+            eliminatedOptions = Array.from({ length: qCount }, () => new Set());
+            qStatus = new Array(qCount).fill('unvisited');
+            qTimeSpent = new Array(qCount).fill(0);
+            totalTimeRemaining = currentSet.totalTimeMinutes * 60;
+
+            hideAllViews();
+            document.getElementById('view-exam').classList.remove('hidden');
+            document.getElementById('exam-title').innerText = currentSet.name;
+            document.getElementById('neg-badge').innerText = `Neg: -${negativeMarkValue}`;
+
+            loadQuestion(0);
+            startTimers();
+        }
+
+        function startTimers() {
+            clearInterval(mainTimerInterval);
+            mainTimerInterval = setInterval(() => {
+                if (totalTimeRemaining > 0) {
+                    totalTimeRemaining--;
+                    document.getElementById('total-timer').innerText = formatTimeMMSS(totalTimeRemaining);
+                } else {
+                    submitExam();
+                }
+
+                qTimeSpent[currentQIndex]++;
+                updateQuestionTimerUI();
+            }, 1000);
+        }
+
+        function updateQuestionTimerUI() {
+            const currentSpent = qTimeSpent[currentQIndex];
+            const bestTime = currentSet.questions[currentQIndex].bestTimeSeconds || 45;
+            const spentEl = document.getElementById('q-time-spent');
+            const paceBadge = document.getElementById('pace-badge');
+
+            spentEl.innerText = formatTimeMMSS(currentSpent);
+
+            if (currentSpent > bestTime) {
+                spentEl.className = "font-mono text-sm sm:text-base font-extrabold text-rose-600 animate-pulse";
+                paceBadge.className = "text-[11px] font-bold px-2 py-0.5 rounded-full bg-rose-100 text-rose-700";
+                paceBadge.innerText = "⚠️ Slow Pace! Move Fast";
+            } else {
+                spentEl.className = "font-mono text-sm sm:text-base font-extrabold text-blue-900";
+                paceBadge.className = "text-[11px] font-bold px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800";
+                paceBadge.innerText = "⚡ On Target Pace";
+            }
+        }
+
+        function loadQuestion(index) {
+            currentQIndex = index;
+            if (qStatus[index] === 'unvisited') qStatus[index] = 'not_answered';
+
+            const qObj = currentSet.questions[index];
+            document.getElementById('q-number-badge').innerText = `Q. ${index + 1} / ${currentSet.questions.length}`;
+            document.getElementById('q-text').innerText = qObj.q;
+            document.getElementById('q-best-time').innerText = formatTimeMMSS(qObj.bestTimeSeconds || 45);
+            updateQuestionTimerUI();
+
+            const letters = ['A', 'B', 'C', 'D', 'E'];
+            const optContainer = document.getElementById('options-container');
+            optContainer.innerHTML = '';
+
+            qObj.options.forEach((optText, optIdx) => {
+                const isChecked = userAnswers[index] === optIdx ? 'checked' : '';
+                const isEliminated = eliminatedOptions[index].has(optIdx);
+
+                optContainer.innerHTML += `
+                    <div class="flex items-center gap-2">
+                        <div class="flex-grow">
+                            <input type="radio" name="exam-option" id="opt-${optIdx}" value="${optIdx}" class="hidden option-input" ${isChecked} onchange="selectOption(${optIdx})">
+                            <label for="opt-${optIdx}" id="label-${optIdx}" class="option-label flex items-center p-3 sm:p-3.5 border border-slate-200 rounded-xl cursor-pointer transition select-none ${isEliminated ? 'eliminated' : ''}">
+                                <span class="opt-badge w-7 h-7 rounded-lg border border-slate-300 flex items-center justify-center mr-3 text-xs font-extrabold text-slate-600 shrink-0">${letters[optIdx]}</span>
+                                <span class="text-sm sm:text-base font-medium text-slate-800">${optText}</span>
+                            </label>
+                        </div>
+                        <button onclick="toggleEliminate(${optIdx})" title="Strike out wrong option" class="px-2.5 py-3 rounded-xl border border-slate-200 text-xs font-bold ${isEliminated ? 'bg-rose-100 text-rose-700 border-rose-300' : 'bg-slate-50 text-slate-400 hover:text-slate-700'}">
+                            👁️
+                        </button>
+                    </div>
+                `;
+            });
+
+            renderPalette();
+        }
+
+        function toggleEliminate(optIdx) {
+            const elimSet = eliminatedOptions[currentQIndex];
+            if (elimSet.has(optIdx)) {
+                elimSet.delete(optIdx);
+            } else {
+                elimSet.add(optIdx);
+                if (userAnswers[currentQIndex] === optIdx) {
+                    userAnswers[currentQIndex] = null;
+                    qStatus[currentQIndex] = 'not_answered';
+                }
+            }
+            loadQuestion(currentQIndex);
+        }
+
+        function selectOption(optIdx) {
+            eliminatedOptions[currentQIndex].delete(optIdx);
+            userAnswers[currentQIndex] = optIdx;
+            qStatus[currentQIndex] = 'answered';
+            loadQuestion(currentQIndex);
+        }
+
+        function clearResponse() {
+            userAnswers[currentQIndex] = null;
+            qStatus[currentQIndex] = 'not_answered';
+            loadQuestion(currentQIndex);
+        }
+
+        function markForReview() {
+            qStatus[currentQIndex] = 'review';
+            if (currentQIndex < currentSet.questions.length - 1) {
+                loadQuestion(currentQIndex + 1);
+            } else {
+                renderPalette();
+            }
+        }
+
+        function saveAndNext() {
+            if (userAnswers[currentQIndex] !== null) {
+                qStatus[currentQIndex] = 'answered';
+            } else if (qStatus[currentQIndex] !== 'review') {
+                qStatus[currentQIndex] = 'not_answered';
+            }
+            if (currentQIndex < currentSet.questions.length - 1) {
+                loadQuestion(currentQIndex + 1);
+            } else {
+                renderPalette();
+            }
+        }
+
+        function prevQuestion() {
+            if (currentQIndex > 0) loadQuestion(currentQIndex - 1);
+        }
+
+        function toggleMobilePalette() {
+            const drawer = document.getElementById('palette-drawer');
+            drawer.classList.toggle('hidden');
+        }
+
+        function renderPalette() {
+            const grid = document.getElementById('palette-grid');
+            grid.innerHTML = '';
+            qStatus.forEach((status, idx) => {
+                let colorClass = 'bg-slate-100 text-slate-700 border border-slate-200';
+                if (status === 'answered') colorClass = 'bg-emerald-600 text-white';
+                else if (status === 'not_answered') colorClass = 'bg-rose-500 text-white';
+                else if (status === 'review') colorClass = 'bg-purple-600 text-white';
+
+                const activeBorder = idx === currentQIndex ? 'ring-2 ring-offset-2 ring-indigo-600' : '';
+
+                grid.innerHTML += `
+                    <button onclick="loadQuestion(${idx}); document.getElementById('palette-drawer').classList.add('hidden');" class="h-10 w-full rounded-xl font-extrabold text-xs ${colorClass} ${activeBorder} transition">
+                        ${idx + 1}
+                    </button>
+                `;
+            });
+        }
+
+        function submitExam() {
+            clearInterval(mainTimerInterval);
+            hideAllViews();
+            document.getElementById('view-result').classList.remove('hidden');
+
+            let correct = 0, wrong = 0, totalSpent = 0;
+            const letters = ['A', 'B', 'C', 'D', 'E'];
+            const reviewContainer = document.getElementById('review-container');
+            reviewContainer.innerHTML = '';
+
+            currentSet.questions.forEach((qObj, idx) => {
+                totalSpent += qTimeSpent[idx];
+                const userAns = userAnswers[idx];
+                const isCorrect = userAns === qObj.answer;
+                if (userAns !== null) {
+                    if (isCorrect) correct++;
+                    else wrong++;
+                }
+
+                const bestSec = qObj.bestTimeSeconds || 45;
+                const timeBadge = qTimeSpent[idx] <= bestSec
+                    ? `<span class="bg-emerald-100 text-emerald-800 px-2 py-0.5 rounded text-[11px] font-bold">⚡ ${qTimeSpent[idx]}s (Target: ${bestSec}s)</span>`
+                    : `<span class="bg-rose-100 text-rose-800 px-2 py-0.5 rounded text-[11px] font-bold">🐢 ${qTimeSpent[idx]}s (Target: ${bestSec}s)</span>`;
+
+                reviewContainer.innerHTML += `
+                    <div class="p-4 rounded-2xl border ${isCorrect ? 'bg-emerald-50/40 border-emerald-200' : (userAns === null ? 'bg-slate-50 border-slate-200' : 'bg-rose-50/40 border-rose-200')}">
+                        <div class="flex justify-between items-center mb-2">
+                            <span class="text-xs font-extrabold text-slate-600">Q. ${idx + 1}</span>
+                            ${timeBadge}
+                        </div>
+                        <p class="font-bold text-slate-800 text-sm sm:text-base mb-2.5">${qObj.q}</p>
+                        <div class="text-xs space-y-1 mb-3">
+                            <p>Your Answer: <span class="font-bold ${isCorrect ? 'text-emerald-700' : 'text-rose-600'}">${userAns !== null ? `(${letters[userAns]}) ${qObj.options[userAns]}` : 'Skipped (0 Marks)'}</span></p>
+                            <p>Correct Answer: <span class="font-bold text-emerald-800">(${letters[qObj.answer]}) ${qObj.options[qObj.answer]}</span></p>
+                        </div>
+                        <div class="bg-white p-3 rounded-xl border border-slate-200/80 text-xs text-slate-600">
+                            <span class="font-extrabold text-indigo-700">💡 Cracker Concept:</span> ${qObj.explanation || 'Standard BPSC PYQ concept.'}
+                        </div>
+                    </div>
+                `;
+            });
+
+            const penalty = (wrong * negativeMarkValue);
+            const netScore = (correct - penalty).toFixed(2);
+            const attempted = correct + wrong;
+            const accuracy = attempted > 0 ? Math.round((correct / attempted) * 100) : 0;
+
+            document.getElementById('res-subtitle').innerText = `${currentSet.name} • Negative Marking: -${negativeMarkValue}`;
+            document.getElementById('res-net-score').innerText = `${netScore} / ${currentSet.questions.length}`;
+            document.getElementById('res-correct').innerText = `+${correct}`;
+            document.getElementById('res-wrong').innerText = `-${penalty.toFixed(2)} (${wrong})`;
+            document.getElementById('res-accuracy').innerText = `${accuracy}%`;
+            document.getElementById('res-time').innerText = `${Math.floor(totalSpent / 60)}m ${totalSpent % 60}s`;
+        }
+
+        function formatTimeMMSS(sec) {
+            const m = String(Math.floor(sec / 60)).padStart(2, '0');
+            const s = String(sec % 60).padStart(2, '0');
+            return `${m}:${s}`;
+        }
+    </script>
+</body>
+</html>

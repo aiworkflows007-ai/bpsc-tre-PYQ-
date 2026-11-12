@@ -1,0 +1,4153 @@
+{
+  "metadata": {
+    "exam": "TRE-3",
+    "exam_year": 2024,
+    "subject": "Computer Science",
+    "class_band": "11-12",
+    "shift": null,
+    "frontend_category": "subject",
+    "frontend_subject": "Computer Science",
+    "source_file": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+    "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+    "extracted_at": "2026-11-09T01:20:00.172Z",
+    "extracted_text_pages": 49
+  },
+  "questions": [
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q001",
+      "question_number": "E-2",
+      "question_text": "Why should you take a trip to the spice gardensinthehills?",
+      "options": [
+        {
+          "label": "A",
+          "text": "there"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "cardamoms"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "E-2",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q001",
+        "source_excerpt": "E-2. Why should you take a trip to the spice gardensinthehills? (A) To count the spices that are grown there (B) Tobuysomespices (C) To inhale the fragrance of fresh cardamoms (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q002",
+      "question_number": "E-5",
+      "question_text": "Whywouldforeignbargain-huntervisitors neverfaceaprobleminKerala?",
+      "options": [
+        {
+          "label": "A",
+          "text": "inKerala"
+        },
+        {
+          "label": "B",
+          "text": "communicationinthecitiesofkerala."
+        },
+        {
+          "label": "C",
+          "text": "everywhereinKerala."
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "Directions(Q.Nos.E-6toE-7):Fillintheblanks withsuitablearticleslike'a','an',and'the':"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "E-5",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q002",
+        "source_excerpt": "E-5. Whywouldforeignbargain-huntervisitors neverfaceaprobleminKerala? (A) Manyforeignlanguagesarespoken inKerala (B) Hindi is the language of communicationinthecitiesofkerala. (C) English is spoken and understood everywhereinKerala. (D) Morethanoneoftheabove (E) Noneoftheabove Directions(Q.Nos.E-6toE-7):Fillintheblanks withsuitablearticleslike'a','an',and'the':"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q003",
+      "question_number": "E-8",
+      "question_text": "If 30th April is Tuesday, what day of the weekwouldbe10th May?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "PART - I (English Language) 3 13/HV/M-2024-26/HS-526-E [P.T.O. (HindiLanguage) {ZåZ{b{IV An{R>V JÚm§e Ho$ AmYma na àíZ g§§. H-9 go H-14 VH$ Ho$ àíZm| Ho$ CÎma {X¶o Om¶| & aVZ Am¡a AO¶ EH$ hr ñHy$b Ho$ N>mÌ Wo & aVZ Jar~ Wm Am¡a AO¶ YZr & aVZ Jar~ hmoH$a ^r nT>Zo ‘| VoO Wm & g^r {ejH$ CgHo$ì¶dhmagoàgÞahVoWo&BgHo${dnarVAO¶~hþVZQ>IQ> Wm & nT>Zo Ho$ ~Xbo IobZo-Hy$XZo Am¡a ~X‘mer ‘| A{YH$ ‘Z bJmVm Wm & aVZ Am¡a AO¶ {Xbr XmoñV Wo & Bg{bEaVZ AO¶ H$mo AÀN>m N>mÌ~ZZo Ho$ {bEgbmh XoVm Wm & AO¶ {ejH$m| H$s ~mVZht‘mZVmWm&EH$~maaVZgoZmamOhmoH$aAO¶^mJahm Wm&aVZZoXm¡‹S>H$aAO¶H$moamoH$ZmMmhm&BVZo hr‘| EH$ ‘moQ>a Ho$ZrModh{JaJ¶m&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "E-8",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q003",
+        "source_excerpt": "E-8. If 30th April is Tuesday, what day of the weekwouldbe10th May? (A) Monday (B) Thursday (C) Saturday (D) Morethanoneoftheabove (E) Noneoftheabove PART - I (English Language) 3 13/HV/M-2024-26/HS-526-E [P.T.O. (HindiLanguage) {ZåZ{b{IV An{R>V JÚm§e Ho$ AmYma na àíZ g§§. H-9 go H-14 VH$ Ho$ àíZm| Ho$ CÎma {X¶o Om¶| & aVZ Am¡a AO¶ EH$ hr ñHy$b Ho$ N>mÌ Wo & aVZ Jar~ Wm Am¡a AO¶ YZr & aVZ Jar~ hmoH$a ^r nT>Zo ‘| VoO Wm & g^r {ejH$ CgHo$ì¶dhmagoàgÞahVoWo&BgHo${dnarVAO¶~hþVZQ>IQ> Wm & nT>Zo Ho$ ~Xbo IobZo-Hy$XZo Am¡a ~X‘mer ‘| A{YH$ ‘Z bJmVm Wm & aVZ Am¡a AO¶ {Xbr XmoñV Wo & Bg{bEaVZ AO¶ H$mo AÀN>m N>mÌ~ZZo Ho$ {bEgbmh XoVm Wm & AO¶ {ejH$m| H$s ~mVZht‘mZVmWm&EH$~maaVZgoZmamOhmoH$aAO¶^mJahm Wm&aVZZoXm¡‹S>H$aAO¶H$moamoH$ZmMmhm&BVZo hr‘| EH$ ‘moQ>a Ho$ZrModh{JaJ¶m&"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q004",
+      "question_number": "H-12",
+      "question_text": "aVZ Am¡a AO¶ Amng ‘| ³¶m Wo ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "H-12",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q004",
+        "source_excerpt": "H-12. aVZ Am¡a AO¶ Amng ‘| ³¶m Wo ? (A) XmoñV (B) {XbrXmoñV (C) ^mB© (D) Cn¶w©³V‘| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q005",
+      "question_number": "H-14",
+      "question_text": "AO¶{H$gH$m‘‘|A{YH$‘ZbJmVmWm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "4 13/HV/M-2024-26/HS-526-E {ZåZ{b{IV An{R>V JÚm§e Ho$ AmYma na àíZ g§§. H-15 go H-20 VH$ Ho$ àíZm| Ho$ CÎma {X¶o Om¶| & {edmOr^maVHo$‘hmZ² dram|_| goEH$ Wo& CZH$mCÔoí¶ ‘hmamUm àVmn Ho$ CÔoí¶ go ^r Cƒ Wm & do AnZo H$m¶m] ‘| g’$b aho & do Ho$dbdrahrZht,~pëH$EH$AÀN>oamOZr{Vk^rWo&CÝhm|ZobmoJm| ‘|EH$amï´>H$s^mdZm^aXrAm¡a‘amR>mamÁ¶H$sñWmnZmH$s&do H$Å>a{hÝXþWoVmo^rXygaoHo$Y‘©Am¡ag§ñH¥${VH$mAmXaH$aVoWo& CZHo$ AÀN>o JwUm| Ho$ H$maU g^r bmoJ CZH$m AmXa H$aVo Wo & h‘ bmoJm|H$moCZHo$OrdZgo{ejmboZrMm{hE&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "H-14",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q005",
+        "source_excerpt": "H-14. AO¶{H$gH$m‘‘|A{YH$‘ZbJmVmWm? (A) PJS>Zo‘| (B) nT>Zo‘| (C) Xm¡S>Zo‘o (D) Cn¶w©³V‘| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht 4 13/HV/M-2024-26/HS-526-E {ZåZ{b{IV An{R>V JÚm§e Ho$ AmYma na àíZ g§§. H-15 go H-20 VH$ Ho$ àíZm| Ho$ CÎma {X¶o Om¶| & {edmOr^maVHo$‘hmZ² dram|_| goEH$ Wo& CZH$mCÔoí¶ ‘hmamUm àVmn Ho$ CÔoí¶ go ^r Cƒ Wm & do AnZo H$m¶m] ‘| g’$b aho & do Ho$dbdrahrZht,~pëH$EH$AÀN>oamOZr{Vk^rWo&CÝhm|ZobmoJm| ‘|EH$amï´>H$s^mdZm^aXrAm¡a‘amR>mamÁ¶H$sñWmnZmH$s&do H$Å>a{hÝXþWoVmo^rXygaoHo$Y‘©Am¡ag§ñH¥${VH$mAmXaH$aVoWo& CZHo$ AÀN>o JwUm| Ho$ H$maU g^r bmoJ CZH$m AmXa H$aVo Wo & h‘ bmoJm|H$moCZHo$OrdZgo{ejmboZrMm{hE&"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q006",
+      "question_number": "H-15",
+      "question_text": "{edmOrdrahmoZoHo$gmWAm¡a³¶mWo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "H-15",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q006",
+        "source_excerpt": "H-15. {edmOrdrahmoZoHo$gmWAm¡a³¶mWo? (A) EH$AÀN>oamOZr{Vk (B) loð>{dMmaH$ (C) Hw$ebg‘«mQ> (D) Cn`w©ŠV‘| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q007",
+      "question_number": "H-20",
+      "question_text": "BZ‘|An{R>VJÚm§eH$merf©H$h¡-",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "H-20",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q007",
+        "source_excerpt": "H-20. BZ‘|An{R>VJÚm§eH$merf©H$h¡- (A) {edmOrH$samï´>r¶MoVZm (B) {edmOrH$mOrdZ (C) {edmOrH$mnamH«$‘ (D) Cn`w©ŠV‘| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q008",
+      "question_number": "H-30",
+      "question_text": "\"IQ>mB©‘|n‹S>Zm'‘whmdaoH$mAW©h¡-",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "                                                                                                                                                                                                                                                                                                                                                             .U-9   (A)  (B)   (C)            (D)         (E)             .U-10      (A)     (B)                (C)            (D)         (E)            .U-11       (A)       (B)     (C)            (D)         (E)                   .U-12         (A)    (B)   (C)            (D)         (E)                         .U-13      (A)     (B)    (C)            (D)         (E)                .U-14    (A)    (B)  (C)            (D)         (E) 6 13/HV/M-2024-26/HS-526-E (Urdu Language)                                                                                                                                                                                                                                                                                                               .U-15   (A)   (B)   (C)            (D)         (E)                       .U-16           (A)     (B)     (C)            (D)         (E)                 .U-17                (A)      (B)      (C)            (D)         (E)                  .U-18     (A)    (B)    (C)            (D)         (E)                        .U-19          (A)     (B)   (C)            (D)         (E)              .U-20    (A)    (B)     (C)           (D)         (E)           .U-21   (A)   (B)    (C)            (D)         (E) 7 13/HV/M-2024-26/HS-526-E [P.T.O. \"\"     '           .U-22     (A)  (B)  (C)            (D)         (E)                  .U-23    (A)  (B)  (C)            (D)         (E)            .U-24  (A)   (B)    (C)            (D)         (E)                 .U-25              (A)              (B)              (C)            (D)         (E)         \"\"       .U-26   (A)      (B)    (C)            (D)         (E)          \" \"    .U-27   (A)    (B)    (C)            (D)         (E)          \"    \" .U-28    (A)    (B)  (C)            (D)         (E)                  .U-29   (A)  (B)     (C)            (D)         (E)      \"\"       .U-30   (A)  (B)    (C)            (D)         (E) 8 13/HV/M-2024-26/HS-526-E 9 13/HV/M-2024-26/HS-526-E [P.T.O. (Bengali Language) ²ÌÙÀôy¡yŒB-9öíöì†þB-14Š îûy™yîûy”#îû ôy•þy þ›íÄ †þ!îûöì¡l îöìØþ– !†þv ö¤ öîûyˆ ¥¥zöì•þ ô%!_« þ›yGëûy– •þ„y¥yîû x˜,öìÜT !Sé¡ lyÐ !•þ!l x!•þ¢ëû ™l# !Séöì¡l– ~‡l x!•þ ˜%/!‡l# ¥¥zëûy!Séöì¡l– ~¥z ¢yîû#!îû†þ ~î‚ ôyl!¤†þ!m!î™†þÜT–•þ„y¥yîû¤¥Ä¥¥z¡lyÐöîûyˆe«öìôî,!m*þ›y¥zëûy– •þ„y•þyîû ö¢‡ †þy¡ ’þzþ›!ßi•þ ¥¥z¡Ð ~ô•þ ¤ôöìëû !î¡y•þ ¥¥zöì•þ ¤‚îy˜xy!¤¡òöë–!²Ì!£ìö†þï!ªöì¡îûxyÞØþ¡•þ„y¥yîûþ›öìÇþ!lÜ›!_ þ›y¥zëûyöìSé—!•þ!lxyþ›l¤Á›!_þ›%l/²Ìy®¥¥zöìîl–Gëûy!¢¡yöìèþîû Øþy†þy öæþîû•þ þ›y¥zöìîl ~î‚ !•þ!l xy˜y¡öì•þîû ‡îû‹þy þ›y¥zöìîlÐ †þyôy‡Äylyí îyî%•þ„y¥yîû þ›öìÇþ ¥y¥zöì†þyöìØþÅîû ’þz†þ#¡!Séöì¡l– !•þ!l ßºëû‚~¥z¤‚îy˜¡¥zëûyîûy™yîûy”#îûôy•þyîû†%þØþ#öìîû’þzþ›!ßi•þ¥¥zöì¡lÐ ¤%¤‚îy˜Ö!lëûy–îû&§¬yîûx!îîû¡lëûly×&þ›!’þüöì•þ¡y!ˆ¡Ð !•þ!llëûly×&¤‚îîû”†þ!îûëûy †þyôy‡Äyîyî%öì†þî!¡öì¡l– òòöë ²Ì˜#þ› !l!îëûyöìSé– •þy¥yöì•þ ö•þ¡ !˜öì¡ !†þ ¥¥zöìîÚ xyþ›lyîû ~ ¤%¤‚îyöì˜G xyôyîûxyîû ²Ìy”îûÇþy ¥¥zöìî lyÐxyôyîûxyëû%/öì¢£ì ¥¥zëûyöìSéÐ •þöìî xyôyîû ~¥z ¤%‡ öë– îûy™yîûy”# xyîû xly¥yöìîû ²Ìy”•þÄyˆ †þ!îûöìî lyÐ •þy¥z îy ö†þ ?yöìlÚ ö¤ îy!¡†þy– •þy¥yîû ~ ¤Á›!_ ö†þ îûÇþy †þ!îûöìîÚ ö†þî¡ xyþ›!l¥z èþîû¤yÐ xyþ›!l xyôyîû ~¥z x!hsýô †þyöì¡ xyôyöìîû ~†þ!Øþ !èþÇþy !˜’þzléŸél!¥öì¡ xyîû †þy¥yîû †þyöìSé ‹þy!¥îÐóó †þyôy‡Äy îyî% x!•þ èþo ö¡y†þ ~î‚ !•þ!l îûy™yîûy”#îû !þ›•þyîû î¦%þ !Séöì¡lÐ îûy™yîûy”#îû ôy•þy ˜%˜Å¢y@ýÌhßì ¥¥zöì¡– !•þ!l îûy™yîûy”#îû ôy•þyöì†þ î!¡ëûy!Séöì¡l öë– ë•þ !˜l ly xyþ›#¡ !lÜ›!_ þ›yëû– xhsý•þ/ •þ•þ !˜l ö•þyôîûy xy!¤ëûy xyôyîû ˆ,öì¥ xîßiyl †þîû– xy!ô xyþ›lyîû ôy•þyîû ô•þ ö•þyôyöì†þ îûy!‡îÐ îûy™yîûy”#îû ôy•þy •þy¥yöì•þ xßº#†,þ•þy ¥¥zëûy!Séöì¡lÐ þ›!îûöì¢öì£ì †þyôy‡Äyîyî%!†þS%é !†þS%é ôy!¤†þ¤y¥yëÄ †þ!îûöì•þ‹þy!¥öì¡lÐòòxyôyîû ~‡lG !†þS%é ¥yöì•þxyöìSééŸéxyî¢Ä†þ ¥¥zöì¡ ‹þy!¥ëûy ¡¥zîÐóó~¥zîû*þ› !ôíÄy †þíy î!¡ëûy îûy™yîûy”#îû ôy•þy ö¤ ¤y¥yëÄ @ýÌ¥öì” xßº#†,þ•þy ¥¥zëûy!Séöì¡lÐîû&!©”#†%þôyöìîûîû˜yl@ýÌ¥”•þ„y¥y!˜öìˆîû²ÌíôG ö¢£ì ˜yl @ýÌ¥”Ð †þyôy‡Äy îyî% ~•þ!˜l î%!Vþöì•þ þ›yöìîûl ly¥z öë– •þ„y¥yîûy ~îû*þ› ˜%˜Å¢y@ýÌhßì ¥¥zëûyöìSélÐ ˜¢y ö˜!‡ëûy †þyôy‡Äyîyî% x•þÄhsý †þy•þîû ¥¥zöì¡lÐ xyîyîû îûy™yîûy”#îû ôy•þy– ë%_«†þöìîû •þ„y¥yîû †þyöìSé !èþÇþy ‹þy!¥öì•þöìSél– ö˜!‡ëûy xyîûG †þy•þîû ¥¥zöì¡l— î!¡öì¡l– òòxyþ›!lxyKþy†þîû&l–xy!ô!†þ†þ!îûîÚxyþ›lyîûëy¥y²Ìöìëûy?l#ëû– xy!ô •þy¥y¥z †þ!îûîÐóó îûy™yîûy”#îû ôy•þy î!¡öì¡l– òòxy!ô ‹þ!¡¡yô– !†þv îûy™yîûy”# îû!¥¡Ð ~Çþöì” xy˜y¡•þ ¥¥zöì•þ xyôyîû Ù»Ööìîûîû ëíyíÅ ’þz¥z¡ !¤m* ¥¥zëûyöìSé— x•þ~î îûy™yîûy”# ~†þy ¤ôhßì ¤Á›!_îû x!™†þy!îû”# ¥¥zöìîÐ xyþ›!l •þy¥yöì†þ ö˜!‡öìîl– xyþ›lyîû †þlÄyîû ßiyëû •þy¥yöì†þ îûÇþy †þ!îûöìîl– ~¥z xyôyîû !èþÇþyÐ xyþ›!l ~¥z †þíy ßº#†þyîû †þ!îûöì¡¥z xy!ô ¤%öì‡ ô!îûöì•þ þ›y!îûÐóó †þyôy‡Äy îyî% î!¡öì¡l– òòxy!ô xyþ›lyîû !l†þØþ ¢þ›í †þ!îûöì•þ!Sé– xy!ô îûy™yîûy”#öì†þ xyþ›l †þlÄyîû x!™†þ ëb †þ!îûîÐ xy!ô †þyëûôöìlyîyöì†þÄ ~ †þíy †þ!¥¡yô— xyþ›!l !îÙ»y¤ †þîû&lÐóó !ë!l ô%ô%£ì%Å– !•þ!l †þyôy‡Äy îyî%îû ‹þöìÇþîû ?¡ ö˜!‡ëûy– •þ„y¥yîû †þíyëû !îÙ»y¤ †þ!îûöì¡lÐ •þ„y¥yîû ö¤¥z ¢#”Å ÖÜñ x™öìîû ~†þØ%þ xy¥Ïyöì˜îû ¥y!¤ ö˜‡y !˜¡Ð ¥y!¤ ö˜!‡ëûy †þyôy‡Äy îyî% î%!Vþöì¡l– ¥z!l xyîû î„y!‹þöìîl lyÐ †þyôy‡Äy îyî% •þ„y¥yöì†þ !îöì¢£ì †þ!îûëûy xl%öìîûy™ †þ!îûöì¡l öë– ~Çþöì” xyôyîû ˆ,öì¥ ‹þ¡%lÐ þ›öìîû èþoy¤l ˜‡¡ ¥¥zöì¡ xy!¤öìîlÐ îûy™yîûy”#îû ôy•þyîû öë x¥Bþyîû– ö¤˜y!îûoÄ?!l•þéŸé~?lÄ˜y!îûoÄyîßiyëû •þ„y¥yîûˆ,öì¥ëy¥zöì•þ ‹þyöì¥l ly¥zÐ ~Çþöì” xyîû ˜y!îûoÄ ly¥z– ¤%•þîûy‚ xyîû ö¤ x¥BþyîûG ly¥zÐ ~Çþöì” !•þ!l ëy¥zöì•þ ¤Á¿•þ ¥¥zöì¡lÐ †þyôy‡Äy îyî%– îûy™yîûy”# G •þy¥yîû ôy•þyöì†þ ¤ëöìb !l?y¡öìëû ¡¥zëûy öˆöì¡lÐ !•þ!l îû#!•þô•þ þ›#!’þü•þyîû !‹þ!†þê¤y †þîûy¥zöì¡lÐ !†þv •þ„y¥yîû ?#îl îûÇþy ¥¥z¡ ly– xÒ!˜öìl¥z •þ„y¥yîû ô,•%þÄ ¥¥z¡Ð ’þzþ›ë%_« ¤ôöìëû †þyôy‡Äy îyî% îûy™yîûy”#öì†þ •þy¥yîû ¤Á›!_öì•þ ˜‡¡ ö˜Gëûy¥zöì¡lÐ !†þv îûy™yîûy”# îy!¡†þy î!¡ëûy •þy¥yöì†þ !l? îyØþ#öì•þ ~†þy íy!†þöì•þ !˜öì¡l ly– xyþ›l ˆ,öì¥¥z îûy!‡öì¡lÐ †þyöì¡Qîû ¤yöì¥î– îûy™yîûy”#îû ¤Á›!_ ö†þyØþÅ xî Gëûy’þÅöì¤îû x™#öìl xy!lîyîû ?lÄ ëb þ›y¥zöì¡l– !†þv †þyôy‡Äy îyî% !îöìî‹þly †þ!îûöì¡l– xy!ô îûy™yîûy”#îû ?lÄ ë•þ˜)îû †þ!îûî– ¤îû†þy!îû †þôÅ‹þy!îûˆ” •þ•þ˜)îû †þ!îûöìî lyÐ †þyôy‡Äyîyî%îû ö†þï¢öì¡ †þyöì¡Qîû ¤yöì¥î !lîûhßì ¥¥zöì¡lÐ †þyôy‡Äyîyî% ßºëû‚ îûy™yîûy”#îû ¤Á›!_îû •þ_´yî™yl †þ!îûöì•þ ¡y!ˆöì¡lÐ îy!†þ îûy™yîûy”#îû !îîy¥Ð !†þv †þyôy‡Äy îyî% lîÄ•þöìsfîû ö¡y†þ îy¡Ä!îîyöì¥•þ„y¥yîûöm£ì !Sé¡Ð !•þ!l!îöìî‹þly †þ!îûöì¡l öë– îûy™yîûy”#îû !îîy¥ •þy’þüy•þy!’þü ly !˜öì¡– ?y!•þ öˆ¡ ôöìl †þöìîû– ~ô•þ ö†þ¥ •þy¥yîû ly¥zÐ x•þ~î ëöìî îûy™yîûy”#– ßºëû‚ !îöìî‹þly †þ!îûëûy !îîyöì¥ ¥zFS%é†þ ¥¥zöìî– •þöìî •þy¥yîû !îîy¥ !˜îÐ ~‡l ö¤ ö¡‡yþ›’þüy !¢‡%†þÐ ~¥z èþy!îëûy †þyôy‡Äyîyî% îûy™yîûy”#îû !îîyöì¥îû ö†þyl ’þzöì˜Äyˆly†þ!îûëûy–•þy¥yöì†þ’þz_ôîû*öìþ›¤%!¢!Çþ•þ†þîûy¥zöì¡lÐ 10 13/HV/M-2024-26/HS-526-E"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "H-30",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q008",
+        "source_excerpt": "H-30. \"IQ>mB©‘|n‹S>Zm'‘whmdaoH$mAW©h¡- (A) P‘obo‘|n‹S>Zm (B) M¡Z{‘bZm (C) {d¿ZAmZm (D) Cn¶w©³V‘| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht                                                                                                                                                                                                                                                                                                                                                              .U-9   (A)  (B)   (C)            (D)         (E)             .U-10      (A)     (B)                (C)            (D)         (E)            .U-11       (A)       (B)     (C)            (D)         (E)                   .U-12         (A)    (B)   (C)            (D)         (E)                         .U-13      (A)     (B)    (C)            (D)         (E)                .U-14    (A)    (B)  (C)            (D)         (E) 6 13/HV/M-2024-26/HS-526-E (Urdu Language)                                                                                                                 "
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q009",
+      "question_number": "31",
+      "question_text": "Which of the following is the value of (x+1/x)2 ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "+ 1/x2"
+        },
+        {
+          "label": "B",
+          "text": "– 1/x2"
+        },
+        {
+          "label": "C",
+          "text": "+ 1/x2 + 1"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "31",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q009",
+        "source_excerpt": "31. Which of the following is the value of (x+1/x)2 ? (A) x2 + 1/x2 (B) x2 – 1/x2 (C) x2 + 1/x2 + 1 (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q010",
+      "question_number": "32",
+      "question_text": "An article is at 10% more than the CP. If discountof10%isallowedthenwhichofthe followingisright?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "32",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q010",
+        "source_excerpt": "32. An article is at 10% more than the CP. If discountof10%isallowedthenwhichofthe followingisright? (A) 1%gain (B) 1%loss (C) nogainnoloss (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q011",
+      "question_number": "34",
+      "question_text": "Thedifferencebetweentwowholenumbers is 66. The ratio of the two numbers is 2:5. Thetwonumbersare:",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "34",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q011",
+        "source_excerpt": "34. Thedifferencebetweentwowholenumbers is 66. The ratio of the two numbers is 2:5. Thetwonumbersare: (A) 60 and 6 (B) 100 and 33 (C) 110and 44 (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q012",
+      "question_number": "36",
+      "question_text": "Theheightofacylinderwhoseradiusis7cm andthetotalsurfaceareais968cm2 is:",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "36",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q012",
+        "source_excerpt": "36. Theheightofacylinderwhoseradiusis7cm andthetotalsurfaceareais968cm2 is: (A) 15cm (B) 17cm (C) 19cm (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q013",
+      "question_number": "37",
+      "question_text": "If(–3)m+1 ×(–3)5 =(–3)7 ,thenthevalueofm is:",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "37",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q013",
+        "source_excerpt": "37. If(–3)m+1 ×(–3)5 =(–3)7 ,thenthevalueofm is: (A) 5 (B) 7 (C) 1 (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q014",
+      "question_number": "40",
+      "question_text": "An electric heater of resistance 8  draws 15Acurrentfromaservicemainsfor2Hrs. What will be the rate at which heat is developedintheheater?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "15 13/HV/M-2024-26/HS-526-E [P.T.O. PART - II (GENERAL STUDIES)"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "40",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q014",
+        "source_excerpt": "40. An electric heater of resistance 8  draws 15Acurrentfromaservicemainsfor2Hrs. What will be the rate at which heat is developedintheheater? (A) 220watt (B) 120watt (C) 210watt (D) Morethanoneoftheabove (E) Noneoftheabove 15 13/HV/M-2024-26/HS-526-E [P.T.O. PART - II (GENERAL STUDIES)"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q015",
+      "question_number": "32",
+      "question_text": "EH$ boI grnr go 10% A{YH$ na h¡ & ¶{X 10% H$s Ny>Q>H$sAZw‘{Vh¡Vmo{ZåZ{b{IV‘|goH$m¡Zgmghrh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "32",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q015",
+        "source_excerpt": "32. EH$ boI grnr go 10% A{YH$ na h¡ & ¶{X 10% H$s Ny>Q>H$sAZw‘{Vh¡Vmo{ZåZ{b{IV‘|goH$m¡Zgmghrh¡? (A) 1% bm^ (B) 1%hm{Z (C) Zbm^Zhm{Z (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q016",
+      "question_number": "36",
+      "question_text": "EH$ ~obZ H$s D§$MmB© {OgH$s {ÌÁ¶m 7 go_r h¡ Am¡a Hw$b gVhjoÌ’$b 968 go_r2 h¡ :",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "36",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q016",
+        "source_excerpt": "36. EH$ ~obZ H$s D§$MmB© {OgH$s {ÌÁ¶m 7 go_r h¡ Am¡a Hw$b gVhjoÌ’$b 968 go_r2 h¡ : (A) 15 go_r (B) 17 go_r (C) 19 go_r (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q017",
+      "question_number": "39",
+      "question_text": "à{VamoYRHo${H$grVmaHo$Qw>H$‹S>>onm§M~am~a^mJm|‘|H$mQ>o OmVoh¢&BZQw>H$‹S>m|H$mo{’$anmíd©H«$‘‘|g§¶mo{OVH$aXoVo h¢&¶{Xg§¶moOZH$mVwë¶à{VamoYR'h¡VmoR/R'AZwnmZ H$m‘mZ³¶mhmoJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "39",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q017",
+        "source_excerpt": "39. à{VamoYRHo${H$grVmaHo$Qw>H$‹S>>onm§M~am~a^mJm|‘|H$mQ>o OmVoh¢&BZQw>H$‹S>m|H$mo{’$anmíd©H«$‘‘|g§¶mo{OVH$aXoVo h¢&¶{Xg§¶moOZH$mVwë¶à{VamoYR'h¡VmoR/R'AZwnmZ H$m‘mZ³¶mhmoJm? (A) 1/25 (B) 1/5 (C) 25 (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q018",
+      "question_number": "40",
+      "question_text": "8  à{VamoY H$m H$moB© {dÚwV hrQ>a {dÚwV ‘oÝg ‘| 2 K§Q>o VH$15A{dÚwVYmamboVmh¡&hrQ>a‘|CËnÞD$î‘mH$sXa ³¶mhmoJr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "16 13/HV/M-2024-26/HS-526-E"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "40",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q018",
+        "source_excerpt": "40. 8  à{VamoY H$m H$moB© {dÚwV hrQ>a {dÚwV ‘oÝg ‘| 2 K§Q>o VH$15A{dÚwVYmamboVmh¡&hrQ>a‘|CËnÞD$î‘mH$sXa ³¶mhmoJr? (A) 220watt (B) 120watt (C) 210watt (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht 16 13/HV/M-2024-26/HS-526-E"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q019",
+      "question_number": "41",
+      "question_text": "Which of the following lenses would you prefertousewhilereadingsmalllettersfound inthedictionary?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "41",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q019",
+        "source_excerpt": "41. Which of the following lenses would you prefertousewhilereadingsmalllettersfound inthedictionary? (A) Aconvexlensof50cm (B) Aconcavelensof50cm (C) Aconcavelensof5cm (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q020",
+      "question_number": "43",
+      "question_text": "Which of the followingis not a part of the femalereproductivesysteminhumanbeings ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "43",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q020",
+        "source_excerpt": "43. Which of the followingis not a part of the femalereproductivesysteminhumanbeings ? (A) Ovary (B) Uterus (C) Vasdeferens (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q021",
+      "question_number": "48",
+      "question_text": "In which of the following country India launcheditsUPI?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "48",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q021",
+        "source_excerpt": "48. In which of the following country India launcheditsUPI? (A) Thailand (B) Myanmar (C) Mauritius (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q022",
+      "question_number": "49",
+      "question_text": "What is the name of space craft to be launched by ISRO in 2024 to carry astronauts?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "49",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q022",
+        "source_excerpt": "49. What is the name of space craft to be launched by ISRO in 2024 to carry astronauts? (A) Akashyan (B) Gaganyan (C) Bhramyan (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q023",
+      "question_number": "41",
+      "question_text": "{H$greãXH$mof‘|{bIoN>moQ>oAjam|H$mon‹T>Vog‘¶Amn {ZåZ‘o goH$m¡ZgmboÝgngÝXH$a|Jo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "41",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q023",
+        "source_excerpt": "41. {H$greãXH$mof‘|{bIoN>moQ>oAjam|H$mon‹T>Vog‘¶Amn {ZåZ‘o goH$m¡ZgmboÝgngÝXH$a|Jo? (A) 50cm’$moH$gXÿarH$mCÎmbboÝg (B) 50cm’$moH$gXÿarH$mAdVbboÝg (C) 5cm’$moH$gXÿarH$mAdVbboÝg (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q024",
+      "question_number": "47",
+      "question_text": "CAAHo$AÝVJ©VZmJ[aH$Vmà{H«$¶mHo${bEAmdoXZAm¡a {ZînmXZ{H$gHo$Ûmam{H$¶mOm¶oJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "47",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q024",
+        "source_excerpt": "47. CAAHo$AÝVJ©VZmJ[aH$Vmà{H«$¶mHo${bEAmdoXZAm¡a {ZînmXZ{H$gHo$Ûmam{H$¶mOm¶oJm? (A) S>mH${d^mJÛmam (B) OZJUZm{d^mJÛmam (C) Ho$ÝÐr¶gwajmAmB©.~r.Ûmam (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q025",
+      "question_number": "49",
+      "question_text": "Bgamo Ûmam 2024 ‘| A§V[aj ¶m{Ì¶mo g{hV ^oOZo dmbo A§V[aj¶mZH$mZm‘h¡______",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "49",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q025",
+        "source_excerpt": "49. Bgamo Ûmam 2024 ‘| A§V[aj ¶m{Ì¶mo g{hV ^oOZo dmbo A§V[aj¶mZH$mZm‘h¡______ (A) AmH$me¶mZ (B) JJZ¶mZ (C) ~«÷¶mZ (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q026",
+      "question_number": "51",
+      "question_text": "The process involved in achieving Green hydrogenis",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "51",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q026",
+        "source_excerpt": "51. The process involved in achieving Green hydrogenis (A) Electrolysis (B) Dehydrogenesis (C) Dehydration (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q027",
+      "question_number": "52",
+      "question_text": "Which technology can be used to revise deceasedindividuals?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "52",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q027",
+        "source_excerpt": "52. Which technology can be used to revise deceasedindividuals? (A) Deepfake (B) AI (C) Chatbot (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q028",
+      "question_number": "54",
+      "question_text": "Who supported Gandhiji in Champaran Satyagrahain1917insupportoffarmers?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "54",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q028",
+        "source_excerpt": "54. Who supported Gandhiji in Champaran Satyagrahain1917insupportoffarmers? (A) BirsaMunda (B) RajendraPrasad (C) SatyaNarayanSinha (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q029",
+      "question_number": "58",
+      "question_text": "In which district of Bihar Paddy crop productionismaximum?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "58",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q029",
+        "source_excerpt": "58. In which district of Bihar Paddy crop productionismaximum? (A) Bhojpur (B) Rohtas (C) Nalanda (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q030",
+      "question_number": "60",
+      "question_text": "ThehighestpeakintheEasternGhatsofIndia is:",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "60",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q030",
+        "source_excerpt": "60. ThehighestpeakintheEasternGhatsofIndia is: (A) AnaiMudi (B) Kanchenjunga (C) Mahendragiri (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q031",
+      "question_number": "63",
+      "question_text": "Who was the viceroy of India during the JallianwalaBaghmassacre?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "63",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q031",
+        "source_excerpt": "63. Who was the viceroy of India during the JallianwalaBaghmassacre? (A) LordCurzon (B) LordChelmsford (C) LordIrwin (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q032",
+      "question_number": "64",
+      "question_text": "The first President of the Indian National Congresswas:",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "64",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q032",
+        "source_excerpt": "64. The first President of the Indian National Congresswas: (A) DadabhaiNaoroji (B) W.C.Bonnerjee (C) BadruddinTyabji (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q033",
+      "question_number": "66",
+      "question_text": "Which of the following movements was startedbyM.K.Gandhi?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "66",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q033",
+        "source_excerpt": "66. Which of the following movements was startedbyM.K.Gandhi? (A) QuitIndiaMovement (B) Noncooperationmovement (C) Swadesimovement (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q034",
+      "question_number": "67",
+      "question_text": "Who was the leader of the Bardoli Satyagraha ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "67",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q034",
+        "source_excerpt": "67. Who was the leader of the Bardoli Satyagraha ? (A) SardarVallabhbhaiPatel (B) BalGangadharTilak (C) JawaharlalNehru (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q035",
+      "question_number": "70",
+      "question_text": "The All India Kisan Sabha (AIKS) was foundedin1936inBiharundertheleadership of:",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "21 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "70",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q035",
+        "source_excerpt": "70. The All India Kisan Sabha (AIKS) was foundedin1936inBiharundertheleadership of: (A) Dr.RajendraPrasad (B) JaiPrakashNarayan (C) SwamiSahajanandSaraswati (D) Morethanoneoftheabove (E) Noneoftheabove 21 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q036",
+      "question_number": "70",
+      "question_text": "1936‘|A{Ib^maVr¶{H$gmZg^m(E.AmB©.Ho$.Eg.) H$sñWmnZm[~hma‘|{H$gHo$ZoV¥Ëd‘o§hþB©Wr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "22 13/HV/M-2024-26/HS-526-E"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "70",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q036",
+        "source_excerpt": "70. 1936‘|A{Ib^maVr¶{H$gmZg^m(E.AmB©.Ho$.Eg.) H$sñWmnZm[~hma‘|{H$gHo$ZoV¥Ëd‘o§hþB©Wr? (A) S>m°.amOoÝÐàgmX (B) O¶àH$meZmam¶U (C) ñdm‘rghOmZ§XgañdVr (D) Cn`w©ŠV_| goEH$ go A{YH$ (E) Cn`w©ŠV_|goH$moB©Zht 22 13/HV/M-2024-26/HS-526-E"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q037",
+      "question_number": "73",
+      "question_text": "Which of the followingis anexample of a digitalElectronic?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "PART - III (Computer Science)"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "73",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q037",
+        "source_excerpt": "73. Which of the followingis anexample of a digitalElectronic? (A) Computers (B) Mobilephones (C) Digitalcameras (D) Morethanoneoftheabove (E) Noneoftheabove PART - III (Computer Science)"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q038",
+      "question_number": "74",
+      "question_text": "An OR gate has 4 inputs. The number of wordsintruthtablewillbe_______.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "74",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q038",
+        "source_excerpt": "74. An OR gate has 4 inputs. The number of wordsintruthtablewillbe_______. (A) 4 (B) 8 (C) 16 (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q039",
+      "question_number": "80",
+      "question_text": "How manyselect lines are required for an 8-to-1multiplexer?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "80",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q039",
+        "source_excerpt": "80. How manyselect lines are required for an 8-to-1multiplexer? (A) 2 (B) 3 (C) 4 (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q040",
+      "question_number": "81",
+      "question_text": "Convertthedecimalnumber1234tobinary, octal, and hexadecimal. Which of the followingoptionscorrectlyrepresentsthese conversions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hexadecimal:4D2"
+        },
+        {
+          "label": "B",
+          "text": "Hexadecimal:72A"
+        },
+        {
+          "label": "C",
+          "text": "Hexadecimal:3CD"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "81",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q040",
+        "source_excerpt": "81. Convertthedecimalnumber1234tobinary, octal, and hexadecimal. Which of the followingoptionscorrectlyrepresentsthese conversions? (A) Binary: 10011010010, Octal: 2322, Hexadecimal:4D2 (B) Binary: 11001110010, Octal: 1712, Hexadecimal:72A (C) Binary: 11100110010, Octal: 1642, Hexadecimal:3CD (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q041",
+      "question_number": "81",
+      "question_text": "Xe‘bd g§»¶m 1234 H$mo ~mBZar, Am°³Q>b Am¡a ho³gmS>o{g‘b‘|~Xb|& {ZåZ{b{IV‘|goH$m¡Zgm{dH$ënBZê$nm§VaUm|H$moghr T>§JgoXem©Vmh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ho³gmS>o{g‘b…4D2"
+        },
+        {
+          "label": "B",
+          "text": "ho³gmS>o{g‘b…72A"
+        },
+        {
+          "label": "C",
+          "text": "ho³gmS>o{g‘b…3CD"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "81",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q041",
+        "source_excerpt": "81. Xe‘bd g§»¶m 1234 H$mo ~mBZar, Am°³Q>b Am¡a ho³gmS>o{g‘b‘|~Xb|& {ZåZ{b{IV‘|goH$m¡Zgm{dH$ënBZê$nm§VaUm|H$moghr T>§JgoXem©Vmh¡? (A) ~mBZar… 10011010010,Am°³Q>b…2322, ho³gmS>o{g‘b…4D2 (B) ~mBZar… 11001110010,Am°³Q>b…1712, ho³gmS>o{g‘b…72A (C) ~mBZar… 11100110010,Am°³Q>b…1642, ho³gmS>o{g‘b…3CD (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q042",
+      "question_number": "86",
+      "question_text": "What is De Morgan’s theorem used for in digitallogic?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "86",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q042",
+        "source_excerpt": "86. What is De Morgan’s theorem used for in digitallogic? (A) SimplifyingBooleanexpressions (B) ImplementingNANDgates (C) Performingbinaryaddition (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q043",
+      "question_number": "87",
+      "question_text": "What is the purpose of the “don’t care” conditionindigitallogic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "doesnotaffecttheoutput"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "combinations are covered in truth tables"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "87",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q043",
+        "source_excerpt": "87. What is the purpose of the “don’t care” conditionindigitallogic? (A) Toindicatethatthevalueofavariable doesnotaffecttheoutput (B) Toprioritizecertaininputsoverothers (C) To ensure that all possible input combinations are covered in truth tables (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q044",
+      "question_number": "89",
+      "question_text": "Which data structure is used for efficient searching,insertion,anddeletionofelements?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "27 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "89",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q044",
+        "source_excerpt": "89. Which data structure is used for efficient searching,insertion,anddeletionofelements? (A) Stack (B) Queue (C) HashTable (D) Morethanoneoftheabove (E) Noneoftheabove 27 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q045",
+      "question_number": "84",
+      "question_text": "~rgrS>r Omo‹S>Vo g‘¶, EH$b ~rgrS>r A§H$ ‘| A{YH$V‘ {H$VZm‘mZXem©¶mOmgH$Vmh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "84",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q045",
+        "source_excerpt": "84. ~rgrS>r Omo‹S>Vo g‘¶, EH$b ~rgrS>r A§H$ ‘| A{YH$V‘ {H$VZm‘mZXem©¶mOmgH$Vmh¡? (A) 2 (B) 10 (C) 15 (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q046",
+      "question_number": "87",
+      "question_text": "{S>{OQ>bVH©$‘|\"\"SmoÝQ>Ho$¶a''pñW{VH$mCÔoí¶³¶mh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AmCQ>nwQ>H$moà^m{dVZhtH$aVmh¡"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "g§¶moOZgË¶Vm{bH$mAm|‘|em{‘bh¢"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "87",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q046",
+        "source_excerpt": "87. {S>{OQ>bVH©$‘|\"\"SmoÝQ>Ho$¶a''pñW{VH$mCÔoí¶³¶mh¡? (A) ¶h B§{JV H$aZo Ho$ {bE {H$ {H$gr Ma H$m ‘mZ AmCQ>nwQ>H$moà^m{dVZhtH$aVmh¡ (B) Hw$N>BZnwQ>H$moXÿgam|naàmW{‘H$VmXoZm (C) ¶h gw{ZpíMV H$aZm {H$ g^r g§^m{dV BZnwQ> g§¶moOZgË¶Vm{bH$mAm|‘|em{‘bh¢ (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q047",
+      "question_number": "88",
+      "question_text": "{ZåZ{b{IV ‘| go H$m¡Z gr S>oQ>m g§aMZm VËdm| H$mo J¡a- a¡{IH$ê$n‘|g§~§Yg§J«hrVH$aVmh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "88",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q047",
+        "source_excerpt": "88. {ZåZ{b{IV ‘| go H$m¡Z gr S>oQ>m g§aMZm VËdm| H$mo J¡a- a¡{IH$ê$n‘|g§~§Yg§J«hrVH$aVmh¡? (A) Stack (B) Queue (C) Array (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q048",
+      "question_number": "90",
+      "question_text": "In a binary search tree, which subtree of a nodecontainselementsthataregreaterthan thenode’svalue?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "90",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q048",
+        "source_excerpt": "90. In a binary search tree, which subtree of a nodecontainselementsthataregreaterthan thenode’svalue? (A) Leftsubtree (B) Rightsubtree (C) Bothsubtrees (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q049",
+      "question_number": "94",
+      "question_text": "Aqueue hasconfigurationa, b,c,d. Ifyou want togettheconfigurationd,c,b,a,you needaminimumof_______.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "94",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q049",
+        "source_excerpt": "94. Aqueue hasconfigurationa, b,c,d. Ifyou want togettheconfigurationd,c,b,a,you needaminimumof_______. (A) 2deletionsand3additions (B) 3deletionsand3additions (C) 4deletionsand4additions (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q050",
+      "question_number": "96",
+      "question_text": "Thepreordertraversalofabinarysearchtree is 15,10, 12, 11,20, 18, 16, 19.Whichone ofthefollowingisthepostordertraversalof thetree?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "96",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q050",
+        "source_excerpt": "96. Thepreordertraversalofabinarysearchtree is 15,10, 12, 11,20, 18, 16, 19.Whichone ofthefollowingisthepostordertraversalof thetree? (A) 20, 19, 18, 16, 15, 12, 11,10 (B) 11, 12, 10, 16,19,18,20,15 (C) 19, 16, 18,20,11,12,10,15 (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q051",
+      "question_number": "93",
+      "question_text": "{ZåZ{b{IVàmoJ«m‘H$mAmCQ>nwQ>{bI|… int a[] = {1,2,3,} *p;",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "93",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q051",
+        "source_excerpt": "93. {ZåZ{b{IVàmoJ«m‘H$mAmCQ>nwQ>{bI|… int a[] = {1,2,3,} *p; (A) O§H$d¡ë¶y (B) 3 (C) aZQ>mB‘Ìw{Q> (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q052",
+      "question_number": "94",
+      "question_text": "H$Vma ‘| {dÝ¶mg a, b, c, d h¡& ¶{X Amn {dÝ¶mg d, c, b, a àmá H$aZm MmhVo h¢, Vmo AmnH$mo H$‘ go H$‘ _____",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "94",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q052",
+        "source_excerpt": "94. H$Vma ‘| {dÝ¶mg a, b, c, d h¡& ¶{X Amn {dÝ¶mg d, c, b, a àmá H$aZm MmhVo h¢, Vmo AmnH$mo H$‘ go H$‘ _____ (A) 2{dbmonZAm¡a3Omo‹S> (B) 3{dbmonZAm¡a3Omo‹S> (C) 4{dbmonZAm¡a4Omo‹S> (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q053",
+      "question_number": "96",
+      "question_text": "~mBZar gM© Q´>r H$m àrAm°S>©a Q´>¡dg©b 15, 10, 12, 11, 20, 18, 16, 19 h¡& {ZåZ{b{IV‘|goH$m¡ZgmQ´>rH$mnmoñQ>Am°S>©aQ´>¡dg©bh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "96",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q053",
+        "source_excerpt": "96. ~mBZar gM© Q´>r H$m àrAm°S>©a Q´>¡dg©b 15, 10, 12, 11, 20, 18, 16, 19 h¡& {ZåZ{b{IV‘|goH$m¡ZgmQ´>rH$mnmoñQ>Am°S>©aQ´>¡dg©bh¡? (A) 20, 19, 18, 16, 15, 12, 11, 10 (B) 11, 12, 10, 16, 19, 18, 20, 15 (C) 19, 16, 18, 20, 11, 12, 10, 15 (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q054",
+      "question_number": "103",
+      "question_text": "Which of the following is NOT a graph traversalalgorithm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "31 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "103",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q054",
+        "source_excerpt": "103. Which of the following is NOT a graph traversalalgorithm? (A) Greedy (B) DivideandConquer (C) DynamicProgramming (D) Morethanoneoftheabove (E) Noneoftheabove 31 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q055",
+      "question_number": "104",
+      "question_text": "Which of the following is NOT an NP- Completeproblem?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "104",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q055",
+        "source_excerpt": "104. Which of the following is NOT an NP- Completeproblem? (A) TravelingSalesmanProblem (B) BooleanSatisfiabilityProblem (C) ShortestPathProblem (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q056",
+      "question_number": "106",
+      "question_text": "Which of the following is NOT a basic operationperformedonadatastructure?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "106",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q056",
+        "source_excerpt": "106. Which of the following is NOT a basic operationperformedonadatastructure? (A) Encryption (B) Deletion (C) Insertion (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q057",
+      "question_number": "108",
+      "question_text": "Which of the following is NOT a memory management technique used by operating systems?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "108",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q057",
+        "source_excerpt": "108. Which of the following is NOT a memory management technique used by operating systems? (A) Paging (B) Segmentation (C) Fragmentation (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q058",
+      "question_number": "109",
+      "question_text": "Which of the following is a file system commonlyusedinoperatingsystems?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "33 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "109",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q058",
+        "source_excerpt": "109. Which of the following is a file system commonlyusedinoperatingsystems? (A) NTFS (B) FAT32 (C) HFS+ (D) Morethanoneoftheabove (E) Noneoftheabove 33 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q059",
+      "question_number": "110",
+      "question_text": "Which of the following is NOT a type of interrupt?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "110",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q059",
+        "source_excerpt": "110. Which of the following is NOT a type of interrupt? (A) Hardwareinterrupt (B) Memoryinterrupt (C) Softwareinterrupt (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q060",
+      "question_number": "112",
+      "question_text": "In a system with a page size of 4KB and a physicaladdressspaceof64GB,whatisthe numberofbitsrequiredforthepageoffset?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "112",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q060",
+        "source_excerpt": "112. In a system with a page size of 4KB and a physicaladdressspaceof64GB,whatisthe numberofbitsrequiredforthepageoffset? (A) 10bits (B) 12bits (C) 14bits (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q061",
+      "question_number": "115",
+      "question_text": "Consider a system with a total physical memoryof8GBandtotalvirtualmemoryof 16GB.Ifthesystemisusing6GBofphysical memoryand10GBofvirtualmemory,how muchmemoryisbeingswappedout?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "115",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q061",
+        "source_excerpt": "115. Consider a system with a total physical memoryof8GBandtotalvirtualmemoryof 16GB.Ifthesystemisusing6GBofphysical memoryand10GBofvirtualmemory,how muchmemoryisbeingswappedout? (A) 2GB (B) 4GB (C) 6GB (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q062",
+      "question_number": "117",
+      "question_text": "Which of the following is a common file operation?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "35 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "117",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q062",
+        "source_excerpt": "117. Which of the following is a common file operation? (A) Create (B) Delete (C) Rename (D) Morethanoneoftheabove (E) Noneoftheabove 35 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q063",
+      "question_number": "110",
+      "question_text": "{ZåZ{b{IV‘|goH$m¡ZgmB§Q>aßQ>H$màH$maZhth¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "110",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q063",
+        "source_excerpt": "110. {ZåZ{b{IV‘|goH$m¡ZgmB§Q>aßQ>H$màH$maZhth¡? (A) hmS>©do¶aB§Q>aßQ> (B) ‘o‘moarB§Q>aßQ> (C) gm°âQ>do¶a B§Q>aßQ> (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q064",
+      "question_number": "115",
+      "question_text": "EH$ {gñQ>‘ na {dMma H$a| {Og‘| Hw$b ^m¡{VH$ ‘o‘moar 8Or~rAm¡aHw$bdMw©Ab‘o‘moar16Or~rh¡&¶{X{gñQ>‘ 6 Or~r^m¡{VH$‘o‘moarAm¡a10 Or~rdMw©Ab‘o‘moarH$m Cn¶moJH$aahmh¡,Vmo{H$VZr‘o‘moarñd¡nH$sOmahrh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "115",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q064",
+        "source_excerpt": "115. EH$ {gñQ>‘ na {dMma H$a| {Og‘| Hw$b ^m¡{VH$ ‘o‘moar 8Or~rAm¡aHw$bdMw©Ab‘o‘moar16Or~rh¡&¶{X{gñQ>‘ 6 Or~r^m¡{VH$‘o‘moarAm¡a10 Or~rdMw©Ab‘o‘moarH$m Cn¶moJH$aahmh¡,Vmo{H$VZr‘o‘moarñd¡nH$sOmahrh¡? (A) 2Or~r (B) 4Or~r (C) 6Or~r (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q065",
+      "question_number": "118",
+      "question_text": "ConsideradiskqueuewithrequestsforI/O to blocks on cylinders. 98 183 37 122 14 124 65 67 considering FCFS (First Come FirstServed)scheduling,thetotalnumberof headmovementsis,ifthediskheadisinitially at53is?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "118",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q065",
+        "source_excerpt": "118. ConsideradiskqueuewithrequestsforI/O to blocks on cylinders. 98 183 37 122 14 124 65 67 considering FCFS (First Come FirstServed)scheduling,thetotalnumberof headmovementsis,ifthediskheadisinitially at53is? (A) 640 (B) 620 (C) 630 (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q066",
+      "question_number": "120",
+      "question_text": "Which of the following is NOT a type of DBMS?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "120",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q066",
+        "source_excerpt": "120. Which of the following is NOT a type of DBMS? (A) RelationalDBMS (B) Object-OrientedDBMS (C) SequentialDBMS (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q067",
+      "question_number": "122",
+      "question_text": "Which normal form ensures that every non-prime attribute in a table is fully functionallydependentontheprimarykey?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "122",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q067",
+        "source_excerpt": "122. Which normal form ensures that every non-prime attribute in a table is fully functionallydependentontheprimarykey? (A) FirstNormalForm(1NF) (B) SecondNormalForm(2NF) (C) ThirdNormalForm(3NF) (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q068",
+      "question_number": "123",
+      "question_text": "Which SQL command is used to add new rowstoadatabasetable?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "37 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "123",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q068",
+        "source_excerpt": "123. Which SQL command is used to add new rowstoadatabasetable? (A) ADD (B) CREATE (C) INSERT (D) Morethanoneoftheabove (E) Noneoftheabove 37 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q069",
+      "question_number": "118",
+      "question_text": "{gb|S>am|naãbm°H$m|Ho${bEI/OHo$AZwamoYm|Ho$gmWEH$ {S>ñH$H$Vmana{dMmaH$a|&981833712214124 6567FCFS(nhboAmAmonhbonmAmo)eoS>çyqbJna {dMmaH$aVo hþE,hoS> ‘yd‘|Q> H$s Hw$bg§»¶m ³¶m h¡, ¶{X {S>ñH$hoS>ewê$‘|53nah¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "118",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q069",
+        "source_excerpt": "118. {gb|S>am|naãbm°H$m|Ho${bEI/OHo$AZwamoYm|Ho$gmWEH$ {S>ñH$H$Vmana{dMmaH$a|&981833712214124 6567FCFS(nhboAmAmonhbonmAmo)eoS>çyqbJna {dMmaH$aVo hþE,hoS> ‘yd‘|Q> H$s Hw$bg§»¶m ³¶m h¡, ¶{X {S>ñH$hoS>ewê$‘|53nah¡? (A) 640 (B) 620 (C) 630 (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q070",
+      "question_number": "122",
+      "question_text": "H$m¡Zgmgm‘mÝ¶ê$n¶hgw{ZpíMVH$aVmh¡{H$Vm{bH$m‘| àË¶oH$ J¡a-àYmZ {deofVm àmW{‘H$ Hw§$Or na nyar Vah H$m¶m©Ë‘H$ê$ngo{Z^©ah¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "122",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q070",
+        "source_excerpt": "122. H$m¡Zgmgm‘mÝ¶ê$n¶hgw{ZpíMVH$aVmh¡{H$Vm{bH$m‘| àË¶oH$ J¡a-àYmZ {deofVm àmW{‘H$ Hw§$Or na nyar Vah H$m¶m©Ë‘H$ê$ngo{Z^©ah¡? (A) nhbmgm‘mÝ¶ê$n(1NF) (B) Xÿgamgm‘mÝ¶ ê$n(2NF) (C) Vrgamgm‘mÝ¶ê$n(3NF) (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q071",
+      "question_number": "127",
+      "question_text": "Which device is used to connect multiple deviceswithinthesamelocalareanetwork (LAN)?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "127",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q071",
+        "source_excerpt": "127. Which device is used to connect multiple deviceswithinthesamelocalareanetwork (LAN)? (A) Router (B) Switch (C) Bridge (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q072",
+      "question_number": "128",
+      "question_text": "Whichprotocol is used tosend email over theInternet?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "128",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q072",
+        "source_excerpt": "128. Whichprotocol is used tosend email over theInternet? (A) FTP (B) SMTP (C) HTTP (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q073",
+      "question_number": "129",
+      "question_text": "What is the purpose of a subnet mask in TCP/IPnetworking?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IPaddress"
+        },
+        {
+          "label": "B",
+          "text": "address"
+        },
+        {
+          "label": "C",
+          "text": "names"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "39 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "129",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q073",
+        "source_excerpt": "129. What is the purpose of a subnet mask in TCP/IPnetworking? (A) Toidentifythenetworkportionofan IPaddress (B) To identify the host portion of an IP address (C) ToconvertIPaddressesintodomain names (D) Morethanoneoftheabove (E) Noneoftheabove 39 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q074",
+      "question_number": "127",
+      "question_text": "EH$hrbmoH$bE[a¶mZoQ>dH©$(LAN)Ho$^rVaH$B©{S>dmBgm| H$moOmo‹S>ZoHo${bE{H$g{S>dmBgH$mCn¶moJ{H$¶mOmVmh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "127",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q074",
+        "source_excerpt": "127. EH$hrbmoH$bE[a¶mZoQ>dH©$(LAN)Ho$^rVaH$B©{S>dmBgm| H$moOmo‹S>ZoHo${bE{H$g{S>dmBgH$mCn¶moJ{H$¶mOmVmh¡? (A) amCQ>a (B) pñdM (C) nwb (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q075",
+      "question_number": "131",
+      "question_text": "Which of the following is a software developmentlifecyclemodel?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "131",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q075",
+        "source_excerpt": "131. Which of the following is a software developmentlifecyclemodel? (A) Waterfallmodel (B) Agilemodel (C) Spiralmodel (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q076",
+      "question_number": "133",
+      "question_text": "What is the main difference between verificationandvalidationinsoftwaretesting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "isbug-free,whilevalidationensures thatitmeetstherequirements."
+        },
+        {
+          "label": "B",
+          "text": "whilevalidationisdoneaftercoding."
+        },
+        {
+          "label": "C",
+          "text": "builtright,whilevalidationchecksifthe rightsoftwareisbuilt."
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "133",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q076",
+        "source_excerpt": "133. What is the main difference between verificationandvalidationinsoftwaretesting? (A) Verificationensuresthatthesoftware isbug-free,whilevalidationensures thatitmeetstherequirements. (B) Verification is done before coding, whilevalidationisdoneaftercoding. (C) Verificationchecksifthesoftwareis builtright,whilevalidationchecksifthe rightsoftwareisbuilt. (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q077",
+      "question_number": "135",
+      "question_text": "What is the primary goal of software engineering?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "requirements within budget and scheduleconstraints"
+        },
+        {
+          "label": "C",
+          "text": "technologies"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "41 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "135",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q077",
+        "source_excerpt": "135. What is the primary goal of software engineering? (A) Towritecodeefficiently (B) To develop softwarethat meets user requirements within budget and scheduleconstraints (C) To develop software with the latest technologies (D) Morethanoneoftheabove (E) Noneoftheabove 41 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q078",
+      "question_number": "131",
+      "question_text": "{ZåZ{b{IV‘|goH$m¡Zgmgm°âQ>do¶a{dH$mgOrdZMH«$ ‘m°S>bh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "131",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q078",
+        "source_excerpt": "131. {ZåZ{b{IV‘|goH$m¡Zgmgm°âQ>do¶a{dH$mgOrdZMH«$ ‘m°S>bh¡? (A) PaZm‘m°S>b (B) EOmBb‘m°S>b (C) g{n©b‘m°S>b (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q079",
+      "question_number": "132",
+      "question_text": "{ZåZ{b{IV‘|goH$m¡Zgrgm°âQ>do¶a{dH$mgAmdí¶H$Vm Zhth¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "132",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q079",
+        "source_excerpt": "132. {ZåZ{b{IV‘|goH$m¡Zgrgm°âQ>do¶a{dH$mgAmdí¶H$Vm Zhth¡? (A) H$m¶m©Ë‘H$Amdí¶H$VmE± (B) {gñQ>‘Amdí¶H$VmE± (C) emar[aH$Amdí¶H$VmE± (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q080",
+      "question_number": "133",
+      "question_text": "gm°âQ>do¶a narjU ‘| gË¶mnU Am¡a d¡YrH$aU Ho$ ~rM ‘w»¶A§Va³¶mh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": "‘w³V h¡, O~{H$ gË¶mnZ ¶h gw{ZpíMV H$aVm h¡ {H$¶hAmdí¶H$VmAm|H$monyamH$aVmh¡"
+        },
+        {
+          "label": "B",
+          "text": "{H$¶mOmVmh¡,O~{H$gË¶mnZH$moqS>JHo$~mX{H$¶m OmVmh¡"
+        },
+        {
+          "label": "C",
+          "text": "go~Zm¶mJ¶mh¡,O~{H$gË¶mnZ¶hOm±MVmh¡{H$ ³¶mghrgm°âQ>do¶a~Zm¶mJ¶mh¡"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "133",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q080",
+        "source_excerpt": "133. gm°âQ>do¶a narjU ‘| gË¶mnU Am¡a d¡YrH$aU Ho$ ~rM ‘w»¶A§Va³¶mh¡? (A) gË¶mnZ¶hgw{ZpíMVH$aVmh¡{H$gm°âQ>do¶a~J- ‘w³V h¡, O~{H$ gË¶mnZ ¶h gw{ZpíMV H$aVm h¡ {H$¶hAmdí¶H$VmAm|H$monyamH$aVmh¡ (B) gË¶mnZnhbo{H$¶mOmVmh¡H$moqS>JHo$~mXgË¶mnZ {H$¶mOmVmh¡,O~{H$gË¶mnZH$moqS>JHo$~mX{H$¶m OmVmh¡ (C) gË¶mnZOm±MVmh¡{H$³¶mgm°âQ>do¶aghrVarHo$ go~Zm¶mJ¶mh¡,O~{H$gË¶mnZ¶hOm±MVmh¡{H$ ³¶mghrgm°âQ>do¶a~Zm¶mJ¶mh¡ (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q081",
+      "question_number": "134",
+      "question_text": "gm°âQ>do¶aàmoQ>moQ>mBnH$mCÔoí¶³¶mh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "{bE"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "134",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q081",
+        "source_excerpt": "134. gm°âQ>do¶aàmoQ>moQ>mBnH$mCÔoí¶³¶mh¡? (A) A§{V‘g§ñH$aUHo$ê$n‘| H$m¶© H$aZmgm°âQ>do¶a (B) {dñV¥V XñVmdoOrH$aU H$mo à{VñWm{nV H$aZo Ho$ {bE (C) gm°âQ>do¶aH$sJ{V~‹T>mZoHo${bE{dH$mgH$sà{H«$¶m (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q082",
+      "question_number": "135",
+      "question_text": "gm°âQ>do¶aB§Or{Z¶[a¨JH$màmW{‘H$bú¶³¶mh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Cn¶moJH$Vm©H$sAmdí¶H$VmE§Am¡aeoS>çybg§~§Yr ~mYmE§"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "42 13/HV/M-2024-26/HS-526-E"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "135",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q082",
+        "source_excerpt": "135. gm°âQ>do¶aB§Or{Z¶[a¨JH$màmW{‘H$bú¶³¶mh¡? (A) Hw$ebVmnyd©H$H$moS>{bIZm (B) Eogogm°âQ>do¶aH$m{dH$mgH$aZmOmo~OQ>Ho$^rVa Cn¶moJH$Vm©H$sAmdí¶H$VmE§Am¡aeoS>çybg§~§Yr ~mYmE§ (C) gm°âQ>do¶a{dH${gVH$aZmZdrZV‘VH$ZrH|$ (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht 42 13/HV/M-2024-26/HS-526-E"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q083",
+      "question_number": "138",
+      "question_text": "What is the access specifier used to make membersofaclassaccessibleonlywithinthe samepackage?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "138",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q083",
+        "source_excerpt": "138. What is the access specifier used to make membersofaclassaccessibleonlywithinthe samepackage? (A) private (B) public (C) package-private (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q084",
+      "question_number": "140",
+      "question_text": "What is the purpose of HTML in a web application?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "140",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q084",
+        "source_excerpt": "140. What is the purpose of HTML in a web application? (A) Todefinethestructureofwebpages (B) Tostylewebpages (C) Toaddinteractivitytowebpages (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q085",
+      "question_number": "141",
+      "question_text": "Which of the following is anexample of a server-sidescriptinglanguagecommonlyused inwebapplications?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "141",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q085",
+        "source_excerpt": "141. Which of the following is anexample of a server-sidescriptinglanguagecommonlyused inwebapplications? (A) HTML (B) CSS (C) C++ (D) Morethanoneoftheabove (E) Noneoftheabove"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q086",
+      "question_number": "143",
+      "question_text": "{ZåZ{b{IV‘o|goH$m¡ZQ>çy[a¨J‘erZH$mKQ>H$Zhth¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "44 13/HV/M-2024-26/HS-526-E"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "143",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q086",
+        "source_excerpt": "143. {ZåZ{b{IV‘o|goH$m¡ZQ>çy[a¨J‘erZH$mKQ>H$Zhth¡? (A) BZnwQ>Q>on (B) AmCQ>nwQ>Q>on (C) {Z¶§ÌUBH$mB© (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht 44 13/HV/M-2024-26/HS-526-E"
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q087",
+      "question_number": "150",
+      "question_text": "Which of the following is a multimedia authoringtool?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "45 13/HV/M-2024-26/HS-526-E [P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "150",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q087",
+        "source_excerpt": "150. Which of the following is a multimedia authoringtool? (A) MicrosoftWord (B) AdobePhotoshop (C) AdobeFlash (D) Morethanoneoftheabove (E) Noneoftheabove 45 13/HV/M-2024-26/HS-526-E [P.T.O."
+      }
+    },
+    {
+      "id": "tre-3-bpsc-question-paper-for-class-11-12-computer-science-q088",
+      "question_number": "150",
+      "question_text": "{ZåZ{b{IV‘|goH$m¡Z‘ëQ>r‘r{S>¶mg§boIZCnH$aUh¡?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "46 13/HV/M-2024-26/HS-526-E SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ñWmZ 47 13/HV/M-2024-26/HS-526-E [P.T.O. SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ñWmZ àíZ-nwpñVH$m ^mfm, gm‘mÝ¶ AÜ¶¶Z Am¡a H$åß`yQ>a {dkmZ g‘¶ : 2:30 KÊQ>o nyUmªH$: 150 13/HV/M-2024-26 àíZm| Ho$ CÎma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo Ü¶mZ go n‹T> b|& E nwpñVH$ml§¥Ibm ‘hÎdnyU© AZwXoe>"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",
+        "pdf_sha256": "4fa611d8f42b7de94ba2bfe8058daffe7c7606063b1eeb3c112a8636d8b165e6",
+        "question_label": "150",
+        "extraction_ref": "tre-3-bpsc-question-paper-for-class-11-12-computer-science#q088",
+        "source_excerpt": "150. {ZåZ{b{IV‘|goH$m¡Z‘ëQ>r‘r{S>¶mg§boIZCnH$aUh¡? (A) ‘mBH«$mogm°âQ>dS>© (B) ES>mo~’$moQ>moem°n (C) ES>mo~âb¡e (D) Cn`w©³V‘| goEH$ go A{YH$ (E) Cn`w©³V‘|goH$moB©Zht 46 13/HV/M-2024-26/HS-526-E SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ñWmZ 47 13/HV/M-2024-26/HS-526-E [P.T.O. SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ñWmZ àíZ-nwpñVH$m ^mfm, gm‘mÝ¶ AÜ¶¶Z Am¡a H$åß`yQ>a {dkmZ g‘¶ : 2:30 KÊQ>o nyUmªH$: 150 13/HV/M-2024-26 àíZm| Ho$ CÎma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo Ü¶mZ go n‹T> b|& E nwpñVH$ml§¥Ibm ‘hÎdnyU© AZwXoe>"
+      }
+    }
+  ]
+}

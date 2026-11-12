@@ -1,0 +1,4063 @@
+{
+  "metadata": {
+    "exam": "TRE-1",
+    "exam_year": 2023,
+    "subject": "Magahi",
+    "class_band": "11-12",
+    "shift": null,
+    "frontend_category": "subject",
+    "frontend_subject": "Magahi",
+    "source_file": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+    "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+    "extracted_at": "2026-11-09T01:19:39.425Z",
+    "extracted_text_pages": 33
+  },
+  "questions": [
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q001",
+      "question_number": "1",
+      "question_text": "How many three-digit numbers are divisible by 5?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q001",
+        "source_excerpt": "1. How many three-digit numbers are divisible by 5? (A) 180 (B) 200 (C) 120 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q002",
+      "question_number": "2",
+      "question_text": "The value of 1 1 2 1 1 3 1 1 4 1 1 120 + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ L is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "2",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q002",
+        "source_excerpt": "2. The value of 1 1 2 1 1 3 1 1 4 1 1 120 + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ L is (A) 60·5 (B) 30·0 (C) 40·5 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q003",
+      "question_number": "3",
+      "question_text": "The distance between Delhi and Agra is 200 km. Suppose you are travelling from Delhi to Agra by a car. If you can maintain an average speed of 90 km/hr for 120 km and 40 km/hr for the remaining distance, how much time will you take, on average, to reach Agra?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q003",
+        "source_excerpt": "3. The distance between Delhi and Agra is 200 km. Suppose you are travelling from Delhi to Agra by a car. If you can maintain an average speed of 90 km/hr for 120 km and 40 km/hr for the remaining distance, how much time will you take, on average, to reach Agra? (A) 3 hr 20 min (B) 3 hr 30 min (C) 4 hr 45 min (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q004",
+      "question_number": "4",
+      "question_text": "10% loss on selling price is what percent loss on cost price?",
+      "options": [
+        {
+          "label": "A",
+          "text": "11 %"
+        },
+        {
+          "label": "B",
+          "text": "11 %"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q004",
+        "source_excerpt": "4. 10% loss on selling price is what percent loss on cost price? (A) 9 1 11 % (B) 9 2 11 % (C) 10% (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q005",
+      "question_number": "5",
+      "question_text": "A pizza boy delivered two-fifths of his pizzas on day 1, three-fourths of his pizzas on day 2 and 9 16 of his pizzas on day 3. On which day did he deliver the most pizzas if he had the same number of pizzas in the beginning of each day?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q005",
+        "source_excerpt": "5. A pizza boy delivered two-fifths of his pizzas on day 1, three-fourths of his pizzas on day 2 and 9 16 of his pizzas on day 3. On which day did he deliver the most pizzas if he had the same number of pizzas in the beginning of each day? (A) Day 1 (B) Day 2 (C) Day 3 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q006",
+      "question_number": "6",
+      "question_text": "The cost of carpeting a room 18 m long with a carpet 75 cm wide at R 4·50 per metre is R 810. The breadth of the room is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 2 18/HV/M–2023–01–30 (HS)/41-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q006",
+        "source_excerpt": "6. The cost of carpeting a room 18 m long with a carpet 75 cm wide at R 4·50 per metre is R 810. The breadth of the room is (A) 7 m (B) 7·5 m (C) 8 m (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/41-A 2 18/HV/M–2023–01–30 (HS)/41-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q007",
+      "question_number": "1",
+      "question_text": "VrZ AßH$moß H$s {H$VZr gßª`mE± 5 go {d^m¡` h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q007",
+        "source_excerpt": "1. VrZ AßH$moß H$s {H$VZr gßª`mE± 5 go {d^m¡` h¢? (A) 180 (B) 200 (C) 120 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q008",
+      "question_number": "3",
+      "question_text": "{XÑr Am°a AmJam Ho$ ~rM H$s Xyar 200 {H$0 _r0 h°ü& _mZ br{OE Amn {XÑr go AmJam EH$ H$ma ¤mam Om aho h¢ü& `{X Amn 120 {H$0 _r0 Hoo$ {bE Am°gV J{V 90 {H$0 _r0/Kß0 Am°a ~mH$s Xyar Ho$ {bE Am°gV J{V 40 {H$0 _r0/Kß0 ~ZmE aIVo h¢, Vmo AmnH$mo AmJam nh˛±MZo _| Am°gVZ {H$VZm g_` bJoJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q008",
+        "source_excerpt": "3. {XÑr Am°a AmJam Ho$ ~rM H$s Xyar 200 {H$0 _r0 h°ü& _mZ br{OE Amn {XÑr go AmJam EH$ H$ma ¤mam Om aho h¢ü& `{X Amn 120 {H$0 _r0 Hoo$ {bE Am°gV J{V 90 {H$0 _r0/Kß0 Am°a ~mH$s Xyar Ho$ {bE Am°gV J{V 40 {H$0 _r0/Kß0 ~ZmE aIVo h¢, Vmo AmnH$mo AmJam nh˛±MZo _| Am°gVZ {H$VZm g_` bJoJm? (A) 3 KßQ>m 20 {_ZQ> (B) 3 KßQ>m 30 {_ZQ> (C) 4 KßQ>m 45 {_ZQ> (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q009",
+      "question_number": "5",
+      "question_text": "EH$ {nÇmm dmbm nhbo {XZ Xmo-nm±Mdoß {nÇmm, Xygao {XZ VrZ-Mm°WmB© {nÇmm Am°a Vrgao {XZ 9 16 {nÇmmAm| H$m {dVaU H$aVm h°ü& `{X ‡À`oH$ {XZ H$s ewÈAmV _| CgHo$ nmg g_mZ gßª`m _| {nÇmm Wo, Vmo CgZo {H$g {XZ g~go A{YH$ {nÇmm {dV[aV {H$E?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q009",
+        "source_excerpt": "5. EH$ {nÇmm dmbm nhbo {XZ Xmo-nm±Mdoß {nÇmm, Xygao {XZ VrZ-Mm°WmB© {nÇmm Am°a Vrgao {XZ 9 16 {nÇmmAm| H$m {dVaU H$aVm h°ü& `{X ‡À`oH$ {XZ H$s ewÈAmV _| CgHo$ nmg g_mZ gßª`m _| {nÇmm Wo, Vmo CgZo {H$g {XZ g~go A{YH$ {nÇmm {dV[aV {H$E? (A) nhbo {XZ (B) Xygao {XZ (C) Vrgao {XZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q010",
+      "question_number": "6",
+      "question_text": "18 _rQ>a bÂ~o EH$ H$_ao _|, 75 go0 _r0 Mm°ãS>o JbrMo H$m Cn`moJ H$aHo$, JbrMm {~N>mZo H$s bmJV R 4·50 ‡{V _rQ>a H$s Xa go R 810 h°ü& H$_ao H$s Mm°ãS>mB© h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q010",
+        "source_excerpt": "6. 18 _rQ>a bÂ~o EH$ H$_ao _|, 75 go0 _r0 Mm°ãS>o JbrMo H$m Cn`moJ H$aHo$, JbrMm {~N>mZo H$s bmJV R 4·50 ‡{V _rQ>a H$s Xa go R 810 h°ü& H$_ao H$s Mm°ãS>mB© h° (A) 7 _rQ>a (B) 7·5 _rQ>a (C) 8 _rQ>a (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q011",
+      "question_number": "7",
+      "question_text": "Two persons A and B complete a task in 15 days, when they work together. Person A completes the task in 20 days if he works alone. How many days will B take to finish the task alone?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q011",
+        "source_excerpt": "7. Two persons A and B complete a task in 15 days, when they work together. Person A completes the task in 20 days if he works alone. How many days will B take to finish the task alone? (A) 35 days (B) 25 days (C) 60 days (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q012",
+      "question_number": "8",
+      "question_text": "The sum of the numerator and denominator of a fraction is 11. If 1 is added to the numerator and 2 is subtracted from the denominator, it becomes 2 3 . The fraction is",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "8",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q012",
+        "source_excerpt": "8. The sum of the numerator and denominator of a fraction is 11. If 1 is added to the numerator and 2 is subtracted from the denominator, it becomes 2 3 . The fraction is (A) 5 6 (B) 6 5 (C) 3 8 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q013",
+      "question_number": "9",
+      "question_text": "An isotropic source of 2 candela produces light flux equal to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "9",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q013",
+        "source_excerpt": "9. An isotropic source of 2 candela produces light flux equal to (A) 2p lumen (B) 4p lumen (C) 8p lumen (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q014",
+      "question_number": "10",
+      "question_text": "The spray bottles used as window or household cleaner or perfume sprayer work on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "10",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q014",
+        "source_excerpt": "10. The spray bottles used as window or household cleaner or perfume sprayer work on (A) capillary action (B) Bernoulli’s principle (C) Pascal’s law (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q015",
+      "question_number": "11",
+      "question_text": "The trade name of basic lead carbonate is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "11",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q015",
+        "source_excerpt": "11. The trade name of basic lead carbonate is (A) white lead (B) red lead (C) litharge (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q016",
+      "question_number": "12",
+      "question_text": "Which of the following elements has the largest atomic radius?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 4 18/HV/M–2023–01–30 (HS)/41-A 5 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "12",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q016",
+        "source_excerpt": "12. Which of the following elements has the largest atomic radius? (A) Lithium (B) Beryllium (C) Boron (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/41-A 4 18/HV/M–2023–01–30 (HS)/41-A 5 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q017",
+      "question_number": "7",
+      "question_text": "Xmo Ï`{∫$ A Am°a B EH$ H$m_ H$mo 15 {XZm| _ßo nyam H$a XoVo h¢, `{X do EH$ gmW H$m_ H$aVo h¢ü& Ï`{∫$ A AHo$bm Cgr H$m_ H$mo 20 {XZm| _| nyam H$a XoVm h°ü& `h H$m_ AHo$bm B {H$VZo {XZm| _| nyam H$a nmEJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q017",
+        "source_excerpt": "7. Xmo Ï`{∫$ A Am°a B EH$ H$m_ H$mo 15 {XZm| _ßo nyam H$a XoVo h¢, `{X do EH$ gmW H$m_ H$aVo h¢ü& Ï`{∫$ A AHo$bm Cgr H$m_ H$mo 20 {XZm| _| nyam H$a XoVm h°ü& `h H$m_ AHo$bm B {H$VZo {XZm| _| nyam H$a nmEJm? (A) 35 {XZm| _| (B) 25 {XZm| _| (C) 60 {XZm| _| (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q018",
+      "question_number": "8",
+      "question_text": "EH$ {^ﬁ Ho$ Aße Am°a ha H$m `moJ 11 h°ü& `{X Aße _| 1 OmoãS> {X`m Om` Am°a ha _| go 2 KQ>m {X`m Om`, Vmo `h 2 3 hmo OmVm h°ü& {^ﬁ h°",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "8",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q018",
+        "source_excerpt": "8. EH$ {^ﬁ Ho$ Aße Am°a ha H$m `moJ 11 h°ü& `{X Aße _| 1 OmoãS> {X`m Om` Am°a ha _| go 2 KQ>m {X`m Om`, Vmo `h 2 3 hmo OmVm h°ü& {^ﬁ h° (A) 5 6 (B) 6 5 (C) 3 8 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q019",
+      "question_number": "10",
+      "question_text": "qdS>mo `m Kaoby äbrZa `m n‚`©y_ Ò‡o`a Ho$ Í$n _| BÒVo_mb H$s OmZo dmbr Ò‡o ~moVb| {ZÂZ{b{IV _| go {H$g na H$m_ H$aVr h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "10",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q019",
+        "source_excerpt": "10. qdS>mo `m Kaoby äbrZa `m n‚`©y_ Ò‡o`a Ho$ Í$n _| BÒVo_mb H$s OmZo dmbr Ò‡o ~moVb| {ZÂZ{b{IV _| go {H$g na H$m_ H$aVr h¢? (A) Ho${eH$m {H´$`m (B) ~aZm°br H$m {g’mßV (C) nmÒH$b H$m {Z`_ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q020",
+      "question_number": "13",
+      "question_text": "The phenomenon of photo- periodism in plants was discovered by",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "13",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q020",
+        "source_excerpt": "13. The phenomenon of photo- periodism in plants was discovered by (A) Garner and Allard (B) Steward and Salisbury (C) Thimann and Skoog (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q021",
+      "question_number": "14",
+      "question_text": "Silent Valley of Kerala is preserved because",
+      "options": [
+        {
+          "label": "A",
+          "text": "of plants and animals"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "extensively for agriculture purposes"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "14",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q021",
+        "source_excerpt": "14. Silent Valley of Kerala is preserved because (A) it contains very rare species of plants and animals (B) the soil is rich in minerals (C) the areas of land were used extensively for agriculture purposes (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q022",
+      "question_number": "15",
+      "question_text": "During normal respiration in a mammal, the diaphragm is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "15",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q022",
+        "source_excerpt": "15. During normal respiration in a mammal, the diaphragm is (A) arched (B) flattened (C) lowered (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q023",
+      "question_number": "16",
+      "question_text": "The most important cell type associated with the immunity of the body is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "16",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q023",
+        "source_excerpt": "16. The most important cell type associated with the immunity of the body is (A) platelets (B) lymphocytes (C) RBCs (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q024",
+      "question_number": "17",
+      "question_text": "The book entitled, Gyan Deepak was authored by a great saint",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "17",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q024",
+        "source_excerpt": "17. The book entitled, Gyan Deepak was authored by a great saint (A) Salar Masood Ghazi (B) Dariya Saheb (C) Imam Shah Faqih (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q025",
+      "question_number": "18",
+      "question_text": "Which agency in India has launched UTSAH portal?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "18",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q025",
+        "source_excerpt": "18. Which agency in India has launched UTSAH portal? (A) UGC (B) AICTE (C) MCI (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q026",
+      "question_number": "19",
+      "question_text": "A. P. J. Abdul Kalam Satellite Launch Vehicle Mission was launched on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q026",
+        "source_excerpt": "19. A. P. J. Abdul Kalam Satellite Launch Vehicle Mission was launched on (A) 13th February, 2023 (B) 20th February, 2023 (C) 19th February, 2023 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q027",
+      "question_number": "20",
+      "question_text": "In which city was the first pure green hydrogen plant commissioned?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 6 18/HV/M–2023–01–30 (HS)/41-A 7 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q027",
+        "source_excerpt": "20. In which city was the first pure green hydrogen plant commissioned? (A) Hyderabad (B) Mumbai (C) Pune (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/41-A 6 18/HV/M–2023–01–30 (HS)/41-A 7 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q028",
+      "question_number": "14",
+      "question_text": "Ho$ab H$s emßV KmQ>r (gmBb|Q> d°br) gßa{jV h°, ä`m|{H$",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xwb©^ ‡Om{V`m± nmB© OmVr h¢"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "~ãS>o n°_mZo na Cn`moJ {H$`m OmVm Wm"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "14",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q028",
+        "source_excerpt": "14. Ho$ab H$s emßV KmQ>r (gmBb|Q> d°br) gßa{jV h°, ä`m|{H$ (A) Bg_| nm°Ym| Am°a OmZdam| H$s ~h˛V hr Xwb©^ ‡Om{V`m± nmB© OmVr h¢ (B) {_≈>r I{ZOm| go ^anya h° (C) H•${f ‡`moOZm| Ho$ {bE ^y{_ Ho$ joÃm| H$m ~ãS>o n°_mZo na Cn`moJ {H$`m OmVm Wm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q029",
+      "question_number": "19",
+      "question_text": "E0 nr0 Oo0 A„Xwb H$bm_ g°Q>obmBQ> bm∞›M dr{hH$b {_eZ H$mo bm∞›M {H$`m J`m Wm",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q029",
+        "source_excerpt": "19. E0 nr0 Oo0 A„Xwb H$bm_ g°Q>obmBQ> bm∞›M dr{hH$b {_eZ H$mo bm∞›M {H$`m J`m Wm (A) 13 \\$adar, 2023 H$mo (B) 20 \\$adar, 2023 H$mo (C) 19 \\$adar, 2023 H$mo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q030",
+      "question_number": "20",
+      "question_text": "{H$g eha _| ‡W_ ew’ h[aV hmBS¥>moOZ gß`ßÃ Mmby {H$`m J`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 8"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q030",
+        "source_excerpt": "20. {H$g eha _| ‡W_ ew’ h[aV hmBS¥>moOZ gß`ßÃ Mmby {H$`m J`m Wm? (A) h°Xam~mX (B) _wß~B© (C) nwUo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–01–30 (HS)/41-A 8"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q031",
+      "question_number": "21",
+      "question_text": "Which year has been declared by the UNO as the ‘International Year of Millets’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q031",
+        "source_excerpt": "21. Which year has been declared by the UNO as the ‘International Year of Millets’? (A) 2023 (B) 2022 (C) 2024 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q032",
+      "question_number": "22",
+      "question_text": "Who among the following won the 2022 Nobel Peace Prize?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "22",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q032",
+        "source_excerpt": "22. Who among the following won the 2022 Nobel Peace Prize? (A) Ales Bialiatski (B) Nadia Murad (C) Maria Ressa (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q033",
+      "question_number": "23",
+      "question_text": "Who is the Chairman of the State Commission for Backward Classes appointed by the Bihar Government on 2nd January, 2022?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Sinha"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "23",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q033",
+        "source_excerpt": "23. Who is the Chairman of the State Commission for Backward Classes appointed by the Bihar Government on 2nd January, 2022? (A) Justice Sanjay Kumar (B) Justice Balmiki Prasad Sinha (C) Justice Iqbal A. Ansari (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q034",
+      "question_number": "24",
+      "question_text": "Which was the first movie in Bhojpuri?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chadhaibo"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "24",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q034",
+        "source_excerpt": "24. Which was the first movie in Bhojpuri? (A) Ganga Maiya Tohe Piyari Chadhaibo (B) Kanyadan (C) Nadiya Ke Paar (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q035",
+      "question_number": "4",
+      "question_text": "Parichha Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q035",
+        "source_excerpt": "4. Parichha Select the correct answer using the codes given below. (A) 1, 2, 3, 4 (B) 2, 4, 1, 3 (C) 2, 3, 4, 1 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q036",
+      "question_number": "26",
+      "question_text": "Which type of climate is in India according to Trewartha?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 9 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "26",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q036",
+        "source_excerpt": "26. Which type of climate is in India according to Trewartha? (A) Savanna type (B) Subtropical monsoon climate (C) Mediterranean type (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/41-A 9 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q037",
+      "question_number": "21",
+      "question_text": "gß`w∫$ amÔ¥> gßK ¤mam {H$g df© H$mo \"AßVam©Ô¥>r` {_boQ> df©' Kmo{fV {H$`m J`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q037",
+        "source_excerpt": "21. gß`w∫$ amÔ¥> gßK ¤mam {H$g df© H$mo \"AßVam©Ô¥>r` {_boQ> df©' Kmo{fV {H$`m J`m h°? (A) 2023 (B) 2022 (C) 2024 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q038",
+      "question_number": "23",
+      "question_text": "2 OZdar, 2022 H$mo {~hma gaH$ma ¤mam {Z`w∫$ am¡` {nN>ãS>m dJ© Am`moJ Ho$ A‹`j H$m°Z h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "23",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q038",
+        "source_excerpt": "23. 2 OZdar, 2022 H$mo {~hma gaH$ma ¤mam {Z`w∫$ am¡` {nN>ãS>m dJ© Am`moJ Ho$ A‹`j H$m°Z h¢? (A) ›`m`_y{V© gßO` Hw$_ma (B) ›`m`_y{V© ~mÎ_r{H$ ‡gmX {g›hm (C) ›`m`_y{V© BH$~mb E0 A›gmar (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q039",
+      "question_number": "4",
+      "question_text": "nmarN>m ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q039",
+        "source_excerpt": "4. nmarN>m ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 1, 2, 3, 4 (B) 2, 4, 1, 3 (C) 2, 3, 4, 1 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q040",
+      "question_number": "26",
+      "question_text": "{Q¥>dmWm© Ho$ AZwgma ^maV H$s Obdm`w {H$g ‡H$ma H$s h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 10"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "26",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q040",
+        "source_excerpt": "26. {Q¥>dmWm© Ho$ AZwgma ^maV H$s Obdm`w {H$g ‡H$ma H$s h°? (A) gdmZm ‡H$ma (B) CnmoÓU _mZgyZr Obdm`w (C) ^y_‹`gmJar` ‡H$ma (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–01–30 (HS)/41-A 10"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q041",
+      "question_number": "27",
+      "question_text": "What is the normal date of withdrawal of south-west monsoon at Hyderabad?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "27",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q041",
+        "source_excerpt": "27. What is the normal date of withdrawal of south-west monsoon at Hyderabad? (A) 1st October (B) 15th October (C) 1st November (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q042",
+      "question_number": "28",
+      "question_text": "Which of the following States has maximum urbanization?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "28",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q042",
+        "source_excerpt": "28. Which of the following States has maximum urbanization? (A) Goa (B) Maharashtra (C) Karnataka (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q043",
+      "question_number": "29",
+      "question_text": "‘Malnad’ region is associated with which of the following plateaus of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "29",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q043",
+        "source_excerpt": "29. ‘Malnad’ region is associated with which of the following plateaus of India? (A) Telangana Plateau (B) Maharashtra Plateau (C) Karnataka Plateau (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q044",
+      "question_number": "30",
+      "question_text": "South Peninsular Upland is a part of",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "30",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q044",
+        "source_excerpt": "30. South Peninsular Upland is a part of (A) Gondwana Land (B) Laurentia Land (C) Antarctica Continent (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q045",
+      "question_number": "31",
+      "question_text": "The percentage of population of Bihar with respect to India’s total population is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "31",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q045",
+        "source_excerpt": "31. The percentage of population of Bihar with respect to India’s total population is (A) 8·58% (B) 10·10% (C) 12·25% (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q046",
+      "question_number": "32",
+      "question_text": "Which of the following pairs is not correctly matched with respect to south of Ganga region in Bihar?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 11 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "32",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q046",
+        "source_excerpt": "32. Which of the following pairs is not correctly matched with respect to south of Ganga region in Bihar? (A) Patna–Munger (B) Gaya–Arwal (C) Patna–Vaishali (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/41-A 11 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q047",
+      "question_number": "32",
+      "question_text": "{ZÂZ{b{IV _| go H$m°Z-gm OmoãS>m {~hma Ho$ X{jU JßJm joÃ go _ob Zht ImVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 12"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "32",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q047",
+        "source_excerpt": "32. {ZÂZ{b{IV _| go H$m°Z-gm OmoãS>m {~hma Ho$ X{jU JßJm joÃ go _ob Zht ImVm h°? (A) nQ>Zm–_wßJoa (B) J`m–Aadb (C) nQ>Zm–d°embr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–01–30 (HS)/41-A 12"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q048",
+      "question_number": "33",
+      "question_text": "Who is called the ‘Prophet of New India’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q048",
+        "source_excerpt": "33. Who is called the ‘Prophet of New India’? (A) Raja Ram Mohan Roy (B) Dayananda Saraswati (C) Dadabhai Naoroji (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q049",
+      "question_number": "34",
+      "question_text": "Which revolt is mentioned in Anandamath of Bankim Chandra Chattopadhyay?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "34",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q049",
+        "source_excerpt": "34. Which revolt is mentioned in Anandamath of Bankim Chandra Chattopadhyay? (A) Sannyasi (B) Santhal (C) Indigo (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q050",
+      "question_number": "35",
+      "question_text": "Who was the founder of ‘Abhinav Bharat’ in London?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "35",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q050",
+        "source_excerpt": "35. Who was the founder of ‘Abhinav Bharat’ in London? (A) Vinayak Damodar Savarkar (B) P. M. Bapat (C) Shyamji Krishna Varma (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q051",
+      "question_number": "36",
+      "question_text": "Where was the Ghadar Party established?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "36",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q051",
+        "source_excerpt": "36. Where was the Ghadar Party established? (A) France (B) Germany (C) United States of America (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q052",
+      "question_number": "37",
+      "question_text": "Who was appointed as the ‘Commander in Chief’ by Birsa Munda?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q052",
+        "source_excerpt": "37. Who was appointed as the ‘Commander in Chief’ by Birsa Munda? (A) Demka Munda (B) Gaya Munda (C) Sundar Munda (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q053",
+      "question_number": "38",
+      "question_text": "Who formed the Bihar Socialist Party?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajendra Prasad"
+        },
+        {
+          "label": "B",
+          "text": "Jayaprakash Narayan"
+        },
+        {
+          "label": "C",
+          "text": "Swami Agnivesh"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "38",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q053",
+        "source_excerpt": "38. Who formed the Bihar Socialist Party? (A) Phulan Chand Tiwari and Rajendra Prasad (B) Phulan Prasad Varma and Jayaprakash Narayan (C) Raj Kumar Shukla and Swami Agnivesh (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q054",
+      "question_number": "39",
+      "question_text": "In which year was the ‘Bihar Provincial Congress Committee’ formed with its headquarters at Patna?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "39",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q054",
+        "source_excerpt": "39. In which year was the ‘Bihar Provincial Congress Committee’ formed with its headquarters at Patna? (A) 1908 (B) 1910 (C) 1906 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q055",
+      "question_number": "40",
+      "question_text": "Who established a branch of the Anushilan Samiti in Patna in 1913?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/41-A 13 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "40",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q055",
+        "source_excerpt": "40. Who established a branch of the Anushilan Samiti in Patna in 1913? (A) Ramananda Sinha (B) Satish Jha (C) Sachindra Nath Sanyal (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/41-A 13 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q056",
+      "question_number": "33",
+      "question_text": "\"Zd^maV H$m n°JÂ~a' H$m°Z H$hbmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q056",
+        "source_excerpt": "33. \"Zd^maV H$m n°JÂ~a' H$m°Z H$hbmVm h°? (A) amOm am__mohZ am` (B) X`mZ›X gaÒdVr (C) XmXm^mB© Zm°amoOr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q057",
+      "question_number": "35",
+      "question_text": "bßXZ _| \"A{^Zd ^maV' H$m gßÒWmnH$ H$m°Z Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "35",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q057",
+        "source_excerpt": "35. bßXZ _| \"A{^Zd ^maV' H$m gßÒWmnH$ H$m°Z Wm? (A) {dZm`H$ Xm_moXa gmdaH$a (B) nr0 E_0 ~mnQ> (C) Ì`m_Or H•$ÓU d_m© (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q058",
+      "question_number": "37",
+      "question_text": "{~agm _wS>m ¤mam {H$gH$mo \"H$_m›S>a BZ≤ Mr\\$' {Z`w∫$ {H$`m J`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q058",
+        "source_excerpt": "37. {~agm _wS>m ¤mam {H$gH$mo \"H$_m›S>a BZ≤ Mr\\$' {Z`w∫$ {H$`m J`m Wm? (A) Xo_H$m _wS>m (B) J`m _wS>m (C) gw›Xa _wS>m (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q059",
+      "question_number": "40",
+      "question_text": "1913 _| nQ>Zm _| AZwerbZ g{_{V H$s EH$ emIm H$s ÒWmnZm {H$gZo H$s Wr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "PART—II ( MAGAHI ) {ZX}e (‡ÌZ gß0 41 go 70 VH$) : Bhm± 30 gdmb Xob Job hoü& ha gdmb Ho$ CŒma _| nm±M Jmo {dH$În hoü& OoH$am bm (A), (B), (C), (D) AmC (E) _| H$moB© EH$ CŒma Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H$`b Om`ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "40",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q059",
+        "source_excerpt": "40. 1913 _| nQ>Zm _| AZwerbZ g{_{V H$s EH$ emIm H$s ÒWmnZm {H$gZo H$s Wr? (A) am_mZ›X {g›hm (B) gVre Pm (C) eMr›–ZmW gm›`mb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht PART—II ( MAGAHI ) {ZX}e (‡ÌZ gß0 41 go 70 VH$) : Bhm± 30 gdmb Xob Job hoü& ha gdmb Ho$ CŒma _| nm±M Jmo {dH$În hoü& OoH$am bm (A), (B), (C), (D) AmC (E) _| H$moB© EH$ CŒma Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H$`b Om`ü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q060",
+      "question_number": "42",
+      "question_text": "\"\"V{h _Jh Xogw gw‡{g’ A{ÀW'' H$CZ H${d Ho$ C{∫$ ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "42",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q060",
+        "source_excerpt": "42. \"\"V{h _Jh Xogw gw‡{g’ A{ÀW'' H$CZ H${d Ho$ C{∫$ ho? (A) Ya_Xmg (B) nwÓnXßV (C) gahnmX (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q061",
+      "question_number": "46",
+      "question_text": "\"E0 H$Â‡o{Q>d {S>ägZar Am∞\\$ {~hmar b|ΩdoO' Ho$ boIH$ hW",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 14"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "46",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q061",
+        "source_excerpt": "46. \"E0 H$Â‡o{Q>d {S>ägZar Am∞\\$ {~hmar b|ΩdoO' Ho$ boIH$ hW (A) OmO© A~´mh_ {J´`g©Z (B) \\°$bZ (C) E0 Or0 {eao\\$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 14"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q062",
+      "question_number": "50",
+      "question_text": "S>m∞0 gÂn{Œm A`m©Ur Ho$ ‡{g’ nwÒVH$ ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "50",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q062",
+        "source_excerpt": "50. S>m∞0 gÂn{Œm A`m©Ur Ho$ ‡{g’ nwÒVH$ ho (A) _Jhr ^mfm Am°a gm{hÀ` (B) _Jhr JrV gßJ´h (C) _Jhr H$hmZr gßJ´h (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q063",
+      "question_number": "51",
+      "question_text": "\"_Jhr bmoH$ JrV : ^y{_H$m, gßJ´h Am°a ^mÓ`' Ho$ gÂnmXH$ H$CZ hW?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "51",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q063",
+        "source_excerpt": "51. \"_Jhr bmoH$ JrV : ^y{_H$m, gßJ´h Am°a ^mÓ`' Ho$ gÂnmXH$ H$CZ hW? (A) S>m∞0 ^aV qgh (B) S>m∞0 am_‡gmX qgh/bmb_{U Hw$_mar (C) am_Zaoe ‡gmX d_m© (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q064",
+      "question_number": "52",
+      "question_text": "_Jhr Ho$ PßS>mdaXma S>m∞0 lrH$mßV emÛr Ho$ Agbr Zm_ hb",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 15 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 16"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "52",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q064",
+        "source_excerpt": "52. _Jhr Ho$ PßS>mdaXma S>m∞0 lrH$mßV emÛr Ho$ Agbr Zm_ hb (A) a_mH$mßV {_l (B) Ì`m_ZßXZ emÛr (C) hbYa Or (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 15 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 16"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q065",
+      "question_number": "54",
+      "question_text": "\"AßMadm Ho$ bmO' ZmQ>H$ Ho$ ZmQ>H$H$ma H$CZ hW?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "54",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q065",
+        "source_excerpt": "54. \"AßMadm Ho$ bmO' ZmQ>H$ Ho$ ZmQ>H$H$ma H$CZ hW? (A) S>m∞0 gÀ`o›– Hw$_ma qgh (B) {g’ZmW e_m© (C) gw_ßV (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q066",
+      "question_number": "57",
+      "question_text": "\"bmohma_X' {H$ZH$a OrdZ Ho$ AmYma ~ZmHo$ {bIb Job ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "57",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q066",
+        "source_excerpt": "57. \"bmohma_X' {H$ZH$a OrdZ Ho$ AmYma ~ZmHo$ {bIb Job ho? (A) _hmÀ_m Jm±Yr (B) gaXma nQ>ob (C) am__Zmoha bmo{h`m (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q067",
+      "question_number": "59",
+      "question_text": "\"_Jhr-^mfm Am°a gm{hÀ`' Ho$ boIH$ hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "59",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q067",
+        "source_excerpt": "59. \"_Jhr-^mfm Am°a gm{hÀ`' Ho$ boIH$ hH$@ (A) ~m~ybmb _YwH$a (B) am_‡gmX qgh (C) b˙_U ‡gmX (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q068",
+      "question_number": "64",
+      "question_text": "\"ZaH$ gaJ YaVr' Cn›`mg Ho$ boIH$ hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 17 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 18"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "64",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q068",
+        "source_excerpt": "64. \"ZaH$ gaJ YaVr' Cn›`mg Ho$ boIH$ hH$@ (A) ¤m[aH$m ‡gmX (B) am_{dbmg aOH$U (C) S>m∞0 am_‡gmX qgh (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 17 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 18"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q069",
+      "question_number": "70",
+      "question_text": "\"`w’ Z hmodo' EH$mßH$s Ho$ boIH$ hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e (‡ÌZ gß0 71 go 95 VH$) : Bhm± AbJ-AbJ Mma-Mma J⁄mße Xob Om ahb hoü& ha J⁄mße go gdmb Ho$ CŒma (Odm~) bm (A), (B), (C), (D) AmC (E) {dH$În hoü& J⁄mße Ho$ Yo`mZ go nãT>Ho$ nwN>b Job gdmb Ho$ Odm~ CŒma-nÃH$ _| {M{ïV H$`b Om`ü& J⁄mßeç1 _mZd OrdZ bm OÍ$ar ho n{dŒma {dMmaü& Imbr Ω`mZ, ^{∫$ AmC nyOm go _ZwÓ` Ho$ {dH$mg Z@ hmo gH$@ hoü& nyOm, ^{∫$ AmC kmZ CÉ AmC lo> ho ~mH$s EoH$a ~odhma _| ^r na_mZ Xodo nãS>@ hoü& OoH$a {dMma JßXm ho, AmoH$am go g^o bmoJ K•Um H$a@ hWü& Ohm± _hm°b JßXm ho Chm± Om` go ^r bmoJ {hMH$@ hoü& eara JßXm ahbm na {ZamoJr H$m`m H${R>Z ho AmoBgo hr _Z Ho$ n{dŒma Z ahbm na gÇmZ ^md, nao_ AmC gX≤ ~odhma Ho$ ^md Z@ CR> gH$@ hoü& AmMma-{dMma Ho$ A¿N>mB© AmC n{dŒma aho go ~oH$Vr (Ï`{∫$) Ho$ _mZ-BÇmV hmod@ hoü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "70",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q069",
+        "source_excerpt": "70. \"`w’ Z hmodo' EH$mßH$s Ho$ boIH$ hH$@ (A) S>m∞0 am_Z›XZ (B) A{^_›`w ‡gmX _m°`© (C) AbIXod ‡gmX \"AMb' (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ {ZX}e (‡ÌZ gß0 71 go 95 VH$) : Bhm± AbJ-AbJ Mma-Mma J⁄mße Xob Om ahb hoü& ha J⁄mße go gdmb Ho$ CŒma (Odm~) bm (A), (B), (C), (D) AmC (E) {dH$În hoü& J⁄mße Ho$ Yo`mZ go nãT>Ho$ nwN>b Job gdmb Ho$ Odm~ CŒma-nÃH$ _| {M{ïV H$`b Om`ü& J⁄mßeç1 _mZd OrdZ bm OÍ$ar ho n{dŒma {dMmaü& Imbr Ω`mZ, ^{∫$ AmC nyOm go _ZwÓ` Ho$ {dH$mg Z@ hmo gH$@ hoü& nyOm, ^{∫$ AmC kmZ CÉ AmC lo> ho ~mH$s EoH$a ~odhma _| ^r na_mZ Xodo nãS>@ hoü& OoH$a {dMma JßXm ho, AmoH$am go g^o bmoJ K•Um H$a@ hWü& Ohm± _hm°b JßXm ho Chm± Om` go ^r bmoJ {hMH$@ hoü& eara JßXm ahbm na {ZamoJr H$m`m H${R>Z ho AmoBgo hr _Z Ho$ n{dŒma Z ahbm na gÇmZ ^md, nao_ AmC gX≤ ~odhma Ho$ ^md Z@ CR> gH$@ hoü& AmMma-{dMma Ho$ A¿N>mB© AmC n{dŒma aho go ~oH$Vr (Ï`{∫$) Ho$ _mZ-BÇmV hmod@ hoü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q070",
+      "question_number": "72",
+      "question_text": "Ho$H$am go bmoJ K•Um H$a@ hW?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "72",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q070",
+        "source_excerpt": "72. Ho$H$am go bmoJ K•Um H$a@ hW? (A) OoH$a {dMma JßXm ho (B) amoJr (C) AkmZr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q071",
+      "question_number": "74",
+      "question_text": "n{dÃVm Ho$ A^md _| H$m hmod@ ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "74",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q071",
+        "source_excerpt": "74. n{dÃVm Ho$ A^md _| H$m hmod@ ho? (A) gÇmZ ^md (B) nao_ ^md _Z _| Z CR>V (C) XwaOZ ^md (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q072",
+      "question_number": "75",
+      "question_text": "_ZwÓ` Ho$ _mZ-BÇmV H$Bgo {_b@ ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 19 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 20 J⁄mßeç2 ~mUmgwa Ho$ Ka ^r Ehr _JY hoü& ~amda nhmãS> CZHo$ Zm_ go {~ª`mV ho, OoH$am n{hbo JmoaW{J[a H$hb Om hbü& ~amda nhmãS> Ho$ ‡da{J[a ^r H$hb Job hoü& _m°`© g_´mQ> Ho$ goZmn{V nwÓ`{_Ã O~ _JY Ho$ J‘r na ~BR>bZ V@ Ehr JmoaW{J[a _ßo H$qbJ Ho$ amOm Ima~ob MãT>mB© H°$bH$ hbü& nwÓ`{_Ã ewßJdße Ho$ n{hb amOm hbZ Oo _m°`© g_´mQ> d•h–W Ho$ _ma Ho$ _JY Ho$ qghmgZ na AmÍ$ãT> hmobZü& ~mUmgwa Ho$ emo{UVnwa ^r, AmO gmoZnwa ho, Chm± JãT> Ho$ Adeof hoü& ~amda nhmãS> _| Oo gVKadm Ho$ Jw\\$m ho, D$ Agb _| bmo_e G${f Ho$ Jw\\$m hoü& AemoH$ g_´mQ> Ho$ g_` _| AmOrdH$ gÂ‡Xm` Ho$ gmYw-gßV bmoJ ah@ hbZü& ~amda nhmãS> Ho$ ~Jbo _| ZmJmOw©Z nhmãS> ho OoH$am AmOH$b \"ZJaOw{ﬁ' H$hb Om hoü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "75",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q072",
+        "source_excerpt": "75. _ZwÓ` Ho$ _mZ-BÇmV H$Bgo {_b@ ho? (A) A¿N>mB© (B) AmMma-{dMma (C) n{dŒma aho (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 19 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 20 J⁄mßeç2 ~mUmgwa Ho$ Ka ^r Ehr _JY hoü& ~amda nhmãS> CZHo$ Zm_ go {~ª`mV ho, OoH$am n{hbo JmoaW{J[a H$hb Om hbü& ~amda nhmãS> Ho$ ‡da{J[a ^r H$hb Job hoü& _m°`© g_´mQ> Ho$ goZmn{V nwÓ`{_Ã O~ _JY Ho$ J‘r na ~BR>bZ V@ Ehr JmoaW{J[a _ßo H$qbJ Ho$ amOm Ima~ob MãT>mB© H°$bH$ hbü& nwÓ`{_Ã ewßJdße Ho$ n{hb amOm hbZ Oo _m°`© g_´mQ> d•h–W Ho$ _ma Ho$ _JY Ho$ qghmgZ na AmÍ$ãT> hmobZü& ~mUmgwa Ho$ emo{UVnwa ^r, AmO gmoZnwa ho, Chm± JãT> Ho$ Adeof hoü& ~amda nhmãS> _| Oo gVKadm Ho$ Jw\\$m ho, D$ Agb _| bmo_e G${f Ho$ Jw\\$m hoü& AemoH$ g_´mQ> Ho$ g_` _| AmOrdH$ gÂ‡Xm` Ho$ gmYw-gßV bmoJ ah@ hbZü& ~amda nhmãS> Ho$ ~Jbo _| ZmJmOw©Z nhmãS> ho OoH$am AmOH$b \"ZJaOw{ﬁ' H$hb Om hoü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q073",
+      "question_number": "80",
+      "question_text": "~amda nhmãS> Ho$ n{hbo H$m Zm_ hb?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "J⁄mßeç3 nm{U{Z V@ ^mfm Ho$ _hmZ nß{S>V hbZ ~m{H$ nmQ>{b (nQ>Zm) _| AmHo$ daÈ{M go Ï`mH$aU Ho$ Ω`mZ n`bZ hobü& EH$am go ~moY hmod@ ho {H$ D$ O_mZm _| daÈ{M _JY _| EJmo _hmZ {ejmemÛr hbZü& ^mfm OrdZ Ho$ ABgZ bV ho {H$ OoH$am {~Zm namZr Ho$ {OZJr H$~{h`mo g\\$b hmo hr Z@ gH$@ hoü& ^mfm Ho$ {~Zm AmX_r JyßJm Ho$ g_mZ hoü& _m` Ho$ noQ> go OZ_b bBH$m OCZ g~X gwZ@ ho AmoH$a OZ_ ^a Z {_Q>@ hoü& ^mfm Ho$ gmW AmX_r Ho$ [aÒVm OZ_-_aU Ho$ hoü& Eohr _mV•^mfm hoü& Eohr bmoH$^mfm hoü& B© Vmo ‡mH•$V ho, Ho$H$amo JãT>b Z@ hoü& _Jhr ^mfm {_R>Ja AmC _a_ Ho$ Nw>E dmbm hoü& haoH$ AmX_r Ho$ AnZ ^mfm _Ywa AmC {‡` bJ@ hoü& ~oH$Vr Ho$ AnZ _mV•^mfm go ~h˛V bJmd hmod@ hoü& D$ AnZ ^mfm Ho$ AmXa ^r ~ogr H$a@ hoü& ABgo H$moB© ^mfm {Z_Z AmC Iamd Z hmod@ hoü& ~m{H$ H$moB© ^mfm Ho$ na`moJ Z@ hmodo go D$ _a Omho, {_Q> Omhoü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "80",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q073",
+        "source_excerpt": "80. ~amda nhmãS> Ho$ n{hbo H$m Zm_ hb? (A) JmoaW{J[a (B) ‡da{J[a (C) amOJ•h (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ J⁄mßeç3 nm{U{Z V@ ^mfm Ho$ _hmZ nß{S>V hbZ ~m{H$ nmQ>{b (nQ>Zm) _| AmHo$ daÈ{M go Ï`mH$aU Ho$ Ω`mZ n`bZ hobü& EH$am go ~moY hmod@ ho {H$ D$ O_mZm _| daÈ{M _JY _| EJmo _hmZ {ejmemÛr hbZü& ^mfm OrdZ Ho$ ABgZ bV ho {H$ OoH$am {~Zm namZr Ho$ {OZJr H$~{h`mo g\\$b hmo hr Z@ gH$@ hoü& ^mfm Ho$ {~Zm AmX_r JyßJm Ho$ g_mZ hoü& _m` Ho$ noQ> go OZ_b bBH$m OCZ g~X gwZ@ ho AmoH$a OZ_ ^a Z {_Q>@ hoü& ^mfm Ho$ gmW AmX_r Ho$ [aÒVm OZ_-_aU Ho$ hoü& Eohr _mV•^mfm hoü& Eohr bmoH$^mfm hoü& B© Vmo ‡mH•$V ho, Ho$H$amo JãT>b Z@ hoü& _Jhr ^mfm {_R>Ja AmC _a_ Ho$ Nw>E dmbm hoü& haoH$ AmX_r Ho$ AnZ ^mfm _Ywa AmC {‡` bJ@ hoü& ~oH$Vr Ho$ AnZ _mV•^mfm go ~h˛V bJmd hmod@ hoü& D$ AnZ ^mfm Ho$ AmXa ^r ~ogr H$a@ hoü& ABgo H$moB© ^mfm {Z_Z AmC Iamd Z hmod@ hoü& ~m{H$ H$moB© ^mfm Ho$ na`moJ Z@ hmodo go D$ _a Omho, {_Q> Omhoü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q074",
+      "question_number": "83",
+      "question_text": "^mfm Ho$ gmW AmX_r Ho$ [aÒVm H$BgZ ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "83",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q074",
+        "source_excerpt": "83. ^mfm Ho$ gmW AmX_r Ho$ [aÒVm H$BgZ ho? (A) OZ_-_aU Ho$ (B) _m` Ho$ (C) JwÈ Ho$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q075",
+      "question_number": "85",
+      "question_text": "D$na Ho$ AdVaU (J⁄mße) Ho$ _yb H$m ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 21 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 22 J⁄mßeç4 O~ _•JZ`Zr AnZ CãS>mZ ^ao Ho$ B¿N>m OV°bH$, V PybZ Xm AnZ nh˛±M Ho$ BÒVo_mb H$aBV AmoH$a Zm_ ZoeZb ÒHy$b Am∞\\$ S¥>m_m, {XÑr _| {bIdm XobZü& PybZ Xm B© ^br ^m±{V g_PBV hbZ {H$ h_ _•JZ`Zr Ho$ B¿N>m OoVZo nyaVr H$a~, D$ ^r AmoVZo h_am Iwg aIVü& My±{H$ n{hbo go V PybZ Xm AnZ Ka-n[adma _| ~ßS> hBE hbZü& Ehr go nQ>Zm _| CZH$a ^mB© _H$mZ ~Z°bZ OÍ$a hb, n CZHo$ Zm_ B© gmoM Ho$ H$a XobZ hb {H$ BZH$m Iwg aI~, V~ Zm H$b BZH$a {hÒgm Ho$ h_Zr gwI ^moJ H$a~ü& AmC BZH$m _abm Ho$ ~mX Am{Ia Bhmo _H$mZ V h_{Z`o Ho$ hmo Om`Vü& ~mH$s PybZ Xm OBght ~wãT>mar _| gmXr H$a bobZ, AmoBght ^mB©-^VrOm Ho$ H$mZ IãS>m hmo Jobü& AmohZr {hÒgm ~Iam Ho$ _m_bo _| gVH©$ hmo JobZ AmC ~oXIb H$ao Ho$ gVaßOr Mmb _| bJ JobZü& EH$a ~mdOyX PybZ Xm Xg H$∆>m O_rZ Y±gH$m hr XobZ hbü& {\\$a H$m hb! ~wãT>mar _| Jwbm~ Ho$ nßIwãS>r go ^|Q> ^ob hbü& AmoH$am gm_Zo ^bm BZH$m gm{hÀ` godm gmohm`V hb? gm{hÀ` godm go gß›`mg bo Ho$ {XÑr ‡dmg n Mb JobZ hbü& O~ VH$ _•JZ`Zr Ho$ H$mog© g_m· Z ^ob Job hb, V~ VH$ PybZ Xm {XÑr _| hr O_b ahbZ ^obü& O_W ^r H$mho Z, Xg H$∆>m O_rZ Ho$ Ja_r ^r Vmo hbBZü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "85",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q075",
+        "source_excerpt": "85. D$na Ho$ AdVaU (J⁄mße) Ho$ _yb H$m ho? (A) _mV•^mfm (B) ^mfm (C) _Jhr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 21 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 22 J⁄mßeç4 O~ _•JZ`Zr AnZ CãS>mZ ^ao Ho$ B¿N>m OV°bH$, V PybZ Xm AnZ nh˛±M Ho$ BÒVo_mb H$aBV AmoH$a Zm_ ZoeZb ÒHy$b Am∞\\$ S¥>m_m, {XÑr _| {bIdm XobZü& PybZ Xm B© ^br ^m±{V g_PBV hbZ {H$ h_ _•JZ`Zr Ho$ B¿N>m OoVZo nyaVr H$a~, D$ ^r AmoVZo h_am Iwg aIVü& My±{H$ n{hbo go V PybZ Xm AnZ Ka-n[adma _| ~ßS> hBE hbZü& Ehr go nQ>Zm _| CZH$a ^mB© _H$mZ ~Z°bZ OÍ$a hb, n CZHo$ Zm_ B© gmoM Ho$ H$a XobZ hb {H$ BZH$m Iwg aI~, V~ Zm H$b BZH$a {hÒgm Ho$ h_Zr gwI ^moJ H$a~ü& AmC BZH$m _abm Ho$ ~mX Am{Ia Bhmo _H$mZ V h_{Z`o Ho$ hmo Om`Vü& ~mH$s PybZ Xm OBght ~wãT>mar _| gmXr H$a bobZ, AmoBght ^mB©-^VrOm Ho$ H$mZ IãS>m hmo Jobü& AmohZr {hÒgm ~Iam Ho$ _m_bo _| gVH©$ hmo JobZ AmC ~oXIb H$ao Ho$ gVaßOr Mmb _| bJ JobZü& EH$a ~mdOyX PybZ Xm Xg H$∆>m O_rZ Y±gH$m hr XobZ hbü& {\\$a H$m hb! ~wãT>mar _| Jwbm~ Ho$ nßIwãS>r go ^|Q> ^ob hbü& AmoH$am gm_Zo ^bm BZH$m gm{hÀ` godm gmohm`V hb? gm{hÀ` godm go gß›`mg bo Ho$ {XÑr ‡dmg n Mb JobZ hbü& O~ VH$ _•JZ`Zr Ho$ H$mog© g_m· Z ^ob Job hb, V~ VH$ PybZ Xm {XÑr _| hr O_b ahbZ ^obü& O_W ^r H$mho Z, Xg H$∆>m O_rZ Ho$ Ja_r ^r Vmo hbBZü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q076",
+      "question_number": "86",
+      "question_text": "Ho$H$a Zm_ ZoeZb ÒHy$b Am∞\\$ S¥>m_m, {XÑr _| {bIdm XobZ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "86",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q076",
+        "source_excerpt": "86. Ho$H$a Zm_ ZoeZb ÒHy$b Am∞\\$ S¥>m_m, {XÑr _| {bIdm XobZ? (A) gwZ`Zr (B) gwbmoMZr (C) _•JZ`Zr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q077",
+      "question_number": "88",
+      "question_text": "~wãT>mar _| gmXr H$CZ H$a bobZ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "88",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q077",
+        "source_excerpt": "88. ~wãT>mar _| gmXr H$CZ H$a bobZ? (A) PwÂ_Z Xm (B) PybZ Xm (C) Í$n_ Xm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q078",
+      "question_number": "89",
+      "question_text": "gmXr Ho$ ~mX Ho$H$a H$mZ IãS>m hmo Job?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "89",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q078",
+        "source_excerpt": "89. gmXr Ho$ ~mX Ho$H$a H$mZ IãS>m hmo Job? (A) MÉm Ho$ (B) ~{hZ Ho$ (C) ~m~y Or Ho$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q079",
+      "question_number": "95",
+      "question_text": "PybZ Xm Ho$ gm{hÀ` godm H$mho Ny>Q> Job?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "go"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 23 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 24 {ZX}e (‡ÌZ gß0 96 go 105 VH$) : Bhm± 10 gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A),"
+        },
+        {
+          "label": "B",
+          "text": "CŒma nÃH$ _| {M{ïV H$`b Om`ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "95",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q079",
+        "source_excerpt": "95. PybZ Xm Ho$ gm{hÀ` godm H$mho Ny>Q> Job? (A) _•JZ`Zr Ho$ gÂnH©$ _| ABbm go (B) _•JZ`Zr Ho$ ~m~yOr Ho$ gÂnH©$ _| ABbm go (C) _•JZ`Zr Ho$ ^°`m Ho$ gÂnH©$ _| ABbm go (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 23 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 24 {ZX}e (‡ÌZ gß0 96 go 105 VH$) : Bhm± 10 gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma nÃH$ _| {M{ïV H$`b Om`ü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q080",
+      "question_number": "105",
+      "question_text": "CÑˇ Ho$ n∆>m hmoZm",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e(‡ÌZgß0106 go110 VH$):Bhm±aoImß{H$Ve„X bm (A), (B), (C), (D) AmC (E) {dH$În XobJob hoü& Oo _| go C{MV e„X Ho$ MwZHo$ CŒma-nÃH$ _| {M{ïV H$arü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "105",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q080",
+        "source_excerpt": "105. CÑˇ Ho$ n∆>m hmoZm (A) _yI© hmoZm (B) MmbmH$ hmoZm (C) MVwa hmoZm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ {ZX}e(‡ÌZgß0106 go110 VH$):Bhm±aoImß{H$Ve„X bm (A), (B), (C), (D) AmC (E) {dH$În XobJob hoü& Oo _| go C{MV e„X Ho$ MwZHo$ CŒma-nÃH$ _| {M{ïV H$arü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q081",
+      "question_number": "108",
+      "question_text": "gyaO CŒmam``Z _| hoü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 25 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 26"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "108",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q081",
+        "source_excerpt": "108. gyaO CŒmam``Z _| hoü& (A) XpäIZ ^a (B) CŒma ^a (C) X{jUm``Z (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 25 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 26"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q082",
+      "question_number": "110",
+      "question_text": "_Zmoha ^mar gm_mZ Ho$ ^r AmgmZr go CR>m bohoü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e (‡ÌZ gß0 111 go 120 VH$) : Bhm± 10 gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma nÃH$ _| {M{ïV H$`b Om`ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "110",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q082",
+        "source_excerpt": "110. _Zmoha ^mar gm_mZ Ho$ ^r AmgmZr go CR>m bohoü& (A) dOZr (B) H$s_Vr (C) H$_ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ {ZX}e (‡ÌZ gß0 111 go 120 VH$) : Bhm± 10 gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma nÃH$ _| {M{ïV H$`b Om`ü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q083",
+      "question_number": "116",
+      "question_text": "\"\"ghb JwZo Xohdm H$Q>a-_Q>a ~mob@ hB©, nQ>a-nQ>a ~mob@ hB©'' _| H$CZ AbßH$ma ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "116",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q083",
+        "source_excerpt": "116. \"\"ghb JwZo Xohdm H$Q>a-_Q>a ~mob@ hB©, nQ>a-nQ>a ~mob@ hB©'' _| H$CZ AbßH$ma ho? (A) AZw‡mg (B) dH´$mo{∫$ (C) drﬂgm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q084",
+      "question_number": "118",
+      "question_text": "H$mÏ` _| ABgZ g~X Ho$ na`moJ hmo` OoH$a Xy, VrZ AW© aho, AmoH$am _| H$m°Z AbßH$ma _mZb Omho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "118",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q084",
+        "source_excerpt": "118. H$mÏ` _| ABgZ g~X Ho$ na`moJ hmo` OoH$a Xy, VrZ AW© aho, AmoH$am _| H$m°Z AbßH$ma _mZb Omho? (A) AZw‡mg (B) Cn_m (C) Ìbof (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q085",
+      "question_number": "119",
+      "question_text": "Cn_m AbßH$ma Ho$ AßJ hmod@ ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "119",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q085",
+        "source_excerpt": "119. Cn_m AbßH$ma Ho$ AßJ hmod@ ho (A) AmR> Jmo (B) Xg Jmo (C) Mma Jmo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-magahi-q086",
+      "question_number": "120",
+      "question_text": "JU Ho$ gÂ~›Y ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–29 MAG (HS)/41-A 27 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 28 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 18/HV/M–2023–29 MAG (HS)/41-A 29 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 30 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 18/HV/M–2023–29 MAG (HS)/41-A 31 [ P.T.O. 18/HV/M–2023–29 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m gm_m›` A‹``Z Edß _Jhr nÃ—4 ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",
+        "pdf_sha256": "c54d939629343879f35d965c1f0795b430558c7783cbd2255ef7d0a912184a2a",
+        "question_label": "120",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-magahi#q086",
+        "source_excerpt": "120. JU Ho$ gÂ~›Y ho (A) N>›X go (B) AbßH$ma go (C) e„X e{∫$ go (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Z@ 18/HV/M–2023–29 MAG (HS)/41-A 27 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 28 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 18/HV/M–2023–29 MAG (HS)/41-A 29 [ P.T.O. 18/HV/M–2023–29 MAG (HS)/41-A 30 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 18/HV/M–2023–29 MAG (HS)/41-A 31 [ P.T.O. 18/HV/M–2023–29 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m gm_m›` A‹``Z Edß _Jhr nÃ—4 ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+      }
+    }
+  ]
+}

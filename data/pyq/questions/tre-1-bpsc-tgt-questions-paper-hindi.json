@@ -1,0 +1,4576 @@
+{
+  "metadata": {
+    "exam": "TRE-1",
+    "exam_year": 2023,
+    "subject": "Hindi",
+    "class_band": "9-10",
+    "shift": null,
+    "frontend_category": "hindi",
+    "frontend_subject": "Hindi",
+    "source_file": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+    "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+    "extracted_at": "2026-11-09T01:19:42.549Z",
+    "extracted_text_pages": 33
+  },
+  "questions": [
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q001",
+      "question_number": "1",
+      "question_text": "10 years ago the ratio of ages of Ramesh and Rajeev was 1 : 3. 5 years hence this ratio will become 2 : 3. What is the ratio of their ages at present?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q001",
+        "source_excerpt": "1. 10 years ago the ratio of ages of Ramesh and Rajeev was 1 : 3. 5 years hence this ratio will become 2 : 3. What is the ratio of their ages at present? (A) 2 : 5 (B) 3 : 5 (C) 1 : 2 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q002",
+      "question_number": "2",
+      "question_text": "If I walk with a speed of 5 km per hour from my house to the station, my train would have left the station 7 minutes before my arrival. But, if I walk with a speed of 6 km per hour, I will reach the station 5 minutes before the departure of my train. Accordingly, what is the distance between my house and the station?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "2",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q002",
+        "source_excerpt": "2. If I walk with a speed of 5 km per hour from my house to the station, my train would have left the station 7 minutes before my arrival. But, if I walk with a speed of 6 km per hour, I will reach the station 5 minutes before the departure of my train. Accordingly, what is the distance between my house and the station? (A) 7 km (B) 6·5 km (C) 6 km (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q003",
+      "question_number": "3",
+      "question_text": "The average monthly income of P and Q is R 5,050. The average monthly income of Q and R is R 6,250 and the average monthly income of P and R is R 5,200. The monthly income of P is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q003",
+        "source_excerpt": "3. The average monthly income of P and Q is R 5,050. The average monthly income of Q and R is R 6,250 and the average monthly income of P and R is R 5,200. The monthly income of P is (A) R 3,500 (B) R 4,050 (C) R 4,000 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q004",
+      "question_number": "4",
+      "question_text": "If 30% of P is added to 40% of Q, it becomes 80% of Q. Accordingly, what is the percentage of Q with respect to P?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q004",
+        "source_excerpt": "4. If 30% of P is added to 40% of Q, it becomes 80% of Q. Accordingly, what is the percentage of Q with respect to P? (A) 40% (B) 50% (C) 75% (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q005",
+      "question_number": "5",
+      "question_text": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets R 1,000 more than D, what is B’s share?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 2 17/MV/M–2023–01–10 (S)/3-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q005",
+        "source_excerpt": "5. A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets R 1,000 more than D, what is B’s share? (A) R 500 (B) R 1,500 (C) R 2,000 (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/3-A 2 17/MV/M–2023–01–10 (S)/3-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q006",
+      "question_number": "1",
+      "question_text": "10 df© nyd© a_oe Edß amOrd H$s Am`w H$m AZwnmV 1 : 3 Wmü& A~ go 5 df© nÌMmV≤ `h AZwnmV 2 : 3 hmo Om`oJmü& dV©_mZ _| CZH$s Am`w H$m AZwnmV ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q006",
+        "source_excerpt": "1. 10 df© nyd© a_oe Edß amOrd H$s Am`w H$m AZwnmV 1 : 3 Wmü& A~ go 5 df© nÌMmV≤ `h AZwnmV 2 : 3 hmo Om`oJmü& dV©_mZ _| CZH$s Am`w H$m AZwnmV ä`m h°? (A) 2 : 5 (B) 3 : 5 (C) 1 : 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q007",
+      "question_number": "2",
+      "question_text": "`{X _¢ AnZo Ka go 5 {H$0 _r0 ‡{V KßQ>m H$s J{V go ÒQ>oeZ Ho$ {bE MbVm hˇ±, Vmo _oar JmãS>r _oao ÒQ>oeZ nh˛±MZo go 7 {_ZQ> nhbo Ny>Q> MwH$s hmoVr h°ü& {H$›Vw `{X _¢ 6 {H$0 _r0 ‡{V KßQ>m H$s J{V go MbVm hˇ±, Vmo _¢ ÒQ>oeZ na JmãS>r Ho$ Ny>Q>Zo go 5 {_ZQ> nhbo nh˛±M OmVm hˇ±ü& VXZwgma, _oao Ka Am°a ÒQ>oeZ Ho$ ~rM H$s Xyar ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "2",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q007",
+        "source_excerpt": "2. `{X _¢ AnZo Ka go 5 {H$0 _r0 ‡{V KßQ>m H$s J{V go ÒQ>oeZ Ho$ {bE MbVm hˇ±, Vmo _oar JmãS>r _oao ÒQ>oeZ nh˛±MZo go 7 {_ZQ> nhbo Ny>Q> MwH$s hmoVr h°ü& {H$›Vw `{X _¢ 6 {H$0 _r0 ‡{V KßQ>m H$s J{V go MbVm hˇ±, Vmo _¢ ÒQ>oeZ na JmãS>r Ho$ Ny>Q>Zo go 5 {_ZQ> nhbo nh˛±M OmVm hˇ±ü& VXZwgma, _oao Ka Am°a ÒQ>oeZ Ho$ ~rM H$s Xyar ä`m h°? (A) 7 {H$0 _r0 (B) 6·5 {H$0 _r0 (C) 6 {H$0 _r0 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q008",
+      "question_number": "3",
+      "question_text": "P Am°a Q H$s Am°gV _m{gH$ Am` R 5,050 h°ü& Q Am°a R H$s Am°gV _m{gH$ Am` R 6,250 h° VWm P Am°a R H$s Am°gV _m{gH$ Am` R 5,200 h°ü& P H$s _m{gH$ Am` h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q008",
+        "source_excerpt": "3. P Am°a Q H$s Am°gV _m{gH$ Am` R 5,050 h°ü& Q Am°a R H$s Am°gV _m{gH$ Am` R 6,250 h° VWm P Am°a R H$s Am°gV _m{gH$ Am` R 5,200 h°ü& P H$s _m{gH$ Am` h° (A) R 3,500 (B) R 4,050 (C) R 4,000 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q009",
+      "question_number": "5",
+      "question_text": "A, B, C, D Ho$ ~rM 5 : 2 : 4 : 3 Ho$ AZwnmV _| YZ H$m {dVaU {H$`m OmZm h°ü& `{X C H$mo D go R 1,000 A{YH$ {_bVo h¢, Vmo B H$m {hÒgm ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q009",
+        "source_excerpt": "5. A, B, C, D Ho$ ~rM 5 : 2 : 4 : 3 Ho$ AZwnmV _| YZ H$m {dVaU {H$`m OmZm h°ü& `{X C H$mo D go R 1,000 A{YH$ {_bVo h¢, Vmo B H$m {hÒgm ä`m h°? (A) R 500 (B) R 1,500 (C) R 2,000 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q010",
+      "question_number": "6",
+      "question_text": "A shopkeeper gives a discount of 5% on the selling price of a watch. If he gives a discount of 6%, he will earn a profit which is R 15 less than the before. Accordingly, what is the marked selling price of that watch?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q010",
+        "source_excerpt": "6. A shopkeeper gives a discount of 5% on the selling price of a watch. If he gives a discount of 6%, he will earn a profit which is R 15 less than the before. Accordingly, what is the marked selling price of that watch? (A) R 1,400 (B) R 1,500 (C) R 1,800 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q011",
+      "question_number": "7",
+      "question_text": "Three numbers are in the ratio 3 : 4 : 5. The total of the largest and the smallest numbers is equal to the other number plus 52. Accordingly, which is the smallest number?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q011",
+        "source_excerpt": "7. Three numbers are in the ratio 3 : 4 : 5. The total of the largest and the smallest numbers is equal to the other number plus 52. Accordingly, which is the smallest number? (A) 27 (B) 39 (C) 52 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q012",
+      "question_number": "8",
+      "question_text": "If 2 1 8 2 1 3 n n - - = , then the value of n is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "8",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q012",
+        "source_excerpt": "8. If 2 1 8 2 1 3 n n - - = , then the value of n is (A) 3 (B) 2 (C) – 2 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q013",
+      "question_number": "9",
+      "question_text": "Which of the following photo- electric devices is the most suitable for digital applications?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "9",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q013",
+        "source_excerpt": "9. Which of the following photo- electric devices is the most suitable for digital applications? (A) Photo-voltaic cell (B) Photo-emissive cell (C) Photo-diode (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q014",
+      "question_number": "10",
+      "question_text": "The critical mass of a fissionable material is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "for chain reaction"
+        },
+        {
+          "label": "C",
+          "text": "1010 joules"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "10",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q014",
+        "source_excerpt": "10. The critical mass of a fissionable material is (A) one kilogram equivalent (B) the minimum mass needed for chain reaction (C) the rest mass equivalent to 1010 joules (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q015",
+      "question_number": "11",
+      "question_text": "Which of the following gases is used to force the ripening of fruits?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "11",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q015",
+        "source_excerpt": "11. Which of the following gases is used to force the ripening of fruits? (A) Ethane (B) Ethylene (C) Methylene (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q016",
+      "question_number": "12",
+      "question_text": "Which one of the following has zero octane number?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 4 17/MV/M–2023–01–10 (S)/3-A 5 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "12",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q016",
+        "source_excerpt": "12. Which one of the following has zero octane number? (A) Iso-octane (B) Neo-octane (C) n-octane (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/3-A 4 17/MV/M–2023–01–10 (S)/3-A 5 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q017",
+      "question_number": "6",
+      "question_text": "EH$ XwH$mZXma EH$ KãS>r ~oMVo g_` {~H´$s _yÎ` na 5% Ny>Q> XoVm h°ü& `{X dh Cg na 6% Ny>Q> Xo XoVm h°, Vmo Cgo nhbo go R 15 H$_ H$m bm^ {_boJmü& VXZwgma, Cg KãS>r H$m Aß{H$V {~H´$s _yÎ` ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q017",
+        "source_excerpt": "6. EH$ XwH$mZXma EH$ KãS>r ~oMVo g_` {~H´$s _yÎ` na 5% Ny>Q> XoVm h°ü& `{X dh Cg na 6% Ny>Q> Xo XoVm h°, Vmo Cgo nhbo go R 15 H$_ H$m bm^ {_boJmü& VXZwgma, Cg KãS>r H$m Aß{H$V {~H´$s _yÎ` ä`m h°? (A) R 1,400 (B) R 1,500 (C) R 1,800 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q018",
+      "question_number": "7",
+      "question_text": "VrZ gßª`mE± 3 : 4 : 5 Ho$ AZwnmV _| h¢ü& CZ_| g~go ~ãS>r Edß g~go N>moQ>r gßª`mAm| H$m `moJ, Xygar gßª`m VWm 52 Ho$ `moJ Ho$ ~am~a h°ü& VXZwgma, g~go N>moQ>r gßª`m H$m°Z-gr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q018",
+        "source_excerpt": "7. VrZ gßª`mE± 3 : 4 : 5 Ho$ AZwnmV _| h¢ü& CZ_| g~go ~ãS>r Edß g~go N>moQ>r gßª`mAm| H$m `moJ, Xygar gßª`m VWm 52 Ho$ `moJ Ho$ ~am~a h°ü& VXZwgma, g~go N>moQ>r gßª`m H$m°Z-gr h°? (A) 27 (B) 39 (C) 52 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q019",
+      "question_number": "13",
+      "question_text": "The edible part of Litchis is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "13",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q019",
+        "source_excerpt": "13. The edible part of Litchis is (A) aril (B) thalamus (C) seed coat (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q020",
+      "question_number": "14",
+      "question_text": "The physical process involved in the release of molecular oxygen from leaves is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "14",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q020",
+        "source_excerpt": "14. The physical process involved in the release of molecular oxygen from leaves is (A) diffusion (B) transpiration (C) osmosis (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q021",
+      "question_number": "15",
+      "question_text": "The process of finding the relative location of genes on a chromosome is called",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "15",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q021",
+        "source_excerpt": "15. The process of finding the relative location of genes on a chromosome is called (A) genome walking (B) chromosome walking (C) gene mapping (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q022",
+      "question_number": "16",
+      "question_text": "Spore mother cell in bryophytes is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "16",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q022",
+        "source_excerpt": "16. Spore mother cell in bryophytes is (A) haploid (B) diploid (C) triploid (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q023",
+      "question_number": "17",
+      "question_text": "In which year was NGT (National Green Tribunal) for protection of environment and forest established by the Government of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "17",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q023",
+        "source_excerpt": "17. In which year was NGT (National Green Tribunal) for protection of environment and forest established by the Government of India? (A) 2010 (B) 2011 (C) 2012 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q024",
+      "question_number": "18",
+      "question_text": "Which city of India started first under-water metro?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "18",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q024",
+        "source_excerpt": "18. Which city of India started first under-water metro? (A) Kochi (B) Visakhapatnam (C) Bengaluru (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q025",
+      "question_number": "19",
+      "question_text": "Under India’s G20 Presidency, where was the Tourism Working Group Meeting held?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Kashmir)"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q025",
+        "source_excerpt": "19. Under India’s G20 Presidency, where was the Tourism Working Group Meeting held? (A) Patna (Bihar) (B) Srinagar (Jammu and Kashmir) (C) Ramnagar (Uttarakhand) (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q026",
+      "question_number": "20",
+      "question_text": "Who among the following got the Silver Medal in the National Under-17 Girls Wrestling Championship?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 6 17/MV/M–2023–01–10 (S)/3-A 7 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q026",
+        "source_excerpt": "20. Who among the following got the Silver Medal in the National Under-17 Girls Wrestling Championship? (A) Liza Tomar (B) Nirjala (C) Pushpa Yadav (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/3-A 6 17/MV/M–2023–01–10 (S)/3-A 7 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q027",
+      "question_number": "17",
+      "question_text": "^maV gaH$ma ¤mam n`m©daU Am°a dZ H$s gwajm Ho$ {bE {H$g df© NGT (Z°eZb J´rZ {Q¥>„`yZb) H$s ÒWmnZm H$s JB© Wr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "17",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q027",
+        "source_excerpt": "17. ^maV gaH$ma ¤mam n`m©daU Am°a dZ H$s gwajm Ho$ {bE {H$g df© NGT (Z°eZb J´rZ {Q¥>„`yZb) H$s ÒWmnZm H$s JB© Wr? (A) 2010 (B) 2011 (C) 2012 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q028",
+      "question_number": "19",
+      "question_text": "^maV H$s G20 A‹`jVm _| n`©Q>Z H$m`©g_yh H$s ~°R>H$ H$hm± h˛B© Wr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q028",
+        "source_excerpt": "19. ^maV H$s G20 A‹`jVm _| n`©Q>Z H$m`©g_yh H$s ~°R>H$ H$hm± h˛B© Wr? (A) nQ>Zm ({~hma) (B) lrZJa (OÂ_y Am°a H$Ì_ra) (C) am_ZJa (CŒmamIßS>) (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q029",
+      "question_number": "20",
+      "question_text": "BZ_| go {H$gZo amÔ¥>r` AßS>a-17 ~m{bH$m Hw$ÌVr M°Ânr`Z{en _| aOV nXH$ ‡m· {H$`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 8"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q029",
+        "source_excerpt": "20. BZ_| go {H$gZo amÔ¥>r` AßS>a-17 ~m{bH$m Hw$ÌVr M°Ânr`Z{en _| aOV nXH$ ‡m· {H$`m? (A) brµOm Vmo_a (B) {ZO©bm (C) nwÓnm `mXd (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01–10 (S)/3-A 8"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q030",
+      "question_number": "21",
+      "question_text": "Who won the International Booker Prize, 2022 for the novel, Tomb of Sand?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rockwell"
+        },
+        {
+          "label": "B",
+          "text": "Moschovakis"
+        },
+        {
+          "label": "C",
+          "text": "Alharthi"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q030",
+        "source_excerpt": "21. Who won the International Booker Prize, 2022 for the novel, Tomb of Sand? (A) Geetanjali Shree and Daisy Rockwell (B) David Diop and Anna Moschovakis (C) Marilyn Booth and Jokha Alharthi (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q031",
+      "question_number": "22",
+      "question_text": "Who was the Chief Guest on India’s 74th Republic Day?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "Rashid Al Maktoum"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "22",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q031",
+        "source_excerpt": "22. Who was the Chief Guest on India’s 74th Republic Day? (A) Mohammed bin Salman (B) Abdel Fattah El-Sisi (C) Sheikh Mohammed bin Rashid Al Maktoum (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q032",
+      "question_number": "23",
+      "question_text": "In which district of Bihar, the first floating solar power plant has been built?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "23",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q032",
+        "source_excerpt": "23. In which district of Bihar, the first floating solar power plant has been built? (A) Darbhanga (B) West Champaran (C) Madhubani (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q033",
+      "question_number": "24",
+      "question_text": "Which of the following has got GI Tag in Bihar?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "24",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q033",
+        "source_excerpt": "24. Which of the following has got GI Tag in Bihar? (A) Maghai Paan (B) Basmati Rice (C) Chanderi Saree (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q034",
+      "question_number": "25",
+      "question_text": "Match List–I with List–II : List—I List—II a. Char 1. Punjab plain b. Kankar 2. Delta c. Kayal 3. Bangar d. Mand 4. Coastal plain Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 4 2 3"
+        },
+        {
+          "label": "B",
+          "text": "2 3 4 1"
+        },
+        {
+          "label": "C",
+          "text": "3 1 4 2"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "25",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q034",
+        "source_excerpt": "25. Match List–I with List–II : List—I List—II a. Char 1. Punjab plain b. Kankar 2. Delta c. Kayal 3. Bangar d. Mand 4. Coastal plain Select the correct answer using the codes given below. (A) a b c d 1 4 2 3 (B) a b c d 2 3 4 1 (C) a b c d 3 1 4 2 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q035",
+      "question_number": "26",
+      "question_text": "Which of the following tributaries does not join Brahmaputra river from north?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 9 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "26",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q035",
+        "source_excerpt": "26. Which of the following tributaries does not join Brahmaputra river from north? (A) Subansiri (B) Belsiri (C) Manas (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/3-A 9 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q036",
+      "question_number": "21",
+      "question_text": "Cn›`mg Q>m∞Â~ Am∞\\$ g¢S> Ho$ {bE A›Vam©Ô¥>r` ~wH$a nwaÒH$ma, 2022 {H$gZo OrVm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q036",
+        "source_excerpt": "21. Cn›`mg Q>m∞Â~ Am∞\\$ g¢S> Ho$ {bE A›Vam©Ô¥>r` ~wH$a nwaÒH$ma, 2022 {H$gZo OrVm? (A) JrVmßO{b lr Am°a S>oµOr am∞H$dob (B) S>o{dS> {S>Amon Am°a Aﬁm _moÒH$modm{H$g (C) _°ar{bZ ~yW Am°a OmoIm AÎhmWu (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q037",
+      "question_number": "22",
+      "question_text": "^maV Ho$ 74d| JUVßÃ {Xdg na H$m°Z _wª` A{V{W Wo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "22",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q037",
+        "source_excerpt": "22. ^maV Ho$ 74d| JUVßÃ {Xdg na H$m°Z _wª` A{V{W Wo? (A) _mohÂ_X {~Z gb_mZ (B) A„Xob \\$Vh Ab-{ggr (C) eoI _mohÂ_X {~Z am{eX Ab _H$Vy_ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q038",
+      "question_number": "25",
+      "question_text": "gyMr-I H$mo gyMr-II go gw_o{bV H$s{OE : gyMr–I gyMr–II a. Mma 1. nßOm~ H$m _°XmZ b. Hß$H$a 2. S>oÎQ>m c. H$m`b 3. ~mßJa d. _mßS> 4. VQ>r` _°XmZ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 4 2 3"
+        },
+        {
+          "label": "B",
+          "text": "2 3 4 1"
+        },
+        {
+          "label": "C",
+          "text": "3 1 4 2"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "25",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q038",
+        "source_excerpt": "25. gyMr-I H$mo gyMr-II go gw_o{bV H$s{OE : gyMr–I gyMr–II a. Mma 1. nßOm~ H$m _°XmZ b. Hß$H$a 2. S>oÎQ>m c. H$m`b 3. ~mßJa d. _mßS> 4. VQ>r` _°XmZ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) a b c d 1 4 2 3 (B) a b c d 2 3 4 1 (C) a b c d 3 1 4 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q039",
+      "question_number": "26",
+      "question_text": "{ZÂZ{b{IV _| go H$m°Z-gr ghm`H$ ZXr ~´˜nwÃ go CŒma {Xem go Zht {_bVr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 10"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "26",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q039",
+        "source_excerpt": "26. {ZÂZ{b{IV _| go H$m°Z-gr ghm`H$ ZXr ~´˜nwÃ go CŒma {Xem go Zht {_bVr h°? (A) gw~Z{gar (B) ~ob{gar (C) _mZg (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01–10 (S)/3-A 10"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q040",
+      "question_number": "27",
+      "question_text": "Likhapani glacier is located in which State of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "27",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q040",
+        "source_excerpt": "27. Likhapani glacier is located in which State of India? (A) Arunachal Pradesh (B) Himachal Pradesh (C) Sikkim (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q041",
+      "question_number": "28",
+      "question_text": "Magadha and Anga plains are parts of",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "28",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q041",
+        "source_excerpt": "28. Magadha and Anga plains are parts of (A) upper Ganga plain (B) middle Ganga plain (C) lower Ganga plain (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q042",
+      "question_number": "29",
+      "question_text": "Which of the following pairs of waterfalls and rivers is not correctly matched?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "29",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q042",
+        "source_excerpt": "29. Which of the following pairs of waterfalls and rivers is not correctly matched? (A) Jog—Sharavati (B) Kapildhara—Kaveri (C) Dhuandhar—Godavari (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q043",
+      "question_number": "4",
+      "question_text": "Visakhapatnam Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q043",
+        "source_excerpt": "4. Visakhapatnam Select the correct answer using the codes given below. (A) 1, 2, 3, 4 (B) 4, 1, 2, 3 (C) 1, 3, 2, 4 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q044",
+      "question_number": "31",
+      "question_text": "The Agreement of Kosi Irrigation and Hydroelectricity Plan in 1954 was signed between which two countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "31",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q044",
+        "source_excerpt": "31. The Agreement of Kosi Irrigation and Hydroelectricity Plan in 1954 was signed between which two countries? (A) India and Bangladesh (B) India and China (C) India and Nepal (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q045",
+      "question_number": "32",
+      "question_text": "In which climatic division does Bihar fall as per R. L. Singh’s classification scheme?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 11 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "32",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q045",
+        "source_excerpt": "32. In which climatic division does Bihar fall as per R. L. Singh’s classification scheme? (A) Humid south-east (B) Subhumid transitional (C) Subhumid continental (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/3-A 11 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q046",
+      "question_number": "28",
+      "question_text": "_JY Edß AßJ H$m _°XmZ {H$gHo$ {hÒgo h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "28",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q046",
+        "source_excerpt": "28. _JY Edß AßJ H$m _°XmZ {H$gHo$ {hÒgo h¢? (A) D$nar JßJm H$m _°XmZ (B) _‹` JßJm H$m _°XmZ (C) {ZÂZ JßJm H$m _°XmZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q047",
+      "question_number": "29",
+      "question_text": "Ob‡nmV Am°a ZXr Ho$ {ZÂZ{b{IV OmoãS>m| _| go H$m°Z-gm OmoãS>m ghr gw_o{bV Zht h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "29",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q047",
+        "source_excerpt": "29. Ob‡nmV Am°a ZXr Ho$ {ZÂZ{b{IV OmoãS>m| _| go H$m°Z-gm OmoãS>m ghr gw_o{bV Zht h°? (A) OmoJ—eamdVr (B) H${nbYmam—H$mdoar (C) YwAm±Yma—JmoXmdar (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q048",
+      "question_number": "4",
+      "question_text": "{demImnŒmZ_ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q048",
+        "source_excerpt": "4. {demImnŒmZ_ ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 1, 2, 3, 4 (B) 4, 1, 2, 3 (C) 1, 3, 2, 4 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q049",
+      "question_number": "31",
+      "question_text": "1954 _| {H$Z Xmo Xoem| Ho$ ~rM H$mogr qgMmB© Edß Ob{d⁄wV≤ n[a`moOZm g_Pm°Vm hÒVmj[aV h˛Am Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "31",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q049",
+        "source_excerpt": "31. 1954 _| {H$Z Xmo Xoem| Ho$ ~rM H$mogr qgMmB© Edß Ob{d⁄wV≤ n[a`moOZm g_Pm°Vm hÒVmj[aV h˛Am Wm? (A) ^maVdf© Am°a ~mßΩbmXoe (B) ^maVdf© Am°a MrZ (C) ^maVdf© Am°a Zonmb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q050",
+      "question_number": "32",
+      "question_text": "Ama0 Eb0 qgh Ho$ dJuH$aU ÒH$s_ Ho$ AZwgma, {~hma {H$g ‡H$ma Ho$ Obdm`w ‡Xoe _| AmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 12"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "32",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q050",
+        "source_excerpt": "32. Ama0 Eb0 qgh Ho$ dJuH$aU ÒH$s_ Ho$ AZwgma, {~hma {H$g ‡H$ma Ho$ Obdm`w ‡Xoe _| AmVm h°? (A) Am–© X{jU-nyd© (B) Cnm–© gßH´$_UH$mbrZ (C) Cnm–© _hm¤rnr` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01–10 (S)/3-A 12"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q051",
+      "question_number": "33",
+      "question_text": "In which Session of the Indian National Congress was the resolution of ‘Purna Swaraj’ adopted?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q051",
+        "source_excerpt": "33. In which Session of the Indian National Congress was the resolution of ‘Purna Swaraj’ adopted? (A) Kanpur Session, 1925 (B) Lahore Session, 1929 (C) Karachi Session, 1931 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q052",
+      "question_number": "34",
+      "question_text": "What was an initial objective of ‘Kuka Movement’ in Punjab?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Punjab"
+        },
+        {
+          "label": "C",
+          "text": "movement"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "34",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q052",
+        "source_excerpt": "34. What was an initial objective of ‘Kuka Movement’ in Punjab? (A) To purify the Sikh religion (B) To gain political power in Punjab (C) Organization of peasant movement (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q053",
+      "question_number": "35",
+      "question_text": "Who described the Revolt of 1857 as the ‘First Indian War of Independence’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "35",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q053",
+        "source_excerpt": "35. Who described the Revolt of 1857 as the ‘First Indian War of Independence’? (A) V. D. Savarkar (B) Bal Gangadhar Tilak (C) Bipin Chandra Pal (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q054",
+      "question_number": "36",
+      "question_text": "Where was the first instance of organized non-cooperation in the history of Indian peasantry held?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "36",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q054",
+        "source_excerpt": "36. Where was the first instance of organized non-cooperation in the history of Indian peasantry held? (A) Bihar and Bengal (B) Madras Presidency (C) Punjab Province (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q055",
+      "question_number": "37",
+      "question_text": "Which portfolio did Dr. Rajendra Prasad hold during the Interim Government of 1946?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q055",
+        "source_excerpt": "37. Which portfolio did Dr. Rajendra Prasad hold during the Interim Government of 1946? (A) Defence (B) Home (C) Food and Agriculture (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q056",
+      "question_number": "38",
+      "question_text": "Who among the following particularly urged Gandhiji to visit Champaran to witness the miseries of the Ryots?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "38",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q056",
+        "source_excerpt": "38. Who among the following particularly urged Gandhiji to visit Champaran to witness the miseries of the Ryots? (A) Brijkishore Prasad (B) Rajkumar Shukla (C) Sukhram Ganesh (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q057",
+      "question_number": "39",
+      "question_text": "The ‘Day of Deliverance’ was observed by the Muslim League on which date?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "39",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q057",
+        "source_excerpt": "39. The ‘Day of Deliverance’ was observed by the Muslim League on which date? (A) 22nd December, 1939 (B) 17th October, 1939 (C) 22nd December, 1940 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q058",
+      "question_number": "40",
+      "question_text": "Who laid the foundation stone of National College and Bihar Vidyapeeth?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01–10 (S)/3-A 13 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "40",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q058",
+        "source_excerpt": "40. Who laid the foundation stone of National College and Bihar Vidyapeeth? (A) Dr. Rajendra Prasad (B) Maulana Abdul Bari (C) Mahatma Gandhi (D) More than one of the above (E) None of the above 17/MV/M–2023–01–10 (S)/3-A 13 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q059",
+      "question_number": "33",
+      "question_text": "^maVr` amÔ¥>r` H$mßJ´og Ho$ {H$g A{YdoeZ _| \"nyU© ÒdamO' H$m {g’m›V J•hrV h˛Am Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q059",
+        "source_excerpt": "33. ^maVr` amÔ¥>r` H$mßJ´og Ho$ {H$g A{YdoeZ _| \"nyU© ÒdamO' H$m {g’m›V J•hrV h˛Am Wm? (A) H$mZnwa A{YdoeZ, 1925 (B) bmhm°a A{YdoeZ, 1929 (C) H$amMr A{YdoeZ, 1931 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q060",
+      "question_number": "37",
+      "question_text": "df© 1946 _| ~Zr A›V[a_ gaH$ma _| S>m∞0 amOo›– ‡gmX Ho$ nmg H$m°Z-gm {d^mJ Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q060",
+        "source_excerpt": "37. df© 1946 _| ~Zr A›V[a_ gaH$ma _| S>m∞0 amOo›– ‡gmX Ho$ nmg H$m°Z-gm {d^mJ Wm? (A) ajm (B) J•h (C) Im⁄ Edß H•${f (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q061",
+      "question_number": "38",
+      "question_text": "Jm±YrOr H$mo {deof Í$n go MÂnmaU AmZo Am°a dhm± Ho$ H•$fH$m| H$s X`Zr` pÒW{V H$mo XoIZo hoVw {H$gZo AZwJ´h {H$`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "38",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q061",
+        "source_excerpt": "38. Jm±YrOr H$mo {deof Í$n go MÂnmaU AmZo Am°a dhm± Ho$ H•$fH$m| H$s X`Zr` pÒW{V H$mo XoIZo hoVw {H$gZo AZwJ´h {H$`m Wm? (A) ~•O{H$emoa ‡gmX (B) amOHw$_ma ewäb (C) gwIam_ JUoe (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q062",
+      "question_number": "40",
+      "question_text": "Z°eZb H$m∞boO Am°a {~hma {d⁄mnrR> H$m {ebm›`mg {H$gZo {H$`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "PART—II ( HINDI )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "40",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q062",
+        "source_excerpt": "40. Z°eZb H$m∞boO Am°a {~hma {d⁄mnrR> H$m {ebm›`mg {H$gZo {H$`m Wm? (A) S>m∞0 amOo›– ‡gmX (B) _m°bmZm A„Xwb ~mar (C) _hmÀ_m Jm±Yr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht PART—II ( HINDI )"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q063",
+      "question_number": "41",
+      "question_text": "amOÒWmZr ^mfm H$m CX≤^d An^´ße Ho$ {H$g joÃr` Í$n go h˛Am h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "41",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q063",
+        "source_excerpt": "41. amOÒWmZr ^mfm H$m CX≤^d An^´ße Ho$ {H$g joÃr` Í$n go h˛Am h°? (A) AY©_mJYr An^´ße (B) em°agoZr An^´ße (C) ~´mMãS> An^´ße (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q064",
+      "question_number": "42",
+      "question_text": "amO^mfm Am`moJ Ho$ ‡W_ A‹`j H$m°Z Wo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "42",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q064",
+        "source_excerpt": "42. amO^mfm Am`moJ Ho$ ‡W_ A‹`j H$m°Z Wo? (A) E0 nr0 e_m© (B) Or0 ~r0 dJuO (C) ~r0 Or0 Ioa (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q065",
+      "question_number": "45",
+      "question_text": "{ZÂZ{b{IV ~mo{b`m| H$mo CZHo$ joÃ Ho$ gmW gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : ~mobr joÃ a. AdYr 1. Pm±gr b. ~w›Xobr 2. {~bmgnwa c. ~´O^mfm 3. Bbmhm~mX d. N>ŒmrgJãT>r 4. _Wwam Hy$Q> :",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 4 3 2"
+        },
+        {
+          "label": "B",
+          "text": "2 3 1 4"
+        },
+        {
+          "label": "C",
+          "text": "4 2 3 1"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "45",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q065",
+        "source_excerpt": "45. {ZÂZ{b{IV ~mo{b`m| H$mo CZHo$ joÃ Ho$ gmW gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : ~mobr joÃ a. AdYr 1. Pm±gr b. ~w›Xobr 2. {~bmgnwa c. ~´O^mfm 3. Bbmhm~mX d. N>ŒmrgJãT>r 4. _Wwam Hy$Q> : (A) a b c d 1 4 3 2 (B) a b c d 2 3 1 4 (C) a b c d 4 2 3 1 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q066",
+      "question_number": "46",
+      "question_text": "{h›Xr ^mfm Ho$ {dH$mg Ho$ {bE {deof {ZXoe ^maV Ho$ gß{dYmZ Ho$ {H$g AZw¿N>oX _| h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 14"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "46",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q066",
+        "source_excerpt": "46. {h›Xr ^mfm Ho$ {dH$mg Ho$ {bE {deof {ZXoe ^maV Ho$ gß{dYmZ Ho$ {H$g AZw¿N>oX _| h¢? (A) AZw¿N>oX 351 (B) AZw¿N>oX 147 (C) AZw¿N>oX 349 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 14"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q067",
+      "question_number": "47",
+      "question_text": "A~ VH$ H$s OmZH$mar Ho$ AZwgma {h›Xr ^mfm _| {h›Xr gm{hÀ` Ho$ B{Vhmg boIZ H$m g~go nhbm ‡`mg {H$g {d¤mZ≤ H$m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "47",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q067",
+        "source_excerpt": "47. A~ VH$ H$s OmZH$mar Ho$ AZwgma {h›Xr ^mfm _| {h›Xr gm{hÀ` Ho$ B{Vhmg boIZ H$m g~go nhbm ‡`mg {H$g {d¤mZ≤ H$m h°? (A) Om∞O© {J´`g©Z (B) {ed qgh g|Ja (C) am_Mß– ewäb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q068",
+      "question_number": "50",
+      "question_text": "nß0 {dúZmW ‡gmX {_l Zo \"CŒma _‹`H$mb' H$mo {H$g Zm_ go A{^{hV {H$`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "50",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q068",
+        "source_excerpt": "50. nß0 {dúZmW ‡gmX {_l Zo \"CŒma _‹`H$mb' H$mo {H$g Zm_ go A{^{hV {H$`m h°? (A) ˚m•ßJma H$mb (B) ar{VH$mb (C) H$bm H$mb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q069",
+      "question_number": "52",
+      "question_text": "\"\"VmÀn`© `h h° {H$ N>m`mdmX {Og AmH$mßjm H$m n[aUm_ Wm CgH$m b˙` Ho$db A{^Ï`ßOZm H$s amoMH$ ‡Umbr H$m {dH$mg Wmü&'' N>m`mdmX Ho$ gß~ßY _| `h {dMma {H$g {d¤mZ≤ H$m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 15 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 16"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "52",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q069",
+        "source_excerpt": "52. \"\"VmÀn`© `h h° {H$ N>m`mdmX {Og AmH$mßjm H$m n[aUm_ Wm CgH$m b˙` Ho$db A{^Ï`ßOZm H$s amoMH$ ‡Umbr H$m {dH$mg Wmü&'' N>m`mdmX Ho$ gß~ßY _| `h {dMma {H$g {d¤mZ≤ H$m h°? (A) S>m∞0 ZJo›– (B) nß0 emß{V{‡` {¤doXr (C) am_Mß– ewäb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 15 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 16"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q070",
+      "question_number": "53",
+      "question_text": "BZ_| go {H$g O°Z H${d H$mo An^´ße H$m dmÎ_r{H$ H$hm OmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "53",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q070",
+        "source_excerpt": "53. BZ_| go {H$g O°Z H${d H$mo An^´ße H$m dmÎ_r{H$ H$hm OmVm h°? (A) nwÓnX›V (B) Òd`ß^y (C) ho_Mß– (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q071",
+      "question_number": "54",
+      "question_text": "{ZÂZ{b{IV Xme©{ZH$ _Vm| H$mo CZHo$ ‡dV©H$ AmMm`m] Ho$ gmW gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : Xme©{ZH$ _V ‡dV©H$ AmMm`© a. {d{eÔ>m¤°VdmX 1. eßH$amMm`© b. ew’m¤°VdmX 2. am_mZwOmMm`© c. A¤°VdmX 3. {ZÂ~mH$m©Mm`© d. ¤°Vm¤°VdmX 4. ~Îb^mMm`© Hy$Q> :",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 1 3 2"
+        },
+        {
+          "label": "B",
+          "text": "3 2 4 1"
+        },
+        {
+          "label": "C",
+          "text": "1 3 2 4"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "54",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q071",
+        "source_excerpt": "54. {ZÂZ{b{IV Xme©{ZH$ _Vm| H$mo CZHo$ ‡dV©H$ AmMm`m] Ho$ gmW gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : Xme©{ZH$ _V ‡dV©H$ AmMm`© a. {d{eÔ>m¤°VdmX 1. eßH$amMm`© b. ew’m¤°VdmX 2. am_mZwOmMm`© c. A¤°VdmX 3. {ZÂ~mH$m©Mm`© d. ¤°Vm¤°VdmX 4. ~Îb^mMm`© Hy$Q> : (A) a b c d 4 1 3 2 (B) a b c d 3 2 4 1 (C) a b c d 1 3 2 4 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q072",
+      "question_number": "56",
+      "question_text": "\"‡n⁄dmX' Ho$ AßVJ©V BZ_| go {H$g aMZmH$ma H$m Zm_ gpÂ_{bV Zht h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "56",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q072",
+        "source_excerpt": "56. \"‡n⁄dmX' Ho$ AßVJ©V BZ_| go {H$g aMZmH$ma H$m Zm_ gpÂ_{bV Zht h°? (A) Z{bZ {dbmoMZ e_m© (B) ZßX {H$emoa AmMm`© (C) Ho$ear Hw$_ma (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q073",
+      "question_number": "58",
+      "question_text": "BZ_| go H$m°Z N>m`mdmXr H${d AnZo aMZmH$mb Ho$ Aß{V_ Xm°a _| ‡J{VdmX Ho$ ^m°{VH$ Xe©Z Ho$ gmW-gmW AaqdX Xe©Z go ‡^m{dV h˛Am?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "58",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q073",
+        "source_excerpt": "58. BZ_| go H$m°Z N>m`mdmXr H${d AnZo aMZmH$mb Ho$ Aß{V_ Xm°a _| ‡J{VdmX Ho$ ^m°{VH$ Xe©Z Ho$ gmW-gmW AaqdX Xe©Z go ‡^m{dV h˛Am? (A) O`eßH$a ‡gmX (B) gw{_ÃmZßXZ nßV (C) gy`©H$mßV {ÃnmR>r \"{Zambm' (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q074",
+      "question_number": "61",
+      "question_text": "{ZÂZ{b{IV H$WZm|, ÒWmnZm (A) Am°a VH©$ (~) na {dMma H$s{OE Am°a ZrMo {XE JE Hy$Q> go ghr {dH$În H$m M`Z H$s{OE : ÒWmnZm (A) : nm¸mÀ` g_rjmemÛ go n[a{MV hmoZo Ho$ ~mX {h›Xr AmbmoMZm H$m ÒdÍ$n ~Xbm h° A~ H•${V H$s _yb ‡d•{Œm`m| Edß em˚dV VŒdm| H$m {ddoMZ hmoZo bJm h°ü& VH©$ (~) : gßÒH•$V n’{V na AmYm[aV AmbmoMZm _| Ho$db emÛr` nj H$mo _hŒd {_bVm h°ü& AVÖ H•${V Ho$ g_ÒV JwU-Xmofm| H$m CX≤KmQ>Z Zht hmo gH$Vmü& Hy$Q> :",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "61",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q074",
+        "source_excerpt": "61. {ZÂZ{b{IV H$WZm|, ÒWmnZm (A) Am°a VH©$ (~) na {dMma H$s{OE Am°a ZrMo {XE JE Hy$Q> go ghr {dH$În H$m M`Z H$s{OE : ÒWmnZm (A) : nm¸mÀ` g_rjmemÛ go n[a{MV hmoZo Ho$ ~mX {h›Xr AmbmoMZm H$m ÒdÍ$n ~Xbm h° A~ H•${V H$s _yb ‡d•{Œm`m| Edß em˚dV VŒdm| H$m {ddoMZ hmoZo bJm h°ü& VH©$ (~) : gßÒH•$V n’{V na AmYm[aV AmbmoMZm _| Ho$db emÛr` nj H$mo _hŒd {_bVm h°ü& AVÖ H•${V Ho$ g_ÒV JwU-Xmofm| H$m CX≤KmQ>Z Zht hmo gH$Vmü& Hy$Q> : (A) (A) Am°a (~) XmoZm| ghr h¢ (B) (A) Am°a (~) XmoZm| JbV h¢ (C) (A) JbV Am°a (~) ghr h° (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q075",
+      "question_number": "63",
+      "question_text": "‡o_MßX Ho$ {H$g Cn›`mg _| {dYdm g_Ò`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 17 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 18"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "63",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q075",
+        "source_excerpt": "63. ‡o_MßX Ho$ {H$g Cn›`mg _| {dYdm g_Ò`m h°? (A) J~Z (B) JmoXmZ (C) aßJ^y{_ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 17 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 18"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q076",
+      "question_number": "64",
+      "question_text": "O`eßH$a ‡gmX Ho$ {H$g ZmQ>H$ _| VbmH$ Am°a nwZ{d©dmh H$s g_Ò`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "64",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q076",
+        "source_excerpt": "64. O`eßH$a ‡gmX Ho$ {H$g ZmQ>H$ _| VbmH$ Am°a nwZ{d©dmh H$s g_Ò`m h°? (A) ÒH$›XJw· (B) Y´wdÒdm{_Zr (C) Mß–Jw· (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q077",
+      "question_number": "70",
+      "question_text": "\"{O›XJr Am°a Jwbm~ Ho$ \\y$b' `h ‡{g’ H$hmZr gßH$bZ {H$gH$m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "70",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q077",
+        "source_excerpt": "70. \"{O›XJr Am°a Jwbm~ Ho$ \\y$b' `h ‡{g’ H$hmZr gßH$bZ {H$gH$m h°? (A) _ﬁy ^ßS>mar (B) H•$ÓUm gmo~Vr (C) {edmZr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q078",
+      "question_number": "71",
+      "question_text": "\"\"nß0 ‡VmnZmam`U {_l Am°a ~mbH•$ÓU ^≈> Zo {h›Xr J⁄-gm{hÀ` _| dhr H$m_ {H$`m Omo AßJ´oOr _| ES>rgZ Am°a ÒQ>rb Zo {H$`mü&'' `h {dMma {H$gH$m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "71",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q078",
+        "source_excerpt": "71. \"\"nß0 ‡VmnZmam`U {_l Am°a ~mbH•$ÓU ^≈> Zo {h›Xr J⁄-gm{hÀ` _| dhr H$m_ {H$`m Omo AßJ´oOr _| ES>rgZ Am°a ÒQ>rb Zo {H$`mü&'' `h {dMma {H$gH$m h°? (A) hOmar ‡gmX {¤doXr (B) am_Mß– ewäb (C) am_{dbmg e_m© (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q079",
+      "question_number": "75",
+      "question_text": "gßÒH•$V Ho$ {H$g AmMm`© Zo \"{deofmoJwUmÀ_m' gyÃ Ho$ AmYma na ar{V Am°a JwU _| A^oX _mZm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 19 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 20"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "75",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q079",
+        "source_excerpt": "75. gßÒH•$V Ho$ {H$g AmMm`© Zo \"{deofmoJwUmÀ_m' gyÃ Ho$ AmYma na ar{V Am°a JwU _| A^oX _mZm h°? (A) Hw$›VH$ (B) jo_o›– (C) amOeoIa (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 19 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 20"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q080",
+      "question_number": "77",
+      "question_text": "{ZÂZ{b{IV gy{M`m| H$mo gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : gyMrç1 (‡dV©H$) gyMrç2 (gÂ‡Xm`) a. ^aV_w{Z 1. ‹d{Z gÂ‡Xm` b. AmZßXd’©Z 2. dH´$mo{∫$ gÂ‡Xm` c. Hw$›VH$ 3. ar{V gÂ‡Xm` d. dm_Z 4. ag gÂ‡Xm` Hy$Q> :",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 1 4 3"
+        },
+        {
+          "label": "B",
+          "text": "4 1 2 3"
+        },
+        {
+          "label": "C",
+          "text": "3 4 2 1"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "77",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q080",
+        "source_excerpt": "77. {ZÂZ{b{IV gy{M`m| H$mo gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : gyMrç1 (‡dV©H$) gyMrç2 (gÂ‡Xm`) a. ^aV_w{Z 1. ‹d{Z gÂ‡Xm` b. AmZßXd’©Z 2. dH´$mo{∫$ gÂ‡Xm` c. Hw$›VH$ 3. ar{V gÂ‡Xm` d. dm_Z 4. ag gÂ‡Xm` Hy$Q> : (A) a b c d 2 1 4 3 (B) a b c d 4 1 2 3 (C) a b c d 3 4 2 1 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q081",
+      "question_number": "78",
+      "question_text": "H´$moMo Ho$ A{^Ï`ßOZmdmX H$mo dH´$mo{∫$ {g’mßV H$m \"{dbm`Vr gßÒH$aU' {H$gZo H$hm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "78",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q081",
+        "source_excerpt": "78. H´$moMo Ho$ A{^Ï`ßOZmdmX H$mo dH´$mo{∫$ {g’mßV H$m \"{dbm`Vr gßÒH$aU' {H$gZo H$hm h°? (A) Ì`m_gwßXa Xmg (B) ZßXXwbmao dmOno`r (C) Jwbm~am` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q082",
+      "question_number": "83",
+      "question_text": "am_Ymar qgh \"{XZH$a' H$mo CZH$s {H$g H•${V na \"^maVr` kmZnrR>' nwaÒH$ma ‡m· h˛Am h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "83",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q082",
+        "source_excerpt": "83. am_Ymar qgh \"{XZH$a' H$mo CZH$s {H$g H•${V na \"^maVr` kmZnrR>' nwaÒH$ma ‡m· h˛Am h°? (A) apÌ_aWr (B) Hw$ÈjoÃ (C) Cd©er (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q083",
+      "question_number": "86",
+      "question_text": "_°{WbreaU Jw· H$mo \"amÔ¥>H${d' H$s Cnm{Y {H$gZo Xr?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 21 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 22"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "86",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q083",
+        "source_excerpt": "86. _°{WbreaU Jw· H$mo \"amÔ¥>H${d' H$s Cnm{Y {H$gZo Xr? (A) _hmÀ_m Jm±Yr (B) Bß{Xam Jm±Yr (C) am_Mß– ewäb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 21 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 22"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q084",
+      "question_number": "87",
+      "question_text": "{ZÂZ{b{IV H•${V`m| H$mo CZHo$ aMZmH$mam| Ho$ gmW gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : H•${V aMZmH$ma a. AH$mb Am°a CgHo$ ~mX 1. _w{∫$~moY b. H$bJr ~mOao H$s 2. ^dmZr ‡gmX {_l c. JrV\\$amoe 3. Ako` d. ~´˜amjg 4. ZmJmOw©Z Hy$Q> :",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 1 4 3"
+        },
+        {
+          "label": "B",
+          "text": "4 3 2 1"
+        },
+        {
+          "label": "C",
+          "text": "3 4 1 2"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "87",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q084",
+        "source_excerpt": "87. {ZÂZ{b{IV H•${V`m| H$mo CZHo$ aMZmH$mam| Ho$ gmW gw_o{bV H$s{OE VWm ghr Hy$Q> H$m M`Z H$s{OE : H•${V aMZmH$ma a. AH$mb Am°a CgHo$ ~mX 1. _w{∫$~moY b. H$bJr ~mOao H$s 2. ^dmZr ‡gmX {_l c. JrV\\$amoe 3. Ako` d. ~´˜amjg 4. ZmJmOw©Z Hy$Q> : (A) a b c d 2 1 4 3 (B) a b c d 4 3 2 1 (C) a b c d 3 4 1 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q085",
+      "question_number": "89",
+      "question_text": "H$_boúa ¤mam a{MV H$hmZr Zht h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "89",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q085",
+        "source_excerpt": "89. H$_boúa ¤mam a{MV H$hmZr Zht h° (A) EH$ Am°a {O›XJr (B) amOm {Za~ß{g`m (C) _mßg H$m X[a`m (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q086",
+      "question_number": "91",
+      "question_text": "\"eoIa EH$ OrdZr' Cn›`mg Ho$ Zm`H$ Ho$ M[aÃ H$s ‡_wI {deofVm h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "91",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q086",
+        "source_excerpt": "91. \"eoIa EH$ OrdZr' Cn›`mg Ho$ Zm`H$ Ho$ M[aÃ H$s ‡_wI {deofVm h° (A) {dZ_´Vm (B) ^mdwH$Vm (C) CXmaVm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q087",
+      "question_number": "94",
+      "question_text": "~h˛V H$_ H$hmZr {bIH$a ^r gdm©{YH$ bmoH${‡`Vm ‡m· H$hmZrH$ma BZ_| go H$m°Z h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "94",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q087",
+        "source_excerpt": "94. ~h˛V H$_ H$hmZr {bIH$a ^r gdm©{YH$ bmoH${‡`Vm ‡m· H$hmZrH$ma BZ_| go H$m°Z h¢? (A) gwXe©Z (B) Mß–Ya e_m© \"Jwboar' (C) {dúß^aZmW e_m© \"H$m°{eH$' (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q088",
+      "question_number": "95",
+      "question_text": "‡OmVßÃ Am°a bmoH$VßÃ Ho$ Zm_ na h_mao Mmam| Amoa \\$bZo-\\y$bZo dmbr amOZr{VH$ gßÒH•${V Ho$ ‡{V{Z{Y nmÃ d°⁄ Or {H$g Cn›`mgH$ma H$s g•{Ô> h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "95",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q088",
+        "source_excerpt": "95. ‡OmVßÃ Am°a bmoH$VßÃ Ho$ Zm_ na h_mao Mmam| Amoa \\$bZo-\\y$bZo dmbr amOZr{VH$ gßÒH•${V Ho$ ‡{V{Z{Y nmÃ d°⁄ Or {H$g Cn›`mgH$ma H$s g•{Ô> h¢? (A) A_•Vbmb ZmJa (B) amhr _mgy_ aµOm (C) {ed ‡gmX qgh (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q089",
+      "question_number": "97",
+      "question_text": "\"\"{Ogo gßgma XwÖI H$hVm h°, dhr H${d Ho$ {bE gwI h°ü& YZ Am°a Eo˚d`©, Í$n Am°a ~b, {d⁄m Am°a ~w{’, `o {d^y{V`m± Mmho gßgma H$mo {H$VZm hr _mo{hV H$a b|, H${d Ho$ {bE `hm± Oam ^r AmH$f©U Zht h°ü&'' `h H$WZ \"JmoXmZ' Ho$ {H$g nmÃ H$m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 23 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 24"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "97",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q089",
+        "source_excerpt": "97. \"\"{Ogo gßgma XwÖI H$hVm h°, dhr H${d Ho$ {bE gwI h°ü& YZ Am°a Eo˚d`©, Í$n Am°a ~b, {d⁄m Am°a ~w{’, `o {d^y{V`m± Mmho gßgma H$mo {H$VZm hr _mo{hV H$a b|, H${d Ho$ {bE `hm± Oam ^r AmH$f©U Zht h°ü&'' `h H$WZ \"JmoXmZ' Ho$ {H$g nmÃ H$m h°? (A) _ohVm (B) _mbVr (C) {_b _m{bH$ Iﬁm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 23 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 24"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q090",
+      "question_number": "98",
+      "question_text": "\"XodgoZm' O`eßH$a ‡gmX Ho$ {H$g ZmQ>H$ H$s nmÃ h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "98",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q090",
+        "source_excerpt": "98. \"XodgoZm' O`eßH$a ‡gmX Ho$ {H$g ZmQ>H$ H$s nmÃ h¢? (A) AOmVeÃw (B) Y´wdÒdm{_Zr (C) ÒHß$XJwﬂV (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q091",
+      "question_number": "100",
+      "question_text": "BZ_| go {H$g boIH$ Ho$ {Z~ßY \"b{bV {Z~ßY' {dYm Ho$ ‡ÒWmZ {~›Xw ~Zo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e (‡ÌZ gßª`m 101 go 105 VH$) : Bg IS> _| ZrMo {XE JE J⁄mße go gß~ß{YV ‡ÌZ {XE JE h¢ü& ghr {dH$În MwZH$a CŒma nÃH$ _| Aß{H$V H$s{OEü& amÔ¥>r`Vm Ho$ {dH$mg Ho$ {bE ^mfm EH$ _hŒdnyU© VŒd h°ü& ^mfm hr EH$ Eogm gmYZ h°, {OgHo$ ¤mam _ZwÓ` Am°a _mZd-g_wXm` AnZo ^mdm| H$mo EH$-Xygao Ho$ gm_Zo ‡H$Q> H$aVo h¢ü& {Og ‡H$ma nhmãS>, ZXr VWm g_w– _ZwÓ` Ho$ Amng _| {_bZo-OwbZo _| ÈH$mdQ> n°Xm H$aVo h¢, d°go hr ^mfm H$s {^ﬁVm _ZwÓ`m| _| nmaÒn[aH$ gß~ßY ÒWm{nV H$aZo _| ~mYH$ hmoVr h°ü& _ZwÓ` Ho$ {d{^ﬁ g_wXm`m| Ho$ AnZo-AnZo AmXe©, {dMma Am°a AnZr-AnZr ^mdZmE± hmoVr h¢ {OZH$s A{^Ï`{∫$ ^mfm ¤mam hmoVr h°ü& gßJrV Am°a gm{hÀ` H$s A{^Ï`{∫$ H$m gmYZ ^r ^mfm hr h°ü& ^mfm EH$ Eogm gmYZ h°, {Oggo _ZwÓ` EH$-Xygao Ho$ g_rn Am OmVo h¢, CZ_| K{Z>Vm ÒWm{nV hmo OmVr h°ü& `hr H$maU h° {H$ EH$ ^mfm ~mobZo dmbo bmoJ naÒna ghmZw^y{V aIVo h¢ü& amÔ¥>r`Vm H$s ^mdZm Ho$ {bE ^mfm VŒd na_ AmdÌ`H$ h°ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "100",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q091",
+        "source_excerpt": "100. BZ_| go {H$g boIH$ Ho$ {Z~ßY \"b{bV {Z~ßY' {dYm Ho$ ‡ÒWmZ {~›Xw ~Zo? (A) Hw$~oaZmW am` (B) hOmar ‡gmX {¤doXr (C) {d⁄m{Zdmg {_l (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht {ZX}e (‡ÌZ gßª`m 101 go 105 VH$) : Bg IS> _| ZrMo {XE JE J⁄mße go gß~ß{YV ‡ÌZ {XE JE h¢ü& ghr {dH$În MwZH$a CŒma nÃH$ _| Aß{H$V H$s{OEü& amÔ¥>r`Vm Ho$ {dH$mg Ho$ {bE ^mfm EH$ _hŒdnyU© VŒd h°ü& ^mfm hr EH$ Eogm gmYZ h°, {OgHo$ ¤mam _ZwÓ` Am°a _mZd-g_wXm` AnZo ^mdm| H$mo EH$-Xygao Ho$ gm_Zo ‡H$Q> H$aVo h¢ü& {Og ‡H$ma nhmãS>, ZXr VWm g_w– _ZwÓ` Ho$ Amng _| {_bZo-OwbZo _| ÈH$mdQ> n°Xm H$aVo h¢, d°go hr ^mfm H$s {^ﬁVm _ZwÓ`m| _| nmaÒn[aH$ gß~ßY ÒWm{nV H$aZo _| ~mYH$ hmoVr h°ü& _ZwÓ` Ho$ {d{^ﬁ g_wXm`m| Ho$ AnZo-AnZo AmXe©, {dMma Am°a AnZr-AnZr ^mdZmE± hmoVr h¢ {OZH$s A{^Ï`{∫$ ^mfm ¤mam hmoVr h°ü& gßJrV Am°a gm{hÀ` H$s A{^Ï`{∫$ H$m gmYZ ^r ^mfm hr h°ü& ^mfm EH$ Eogm gmYZ h°, {Oggo _ZwÓ` EH$-Xygao Ho$ g_rn Am OmVo h¢, CZ_| K{Z>Vm ÒWm{nV hmo OmVr h°ü& `hr H$maU h° {H$ EH$ ^mfm ~mobZo dmbo bmoJ naÒna ghmZw^y{V aIVo h¢ü& amÔ¥>r`Vm H$s ^mdZm Ho$ {bE ^mfm VŒd na_ AmdÌ`H$ h°ü&"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q092",
+      "question_number": "102",
+      "question_text": "\"A{^Ï`{∫$' e„X H$m AW© h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "102",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q092",
+        "source_excerpt": "102. \"A{^Ï`{∫$' e„X H$m AW© h° (A) ImoO H$aZm (B) dmVm© H$aZm (C) ‡H$Q> H$aZm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q093",
+      "question_number": "108",
+      "question_text": "{H$g e„X _| XrK© Òdagß{Y Zht h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 25 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 26"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "108",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q093",
+        "source_excerpt": "108. {H$g e„X _| XrK© Òdagß{Y Zht h°? (A) _hme` (B) _hmoÀgd (C) {nV•U (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 25 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 26"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q094",
+      "question_number": "114",
+      "question_text": "\"AZbçA{Zb' lw{Vg_ {^ﬁmW©H$ e„Xm| Ho$ AW© h¢",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "114",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q094",
+        "source_excerpt": "114. \"AZbçA{Zb' lw{Vg_ {^ﬁmW©H$ e„Xm| Ho$ AW© h¢ (A) A{æçdm`w (B) hdmçnmZr (C) ObçAmH$me (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q095",
+      "question_number": "116",
+      "question_text": "\"A' ‡À`` go `w∫$ e„X Zht h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "116",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q095",
+        "source_excerpt": "116. \"A' ‡À`` go `w∫$ e„X Zht h° (A) _m°Z (B) e°d (C) Hw$brZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q096",
+      "question_number": "118",
+      "question_text": "\"\"AÒnVmb _| _arO H$s _•À`w hmo OmZo Ho$ ~mX O~ S>m∞äQ>a BbmO Ho$ {bE Am`m, bmoJm| Zo H$hm {H$ _____ü&'' [aäV ÒWmZ H$s ny{V© Ho$ {bE Cn`w∫$ bmoH$mo{∫$ h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "118",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q096",
+        "source_excerpt": "118. \"\"AÒnVmb _| _arO H$s _•À`w hmo OmZo Ho$ ~mX O~ S>m∞äQ>a BbmO Ho$ {bE Am`m, bmoJm| Zo H$hm {H$ _____ü&'' [aäV ÒWmZ H$s ny{V© Ho$ {bE Cn`w∫$ bmoH$mo{∫$ h° (A) H$m dfm© O~ H•${f gwImZr (B) Amog Ho$ MmQ>o ﬂ`mg Zht ~wPVr (C) Z∏$maImZo _| VyVr H$s AmdmO (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-tgt-questions-paper-hindi-q097",
+      "question_number": "120",
+      "question_text": "{H$g dmä` _| ‡oaUmW©H$ {H´$`m H$m ‡`moJ h˛Am h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "17/MV/M–2023–01 HIN (S)/3-A 27 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 28 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 17/MV/M–2023–01 HIN (S)/3-A 29 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 30 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 17/MV/M–2023–01 HIN (S)/3-A 31 [ P.T.O. 17/MV/M–2023–01 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m gm_m›` A‹``Z Edß {h›Xr nÃ—3 ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",
+        "pdf_sha256": "3cd3515efa3058dbf67e6e9c10d928d89ac02e81473c1e3ab9e460aa0c92ff89",
+        "question_label": "120",
+        "extraction_ref": "tre-1-bpsc-tgt-questions-paper-hindi#q097",
+        "source_excerpt": "120. {H$g dmä` _| ‡oaUmW©H$ {H´$`m H$m ‡`moJ h˛Am h°? (A) _oao hmW IwObmVo h¢ü& (B) {nVm nwÃ go nÃ {bIdmVm h°ü& (C) bãS>H$m AnZo H$mo gwYma ahm h°ü& (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 17/MV/M–2023–01 HIN (S)/3-A 27 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 28 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 17/MV/M–2023–01 HIN (S)/3-A 29 [ P.T.O. 17/MV/M–2023–01 HIN (S)/3-A 30 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 17/MV/M–2023–01 HIN (S)/3-A 31 [ P.T.O. 17/MV/M–2023–01 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m gm_m›` A‹``Z Edß {h›Xr nÃ—3 ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+      }
+    }
+  ]
+}

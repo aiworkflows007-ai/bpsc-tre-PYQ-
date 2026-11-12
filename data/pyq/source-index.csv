@@ -1,0 +1,150 @@
+exam,year,class_band,subject,shift,question_count,source_file,questions_file
+TRE-1,2023,11-12,"Accountancy",,179,"TRE 1/BPSC-PGT-2023-Question-Papers-Accountancy.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-accountancy.json
+TRE-1,2023,11-12,"Bengali",,138,"TRE 1/BPSC-PGT-2023-Question-Papers-Bengali.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-bengali.json
+TRE-1,2023,11-12,"Bojhpuri",,86,"TRE 1/BPSC-PGT-2023-Question-Papers-Bojhpuri.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-bojhpuri.json
+TRE-1,2023,11-12,"Botany",,163,"TRE 1/BPSC-PGT-2023-Question-Papers-Botany.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-botany.json
+TRE-1,2023,11-12,"Business Studies",,187,"TRE 1/BPSC-PGT-2023-Question-Papers-Business-Studies.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-business-studies.json
+TRE-1,2023,11-12,"Chemistry",,177,"TRE 1/BPSC-PGT-2023-Question-Papers-Chemistry.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-chemistry.json
+TRE-1,2023,11-12,"Computer Science",,186,"TRE 1/BPSC-PGT-2023-Question-Papers-Computer-Science.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-computer-science.json
+TRE-1,2023,11-12,"Economics",,168,"TRE 1/BPSC-PGT-2023-Question-Papers-Economics.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-economics.json
+TRE-1,2023,11-12,"English",,139,"TRE 1/BPSC-PGT-2023-Question-Papers-English.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-english.json
+TRE-1,2023,11-12,"Entrepreneurship",,187,"TRE 1/BPSC-PGT-2023-Question-Papers-Entrepreneurship.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-entrepreneurship.json
+TRE-1,2023,11-12,"Geography",,172,"TRE 1/BPSC-PGT-2023-Question-Papers-Geography.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-geography.json
+TRE-1,2023,11-12,"Hindi",,96,"TRE 1/BPSC-PGT-2023-Question-Papers-Hindi.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-hindi.json
+TRE-1,2023,11-12,"History",,166,"TRE 1/BPSC-PGT-2023-Question-Papers-History.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-history.json
+TRE-1,2023,11-12,"Home Science",,166,"TRE 1/BPSC-PGT-2023-Question-Papers-Home-Science.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-home-science.json
+TRE-1,2023,11-12,"Magahi",,86,"TRE 1/BPSC-PGT-2023-Question-Papers-Magahi.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-magahi.json
+TRE-1,2023,11-12,"Maithili",,115,"TRE 1/BPSC-PGT-2023-Question-Papers-Maithili.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-maithili.json
+TRE-1,2023,11-12,"Maths",,191,"TRE 1/BPSC-PGT-2023-Question-Papers-Maths.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-maths.json
+TRE-1,2023,11-12,"Music",,173,"TRE 1/BPSC-PGT-2023-Question-Papers-Music.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-music.json
+TRE-1,2023,11-12,"Pali",,87,"TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-pali.json
+TRE-1,2023,11-12,"Persian",,59,"TRE 1/BPSC-PGT-2023-Question-Papers-Persian.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-persian.json
+TRE-1,2023,11-12,"Physics",,180,"TRE 1/BPSC-PGT-2023-Question-Papers-Physics.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-physics.json
+TRE-1,2023,11-12,"Political Science",,187,"TRE 1/BPSC-PGT-2023-Question-Papers-Political-Science.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-political-science.json
+TRE-1,2023,11-12,"Prakrit",,90,"TRE 1/BPSC-PGT-2023-Question-Papers-Prakrit.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-prakrit.json
+TRE-1,2023,11-12,"Psychology",,180,"TRE 1/BPSC-PGT-2023-Question-Papers-Psychology.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-psychology.json
+TRE-1,2023,11-12,"Sanskrit",,86,"TRE 1/BPSC-PGT-2023-Question-Papers-Sanskrit-.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-sanskrit.json
+TRE-1,2023,11-12,"Urdu",,59,"TRE 1/BPSC-PGT-2023-Question-Papers-Urdu.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-urdu.json
+TRE-1,2023,11-12,"Zoology",,175,"TRE 1/BPSC-PGT-2023-Question-Papers-Zoology.pdf",questions/tre-1-bpsc-pgt-2023-question-papers-zoology.json
+TRE-1,2023,9-10,"Arabic",,60,"TRE 1/BPSC-TGT-Questions-Paper-Arabic.pdf",questions/tre-1-bpsc-tgt-questions-paper-arabic.json
+TRE-1,2023,9-10,"Bengali",,142,"TRE 1/BPSC-TGT-Questions-Paper-Bengali.pdf",questions/tre-1-bpsc-tgt-questions-paper-bengali.json
+TRE-1,2023,9-10,"English",,140,"TRE 1/BPSC-TGT-Questions-Paper-English.pdf",questions/tre-1-bpsc-tgt-questions-paper-english.json
+TRE-1,2023,9-10,"Hindi",,97,"TRE 1/BPSC-TGT-Questions-Paper-Hindi.pdf",questions/tre-1-bpsc-tgt-questions-paper-hindi.json
+TRE-1,2023,9-10,"Maths",,193,"TRE 1/BPSC-TGT-Questions-Paper-Maths.pdf",questions/tre-1-bpsc-tgt-questions-paper-maths.json
+TRE-1,2023,9-10,"Persian",,62,"TRE 1/BPSC-TGT-Questions-Paper-Persian.pdf",questions/tre-1-bpsc-tgt-questions-paper-persian.json
+TRE-1,2023,9-10,"Sanskrit",,79,"TRE 1/BPSC-TGT-Questions-Paper-Sanskrit.pdf",questions/tre-1-bpsc-tgt-questions-paper-sanskrit.json
+TRE-1,2023,9-10,"Science",,186,"TRE 1/BPSC-TGT-Questions-Paper-Science.pdf",questions/tre-1-bpsc-tgt-questions-paper-science.json
+TRE-1,2023,9-10,"Social Science",,285,"TRE 1/BPSC-TGT-Questions-Paper-Social-Science.pdf",questions/tre-1-bpsc-tgt-questions-paper-social-science.json
+TRE-1,2023,9-10,"Urdu",,62,"TRE 1/BPSC-TGT-Questions-Paper-Urdu.pdf",questions/tre-1-bpsc-tgt-questions-paper-urdu.json
+TRE-1,2023,1-5,"General Studies",Shift 1,182,"TRE 1/Bihar-Primary-Teacher-Master-Question-Paper-Shift-1-1.pdf",questions/tre-1-bihar-primary-teacher-master-question-paper-shift-1-1.json
+TRE-1,2023,1-5,"General Studies",Shift 2,168,"TRE 1/Bihar-Primary-Teacher-Master-Question-Paper-Shift-2-1.pdf",questions/tre-1-bihar-primary-teacher-master-question-paper-shift-2-1.json
+TRE-2,2023,6-8,"Hindi English",,130,"TRE 2/BPSC-Middle-School-Question-paper-Hindi-English.pdf",questions/tre-2-bpsc-middle-school-question-paper-hindi-english.json
+TRE-2,2023,6-8,"Math Science",,205,"TRE 2/BPSC-Middle-School-Question-paper-Math-Science.pdf",questions/tre-2-bpsc-middle-school-question-paper-math-science.json
+TRE-2,2023,6-8,"Social Science",,291,"TRE 2/BPSC-Middle-School-Question-paper-Social-Science.pdf",questions/tre-2-bpsc-middle-school-question-paper-social-science.json
+TRE-2,2023,6-8,"English",,140,"TRE 2/BPSC-Middle-Teacher-Question-Booklet-English.pdf",questions/tre-2-bpsc-middle-teacher-question-booklet-english.json
+TRE-2,2023,6-8,"Hindi",,110,"TRE 2/BPSC-Middle-Teacher-Question-Booklet-Hindi (1).pdf",questions/tre-2-bpsc-middle-teacher-question-booklet-hindi-1.json
+TRE-2,2023,6-8,"Hindi",,110,"TRE 2/BPSC-Middle-Teacher-Question-Booklet-Hindi.pdf",questions/tre-2-bpsc-middle-teacher-question-booklet-hindi.json
+TRE-2,2023,6-8,"Sanskrit",,81,"TRE 2/BPSC-Middle-Teacher-Question-Booklet-Sanskrit.pdf",questions/tre-2-bpsc-middle-teacher-question-booklet-sanskrit.json
+TRE-2,2023,6-8,"Urdu",,72,"TRE 2/BPSC-Middle-Teacher-Question-Booklet-Urdu.pdf",questions/tre-2-bpsc-middle-teacher-question-booklet-urdu.json
+TRE-2,2023,1-5,"General Studies",,196,"TRE 2/BPSC-Primary-Teacher-Question-Booklet-General-Studies.pdf",questions/tre-2-bpsc-primary-teacher-question-booklet-general-studies.json
+TRE-2,2023,,"Unclassified",,193,"TRE 2/BPSC-Principal-Ques-Paper.pdf",questions/tre-2-bpsc-principal-ques-paper.json
+TRE-2,2023,1-5,"General Studies",,169,"TRE 2/BPSC-Question-Paper-For-Class-1-5-General-Studies.pdf",questions/tre-2-bpsc-question-paper-for-class-1-5-general-studies.json
+TRE-2,2023,11-12,"Unclassified",,202,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklet-Computer-Science.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklet-computer-science.json
+TRE-2,2023,11-12,"Unclassified",,173,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Accountancy.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-accountancy.json
+TRE-2,2023,11-12,"Unclassified",,152,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bangla.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-bangla.json
+TRE-2,2023,11-12,"Unclassified",,94,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri.json
+TRE-2,2023,11-12,"Unclassified",,178,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Botanu.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-botanu.json
+TRE-2,2023,11-12,"Unclassified",,183,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Business-Studies.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-business-studies.json
+TRE-2,2023,11-12,"Unclassified",,182,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Chemistry.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-chemistry.json
+TRE-2,2023,11-12,"Unclassified",,181,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Economics.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-economics.json
+TRE-2,2023,11-12,"Unclassified",,152,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-English.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-english.json
+TRE-2,2023,11-12,"Unclassified",,193,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Entrepreneurship.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-entrepreneurship.json
+TRE-2,2023,11-12,"Unclassified",,180,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Geography.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-geography.json
+TRE-2,2023,11-12,"Unclassified",,94,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Hindi.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-hindi.json
+TRE-2,2023,11-12,"Unclassified",,185,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-History.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-history.json
+TRE-2,2023,11-12,"Unclassified",,186,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Home-Science.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-home-science.json
+TRE-2,2023,11-12,"Unclassified",,94,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-magadhi.json
+TRE-2,2023,11-12,"Unclassified",,125,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Maithili.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-maithili.json
+TRE-2,2023,11-12,"Unclassified",,182,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Maths.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-maths.json
+TRE-2,2023,11-12,"Unclassified",,173,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Music.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-music.json
+TRE-2,2023,11-12,"Unclassified",,109,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Pali.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-pali.json
+TRE-2,2023,11-12,"Unclassified",,72,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Persian.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-persian.json
+TRE-2,2023,11-12,"Unclassified",,167,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Philosophy.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-philosophy.json
+TRE-2,2023,11-12,"Unclassified",,201,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Physics.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-physics.json
+TRE-2,2023,11-12,"Unclassified",,192,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Political-Science.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-political-science.json
+TRE-2,2023,11-12,"Unclassified",,83,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Prakrit.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-prakrit.json
+TRE-2,2023,11-12,"Unclassified",,206,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Psychology.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-psychology.json
+TRE-2,2023,11-12,"Unclassified",,83,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Sanskrit.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-sanskrit.json
+TRE-2,2023,11-12,"Unclassified",,174,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Sociology.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-sociology.json
+TRE-2,2023,11-12,"Unclassified",,72,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Urdu.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-urdu.json
+TRE-2,2023,11-12,"Unclassified",,176,"TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Zoology.pdf",questions/tre-2-bpsc-senior-secondary-teacher-booklets-zoology.json
+TRE-2,2023,9-10,"TGT Arabic",,70,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Arabic.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-arabic.json
+TRE-2,2023,9-10,"TGT Bengali",,152,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Bengali.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-bengali.json
+TRE-2,2023,9-10,"TGT Computer",,193,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Computer.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-computer.json
+TRE-2,2023,9-10,"TGT Dance",,179,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Dance.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-dance.json
+TRE-2,2023,9-10,"TGT English",,150,"TRE 2/BPSC-Teacher-Question-Paper-TGT-English.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-english.json
+TRE-2,2023,9-10,"TGT Fine Arts",,193,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Fine-Arts.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-fine-arts.json
+TRE-2,2023,9-10,"TGT Hindi",,101,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Hindi.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-hindi.json
+TRE-2,2023,9-10,"TGT Maithili",,130,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Maithali.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-maithali.json
+TRE-2,2023,9-10,"TGT Maths",,206,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Maths.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-maths.json
+TRE-2,2023,9-10,"TGT Music",,166,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Music.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-music.json
+TRE-2,2023,9-10,"TGT Persian",,72,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Persian.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-persian.json
+TRE-2,2023,9-10,"TGT Physical Education",,188,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Physical-Education.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-physical-education.json
+TRE-2,2023,9-10,"TGT SS",,283,"TRE 2/BPSC-Teacher-Question-Paper-TGT-SS.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-ss.json
+TRE-2,2023,9-10,"TGT Sanskrit",,83,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1.json
+TRE-2,2023,9-10,"TGT Sanskrit",,83,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-sanskrit.json
+TRE-2,2023,9-10,"TGT Science",,181,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Science.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-science.json
+TRE-2,2023,9-10,"TGT Urdu",,72,"TRE 2/BPSC-Teacher-Question-Paper-TGT-Urdu.pdf",questions/tre-2-bpsc-teacher-question-paper-tgt-urdu.json
+TRE-3,2024,1-5,"General Studies",,169,"TRE 3/BPSC-Question-Paper-For-Class-1-5-General-Studies.pdf",questions/tre-3-bpsc-question-paper-for-class-1-5-general-studies.json
+TRE-3,2024,11-12,"Accountancy",,80,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Accountancy.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-accountancy.json
+TRE-3,2024,11-12,"Bengali",,37,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Bengali.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-bengali.json
+TRE-3,2024,11-12,"Bhojpuri",,51,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Bhojpuri (1).pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-bhojpuri-1.json
+TRE-3,2024,11-12,"Bhojpuri",,51,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Bhojpuri.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-bhojpuri.json
+TRE-3,2024,11-12,"Botany",,97,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Botany.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-botany.json
+TRE-3,2024,11-12,"Business Studies",,126,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Business-Studies.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-business-studies.json
+TRE-3,2024,11-12,"Chemistry",,91,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Chemistry.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-chemistry.json
+TRE-3,2024,11-12,"Computer Science",,88,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Computer-Science.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-computer-science.json
+TRE-3,2024,11-12,"Economics",,77,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Economics.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-economics.json
+TRE-3,2024,11-12,"English",,63,"TRE 3/BPSC-Question-Paper-For-Class-11-12-English (1).pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-english-1.json
+TRE-3,2024,11-12,"Entrepreneurship",,131,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Enterprenership.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-enterprenership.json
+TRE-3,2024,11-12,"Geography",,119,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Geography.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-geography.json
+TRE-3,2024,11-12,"Hindi",,43,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Hindi (1).pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-hindi-1.json
+TRE-3,2024,11-12,"History",,90,"TRE 3/BPSC-Question-Paper-For-Class-11-12-History.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-history.json
+TRE-3,2024,11-12,"Home Science",,68,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Home-Science.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-home-science.json
+TRE-3,2024,11-12,"Maithili",,68,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Maithali (1).pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-maithali-1.json
+TRE-3,2024,11-12,"Mathematics",,120,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Mathematics.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-mathematics.json
+TRE-3,2024,11-12,"Music",,61,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Music.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-music.json
+TRE-3,2024,11-12,"Pali",,52,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Pali.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-pali.json
+TRE-3,2024,11-12,"Persian",,36,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Persian.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-persian.json
+TRE-3,2024,11-12,"Philosophy",,75,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Philosophy.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-philosophy.json
+TRE-3,2024,11-12,"Physics",,123,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Physics.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-physics.json
+TRE-3,2024,11-12,"Political Science",,105,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Political-Science.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-political-science.json
+TRE-3,2024,11-12,"Prakrit",,50,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Prakrit.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-prakrit.json
+TRE-3,2024,11-12,"Psychology",,103,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Psychology.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-psychology.json
+TRE-3,2024,11-12,"Sanskrit",,48,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Sanskrit.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-sanskrit.json
+TRE-3,2024,11-12,"Sociology",,102,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Sociology.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-sociology.json
+TRE-3,2024,11-12,"Zoology",,68,"TRE 3/BPSC-Question-Paper-For-Class-11-12-Zoology.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-zoology.json
+TRE-3,2024,11-12,"urdu",,36,"TRE 3/BPSC-Question-Paper-For-Class-11-12-urdu.pdf",questions/tre-3-bpsc-question-paper-for-class-11-12-urdu.json
+TRE-3,2024,6-8,"English",,142,"TRE 3/BPSC-Question-Paper-For-Class-6-8-English.pdf",questions/tre-3-bpsc-question-paper-for-class-6-8-english.json
+TRE-3,2024,6-8,"Hindi",,78,"TRE 3/BPSC-Question-Paper-For-Class-6-8-Hindi (1).pdf",questions/tre-3-bpsc-question-paper-for-class-6-8-hindi-1.json
+TRE-3,2024,6-8,"Sanskrit",,74,"TRE 3/BPSC-Question-Paper-For-Class-6-8-Sanskrit (1).pdf",questions/tre-3-bpsc-question-paper-for-class-6-8-sanskrit-1.json
+TRE-3,2024,6-8,"math science",,183,"TRE 3/BPSC-Question-Paper-For-Class-6-8-math-science (1).pdf",questions/tre-3-bpsc-question-paper-for-class-6-8-math-science-1.json
+TRE-3,2024,6-8,"social science",,281,"TRE 3/BPSC-Question-Paper-For-Class-6-8-social-science.pdf",questions/tre-3-bpsc-question-paper-for-class-6-8-social-science.json
+TRE-3,2024,9-10,"Arabic",,37,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Arabic.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-arabic.json
+TRE-3,2024,9-10,"Bengali",,37,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Bengali.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-bengali.json
+TRE-3,2024,9-10,"Dance",,69,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Dance.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-dance.json
+TRE-3,2024,9-10,"English",,68,"TRE 3/BPSC-Question-Paper-For-Class-9-10-English.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-english.json
+TRE-3,2024,9-10,"Fine Arts",,73,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Fine-Arts (1).pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-fine-arts-1.json
+TRE-3,2024,9-10,"Fine Arts",,73,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Fine-Arts.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-fine-arts.json
+TRE-3,2024,9-10,"Hindi",,56,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Hindi.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-hindi.json
+TRE-3,2024,9-10,"Maithili",,64,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Maithali.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-maithali.json
+TRE-3,2024,9-10,"Maths",,118,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Maths.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-maths.json
+TRE-3,2024,9-10,"Music",,80,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Music.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-music.json
+TRE-3,2024,9-10,"Persian",,37,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Persian.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-persian.json
+TRE-3,2024,9-10,"Physical Education",,129,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Physical-Education.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-physical-education.json
+TRE-3,2024,9-10,"Sanskrit",,49,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Sanskrit.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-sanskrit.json
+TRE-3,2024,9-10,"Science",,78,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Science.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-science.json
+TRE-3,2024,9-10,"Social Science",,146,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Social-Science.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-social-science.json
+TRE-3,2024,9-10,"Urdu",,37,"TRE 3/BPSC-Question-Paper-For-Class-9-10-Urdu.pdf",questions/tre-3-bpsc-question-paper-for-class-9-10-urdu.json
+TRE-3,2024,6-8,"Hindi Medium",,0,"TRE 3/BPSC-TRE-Middle-School-Question-Paper-Hindi-Medium_compressed (1).pdf",questions/tre-3-bpsc-tre-middle-school-question-paper-hindi-medium-compressed-1.json
+TRE-3,2024,6-8,"Hindi Medium",,0,"TRE 3/BPSC-TRE-Middle-School-Question-Paper-Hindi-Medium_compressed.pdf",questions/tre-3-bpsc-tre-middle-school-question-paper-hindi-medium-compressed.json

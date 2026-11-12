@@ -1,0 +1,4435 @@
+{
+  "metadata": {
+    "exam": "TRE-2",
+    "exam_year": 2023,
+    "subject": "Unclassified",
+    "class_band": "11-12",
+    "shift": null,
+    "frontend_category": "subject",
+    "frontend_subject": "Unclassified",
+    "source_file": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+    "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+    "extracted_at": "2026-11-09T01:19:48.119Z",
+    "extracted_text_pages": 33
+  },
+  "questions": [
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q001",
+      "question_number": "1",
+      "question_text": "There are 30 or 31 days in _____ month.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "1",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q001",
+        "source_excerpt": "1. There are 30 or 31 days in _____ month. (A) the (B) a (C) an (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q002",
+      "question_number": "2",
+      "question_text": "My father is _____ engineer in the Water Works Department.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "2",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q002",
+        "source_excerpt": "2. My father is _____ engineer in the Water Works Department. (A) the (B) an (C) a (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q003",
+      "question_number": "3",
+      "question_text": "Which of the following is a part of bedroom?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "3",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q003",
+        "source_excerpt": "3. Which of the following is a part of bedroom? (A) Pillow (B) Table lamp (C) Curtains (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q004",
+      "question_number": "4",
+      "question_text": "Which of the following is a part of a room?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q004",
+        "source_excerpt": "4. Which of the following is a part of a room? (A) Window (B) Ceiling (C) Floor (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q005",
+      "question_number": "6",
+      "question_text": "The eighth month of the year is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "6",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q005",
+        "source_excerpt": "6. The eighth month of the year is (A) July (B) September (C) October (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q006",
+      "question_number": "7",
+      "question_text": "Sister-in-law is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "7",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q006",
+        "source_excerpt": "7. Sister-in-law is (A) husband’s sister (B) wife’s sister (C) brother’s wife (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q007",
+      "question_number": "8",
+      "question_text": "Cousins are",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 2"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "8",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q007",
+        "source_excerpt": "8. Cousins are (A) maternal (B) paternal (C) siblings (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 2"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q008",
+      "question_number": "16",
+      "question_text": "{ZÂZ{b{IV _| go H$m°Z-gm \"VÀg_' e„X h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 3 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "16",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q008",
+        "source_excerpt": "16. {ZÂZ{b{IV _| go H$m°Z-gm \"VÀg_' e„X h°? (A) Ka (B) ÒZoh (C) N>oX (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–10/S5 (HS)/234-A 3 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q009",
+      "question_number": "23",
+      "question_text": "Aew’ Am°a ew’ dV©Zr H$m H$m°Z-gm `wΩ_ ghr Zht h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "23",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q009",
+        "source_excerpt": "23. Aew’ Am°a ew’ dV©Zr H$m H$m°Z-gm `wΩ_ ghr Zht h°? (A) H$mo_bmß{JZrççH$mo_bmßJr (B) gwlyfmççewlyfm (C) _mhmÀ_çç_hmÀÂ` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q010",
+      "question_number": "24",
+      "question_text": "\"\"CgH$m ^{dÓ` COdb h°ü&'' Bg dmä` _| aoImß{H$V e„X H$s ew’ dV©Zr H$m°Z-gr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 4"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "24",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q010",
+        "source_excerpt": "24. \"\"CgH$m ^{dÓ` COdb h°ü&'' Bg dmä` _| aoImß{H$V e„X H$s ew’ dV©Zr H$m°Z-gr h°? (A) CÇdb (B) C¡db (C) CÇmdb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–10/S5 (HS)/234-A 4"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q011",
+      "question_number": "27",
+      "question_text": "\"\"OgmoXm h[a nmbZ° Pwbmd°ü& hbamd° XwbamB _Îhmd¢, OmoB-gmoB H$Nw> Jmd¢ü&&'' C∫$ H$mÏ`-nß{∫$`m| _| H$m°Z-gm ag h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "27",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q011",
+        "source_excerpt": "27. \"\"OgmoXm h[a nmbZ° Pwbmd°ü& hbamd° XwbamB _Îhmd¢, OmoB-gmoB H$Nw> Jmd¢ü&&'' C∫$ H$mÏ`-nß{∫$`m| _| H$m°Z-gm ag h°? (A) ˚m•ßJma (B) dra (C) dmÀgÎ` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q012",
+      "question_number": "30",
+      "question_text": "{OZ e„Xm| na qbJ, dMZ, H$maH$ H$m H$moB© ‡^md Z nãS>o, do H$hbmVo h¢",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 5 [ P.T.O. PART—II ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "30",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q012",
+        "source_excerpt": "30. {OZ e„Xm| na qbJ, dMZ, H$maH$ H$m H$moB© ‡^md Z nãS>o, do H$hbmVo h¢ (A) Ï`` (B) {dH$mar (C) A{dH$mar (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–10/S5 (HS)/234-A 5 [ P.T.O. PART—II ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q013",
+      "question_number": "31",
+      "question_text": "The floor of a rectangular hall has a perimeter 250 meters. If the cost of painting the four walls at the rate of R10 per ( ) meter 2 is R15,000, then the height of the hall is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "31",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q013",
+        "source_excerpt": "31. The floor of a rectangular hall has a perimeter 250 meters. If the cost of painting the four walls at the rate of R10 per ( ) meter 2 is R15,000, then the height of the hall is (A) 7 meters (B) 16 meters (C) 6 meters (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q014",
+      "question_number": "32",
+      "question_text": "Which of the following statements is not true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "whole number."
+        },
+        {
+          "label": "B",
+          "text": "number."
+        },
+        {
+          "label": "C",
+          "text": "integer number."
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "32",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q014",
+        "source_excerpt": "32. Which of the following statements is not true? (A) Every natural number is a whole number. (B) Every integer is a whole number. (C) Every natural number is an integer number. (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q015",
+      "question_number": "33",
+      "question_text": "The average of 7 consecutive numbers is 20. The largest of these numbers is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "33",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q015",
+        "source_excerpt": "33. The average of 7 consecutive numbers is 20. The largest of these numbers is (A) 20 (B) 21 (C) 23 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q016",
+      "question_number": "34",
+      "question_text": "The equation ax bx c 2 0 + + = has two distinct real roots, if",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 0 - <"
+        },
+        {
+          "label": "B",
+          "text": "4 0 - >"
+        },
+        {
+          "label": "C",
+          "text": "4 0 - ="
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "34",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q016",
+        "source_excerpt": "34. The equation ax bx c 2 0 + + = has two distinct real roots, if (A) b ac 2 4 0 - < (B) b ac 2 4 0 - > (C) b ac 2 4 0 - = (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q017",
+      "question_number": "35",
+      "question_text": "Mohan can do a bit of work in 25 days which can be completed by Sohan in 20 days. Both together labour for 5 days and afterward Mohan leaves off. How long will Sohan take to complete the remaining work?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 6 24/HV/M–2023–10/S5 (HS)/234-A 7 [ P.T.O. PART—II ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "35",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q017",
+        "source_excerpt": "35. Mohan can do a bit of work in 25 days which can be completed by Sohan in 20 days. Both together labour for 5 days and afterward Mohan leaves off. How long will Sohan take to complete the remaining work? (A) 20 days (B) 11 days (C) 14 days (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 6 24/HV/M–2023–10/S5 (HS)/234-A 7 [ P.T.O. PART—II ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q018",
+      "question_number": "31",
+      "question_text": "EH$ Am`VmH$ma hm∞b Ho$ \\$e© H$s n[a{Y 250 _rQ>a h°ü& `{X R10 ‡{V dJ© _rQ>a H$s Xa go Mmam| Xrdmam| H$mo n|Q> H$aZo H$s bmJV R15,000 h°, Vmo hm∞b H$s D±$MmB© h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "31",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q018",
+        "source_excerpt": "31. EH$ Am`VmH$ma hm∞b Ho$ \\$e© H$s n[a{Y 250 _rQ>a h°ü& `{X R10 ‡{V dJ© _rQ>a H$s Xa go Mmam| Xrdmam| H$mo n|Q> H$aZo H$s bmJV R15,000 h°, Vmo hm∞b H$s D±$MmB© h° (A) 7 _rQ>a (B) 16 _rQ>a (C) 6 _rQ>a (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q019",
+      "question_number": "35",
+      "question_text": "_mohZ 25 {XZm| _| EH$ H$m_ H$a gH$Vm h° {Ogo gmohZ 20 {XZm| _| nyam H$a gH$Vm h°ü& XmoZm| EH$ gmW 5 {XZm| Ho$ {bE l_ H$aVo h¢ Am°a CgHo$ ~mX _mohZ H$m_ N>moãS> XoVm h°ü& eof H$m`© H$mo nyam H$aZo _| gmohZ H$mo {H$VZm g_` bJoJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "35",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q019",
+        "source_excerpt": "35. _mohZ 25 {XZm| _| EH$ H$m_ H$a gH$Vm h° {Ogo gmohZ 20 {XZm| _| nyam H$a gH$Vm h°ü& XmoZm| EH$ gmW 5 {XZm| Ho$ {bE l_ H$aVo h¢ Am°a CgHo$ ~mX _mohZ H$m_ N>moãS> XoVm h°ü& eof H$m`© H$mo nyam H$aZo _| gmohZ H$mo {H$VZm g_` bJoJm? (A) 20 {XZ (B) 11 {XZ (C) 14 {XZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q020",
+      "question_number": "36",
+      "question_text": "If X a b = - 2 2 , Y = 30 and a b + = 15, then",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "36",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q020",
+        "source_excerpt": "36. If X a b = - 2 2 , Y = 30 and a b + = 15, then (A) X is lesser than Y if a b = (B) X is greater thanY if a b > (C) Y is greater than X if a b = (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q021",
+      "question_number": "37",
+      "question_text": "The probability of a non leap year selected at random will contain 53 Sundays is",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "53"
+        },
+        {
+          "label": "C",
+          "text": "53"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "37",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q021",
+        "source_excerpt": "37. The probability of a non leap year selected at random will contain 53 Sundays is (A) 1 7 (B) 2 53 (C) 1 53 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q022",
+      "question_number": "38",
+      "question_text": "If 7 49 12 6 3 12 x x + + = , then the value of x is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "38",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q022",
+        "source_excerpt": "38. If 7 49 12 6 3 12 x x + + = , then the value of x is (A) 3 (B) 4 (C) 7 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q023",
+      "question_number": "39",
+      "question_text": "Myopia is a disease in which a person cannot see",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "objects clearly"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "39",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q023",
+        "source_excerpt": "39. Myopia is a disease in which a person cannot see (A) distant objects clearly (B) nearby objects clearly (C) nearby as well as distant objects clearly (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q024",
+      "question_number": "40",
+      "question_text": "The term ‘heredity’ chiefly refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "40",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q024",
+        "source_excerpt": "40. The term ‘heredity’ chiefly refers to (A) anatomy (B) meiosis (C) genetics (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q025",
+      "question_number": "41",
+      "question_text": "The cans in which food is packed are coated with tin and not zinc because",
+      "options": [
+        {
+          "label": "A",
+          "text": "zinc"
+        },
+        {
+          "label": "B",
+          "text": "tin"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 8 24/HV/M–2023–10/S5 (HS)/234-A 9 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "41",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q025",
+        "source_excerpt": "41. The cans in which food is packed are coated with tin and not zinc because (A) tin is more reactive than zinc (B) zinc is more reactive than tin (C) zinc is costlier than tin (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 8 24/HV/M–2023–10/S5 (HS)/234-A 9 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q026",
+      "question_number": "36",
+      "question_text": "`{X X a b = - 2 2 , Y = 30 VWm a b + = 15 hmo, Vmo",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "36",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q026",
+        "source_excerpt": "36. `{X X a b = - 2 2 , Y = 30 VWm a b + = 15 hmo, Vmo (A) X N>moQ>m h° Y go `{X a b = (B) X ~ãS>m h° Y go `{X a b > (C) Y ~ãS>m h° X go `{X a b = (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q027",
+      "question_number": "37",
+      "question_text": "`m—p¿N>H$ Í$n go MwZo JE EH$ J°a-brn df© _| 53 a{ddma hmoZo H$s ‡m{`H$Vm h°",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "53"
+        },
+        {
+          "label": "C",
+          "text": "53"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "37",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q027",
+        "source_excerpt": "37. `m—p¿N>H$ Í$n go MwZo JE EH$ J°a-brn df© _| 53 a{ddma hmoZo H$s ‡m{`H$Vm h° (A) 1 7 (B) 2 53 (C) 1 53 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q028",
+      "question_number": "42",
+      "question_text": "The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "42",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q028",
+        "source_excerpt": "42. The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is (A) oxidation (B) reduction (C) hydrolysis (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q029",
+      "question_number": "43",
+      "question_text": "The quality of a printer is determined as",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "43",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q029",
+        "source_excerpt": "43. The quality of a printer is determined as (A) words per inch (B) strike per inch (C) dots per inch (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q030",
+      "question_number": "44",
+      "question_text": "Trachoma disease is related to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "44",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q030",
+        "source_excerpt": "44. Trachoma disease is related to (A) lungs (B) ears (C) eyes (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q031",
+      "question_number": "45",
+      "question_text": "Which of the following makes use of Newton’s third law of motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "45",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q031",
+        "source_excerpt": "45. Which of the following makes use of Newton’s third law of motion? (A) Archery (B) Space rocket (C) Venturimeter (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q032",
+      "question_number": "46",
+      "question_text": "Particles which can be added to the nucleus of an atom without changing its chemical properties are",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 10 24/HV/M–2023–10/S5 (HS)/234-A 11 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "46",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q032",
+        "source_excerpt": "46. Particles which can be added to the nucleus of an atom without changing its chemical properties are (A) neutrons (B) electrons (C) protons (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 10 24/HV/M–2023–10/S5 (HS)/234-A 11 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q033",
+      "question_number": "43",
+      "question_text": "EH$ {‡›Q>a H$s JwUdŒmm {H$ggo {ZYm©[aV H$s OmVr h°>?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "43",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q033",
+        "source_excerpt": "43. EH$ {‡›Q>a H$s JwUdŒmm {H$ggo {ZYm©[aV H$s OmVr h°>? (A) e„X ‡{V BßM (B) ‡hma ‡{V BßM (C) {~›Xw ‡{V BßM (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q034",
+      "question_number": "46",
+      "question_text": "amgm`{ZH$ JwUm| H$mo An[ad{V©V aIVo h˛E EH$ na_mUw Ho$ Zm{^H$ _| OmoãS>o OmZo dmbo H$U h¢",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 12"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "46",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q034",
+        "source_excerpt": "46. amgm`{ZH$ JwUm| H$mo An[ad{V©V aIVo h˛E EH$ na_mUw Ho$ Zm{^H$ _| OmoãS>o OmZo dmbo H$U h¢ (A) ›`yQ¥>m∞Z (B) BboäQ¥>m∞Z (C) ‡moQ>m∞Z (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–10/S5 (HS)/234-A 12"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q035",
+      "question_number": "47",
+      "question_text": "Before Elon Musk announced change of the signature Blue Bird logo to Sign ‘X’ logo, who is regarded as the creator of Twitter’s iconic Bird in its final version in 2012?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "47",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q035",
+        "source_excerpt": "47. Before Elon Musk announced change of the signature Blue Bird logo to Sign ‘X’ logo, who is regarded as the creator of Twitter’s iconic Bird in its final version in 2012? (A) Jack Dorsey (B) Martin Grasser (C) Noah Glass (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q036",
+      "question_number": "48",
+      "question_text": "Who is the Director of the famous film Oppenheimer, a film about high-concept science, released this year?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "48",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q036",
+        "source_excerpt": "48. Who is the Director of the famous film Oppenheimer, a film about high-concept science, released this year? (A) Christopher Nolan (B) Guy Ritchie (C) Laura McGann (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q037",
+      "question_number": "49",
+      "question_text": "Which one of the following has pulled out from hosting the 2026 edition of Commonwealth Games due to huge estimated expenditure on its organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "49",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q037",
+        "source_excerpt": "49. Which one of the following has pulled out from hosting the 2026 edition of Commonwealth Games due to huge estimated expenditure on its organization? (A) London, UK (B) Kuala Lumpur, Malaysia (C) Victoria, Australia (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q038",
+      "question_number": "50",
+      "question_text": "What is the full form of INDIA, a recently formed alliance of opposition political parties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mental Inclusive Alliance"
+        },
+        {
+          "label": "B",
+          "text": "ment for Improvement Alliance"
+        },
+        {
+          "label": "C",
+          "text": "mental Inclusive Associa- tion"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "50",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q038",
+        "source_excerpt": "50. What is the full form of INDIA, a recently formed alliance of opposition political parties? (A) Indian National Develop- mental Inclusive Alliance (B) Indian National Develop- ment for Improvement Alliance (C) Indian National Develop- mental Inclusive Associa- tion (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q039",
+      "question_number": "51",
+      "question_text": "What message was sent by Chandrayaan–2 lunar orbiter to Chandrayaan–3’s lander module when it established contact with it in August 2023?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "chalein”"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 13 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "51",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q039",
+        "source_excerpt": "51. What message was sent by Chandrayaan–2 lunar orbiter to Chandrayaan–3’s lander module when it established contact with it in August 2023? (A) “Welcome home” (B) “Chalo chand ke paar chalein” (C) “Welcome, buddy” (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 13 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q040",
+      "question_number": "47",
+      "question_text": "EbZ _ÒH$ ¤mam {gæoMa „by ~S>© bmoJmo H$mo ~XbH$a \"X' bmoJmo H$s KmofUm H$aZo go nhbo, 2012 _| AnZo Ap›V_ gßÒH$aU _| {Qâ>Q>a Ho$ ‡{V{>V ~S>© Ho$ {Z_m©Vm Ho$ Í$n _| {H$go _mZm OmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "47",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q040",
+        "source_excerpt": "47. EbZ _ÒH$ ¤mam {gæoMa „by ~S>© bmoJmo H$mo ~XbH$a \"X' bmoJmo H$s KmofUm H$aZo go nhbo, 2012 _| AnZo Ap›V_ gßÒH$aU _| {Qâ>Q>a Ho$ ‡{V{>V ~S>© Ho$ {Z_m©Vm Ho$ Í$n _| {H$go _mZm OmVm h°? (A) O°H$ S>mogu (B) _m{Q>©Z J´mga (C) ZmoAmh Ωbmg (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q041",
+      "question_number": "51",
+      "question_text": "AJÒV 2023 _| O~ M›–`mZ–2 Mß– Am∞{~©Q>a Zo M›–`mZ–3 Ho$ b°ßS>a _m∞S>Áyb go gÂnH©$ ÒWm{nV {H$`m, Vmo CgZo Cgo ä`m gßXoe ^oOm Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 14"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "51",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q041",
+        "source_excerpt": "51. AJÒV 2023 _| O~ M›–`mZ–2 Mß– Am∞{~©Q>a Zo M›–`mZ–3 Ho$ b°ßS>a _m∞S>Áyb go gÂnH©$ ÒWm{nV {H$`m, Vmo CgZo Cgo ä`m gßXoe ^oOm Wm? (A) \"\"dobH$_ hmo_'' (B) \"\"Mbmo Mm±X Ho$ nma Mb|'' (C) \"\"dobH$_, ~S>r'' (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–10/S5 (HS)/234-A 14"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q042",
+      "question_number": "52",
+      "question_text": "Name the former President of China who crushed the pro- democracy movement in 1989.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "52",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q042",
+        "source_excerpt": "52. Name the former President of China who crushed the pro- democracy movement in 1989. (A) Mao Tse Tung (B) Yang Shangkun (C) Jiang Zemin (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q043",
+      "question_number": "53",
+      "question_text": "Who has elected for the second term as Ireland’s Prime Minister?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "53",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q043",
+        "source_excerpt": "53. Who has elected for the second term as Ireland’s Prime Minister? (A) Sanna Marin (B) Robert Abela (C) Leo Varadkar (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q044",
+      "question_number": "54",
+      "question_text": "African Union was made a permanent member in the G–20 Summit held in India. Who is the Chairman of the African Union?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "54",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q044",
+        "source_excerpt": "54. African Union was made a permanent member in the G–20 Summit held in India. Who is the Chairman of the African Union? (A) Azali Assoumani (B) Justin Trudeau (C) Ursula von der Leyen (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q045",
+      "question_number": "4",
+      "question_text": "Northern Mountains Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q045",
+        "source_excerpt": "4. Northern Mountains Select the correct answer using the codes given below. (A) 3, 1, 2, 4 (B) 1, 2, 3, 4 (C) 2, 4, 1, 3 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q046",
+      "question_number": "4",
+      "question_text": "Zanskar Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 15 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q046",
+        "source_excerpt": "4. Zanskar Select the correct answer using the codes given below. (A) 1, 3, 2, 4 (B) 2, 1, 4, 3 (C) 3, 4, 1, 2 (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 15 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q047",
+      "question_number": "54",
+      "question_text": "^maV _| Am`mo{OV Or–20 {eIa gÂ_obZ _| A\\´$sH$s gßK H$mo ÒWm`r gXÒ` ~Zm`m J`mü& A\\´$sH$s gßK Ho$ A‹`j H$m°Z h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "54",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q047",
+        "source_excerpt": "54. ^maV _| Am`mo{OV Or–20 {eIa gÂ_obZ _| A\\´$sH$s gßK H$mo ÒWm`r gXÒ` ~Zm`m J`mü& A\\´$sH$s gßK Ho$ A‹`j H$m°Z h¢? (A) AOmbr Agm°_Zr (B) OpÒQ>Z QØ>S>mo (C) Cg©wbm dm∞Z S>oa boZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q048",
+      "question_number": "4",
+      "question_text": "CŒmar nd©V ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q048",
+        "source_excerpt": "4. CŒmar nd©V ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 3, 1, 2, 4 (B) 1, 2, 3, 4 (C) 2, 4, 1, 3 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q049",
+      "question_number": "4",
+      "question_text": "OmßÒH$a ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 16"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q049",
+        "source_excerpt": "4. OmßÒH$a ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 1, 3, 2, 4 (B) 2, 1, 4, 3 (C) 3, 4, 1, 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–10/S5 (HS)/234-A 16"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q050",
+      "question_number": "57",
+      "question_text": "During the monsoon season in India, most of the cyclones have their origin",
+      "options": [
+        {
+          "label": "A",
+          "text": "latitude"
+        },
+        {
+          "label": "B",
+          "text": "latitude"
+        },
+        {
+          "label": "C",
+          "text": "latitude"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "57",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q050",
+        "source_excerpt": "57. During the monsoon season in India, most of the cyclones have their origin (A) between 8° N and 13° N latitude (B) between 10° N and 15° N latitude (C) between 16° N and 21° N latitude (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q051",
+      "question_number": "58",
+      "question_text": "Which of the following areas is not landslide-prone area?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "58",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q051",
+        "source_excerpt": "58. Which of the following areas is not landslide-prone area? (A) Western Ghats (B) Eastern Ghats (C) Himalayan Regions (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q052",
+      "question_number": "59",
+      "question_text": "Which of the following coasts of India is most affected by violent tropical cyclones?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "59",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q052",
+        "source_excerpt": "59. Which of the following coasts of India is most affected by violent tropical cyclones? (A) Malabar (B) Coromandel (C) Konkan (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q053",
+      "question_number": "60",
+      "question_text": "When running water cuts through clayey soils and makes deep channels, they lead to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "60",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q053",
+        "source_excerpt": "60. When running water cuts through clayey soils and makes deep channels, they lead to (A) gully erosion (B) sheet erosion (C) deforestation (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q054",
+      "question_number": "61",
+      "question_text": "Which of the following receives heavy rainfall in the month of October and November?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jaintia"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "61",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q054",
+        "source_excerpt": "61. Which of the following receives heavy rainfall in the month of October and November? (A) Hills of Garo, Khasi and Jaintia (B) Coromandel Coasts (C) Plateau of Chota Nagpur (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q055",
+      "question_number": "62",
+      "question_text": "Cultivation of fruits and vegetables is called",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 17 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "62",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q055",
+        "source_excerpt": "62. Cultivation of fruits and vegetables is called (A) floriculture (B) agriculture (C) horticulture (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 17 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q056",
+      "question_number": "57",
+      "question_text": "^maV _| _m∞ZgyZ grOZ _| A{YH$mße MH´$dmVmoß H$s CÀn{Œm hmoVr h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "57",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q056",
+        "source_excerpt": "57. ^maV _| _m∞ZgyZ grOZ _| A{YH$mße MH´$dmVmoß H$s CÀn{Œm hmoVr h° (A) 8° C0 Am°a 13° C0 Ajmße Ho$ _‹` (B) 10° C0 Am°a 15° C0 Ajmße Ho$ _‹` (C) 16° C0 Am°a 21° C0 Ajmße Ho$ _‹` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q057",
+      "question_number": "59",
+      "question_text": "{ZÂZ{b{IV _| go ^maV H$m H$m°Z-gm VQ> CJ´ CÓUH${Q>~ßYr` MH´$dmVm| go g~go A{YH$ ‡^m{dV h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "59",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q057",
+        "source_excerpt": "59. {ZÂZ{b{IV _| go ^maV H$m H$m°Z-gm VQ> CJ´ CÓUH${Q>~ßYr` MH´$dmVm| go g~go A{YH$ ‡^m{dV h°? (A) _mbm~ma (B) H$moamo_ßS>b (C) H$m|H$U (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q058",
+      "question_number": "60",
+      "question_text": "O~ ~hVm nmZr {MH$Zr {_≈>r H$mo H$mQ>Vm h° Am°a Jhao M°Zb ~ZmVm h°, Vmo ä`m hmoVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "60",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q058",
+        "source_excerpt": "60. O~ ~hVm nmZr {MH$Zr {_≈>r H$mo H$mQ>Vm h° Am°a Jhao M°Zb ~ZmVm h°, Vmo ä`m hmoVm h°? (A) Jbr H$Q>md (B) erQ> jaU (C) dZm| H$s H$Q>mB© (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q059",
+      "question_number": "61",
+      "question_text": "{ZÂZ{b{IV _| go H$hm± A∫y$~a Am°a ZdÂ~a Ho$ _hrZo _| ^mar dfm© hmoVr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "61",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q059",
+        "source_excerpt": "61. {ZÂZ{b{IV _| go H$hm± A∫y$~a Am°a ZdÂ~a Ho$ _hrZo _| ^mar dfm© hmoVr h°? (A) Jmamo, Imgr Am°a O¢{V`m H$s nhm{ãS>`m± (B) H$moamo_ßS>b VQ> (C) N>moQ>mZmJnwa H$m nR>ma (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q060",
+      "question_number": "62",
+      "question_text": "\\$bm| Edß gp„O`m| H$s IoVr H$hbmVr h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 18"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "62",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q060",
+        "source_excerpt": "62. \\$bm| Edß gp„O`m| H$s IoVr H$hbmVr h° (A) \\y$bm| H$s IoVr (B) H•${f (C) ~mJdmZr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–10/S5 (HS)/234-A 18"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q061",
+      "question_number": "63",
+      "question_text": "Who provided leadership in the districts of Patna, Ara and Shahabad during the Revolt of 1857 in Bihar?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "63",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q061",
+        "source_excerpt": "63. Who provided leadership in the districts of Patna, Ara and Shahabad during the Revolt of 1857 in Bihar? (A) Raj Kumar Shukla (B) Namdar Khan (C) Kunwar Singh (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q062",
+      "question_number": "64",
+      "question_text": "The Partition of Bengal was made effective on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "64",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q062",
+        "source_excerpt": "64. The Partition of Bengal was made effective on (A) 14 October, 1905 (B) 15 October, 1905 (C) 16 October, 1905 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q063",
+      "question_number": "65",
+      "question_text": "The Quit India Resolution was adopted by the Congress in Bombay on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "65",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q063",
+        "source_excerpt": "65. The Quit India Resolution was adopted by the Congress in Bombay on (A) 7 August, 1942 (B) 8 August, 1942 (C) 9 August, 1942 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q064",
+      "question_number": "66",
+      "question_text": "The British ruled India for a long period due to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congress"
+        },
+        {
+          "label": "B",
+          "text": "leaders"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "66",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q064",
+        "source_excerpt": "66. The British ruled India for a long period due to the (A) liberal policies of the Congress (B) imprisonment of Indian leaders (C) policy of Divide and Rule (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q065",
+      "question_number": "67",
+      "question_text": "Queen Victoria’s Proclamation was issued on which of the following dates?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "67",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q065",
+        "source_excerpt": "67. Queen Victoria’s Proclamation was issued on which of the following dates? (A) 1 November, 1857 (B) 27 March, 1858 (C) 1 November, 1858 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q066",
+      "question_number": "68",
+      "question_text": "Which of the following statements is/are correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the pioneer of modern education."
+        },
+        {
+          "label": "B",
+          "text": "proclaimed India for Indians."
+        },
+        {
+          "label": "C",
+          "text": "the Parliament of World Religions."
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "68",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q066",
+        "source_excerpt": "68. Which of the following statements is/are correct? (A) Raja Rammohan Roy was the pioneer of modern education. (B) Swami Dayanand proclaimed India for Indians. (C) Vivekananda participated in the Parliament of World Religions. (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q067",
+      "question_number": "69",
+      "question_text": "Who among the following became India’s unofficial Ambassador to England?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "69",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q067",
+        "source_excerpt": "69. Who among the following became India’s unofficial Ambassador to England? (A) Surendranath Banerjee (B) Dadabhai Naoroji (C) Swami Vivekananda (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q068",
+      "question_number": "70",
+      "question_text": "Who described the Government of India Act, 1935 as a ‘Charter of Slavery’ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Bose"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 19 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "70",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q068",
+        "source_excerpt": "70. Who described the Government of India Act, 1935 as a ‘Charter of Slavery’ ? (A) Mahatma Gandhi (B) Netaji Subhas Chandra Bose (C) Maulana Hasrat Mohani (D) More than one of the above (E) None of the above 24/HV/M–2023–10/S5 (HS)/234-A 19 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q069",
+      "question_number": "63",
+      "question_text": "{~hma _| 1857 H$s H´$mp›V Ho$ Xm°amZ nQ>Zm, Amam Am°a emhm~mX {Obm| _| {H$gZo ZoV•Àd ‡XmZ {H$`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "63",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q069",
+        "source_excerpt": "63. {~hma _| 1857 H$s H´$mp›V Ho$ Xm°amZ nQ>Zm, Amam Am°a emhm~mX {Obm| _| {H$gZo ZoV•Àd ‡XmZ {H$`m? (A) amOHw$_ma ewäbm (B) Zm_Xma Im± (C) Hw±$da qgh (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q070",
+      "question_number": "66",
+      "question_text": "AßJ´oOm| Zo ^maV na bÂ~o g_` VH$ am¡` H°$go {H$`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "66",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q070",
+        "source_excerpt": "66. AßJ´oOm| Zo ^maV na bÂ~o g_` VH$ am¡` H°$go {H$`m? (A) H$m±J´og H$s CXmadmXr Zr{V`moß Ho$ H$maU (B) ^maVr` ZoVmAm| H$s {Ja‚Vmar Ho$ H$maU (C) \"~m±Q>mo Am°a amO H$amo' H$s Zr{V Ho$ H$maU (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q071",
+      "question_number": "67",
+      "question_text": "{ZÂZ{b{IV _| go {H$g {V{W H$mo amZr {däQ>mo[a`m H$s CX≤KmofUm Omar h˛B©?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "67",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q071",
+        "source_excerpt": "67. {ZÂZ{b{IV _| go {H$g {V{W H$mo amZr {däQ>mo[a`m H$s CX≤KmofUm Omar h˛B©? (A) 1 ZdÂ~a, 1857 (B) 27 _mM©, 1858 (C) 1 ZdÂ~a, 1858 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q072",
+      "question_number": "70",
+      "question_text": "^maV gaH$ma A{Y{Z`_, 1935 H$mo {H$gZo \"Jwbm_r H$m MmQ>©a' ~Vm`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "PART—III ( BHOJPURI ) {ZX}e (‡ÌZ gßª`m 71 go 90 VH$) : ZrMo {bIb ha ‡ÌZ _| nm±M R>mo {dH$În {Xhb JBb ~mü& ghr CŒma dmbo {dH$În no CŒma-nÃH$ _| {ZemZ bJmdo Ho$ hü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "70",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q072",
+        "source_excerpt": "70. ^maV gaH$ma A{Y{Z`_, 1935 H$mo {H$gZo \"Jwbm_r H$m MmQ>©a' ~Vm`m? (A) _hmÀ_m Jm±Yr (B) ZoVmOr gw^mf M›– ~mog (C) _m°bmZm hgaV _mohmZr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht PART—III ( BHOJPURI ) {ZX}e (‡ÌZ gßª`m 71 go 90 VH$) : ZrMo {bIb ha ‡ÌZ _| nm±M R>mo {dH$În {Xhb JBb ~mü& ghr CŒma dmbo {dH$În no CŒma-nÃH$ _| {ZemZ bJmdo Ho$ hü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q073",
+      "question_number": "76",
+      "question_text": "A{Ib ^maVr` ^moOnwar gm{hÀ` gÂ_obZ Ho$ JR>Z H$~ ^Bb aho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "76",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q073",
+        "source_excerpt": "76. A{Ib ^maVr` ^moOnwar gm{hÀ` gÂ_obZ Ho$ JR>Z H$~ ^Bb aho? (A) 1973 B©0 (B) 1975 B©0 (C) 1976 B©0 (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q074",
+      "question_number": "78",
+      "question_text": "\"\"Jwa H$sO° J[abm {ZJwam Z a{hbmü& Jwa {~Z Ω`mßZ Z nm`bm ao ^mB©bmü&&'' Eh nß{∫$`Z Ho$ aMo dmbm Ho$ ~m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 20"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "78",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q074",
+        "source_excerpt": "78. \"\"Jwa H$sO° J[abm {ZJwam Z a{hbmü& Jwa {~Z Ω`mßZ Z nm`bm ao ^mB©bmü&&'' Eh nß{∫$`Z Ho$ aMo dmbm Ho$ ~m? (A) Mm°aßJrZmW (B) JmoaIZmW (C) gahnm (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 20"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q075",
+      "question_number": "81",
+      "question_text": "\"\"{_VD$ _ãS>°`m gyZr H$[a J°bmoü& AnZo ~b_w naXog {ZH${g J°bmo, h_am Ho$ H$Nw> Zm JwZm XoB J°bmoü&&'' Eh n±{∫$`Z H$ aM{`Vm Ho$ hdo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "81",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q075",
+        "source_excerpt": "81. \"\"{_VD$ _ãS>°`m gyZr H$[a J°bmoü& AnZo ~b_w naXog {ZH${g J°bmo, h_am Ho$ H$Nw> Zm JwZm XoB J°bmoü&&'' Eh n±{∫$`Z H$ aM{`Vm Ho$ hdo? (A) H$~raXmg (B) Ya_Xmg (C) YaZrXmg (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q076",
+      "question_number": "86",
+      "question_text": "Cn›`mg Am°a Cn›`mgH$ma Ho$ —{Ô> go H$dZ OmoãS>m gw_o{bV Zm ~m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 21 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "86",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q076",
+        "source_excerpt": "86. Cn›`mg Am°a Cn›`mgH$ma Ho$ —{Ô> go H$dZ OmoãS>m gw_o{bV Zm ~m? (A) {~p›X`mççam_ZmW nmS>o` (B) D$ga Ho$ \\y$bççZao›– emÛr (C) ^moa _wgwH$mBbççnmS>o` H${nb (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 21 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q077",
+      "question_number": "88",
+      "question_text": "\"AßOmoa' n{ÃH$m Ho$ gÂnmXH$ Ho$ ahb?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "88",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q077",
+        "source_excerpt": "88. \"AßOmoa' n{ÃH$m Ho$ gÂnmXH$ Ho$ ahb? (A) Z_©Xoúa ghm` (B) H•$ÓU {~hmar {_l (C) B©úa M›– {g›hm (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q078",
+      "question_number": "90",
+      "question_text": "amh˛b gmßH•$À`m`Z H$ {bIb ZmQ>H$ ZBIo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e (‡ÌZ gßª`m 91 go 110 VH$) : ZrMo {bIb J⁄mße Ho$ AmYma na ‡ÌZZ Ho$ CŒma Xrhtü& ghr CŒma dmbo {dH$În no CŒma-nÃH$ _| {ZemZ bJmdo Ho$ hü& J⁄mßeçç1 ZmJ n±MB`m± gmdZ gwXr nßM_r Ho$ _Zmdb Omboü& g~ Vohdma Im`o nrE, nyOm nmR> Am d´V H$Wm Ho$ hü& B© Vohdma X|{h`mo ~Zdbm Ho$ hü& Ehr {XZo _mby_ hmobm {H$ Ho$H$a b±JmoQ>m H$ãS>oa ~mü& Eh {XZo bBH$s \"nwVar' ~Zmdobr gü& Am nmoIam _| {gamdo br gü& Hw$b bBH$s ^|db MZm ~m±Q>obr gü& Eh {XZ Xmoga _Z bmo^mdo dmbr MrOw PwbwAm hü& bBH$s Amoh PwbwAm na gmdZ, H$Oar, ~mah_mgm Jmdobr gü& Eh {XZ ZmJXod Ho$ XoIbm Ho$ ~ãS>m _hmV_ _mZb Ombmü& ZmJ Ho$ nyOm XyY Am YmZ Ho$ bmdm go H$Bb Ombmü& Jm±d _| gJamo Ka brn-nmoV Ho$ Jmo~a go Xodmbmo na ZmJ Ho$ {MÃ ~Zmdb Ombmü& Eh {XZ gm±n Zm _mab Ombmü& gmdZ ^a Zm _mao Ho$ Mmhrü& Eh {XZ IoV OmoVb H$moãS>b _Zmhr ahobmü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "90",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q078",
+        "source_excerpt": "90. amh˛b gmßH•$À`m`Z H$ {bIb ZmQ>H$ ZBIo? (A) _ohamÈZ Ho$ XwaXgm (B) On{Z`m amN>g (C) Xoga¿N>H$ (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm {ZX}e (‡ÌZ gßª`m 91 go 110 VH$) : ZrMo {bIb J⁄mße Ho$ AmYma na ‡ÌZZ Ho$ CŒma Xrhtü& ghr CŒma dmbo {dH$În no CŒma-nÃH$ _| {ZemZ bJmdo Ho$ hü& J⁄mßeçç1 ZmJ n±MB`m± gmdZ gwXr nßM_r Ho$ _Zmdb Omboü& g~ Vohdma Im`o nrE, nyOm nmR> Am d´V H$Wm Ho$ hü& B© Vohdma X|{h`mo ~Zdbm Ho$ hü& Ehr {XZo _mby_ hmobm {H$ Ho$H$a b±JmoQ>m H$ãS>oa ~mü& Eh {XZo bBH$s \"nwVar' ~Zmdobr gü& Am nmoIam _| {gamdo br gü& Hw$b bBH$s ^|db MZm ~m±Q>obr gü& Eh {XZ Xmoga _Z bmo^mdo dmbr MrOw PwbwAm hü& bBH$s Amoh PwbwAm na gmdZ, H$Oar, ~mah_mgm Jmdobr gü& Eh {XZ ZmJXod Ho$ XoIbm Ho$ ~ãS>m _hmV_ _mZb Ombmü& ZmJ Ho$ nyOm XyY Am YmZ Ho$ bmdm go H$Bb Ombmü& Jm±d _| gJamo Ka brn-nmoV Ho$ Jmo~a go Xodmbmo na ZmJ Ho$ {MÃ ~Zmdb Ombmü& Eh {XZ gm±n Zm _mab Ombmü& gmdZ ^a Zm _mao Ho$ Mmhrü& Eh {XZ IoV OmoVb H$moãS>b _Zmhr ahobmü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q079",
+      "question_number": "92",
+      "question_text": "bBH$s PwbwAm na H$m Jmdobr g?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 22"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "92",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q079",
+        "source_excerpt": "92. bBH$s PwbwAm na H$m Jmdobr g? (A) gmdZ (B) H$Oar (C) ~mah_mgm (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 22"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q080",
+      "question_number": "95",
+      "question_text": "D$na {bIb J⁄mße Ho$ g~go C{MV erf©H$ H$m hmoB©?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "J⁄mßeçç2 nwamZ O_mZm H$ ~m{V hü& EJmo amOm ahbZü& CZH$am amO _| ~mK ~H$ar EHo$ KmQ> nmZr {n`gw gü& Hw$pÎh naOm CZHo$ ^JdmZ {Z`a _mZgwü& gyÈO H$m n{hbH$s {H$[aZ H$m \\w$Q>bm H$m gmWo \"AﬁXmVm' H$ O°O°H$ma hmoIo bmJoü& amOm H$m _Z _| B© ~m{V Ka H$ JB{b {H$ OdZ Hw$N> H$aV ~mZr h_ht H$aV ~mZrü& Hw$pÎh amO h_mam {Xhbm go ImV-n{haV ~mü& amOm H$m Mm[a Jmo ~oQ>r ahgwü& C›hZ Ho$ Iy~ _mZgwü& EH$ {XZ Mmamo Ho$ ~mobm Ho$ nyN>bZ {H$ E ~oQ>r VmohZr bmoJ Ho$H$am ^m{J go ImV-n{haV ~mãSz> Omü& VrZ Jmo ~oQ>r H$hbr gçç~mn gaH$ma aCao ^m{J goü& Mm°Wr bBH$s Mwn ah{bü& amOm {n`ma go ~oQ>r Ho$ n±Oam It{M Ho$ nwN>bZççA~ Vy± ~Vmd ~oQ>r Ho$H$am ^m{J go Imby Am n{haobyü& N>moQ>r bBH$s EH$ ~oa amOm H$m Amo[a XoIb{g Am ~mobbçç~m~yOr! Eh gßgma _| g~ AnZm ^m{J go Imbm n{haobm! Ho$hˇ-Ho$hˇ H$m ^m{J H$ XmVm Zm hü& H$a_XmVmççCho h Oo Eh gßgma _| h_Zr Ho$ ^oObo ~mü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "95",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q080",
+        "source_excerpt": "95. D$na {bIb J⁄mße Ho$ g~go C{MV erf©H$ H$m hmoB©? (A) gmdZ (B) PwbwAm (C) ZmJ n±MB`m± (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm J⁄mßeçç2 nwamZ O_mZm H$ ~m{V hü& EJmo amOm ahbZü& CZH$am amO _| ~mK ~H$ar EHo$ KmQ> nmZr {n`gw gü& Hw$pÎh naOm CZHo$ ^JdmZ {Z`a _mZgwü& gyÈO H$m n{hbH$s {H$[aZ H$m \\w$Q>bm H$m gmWo \"AﬁXmVm' H$ O°O°H$ma hmoIo bmJoü& amOm H$m _Z _| B© ~m{V Ka H$ JB{b {H$ OdZ Hw$N> H$aV ~mZr h_ht H$aV ~mZrü& Hw$pÎh amO h_mam {Xhbm go ImV-n{haV ~mü& amOm H$m Mm[a Jmo ~oQ>r ahgwü& C›hZ Ho$ Iy~ _mZgwü& EH$ {XZ Mmamo Ho$ ~mobm Ho$ nyN>bZ {H$ E ~oQ>r VmohZr bmoJ Ho$H$am ^m{J go ImV-n{haV ~mãSz> Omü& VrZ Jmo ~oQ>r H$hbr gçç~mn gaH$ma aCao ^m{J goü& Mm°Wr bBH$s Mwn ah{bü& amOm {n`ma go ~oQ>r Ho$ n±Oam It{M Ho$ nwN>bZççA~ Vy± ~Vmd ~oQ>r Ho$H$am ^m{J go Imby Am n{haobyü& N>moQ>r bBH$s EH$ ~oa amOm H$m Amo[a XoIb{g Am ~mobbçç~m~yOr! Eh gßgma _| g~ AnZm ^m{J go Imbm n{haobm! Ho$hˇ-Ho$hˇ H$m ^m{J H$ XmVm Zm hü& H$a_XmVmççCho h Oo Eh gßgma _| h_Zr Ho$ ^oObo ~mü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q081",
+      "question_number": "97",
+      "question_text": "amOm H$m _Z _| H$dZ ~mV Ka H$ JB{b?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "~m"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 23 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "97",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q081",
+        "source_excerpt": "97. amOm H$m _Z _| H$dZ ~mV Ka H$ JB{b? (A) OdZ Hw$N> H$aV ~mZr h_ht H$aV ~mZr (B) Hw$pÎh amO h_am {Xhbm go ImV-n{haV ~m (C) g~ AnZm ^m{J go Imbm n{haobm (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 23 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q082",
+      "question_number": "100",
+      "question_text": "\"n±Oam' H$ AW© h",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "J⁄mßeçç3 Í$g _| Jm±do-Jm±do nßMmBV ~Zb, nßM bmoJ Ho$ Jm±d Ho$ Bß{VOm_ XoIo Ho$ nãS>b, __rbm _moH$X_m Jm±d _| \\$Bgbm H$aoHo$ ahb, {~Zm nãT>bo JwZbo B Hw${b H$m_ H$Bgo MbVü& Chm± Ho$ bmoJ ~h˛V gmoM g_w{P Ho$ Bho {ZhMo H$Bbg {H$ bmoJ AnZo ^mIm _| nãT>o-{bIo grIoü& AnZm ^mIm _| nãT>b-{bIb H$dZmo _wg{H$b ZBIoü& Imbr H$H$hao Zy grIo Ho$ nãS>rü& H$H$ham grIbm _| H$dZ _wg{H$bü& O_m-ny±Or 48 Jmo A¿N>aü& Mm[aC Mma A¿N>a grIo, V ~mah {XZ _| Am{X_r Hw$b H$H$ham grI OmB©ü& \\w$aVr go ~mMh˛± _| ~rg {XZ go ~ogr Zm bmJrü& AmoH$am ~mX H$dZmo N>mnb {H$Vm~ AnZm ~mobr _| Xt, V AmoH$am ~m±Mo, g_wPo _| H$CZmo _wg{H$b Zm hmoB©ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "100",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q082",
+        "source_excerpt": "100. \"n±Oam' H$ AW© h (A) ZJrMo (B) Xyao (C) nßOm (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm J⁄mßeçç3 Í$g _| Jm±do-Jm±do nßMmBV ~Zb, nßM bmoJ Ho$ Jm±d Ho$ Bß{VOm_ XoIo Ho$ nãS>b, __rbm _moH$X_m Jm±d _| \\$Bgbm H$aoHo$ ahb, {~Zm nãT>bo JwZbo B Hw${b H$m_ H$Bgo MbVü& Chm± Ho$ bmoJ ~h˛V gmoM g_w{P Ho$ Bho {ZhMo H$Bbg {H$ bmoJ AnZo ^mIm _| nãT>o-{bIo grIoü& AnZm ^mIm _| nãT>b-{bIb H$dZmo _wg{H$b ZBIoü& Imbr H$H$hao Zy grIo Ho$ nãS>rü& H$H$ham grIbm _| H$dZ _wg{H$bü& O_m-ny±Or 48 Jmo A¿N>aü& Mm[aC Mma A¿N>a grIo, V ~mah {XZ _| Am{X_r Hw$b H$H$ham grI OmB©ü& \\w$aVr go ~mMh˛± _| ~rg {XZ go ~ogr Zm bmJrü& AmoH$am ~mX H$dZmo N>mnb {H$Vm~ AnZm ~mobr _| Xt, V AmoH$am ~m±Mo, g_wPo _| H$CZmo _wg{H$b Zm hmoB©ü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q083",
+      "question_number": "102",
+      "question_text": "J⁄mße _| C{Ñ{IV Xog Ho$ bmoJ H$m {ZhMo H$Bbg?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 24"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "102",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q083",
+        "source_excerpt": "102. J⁄mße _| C{Ñ{IV Xog Ho$ bmoJ H$m {ZhMo H$Bbg? (A) bmoJ AnZo ^mIm _| nãT>o-{bIo grIo (B) bmoJ {dXogr ^mfm _| nãT>o-{bIo grIo (C) nãT>bm-{bIbm H$ OÍ$aV ZBIo (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 24"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q084",
+      "question_number": "105",
+      "question_text": "J⁄mße go H$dZ {ZÓH$f© {ZH$bobm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "h"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "J⁄mßeçç4 A~ h_Zr Ho$ AnZ amO hdoü& Xog Ho$ ~Zmdb {~JmãS>b h_Zr Ho$ hmW _| ~mü& ~mH$s Bhmo gm±M hdo {H$ qOXJr ^a _| H$moãT> EH$ AdVma go Zm Ombmü& bo{H$Z Omo AnZo Bhm± Ho$ _aX _ohamÈ Hw${b H$m_ _| bJ Om±`, ~oãT>m nma hmoIo _| H$dZmo gßH$m ZBIoü& \\o$Zw Hw${b hmWZ Ho$ H$m_ _| H$Bgo bJmdb Omdü& B© V OmZVo ~mZr, Oo YaVr _mB© ^m ~Zgn{V XmB Yma {Jadbm AD$a hmW Omoabm go Zm _mZoü& D$ Yma Mmhobr, ~mH$s bmo{Q>`m Ho$ B© Yma Zmü& h˛ZH$am Mmht Z‘r Ho$ Z‘r C{bQ> Xodo Ho$ü& h_Zr Ho$ ga`y-Za`Zr _| ~oWmh nmZr ~oH$mao Mb OmV ~mü& g_wﬁa _| Om Ho$ Imao Zy ~Zrü& Am D$ g_yMm Ho$ H$dZ _Vb~ h nmZr goü& D$hm± V nmZr AnZo Ab_JßO ~mü& B© nmZr Mmht h_Zr Ho$ YaVr _mVm Ho$ü& ~mahmo _hrZm Im{Va nmZr h_Zr Ho$ gaOwJ Za`Zr _| ~m, Am Amoh˛ go ~ogr XwB Mma nmoagm YaVr Ho$ ZrMo N>rnb ~mü& B© Hw${b n{Z`m Omo Cnamdb Om`, V ~mahmo _hrZm nmZr Ho$ H$dZmo AH$mb Zm hmoB©ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "105",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q084",
+        "source_excerpt": "105. J⁄mße go H$dZ {ZÓH$f© {ZH$bobm? (A) AnZm ^mIm _| nãT>b-{bIb _wg{H$b h (B) H$H$ham grIb _wg{H$b h (C) _hmZJaZ _| n±MmBV ~Zb (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm J⁄mßeçç4 A~ h_Zr Ho$ AnZ amO hdoü& Xog Ho$ ~Zmdb {~JmãS>b h_Zr Ho$ hmW _| ~mü& ~mH$s Bhmo gm±M hdo {H$ qOXJr ^a _| H$moãT> EH$ AdVma go Zm Ombmü& bo{H$Z Omo AnZo Bhm± Ho$ _aX _ohamÈ Hw${b H$m_ _| bJ Om±`, ~oãT>m nma hmoIo _| H$dZmo gßH$m ZBIoü& \\o$Zw Hw${b hmWZ Ho$ H$m_ _| H$Bgo bJmdb Omdü& B© V OmZVo ~mZr, Oo YaVr _mB© ^m ~Zgn{V XmB Yma {Jadbm AD$a hmW Omoabm go Zm _mZoü& D$ Yma Mmhobr, ~mH$s bmo{Q>`m Ho$ B© Yma Zmü& h˛ZH$am Mmht Z‘r Ho$ Z‘r C{bQ> Xodo Ho$ü& h_Zr Ho$ ga`y-Za`Zr _| ~oWmh nmZr ~oH$mao Mb OmV ~mü& g_wﬁa _| Om Ho$ Imao Zy ~Zrü& Am D$ g_yMm Ho$ H$dZ _Vb~ h nmZr goü& D$hm± V nmZr AnZo Ab_JßO ~mü& B© nmZr Mmht h_Zr Ho$ YaVr _mVm Ho$ü& ~mahmo _hrZm Im{Va nmZr h_Zr Ho$ gaOwJ Za`Zr _| ~m, Am Amoh˛ go ~ogr XwB Mma nmoagm YaVr Ho$ ZrMo N>rnb ~mü& B© Hw${b n{Z`m Omo Cnamdb Om`, V ~mahmo _hrZm nmZr Ho$ H$dZmo AH$mb Zm hmoB©ü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q085",
+      "question_number": "107",
+      "question_text": "J⁄mße _| H$dZo ZXr H$ CÑoI ~m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 25 [ P.T.O. 24/HV/M–2023–10/S5 (HS)/234-A 26"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "107",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q085",
+        "source_excerpt": "107. J⁄mße _| H$dZo ZXr H$ CÑoI ~m? (A) ga`y (B) Za`Zr (C) JßJm (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 25 [ P.T.O. 24/HV/M–2023–10/S5 (HS)/234-A 26"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q086",
+      "question_number": "121",
+      "question_text": "\"AZ^b' _| H$CZo CngJ© H$ ‡`moJ ^Bb h?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 27 [ P.T.O. 24/HV/M–2023–10/S5 (HS)/234-A 28"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "121",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q086",
+        "source_excerpt": "121. \"AZ^b' _| H$CZo CngJ© H$ ‡`moJ ^Bb h? (A) A (B) AZ (C) b (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 27 [ P.T.O. 24/HV/M–2023–10/S5 (HS)/234-A 28"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q087",
+      "question_number": "126",
+      "question_text": "IãS>r ~mobr Ho$ CÉmaU _| A›À` \"A' Ho$ OJh ^moOnwar _| H$dZ A¿N>a bo {bhbg?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "126",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q087",
+        "source_excerpt": "126. IãS>r ~mobr Ho$ CÉmaU _| A›À` \"A' Ho$ OJh ^moOnwar _| H$dZ A¿N>a bo {bhbg? (A) ıÒd \"B' (B) XrK© \"B©' (C) Am (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q088",
+      "question_number": "129",
+      "question_text": "\"a' {d^{∫$ H$ ‡`moJ H$CZo H$maH$ _| hmobm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "129",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q088",
+        "source_excerpt": "129. \"a' {d^{∫$ H$ ‡`moJ H$CZo H$maH$ _| hmobm? (A) gÂ‡XmZ H$maH$ (B) AnmXmZ H$maH$ (C) A{YH$aU H$maH$ (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q089",
+      "question_number": "134",
+      "question_text": "A{Z¸` Ho$ ^md Ï`∫$ H$ao Ho$ Im{Va ^moOnwar _| nyU©Vm-~moYH$ gßª`Z _| H$m OmoãS> {Xhb Ombm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "134",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q089",
+        "source_excerpt": "134. A{Z¸` Ho$ ^md Ï`∫$ H$ao Ho$ Im{Va ^moOnwar _| nyU©Vm-~moYH$ gßª`Z _| H$m OmoãS> {Xhb Ombm? (A) Jmo (B) R>mo (C) R>o (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q090",
+      "question_number": "138",
+      "question_text": "^moOnwar _| ghm`H$ {H´$`m Ho$ Í$n _| Ho$H$a ‡`moJ H$Bb Ombm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "138",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q090",
+        "source_excerpt": "138. ^moOnwar _| ghm`H$ {H´$`m Ho$ Í$n _| Ho$H$a ‡`moJ H$Bb Ombm? (A) h (B) ah (C) ~mQ> (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q091",
+      "question_number": "140",
+      "question_text": "\"ZJrM' H$CZo Vah H$ AÀ`` ~mQ>o?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "140",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q091",
+        "source_excerpt": "140. \"ZJrM' H$CZo Vah H$ AÀ`` ~mQ>o? (A) H$mbdmMH$ (B) {XemdmMH$ (C) n[a_mU dmMH$ (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q092",
+      "question_number": "141",
+      "question_text": "\"~mV H$ht \\$[aMm, _rR> bJo Mmho _[aMm' bmoH$mo{∫$ Ho$ ghr AW© h",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–10/S5 (HS)/234-A 29 [ P.T.O. 24/HV/M–2023–10/S5 (HS)/234-A 30"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "141",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q092",
+        "source_excerpt": "141. \"~mV H$ht \\$[aMm, _rR> bJo Mmho _[aMm' bmoH$mo{∫$ Ho$ ghr AW© h (A) ~mV ÒnÔ> H$ho Ho$ Mmhr (B) ~mV _Ywa H$ho Ho$ Mmhr (C) ~mV VrIr H$ho Ho$ Mmhr (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm 24/HV/M–2023–10/S5 (HS)/234-A 29 [ P.T.O. 24/HV/M–2023–10/S5 (HS)/234-A 30"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q093",
+      "question_number": "143",
+      "question_text": "\"AZH$a YZ na {~H$a_ amOm' bmoH$mo{∫$ Ho$ ghr AW© H$dZ ~mQ>o?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "143",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q093",
+        "source_excerpt": "143. \"AZH$a YZ na {~H$a_ amOm' bmoH$mo{∫$ Ho$ ghr AW© H$dZ ~mQ>o? (A) AmnZ H$_mB©© no BR>bmZm (B) Xmogam Ho$ H$_mB© no BR>bmZm (C) ~h˛V H$_mB© H$aZm (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri-q094",
+      "question_number": "150",
+      "question_text": "\"T>m|J VWm nmIßS> ~ãT>mdb' Ho$ AW© _| H$dZ _whmdam ‡`moJ H$Bb Ombm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 24/HV/M–2023–10/S5 (HS)/234-A 31 [ P.T.O. 24/HV/M–2023–10 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m ^mfm, gm_m›` A‹``Z Am°a ^moOnwar ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Bhojpuri.pdf",
+        "pdf_sha256": "d7a0e3e60402d28aded9aa6d6ea099c33bee1bfeec31a9840a73190d4d27e357",
+        "question_label": "150",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-bhojpuri#q094",
+        "source_excerpt": "150. \"T>m|J VWm nmIßS> ~ãT>mdb' Ho$ AW© _| H$dZ _whmdam ‡`moJ H$Bb Ombm? (A) VmWm ~mãT>mdb (B) nm|{^ ~mãT>mdb (C) IQ>amJ ~mãT>mdb (D) D$na {bIb _| EH$ go ~ogr (E) D$na {bIb _| H$CZmo Zm SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 24/HV/M–2023–10/S5 (HS)/234-A 31 [ P.T.O. 24/HV/M–2023–10 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m ^mfm, gm_m›` A‹``Z Am°a ^moOnwar ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+      }
+    }
+  ]
+}

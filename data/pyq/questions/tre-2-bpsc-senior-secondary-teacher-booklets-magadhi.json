@@ -1,0 +1,4439 @@
+{
+  "metadata": {
+    "exam": "TRE-2",
+    "exam_year": 2023,
+    "subject": "Unclassified",
+    "class_band": "11-12",
+    "shift": null,
+    "frontend_category": "subject",
+    "frontend_subject": "Unclassified",
+    "source_file": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+    "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+    "extracted_at": "2026-11-09T01:19:50.773Z",
+    "extracted_text_pages": 33
+  },
+  "questions": [
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q001",
+      "question_number": "1",
+      "question_text": "There are 30 or 31 days in _____ month.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "1",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q001",
+        "source_excerpt": "1. There are 30 or 31 days in _____ month. (A) the (B) a (C) an (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q002",
+      "question_number": "2",
+      "question_text": "My father is _____ engineer in the Water Works Department.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "2",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q002",
+        "source_excerpt": "2. My father is _____ engineer in the Water Works Department. (A) the (B) an (C) a (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q003",
+      "question_number": "3",
+      "question_text": "Which of the following is a part of bedroom?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "3",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q003",
+        "source_excerpt": "3. Which of the following is a part of bedroom? (A) Pillow (B) Table lamp (C) Curtains (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q004",
+      "question_number": "4",
+      "question_text": "Which of the following is a part of a room?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q004",
+        "source_excerpt": "4. Which of the following is a part of a room? (A) Window (B) Ceiling (C) Floor (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q005",
+      "question_number": "6",
+      "question_text": "The eighth month of the year is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "6",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q005",
+        "source_excerpt": "6. The eighth month of the year is (A) July (B) September (C) October (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q006",
+      "question_number": "7",
+      "question_text": "Sister-in-law is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "7",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q006",
+        "source_excerpt": "7. Sister-in-law is (A) husband’s sister (B) wife’s sister (C) brother’s wife (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q007",
+      "question_number": "8",
+      "question_text": "Cousins are",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 2"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "8",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q007",
+        "source_excerpt": "8. Cousins are (A) maternal (B) paternal (C) siblings (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 2"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q008",
+      "question_number": "16",
+      "question_text": "{ZÂZ{b{IV _| go H$m°Z-gm \"VÀg_' e„X h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 3 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "16",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q008",
+        "source_excerpt": "16. {ZÂZ{b{IV _| go H$m°Z-gm \"VÀg_' e„X h°? (A) Ka (B) ÒZoh (C) N>oX (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–07/S5 (HS)/231-A 3 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q009",
+      "question_number": "23",
+      "question_text": "Aew’ Am°a ew’ dV©Zr H$m H$m°Z-gm `wΩ_ ghr Zht h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "23",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q009",
+        "source_excerpt": "23. Aew’ Am°a ew’ dV©Zr H$m H$m°Z-gm `wΩ_ ghr Zht h°? (A) H$mo_bmß{JZrççH$mo_bmßJr (B) gwlyfmççewlyfm (C) _mhmÀ_çç_hmÀÂ` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q010",
+      "question_number": "24",
+      "question_text": "\"\"CgH$m ^{dÓ` COdb h°ü&'' Bg dmä` _| aoImß{H$V e„X H$s ew’ dV©Zr H$m°Z-gr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 4"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "24",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q010",
+        "source_excerpt": "24. \"\"CgH$m ^{dÓ` COdb h°ü&'' Bg dmä` _| aoImß{H$V e„X H$s ew’ dV©Zr H$m°Z-gr h°? (A) CÇdb (B) C¡db (C) CÇmdb (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–07/S5 (HS)/231-A 4"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q011",
+      "question_number": "27",
+      "question_text": "\"\"OgmoXm h[a nmbZ° Pwbmd°ü& hbamd° XwbamB _Îhmd¢, OmoB-gmoB H$Nw> Jmd¢ü&&'' C∫$ H$mÏ`-nß{∫$`m| _| H$m°Z-gm ag h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "27",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q011",
+        "source_excerpt": "27. \"\"OgmoXm h[a nmbZ° Pwbmd°ü& hbamd° XwbamB _Îhmd¢, OmoB-gmoB H$Nw> Jmd¢ü&&'' C∫$ H$mÏ`-nß{∫$`m| _| H$m°Z-gm ag h°? (A) ˚m•ßJma (B) dra (C) dmÀgÎ` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q012",
+      "question_number": "30",
+      "question_text": "{OZ e„Xm| na qbJ, dMZ, H$maH$ H$m H$moB© ‡^md Z nãS>o, do H$hbmVo h¢",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 5 [ P.T.O. PART—II ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "30",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q012",
+        "source_excerpt": "30. {OZ e„Xm| na qbJ, dMZ, H$maH$ H$m H$moB© ‡^md Z nãS>o, do H$hbmVo h¢ (A) Ï`` (B) {dH$mar (C) A{dH$mar (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–07/S5 (HS)/231-A 5 [ P.T.O. PART—II ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q013",
+      "question_number": "31",
+      "question_text": "The floor of a rectangular hall has a perimeter 250 meters. If the cost of painting the four walls at the rate of R10 per ( ) meter 2 is R15,000, then the height of the hall is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "31",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q013",
+        "source_excerpt": "31. The floor of a rectangular hall has a perimeter 250 meters. If the cost of painting the four walls at the rate of R10 per ( ) meter 2 is R15,000, then the height of the hall is (A) 7 meters (B) 16 meters (C) 6 meters (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q014",
+      "question_number": "32",
+      "question_text": "Which of the following statements is not true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "whole number."
+        },
+        {
+          "label": "B",
+          "text": "number."
+        },
+        {
+          "label": "C",
+          "text": "integer number."
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "32",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q014",
+        "source_excerpt": "32. Which of the following statements is not true? (A) Every natural number is a whole number. (B) Every integer is a whole number. (C) Every natural number is an integer number. (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q015",
+      "question_number": "33",
+      "question_text": "The average of 7 consecutive numbers is 20. The largest of these numbers is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "33",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q015",
+        "source_excerpt": "33. The average of 7 consecutive numbers is 20. The largest of these numbers is (A) 20 (B) 21 (C) 23 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q016",
+      "question_number": "34",
+      "question_text": "The equation ax bx c 2 0 + + = has two distinct real roots, if",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 0 - <"
+        },
+        {
+          "label": "B",
+          "text": "4 0 - >"
+        },
+        {
+          "label": "C",
+          "text": "4 0 - ="
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "34",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q016",
+        "source_excerpt": "34. The equation ax bx c 2 0 + + = has two distinct real roots, if (A) b ac 2 4 0 - < (B) b ac 2 4 0 - > (C) b ac 2 4 0 - = (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q017",
+      "question_number": "35",
+      "question_text": "Mohan can do a bit of work in 25 days which can be completed by Sohan in 20 days. Both together labour for 5 days and afterward Mohan leaves off. How long will Sohan take to complete the remaining work?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 6 24/HV/M–2023–07/S5 (HS)/231-A 7 [ P.T.O. PART—II ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "35",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q017",
+        "source_excerpt": "35. Mohan can do a bit of work in 25 days which can be completed by Sohan in 20 days. Both together labour for 5 days and afterward Mohan leaves off. How long will Sohan take to complete the remaining work? (A) 20 days (B) 11 days (C) 14 days (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 6 24/HV/M–2023–07/S5 (HS)/231-A 7 [ P.T.O. PART—II ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q018",
+      "question_number": "31",
+      "question_text": "EH$ Am`VmH$ma hm∞b Ho$ \\$e© H$s n[a{Y 250 _rQ>a h°ü& `{X R10 ‡{V dJ© _rQ>a H$s Xa go Mmam| Xrdmam| H$mo n|Q> H$aZo H$s bmJV R15,000 h°, Vmo hm∞b H$s D±$MmB© h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "31",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q018",
+        "source_excerpt": "31. EH$ Am`VmH$ma hm∞b Ho$ \\$e© H$s n[a{Y 250 _rQ>a h°ü& `{X R10 ‡{V dJ© _rQ>a H$s Xa go Mmam| Xrdmam| H$mo n|Q> H$aZo H$s bmJV R15,000 h°, Vmo hm∞b H$s D±$MmB© h° (A) 7 _rQ>a (B) 16 _rQ>a (C) 6 _rQ>a (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q019",
+      "question_number": "35",
+      "question_text": "_mohZ 25 {XZm| _| EH$ H$m_ H$a gH$Vm h° {Ogo gmohZ 20 {XZm| _| nyam H$a gH$Vm h°ü& XmoZm| EH$ gmW 5 {XZm| Ho$ {bE l_ H$aVo h¢ Am°a CgHo$ ~mX _mohZ H$m_ N>moãS> XoVm h°ü& eof H$m`© H$mo nyam H$aZo _| gmohZ H$mo {H$VZm g_` bJoJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "35",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q019",
+        "source_excerpt": "35. _mohZ 25 {XZm| _| EH$ H$m_ H$a gH$Vm h° {Ogo gmohZ 20 {XZm| _| nyam H$a gH$Vm h°ü& XmoZm| EH$ gmW 5 {XZm| Ho$ {bE l_ H$aVo h¢ Am°a CgHo$ ~mX _mohZ H$m_ N>moãS> XoVm h°ü& eof H$m`© H$mo nyam H$aZo _| gmohZ H$mo {H$VZm g_` bJoJm? (A) 20 {XZ (B) 11 {XZ (C) 14 {XZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q020",
+      "question_number": "36",
+      "question_text": "If X a b = - 2 2 , Y = 30 and a b + = 15, then",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "36",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q020",
+        "source_excerpt": "36. If X a b = - 2 2 , Y = 30 and a b + = 15, then (A) X is lesser than Y if a b = (B) X is greater thanY if a b > (C) Y is greater than X if a b = (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q021",
+      "question_number": "37",
+      "question_text": "The probability of a non leap year selected at random will contain 53 Sundays is",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "53"
+        },
+        {
+          "label": "C",
+          "text": "53"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "37",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q021",
+        "source_excerpt": "37. The probability of a non leap year selected at random will contain 53 Sundays is (A) 1 7 (B) 2 53 (C) 1 53 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q022",
+      "question_number": "38",
+      "question_text": "If 7 49 12 6 3 12 x x + + = , then the value of x is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "38",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q022",
+        "source_excerpt": "38. If 7 49 12 6 3 12 x x + + = , then the value of x is (A) 3 (B) 4 (C) 7 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q023",
+      "question_number": "39",
+      "question_text": "Myopia is a disease in which a person cannot see",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "objects clearly"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "39",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q023",
+        "source_excerpt": "39. Myopia is a disease in which a person cannot see (A) distant objects clearly (B) nearby objects clearly (C) nearby as well as distant objects clearly (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q024",
+      "question_number": "40",
+      "question_text": "The term ‘heredity’ chiefly refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "40",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q024",
+        "source_excerpt": "40. The term ‘heredity’ chiefly refers to (A) anatomy (B) meiosis (C) genetics (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q025",
+      "question_number": "41",
+      "question_text": "The cans in which food is packed are coated with tin and not zinc because",
+      "options": [
+        {
+          "label": "A",
+          "text": "zinc"
+        },
+        {
+          "label": "B",
+          "text": "tin"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 8 24/HV/M–2023–07/S5 (HS)/231-A 9 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "41",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q025",
+        "source_excerpt": "41. The cans in which food is packed are coated with tin and not zinc because (A) tin is more reactive than zinc (B) zinc is more reactive than tin (C) zinc is costlier than tin (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 8 24/HV/M–2023–07/S5 (HS)/231-A 9 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q026",
+      "question_number": "36",
+      "question_text": "`{X X a b = - 2 2 , Y = 30 VWm a b + = 15 hmo, Vmo",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "36",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q026",
+        "source_excerpt": "36. `{X X a b = - 2 2 , Y = 30 VWm a b + = 15 hmo, Vmo (A) X N>moQ>m h° Y go `{X a b = (B) X ~ãS>m h° Y go `{X a b > (C) Y ~ãS>m h° X go `{X a b = (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q027",
+      "question_number": "37",
+      "question_text": "`m—p¿N>H$ Í$n go MwZo JE EH$ J°a-brn df© _| 53 a{ddma hmoZo H$s ‡m{`H$Vm h°",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "53"
+        },
+        {
+          "label": "C",
+          "text": "53"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "37",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q027",
+        "source_excerpt": "37. `m—p¿N>H$ Í$n go MwZo JE EH$ J°a-brn df© _| 53 a{ddma hmoZo H$s ‡m{`H$Vm h° (A) 1 7 (B) 2 53 (C) 1 53 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q028",
+      "question_number": "42",
+      "question_text": "The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "42",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q028",
+        "source_excerpt": "42. The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is (A) oxidation (B) reduction (C) hydrolysis (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q029",
+      "question_number": "43",
+      "question_text": "The quality of a printer is determined as",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "43",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q029",
+        "source_excerpt": "43. The quality of a printer is determined as (A) words per inch (B) strike per inch (C) dots per inch (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q030",
+      "question_number": "44",
+      "question_text": "Trachoma disease is related to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "44",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q030",
+        "source_excerpt": "44. Trachoma disease is related to (A) lungs (B) ears (C) eyes (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q031",
+      "question_number": "45",
+      "question_text": "Which of the following makes use of Newton’s third law of motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "45",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q031",
+        "source_excerpt": "45. Which of the following makes use of Newton’s third law of motion? (A) Archery (B) Space rocket (C) Venturimeter (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q032",
+      "question_number": "46",
+      "question_text": "Particles which can be added to the nucleus of an atom without changing its chemical properties are",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 10 24/HV/M–2023–07/S5 (HS)/231-A 11 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "46",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q032",
+        "source_excerpt": "46. Particles which can be added to the nucleus of an atom without changing its chemical properties are (A) neutrons (B) electrons (C) protons (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 10 24/HV/M–2023–07/S5 (HS)/231-A 11 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q033",
+      "question_number": "43",
+      "question_text": "EH$ {‡›Q>a H$s JwUdŒmm {H$ggo {ZYm©[aV H$s OmVr h°>?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "43",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q033",
+        "source_excerpt": "43. EH$ {‡›Q>a H$s JwUdŒmm {H$ggo {ZYm©[aV H$s OmVr h°>? (A) e„X ‡{V BßM (B) ‡hma ‡{V BßM (C) {~›Xw ‡{V BßM (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q034",
+      "question_number": "46",
+      "question_text": "amgm`{ZH$ JwUm| H$mo An[ad{V©V aIVo h˛E EH$ na_mUw Ho$ Zm{^H$ _| OmoãS>o OmZo dmbo H$U h¢",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 12"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "46",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q034",
+        "source_excerpt": "46. amgm`{ZH$ JwUm| H$mo An[ad{V©V aIVo h˛E EH$ na_mUw Ho$ Zm{^H$ _| OmoãS>o OmZo dmbo H$U h¢ (A) ›`yQ¥>m∞Z (B) BboäQ¥>m∞Z (C) ‡moQ>m∞Z (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–07/S5 (HS)/231-A 12"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q035",
+      "question_number": "47",
+      "question_text": "Before Elon Musk announced change of the signature Blue Bird logo to Sign ‘X’ logo, who is regarded as the creator of Twitter’s iconic Bird in its final version in 2012?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "47",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q035",
+        "source_excerpt": "47. Before Elon Musk announced change of the signature Blue Bird logo to Sign ‘X’ logo, who is regarded as the creator of Twitter’s iconic Bird in its final version in 2012? (A) Jack Dorsey (B) Martin Grasser (C) Noah Glass (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q036",
+      "question_number": "48",
+      "question_text": "Who is the Director of the famous film Oppenheimer, a film about high-concept science, released this year?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "48",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q036",
+        "source_excerpt": "48. Who is the Director of the famous film Oppenheimer, a film about high-concept science, released this year? (A) Christopher Nolan (B) Guy Ritchie (C) Laura McGann (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q037",
+      "question_number": "49",
+      "question_text": "Which one of the following has pulled out from hosting the 2026 edition of Commonwealth Games due to huge estimated expenditure on its organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "49",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q037",
+        "source_excerpt": "49. Which one of the following has pulled out from hosting the 2026 edition of Commonwealth Games due to huge estimated expenditure on its organization? (A) London, UK (B) Kuala Lumpur, Malaysia (C) Victoria, Australia (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q038",
+      "question_number": "50",
+      "question_text": "What is the full form of INDIA, a recently formed alliance of opposition political parties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mental Inclusive Alliance"
+        },
+        {
+          "label": "B",
+          "text": "ment for Improvement Alliance"
+        },
+        {
+          "label": "C",
+          "text": "mental Inclusive Associa- tion"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "50",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q038",
+        "source_excerpt": "50. What is the full form of INDIA, a recently formed alliance of opposition political parties? (A) Indian National Develop- mental Inclusive Alliance (B) Indian National Develop- ment for Improvement Alliance (C) Indian National Develop- mental Inclusive Associa- tion (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q039",
+      "question_number": "51",
+      "question_text": "What message was sent by Chandrayaan–2 lunar orbiter to Chandrayaan–3’s lander module when it established contact with it in August 2023?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "chalein”"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 13 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "51",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q039",
+        "source_excerpt": "51. What message was sent by Chandrayaan–2 lunar orbiter to Chandrayaan–3’s lander module when it established contact with it in August 2023? (A) “Welcome home” (B) “Chalo chand ke paar chalein” (C) “Welcome, buddy” (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 13 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q040",
+      "question_number": "47",
+      "question_text": "EbZ _ÒH$ ¤mam {gæoMa „by ~S>© bmoJmo H$mo ~XbH$a \"X' bmoJmo H$s KmofUm H$aZo go nhbo, 2012 _| AnZo Ap›V_ gßÒH$aU _| {Qâ>Q>a Ho$ ‡{V{>V ~S>© Ho$ {Z_m©Vm Ho$ Í$n _| {H$go _mZm OmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "47",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q040",
+        "source_excerpt": "47. EbZ _ÒH$ ¤mam {gæoMa „by ~S>© bmoJmo H$mo ~XbH$a \"X' bmoJmo H$s KmofUm H$aZo go nhbo, 2012 _| AnZo Ap›V_ gßÒH$aU _| {Qâ>Q>a Ho$ ‡{V{>V ~S>© Ho$ {Z_m©Vm Ho$ Í$n _| {H$go _mZm OmVm h°? (A) O°H$ S>mogu (B) _m{Q>©Z J´mga (C) ZmoAmh Ωbmg (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q041",
+      "question_number": "51",
+      "question_text": "AJÒV 2023 _| O~ M›–`mZ–2 Mß– Am∞{~©Q>a Zo M›–`mZ–3 Ho$ b°ßS>a _m∞S>Áyb go gÂnH©$ ÒWm{nV {H$`m, Vmo CgZo Cgo ä`m gßXoe ^oOm Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 14"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "51",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q041",
+        "source_excerpt": "51. AJÒV 2023 _| O~ M›–`mZ–2 Mß– Am∞{~©Q>a Zo M›–`mZ–3 Ho$ b°ßS>a _m∞S>Áyb go gÂnH©$ ÒWm{nV {H$`m, Vmo CgZo Cgo ä`m gßXoe ^oOm Wm? (A) \"\"dobH$_ hmo_'' (B) \"\"Mbmo Mm±X Ho$ nma Mb|'' (C) \"\"dobH$_, ~S>r'' (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–07/S5 (HS)/231-A 14"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q042",
+      "question_number": "52",
+      "question_text": "Name the former President of China who crushed the pro- democracy movement in 1989.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "52",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q042",
+        "source_excerpt": "52. Name the former President of China who crushed the pro- democracy movement in 1989. (A) Mao Tse Tung (B) Yang Shangkun (C) Jiang Zemin (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q043",
+      "question_number": "53",
+      "question_text": "Who has elected for the second term as Ireland’s Prime Minister?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "53",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q043",
+        "source_excerpt": "53. Who has elected for the second term as Ireland’s Prime Minister? (A) Sanna Marin (B) Robert Abela (C) Leo Varadkar (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q044",
+      "question_number": "54",
+      "question_text": "African Union was made a permanent member in the G–20 Summit held in India. Who is the Chairman of the African Union?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "54",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q044",
+        "source_excerpt": "54. African Union was made a permanent member in the G–20 Summit held in India. Who is the Chairman of the African Union? (A) Azali Assoumani (B) Justin Trudeau (C) Ursula von der Leyen (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q045",
+      "question_number": "4",
+      "question_text": "Northern Mountains Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q045",
+        "source_excerpt": "4. Northern Mountains Select the correct answer using the codes given below. (A) 3, 1, 2, 4 (B) 1, 2, 3, 4 (C) 2, 4, 1, 3 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q046",
+      "question_number": "4",
+      "question_text": "Zanskar Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 15 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q046",
+        "source_excerpt": "4. Zanskar Select the correct answer using the codes given below. (A) 1, 3, 2, 4 (B) 2, 1, 4, 3 (C) 3, 4, 1, 2 (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 15 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q047",
+      "question_number": "54",
+      "question_text": "^maV _| Am`mo{OV Or–20 {eIa gÂ_obZ _| A\\´$sH$s gßK H$mo ÒWm`r gXÒ` ~Zm`m J`mü& A\\´$sH$s gßK Ho$ A‹`j H$m°Z h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "54",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q047",
+        "source_excerpt": "54. ^maV _| Am`mo{OV Or–20 {eIa gÂ_obZ _| A\\´$sH$s gßK H$mo ÒWm`r gXÒ` ~Zm`m J`mü& A\\´$sH$s gßK Ho$ A‹`j H$m°Z h¢? (A) AOmbr Agm°_Zr (B) OpÒQ>Z QØ>S>mo (C) Cg©wbm dm∞Z S>oa boZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q048",
+      "question_number": "4",
+      "question_text": "CŒmar nd©V ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q048",
+        "source_excerpt": "4. CŒmar nd©V ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 3, 1, 2, 4 (B) 1, 2, 3, 4 (C) 2, 4, 1, 3 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q049",
+      "question_number": "4",
+      "question_text": "OmßÒH$a ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 16"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q049",
+        "source_excerpt": "4. OmßÒH$a ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 1, 3, 2, 4 (B) 2, 1, 4, 3 (C) 3, 4, 1, 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–07/S5 (HS)/231-A 16"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q050",
+      "question_number": "57",
+      "question_text": "During the monsoon season in India, most of the cyclones have their origin",
+      "options": [
+        {
+          "label": "A",
+          "text": "latitude"
+        },
+        {
+          "label": "B",
+          "text": "latitude"
+        },
+        {
+          "label": "C",
+          "text": "latitude"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "57",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q050",
+        "source_excerpt": "57. During the monsoon season in India, most of the cyclones have their origin (A) between 8° N and 13° N latitude (B) between 10° N and 15° N latitude (C) between 16° N and 21° N latitude (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q051",
+      "question_number": "58",
+      "question_text": "Which of the following areas is not landslide-prone area?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "58",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q051",
+        "source_excerpt": "58. Which of the following areas is not landslide-prone area? (A) Western Ghats (B) Eastern Ghats (C) Himalayan Regions (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q052",
+      "question_number": "59",
+      "question_text": "Which of the following coasts of India is most affected by violent tropical cyclones?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "59",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q052",
+        "source_excerpt": "59. Which of the following coasts of India is most affected by violent tropical cyclones? (A) Malabar (B) Coromandel (C) Konkan (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q053",
+      "question_number": "60",
+      "question_text": "When running water cuts through clayey soils and makes deep channels, they lead to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "60",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q053",
+        "source_excerpt": "60. When running water cuts through clayey soils and makes deep channels, they lead to (A) gully erosion (B) sheet erosion (C) deforestation (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q054",
+      "question_number": "61",
+      "question_text": "Which of the following receives heavy rainfall in the month of October and November?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jaintia"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "61",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q054",
+        "source_excerpt": "61. Which of the following receives heavy rainfall in the month of October and November? (A) Hills of Garo, Khasi and Jaintia (B) Coromandel Coasts (C) Plateau of Chota Nagpur (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q055",
+      "question_number": "62",
+      "question_text": "Cultivation of fruits and vegetables is called",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 17 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "62",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q055",
+        "source_excerpt": "62. Cultivation of fruits and vegetables is called (A) floriculture (B) agriculture (C) horticulture (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 17 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q056",
+      "question_number": "57",
+      "question_text": "^maV _| _m∞ZgyZ grOZ _| A{YH$mße MH´$dmVmoß H$s CÀn{Œm hmoVr h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "57",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q056",
+        "source_excerpt": "57. ^maV _| _m∞ZgyZ grOZ _| A{YH$mße MH´$dmVmoß H$s CÀn{Œm hmoVr h° (A) 8° C0 Am°a 13° C0 Ajmße Ho$ _‹` (B) 10° C0 Am°a 15° C0 Ajmße Ho$ _‹` (C) 16° C0 Am°a 21° C0 Ajmße Ho$ _‹` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q057",
+      "question_number": "59",
+      "question_text": "{ZÂZ{b{IV _| go ^maV H$m H$m°Z-gm VQ> CJ´ CÓUH${Q>~ßYr` MH´$dmVm| go g~go A{YH$ ‡^m{dV h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "59",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q057",
+        "source_excerpt": "59. {ZÂZ{b{IV _| go ^maV H$m H$m°Z-gm VQ> CJ´ CÓUH${Q>~ßYr` MH´$dmVm| go g~go A{YH$ ‡^m{dV h°? (A) _mbm~ma (B) H$moamo_ßS>b (C) H$m|H$U (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q058",
+      "question_number": "60",
+      "question_text": "O~ ~hVm nmZr {MH$Zr {_≈>r H$mo H$mQ>Vm h° Am°a Jhao M°Zb ~ZmVm h°, Vmo ä`m hmoVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "60",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q058",
+        "source_excerpt": "60. O~ ~hVm nmZr {MH$Zr {_≈>r H$mo H$mQ>Vm h° Am°a Jhao M°Zb ~ZmVm h°, Vmo ä`m hmoVm h°? (A) Jbr H$Q>md (B) erQ> jaU (C) dZm| H$s H$Q>mB© (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q059",
+      "question_number": "61",
+      "question_text": "{ZÂZ{b{IV _| go H$hm± A∫y$~a Am°a ZdÂ~a Ho$ _hrZo _| ^mar dfm© hmoVr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "61",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q059",
+        "source_excerpt": "61. {ZÂZ{b{IV _| go H$hm± A∫y$~a Am°a ZdÂ~a Ho$ _hrZo _| ^mar dfm© hmoVr h°? (A) Jmamo, Imgr Am°a O¢{V`m H$s nhm{ãS>`m± (B) H$moamo_ßS>b VQ> (C) N>moQ>mZmJnwa H$m nR>ma (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q060",
+      "question_number": "62",
+      "question_text": "\\$bm| Edß gp„O`m| H$s IoVr H$hbmVr h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 18"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "62",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q060",
+        "source_excerpt": "62. \\$bm| Edß gp„O`m| H$s IoVr H$hbmVr h° (A) \\y$bm| H$s IoVr (B) H•${f (C) ~mJdmZr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 24/HV/M–2023–07/S5 (HS)/231-A 18"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q061",
+      "question_number": "63",
+      "question_text": "Who provided leadership in the districts of Patna, Ara and Shahabad during the Revolt of 1857 in Bihar?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "63",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q061",
+        "source_excerpt": "63. Who provided leadership in the districts of Patna, Ara and Shahabad during the Revolt of 1857 in Bihar? (A) Raj Kumar Shukla (B) Namdar Khan (C) Kunwar Singh (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q062",
+      "question_number": "64",
+      "question_text": "The Partition of Bengal was made effective on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "64",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q062",
+        "source_excerpt": "64. The Partition of Bengal was made effective on (A) 14 October, 1905 (B) 15 October, 1905 (C) 16 October, 1905 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q063",
+      "question_number": "65",
+      "question_text": "The Quit India Resolution was adopted by the Congress in Bombay on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "65",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q063",
+        "source_excerpt": "65. The Quit India Resolution was adopted by the Congress in Bombay on (A) 7 August, 1942 (B) 8 August, 1942 (C) 9 August, 1942 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q064",
+      "question_number": "66",
+      "question_text": "The British ruled India for a long period due to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congress"
+        },
+        {
+          "label": "B",
+          "text": "leaders"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "66",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q064",
+        "source_excerpt": "66. The British ruled India for a long period due to the (A) liberal policies of the Congress (B) imprisonment of Indian leaders (C) policy of Divide and Rule (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q065",
+      "question_number": "67",
+      "question_text": "Queen Victoria’s Proclamation was issued on which of the following dates?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "67",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q065",
+        "source_excerpt": "67. Queen Victoria’s Proclamation was issued on which of the following dates? (A) 1 November, 1857 (B) 27 March, 1858 (C) 1 November, 1858 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q066",
+      "question_number": "68",
+      "question_text": "Which of the following statements is/are correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the pioneer of modern education."
+        },
+        {
+          "label": "B",
+          "text": "proclaimed India for Indians."
+        },
+        {
+          "label": "C",
+          "text": "the Parliament of World Religions."
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "68",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q066",
+        "source_excerpt": "68. Which of the following statements is/are correct? (A) Raja Rammohan Roy was the pioneer of modern education. (B) Swami Dayanand proclaimed India for Indians. (C) Vivekananda participated in the Parliament of World Religions. (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q067",
+      "question_number": "69",
+      "question_text": "Who among the following became India’s unofficial Ambassador to England?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "69",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q067",
+        "source_excerpt": "69. Who among the following became India’s unofficial Ambassador to England? (A) Surendranath Banerjee (B) Dadabhai Naoroji (C) Swami Vivekananda (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q068",
+      "question_number": "70",
+      "question_text": "Who described the Government of India Act, 1935 as a ‘Charter of Slavery’ ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Bose"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 19 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "70",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q068",
+        "source_excerpt": "70. Who described the Government of India Act, 1935 as a ‘Charter of Slavery’ ? (A) Mahatma Gandhi (B) Netaji Subhas Chandra Bose (C) Maulana Hasrat Mohani (D) More than one of the above (E) None of the above 24/HV/M–2023–07/S5 (HS)/231-A 19 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q069",
+      "question_number": "63",
+      "question_text": "{~hma _| 1857 H$s H´$mp›V Ho$ Xm°amZ nQ>Zm, Amam Am°a emhm~mX {Obm| _| {H$gZo ZoV•Àd ‡XmZ {H$`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "63",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q069",
+        "source_excerpt": "63. {~hma _| 1857 H$s H´$mp›V Ho$ Xm°amZ nQ>Zm, Amam Am°a emhm~mX {Obm| _| {H$gZo ZoV•Àd ‡XmZ {H$`m? (A) amOHw$_ma ewäbm (B) Zm_Xma Im± (C) Hw±$da qgh (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q070",
+      "question_number": "66",
+      "question_text": "AßJ´oOm| Zo ^maV na bÂ~o g_` VH$ am¡` H°$go {H$`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "66",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q070",
+        "source_excerpt": "66. AßJ´oOm| Zo ^maV na bÂ~o g_` VH$ am¡` H°$go {H$`m? (A) H$m±J´og H$s CXmadmXr Zr{V`moß Ho$ H$maU (B) ^maVr` ZoVmAm| H$s {Ja‚Vmar Ho$ H$maU (C) \"~m±Q>mo Am°a amO H$amo' H$s Zr{V Ho$ H$maU (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q071",
+      "question_number": "67",
+      "question_text": "{ZÂZ{b{IV _| go {H$g {V{W H$mo amZr {däQ>mo[a`m H$s CX≤KmofUm Omar h˛B©?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "67",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q071",
+        "source_excerpt": "67. {ZÂZ{b{IV _| go {H$g {V{W H$mo amZr {däQ>mo[a`m H$s CX≤KmofUm Omar h˛B©? (A) 1 ZdÂ~a, 1857 (B) 27 _mM©, 1858 (C) 1 ZdÂ~a, 1858 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q072",
+      "question_number": "70",
+      "question_text": "^maV gaH$ma A{Y{Z`_, 1935 H$mo {H$gZo \"Jwbm_r H$m MmQ>©a' ~Vm`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "PART—III ( MAGADHI ) {ZX}e (‡ÌZ gßª`m 71 go 105 VH$) : EH$am _| ‡À`oH$ ‡ÌZ _| nm±M {dH$În Xob Job hoçç(A), (B),"
+        },
+        {
+          "label": "C",
+          "text": "{M{ïV H$arü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "70",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q072",
+        "source_excerpt": "70. ^maV gaH$ma A{Y{Z`_, 1935 H$mo {H$gZo \"Jwbm_r H$m MmQ>©a' ~Vm`m? (A) _hmÀ_m Jm±Yr (B) ZoVmOr gw^mf M›– ~mog (C) _m°bmZm hgaV _mohmZr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht PART—III ( MAGADHI ) {ZX}e (‡ÌZ gßª`m 71 go 105 VH$) : EH$am _| ‡À`oH$ ‡ÌZ _| nm±M {dH$În Xob Job hoçç(A), (B), (C), (D) AmC (E)ü& ghr CŒma Ho$ CŒma-nÃH$ _| {M{ïV H$arü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q073",
+      "question_number": "71",
+      "question_text": "\"_Jhr-^mfm Am°a gm{hÀ`' Ho$ boIH$ hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "71",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q073",
+        "source_excerpt": "71. \"_Jhr-^mfm Am°a gm{hÀ`' Ho$ boIH$ hH$@ (A) am_‡gmX qgh (B) S>m∞0 gÂn{V A`m©Ur (C) {g’ gahnm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q074",
+      "question_number": "73",
+      "question_text": "\"a{Y`m' Ho$ aM{`Vm hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "73",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q074",
+        "source_excerpt": "73. \"a{Y`m' Ho$ aM{`Vm hH$@ (A) {_{Wboe qgh (B) b˙_U ‡gmX (C) gwZrb Hw$_ma (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q075",
+      "question_number": "79",
+      "question_text": "\"MwQ>H$s ^a goZya' Ho$ boIH$ hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 20"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "79",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q075",
+        "source_excerpt": "79. \"MwQ>H$s ^a goZya' Ho$ boIH$ hH$@ (A) ~m~ybmb _YwH$a (B) e{e^yfU Cnm‹`m` _YwH$a (C) gÀ`o›– O_mbnwar (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 20"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q076",
+      "question_number": "87",
+      "question_text": "\"~Xbb g_mO' Ho$ aMZmH$ma hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 21 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "87",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q076",
+        "source_excerpt": "87. \"~Xbb g_mO' Ho$ aMZmH$ma hH$@ (A) S>m∞0 {Xbrn Hw$_ma (B) har›– {d⁄mWu (C) S>m∞0 am_‡gmX qgh (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 21 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q077",
+      "question_number": "94",
+      "question_text": "gßMm[a`m| Ho$ gßª`m hmod ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "94",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q077",
+        "source_excerpt": "94. gßMm[a`m| Ho$ gßª`m hmod ho (A) 30 (B) 31 (C) 33 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q078",
+      "question_number": "95",
+      "question_text": "ag gÂ‡Xm` Ho$ ‡dV©H$ hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 22"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "95",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q078",
+        "source_excerpt": "95. ag gÂ‡Xm` Ho$ ‡dV©H$ hH$@ (A) ^m_h (B) AmZ›Xd’©Z (C) ^aV_w{Z (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 22"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q079",
+      "question_number": "105",
+      "question_text": "\"\"dmä`ß agmÀ_Hß$ H$mÏ`_≤'' Ho$ aM{`Vm hH$@",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 23 [ P.T.O. {ZX}e (‡ÌZ gßª`m 106 go 125 VH$) : Bhm± AbJ-AbJ Mma J⁄mße Xob Om ahb hoü& ha J⁄mße go gdmb Ho$ CŒma (Odm~) bmçç(A), (B), (C), (D) AmC (E) {dH$În hoü& J⁄mße Ho$ Yo`mZ go nãT>Ho$ nwN>b Job gdmb Ho$ Odm~ CŒma-nÃH$ _| {M{ïV H$`b Om`ü& J⁄mßeçç1 ^JdmZ ~w’ Ho$ OZ_ B©0 ny0 500 _| hmob hbü& CZH$a {nVm Ho$ Zm_ gwXmoYZ hbü& CZH$a nÀZr Ho$ Zm_ `emoYam hbü& AR>mah ~[ag Ho$ C_a _| CZH$a emXr hmo Job hb Amd CZVrg ~[ag _| Ka-dma N>moãS> Ho$ kmZ Ho$ ‡m{· Ho$ {bE {ZH$b Job@ü& Hw$N> {XZ VH$ amOJra _| VnÒ`m H°$bH$@, bo{H$Z dhm± CZH$m kmZ Ho$ ‡m{· Z hmo`bü& V~ {ZaßOZm ZXr Ho$ {H$Zmao ~moYJ`m _| nrna Ho$ noãS> Ho$ ZrMo VnÒ`m H°$bH$mü& dhm± CZH$m kmZ Ho$ ‡m{· hmo Jobü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "105",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q079",
+        "source_excerpt": "105. \"\"dmä`ß agmÀ_Hß$ H$mÏ`_≤'' Ho$ aM{`Vm hH$@ (A) ^m_h (B) _Â_Q> (C) npS>VamO OJﬁmW (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 23 [ P.T.O. {ZX}e (‡ÌZ gßª`m 106 go 125 VH$) : Bhm± AbJ-AbJ Mma J⁄mße Xob Om ahb hoü& ha J⁄mße go gdmb Ho$ CŒma (Odm~) bmçç(A), (B), (C), (D) AmC (E) {dH$În hoü& J⁄mße Ho$ Yo`mZ go nãT>Ho$ nwN>b Job gdmb Ho$ Odm~ CŒma-nÃH$ _| {M{ïV H$`b Om`ü& J⁄mßeçç1 ^JdmZ ~w’ Ho$ OZ_ B©0 ny0 500 _| hmob hbü& CZH$a {nVm Ho$ Zm_ gwXmoYZ hbü& CZH$a nÀZr Ho$ Zm_ `emoYam hbü& AR>mah ~[ag Ho$ C_a _| CZH$a emXr hmo Job hb Amd CZVrg ~[ag _| Ka-dma N>moãS> Ho$ kmZ Ho$ ‡m{· Ho$ {bE {ZH$b Job@ü& Hw$N> {XZ VH$ amOJra _| VnÒ`m H°$bH$@, bo{H$Z dhm± CZH$m kmZ Ho$ ‡m{· Z hmo`bü& V~ {ZaßOZm ZXr Ho$ {H$Zmao ~moYJ`m _| nrna Ho$ noãS> Ho$ ZrMo VnÒ`m H°$bH$mü& dhm± CZH$m kmZ Ho$ ‡m{· hmo Jobü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q080",
+      "question_number": "110",
+      "question_text": "^JdmZ ~w’ Ho$ kmZ Ho$ ‡m{· H$m°Mr Ho$ noãS> Ho$ ZrMo VnÒ`m H°$bm go hmo^ob",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 24 J⁄mßeçç2 _ZwÓ` Ho$ OrdZ Ho$ Mma nwÈfmW© _mZb Job hoççAW©, Y_©, H$m_ Amd _mojü& AW©, Y_© Amd H$m_ Ho$ ‡m{· ghr T>ßJ go H°$bm na _moj Ho$ ‡m{· AnZo-Amn hmo Omhoü& bo{H$Z AmO Ho$ _ZwÓ` Ho$ OrdZ Ho$ g~go ~ãS>Jmo {dS>Â~Zm B ho {H$ C AW© Ho$ ‡m{· Ho$ {bE g~ ‡H$ma Ho$ Hw$H$_© H$ao _| V{ZH$mo gm Zƒm gßH$moM H$ao hoü& C g~ gÂ~›Y Ho$ VmIm na N>moãS> Ho$ JbV T>ßJ go AW© Ho$ ‡m{· _| OrdZ^a bJb aho hoü& AmoH$a \\$b B hmodho {H$ AmO Ho$ AmX_r Ho$ g_yMo {O›XJr ZaH$ ~Z Omhoü& Bho go ^maV Ho$ {M›VH$ CnXoe Xobdm ho {H$ AW© Ho$ gmYZ Ho$ Í$n _| _mZb Om`Ho$ Mmhrü& AW© OrdZ _| H$^r ^r gm‹` Zƒm hmodVü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "110",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q080",
+        "source_excerpt": "110. ^JdmZ ~w’ Ho$ kmZ Ho$ ‡m{· H$m°Mr Ho$ noãS> Ho$ ZrMo VnÒ`m H°$bm go hmo^ob (A) dQ>d•j (B) nrna (C) ~ob (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 24 J⁄mßeçç2 _ZwÓ` Ho$ OrdZ Ho$ Mma nwÈfmW© _mZb Job hoççAW©, Y_©, H$m_ Amd _mojü& AW©, Y_© Amd H$m_ Ho$ ‡m{· ghr T>ßJ go H°$bm na _moj Ho$ ‡m{· AnZo-Amn hmo Omhoü& bo{H$Z AmO Ho$ _ZwÓ` Ho$ OrdZ Ho$ g~go ~ãS>Jmo {dS>Â~Zm B ho {H$ C AW© Ho$ ‡m{· Ho$ {bE g~ ‡H$ma Ho$ Hw$H$_© H$ao _| V{ZH$mo gm Zƒm gßH$moM H$ao hoü& C g~ gÂ~›Y Ho$ VmIm na N>moãS> Ho$ JbV T>ßJ go AW© Ho$ ‡m{· _| OrdZ^a bJb aho hoü& AmoH$a \\$b B hmodho {H$ AmO Ho$ AmX_r Ho$ g_yMo {O›XJr ZaH$ ~Z Omhoü& Bho go ^maV Ho$ {M›VH$ CnXoe Xobdm ho {H$ AW© Ho$ gmYZ Ho$ Í$n _| _mZb Om`Ho$ Mmhrü& AW© OrdZ _| H$^r ^r gm‹` Zƒm hmodVü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q081",
+      "question_number": "112",
+      "question_text": "AmO Ho$ _ZwÓ` H$m°Z nwÈfmW© Ho$ ‡m{· _| OrdZ^a bJb aho ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "112",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q081",
+        "source_excerpt": "112. AmO Ho$ _ZwÓ` H$m°Z nwÈfmW© Ho$ ‡m{· _| OrdZ^a bJb aho ho? (A) Y_© (B) AW© (C) _moj (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q082",
+      "question_number": "115",
+      "question_text": "_moj Ho$ ‡m{· Ho$ Cnm` {H$ ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 25 [ P.T.O. 24/HV/M–2023–07/S5 (HS)/231-A 26 J⁄mßeçç3 _ZwÓ` Ho$ OrdZ _| {ejm Ho$ _hŒd g~ MrO go OmXo hoü& Bho H$maU ho {H$ AÂ~oXH$a H$hbH$m ho {H$ {ejm eoaZr Ho$ XyY ho OoH$am nr`o go AmX_r JaOo bJ@ hoü& B ~mV Vmo EH$X_ gm° ‡{VeV R>rH$ ho, bo{H$Z {ejm Ho$ ‡m{· Ho$ ~mX AmX_r gßdoXZhrZ hmo Omhoü& Oo OoVZm A{YH$ nãT>-{bI boho, C AmoVZ° OmXo ˆX`hrZ hmo Omhoü& EH$a CXmhaU A_o[aH$m hoü& A_o[aH$m Xw{Z`m Ho$ g~go OmXo {dH${gV Xoe _mZb Omho, bo{H$Z dhm± d•’ml_ Ho$ gßª`m ^r g~go OmXo hr hoü& dhm± _mZ{gH$ amoJr Ho$ gßª`m ^r g~ Xoe go OmXo hoü& EH$am go gm\\$ PbHo$ ho {H$ AmX_r Ho$ OrdZ _| g~go OmXo OÍ$aV {ejm Ho$ gmW-gmW _mZdr` gßdoXZm ^r hoü& OrdZ _| g~go ~ãS>Jmo MrO _mZdVm hoü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "115",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q082",
+        "source_excerpt": "115. _moj Ho$ ‡m{· Ho$ Cnm` {H$ ho? (A) g~ ‡H$ma Ho$ Hw$H$_© H$aZm (B) AW©, Y_©, H$m_ Ho$ ghr go ‡m{· (C) AW© H$mo gm‹` _mZZm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 25 [ P.T.O. 24/HV/M–2023–07/S5 (HS)/231-A 26 J⁄mßeçç3 _ZwÓ` Ho$ OrdZ _| {ejm Ho$ _hŒd g~ MrO go OmXo hoü& Bho H$maU ho {H$ AÂ~oXH$a H$hbH$m ho {H$ {ejm eoaZr Ho$ XyY ho OoH$am nr`o go AmX_r JaOo bJ@ hoü& B ~mV Vmo EH$X_ gm° ‡{VeV R>rH$ ho, bo{H$Z {ejm Ho$ ‡m{· Ho$ ~mX AmX_r gßdoXZhrZ hmo Omhoü& Oo OoVZm A{YH$ nãT>-{bI boho, C AmoVZ° OmXo ˆX`hrZ hmo Omhoü& EH$a CXmhaU A_o[aH$m hoü& A_o[aH$m Xw{Z`m Ho$ g~go OmXo {dH${gV Xoe _mZb Omho, bo{H$Z dhm± d•’ml_ Ho$ gßª`m ^r g~go OmXo hr hoü& dhm± _mZ{gH$ amoJr Ho$ gßª`m ^r g~ Xoe go OmXo hoü& EH$am go gm\\$ PbHo$ ho {H$ AmX_r Ho$ OrdZ _| g~go OmXo OÍ$aV {ejm Ho$ gmW-gmW _mZdr` gßdoXZm ^r hoü& OrdZ _| g~go ~ãS>Jmo MrO _mZdVm hoü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q083",
+      "question_number": "120",
+      "question_text": "OrdZ _| g~go ~ãS>Jmo MrO ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "J⁄mßeçç4 JmoÒdm_r VwbgrXmg Xw{Z`m Ho$ _hmZ gm{hÀ`H$ma _mZb Om hH$@ü& BZH$a gd©lo> J´›W Ho$ Zm_ \"am_M[aV_mZg' hoü& VwbgrXmg Ho$ Amam‹` lram_ hb@ü& VwbgrXmg Hw$b {_bmHo$ ~mah J´›W Ho$ aMZm H°$bH$@ hoü& BZH$a _hmH$mÏ` \"am_M[aV_mZg' Ho$ {h›Xr Ho$ gd©lo> _hmH$mÏ` _mZb Omhoü& EH$a ~mX O`eßH$a ‡gmX Ho$ ¤mam {bIb \"H$m_m`Zr' Ho$ ÒWmZ Xob Omhoü& \"am_M[aV_mZg' _| gmV H$mS> ho Amd \"H$m_m`Zr' _| n›–h gJ© hoü& n{hbm gJ© Ho$ Zm_ \"{M›Vm' ho Amd Aß{V_ gJ© Ho$ Zm_ \"AmZ›X' hoü& \"H$m_m`Zr' _| ~Vmdb Job ho {H$ O~ VH$ AmX_r AnZ OrdZ _| ˆX` Amd ~w{’ççXwZhˇ Ho$ Zƒm AnZmdV, V~ VH$ AmoH$a {O›XJr _| AmZ›X Ho$ ‡m{· Zƒm hmodVü& B EH$a g~go ~ãS>Jmo g›Xoe hoü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "120",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q083",
+        "source_excerpt": "120. OrdZ _| g~go ~ãS>Jmo MrO ho (A) XmZdVm (B) _mZdVm (C) gßdoXZhrZVm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm J⁄mßeçç4 JmoÒdm_r VwbgrXmg Xw{Z`m Ho$ _hmZ gm{hÀ`H$ma _mZb Om hH$@ü& BZH$a gd©lo> J´›W Ho$ Zm_ \"am_M[aV_mZg' hoü& VwbgrXmg Ho$ Amam‹` lram_ hb@ü& VwbgrXmg Hw$b {_bmHo$ ~mah J´›W Ho$ aMZm H°$bH$@ hoü& BZH$a _hmH$mÏ` \"am_M[aV_mZg' Ho$ {h›Xr Ho$ gd©lo> _hmH$mÏ` _mZb Omhoü& EH$a ~mX O`eßH$a ‡gmX Ho$ ¤mam {bIb \"H$m_m`Zr' Ho$ ÒWmZ Xob Omhoü& \"am_M[aV_mZg' _| gmV H$mS> ho Amd \"H$m_m`Zr' _| n›–h gJ© hoü& n{hbm gJ© Ho$ Zm_ \"{M›Vm' ho Amd Aß{V_ gJ© Ho$ Zm_ \"AmZ›X' hoü& \"H$m_m`Zr' _| ~Vmdb Job ho {H$ O~ VH$ AmX_r AnZ OrdZ _| ˆX` Amd ~w{’ççXwZhˇ Ho$ Zƒm AnZmdV, V~ VH$ AmoH$a {O›XJr _| AmZ›X Ho$ ‡m{· Zƒm hmodVü& B EH$a g~go ~ãS>Jmo g›Xoe hoü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q084",
+      "question_number": "125",
+      "question_text": "OrdZ _| AmZ›X Ho$ ‡m{· Ho$ {bE OÍ$aV ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 27 [ P.T.O. 24/HV/M–2023–07/S5 (HS)/231-A 28 {ZX}e (‡ÌZ gßª`m 126 go 130 VH$) : Bhm± nm±M gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H°$b Om`ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "125",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q084",
+        "source_excerpt": "125. OrdZ _| AmZ›X Ho$ ‡m{· Ho$ {bE OÍ$aV ho (A) Ho$db ~w{’ Ho$ (B) ˆX` Amd ~w{’ Ho$ (C) Ho$db ˆX` Ho$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 27 [ P.T.O. 24/HV/M–2023–07/S5 (HS)/231-A 28 {ZX}e (‡ÌZ gßª`m 126 go 130 VH$) : Bhm± nm±M gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H°$b Om`ü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q085",
+      "question_number": "130",
+      "question_text": "\"^mar' Ho$ {dnarVmW©H$ g~X hmodo ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e (‡ÌZ gßª`m 131 go 135 VH$) : Bhm± nm±M gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H°$b Om`ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "130",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q085",
+        "source_excerpt": "130. \"^mar' Ho$ {dnarVmW©H$ g~X hmodo ho (A) dOZr (B) H$_ (C) hÎH$m (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm {ZX}e (‡ÌZ gßª`m 131 go 135 VH$) : Bhm± nm±M gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H°$b Om`ü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q086",
+      "question_number": "135",
+      "question_text": "\"JmN>' g~X Ho$ n`m©`dmMr g~X ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e (‡ÌZ gßª`m 136 go 145 VH$) : Bhm± Xg gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H$`b Om`ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "135",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q086",
+        "source_excerpt": "135. \"JmN>' g~X Ho$ n`m©`dmMr g~X ho (A) noãS> (B) g°H$V (C) aoV (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm {ZX}e (‡ÌZ gßª`m 136 go 145 VH$) : Bhm± Xg gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H$`b Om`ü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q087",
+      "question_number": "138",
+      "question_text": "\"AßYãS> _| ~Jwbm Ho$ dmg (~mh)' Ho$ ghr AW© ho",
+      "options": [
+        {
+          "label": "A",
+          "text": "~g Z Mbo"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "138",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q087",
+        "source_excerpt": "138. \"AßYãS> _| ~Jwbm Ho$ dmg (~mh)' Ho$ ghr AW© ho (A) ^mar CÀnmV _| H$_Omoa ‡mZr Ho$ Hw$N> ^r ~g Z Mbo (B) Am±Yr Am°a ~Jwbm _| bãS>mB© hmodo ho (C) Am±Yr-nmZr H$m Am OmZm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q088",
+      "question_number": "139",
+      "question_text": "\"AﬂnZ _w±h {_`m±-{_∆z> ~ZZm' Ho$ ghr AW© ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "139",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q088",
+        "source_excerpt": "139. \"AﬂnZ _w±h {_`m±-{_∆z> ~ZZm' Ho$ ghr AW© ho (A) AﬂnZ _w±h _| _rR>m S>mbZm (B) AﬂnZ _w±h go _rR>m {ZH$mbZm (C) AﬂnZ ~ãS>mB© AnZo H$aHo$ AmXa MmhZm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q089",
+      "question_number": "140",
+      "question_text": "\"AﬂnZ S>\\$br AﬂnZ amJ' Ho$ ghr AW© ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "140",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q089",
+        "source_excerpt": "140. \"AﬂnZ S>\\$br AﬂnZ amJ' Ho$ ghr AW© ho (A) EH$ _V hmoHo$ H$m_ Z H$aZm (B) T>mob ~OmZm (C) S>\\$br ~OmZm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q090",
+      "question_number": "142",
+      "question_text": "\"nmam Ja_ ^ob' Ho$ ghr AW© ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "24/HV/M–2023–07/S5 (HS)/231-A 29 [ P.T.O. 24/HV/M–2023–07/S5 (HS)/231-A 30"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "142",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q090",
+        "source_excerpt": "142. \"nmam Ja_ ^ob' Ho$ ghr AW© ho (A) {I{gAm`b (B) Iwe hmo`b (C) ~aVZ Ja_ hmo Job (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm 24/HV/M–2023–07/S5 (HS)/231-A 29 [ P.T.O. 24/HV/M–2023–07/S5 (HS)/231-A 30"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q091",
+      "question_number": "144",
+      "question_text": "\"A~ V~ hmoZm' Ho$ ghr AW© ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "144",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q091",
+        "source_excerpt": "144. \"A~ V~ hmoZm' Ho$ ghr AW© ho (A) _ao Ho$ hmbV _| hmo`b (B) _a Job (C) _a H$aHo$ Mbo OmZm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q092",
+      "question_number": "145",
+      "question_text": "\"EH$ go EH$Bg hmo`b' Ho$ ghr AW© ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{ZX}e (‡ÌZ gßª`m 146 go 150 VH$) : Bhm± nm±M gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H$`b Om`ü&"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "145",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q092",
+        "source_excerpt": "145. \"EH$ go EH$Bg hmo`b' Ho$ ghr AW© ho (A) EH$ AmX_r go EH$Bg Jmo hmo Job (B) bJmVma ~ãT>moVar ^ob (C) Ï`mnma _| hm[Z hmob (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm {ZX}e (‡ÌZ gßª`m 146 go 150 VH$) : Bhm± nm±M gdmb hoü& ha gdmb Ho$ Odm~ _| nm±M {dH$În ho OoH$am _| go (A), (B), (C), (D) AmC (E) _| go H$moB© EJmo Odm~ Ho$ Í$n _| CŒma-nÃH$ _| {M{ïV H$`b Om`ü&"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q093",
+      "question_number": "147",
+      "question_text": "\"H$[a`m Hw$Vm' _| {~goÒ` ho",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "147",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q093",
+        "source_excerpt": "147. \"H$[a`m Hw$Vm' _| {~goÒ` ho (A) H$[a`m (B) Hw$Vm (C) H$[a`m Hw$Vm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi-q094",
+      "question_number": "150",
+      "question_text": "\"_ZwÓ`' gßkm Ho$ H$m°Z ^oX Ho$ CXmaaU ho?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 24/HV/M–2023–07/S5 (HS)/231-A 31 [ P.T.O. 24/HV/M–2023–07 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m ^mfm, gm_m›` A‹``Z Am°a _Jhr ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Senior-Secondary-Teacher-Booklets-Magadhi.pdf",
+        "pdf_sha256": "ad8bf0e6c3d0b3d3c0a517f4153a53d0a6fd89db0f2ff1fd1db62ff017bc1041",
+        "question_label": "150",
+        "extraction_ref": "tre-2-bpsc-senior-secondary-teacher-booklets-magadhi#q094",
+        "source_excerpt": "150. \"_ZwÓ`' gßkm Ho$ H$m°Z ^oX Ho$ CXmaaU ho? (A) Om{VdmMH$ (B) ^mddmMH$ (C) –Ï`dmMH$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$mo` Zƒm SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 24/HV/M–2023–07/S5 (HS)/231-A 31 [ P.T.O. 24/HV/M–2023–07 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m ^mfm, gm_m›` A‹``Z Am°a _Jhr ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+      }
+    }
+  ]
+}

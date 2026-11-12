@@ -1,0 +1,3918 @@
+{
+  "metadata": {
+    "exam": "TRE-2",
+    "exam_year": 2023,
+    "subject": "TGT Sanskrit",
+    "class_band": "9-10",
+    "shift": null,
+    "frontend_category": "subject",
+    "frontend_subject": "TGT Sanskrit",
+    "source_file": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+    "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+    "extracted_at": "2026-11-09T01:19:56.868Z",
+    "extracted_text_pages": 33
+  },
+  "questions": [
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q001",
+      "question_number": "1",
+      "question_text": "In this school, all _____ students are given free education.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "1",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q001",
+        "source_excerpt": "1. In this school, all _____ students are given free education. (A) an (B) a (C) the (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q002",
+      "question_number": "2",
+      "question_text": "I have a friend in Mumbai who is _____ actress.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "2",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q002",
+        "source_excerpt": "2. I have a friend in Mumbai who is _____ actress. (A) a (B) an (C) the (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q003",
+      "question_number": "3",
+      "question_text": "Which of the following is not a river?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "3",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q003",
+        "source_excerpt": "3. Which of the following is not a river? (A) Bay of Bengal (B) Godavari (C) Ganga (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q004",
+      "question_number": "4",
+      "question_text": "Which of the following is not a part of drawing room?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "4",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q004",
+        "source_excerpt": "4. Which of the following is not a part of drawing room? (A) Washing machine (B) Chimney (C) Sofa set (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q005",
+      "question_number": "5",
+      "question_text": "Today is Sunday. The day before yesterday was",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "5",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q005",
+        "source_excerpt": "5. Today is Sunday. The day before yesterday was (A) Tuesday (B) Friday (C) Thursday (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q006",
+      "question_number": "6",
+      "question_text": "November comes after the month of",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "6",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q006",
+        "source_excerpt": "6. November comes after the month of (A) September (B) December (C) January (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q007",
+      "question_number": "7",
+      "question_text": "Husband’s brother is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "7",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q007",
+        "source_excerpt": "7. Husband’s brother is (A) cousin (B) son (C) brother-in-law (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q008",
+      "question_number": "8",
+      "question_text": "Mother’s parents are",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 2"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "8",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q008",
+        "source_excerpt": "8. Mother’s parents are (A) son-in-laws (B) maternal grandparents (C) paternal grandparents (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 2"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q009",
+      "question_number": "9",
+      "question_text": "{ZÂZ{b{IV _| go H$m°Z-gm \"‡À``-a{hV' e„X h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "9",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q009",
+        "source_excerpt": "9. {ZÂZ{b{IV _| go H$m°Z-gm \"‡À``-a{hV' e„X h°? (A) PwH$md (B) ^md{dàb (C) CÑoIZr` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q010",
+      "question_number": "10",
+      "question_text": "^mfm H$s Cn`w∫$ n[a^mfm h°",
+      "options": [
+        {
+          "label": "A",
+          "text": "‹d{Zg_yh ^mfm H$hbmVm h°"
+        },
+        {
+          "label": "B",
+          "text": "H$aZo H$mo ^mfm H$hVo h¢"
+        },
+        {
+          "label": "C",
+          "text": "^mfm h°"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "10",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q010",
+        "source_excerpt": "10. ^mfm H$s Cn`w∫$ n[a^mfm h° (A) {dMma `m ^md ‡H$Q> H$aZo dmbm gmW©H$ ‹d{Zg_yh ^mfm H$hbmVm h° (B) {dMma `m ^md H$mo {b{n-{Mïm| _| ‡H$Q> H$aZo H$mo ^mfm H$hVo h¢ (C) {dMma `m ^md ‡H$Q> H$aZo H$m gmYZ ^mfm h° (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q011",
+      "question_number": "14",
+      "question_text": "\"AÎn‡mU' ‹d{Z H$m°Z-gr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "14",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q011",
+        "source_excerpt": "14. \"AÎn‡mU' ‹d{Z H$m°Z-gr h°? (A) I (B) M (C) N> (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q012",
+      "question_number": "16",
+      "question_text": "Òneu Ï`ßOZ h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 3 [ P. T. O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "16",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q012",
+        "source_excerpt": "16. Òneu Ï`ßOZ h° (A) n (B) \\$ (C) _ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 23/MAV/M–2023–05/S3 (S)/112-A 3 [ P. T. O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q013",
+      "question_number": "17",
+      "question_text": "\"A{æ' e„X H$m {deofU h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "17",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q013",
+        "source_excerpt": "17. \"A{æ' e„X H$m {deofU h° (A) AmJ•hr (B) Amæo` (C) Am{æH$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q014",
+      "question_number": "24",
+      "question_text": "aMZm Ho$ AmYma na H$m°Z-gm {dH$În dmä` H$m ^oX Zht h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 4"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "24",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q014",
+        "source_excerpt": "24. aMZm Ho$ AmYma na H$m°Z-gm {dH$În dmä` H$m ^oX Zht h°? (A) Cndmä` (B) gab dmä` (C) gß`w∫$ dmä` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 23/MAV/M–2023–05/S3 (S)/112-A 4"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q015",
+      "question_number": "30",
+      "question_text": "\"\"C{XV CX`{J[a _ßM na aKwda ~mb nVßJü& {~H$go gßV gamoO g~ hafo bmoMZ ^•ßJü&&'' Cn`w©∫$ Xmoho _| H$m°Z-gm AbßH$ma h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 5 [ P. T. O. PART—II ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "30",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q015",
+        "source_excerpt": "30. \"\"C{XV CX`{J[a _ßM na aKwda ~mb nVßJü& {~H$go gßV gamoO g~ hafo bmoMZ ^•ßJü&&'' Cn`w©∫$ Xmoho _| H$m°Z-gm AbßH$ma h°? (A) Í$nH$ (B) Cn_m (C) CÀ‡ojm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 23/MAV/M–2023–05/S3 (S)/112-A 5 [ P. T. O. PART—II ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q016",
+      "question_number": "31",
+      "question_text": "The cost of 5 bats and 18 balls is R6,500 and the cost of 2 bats and 20 balls is R4,200. What are the costs of one bat and one ball respectively?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "31",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q016",
+        "source_excerpt": "31. The cost of 5 bats and 18 balls is R6,500 and the cost of 2 bats and 20 balls is R4,200. What are the costs of one bat and one ball respectively? (A) R850, R125 (B) R630, R115 (C) R780, R150 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q017",
+      "question_number": "32",
+      "question_text": "A shopkeeper purchases an item at R615 and sells it at R820. What is his percentage profit?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "32",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q017",
+        "source_excerpt": "32. A shopkeeper purchases an item at R615 and sells it at R820. What is his percentage profit? (A) 25% (B) 33·33% (C) 35·50% (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q018",
+      "question_number": "33",
+      "question_text": "A hacker finds that the ATM PIN of a person has first two digits ranging from 3 to 8, and the fourth digit is either 0 or 9. How many attempts must the hacker try in order to decode the PIN?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "33",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q018",
+        "source_excerpt": "33. A hacker finds that the ATM PIN of a person has first two digits ranging from 3 to 8, and the fourth digit is either 0 or 9. How many attempts must the hacker try in order to decode the PIN? (A) 48 (B) 24 (C) 720 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q019",
+      "question_number": "34",
+      "question_text": "The lengths of two sides of a triangle are 8 cm and 9 cm, and its area is 12 5 2 cm . What is the length of the third side?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "34",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q019",
+        "source_excerpt": "34. The lengths of two sides of a triangle are 8 cm and 9 cm, and its area is 12 5 2 cm . What is the length of the third side? (A) 5 cm (B) 9 cm (C) 7 cm (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q020",
+      "question_number": "35",
+      "question_text": "There are 50 numbers. Each number is subtracted from 53, and the mean of the numbers so obtained is found to be - × 3 5. The mean of the given numbers is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 6 23/MAV/M–2023–05/S3 (S)/112-A 7 [ P.T.O. PART—II ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "35",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q020",
+        "source_excerpt": "35. There are 50 numbers. Each number is subtracted from 53, and the mean of the numbers so obtained is found to be - × 3 5. The mean of the given numbers is (A) 56·5 (B) 53·5 (C) 49·5 (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 6 23/MAV/M–2023–05/S3 (S)/112-A 7 [ P.T.O. PART—II ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q021",
+      "question_number": "31",
+      "question_text": "5 ~Ñm| Am°a 18 J|Xm| H$s H$s_V R6,500 h° VWm 2 ~Ñm| Am°a 20 J|Xm| H$s H$s_V R4,200 h°ü& EH$ ~Ñm Am°a EH$ J|X H$s H$s_V| h¢, H´$_eÖ",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "31",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q021",
+        "source_excerpt": "31. 5 ~Ñm| Am°a 18 J|Xm| H$s H$s_V R6,500 h° VWm 2 ~Ñm| Am°a 20 J|Xm| H$s H$s_V R4,200 h°ü& EH$ ~Ñm Am°a EH$ J|X H$s H$s_V| h¢, H´$_eÖ (A) R850, R125 (B) R630, R115 (C) R780, R150 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q022",
+      "question_number": "32",
+      "question_text": "EH$ XwH$mZXma {H$gr dÒVw H$mo R615 _| IarXVm h° Am°a Cgo R820 _| ~oM XoVm h°ü& CgH$m ‡{VeV _wZmµ\\$m {H$VZm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "32",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q022",
+        "source_excerpt": "32. EH$ XwH$mZXma {H$gr dÒVw H$mo R615 _| IarXVm h° Am°a Cgo R820 _| ~oM XoVm h°ü& CgH$m ‡{VeV _wZmµ\\$m {H$VZm h°? (A) 25% (B) 33·33% (C) 35·50% (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q023",
+      "question_number": "33",
+      "question_text": "EH$ h°H$a nVm bJmVm h° {H$ EH$ Ï`{∫$ Ho$ ATM PIN Ho$ nhbo Xmo AßH$ 3 go 8 VH$ H$s gßª`mAm| _| go h°ß, Am°a Mm°Wm AßH$ 0 `m 9 h°ü& Cg h°H$a H$mo PIN H$m nVm H$aZo Ho$ {bE {H$VZo ‡`mg H$aZo nãS>oßJo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "33",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q023",
+        "source_excerpt": "33. EH$ h°H$a nVm bJmVm h° {H$ EH$ Ï`{∫$ Ho$ ATM PIN Ho$ nhbo Xmo AßH$ 3 go 8 VH$ H$s gßª`mAm| _| go h°ß, Am°a Mm°Wm AßH$ 0 `m 9 h°ü& Cg h°H$a H$mo PIN H$m nVm H$aZo Ho$ {bE {H$VZo ‡`mg H$aZo nãS>oßJo? (A) 48 (B) 24 (C) 720 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q024",
+      "question_number": "34",
+      "question_text": "EH$ {Ã^wO H$s Xmo ^wOmAm| H$s bß~mB`m± 8 go0 _r0 Am°a 9 go0 _r0 h¢ VWm BgH$m joÃ\\$b 12 5 dJ© go0 _r0 h°ü& BgH$s Vrgar ^wOm H$s bß~mB© ä`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "34",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q024",
+        "source_excerpt": "34. EH$ {Ã^wO H$s Xmo ^wOmAm| H$s bß~mB`m± 8 go0 _r0 Am°a 9 go0 _r0 h¢ VWm BgH$m joÃ\\$b 12 5 dJ© go0 _r0 h°ü& BgH$s Vrgar ^wOm H$s bß~mB© ä`m h°? (A) 5 go0 _r0 (B) 9 go0 _r0 (C) 7 go0 _r0 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q025",
+      "question_number": "35",
+      "question_text": "50 gßª`mE± Xr h˛B© h°ßü& ‡À`oH$ gßª`m H$mo 53 go KQ>m`m J`m h° Am°a Bg Vah ‡m· gßª`mAm| H$m _m‹` - × 3 5 h°ü& Xr JB© gßª`mAm| H$m _m‹` h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "35",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q025",
+        "source_excerpt": "35. 50 gßª`mE± Xr h˛B© h°ßü& ‡À`oH$ gßª`m H$mo 53 go KQ>m`m J`m h° Am°a Bg Vah ‡m· gßª`mAm| H$m _m‹` - × 3 5 h°ü& Xr JB© gßª`mAm| H$m _m‹` h° (A) 56·5 (B) 53·5 (C) 49·5 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q026",
+      "question_number": "36",
+      "question_text": "The ratio of the ages of two brothers is 4 : 3. If the elder brother is 6 years older than the younger one, then their ages (in years) are",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "36",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q026",
+        "source_excerpt": "36. The ratio of the ages of two brothers is 4 : 3. If the elder brother is 6 years older than the younger one, then their ages (in years) are (A) 24, 18 (B) 36, 30 (C) 15, 9 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q027",
+      "question_number": "37",
+      "question_text": "The value of 1 1 2 1 1 3 1 1 4 1 1 - æ è ç ö ø ÷ - æ è ç ö ø ÷ - æ è ç ö ø ÷ - æ è ç ö ø ÷ L n is",
+      "options": [
+        {
+          "label": "A",
+          "text": "n -1"
+        },
+        {
+          "label": "B",
+          "text": "n"
+        },
+        {
+          "label": "C",
+          "text": "1 n +"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "37",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q027",
+        "source_excerpt": "37. The value of 1 1 2 1 1 3 1 1 4 1 1 - æ è ç ö ø ÷ - æ è ç ö ø ÷ - æ è ç ö ø ÷ - æ è ç ö ø ÷ L n is (A) n n -1 (B) 1 n (C) 1 1 n + (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q028",
+      "question_number": "38",
+      "question_text": "The quadratic equation with roots -1 and 4 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 4 0 - - ="
+        },
+        {
+          "label": "B",
+          "text": "3 3 0 + + ="
+        },
+        {
+          "label": "C",
+          "text": "4 1 0 - + ="
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "38",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q028",
+        "source_excerpt": "38. The quadratic equation with roots -1 and 4 is (A) x x 2 3 4 0 - - = (B) x x 2 3 3 0 + + = (C) x x 2 4 1 0 - + = (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q029",
+      "question_number": "39",
+      "question_text": "The Sun observation point of Aditya-L1 satellite is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "39",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q029",
+        "source_excerpt": "39. The Sun observation point of Aditya-L1 satellite is (A) L1 (B) L2 (C) L3 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q030",
+      "question_number": "40",
+      "question_text": "Ginger is an underground stem and not a root because",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "nodes"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "40",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q030",
+        "source_excerpt": "40. Ginger is an underground stem and not a root because (A) it stores food material (B) it has nodes and inter- nodes (C) it lacks chlorophyll (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q031",
+      "question_number": "41",
+      "question_text": "The focal length of a convex lens is fL = 10 cm. On immersing in water, it will act as a",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 8 23/MAV/M–2023–05/S3 (S)/112-A 9 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "41",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q031",
+        "source_excerpt": "41. The focal length of a convex lens is fL = 10 cm. On immersing in water, it will act as a (A) convex lens of fL = 10 cm (B) concave lens of fL = 10 cm (C) convex lens of fL > 10 cm (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 8 23/MAV/M–2023–05/S3 (S)/112-A 9 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q032",
+      "question_number": "38",
+      "question_text": "_ybm| -1 Am°a 4 dmbm {¤KmV g_rH$aU h°",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 4 0 - - ="
+        },
+        {
+          "label": "B",
+          "text": "3 3 0 + + ="
+        },
+        {
+          "label": "C",
+          "text": "4 1 0 - + ="
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "38",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q032",
+        "source_excerpt": "38. _ybm| -1 Am°a 4 dmbm {¤KmV g_rH$aU h° (A) x x 2 3 4 0 - - = (B) x x 2 3 3 0 + + = (C) x x 2 4 1 0 - + = (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q033",
+      "question_number": "42",
+      "question_text": "Though water is transparent to visible light, it is not possible to see distant objects in fog which consists of fine drops of water. This is so because",
+      "options": [
+        {
+          "label": "A",
+          "text": "opaque to visible light"
+        },
+        {
+          "label": "B",
+          "text": "to create apparent opacity"
+        },
+        {
+          "label": "C",
+          "text": "internal reflection and so unable to reach observer’s eyes"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "42",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q033",
+        "source_excerpt": "42. Though water is transparent to visible light, it is not possible to see distant objects in fog which consists of fine drops of water. This is so because (A) fine drops of water are opaque to visible light (B) most of the light is scattered to create apparent opacity (C) light rays suffer total internal reflection and so unable to reach observer’s eyes (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q034",
+      "question_number": "43",
+      "question_text": "Monochromatic light enters from one medium to the other. Which one of the following properties does not change?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "43",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q034",
+        "source_excerpt": "43. Monochromatic light enters from one medium to the other. Which one of the following properties does not change? (A) Frequency (B) Amplitude (C) Velocity (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q035",
+      "question_number": "44",
+      "question_text": "The speed of an electron in the orbit of the hydrogen atom in the ground state is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "44",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q035",
+        "source_excerpt": "44. The speed of an electron in the orbit of the hydrogen atom in the ground state is (A) c (B) c/2 (C) c/137 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q036",
+      "question_number": "45",
+      "question_text": "A blackbody radiates energy at the rate of E watt per metre2 at a high temperature T K. When the temperature is reduced to T /3 K, the radiant energy (in watt per metre2 ) will be",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "45",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q036",
+        "source_excerpt": "45. A blackbody radiates energy at the rate of E watt per metre2 at a high temperature T K. When the temperature is reduced to T /3 K, the radiant energy (in watt per metre2 ) will be (A) E /16 (B) E /27 (C) E /81 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q037",
+      "question_number": "46",
+      "question_text": "The acid which can destroy the colour of acidic KMnO4 is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 10 23/MAV/M–2023–05/S3 (S)/112-A 11 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "46",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q037",
+        "source_excerpt": "46. The acid which can destroy the colour of acidic KMnO4 is (A) CH COOH 3 (B) C H O 6 8 7 (C) CH CH COOH 3 2 (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 10 23/MAV/M–2023–05/S3 (S)/112-A 11 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q038",
+      "question_number": "42",
+      "question_text": "hmbm±{H$ —Ì` ‡H$me _| Ob nmaXe©H$ hmoVm h°, XyaÒW dÒVwAm| H$mo Ob H$s _hrZ ~y±Xm| go {Z{_©V H$mohao _| Zht XoIm Om gH$Vmü& `h Bg{bE hmoVm h°, ä`m|{H$",
+      "options": [
+        {
+          "label": "A",
+          "text": "AnmaXeu hmoVr h°ß"
+        },
+        {
+          "label": "B",
+          "text": "AÒnÔ>Vm {Z{_©V H$aVm h°"
+        },
+        {
+          "label": "C",
+          "text": "hmoZo go do ‡ojH$ H$s Am±Im| VH$ Zht nh˛±M nmVr h°ß"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "42",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q038",
+        "source_excerpt": "42. hmbm±{H$ —Ì` ‡H$me _| Ob nmaXe©H$ hmoVm h°, XyaÒW dÒVwAm| H$mo Ob H$s _hrZ ~y±Xm| go {Z{_©V H$mohao _| Zht XoIm Om gH$Vmü& `h Bg{bE hmoVm h°, ä`m|{H$ (A) —Ì` ‡H$me _| Ob H$s _hrZ ~y±Xßo AnmaXeu hmoVr h°ß (B) A{YH$Va ‡H$me {~IaH$a Am^mgr AÒnÔ>Vm {Z{_©V H$aVm h° (C) ‡H$me {H$aUm| H$m nyU© AmßV[aH$ namdV©Z hmoZo go do ‡ojH$ H$s Am±Im| VH$ Zht nh˛±M nmVr h°ß (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q039",
+      "question_number": "45",
+      "question_text": "EH$ H•$pÓUH$m EH$ CÉ VmnH´$_ T K na E dmQ> ‡{V dJ© _rQ>a H$s Xa go D$Om© H$m {d{H$aU H$aVr h°ü& O~ T /3 K VmnH´$_ H$a {X`m OmE, Vmo {d{H$[aV D$Om© (dmQ> ‡{V dJ© _rQ>a _|) hmoJr",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "45",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q039",
+        "source_excerpt": "45. EH$ H•$pÓUH$m EH$ CÉ VmnH´$_ T K na E dmQ> ‡{V dJ© _rQ>a H$s Xa go D$Om© H$m {d{H$aU H$aVr h°ü& O~ T /3 K VmnH´$_ H$a {X`m OmE, Vmo {d{H$[aV D$Om© (dmQ> ‡{V dJ© _rQ>a _|) hmoJr (A) E /16 (B) E /27 (C) E /81 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q040",
+      "question_number": "46",
+      "question_text": "AÂb, Omo AÂbr` KMnO4 H$m aßJ ZÔ> H$a gH$Vm h°, h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 12"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "46",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q040",
+        "source_excerpt": "46. AÂb, Omo AÂbr` KMnO4 H$m aßJ ZÔ> H$a gH$Vm h°, h° (A) CH COOH 3 (B) C H O 6 8 7 (C) CH CH COOH 3 2 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 23/MAV/M–2023–05/S3 (S)/112-A 12"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q041",
+      "question_number": "47",
+      "question_text": "Who was the writer of ‘Banglar Mati, Banglar Jal’, which was originally a protest song against the Partition of Bengal in 1905 by Lord Curzon, and for which the West Bengal Assembly passed a resolution as the new State Anthem recently?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "47",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q041",
+        "source_excerpt": "47. Who was the writer of ‘Banglar Mati, Banglar Jal’, which was originally a protest song against the Partition of Bengal in 1905 by Lord Curzon, and for which the West Bengal Assembly passed a resolution as the new State Anthem recently? (A) Kazi Nazrul Islam (B) Rabindranath Tagore (C) Sukanta Bhattacharya (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q042",
+      "question_number": "48",
+      "question_text": "Who is the architect of the new Parliament of India building inaugurated recently?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "48",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q042",
+        "source_excerpt": "48. Who is the architect of the new Parliament of India building inaugurated recently? (A) Bimal Patel (B) Rahul Mehrotra (C) Yogesh Kapoor (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q043",
+      "question_number": "49",
+      "question_text": "Which one of the following Indian films was screened at the 76th Cannes Film Festival in May 2023?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "49",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q043",
+        "source_excerpt": "49. Which one of the following Indian films was screened at the 76th Cannes Film Festival in May 2023? (A) Anurag Kashyap’s Kennedy (B) Kanu Behl’s Agra (C) Neeraj Pandey’s Khakee (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q044",
+      "question_number": "50",
+      "question_text": "Azali Assoumani, who attended the G20 Summit in New Delhi as the current Chairperson of the African Union which has become the newest member of G20, is the President of which country in the African Union?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "50",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q044",
+        "source_excerpt": "50. Azali Assoumani, who attended the G20 Summit in New Delhi as the current Chairperson of the African Union which has become the newest member of G20, is the President of which country in the African Union? (A) Republic of the Congo (B) Gabon (C) Comoros (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q045",
+      "question_number": "51",
+      "question_text": "When is the ‘Human Rights Day’ celebrated annually?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 13 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "51",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q045",
+        "source_excerpt": "51. When is the ‘Human Rights Day’ celebrated annually? (A) 10th November (B) 10th December (C) 24th October (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 13 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q046",
+      "question_number": "47",
+      "question_text": "\"~mßΩbma _mQ>r, ~mßΩbma Ob' Ho$ boIH$ H$m°Z Wo, Omo _yb Í$n go 1905 _| bm∞S>© H$O©Z ¤mam ~ßJmb Ho$ {d^mOZ Ho$ {Ibm\\$ EH$ {damoY-JrV Wm, Am°a {OgHo$ {bE npÌM_ ~ßJmb {dYmZ g^m Zo hmb hr _| ZE am¡` JmZ Ho$ Í$n _| EH$ ‡ÒVmd nm[aV {H$`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "47",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q046",
+        "source_excerpt": "47. \"~mßΩbma _mQ>r, ~mßΩbma Ob' Ho$ boIH$ H$m°Z Wo, Omo _yb Í$n go 1905 _| bm∞S>© H$O©Z ¤mam ~ßJmb Ho$ {d^mOZ Ho$ {Ibm\\$ EH$ {damoY-JrV Wm, Am°a {OgHo$ {bE npÌM_ ~ßJmb {dYmZ g^m Zo hmb hr _| ZE am¡` JmZ Ho$ Í$n _| EH$ ‡ÒVmd nm[aV {H$`m h°? (A) H$mOr ZOÍ$b BÒbm_ (B) adr›–ZmW Q>°Jmoa (C) gwH$mßV ^≈>mMm`© (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q047",
+      "question_number": "50",
+      "question_text": "AµOmbr Agm°_mZr, {O›hm|Zo A\\´$sH$s gßK Ho$ dV©_mZ A‹`j Ho$ Í$n _| ZB© {XÑr _| G20 {eIa gÂ_obZ _| ^mJ {b`m, Omo G20 H$m g~go Z`m gXÒ` ~Z J`m h°, do A\\´$sH$s gßK Ho$ {H$g Xoe Ho$ amÔ¥>n{V h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "50",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q047",
+        "source_excerpt": "50. AµOmbr Agm°_mZr, {O›hm|Zo A\\´$sH$s gßK Ho$ dV©_mZ A‹`j Ho$ Í$n _| ZB© {XÑr _| G20 {eIa gÂ_obZ _| ^mJ {b`m, Omo G20 H$m g~go Z`m gXÒ` ~Z J`m h°, do A\\´$sH$s gßK Ho$ {H$g Xoe Ho$ amÔ¥>n{V h¢? (A) H$mßJmo JUam¡` (B) J°~Z (C) H$mo_moamog (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q048",
+      "question_number": "51",
+      "question_text": "\"_mZd A{YH$ma {Xdg' ‡{Vdf© H$~ _Zm`m OmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 14"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "51",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q048",
+        "source_excerpt": "51. \"_mZd A{YH$ma {Xdg' ‡{Vdf© H$~ _Zm`m OmVm h°? (A) 10 ZdÂ~a (B) 10 {XgÂ~a (C) 24 A∫y$~a (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 23/MAV/M–2023–05/S3 (S)/112-A 14"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q049",
+      "question_number": "52",
+      "question_text": "Who was the founder of ‘Indian National Army (INA)’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "52",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q049",
+        "source_excerpt": "52. Who was the founder of ‘Indian National Army (INA)’? (A) Subhash Chandra Bose (B) Mohan Singh (C) Lala Lajpat Rai (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q050",
+      "question_number": "53",
+      "question_text": "‘ Tana Bhagat Movement’ was related to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "53",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q050",
+        "source_excerpt": "53. ‘ Tana Bhagat Movement’ was related to (A) Dalit Movement (B) Tribal Movement (C) Peasant Movement (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q051",
+      "question_number": "54",
+      "question_text": "In which State is ‘Raksha Bandhan’ celebrated as ‘ Tree Safety Day’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "54",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q051",
+        "source_excerpt": "54. In which State is ‘Raksha Bandhan’ celebrated as ‘ Tree Safety Day’? (A) Madhya Pradesh (B) Uttar Pradesh (C) Bihar (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q052",
+      "question_number": "55",
+      "question_text": "In which of the following states is black soil found?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "55",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q052",
+        "source_excerpt": "55. In which of the following states is black soil found? (A) Karnataka (B) Gujarat (C) Uttarakhand (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q053",
+      "question_number": "56",
+      "question_text": "How many types of species of flora and fauna are there in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "47000 species of flora"
+        },
+        {
+          "label": "B",
+          "text": "50000 species of flora"
+        },
+        {
+          "label": "C",
+          "text": "40000 species of flora"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 15 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "56",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q053",
+        "source_excerpt": "56. How many types of species of flora and fauna are there in India? (A) 81000 species of fauna and 47000 species of flora (B) 70000 species of fauna and 50000 species of flora (C) 50000 species of fauna and 40000 species of flora (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 15 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q054",
+      "question_number": "56",
+      "question_text": "^maVdf© _| dZÒn{V Edß Ordm| H$s {H$VZr ‡Om{V nmB© OmVr h°ß?",
+      "options": [
+        {
+          "label": "A",
+          "text": "47000 ‡Om{V dZÒn{V H$s"
+        },
+        {
+          "label": "B",
+          "text": "50000 ‡Om{V dZÒn{V H$s"
+        },
+        {
+          "label": "C",
+          "text": "40000 ‡Om{V dZÒn{V H$s"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 16"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "56",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q054",
+        "source_excerpt": "56. ^maVdf© _| dZÒn{V Edß Ordm| H$s {H$VZr ‡Om{V nmB© OmVr h°ß? (A) 81000 ‡Om{V Ordm| H$s Edß 47000 ‡Om{V dZÒn{V H$s (B) 70000 ‡Om{V Ordm| H$s Edß 50000 ‡Om{V dZÒn{V H$s (C) 50000 ‡Om{V Ordm| H$s Edß 40000 ‡Om{V dZÒn{V H$s (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 23/MAV/M–2023–05/S3 (S)/112-A 16"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q055",
+      "question_number": "57",
+      "question_text": "Minerals are deposited and accumulated in the strata of which of the following rocks?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "57",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q055",
+        "source_excerpt": "57. Minerals are deposited and accumulated in the strata of which of the following rocks? (A) Sedimentary rocks (B) Metamorphic rocks (C) Igneous rocks (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q056",
+      "question_number": "58",
+      "question_text": "Which one of the following is a leguminous crop?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "58",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q056",
+        "source_excerpt": "58. Which one of the following is a leguminous crop? (A) Pulse (B) Jowar (C) Millet (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q057",
+      "question_number": "59",
+      "question_text": "Which two of the following extreme locations are connected by the East-West Corridor?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "59",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q057",
+        "source_excerpt": "59. Which two of the following extreme locations are connected by the East-West Corridor? (A) Mumbai and Nagpur (B) Mumbai and Kolkata (C) Silchar and Porbandar (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q058",
+      "question_number": "60",
+      "question_text": "Stalactite and stalagmite structures are formed by",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "60",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q058",
+        "source_excerpt": "60. Stalactite and stalagmite structures are formed by (A) wind action (B) underground water (C) snow action (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q059",
+      "question_number": "61",
+      "question_text": "April 22 is celebrated as the",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "61",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q059",
+        "source_excerpt": "61. April 22 is celebrated as the (A) World Earth Day (B) World Health Day (C) World Ozone Day (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q060",
+      "question_number": "62",
+      "question_text": "Topographical map of India is prepared by which organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "India"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 17 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "62",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q060",
+        "source_excerpt": "62. Topographical map of India is prepared by which organization? (A) The Geological Survey of India (B) The Survey of India (C) The Zoological Survey of India (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 17 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q061",
+      "question_number": "61",
+      "question_text": "22 A‡°b H$mo {H$g Í$n _| _ZmVo h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "61",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q061",
+        "source_excerpt": "61. 22 A‡°b H$mo {H$g Í$n _| _ZmVo h¢? (A) {dÌd n•œdr {Xdg (B) {dÌd ÒdmÒœ` {Xdg (C) {dÌd AmoµOmoZ {Xdg (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q062",
+      "question_number": "62",
+      "question_text": "^maV H$m ÒWbmH•${VH$ _mZ{MÃ {H$g gßJR>Z ¤mam ~Zm`m OmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 18"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "62",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q062",
+        "source_excerpt": "62. ^maV H$m ÒWbmH•${VH$ _mZ{MÃ {H$g gßJR>Z ¤mam ~Zm`m OmVm h°? (A) ^maVr` ^yd°km{ZH$ gd}jU (B) ^maVr` gd}jU (C) ^maVr` ‡m{U gd}jU (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 23/MAV/M–2023–05/S3 (S)/112-A 18"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q063",
+      "question_number": "63",
+      "question_text": "Who first described the Revolt of 1857 as the ‘First Indian War of Independence’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "63",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q063",
+        "source_excerpt": "63. Who first described the Revolt of 1857 as the ‘First Indian War of Independence’? (A) V. D. Savarkar (B) Bal Gangadhar Tilak (C) R. C. Majumdar (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q064",
+      "question_number": "64",
+      "question_text": "Which of the following events happened first?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "64",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q064",
+        "source_excerpt": "64. Which of the following events happened first? (A) Santhal Rebellion (B) Rebellion of Birsa Munda (C) Tana Bhagat Movement (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q065",
+      "question_number": "65",
+      "question_text": "Which revolt is mentioned in Bankim Chandra Chatterjee’s novel, Anandamath?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "65",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q065",
+        "source_excerpt": "65. Which revolt is mentioned in Bankim Chandra Chatterjee’s novel, Anandamath? (A) Sannyasi (B) Pagalpanthi (C) Indigo (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q066",
+      "question_number": "66",
+      "question_text": "When were ‘Swadeshi’ and ‘Boycott’ first adopted as forms of struggle in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "66",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q066",
+        "source_excerpt": "66. When were ‘Swadeshi’ and ‘Boycott’ first adopted as forms of struggle in India? (A) Partition of Bengal (B) Home Rule Movement (C) Non-Cooperation Movement (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q067",
+      "question_number": "67",
+      "question_text": "Who was the President of the Indian National Congress at the Gaya Session of 1922?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "67",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q067",
+        "source_excerpt": "67. Who was the President of the Indian National Congress at the Gaya Session of 1922? (A) Chittaranjan Das (B) Hakim Ajmal Khan (C) Mahatma Gandhi (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q068",
+      "question_number": "68",
+      "question_text": "Who led the peasants of Bihar during the Non-Cooperation Movement?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "68",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q068",
+        "source_excerpt": "68. Who led the peasants of Bihar during the Non-Cooperation Movement? (A) Raj Kumar Shukla (B) Swami Vidyanand (C) Rajendra Prasad (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q069",
+      "question_number": "69",
+      "question_text": "Who founded Hindu College at Calcutta in 1817?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "69",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q069",
+        "source_excerpt": "69. Who founded Hindu College at Calcutta in 1817? (A) Henry Vivian Derozio (B) David Hare (C) Jonathan Duncan (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q070",
+      "question_number": "70",
+      "question_text": "Who among the following said that “Congress is to tottering to its fall and one of my great ambitions while in India is to assist it to a peaceful demise”?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 19 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "70",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q070",
+        "source_excerpt": "70. Who among the following said that “Congress is to tottering to its fall and one of my great ambitions while in India is to assist it to a peaceful demise”? (A) Dufferin (B) Minto (C) Curzon (D) More than one of the above (E) None of the above 23/MAV/M–2023–05/S3 (S)/112-A 19 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q071",
+      "question_number": "67",
+      "question_text": "1922 _|, Am`mo{OV ^maVr` amÔ¥>r` H$m±J´og Ho$ J`m A{YdoeZ Ho$ A‹`j H$m°Z Wo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "67",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q071",
+        "source_excerpt": "67. 1922 _|, Am`mo{OV ^maVr` amÔ¥>r` H$m±J´og Ho$ J`m A{YdoeZ Ho$ A‹`j H$m°Z Wo? (A) {MŒmaßOZ Xmg (B) hH$s_ AO_b òm± (C) _hmÀ_m Jm±Yr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q072",
+      "question_number": "70",
+      "question_text": "BZ_| go {H$gZo H$hm Wm {H$ \"\"H$m±J´og H$m _hb bãS>IãS>m ahm h° Am°a ^maV _| ahVo h˛E _oar EH$ ~ãS>r _hŒdmH$mßjm `h h° {H$ _¢ emp›V Ho$ gmW Bgo _aZo _| gh`moJ Xo gHy±$''?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "PART—III ( SANSKRIT )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "70",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q072",
+        "source_excerpt": "70. BZ_| go {H$gZo H$hm Wm {H$ \"\"H$m±J´og H$m _hb bãS>IãS>m ahm h° Am°a ^maV _| ahVo h˛E _oar EH$ ~ãS>r _hŒdmH$mßjm `h h° {H$ _¢ emp›V Ho$ gmW Bgo _aZo _| gh`moJ Xo gHy±$''? (A) S>\\$[aZ (B) {_›Q>mo (C) H$O©Z (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht PART—III ( SANSKRIT )"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q073",
+      "question_number": "78",
+      "question_text": "A\"Z\\\"NppÍS\"pz V\"pÂT\"¯Y\"—\"p# @u°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 20"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "78",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q073",
+        "source_excerpt": "78. A\"Z\\\"NppÍS\"pz V\"pÂT\"¯Y\"—\"p# @u°? (A) _\"z\\\"pZp S\"pQp C\"pu^\"p∆\" (B) {\\\"\\\"pZp S\"pQp C\"pu^\"p∆\" (C) {\\\"\\\"pZp# ƒ\"p_\"p ÏC\"pu^\"p∆\" (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# 23/MAV/M–2023–05/S3 (S)/112-A 20"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q074",
+      "question_number": "86",
+      "question_text": "ëÏb\"pv{`Nprí ÚOY\"e\" @°p _\"[SR\"#?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 21 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 22"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "86",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q074",
+        "source_excerpt": "86. ëÏb\"pv{`Nprí ÚOY\"e\" @°p _\"[SR\"#? (A) \\\"w{´_\"[SR\"# (B) QrC\"Í_\"[SR\"# (C) T\"t\\\"Í·°T\"_\"[SR\"# (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# 23/MAV/M–2023–05/S3 (S)/112-A 21 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 22"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q075",
+      "question_number": "94",
+      "question_text": "ëW\"tO\"T\"t\\\"Í#í ÚOY\"e\" _\"X\"p_\"{\\\"R\"pY\"@z° _\"te\"z {@°X\"o?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "94",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q075",
+        "source_excerpt": "94. ëW\"tO\"T\"t\\\"Í#í ÚOY\"e\" _\"X\"p_\"{\\\"R\"pY\"@z° _\"te\"z {@°X\"o? (A) _\"` _\"sT\"p (B) pu^\"pu V\"`l\\\"¯r{`# (C) O\"OT\"s‡^\"# (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°#"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q076",
+      "question_number": "102",
+      "question_text": "ëëÁpuNppu \\\"¯r{`#íí Ú{O\" @°_Y\" ÌQp`ZNpz \\\"O\"ÍO\"u?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 23 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 24"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "102",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q076",
+        "source_excerpt": "102. ëëÁpuNppu \\\"¯r{`#íí Ú{O\" @°_Y\" ÌQp`ZNpz \\\"O\"ÍO\"u? (A) T\"¯p{O\"T\"{Q@°pP\"ÍX\"pe\"_Y\" (B) \\\"E\"S\"X\"pe\"_Y\" (C) T\"qZX\"pNpX\"pe\"_Y\" (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# 23/MAV/M–2023–05/S3 (S)/112-A 23 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 24"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q077",
+      "question_number": "118",
+      "question_text": "T\"¯{_\"´# Y\"X\"S\"{E\"@u°O\"p_\"X\\\"pQ# @°[_X\"S\"o ÌT\"{S\"^\"{Q T\"{K>O\"pu&[_O\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 25 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 26"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "118",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q077",
+        "source_excerpt": "118. T\"¯{_\"´# Y\"X\"S\"{E\"@u°O\"p_\"X\\\"pQ# @°[_X\"S\"o ÌT\"{S\"^\"{Q T\"{K>O\"pu&[_O\"? (A) ÚÍpp\\\"p_Y\"puT\"{S\"^\"Qo (B) T\"¯S\"puT\"{S\"^\"Qo (C) @°K>puT\"{S\"^\"Qo (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# 23/MAV/M–2023–05/S3 (S)/112-A 25 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 26"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q078",
+      "question_number": "125",
+      "question_text": "ëps@°S\"p_\"puT\"Qup#í @°_Y\" ZE\"S\"p Ï[_O\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (126–130) @°puŒ>p{ä>O\"pS\"pz ÏR\"pu{ì{A\"O\"pS\"pz T\"¯S\"pS\"pz {\\\"@°⁄T\"p- OX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ Ï_X\"p@z° \\\"v{Q@°_\"z_@w°{O\"# Y\"{c\"Y\"p Ï[_O\"°$ Y\"c\"pVQ_Y\" X\"`{^\"ÍT\"p{Np{S\"S\"p Qu\\\"T\"tG\"p_\"zBp{O\"@°ZNpQpS\"X\"o Ú{O\" ÔO\"u e\"Y\"pu&P\"pÍ# T\"¯{O\"T\"p{QO\"p#°$ @°⁄T\"_\"te\"u^\"s Bpw`_P\"uWY\"# T\"¯{O\"{QS\"z T\"˙\"X\"`pY\"c\"pS\"o @°f\"ÍsX\"p{QÕ>X\"[_O\"°$ O\"u E\" X\"`pY\"c\"p# _\"[SO\"°$ V\"¯œ\"Y\"c\"#- Qu\\\"Y\"c\"#-{T\"O\"wY\"c\"#-V\"{ì\\\"vƒ\"Qu\\\"Y\"c\"#-Ï{O\"{P\"Y\"c\"# ÔO\"u _\"[SO\"°$ Qu\\\"Y\"c\"X\"o Ô\\\" Ï{–\"`pue\"X\"sEY\"O\"u°$ ëëQu\\\"pu QpS\"pQo \\\"píí Ú{O\" Y\"p_@u°S\" T\"{K>O\"X\"o Ï[_O\"°$ V\"{ì\\\"vƒ\"Qu\\\"Y\"c\"u T\"¯p{NpWY\"pu Ïﬂ\"z T\"¯QrY\"O\"u°$ Ï{O\"{P\"Y\"c\"u Bpw`u _\"X\"pBpO\"pS\"pz {\\\"Ql^\"pX\"o ÏP\"\\\"p _\"\\\"uÍ^\"pz _\"XX\"pS\"S\"z @°O\"Í\\Y\"z W\"\\\"{O\"°$"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "125",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q078",
+        "source_excerpt": "125. ëps@°S\"p_\"puT\"Qup#í @°_Y\" ZE\"S\"p Ï[_O\"? (A) X\"`p@°{\\\"V\"pNpW\"ô>_Y\" (B) @°p{ìQp_\"_Y\" (C) W\"\\\"W\"tO\"u# (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# {S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (126–130) @°puŒ>p{ä>O\"pS\"pz ÏR\"pu{ì{A\"O\"pS\"pz T\"¯S\"pS\"pz {\\\"@°⁄T\"p- OX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ Ï_X\"p@z° \\\"v{Q@°_\"z_@w°{O\"# Y\"{c\"Y\"p Ï[_O\"°$ Y\"c\"pVQ_Y\" X\"`{^\"ÍT\"p{Np{S\"S\"p Qu\\\"T\"tG\"p_\"zBp{O\"@°ZNpQpS\"X\"o Ú{O\" ÔO\"u e\"Y\"pu&P\"pÍ# T\"¯{O\"T\"p{QO\"p#°$ @°⁄T\"_\"te\"u^\"s Bpw`_P\"uWY\"# T\"¯{O\"{QS\"z T\"˙\"X\"`pY\"c\"pS\"o @°f\"ÍsX\"p{QÕ>X\"[_O\"°$ O\"u E\" X\"`pY\"c\"p# _\"[SO\"°$ V\"¯œ\"Y\"c\"#- Qu\\\"Y\"c\"#-{T\"O\"wY\"c\"#-V\"{ì\\\"vƒ\"Qu\\\"Y\"c\"#-Ï{O\"{P\"Y\"c\"# ÔO\"u _\"[SO\"°$ Qu\\\"Y\"c\"X\"o Ô\\\" Ï{–\"`pue\"X\"sEY\"O\"u°$ ëëQu\\\"pu QpS\"pQo \\\"píí Ú{O\" Y\"p_@u°S\" T\"{K>O\"X\"o Ï[_O\"°$ V\"{ì\\\"vƒ\"Qu\\\"Y\"c\"u T\"¯p{NpWY\"pu Ïﬂ\"z T\"¯QrY\"O\"u°$ Ï{O\"{P\"Y\"c\"u Bpw`u _\"X\"pBpO\"pS\"pz {\\\"Ql^\"pX\"o ÏP\"\\\"p _\"\\\"uÍ^\"pz _\"XX\"pS\"S\"z @°O\"Í\\Y\"z W\"\\\"{O\"°$"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q079",
+      "question_number": "130",
+      "question_text": "Y\"p_@u°S\" Qu\\\"T\"Q_Y\" T\"qZW\"p^\"p _\\\"r@w°O\"p",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 27 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 28 {S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (131–134) T\"Y\"ÍSO\"z T\"¯S\"pS\"pz {\\\"@°⁄T\"pOX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ Y\"sG\"o-R\"pO\"pu# C\"{I\" T\"¯OY\"Y\"u @w°O\"u Y\"puBppVQpu {S\"^T\"ﬂ\"pu W\"\\\"{O\"°$ T\"ZX\"pOX\"S\"p _\"` ÏpOX\"S\"# _\"[XX\"ìS\"X\"u\\\" Y\"puBp#°$ Y\"puBp_Y\" ÏÕ>pv ÏzBpp{S\" _\"[SO\"°$ Y\"puBp{pb\"Np_Y\" Ï{S\"\\\"pY\"ÍO\"p _\"\\\"uÍ^\"pz @w°O\"u ÌT\"Y\"pu{BpS\"r W\"\\\"{O\"°$ Y\"puBpuS\" _\\\"p_PY\"z _\"X\"rE\"rS\"z W\"\\\"{O\"°$ Y\"puBp_Y\" Ïp\\\"Y\"@°O\"p {pb\"pY\"pX\"o Ï{S\"\\\"pY\"Í·°T\"uNp W\"\\\"uO\"o Y\"uS\" E\" _\"\\\"uÍ^\"pz _\\\"p_PY\"z _\"X\"rE\"rS\"z G\"pY\"uO\"°$ {\\\"ƒ\"[_X\"S\"o G\"Bp{O\" Y\"puBp{Q\\\"_\"_Y\" ÏpY\"puG\"S\"z G\"tS\"X\"p_\"_Y\" (21) Ô@°{\\\"zp{O\"- O\"pqZ@°pY\"pX\"o ÏpY\"puGY\"O\"u°$"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "130",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q079",
+        "source_excerpt": "130. Y\"p_@u°S\" Qu\\\"T\"Q_Y\" T\"qZW\"p^\"p _\\\"r@w°O\"p (A) Y\"c\"@°ZNpX\"o (B) _\\\"p`p@°pZpuÇ\"pZNpX\"o (C) Qu\\\"pu QpS\"pQo \\\"p (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# 23/MAV/M–2023–05/S3 (S)/112-A 27 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 28 {S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (131–134) T\"Y\"ÍSO\"z T\"¯S\"pS\"pz {\\\"@°⁄T\"pOX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ Y\"sG\"o-R\"pO\"pu# C\"{I\" T\"¯OY\"Y\"u @w°O\"u Y\"puBppVQpu {S\"^T\"ﬂ\"pu W\"\\\"{O\"°$ T\"ZX\"pOX\"S\"p _\"` ÏpOX\"S\"# _\"[XX\"ìS\"X\"u\\\" Y\"puBp#°$ Y\"puBp_Y\" ÏÕ>pv ÏzBpp{S\" _\"[SO\"°$ Y\"puBp{pb\"Np_Y\" Ï{S\"\\\"pY\"ÍO\"p _\"\\\"uÍ^\"pz @w°O\"u ÌT\"Y\"pu{BpS\"r W\"\\\"{O\"°$ Y\"puBpuS\" _\\\"p_PY\"z _\"X\"rE\"rS\"z W\"\\\"{O\"°$ Y\"puBp_Y\" Ïp\\\"Y\"@°O\"p {pb\"pY\"pX\"o Ï{S\"\\\"pY\"Í·°T\"uNp W\"\\\"uO\"o Y\"uS\" E\" _\"\\\"uÍ^\"pz _\\\"p_PY\"z _\"X\"rE\"rS\"z G\"pY\"uO\"°$ {\\\"ƒ\"[_X\"S\"o G\"Bp{O\" Y\"puBp{Q\\\"_\"_Y\" ÏpY\"puG\"S\"z G\"tS\"X\"p_\"_Y\" (21) Ô@°{\\\"zp{O\"- O\"pqZ@°pY\"pX\"o ÏpY\"puGY\"O\"u°$"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q080",
+      "question_number": "134",
+      "question_text": "Y\"puBppu W\"\\\"{O\"",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (135–141) T\"Y\"ÍSO\"z T\"¯S\"pS\"pz {\\\"@°⁄T\"pOX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ _\"z_@w°O\"\\\"pDo>X\"Y\"u G\"r\\\"S\"QpÍS\"z T\"¯{O\"T\"Qz ÁÕs>z p◊Y\"O\"u°$ _\"pR\"\\\" Ô\\\" T\"ZpuT\"@°pqZNppu W\"\\\"[SO\"°$ {G\"G\"r{\\\"^\"p S\" @u°\\\"ìz X\"pS\"\\\"u^\"s ìWY\"O\"u, _\"p O\"s _\"@°ìu^\\\"{T\" G\"r\\\"u^\"s _\"z™Y\"O\"u°$ X\"pS\"\\\"G\"r\\\"S\"_Y\" {\\\"ìu^\"Npz QpÍS\"uS\"v\\\" W\"\\\"{O\"°$ \\\"_O\"sO\"# G\"r\\\"S\"z O\"s T\"ZpuT\"@°pqZNppX\"u\\\" T\"¯p_Y\"O\"Zz W\"\\\"{O\"°$ _\\\"pP\"ÍT\"ZpNppz G\"r\\\"S\"z G\"r\\\"S\"z S\" X\"SY\"O\"u G\"Bp{O\"°$ _\"z_@w°O\"\\\"pDo>X\"Y\"u R\"X\"Í-ÏP\"Í-@°pX\"- X\"pub\" Ú{O\" T\"s‡^\"pP\"ÍE\"O\"sÕ>Y\"z \\\"{NpÍO\"X\"[_O\"°$ ÏR\"sS\"p _\"z_\"pZu _\"\\\"Íe\" @°ì`X\"Y\"z \\\"pO\"p\\\"ZNpz ™Y\"O\"u E\" T\"Z_T\"Zz Y\"sY\"sO_\"p°$ X\"pO_Y\"SY\"pY\"uS\" G\"r{\\\"O\"sX\"o ÚEF>[SO\" @u°E\"S\"°$ \\\"_O\"sO\"# ë\\\"_\"sR\"v\\\" @s°Js>XV\"@°X\"oí ÚOY\"_Y\" T\"qZT\"pìS\"uS\"v\\\" _\"\\\"Íe\" ppz{O\" _\"zW\"{\\\"O\"sz p◊Y\"O\"u Ú{O\" Ï_X\"p@z° _\"\\\"uÍ^\"pz {E\"SO\"S\"z W\"\\\"uO\"o°$"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "134",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q080",
+        "source_excerpt": "134. Y\"puBppu W\"\\\"{O\" (A) Ql#A\"T\"¯QpY\"@°# (B) _\"sA\"T\"¯QpY\"@°# (C) T\"ZX\"pOX\"S\"p _\"` ÏpOX\"_\"[XX\"ìS\"X\"o (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# {S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (135–141) T\"Y\"ÍSO\"z T\"¯S\"pS\"pz {\\\"@°⁄T\"pOX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ _\"z_@w°O\"\\\"pDo>X\"Y\"u G\"r\\\"S\"QpÍS\"z T\"¯{O\"T\"Qz ÁÕs>z p◊Y\"O\"u°$ _\"pR\"\\\" Ô\\\" T\"ZpuT\"@°pqZNppu W\"\\\"[SO\"°$ {G\"G\"r{\\\"^\"p S\" @u°\\\"ìz X\"pS\"\\\"u^\"s ìWY\"O\"u, _\"p O\"s _\"@°ìu^\\\"{T\" G\"r\\\"u^\"s _\"z™Y\"O\"u°$ X\"pS\"\\\"G\"r\\\"S\"_Y\" {\\\"ìu^\"Npz QpÍS\"uS\"v\\\" W\"\\\"{O\"°$ \\\"_O\"sO\"# G\"r\\\"S\"z O\"s T\"ZpuT\"@°pqZNppX\"u\\\" T\"¯p_Y\"O\"Zz W\"\\\"{O\"°$ _\\\"pP\"ÍT\"ZpNppz G\"r\\\"S\"z G\"r\\\"S\"z S\" X\"SY\"O\"u G\"Bp{O\"°$ _\"z_@w°O\"\\\"pDo>X\"Y\"u R\"X\"Í-ÏP\"Í-@°pX\"- X\"pub\" Ú{O\" T\"s‡^\"pP\"ÍE\"O\"sÕ>Y\"z \\\"{NpÍO\"X\"[_O\"°$ ÏR\"sS\"p _\"z_\"pZu _\"\\\"Íe\" @°ì`X\"Y\"z \\\"pO\"p\\\"ZNpz ™Y\"O\"u E\" T\"Z_T\"Zz Y\"sY\"sO_\"p°$ X\"pO_Y\"SY\"pY\"uS\" G\"r{\\\"O\"sX\"o ÚEF>[SO\" @u°E\"S\"°$ \\\"_O\"sO\"# ë\\\"_\"sR\"v\\\" @s°Js>XV\"@°X\"oí ÚOY\"_Y\" T\"qZT\"pìS\"uS\"v\\\" _\"\\\"Íe\" ppz{O\" _\"zW\"{\\\"O\"sz p◊Y\"O\"u Ú{O\" Ï_X\"p@z° _\"\\\"uÍ^\"pz {E\"SO\"S\"z W\"\\\"uO\"o°$"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q081",
+      "question_number": "141",
+      "question_text": "ÏR\"sS\"p @°P\"z G\"r{\\\"O\"sX\"o ÚEF>[SO\" _\"\\\"uÍ?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "{S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (142–150) T\"Y\"ÍSO\"z T\"¯S\"pS\"pz {\\\"@°⁄T\"pOX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ _\"z_@w°O\"W\"p^\"uY\"z Qu\\\"\\\"pNpr Ï[_O\"°$ Ï_Y\"pX\"u\\\" W\"p^\"pY\"pz {\\\"ƒ\"_Y\" T\"¯pE\"rS\"O\"X\"p# Bp¯SP\"p# \\\"uQp# ÌT\"ìWY\"SO\"u°$ \\\"uQu^\"s ZpÕ~>R\"X\"puÍ {\\\"ƒ\"R\"X\"Í∆\" {\\\"_O\"ZuNp T\"¯{O\"T\"p{QO\"pu&[_O\"°$ ÏP\"\\\"Í\\\"uQu T\"¯G\"pO\"p[Se\"@°_Y\" ZpGY\"_Y\" ÌÑuA\"# T\"¯pTY\"O\"u°$ c\"pS\"X\"pBpuÍNp E\" ÏX\"wO\"f\\\"z T\"¯p\"sz p◊Y\"O\"u°$ Qupu _\"X\"pG\"u E\" ÌÇ\"-S\"rE\"O\\\"W\"p\\\"S\"pz {\\\"`pY\" Ô\\\" _\"\\\"Í{\\\"R\"p Ìﬂ\"{O\"# @°O\"|s p◊Y\"O\"u°$ T\"ZpuT\"@°pZuNp Ô\\\" T\"sNY\"U°ìp\\\"p{\"#°$ T\"ZT\"rL>S\"uS\" E\" T\"pT\"X\"o Ô\\\"°$ V\"pv´-X\"`p@°{\\\"# Ïƒ\"C\"pu^\"# V\"pv´G\"S\"{T\"¯Y\"pz T\"¯p@w°O\"W\"p^\"pz T\"qZOY\"GY\" ëV\"s´E\"qZO\"X\"oí _\"z_@w°O\"u Ô\\\" \\Y\"ZE\"Y\"O\"o°$ G\"X\"ÍS\"rQupu _\"\\\"uÍ^\"s T\"s_O\"@°pìY\"u^\"s ÚSL>puìpG\"r (Indology) W\"pZO\"rY\"{\\\"¸p-_\"XV\"´# T\"¯@°puŒ>pu&[_O\"°$ _\"\\\"uÍ&{T\" T\"w{P\"\\\"rT\"se\"p S\"rZpuBpp V\"{ìS\"∆\" _Y\"s# Ú{O\" \\\"Y\"z _\"\\\"uÍ&{T\" @°pX\"Y\"pX\"`u°$"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "141",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q081",
+        "source_excerpt": "141. ÏR\"sS\"p @°P\"z G\"r{\\\"O\"sX\"o ÚEF>[SO\" _\"\\\"uÍ? (A) ppSOY\"p (B) W\"◊OY\"p (C) X\"pO_Y\"SY\"pY\"uS\" (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# {S\"QuÍp# óÏR\"pu{ì{A\"O\"z Bp¸pzpz T\"{K>O\\\"p (142–150) T\"Y\"ÍSO\"z T\"¯S\"pS\"pz {\\\"@°⁄T\"pOX\"@°puf\"ZuWY\"# Ì{E\"O\"O\"X\"X\"o Ìf\"Zz {E\"O\\\"p {ìA\"O\"°$ _\"z_@w°O\"W\"p^\"uY\"z Qu\\\"\\\"pNpr Ï[_O\"°$ Ï_Y\"pX\"u\\\" W\"p^\"pY\"pz {\\\"ƒ\"_Y\" T\"¯pE\"rS\"O\"X\"p# Bp¯SP\"p# \\\"uQp# ÌT\"ìWY\"SO\"u°$ \\\"uQu^\"s ZpÕ~>R\"X\"puÍ {\\\"ƒ\"R\"X\"Í∆\" {\\\"_O\"ZuNp T\"¯{O\"T\"p{QO\"pu&[_O\"°$ ÏP\"\\\"Í\\\"uQu T\"¯G\"pO\"p[Se\"@°_Y\" ZpGY\"_Y\" ÌÑuA\"# T\"¯pTY\"O\"u°$ c\"pS\"X\"pBpuÍNp E\" ÏX\"wO\"f\\\"z T\"¯p\"sz p◊Y\"O\"u°$ Qupu _\"X\"pG\"u E\" ÌÇ\"-S\"rE\"O\\\"W\"p\\\"S\"pz {\\\"`pY\" Ô\\\" _\"\\\"Í{\\\"R\"p Ìﬂ\"{O\"# @°O\"|s p◊Y\"O\"u°$ T\"ZpuT\"@°pZuNp Ô\\\" T\"sNY\"U°ìp\\\"p{\"#°$ T\"ZT\"rL>S\"uS\" E\" T\"pT\"X\"o Ô\\\"°$ V\"pv´-X\"`p@°{\\\"# Ïƒ\"C\"pu^\"# V\"pv´G\"S\"{T\"¯Y\"pz T\"¯p@w°O\"W\"p^\"pz T\"qZOY\"GY\" ëV\"s´E\"qZO\"X\"oí _\"z_@w°O\"u Ô\\\" \\Y\"ZE\"Y\"O\"o°$ G\"X\"ÍS\"rQupu _\"\\\"uÍ^\"s T\"s_O\"@°pìY\"u^\"s ÚSL>puìpG\"r (Indology) W\"pZO\"rY\"{\\\"¸p-_\"XV\"´# T\"¯@°puŒ>pu&[_O\"°$ _\"\\\"uÍ&{T\" T\"w{P\"\\\"rT\"se\"p S\"rZpuBpp V\"{ìS\"∆\" _Y\"s# Ú{O\" \\\"Y\"z _\"\\\"uÍ&{T\" @°pX\"Y\"pX\"`u°$"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q082",
+      "question_number": "142",
+      "question_text": "{\\\"ƒ\"_Y\" T\"¯pE\"rS\"O\"X\"p W\"p^\"p @°p Ï[_O\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "23/MAV/M–2023–05/S3 (S)/112-A 29 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 30"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "142",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q082",
+        "source_excerpt": "142. {\\\"ƒ\"_Y\" T\"¯pE\"rS\"O\"X\"p W\"p^\"p @°p Ï[_O\"? (A) T\"¯p@w°O\"X\"o (B) O\"{X\"ìX\"o (C) _\"z_@w°O\"X\"o (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# 23/MAV/M–2023–05/S3 (S)/112-A 29 [ P.T.O. 23/MAV/M–2023–05/S3 (S)/112-A 30"
+      }
+    },
+    {
+      "id": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1-q083",
+      "question_number": "150",
+      "question_text": "T\"w{P\"\\\"rT\"se\"pNppz @w°O\"u \\\"Y\"z _\"\\\"uÍ {@z° {@z° @°pX\"Y\"pX\"`u?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 23/MAV/M–2023–05/S3 (S)/112-A 31 [ P.T.O. 23/MAV/M–2023–05 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m ^mfm, gm_m›` A‹``Z Am°a gßÒH•$V ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 2/BPSC-Teacher-Question-Paper-TGT-Sanskrit (1).pdf",
+        "pdf_sha256": "9caec6e13e791fb0aa060a8003bde01aba42264e5de67d7b5b8de0e2d01674dd",
+        "question_label": "150",
+        "extraction_ref": "tre-2-bpsc-teacher-question-paper-tgt-sanskrit-1#q083",
+        "source_excerpt": "150. T\"w{P\"\\\"rT\"se\"pNppz @w°O\"u \\\"Y\"z _\"\\\"uÍ {@z° {@z° @°pX\"Y\"pX\"`u? (A) _\"s{A\"S\"pu W\"\\\"SO\"s (B) T\"ZpuT\"@°pqZNppu W\"\\\"SO\"s (C) S\"rZpuBpp V\"{ìS\"pu W\"\\\"SO\"s (D) Ô@°p{R\"@°{\\\"@°⁄T\"p ÌT\"Y\"sò°p# (E) S\" @°pu&{T\" ÌT\"Y\"sò°# SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 23/MAV/M–2023–05/S3 (S)/112-A 31 [ P.T.O. 23/MAV/M–2023–05 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m ^mfm, gm_m›` A‹``Z Am°a gßÒH•$V ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+      }
+    }
+  ]
+}

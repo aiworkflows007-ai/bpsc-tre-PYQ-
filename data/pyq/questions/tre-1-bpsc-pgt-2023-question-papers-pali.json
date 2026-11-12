@@ -1,0 +1,4106 @@
+{
+  "metadata": {
+    "exam": "TRE-1",
+    "exam_year": 2023,
+    "subject": "Pali",
+    "class_band": "11-12",
+    "shift": null,
+    "frontend_category": "subject",
+    "frontend_subject": "Pali",
+    "source_file": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+    "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+    "extracted_at": "2026-11-09T01:19:40.254Z",
+    "extracted_text_pages": 33
+  },
+  "questions": [
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q001",
+      "question_number": "1",
+      "question_text": "How many three-digit numbers are divisible by 5?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q001",
+        "source_excerpt": "1. How many three-digit numbers are divisible by 5? (A) 180 (B) 200 (C) 120 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q002",
+      "question_number": "2",
+      "question_text": "The value of 1 1 2 1 1 3 1 1 4 1 1 120 + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ L is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "2",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q002",
+        "source_excerpt": "2. The value of 1 1 2 1 1 3 1 1 4 1 1 120 + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ + æ è ç ö ø ÷ L is (A) 60·5 (B) 30·0 (C) 40·5 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q003",
+      "question_number": "3",
+      "question_text": "The distance between Delhi and Agra is 200 km. Suppose you are travelling from Delhi to Agra by a car. If you can maintain an average speed of 90 km/hr for 120 km and 40 km/hr for the remaining distance, how much time will you take, on average, to reach Agra?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q003",
+        "source_excerpt": "3. The distance between Delhi and Agra is 200 km. Suppose you are travelling from Delhi to Agra by a car. If you can maintain an average speed of 90 km/hr for 120 km and 40 km/hr for the remaining distance, how much time will you take, on average, to reach Agra? (A) 3 hr 20 min (B) 3 hr 30 min (C) 4 hr 45 min (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q004",
+      "question_number": "4",
+      "question_text": "10% loss on selling price is what percent loss on cost price?",
+      "options": [
+        {
+          "label": "A",
+          "text": "11 %"
+        },
+        {
+          "label": "B",
+          "text": "11 %"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q004",
+        "source_excerpt": "4. 10% loss on selling price is what percent loss on cost price? (A) 9 1 11 % (B) 9 2 11 % (C) 10% (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q005",
+      "question_number": "5",
+      "question_text": "A pizza boy delivered two-fifths of his pizzas on day 1, three-fourths of his pizzas on day 2 and 9 16 of his pizzas on day 3. On which day did he deliver the most pizzas if he had the same number of pizzas in the beginning of each day?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q005",
+        "source_excerpt": "5. A pizza boy delivered two-fifths of his pizzas on day 1, three-fourths of his pizzas on day 2 and 9 16 of his pizzas on day 3. On which day did he deliver the most pizzas if he had the same number of pizzas in the beginning of each day? (A) Day 1 (B) Day 2 (C) Day 3 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q006",
+      "question_number": "6",
+      "question_text": "The cost of carpeting a room 18 m long with a carpet 75 cm wide at R 4·50 per metre is R 810. The breadth of the room is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 2 18/HV/M–2023–01–30 (HS)/21-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q006",
+        "source_excerpt": "6. The cost of carpeting a room 18 m long with a carpet 75 cm wide at R 4·50 per metre is R 810. The breadth of the room is (A) 7 m (B) 7·5 m (C) 8 m (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/21-A 2 18/HV/M–2023–01–30 (HS)/21-A 3 [ P.T.O. PART—I ( GENERAL STUDIES )"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q007",
+      "question_number": "1",
+      "question_text": "VrZ AßH$moß H$s {H$VZr gßª`mE± 5 go {d^m¡` h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "1",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q007",
+        "source_excerpt": "1. VrZ AßH$moß H$s {H$VZr gßª`mE± 5 go {d^m¡` h¢? (A) 180 (B) 200 (C) 120 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q008",
+      "question_number": "3",
+      "question_text": "{XÑr Am°a AmJam Ho$ ~rM H$s Xyar 200 {H$0 _r0 h°ü& _mZ br{OE Amn {XÑr go AmJam EH$ H$ma ¤mam Om aho h¢ü& `{X Amn 120 {H$0 _r0 Hoo$ {bE Am°gV J{V 90 {H$0 _r0/Kß0 Am°a ~mH$s Xyar Ho$ {bE Am°gV J{V 40 {H$0 _r0/Kß0 ~ZmE aIVo h¢, Vmo AmnH$mo AmJam nh˛±MZo _| Am°gVZ {H$VZm g_` bJoJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "3",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q008",
+        "source_excerpt": "3. {XÑr Am°a AmJam Ho$ ~rM H$s Xyar 200 {H$0 _r0 h°ü& _mZ br{OE Amn {XÑr go AmJam EH$ H$ma ¤mam Om aho h¢ü& `{X Amn 120 {H$0 _r0 Hoo$ {bE Am°gV J{V 90 {H$0 _r0/Kß0 Am°a ~mH$s Xyar Ho$ {bE Am°gV J{V 40 {H$0 _r0/Kß0 ~ZmE aIVo h¢, Vmo AmnH$mo AmJam nh˛±MZo _| Am°gVZ {H$VZm g_` bJoJm? (A) 3 KßQ>m 20 {_ZQ> (B) 3 KßQ>m 30 {_ZQ> (C) 4 KßQ>m 45 {_ZQ> (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q009",
+      "question_number": "5",
+      "question_text": "EH$ {nÇmm dmbm nhbo {XZ Xmo-nm±Mdoß {nÇmm, Xygao {XZ VrZ-Mm°WmB© {nÇmm Am°a Vrgao {XZ 9 16 {nÇmmAm| H$m {dVaU H$aVm h°ü& `{X ‡À`oH$ {XZ H$s ewÈAmV _| CgHo$ nmg g_mZ gßª`m _| {nÇmm Wo, Vmo CgZo {H$g {XZ g~go A{YH$ {nÇmm {dV[aV {H$E?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "5",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q009",
+        "source_excerpt": "5. EH$ {nÇmm dmbm nhbo {XZ Xmo-nm±Mdoß {nÇmm, Xygao {XZ VrZ-Mm°WmB© {nÇmm Am°a Vrgao {XZ 9 16 {nÇmmAm| H$m {dVaU H$aVm h°ü& `{X ‡À`oH$ {XZ H$s ewÈAmV _| CgHo$ nmg g_mZ gßª`m _| {nÇmm Wo, Vmo CgZo {H$g {XZ g~go A{YH$ {nÇmm {dV[aV {H$E? (A) nhbo {XZ (B) Xygao {XZ (C) Vrgao {XZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q010",
+      "question_number": "6",
+      "question_text": "18 _rQ>a bÂ~o EH$ H$_ao _|, 75 go0 _r0 Mm°ãS>o JbrMo H$m Cn`moJ H$aHo$, JbrMm {~N>mZo H$s bmJV R 4·50 ‡{V _rQ>a H$s Xa go R 810 h°ü& H$_ao H$s Mm°ãS>mB© h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "6",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q010",
+        "source_excerpt": "6. 18 _rQ>a bÂ~o EH$ H$_ao _|, 75 go0 _r0 Mm°ãS>o JbrMo H$m Cn`moJ H$aHo$, JbrMm {~N>mZo H$s bmJV R 4·50 ‡{V _rQ>a H$s Xa go R 810 h°ü& H$_ao H$s Mm°ãS>mB© h° (A) 7 _rQ>a (B) 7·5 _rQ>a (C) 8 _rQ>a (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q011",
+      "question_number": "7",
+      "question_text": "Two persons A and B complete a task in 15 days, when they work together. Person A completes the task in 20 days if he works alone. How many days will B take to finish the task alone?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q011",
+        "source_excerpt": "7. Two persons A and B complete a task in 15 days, when they work together. Person A completes the task in 20 days if he works alone. How many days will B take to finish the task alone? (A) 35 days (B) 25 days (C) 60 days (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q012",
+      "question_number": "8",
+      "question_text": "The sum of the numerator and denominator of a fraction is 11. If 1 is added to the numerator and 2 is subtracted from the denominator, it becomes 2 3 . The fraction is",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "8",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q012",
+        "source_excerpt": "8. The sum of the numerator and denominator of a fraction is 11. If 1 is added to the numerator and 2 is subtracted from the denominator, it becomes 2 3 . The fraction is (A) 5 6 (B) 6 5 (C) 3 8 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q013",
+      "question_number": "9",
+      "question_text": "An isotropic source of 2 candela produces light flux equal to",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "9",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q013",
+        "source_excerpt": "9. An isotropic source of 2 candela produces light flux equal to (A) 2p lumen (B) 4p lumen (C) 8p lumen (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q014",
+      "question_number": "10",
+      "question_text": "The spray bottles used as window or household cleaner or perfume sprayer work on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "10",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q014",
+        "source_excerpt": "10. The spray bottles used as window or household cleaner or perfume sprayer work on (A) capillary action (B) Bernoulli’s principle (C) Pascal’s law (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q015",
+      "question_number": "11",
+      "question_text": "The trade name of basic lead carbonate is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "11",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q015",
+        "source_excerpt": "11. The trade name of basic lead carbonate is (A) white lead (B) red lead (C) litharge (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q016",
+      "question_number": "12",
+      "question_text": "Which of the following elements has the largest atomic radius?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 4 18/HV/M–2023–01–30 (HS)/21-A 5 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "12",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q016",
+        "source_excerpt": "12. Which of the following elements has the largest atomic radius? (A) Lithium (B) Beryllium (C) Boron (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/21-A 4 18/HV/M–2023–01–30 (HS)/21-A 5 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q017",
+      "question_number": "7",
+      "question_text": "Xmo Ï`{∫$ A Am°a B EH$ H$m_ H$mo 15 {XZm| _ßo nyam H$a XoVo h¢, `{X do EH$ gmW H$m_ H$aVo h¢ü& Ï`{∫$ A AHo$bm Cgr H$m_ H$mo 20 {XZm| _| nyam H$a XoVm h°ü& `h H$m_ AHo$bm B {H$VZo {XZm| _| nyam H$a nmEJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "7",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q017",
+        "source_excerpt": "7. Xmo Ï`{∫$ A Am°a B EH$ H$m_ H$mo 15 {XZm| _ßo nyam H$a XoVo h¢, `{X do EH$ gmW H$m_ H$aVo h¢ü& Ï`{∫$ A AHo$bm Cgr H$m_ H$mo 20 {XZm| _| nyam H$a XoVm h°ü& `h H$m_ AHo$bm B {H$VZo {XZm| _| nyam H$a nmEJm? (A) 35 {XZm| _| (B) 25 {XZm| _| (C) 60 {XZm| _| (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q018",
+      "question_number": "8",
+      "question_text": "EH$ {^ﬁ Ho$ Aße Am°a ha H$m `moJ 11 h°ü& `{X Aße _| 1 OmoãS> {X`m Om` Am°a ha _| go 2 KQ>m {X`m Om`, Vmo `h 2 3 hmo OmVm h°ü& {^ﬁ h°",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "8",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q018",
+        "source_excerpt": "8. EH$ {^ﬁ Ho$ Aße Am°a ha H$m `moJ 11 h°ü& `{X Aße _| 1 OmoãS> {X`m Om` Am°a ha _| go 2 KQ>m {X`m Om`, Vmo `h 2 3 hmo OmVm h°ü& {^ﬁ h° (A) 5 6 (B) 6 5 (C) 3 8 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q019",
+      "question_number": "10",
+      "question_text": "qdS>mo `m Kaoby äbrZa `m n‚`©y_ Ò‡o`a Ho$ Í$n _| BÒVo_mb H$s OmZo dmbr Ò‡o ~moVb| {ZÂZ{b{IV _| go {H$g na H$m_ H$aVr h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "10",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q019",
+        "source_excerpt": "10. qdS>mo `m Kaoby äbrZa `m n‚`©y_ Ò‡o`a Ho$ Í$n _| BÒVo_mb H$s OmZo dmbr Ò‡o ~moVb| {ZÂZ{b{IV _| go {H$g na H$m_ H$aVr h¢? (A) Ho${eH$m {H´$`m (B) ~aZm°br H$m {g’mßV (C) nmÒH$b H$m {Z`_ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q020",
+      "question_number": "13",
+      "question_text": "The phenomenon of photo- periodism in plants was discovered by",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "13",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q020",
+        "source_excerpt": "13. The phenomenon of photo- periodism in plants was discovered by (A) Garner and Allard (B) Steward and Salisbury (C) Thimann and Skoog (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q021",
+      "question_number": "14",
+      "question_text": "Silent Valley of Kerala is preserved because",
+      "options": [
+        {
+          "label": "A",
+          "text": "of plants and animals"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "extensively for agriculture purposes"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "14",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q021",
+        "source_excerpt": "14. Silent Valley of Kerala is preserved because (A) it contains very rare species of plants and animals (B) the soil is rich in minerals (C) the areas of land were used extensively for agriculture purposes (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q022",
+      "question_number": "15",
+      "question_text": "During normal respiration in a mammal, the diaphragm is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "15",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q022",
+        "source_excerpt": "15. During normal respiration in a mammal, the diaphragm is (A) arched (B) flattened (C) lowered (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q023",
+      "question_number": "16",
+      "question_text": "The most important cell type associated with the immunity of the body is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "16",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q023",
+        "source_excerpt": "16. The most important cell type associated with the immunity of the body is (A) platelets (B) lymphocytes (C) RBCs (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q024",
+      "question_number": "17",
+      "question_text": "The book entitled, Gyan Deepak was authored by a great saint",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "17",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q024",
+        "source_excerpt": "17. The book entitled, Gyan Deepak was authored by a great saint (A) Salar Masood Ghazi (B) Dariya Saheb (C) Imam Shah Faqih (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q025",
+      "question_number": "18",
+      "question_text": "Which agency in India has launched UTSAH portal?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "18",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q025",
+        "source_excerpt": "18. Which agency in India has launched UTSAH portal? (A) UGC (B) AICTE (C) MCI (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q026",
+      "question_number": "19",
+      "question_text": "A. P. J. Abdul Kalam Satellite Launch Vehicle Mission was launched on",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q026",
+        "source_excerpt": "19. A. P. J. Abdul Kalam Satellite Launch Vehicle Mission was launched on (A) 13th February, 2023 (B) 20th February, 2023 (C) 19th February, 2023 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q027",
+      "question_number": "20",
+      "question_text": "In which city was the first pure green hydrogen plant commissioned?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 6 18/HV/M–2023–01–30 (HS)/21-A 7 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q027",
+        "source_excerpt": "20. In which city was the first pure green hydrogen plant commissioned? (A) Hyderabad (B) Mumbai (C) Pune (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/21-A 6 18/HV/M–2023–01–30 (HS)/21-A 7 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q028",
+      "question_number": "14",
+      "question_text": "Ho$ab H$s emßV KmQ>r (gmBb|Q> d°br) gßa{jV h°, ä`m|{H$",
+      "options": [
+        {
+          "label": "A",
+          "text": "Xwb©^ ‡Om{V`m± nmB© OmVr h¢"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": "~ãS>o n°_mZo na Cn`moJ {H$`m OmVm Wm"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "14",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q028",
+        "source_excerpt": "14. Ho$ab H$s emßV KmQ>r (gmBb|Q> d°br) gßa{jV h°, ä`m|{H$ (A) Bg_| nm°Ym| Am°a OmZdam| H$s ~h˛V hr Xwb©^ ‡Om{V`m± nmB© OmVr h¢ (B) {_≈>r I{ZOm| go ^anya h° (C) H•${f ‡`moOZm| Ho$ {bE ^y{_ Ho$ joÃm| H$m ~ãS>o n°_mZo na Cn`moJ {H$`m OmVm Wm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q029",
+      "question_number": "19",
+      "question_text": "E0 nr0 Oo0 A„Xwb H$bm_ g°Q>obmBQ> bm∞›M dr{hH$b {_eZ H$mo bm∞›M {H$`m J`m Wm",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "19",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q029",
+        "source_excerpt": "19. E0 nr0 Oo0 A„Xwb H$bm_ g°Q>obmBQ> bm∞›M dr{hH$b {_eZ H$mo bm∞›M {H$`m J`m Wm (A) 13 \\$adar, 2023 H$mo (B) 20 \\$adar, 2023 H$mo (C) 19 \\$adar, 2023 H$mo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q030",
+      "question_number": "20",
+      "question_text": "{H$g eha _| ‡W_ ew’ h[aV hmBS¥>moOZ gß`ßÃ Mmby {H$`m J`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 8"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "20",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q030",
+        "source_excerpt": "20. {H$g eha _| ‡W_ ew’ h[aV hmBS¥>moOZ gß`ßÃ Mmby {H$`m J`m Wm? (A) h°Xam~mX (B) _wß~B© (C) nwUo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–01–30 (HS)/21-A 8"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q031",
+      "question_number": "21",
+      "question_text": "Which year has been declared by the UNO as the ‘International Year of Millets’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q031",
+        "source_excerpt": "21. Which year has been declared by the UNO as the ‘International Year of Millets’? (A) 2023 (B) 2022 (C) 2024 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q032",
+      "question_number": "22",
+      "question_text": "Who among the following won the 2022 Nobel Peace Prize?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "22",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q032",
+        "source_excerpt": "22. Who among the following won the 2022 Nobel Peace Prize? (A) Ales Bialiatski (B) Nadia Murad (C) Maria Ressa (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q033",
+      "question_number": "23",
+      "question_text": "Who is the Chairman of the State Commission for Backward Classes appointed by the Bihar Government on 2nd January, 2022?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": "Sinha"
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "23",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q033",
+        "source_excerpt": "23. Who is the Chairman of the State Commission for Backward Classes appointed by the Bihar Government on 2nd January, 2022? (A) Justice Sanjay Kumar (B) Justice Balmiki Prasad Sinha (C) Justice Iqbal A. Ansari (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q034",
+      "question_number": "24",
+      "question_text": "Which was the first movie in Bhojpuri?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chadhaibo"
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "24",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q034",
+        "source_excerpt": "24. Which was the first movie in Bhojpuri? (A) Ganga Maiya Tohe Piyari Chadhaibo (B) Kanyadan (C) Nadiya Ke Paar (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q035",
+      "question_number": "4",
+      "question_text": "Parichha Select the correct answer using the codes given below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q035",
+        "source_excerpt": "4. Parichha Select the correct answer using the codes given below. (A) 1, 2, 3, 4 (B) 2, 4, 1, 3 (C) 2, 3, 4, 1 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q036",
+      "question_number": "26",
+      "question_text": "Which type of climate is in India according to Trewartha?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 9 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "26",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q036",
+        "source_excerpt": "26. Which type of climate is in India according to Trewartha? (A) Savanna type (B) Subtropical monsoon climate (C) Mediterranean type (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/21-A 9 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q037",
+      "question_number": "21",
+      "question_text": "gß`w∫$ amÔ¥> gßK ¤mam {H$g df© H$mo \"AßVam©Ô¥>r` {_boQ> df©' Kmo{fV {H$`m J`m h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "21",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q037",
+        "source_excerpt": "21. gß`w∫$ amÔ¥> gßK ¤mam {H$g df© H$mo \"AßVam©Ô¥>r` {_boQ> df©' Kmo{fV {H$`m J`m h°? (A) 2023 (B) 2022 (C) 2024 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q038",
+      "question_number": "23",
+      "question_text": "2 OZdar, 2022 H$mo {~hma gaH$ma ¤mam {Z`w∫$ am¡` {nN>ãS>m dJ© Am`moJ Ho$ A‹`j H$m°Z h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "23",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q038",
+        "source_excerpt": "23. 2 OZdar, 2022 H$mo {~hma gaH$ma ¤mam {Z`w∫$ am¡` {nN>ãS>m dJ© Am`moJ Ho$ A‹`j H$m°Z h¢? (A) ›`m`_y{V© gßO` Hw$_ma (B) ›`m`_y{V© ~mÎ_r{H$ ‡gmX {g›hm (C) ›`m`_y{V© BH$~mb E0 A›gmar (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q039",
+      "question_number": "4",
+      "question_text": "nmarN>m ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "4",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q039",
+        "source_excerpt": "4. nmarN>m ZrMo {XE JE Hy$Q> H$m ‡`moJ H$a ghr CŒma Mw{ZEü& (A) 1, 2, 3, 4 (B) 2, 4, 1, 3 (C) 2, 3, 4, 1 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q040",
+      "question_number": "26",
+      "question_text": "{Q¥>dmWm© Ho$ AZwgma ^maV H$s Obdm`w {H$g ‡H$ma H$s h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 10"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "26",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q040",
+        "source_excerpt": "26. {Q¥>dmWm© Ho$ AZwgma ^maV H$s Obdm`w {H$g ‡H$ma H$s h°? (A) gdmZm ‡H$ma (B) CnmoÓU _mZgyZr Obdm`w (C) ^y_‹`gmJar` ‡H$ma (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–01–30 (HS)/21-A 10"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q041",
+      "question_number": "27",
+      "question_text": "What is the normal date of withdrawal of south-west monsoon at Hyderabad?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "27",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q041",
+        "source_excerpt": "27. What is the normal date of withdrawal of south-west monsoon at Hyderabad? (A) 1st October (B) 15th October (C) 1st November (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q042",
+      "question_number": "28",
+      "question_text": "Which of the following States has maximum urbanization?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "28",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q042",
+        "source_excerpt": "28. Which of the following States has maximum urbanization? (A) Goa (B) Maharashtra (C) Karnataka (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q043",
+      "question_number": "29",
+      "question_text": "‘Malnad’ region is associated with which of the following plateaus of India?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "29",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q043",
+        "source_excerpt": "29. ‘Malnad’ region is associated with which of the following plateaus of India? (A) Telangana Plateau (B) Maharashtra Plateau (C) Karnataka Plateau (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q044",
+      "question_number": "30",
+      "question_text": "South Peninsular Upland is a part of",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "30",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q044",
+        "source_excerpt": "30. South Peninsular Upland is a part of (A) Gondwana Land (B) Laurentia Land (C) Antarctica Continent (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q045",
+      "question_number": "31",
+      "question_text": "The percentage of population of Bihar with respect to India’s total population is",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "31",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q045",
+        "source_excerpt": "31. The percentage of population of Bihar with respect to India’s total population is (A) 8·58% (B) 10·10% (C) 12·25% (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q046",
+      "question_number": "32",
+      "question_text": "Which of the following pairs is not correctly matched with respect to south of Ganga region in Bihar?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 11 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "32",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q046",
+        "source_excerpt": "32. Which of the following pairs is not correctly matched with respect to south of Ganga region in Bihar? (A) Patna–Munger (B) Gaya–Arwal (C) Patna–Vaishali (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/21-A 11 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q047",
+      "question_number": "32",
+      "question_text": "{ZÂZ{b{IV _| go H$m°Z-gm OmoãS>m {~hma Ho$ X{jU JßJm joÃ go _ob Zht ImVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 12"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "32",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q047",
+        "source_excerpt": "32. {ZÂZ{b{IV _| go H$m°Z-gm OmoãS>m {~hma Ho$ X{jU JßJm joÃ go _ob Zht ImVm h°? (A) nQ>Zm–_wßJoa (B) J`m–Aadb (C) nQ>Zm–d°embr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–01–30 (HS)/21-A 12"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q048",
+      "question_number": "33",
+      "question_text": "Who is called the ‘Prophet of New India’?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q048",
+        "source_excerpt": "33. Who is called the ‘Prophet of New India’? (A) Raja Ram Mohan Roy (B) Dayananda Saraswati (C) Dadabhai Naoroji (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q049",
+      "question_number": "34",
+      "question_text": "Which revolt is mentioned in Anandamath of Bankim Chandra Chattopadhyay?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "34",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q049",
+        "source_excerpt": "34. Which revolt is mentioned in Anandamath of Bankim Chandra Chattopadhyay? (A) Sannyasi (B) Santhal (C) Indigo (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q050",
+      "question_number": "35",
+      "question_text": "Who was the founder of ‘Abhinav Bharat’ in London?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "35",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q050",
+        "source_excerpt": "35. Who was the founder of ‘Abhinav Bharat’ in London? (A) Vinayak Damodar Savarkar (B) P. M. Bapat (C) Shyamji Krishna Varma (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q051",
+      "question_number": "36",
+      "question_text": "Where was the Ghadar Party established?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "36",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q051",
+        "source_excerpt": "36. Where was the Ghadar Party established? (A) France (B) Germany (C) United States of America (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q052",
+      "question_number": "37",
+      "question_text": "Who was appointed as the ‘Commander in Chief’ by Birsa Munda?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q052",
+        "source_excerpt": "37. Who was appointed as the ‘Commander in Chief’ by Birsa Munda? (A) Demka Munda (B) Gaya Munda (C) Sundar Munda (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q053",
+      "question_number": "38",
+      "question_text": "Who formed the Bihar Socialist Party?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rajendra Prasad"
+        },
+        {
+          "label": "B",
+          "text": "Jayaprakash Narayan"
+        },
+        {
+          "label": "C",
+          "text": "Swami Agnivesh"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "38",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q053",
+        "source_excerpt": "38. Who formed the Bihar Socialist Party? (A) Phulan Chand Tiwari and Rajendra Prasad (B) Phulan Prasad Varma and Jayaprakash Narayan (C) Raj Kumar Shukla and Swami Agnivesh (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q054",
+      "question_number": "39",
+      "question_text": "In which year was the ‘Bihar Provincial Congress Committee’ formed with its headquarters at Patna?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "39",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q054",
+        "source_excerpt": "39. In which year was the ‘Bihar Provincial Congress Committee’ formed with its headquarters at Patna? (A) 1908 (B) 1910 (C) 1906 (D) More than one of the above (E) None of the above"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q055",
+      "question_number": "40",
+      "question_text": "Who established a branch of the Anushilan Samiti in Patna in 1913?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–01–30 (HS)/21-A 13 [ P.T.O."
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "40",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q055",
+        "source_excerpt": "40. Who established a branch of the Anushilan Samiti in Patna in 1913? (A) Ramananda Sinha (B) Satish Jha (C) Sachindra Nath Sanyal (D) More than one of the above (E) None of the above 18/HV/M–2023–01–30 (HS)/21-A 13 [ P.T.O."
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q056",
+      "question_number": "33",
+      "question_text": "\"Zd^maV H$m n°JÂ~a' H$m°Z H$hbmVm h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "33",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q056",
+        "source_excerpt": "33. \"Zd^maV H$m n°JÂ~a' H$m°Z H$hbmVm h°? (A) amOm am__mohZ am` (B) X`mZ›X gaÒdVr (C) XmXm^mB© Zm°amoOr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q057",
+      "question_number": "35",
+      "question_text": "bßXZ _| \"A{^Zd ^maV' H$m gßÒWmnH$ H$m°Z Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "35",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q057",
+        "source_excerpt": "35. bßXZ _| \"A{^Zd ^maV' H$m gßÒWmnH$ H$m°Z Wm? (A) {dZm`H$ Xm_moXa gmdaH$a (B) nr0 E_0 ~mnQ> (C) Ì`m_Or H•$ÓU d_m© (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q058",
+      "question_number": "37",
+      "question_text": "{~agm _wS>m ¤mam {H$gH$mo \"H$_m›S>a BZ≤ Mr\\$' {Z`w∫$ {H$`m J`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "37",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q058",
+        "source_excerpt": "37. {~agm _wS>m ¤mam {H$gH$mo \"H$_m›S>a BZ≤ Mr\\$' {Z`w∫$ {H$`m J`m Wm? (A) Xo_H$m _wS>m (B) J`m _wS>m (C) gw›Xa _wS>m (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q059",
+      "question_number": "46",
+      "question_text": "\"_p¡P_{ZH$m`' Ho$ Hw$b gwŒmm| H$s gßª`m h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 14"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "46",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q059",
+        "source_excerpt": "46. \"_p¡P_{ZH$m`' Ho$ Hw$b gwŒmm| H$s gßª`m h° (A) 100 (B) 50 (C) 152 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 14"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q060",
+      "question_number": "50",
+      "question_text": "\"\"AäH$moYoZ {OZo H$moYß''—`h gyÃ {H$g H$Wm go h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "50",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q060",
+        "source_excerpt": "50. \"\"AäH$moYoZ {OZo H$moYß''—`h gyÃ {H$g H$Wm go h°? (A) CaJOmVHß$ (B) amOmodmXOmVHß$ (C) _moaOmVHß$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q061",
+      "question_number": "51",
+      "question_text": "ZmJmo go H$m°Z-gm AW© A{^‡oV h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "51",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q061",
+        "source_excerpt": "51. ZmJmo go H$m°Z-gm AW© A{^‡oV h°? (A) hmWr (B) gm±n (C) CaJ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q062",
+      "question_number": "52",
+      "question_text": "_hm{^{ZÓH´$_U ~w’ Ho$ OrdZ go gÂ~p›YV h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 15 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 16"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "52",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q062",
+        "source_excerpt": "52. _hm{^{ZÓH´$_U ~w’ Ho$ OrdZ go gÂ~p›YV h° (A) kmZ‡m{· (B) YÂ_monXoe (C) J•hÀ`mJ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 15 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 16"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q063",
+      "question_number": "60",
+      "question_text": "^JdmZ ~w’ H$m _hmn[a{Z„~mU ÒWb h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "60",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q063",
+        "source_excerpt": "60. ^JdmZ ~w’ H$m _hmn[a{Z„~mU ÒWb h° (A) d°embr (B) Hw$grZmam (C) lmdÒVr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q064",
+      "question_number": "61",
+      "question_text": "\"{_{b›Xnƒh' H$s JUZm {H$g gm{hÀ` Ho$ A›VJ©V H$s OmVr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "61",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q064",
+        "source_excerpt": "61. \"{_{b›Xnƒh' H$s JUZm {H$g gm{hÀ` Ho$ A›VJ©V H$s OmVr h°? (A) A∆>H$Wm gm{hÀ` (B) AZw{nQ>H$ gm{hÀ` (C) dßg gm{hÀ` (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q065",
+      "question_number": "63",
+      "question_text": "\"Iw‘H${ZH$m`' Ho$ A›VJ©V {H$VZo J´›W gßJ´hrV h¢?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "63",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q065",
+        "source_excerpt": "63. \"Iw‘H${ZH$m`' Ho$ A›VJ©V {H$VZo J´›W gßJ´hrV h¢? (A) 11 (B) 15 (C) 16 (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q066",
+      "question_number": "64",
+      "question_text": "‡W_ ~m°’ gìr{V _| {H$VZr gßª`m _| Ah©Vm| Zo ^mJ {b`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 17 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 18"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "64",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q066",
+        "source_excerpt": "64. ‡W_ ~m°’ gìr{V _| {H$VZr gßª`m _| Ah©Vm| Zo ^mJ {b`m Wm? (A) 700 (gmV gm°) (B) 1000 (EH$ hOma) (C) 500 (nm±M gm°) (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 17 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 18"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q067",
+      "question_number": "67",
+      "question_text": "AÍ$n‹`mZ H$s V•Vr` AdÒWm h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "67",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q067",
+        "source_excerpt": "67. AÍ$n‹`mZ H$s V•Vr` AdÒWm h° (A) Am{H$ƒMƒƒmm`VZ (B) {dƒƒmmUmZƒMm`VZ (C) ZodgƒƒmmZmgƒƒmm`VZ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q068",
+      "question_number": "68",
+      "question_text": "A[a`mo A∆>{ìH$mo _ΩJmo H$m MVwW© Aì h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "68",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q068",
+        "source_excerpt": "68. A[a`mo A∆>{ìH$mo _ΩJmo H$m MVwW© Aì h° (A) gÂ_m-dm`m_mo (B) gÂ_m-AmOrdmo (C) gÂ_m-gë>ﬂnmo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q069",
+      "question_number": "69",
+      "question_text": "\"A{^YÂ_ÀW gìhmo' H$s Q>rH$m H$m Zm_ h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "69",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q069",
+        "source_excerpt": "69. \"A{^YÂ_ÀW gìhmo' H$s Q>rH$m H$m Zm_ h° (A) na_ÀW_ƒOygm (B) {d^mdZr (C) gmaÀWﬂnH$m{gZr (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q070",
+      "question_number": "70",
+      "question_text": "‡W_ ~m°’ gìr{V _| {H$E JE YÂ_ Am°a {dZ` Ho$ gìm`Z H$mo {H$g {^äIw Zo ÒdrH$ma Zht {H$`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "70",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q070",
+        "source_excerpt": "70. ‡W_ ~m°’ gìr{V _| {H$E JE YÂ_ Am°a {dZ` Ho$ gìm`Z H$mo {H$g {^äIw Zo ÒdrH$ma Zht {H$`m Wm? (A) gw^‘ (B) nmoamU (C) OrdH$ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q071",
+      "question_number": "71",
+      "question_text": "\"\"_Zmonw„~ì_m YÂ_m _Zmogo∆>m _Zmo_`m'' JmWm H$m `h Aße \"YÂ_nX' Ho$ {H$g dΩJ go CX≤Y•V h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "71",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q071",
+        "source_excerpt": "71. \"\"_Zmonw„~ì_m YÂ_m _Zmogo∆>m _Zmo_`m'' JmWm H$m `h Aße \"YÂ_nX' Ho$ {H$g dΩJ go CX≤Y•V h°? (A) Aﬂn_mX dΩJ (B) `_H$ dΩJ (C) {MŒm dΩJ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q072",
+      "question_number": "75",
+      "question_text": "\"A{^YÂ_ÀWgìhmo' Ho$ aMZmH$ma H$m Zm_ h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "75",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q072",
+        "source_excerpt": "75. \"A{^YÂ_ÀWgìhmo' Ho$ aMZmH$ma H$m Zm_ h° (A) AZwÈ’ (B) gm[anwŒm (C) YÂ_{Xﬁm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q073",
+      "question_number": "76",
+      "question_text": "\"\"B_pÒ_® g{V BXß hmo{V, B_ÒgwﬂnmXm BXß CﬂnÇm{V, B_pÒ_ß Ag{V BXß Z hmo{V, B_Òg {ZamoYm BXß {ZÈ¡P{V'' B_Òg dmXÒg BXß Zm_ß hmo{V",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 19 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 20"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "76",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q073",
+        "source_excerpt": "76. \"\"B_pÒ_® g{V BXß hmo{V, B_ÒgwﬂnmXm BXß CﬂnÇm{V, B_pÒ_ß Ag{V BXß Z hmo{V, B_Òg {ZamoYm BXß {ZÈ¡P{V'' B_Òg dmXÒg BXß Zm_ß hmo{V (A) _p¡P_m n{Q>nXm (B) A[a`mo A∆>{ìH$mo _ΩJmo (C) n{Q>Ég_wﬂnmXmo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 19 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 20"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q074",
+      "question_number": "77",
+      "question_text": "A{^YÂ_o H${V{dYmo na_ÀWYÂ_mo H${WVm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "77",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q074",
+        "source_excerpt": "77. A{^YÂ_o H${V{dYmo na_ÀWYÂ_mo H${WVm? (A) MVwp„~Ymo (B) {V{dYmo (C) A∆>{dYmo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q075",
+      "question_number": "79",
+      "question_text": "\"\"gmoM{V nwŒmo{h nw{Œm_m, Jmo_m Jmo{h VWod gmoM{Vü& CnYr {h ZaÒg gmoMZm, Z {h gmo gmoM{V `mo {ZÈnYr {V'' EÀW {ZÈnYr {V H$mo AÀWmo?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "79",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q075",
+        "source_excerpt": "79. \"\"gmoM{V nwŒmo{h nw{Œm_m, Jmo_m Jmo{h VWod gmoM{Vü& CnYr {h ZaÒg gmoMZm, Z {h gmo gmoM{V `mo {ZÈnYr {V'' EÀW {ZÈnYr {V H$mo AÀWmo? (A) {Z„~mZß (B) A∆>{ìH$mo _ΩJmo (C) Vhm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q076",
+      "question_number": "82",
+      "question_text": "nm{b gm{hÀ` _| Y_© Am°a {dZ` H$m gìm`Z {H$g gìr{V _| h˛Am Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "82",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q076",
+        "source_excerpt": "82. nm{b gm{hÀ` _| Y_© Am°a {dZ` H$m gìm`Z {H$g gìr{V _| h˛Am Wm? (A) ‡W_ gìr{V (B) {¤Vr` gìr{V (C) V•Vr` gìr{V (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q077",
+      "question_number": "86",
+      "question_text": "\"YÂ_nX' H$m Omo {¤Vr` dΩJ h°, dh h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 21 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 22"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "86",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q077",
+        "source_excerpt": "86. \"YÂ_nX' H$m Omo {¤Vr` dΩJ h°, dh h° (A) {MŒm dΩJ (B) Aﬂn_mX dΩJ (C) ~w’ dΩJ (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 21 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 22"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q078",
+      "question_number": "88",
+      "question_text": "\"{_{b›Xnƒhmo' {H$g_| A›V{Z©{hV h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "88",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q078",
+        "source_excerpt": "88. \"{_{b›Xnƒhmo' {H$g_| A›V{Z©{hV h°? (A) {Ã{nQ>H$ (B) AZw{nQ>H$ (C) A∆>H$Wm (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q079",
+      "question_number": "93",
+      "question_text": "gwOmVm Zo {H$g {XZ _hmgŒd H$mo Ira (nm`g) An©U {H$`m Wm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "93",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q079",
+        "source_excerpt": "93. gwOmVm Zo {H$g {XZ _hmgŒd H$mo Ira (nm`g) An©U {H$`m Wm? (A) d°emI-ny{U©_m (B) Oo>-ny{U©_m (C) AmfmãT>-ny{U©_m (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q080",
+      "question_number": "98",
+      "question_text": "~mo{YgŒd Zo {ZO©b Ira H$mo {H$VZo {nS>m| _| {d^∫$ {H$`m?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 23 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 24"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "98",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q080",
+        "source_excerpt": "98. ~mo{YgŒd Zo {ZO©b Ira H$mo {H$VZo {nS>m| _| {d^∫$ {H$`m? (A) g¢Vmbrg (B) AãS>Vmbrg (C) CZMmg (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 23 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 24"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q081",
+      "question_number": "99",
+      "question_text": "kmZ-‡m{· hoVw ~mo{YgŒd {H$g {Xem H$s Amoa A{^_wI hmo AmgZ na ~°R> J`o?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "99",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q081",
+        "source_excerpt": "99. kmZ-‡m{· hoVw ~mo{YgŒd {H$g {Xem H$s Amoa A{^_wI hmo AmgZ na ~°R> J`o? (A) CŒmam{^_wI (B) X{jUm{^_wI (C) nydm©{^_wI (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q082",
+      "question_number": "104",
+      "question_text": "Òda gp›Y _| {dH$În go \"`' Am°a \"d' hmoVm h°",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "104",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q082",
+        "source_excerpt": "104. Òda gp›Y _| {dH$În go \"`' Am°a \"d' hmoVm h° (A) gw+AmJV=ÒdmJV (B) {d+AmH$Vmo=Ï`mH$Vmo (C) ~h˛+Am~mYmo=~Ïhm~mYmo (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q083",
+      "question_number": "109",
+      "question_text": "\"A›Vam M amOJhß A›Vam M Zmb›Xß'—`hm± A›Vam Ho$ `moJ _| {H$g {d^{∫$ H$m ‡`moJ h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "109",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q083",
+        "source_excerpt": "109. \"A›Vam M amOJhß A›Vam M Zmb›Xß'—`hm± A›Vam Ho$ `moJ _| {H$g {d^{∫$ H$m ‡`moJ h°? (A) MVwÀWr (B) V{V`m (C) Xw{V`m (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q084",
+      "question_number": "110",
+      "question_text": "\"nR>' YmVw H$m AVrVH$mb Ho$ nR>_ nw[ag ~h˛dMZ _| H$m°Z-gm Í$n hmoJm?",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 25 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 26"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "110",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q084",
+        "source_excerpt": "110. \"nR>' YmVw H$m AVrVH$mb Ho$ nR>_ nw[ag ~h˛dMZ _| H$m°Z-gm Í$n hmoJm? (A) A{R>ÀW (B) An{R> (C) AnqR>gw (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 25 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 26"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q085",
+      "question_number": "112",
+      "question_text": "\"{OVop›–`mo' nX H$m {dJ´h H$a g_mg H$m Zm_ ~VmBEü&",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "112",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q085",
+        "source_excerpt": "112. \"{OVop›–`mo' nX H$m {dJ´h H$a g_mg H$m Zm_ ~VmBEü& (A) {OVBp›–` `oZ gmo — H$_©Yma` (B) {OVo›– gmo — VÀnwÈf (C) {OVm{Z Bp›–`m{Z `oZ gmo — ~h˛d´r{h (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q086",
+      "question_number": "115",
+      "question_text": "\"\"{g’mW© Zo _hm{^{ZÓH´$_U H$a CÈdobm _oß N>Ö dfm] VH$ H${R>Z VnÒ`m H$sü&'' {ZÂZ{b{IV nm{b AZwdmXm| _| go H$m°Z-gm ghr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CÈdobm`ß N>dÒgß _hmnYmZß H$amo{Vü&"
+        },
+        {
+          "label": "B",
+          "text": "N>dÒgß CÈdobm`ß VnÒgß H$mao{gü&"
+        },
+        {
+          "label": "C",
+          "text": "CÈdobm`ß N> dÒgm{Z H$R>moaVnÒgß H$[aÒgm_ü&"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": ""
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "115",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q086",
+        "source_excerpt": "115. \"\"{g’mW© Zo _hm{^{ZÓH´$_U H$a CÈdobm _oß N>Ö dfm] VH$ H${R>Z VnÒ`m H$sü&'' {ZÂZ{b{IV nm{b AZwdmXm| _| go H$m°Z-gm ghr h°? (A) {g’ÀWHw$_mamo _hm{^{ZäI_Zß H$Àdm CÈdobm`ß N>dÒgß _hmnYmZß H$amo{Vü& (B) {g’ÀWHw$_mamo _hm{^{ZäI_Zß H$Àdm N>dÒgß CÈdobm`ß VnÒgß H$mao{gü& (C) {g’ÀWHw$_mamo _hm{^{ZäI_Zß H$Àdm CÈdobm`ß N> dÒgm{Z H$R>moaVnÒgß H$[aÒgm_ü& (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht"
+      }
+    },
+    {
+      "id": "tre-1-bpsc-pgt-2023-question-papers-pali-q087",
+      "question_number": "120",
+      "question_text": "\"\"~mo{YgŒmmo JohÒ_m {ZäI{_Àdm nXgm amOJhß AJ_m{gü&'' {ZÂZ{b{IV {h›Xr AZwdmXm| _| go H$m°Z-gm ghr h°?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AmEü&"
+        },
+        {
+          "label": "B",
+          "text": "JEü&"
+        },
+        {
+          "label": "C",
+          "text": "AmVo h¢ü&"
+        },
+        {
+          "label": "D",
+          "text": ""
+        },
+        {
+          "label": "E",
+          "text": "18/HV/M–2023–09 PALI (HS)/21-A 27 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 28 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 18/HV/M–2023–09 PALI (HS)/21-A 29 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 30 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 18/HV/M–2023–09 PALI (HS)/21-A 31 [ P.T.O. 18/HV/M–2023–09 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m gm_m›` A‹``Z Edß nm{b nÃ—4 ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+        }
+      ],
+      "correct_option": null,
+      "answer_status": "pending_official_or_ai",
+      "answer_source_type": null,
+      "verification_status": "unverified",
+      "topic": null,
+      "topic_status": "pending_ai_classification",
+      "solution_lines": [
+        "Answer key not present in the supplied question booklet.",
+        "Add a verified answer and a two-line explanation before this item is enabled in a scored quiz."
+      ],
+      "solution_status": "needs_verified_answer_key",
+      "review_status": "extracted_unverified",
+      "quiz_eligible": false,
+      "source_reference": {
+        "pdf": "TRE 1/BPSC-PGT-2023-Question-Papers-Pali.pdf",
+        "pdf_sha256": "f287fdb29ad1c71f488c4ce9901b4ea2561f735293656cebbb569d3242f1e935",
+        "question_label": "120",
+        "extraction_ref": "tre-1-bpsc-pgt-2023-question-papers-pali#q087",
+        "source_excerpt": "120. \"\"~mo{YgŒmmo JohÒ_m {ZäI{_Àdm nXgm amOJhß AJ_m{gü&'' {ZÂZ{b{IV {h›Xr AZwdmXm| _| go H$m°Z-gm ghr h°? (A) ~mo{YgŒd Ka go {ZH$bH$a n°Xb amOJra AmEü& (B) ~mo{YgŒd Ka go {ZH$bH$a n°Xb amOJ•h JEü& (C) ~mo{YgŒd Ka go {ZH$bH$a n°Xb amOJ•h AmVo h¢ü& (D) Cn`w©∫$ _| go EH$ go A{YH$ (E) Cn`w©∫$ _| go H$moB© Zht 18/HV/M–2023–09 PALI (HS)/21-A 27 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 28 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ 18/HV/M–2023–09 PALI (HS)/21-A 29 [ P.T.O. 18/HV/M–2023–09 PALI (HS)/21-A 30 SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ SPACE FOR ROUGH WORK / aµ\\$ H$m`© Ho$ {bE ÒWmZ H H H 18/HV/M–2023–09 PALI (HS)/21-A 31 [ P.T.O. 18/HV/M–2023–09 nwpÒVH$m ˚m•ßIbm CÂ_rXdma H$m AZwH´$_mßH$ ‡ÌZ-nwpÒVH$m gm_m›` A‹``Z Edß nm{b nÃ—4 ‡ÌZm| Ho$ CŒma XoZo go nhbo ZrMo {bIo AZwXoem| H$mo ‹`mZ go nãT> b|ü& _hŒdnyU© AZwXoe"
+      }
+    }
+  ]
+}
