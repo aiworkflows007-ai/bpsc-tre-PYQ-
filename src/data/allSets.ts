@@ -77,6 +77,15 @@ export const SETS_CATALOG: SetMeta[] = [
     "question_count": 40
   },
   {
+    "id": "bpsc-tre4-sanskrit-80q",
+    "title": "Sanskrit Subject Practice (80Q)",
+    "section": "subject",
+    "section_name": "Part-III Subject Practice (80 Marks)",
+    "subject": "Sanskrit",
+    "filename": "bpsc-tre4-sanskrit-80q.docx",
+    "question_count": 80
+  },
+  {
     "id": "bpsc-tre4-science-80q",
     "title": "Science Subject Practice (80Q)",
     "section": "subject",
@@ -2249,7 +2258,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
       "answer_letter": "B",
       "answer_text": "Non-Cooperation Movement",
       "explanation": "Mahatma Gandhi inaugurated the Bihar Vidyapeeth at Patna on 6th February 1921 during the Non-Cooperation Movement to provide national education boycotting British institutions.",
-      "tip": "First Chancellor of Bihar Vidyapeeth was Maulana Mazharul Haque, and Dr. Rajendra Prasad served as its first Principal.\nMaster Answer Key & Topic Index (Questions 1 to 40)\nQ. No.\nExam Subject / Category\nSub-Topic / Focus Area\nKey\nQ1\nIndian National Movement / Bihar History\nKunwar Singh is BPSC's most frequently tested freedom fighter\n(B)\nQ2\nIndian National Movement\nChronology trap: Gandhi-Irwin Pact (5 March 1931) -> Execution of Bhagat Singh, Sukhdev & Rajguru (23 March 1931) -> Karachi Congress Session (26-31 March 1931).\n(A)\nQ3\nIndian National Movement\nBPSC often tests exact dates for major pacts\n(A)\nQ4\nNational Movement & Slogans\nBPSC official key strictly credits the creation/coining of 'Inquilab Zindabad' to Maulana Hasrat Mohani.\n(C)\nQ5\nGeneral Science: Physics / Chemistry\nModerator = slows down neutrons (D2O, Graphite)\n(C)\nQ6\nGeneral Science: Biology\nFather of Genetics = Gregor Johann Mendel\n(A)\nQ7\nGeneral Science: Biology\nDo not confuse 'lacteal' with lactation or milk production\n(C)\nQ8\nGeneral Science: Biology\nPepsin acts in the stomach in an acidic medium\n(C)\nQ9\nGeneral Science: Chemistry\nSand = SiO2 (Silica)\n(B)\nQ10\nGeneral Science: Botany\nNitrogenase requires strictly anaerobic conditions\n(B)\nQ11\nElementary Mathematics\nStandard prime counts to memorize: 1 to 50 = 15 primes\n(B)\nQ12\nElementary Mathematics / Algebra\nWhen two linear equations are exact multiples of each other, they represent dependent coincident lines with infinite solutions\n(E)\nQ13\nIndian National Movement: Literature\nBPSC loves books written by Bihar leaders: 'India Divided' and 'Atmakatha' were authored by Dr. Rajendra Prasad.\n(B)\nQ14\nNational Movement: Literature & Peasant Struggles\nRemember: The English translation of Neel Darpan was published by Rev. James Long and translated by Michael Madhusudan Dutt.\n(C)\nQ15\nBihar History: Revolutionary Nationalism\nSachindra Nath Sanyal was also the author of 'Bandi Jeevan' (the Bible of Indian revolutionaries) and co-founder of HRA.\n(A)\nQ16\nIndian National Congress Sessions\nThree INC Sessions in Bihar: 1912 Bankipore (Patna) under R.N. Mudholkar\n(A)\nQ17\nGeneral Science: Chemistry\nElectrochemical reactivity series position: Zn > Fe > Sn > Pb. Tin is less reactive and safely prevents food spoilage.\n(B)\nQ18\nGeneral Science: Biology\nPhotosynthesis is overall a redox process: Water (H2O) is oxidized to oxygen, and Carbon Dioxide (CO2) is reduced to glucose.\n(B)\nQ19\nGeneral Science: Human Biology & Disease\nEye diseases frequently asked in BPSC: Trachoma, Cataract, Glaucoma, Conjunctivitis, and Astigmatism.\n(C)\nQ20\nGeneral Science: Physics\nWhenever at least two options are technically correct in BPSC, always mark Option (D) 'More than one of the above'.\n(D)\nQ21\nIndian National Movement\nDate sequence: 20 July 1905 (Partition announced) -> 7 August 1905 (Boycott resolution at Calcutta Town Hall) -> 16 October 1905 (Partition enforced).\n(C)\nQ22\nIndian National Movement\n8 August 1942 = Resolution passed & 'Do or Die' call\n(B)\nQ23\nModern Indian History\n1 November 1858 at Allahabad Darbar: Canning became the first Viceroy of India, ending East India Company rule.\n(C)\nQ24\nModern Indian History: Personalities\nDadabhai Naoroji was also the first Indian elected to the British House of Commons (Finsbury Central, 1892) and propounded the 'Drain of Wealth' theory.\n(B)\nQ25\nConstitutional Development / Freedom Movement\nClassic BPSC trap: High-profile historical quotes often have the author missing from options (A, B, C) to test your confidence in Option (E).\n(E)\nQ26\nIndian National Movement: INA\nFounder = Mohan Singh (with Rash Behari Bose)\n(B)\nQ27\nModern Indian History: Literature\nIndia's national song 'Vande Mataram' was originally composed by Bankim Chandra Chatterjee and included in this very novel 'Anandamath'.\n(A)\nQ28\nIndian National Movement\nSwadeshi & Boycott originated in 1905 (Swadeshi Movement)\n(A)\nQ29\nBihar History: Peasant Movements\nDifferentiate clearly: 1917 Champaran = Raj Kumar Shukla\n(B)\nQ30\nSocial & Cultural Reform / Education\nJonathan Duncan founded Sanskrit College at Varanasi (1791)\n(B)\nQ31\nBritish Colonial Policy / Congress\nDufferin called Congress a 'microscopic minority'\n(C)\nQ32\nGeneral Science: Physics / Optics\nRefraction rule: Frequency (f) remains invariant\n(A)\nQ33\nEnvironmental Science: Pollution\nNitrogen, Oxygen, and Argon constitute 99.9% of clean dry air\n(C)\nQ34\nGeneral Science: Physics / Radiation\nElectromagnetic: Radiowaves, Microwaves, Infrared, Visible, Ultraviolet, X-rays, Gamma rays. Particulate radiation: Alpha rays, Beta rays, Cathode rays.\n(B)\nQ35\nGeneral Science: Physics\nFuse wire characteristics: High resistance and Low melting point (typically made of Tin-Lead alloy).\n(C)\nQ36\nBihar History: Peasant Leadership\nSwami Sahajanand's journal was 'Hunkar', and his central ashram was at Bihta near Patna.\n(B)\nQ37\nEnvironment & Ecology\nDo not select 'forest plants' (Option A)\n(B)\nQ38\nGeneral Science: Botany\nMajor Plant Hormones: Auxin, Gibberellin, Cytokinin, Abscisic acid (stress hormone), and Ethylene (gaseous ripening hormone).\n(A)\nQ39\nIndian National Movement: Revolutionary Activity Abroad\nMadam Cama is revered as the 'Mother of the Indian Revolution'\n(B)\nQ40\nBihar History & Education\nFirst Chancellor of Bihar Vidyapeeth was Maulana Mazharul Haque, and Dr. Rajendra Prasad served as its first Principal.\n(B)\nKey Preparation Strategy & Option (D)/(E) Behavior for BPSC TRE 4.0Analysis of previous papers reveals that BPSC uses Option (D) ('More than one of the above') primarily when multiple events, leaders, or technical applications apply simultaneously (e.g., Newton's third law in both archery and rockets). Option (E) ('None of the above') is systematically triggered when the actual prominent figure, date, or price is omitted from choices (A), (B), and (C) (such as Jawaharlal Nehru for 'Charter of Slavery' or unique linear equation pricing). Mastering these elimination patterns guarantees high scoring in the 40-mark General Studies component."
+      "tip": "First Chancellor of Bihar Vidyapeeth was Maulana Mazharul Haque, and Dr. Rajendra Prasad served as its first Principal.\nMaster Answer Key & Topic Index (Questions 1 to 40)\nQ. No.\nExam Subject / Category\nSub-Topic / Focus Area\nKey"
     }
   ],
   "bpsc-tre4-general-studies-v2": [
@@ -5135,7 +5144,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
       "answer_letter": "A",
       "answer_text": "रूपक",
       "explanation": "यहाँ मंच पर उदयगिरि का, रघुवर पर बाल सूर्य का, संतों पर सरोज (कमल) का तथा लोचनों पर भृंग (भ्रमर) का अभेद आरोप किया गया है, अतः रूपक अलंकार है।💡 Setter's",
-      "tip": "जहाँ उपमेय और उपमान के बीच कोई वाचक शब्द (सा, सी, सरिस, सम, जनु, मनु) न हो और दोनों को एक मान लिया जाए, वहाँ 'रूपक' होता है।\nMASTER ANSWER KEY & QUESTION MAPPING\nQuick-reference matrix of all 40 questions with source mapping and official answer keys:\nQ. No.\nExam Origin\nTopic / Concept\nAnswer Key\nQ1\nTRE 1 (Advt 21/2023)\nDeterminers & Articles (Zero Article)\n(E)\nQ2\nTRE 1 (Advt 21/2023)\nIndefinite Article ('a' before consonant sound)\n(A)\nQ3\nTRE 1 (Advt 21/2023)\nVocabulary (Outdoor / Garden vs. Indoor)\n(C)\nQ4\nTRE 1 (Advt 21/2023)\nGeneral Vocabulary (Railway Station Facilities)\n(D)\nQ5\nTRE 1 (Advt 21/2023)\nAlphabet & Letter Position Calculation\n(B)\nQ6\nTRE 1 (Advt 21/2023)\nVocabulary (Zoo Inmates & Enclosures)\n(D)\nQ7\nTRE 1 (Advt 21/2023)\nKinship / Family Relations (Granddaughter)\n(E)\nQ8\nTRE 1 (Advt 21/2023)\nKinship Vocabulary (Siblings Definition)\n(B)\nQ9\nTRE 2 (Advt 22/2023)\nArticle Phonetics (Abbreviation 'BDO')\n(B)\nQ10\nTRE 2 (Advt 22/2023)\nDefinite Article (Newspaper Names)\n(A)\nQ11\nTRE 2 (Advt 24/2023)\nIndefinite Article (Singular Countable 'Month')\n(B)\nQ12\nTRE 2 (Advt 24/2023)\nIndefinite Article (Profession 'Engineer')\n(B)\nQ13\nTRE 2 (Advt 23/2023)\nDefinite Article ('All the + Plural Noun')\n(C)\nQ14\nTRE 2 (Advt 23/2023)\nIndefinite Article ('an actress')\n(B)\nQ15\nBPSC TRE (Advt 10/2024)\nThird Conditional Inversion ('Had we been...')\n(A)\nQ16\nTRE 1 (Advt 21/2023)\nयण स्वर संधि (प्रति + उत्तर)\n(C)\nQ17\nTRE 1 (Advt 21/2023)\nविसर्ग संधि (मनः + रंजन = मनोरंजन)\n(A)\nQ18\nTRE 1 (Advt 21/2023)\nविराम चिह्न (अर्ध-विराम / Semicolon ';')\n(B)\nQ19\nTRE 1 (Advt 21/2023)\nहिन्दी शब्दकोश वर्णक्रम (शिष्टाचार)\n(A)\nQ20\nTRE 1 (Advt 21/2023)\nविलोम शब्द (व्यास - समास)\n(A)\nQ21\nTRE 1 (Advt 21/2023)\nविदेशी शब्द स्रोत (अमरूद फ़ारसी मूल)\n(B)\nQ22\nTRE 1 (Advt 21/2023)\nहिन्दी बोलियाँ व उपभाषाएँ (मगही - बिहारी)\n(A)\nQ23\nTRE 1 (Advt 21/2023)\nविराम चिह्न की उपयोगिता व भावबोध\n(C)\nQ24\nTRE 1 (Advt 21/2023)\nविराम चिह्न के प्रामाणिक भेद\n(D)\nQ25\nTRE 2 (Advt 22/2023)\nभाषा की व्युत्पत्ति (संस्कृत 'भाष' धातु)\n(C)\nQ26\nTRE 2 (Advt 22/2023)\nपहाड़ी उपभाषा (मध्य पहाड़ी - गढ़वाली)\n(C)\nQ27\nTRE 2 (Advt 22/2023)\nपश्चिमी हिन्दी उपभाषा (कन्नौजी बोली)\n(B)\nQ28\nTRE 2 (Advt 22/2023)\nराजस्थानी उपभाषा (चार प्रमुख बोलियाँ)\n(C)\nQ29\nTRE 2 (Advt 22/2023)\nखड़ी बोली का इतिहास (ग्रियर्सन का कथन)\n(A)\nQ30\nTRE 2 (Advt 22/2023)\nशुद्ध वर्तनी (अंत्याक्षरी)\n(A)\nQ31\nTRE 2 (Advt 22/2023)\nसंधि विच्छेद (नव + ऊढ़ा = नवोढ़ा)\n(E)\nQ32\nTRE 2 (Advt 22/2023)\nसमानार्थी / पर्यायवाची (पारितोषिक = इनाम)\n(A)\nQ33\nTRE 2 (Advt 22/2023)\nप्राचीन भारतीय आर्यभाषा (संस्कृत)\n(A)\nQ34\nTRE 2 (Advt 22/2023)\nसंयुक्त क्रिया के भेद (इच्छाबोधक क्रिया)\n(A)\nQ35\nTRE 2 (Advt 22/2023)\nसंविधान एवं राजभाषा (14 सितम्बर 1949)\n(C)\nQ36\nTRE 2 (Advt 24/2023)\nअविकारी शब्द / अव्यय की परिभाषा\n(C)\nQ37\nTRE 2 (Advt 24/2023)\nकाव्य रस (वात्सल्य रस - यशोदा-कृष्ण)\n(C)\nQ38\nTRE 2 (Advt 23/2023)\nप्रत्यय-रहित शब्द की पहचान (भावविह्वल)\n(B)\nQ39\nTRE 2 (Advt 23/2023)\nवर्ण विचार (अल्पप्राण व्यंजन 'च')\n(B)\nQ40\nTRE 2 (Advt 23/2023)\nकाव्य अलंकार (सांग रूपक अलंकार)\n(A)\nEXAM SETTER'S STRATEGIC DECODING FOR BPSC TRE 4.0\n• The 'Option (D) More than one of the above' Trap: In BPSC examinations, whenever a question presents general categories (e.g. railway station parts, zoo animals, valid punctuation errors), candidates must rigorously evaluate if at least two choices are independently true. Over 15% of language questions deliberately leverage Option (D).\n• The 'Option (E) None of the above' Trap: Option (E) is heavily used in kinship terms (missing 'granddaughter'), subtle spelling variations in संधि (like 'नव + उढ़ा' instead of 'नव + ऊढ़ा'), and zero-article rules. Do not force an answer among (A), (B), or (C) if the exact technical term is absent.\n• Sound-Based Phonetic Articles in English: BPSC consistently tests phonetic sounds over alphabet letters: designations like 'BDO' (starts with /b/, taking 'a') vs. 'SDO' (starts with /es/, taking 'an'), and abbreviations or vowel-starting professions ('engineer', 'actress').\n• High-Yield Hindi Core Syllabus: Focus heavily on (1) Hindi Dialects & Sub-language mapping (बिहारी, पश्चिमी हिन्दी, राजस्थानी, पहाड़ी), (2) Constitutional Provisions (14 September 1949, Article 343), (3) Punctuation marks (विराम चिह्न), and (4) Sandhi & Samas fundamentals."
+      "tip": "जहाँ उपमेय और उपमान के बीच कोई वाचक शब्द (सा, सी, सरिस, सम, जनु, मनु) न हो और दोनों को एक मान लिया जाए, वहाँ 'रूपक' होता है।\nMASTER ANSWER KEY & QUESTION MAPPING\nQuick-reference matrix of all 40 questions with source mapping and official answer keys:\nQ. No.\nExam Origin\nTopic / Concept\nAnswer Key"
     }
   ],
   "bpsc-tre4-qualifying-paper-set2-40q": [
@@ -5858,6 +5867,1448 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
       "answer_text": "र",
       "explanation": "'र' ध्वनि के उच्चारण में जिह्वा का अग्र भाग वर्तस्य (मसूड़े) को छूकर हवा के वेग से 2-3 बार कांपता (प्रकंपित) होता है, इसलिए इसे 'प्रकंपी' या 'लुंठित' व्यंजन कहते हैं।",
       "tip": "वर्ण प्रयत्न वर्गीकरण: प्रकंपी/लुंठित = 'र'; पाश्विक व्यंजन = 'ल'; अर्धस्वर = 'य' और 'व'; काकल्य व्यंजन = 'ह'।\nMASTER ANSWER KEY SUMMARY — QUALIFYING PRACTICE SET 2\nComplete 40-Question Tabular Key with Subject Sections and Topic Focus Tags:\nQ. No.\nSection\nTopic / Grammar Concept Tested\nOfficial Key"
+    }
+  ],
+  "bpsc-tre4-sanskrit-80q": [
+    {
+      "id": 1,
+      "source": "BPSC Teacher TGT Sanskrit",
+      "en": "How many Maheshwara Sutras are there?",
+      "hi": "माहेश्वरसूत्राणां संख्या कति अस्ति?",
+      "options": [
+        "द्वादश (12)",
+        "चतुर्दश (14)",
+        "षोडश (16)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चतुर्दश (14)",
+      "explanation": "भगवान् शङ्करस्य नटराजराजस्य डमरूध्वनेः निर्गतानि चतुर्दश (14) सूत्राणि सन्ति, यैः प्रत्याहाराणां निर्माणं भवति ('नृत्तावसाने नटराजराजो ननाद ढक्कां नवपञ्चवारम्')।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): नवपञ्चवारम् = 9 + 5 = 14 माहेश्वर सूत्राणि ('अइउण्' आरभ्य 'हल्' पर्यन्तम्)। एभ्यः 42 (वा 44) प्रत्याहाराः निष्पद्यन्ते।",
+      "tip": ""
+    },
+    {
+      "id": 2,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Which characters come under the 'Ak' Pratyahara?",
+      "hi": "'अक्' प्रत्याहारस्य अन्तर्गतं के वर्णाः आगच्छन्ति?",
+      "options": [
+        "अ, इ, उ, ऋ, ऌ",
+        "अ, इ, उ, ऋ, ल",
+        "आ, ई, ऊ, ॠ, ॡ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अ, इ, उ, ऋ, ऌ",
+      "explanation": "माहेश्वरसूत्रयोः 'अइउण्' तथा 'ऋऌक्' इत्यनयोः 'अक्' प्रत्याहारे इत्संज्ञकौ 'ण्' तथा 'क्' विहाय पञ्च मूलस्वराः (अ, इ, उ, ऋ, ऌ) परिगणिताः भवन्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): 'अकः सवर्णे दीर्घः' सूत्रे 'अक्' प्रत्याहारस्य पञ्च ह्रस्वस्वराः (अ, इ, उ, ऋ, ऌ) एव गृह्यन्ते।",
+      "tip": ""
+    },
+    {
+      "id": 3,
+      "source": "BPSC TGT Sanskrit",
+      "en": "What is the place of articulation for Ka-varga?",
+      "hi": "'क' वर्गस्य उच्चारणस्थानं किम् अस्ति?",
+      "options": [
+        "कण्ठः",
+        "तालु",
+        "मूर्धा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "कण्ठः",
+      "explanation": "पाणिनीयशिक्षायाः सूत्रानुसारम् 'अकुहविसर्जनीयानां कण्ठः'। अतः 'अ', कवर्गः (क्, ख्, ग्, घ्, ङ्), 'ह' तथा विसर्गस्य उच्चारणस्थानं कण्ठः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): उच्चारणस्थान सूत्राणि: कण्ठः = अकुहविसर्जनीयानाम्; तालु = इचुयशाम्; मूर्धा = ऋटुरषाणाम्; दन्ताः = लृतुलसानाम्; ओष्ठौ = उपूपध्मानीयानाम्।",
+      "tip": ""
+    },
+    {
+      "id": 4,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "By which sutra does sandhi occur in 'Daityarih'?",
+      "hi": "'दैत्यारिः' इत्यत्र केन सूत्रेण सन्धिः भवति?",
+      "options": [
+        "अकः सवर्णे दीर्घः",
+        "आद्गुणः",
+        "वृद्धिरेचि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अकः सवर्णे दीर्घः",
+      "explanation": "'दैत्य + अरिः = दैत्यारिः'। अत्र अकारद्वयस्य सवर्णदीर्घैकादेशः 'अकः सवर्णे दीर्घः' सूत्रेण जायते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): सवर्णदीर्घ सन्धिः: अ/आ + अ/आ = आ; इ/ई + इ/ई = ई; उ/ऊ + उ/ऊ = ऊ; ऋ + ऋ = ॠ।",
+      "tip": ""
+    },
+    {
+      "id": 5,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "What is the sandhi viccheda of 'Upendrah'?",
+      "hi": "'उपेन्द्रः' इत्यस्य सन्धिविच्छेदः कः अस्ति?",
+      "options": [
+        "उप + इन्द्रः",
+        "उपे + न्द्रः",
+        "उपा + इन्द्रः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उप + इन्द्रः",
+      "explanation": "'उप + इन्द्रः = उपेन्द्रः'। 'आद्गुणः' सूत्रेण अवर्णात् (उप) इचि परे (इन्द्रः) पूर्वपरयोः स्थाने गुण एकादेशः 'ए' भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): गुण सन्धि एकादेशाः: अ + इ = ए (उपेन्द्रः); अ + उ = ओ (सूर्योदयः); अ + ऋ = अर् (महर्षिः); अ + ऌ = अल् (तवल्कारः)।",
+      "tip": ""
+    },
+    {
+      "id": 6,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'इको यणचि' सूत्रेण 'मध्वरिः' इत्यस्य सन्धिविच्छेदः भवति",
+      "hi": "'इको यणचि' सूत्रेण 'मध्वरिः' इत्यस्य सन्धिविच्छेदः भवति",
+      "options": [
+        "मधु + अरिः",
+        "मध्व + रिः",
+        "मधो + अरिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मधु + अरिः",
+      "explanation": "'मधु + अरिः = मध्वरिः'। यण्सन्धौ 'इक्' (उकारस्य) स्थाने असमानस्वरे परे 'यण्' (व्) आदेशः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): यण् सन्धिः: इ -> य् (इत्यलम); उ -> व् (मध्वरिः, स्वागतम्); ऋ -> र् (पित्राज्ञा); ऌ -> ल् (लाकृतिः)।",
+      "tip": ""
+    },
+    {
+      "id": 7,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'नायकः' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Nāyakah'?)",
+      "hi": "'नायकः' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Nāyakah'?)",
+      "options": [
+        "एचोऽयवायावः",
+        "वृद्धिरेचि",
+        "एङि पररूपम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "एचोऽयवायावः",
+      "explanation": "'नै + अकः = नायकः'। अत्र ऐकारस्य स्थाने 'एचोऽयवायावः' सूत्रेण अचि परे 'आय्' आदेशः भवति (न् + आय् + अकः = नायकः)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): अयादि सन्धिः: ए -> अय् (शयनम्); ऐ -> आय् (नायकः); ओ -> अव् (पवनम्); औ -> आव् (पावकः)।",
+      "tip": ""
+    },
+    {
+      "id": 8,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'वागीशः' इत्यत्र कः सन्धिः अस्ति? (Which sandhi is present in 'Vāgīśah'?)",
+      "hi": "'वागीशः' इत्यत्र कः सन्धिः अस्ति? (Which sandhi is present in 'Vāgīśah'?)",
+      "options": [
+        "जश्त्व सन्धिः",
+        "श्चुत्व सन्धिः",
+        "ष्टुत्व सन्धिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "जश्त्व सन्धिः",
+      "explanation": "'वाक् + ईशः = वागीशः'। 'झलां जशोऽन्ते' सूत्रेण पदान्त-झल् (क्) स्थाने जश् (ग्) आदेशः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): जश्त्व सन्धिः: क् -> ग्, च् -> ज्, ट् -> ड्, त् -> द्, प् -> ब् (वागीशः, अजन्तः, षडाननः, जगदीशः)।",
+      "tip": ""
+    },
+    {
+      "id": 9,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'रामश्चिनोति' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Rāmaścinoti'?)",
+      "hi": "'रामश्चिनोति' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Rāmaścinoti'?)",
+      "options": [
+        "स्तोः श्चुना श्चुः",
+        "ष्टुना ष्टुः",
+        "झलां जश् झशि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "स्तोः श्चुना श्चुः",
+      "explanation": "'रामस् + चिनोति = रामश्चिनोति'। अत्र 'स्तोः श्चुना श्चुः' सूत्रेण सकारस्य चवर्गेण योगे सति तालव्य-शकारः (श्) आदेशः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): श्चुत्व सन्धिः: स/तवर्गस्य श/चवर्गेण योगे सकारस्य 'श्' तथा तवर्गस्य चवर्गः भवति (हरिशेते, सच्छिष्यः)।",
+      "tip": ""
+    },
+    {
+      "id": 10,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "What is the sandhi viccheda of 'Manorathah'?",
+      "hi": "'मनोरथः' इत्यस्य सन्धिविच्छेदः कः?",
+      "options": [
+        "मनः + रथः",
+        "मनो + रथः",
+        "मनस् + अथः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मनः + रथः",
+      "explanation": "'मनः + रथः = मनोरथः'। 'हशि च' सूत्रेण अप्लुतादतः परस्य रोः हशि परे उत्वं भवति, ततः आद्गुणः सूत्रेण 'अ + उ = ओ' जायते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): उत्व विसर्ग सन्धिः: मनः + हरः = मनोहरः; मनः + रथः = मनोरथः; यशः + दा = यशोदा; तपः + वनम् = तपोवनम्।",
+      "tip": ""
+    },
+    {
+      "id": 11,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which compound predominantly has the second member principal?",
+      "hi": "प्रायशः उत्तरपदप्रधानः समासः कः भवति?",
+      "options": [
+        "अव्ययीभावः",
+        "तत्पुरुषः",
+        "बहुव्रीहिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "तत्पुरुषः",
+      "explanation": "सिद्धान्तकौमुद्याम् उक्तम्: 'प्रायेण उत्तरपदार्थप्रधानस्तत्पुरुषः'। पूर्वपदप्रधानः अव्ययीभावः, अन्यपदप्रधानः बहुव्रीहिः, उभयपदप्रधानः द्वन्द्वः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): समास प्रधानता: पूर्वपदप्रधानः = अव्ययीभावः; उत्तरपदप्रधानः = तत्पुरुषः; उभयपदप्रधानः = द्वन्द्वः; अन्यपदप्रधानः = बहुव्रीहिः।",
+      "tip": ""
+    },
+    {
+      "id": 12,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'यथाशक्ति' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Yathāśakti'?)",
+      "hi": "'यथाशक्ति' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Yathāśakti'?)",
+      "options": [
+        "अव्ययीभावः",
+        "तत्पुरुषः",
+        "कर्मधारयः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अव्ययीभावः",
+      "explanation": "'शक्तिम् अनतिक्रम्य = यथाशक्ति'। अत्र 'यथा' इति अव्ययस्य पदार्थानतिवृत्ति-अर्थे अव्ययीभाव समासः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): अव्ययीभाव उदाहरणानि: यथाशक्ति (शक्तिम् अनतिक्रम्य), उपगङ्गम् (गङ्गायाः समीपम्), प्रतिदिनम् (दिनं दिनं प्रति)।",
+      "tip": ""
+    },
+    {
+      "id": 13,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'घनश्यामः' इत्यस्य सामासिक-विग्रहः कः अस्ति? (What is the compound dissolution of 'Ghanaśyāmah'?)",
+      "hi": "'घनश्यामः' इत्यस्य सामासिक-विग्रहः कः अस्ति? (What is the compound dissolution of 'Ghanaśyāmah'?)",
+      "options": [
+        "घनः इव श्यामः",
+        "घनः च श्यामः",
+        "घने श्यामः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "घनः इव श्यामः",
+      "explanation": "'उपमानानि सामान्यवचनैः' सूत्रेण 'घनः इव श्यामः = घनश्यामः' इत्यत्र उपमान-पूर्वपद कर्मधारय समासः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): कर्मधारय उपमान-उपमेय: घनश्यामः (घनः इव श्यामः); नरसिंहः (सिंहः इव नरः); चन्द्रमुखम् (चन्द्रः इव मुखम्)।",
+      "tip": ""
+    },
+    {
+      "id": 14,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'पञ्चगवम्' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Pañcagavam'?)",
+      "hi": "'पञ्चगवम्' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Pañcagavam'?)",
+      "options": [
+        "द्विगुः",
+        "द्वन्द्वः",
+        "बहुव्रीहिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "द्विगुः",
+      "explanation": "'संख्यापूर्वो द्विगुः'। 'पञ्चानां गवां समाहारः = पञ्चगवम्'। समाहारे द्विगुः नित्यं नपुंसकलिंगे एकवचने प्रयुज्यते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): द्विगु समासः संख्यावाचकः समाहारपरकः च भवति (त्रिभुवनम्, पञ्चवटी, शताब्दी)।",
+      "tip": ""
+    },
+    {
+      "id": 15,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'पीताम्बरः' इत्यत्र कः समासः अस्ति? (Which compound is in 'Pītāmbarah'?)",
+      "hi": "'पीताम्बरः' इत्यत्र कः समासः अस्ति? (Which compound is in 'Pītāmbarah'?)",
+      "options": [
+        "कर्मधारयः",
+        "बहुव्रीहिः",
+        "तत्पुरुषः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "बहुव्रीहिः",
+      "explanation": "'पीतं अम्बरं यस्य सः = पीताम्बरः (विष्णुः/श्रीकृष्णः)'। अत्र अन्यपदार्थप्रधानत्वात् बहुव्रीहि समासः भवति। यदि 'पीताम्बरम्' नपुंसकलिङ्गे स्यात् तर्हि कर्मधारयः भवेत्।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): लिङ्गभेदं पश्यतु: 'पीताम्बरः' (पुंल्लिङ्गः) = बहुव्रीहिः; 'पीताम्बरम्' (नपुंसकलिङ्गः) = कर्मधारयः (पीतं वस्त्रम्)।",
+      "tip": ""
+    },
+    {
+      "id": 16,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'मातापितरौ' इत्यत्र कः समासः? (Which compound is in 'Mātāpitarau'?)",
+      "hi": "'मातापितरौ' इत्यत्र कः समासः? (Which compound is in 'Mātāpitarau'?)",
+      "options": [
+        "इतरेतर द्वन्द्वः",
+        "समाहार द्वन्द्वः",
+        "एकशेष द्वन्द्वः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "इतरेतर द्वन्द्वः",
+      "explanation": "'माता च पिता च = मातापितरौ'। अत्र द्वयोः पदयोः पृथक्-पृथक् अस्तित्वस्य बोधनात् 'इतरेतर द्वन्द्व' समासः अस्ति। यदि केवलं 'पितरौ' स्यात् तदा एकशेषः स्यात्।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): द्वन्द्वभेदाः: मातापितरौ = इतरेतर द्वन्द्वः; पाणिपादम् = समाहार द्वन्द्वः; पितरौ = एकशेष द्वन्द्वः।",
+      "tip": ""
+    },
+    {
+      "id": 17,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "That which directly connects with the action is called",
+      "hi": "क्रियायाः साक्षात् अन्वयः येन सह भवति, तत् किम् उच्यते?",
+      "options": [
+        "कारकम्",
+        "समासः",
+        "सन्धिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "कारकम्",
+      "explanation": "संस्कृतव्याकरणे कारकस्य लक्षणम् अस्ति: 'क्रियान्वयित्वं कारकत्वम्' अथवा 'क्रियाजनकत्वं कारकत्वम्'। संस्कृते षट् कारकाणि सन्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): संस्कृते षट् कारकाणि: कर्ता, कर्म, करणम्, सम्प्रदानम्, अपादानम्, अधिकरणम्। सम्बन्धस्य साक्षात् अन्वयाभावात् कारकत्वं न मन्यते।",
+      "tip": ""
+    },
+    {
+      "id": 18,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'साधकतमं करणम्' सूत्रेण का विभक्तिः विधीयते? (Which case is prescribed by 'Sādhakatamam Karanam'?)",
+      "hi": "'साधकतमं करणम्' सूत्रेण का विभक्तिः विधीयते? (Which case is prescribed by 'Sādhakatamam Karanam'?)",
+      "options": [
+        "तृतीया",
+        "चतुर्थी",
+        "पञ्चमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तृतीया",
+      "explanation": "क्रियासिद्धौ यत् सर्वाधिकं सहायकं भवति तस्य करणसंज्ञा भवति ('साधकतमं करणम्'), तथा 'कर्तृकरणयोस्तृतीया' सूत्रेण तस्मिन् तृतीया विभक्तिः प्रयुज्यते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): करण कारक तृतीया: 'सः कलमेन लिखति' (कलमेन = तृतीया); 'रामेण बाणेन हतो वाली'।",
+      "tip": ""
+    },
+    {
+      "id": 19,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'अक्ष्णा काणः' इत्यत्र केन सूत्रेण तृतीया विभक्तिः अभवत्?",
+      "hi": "'अक्ष्णा काणः' इत्यत्र केन सूत्रेण तृतीया विभक्तिः अभवत्?",
+      "options": [
+        "येनाङ्गविकारः",
+        "इत्थम्भूतलक्षणे",
+        "हेतौ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "येनाङ्गविकारः",
+      "explanation": "'येनाङ्गविकारः' सूत्रानुसारं येन विकृतेन अङ्गेन अङ्गिनः विकारः लक्ष्यते, तस्मिन् विकृताङ्गे तृतीया विभक्तिः भवति (यथा- अक्ष्णा काणः, पादेन खञ्जः, शीर्षणा खल्वाटः)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): अङ्गविकारे तृतीया: पादेन खञ्जः, कर्णेन बधिरः, अक्ष्णा काणः -> सूत्रम्: 'येनाङ्गविकारः'।",
+      "tip": ""
+    },
+    {
+      "id": 20,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'नमः स्वस्तिस्वाहास्वधाऽलंवषड्योगाच्च' सूत्रेण का विभक्तिः प्रयुज्यते?",
+      "hi": "'नमः स्वस्तिस्वाहास्वधाऽलंवषड्योगाच्च' सूत्रेण का विभक्तिः प्रयुज्यते?",
+      "options": [
+        "तृतीया",
+        "चतुर्थी",
+        "पञ्चमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चतुर्थी",
+      "explanation": "नमः, स्वस्ति, स्वाहा, स्वधा, अलम् तथा वषट् एतेषां शब्दानां योगे सर्वदा चतुर्थी विभक्तिः भवति (यथा- विष्णवे नमः, अग्नये स्वाहा, दैत्येभ्यो हरिरलम्)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): उपदविभक्ति चतुर्थी: 'शिवाय नमः', 'प्रजाभ्यः स्वस्ति', 'इन्द्राय वषट्'।",
+      "tip": ""
+    },
+    {
+      "id": 21,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'रुच्यार्थानां प्रीयमाणः' सूत्रस्य उदाहरणं किम् अस्ति?",
+      "hi": "'रुच्यार्थानां प्रीयमाणः' सूत्रस्य उदाहरणं किम् अस्ति?",
+      "options": [
+        "बालकाय मोदकं रोचते",
+        "हरये रोचते भक्तिः",
+        "विप्राय गां ददाति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "'रुच्' धातोः प्रयोगे यः प्रीयमाणः (प्रसन्नो भवति) तस्य सम्प्रदानसंज्ञा भूत्वा चतुर्थी भवति। अत्र 'बालकाय मोदकं रोचते' तथा 'हरये रोचते भक्तिः' द्वे अपि शुद्धोदाहरणे स्तः।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): द्वयोः विकल्पयोः सत्यत्वात् BPSC परीक्षायां विकल्पः (D) उपर्युक्त में से एक से अधिक उत्तरम् भविष्यति।",
+      "tip": ""
+    },
+    {
+      "id": 22,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'ध्रुवमपायेऽपादानम्' सूत्रेण कस्याः विभक्तेः विधानं भवति?",
+      "hi": "'ध्रुवमपायेऽपादानम्' सूत्रेण कस्याः विभक्तेः विधानं भवति?",
+      "options": [
+        "पञ्चमी",
+        "चतुर्थी",
+        "षष्ठी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "पञ्चमी",
+      "explanation": "अपाये (विश्लेषे/पृथग्भावकार्ये) यद् ध्रुवम् (अवधिभूतम्) तत् अपादानसंज्ञकं भवति, 'अपादाने पञ्चमी' सूत्रेण च तस्मिन् पञ्चमी विभक्तिः प्रयुज्यते (यथा- वृक्षात् पत्रं पतति)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): पृथक्करणे पञ्चमी: वृक्षात् पत्रं पतति; ग्रामात् आयाति; आसनात् उत्तिष्ठति।",
+      "tip": ""
+    },
+    {
+      "id": 23,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'यस्य च भावेन भावलक्षणम्' सूत्रस्य प्रसिद्धम् उदाहरणं किम्?",
+      "hi": "'यस्य च भावेन भावलक्षणम्' सूत्रस्य प्रसिद्धम् उदाहरणं किम्?",
+      "options": [
+        "गोषु दुह्यमानासु गतः",
+        "रुदति प्राव्रजीत्",
+        "गवां कृष्णा बहुक्षीरा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "गोषु दुह्यमानासु गतः",
+      "explanation": "यस्य क्रियाया अन्यस्याः क्रियायाः कालो लक्ष्यते तत्र सप्तमी विभक्तिः भवति (सप्तमी भावविभक्तिः)। 'गोषु दुह्यमानासु गतः' तथा 'सूर्ये उदिते कमलं विकसति' अस्य मुख्योदाहरणे स्तः।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): सति-सप्तमी / भावलक्षणम्: 'रामे वनं गते दशरथः प्राणान् अत्यजत्', 'सूर्ये उदिते'।",
+      "tip": ""
+    },
+    {
+      "id": 24,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'हरये क्रुध्यति' इत्यत्र 'हरि' शब्दस्य सम्प्रदानसंज्ञा केन सूत्रेण भवति?",
+      "hi": "'हरये क्रुध्यति' इत्यत्र 'हरि' शब्दस्य सम्प्रदानसंज्ञा केन सूत्रेण भवति?",
+      "options": [
+        "क्रुधद्रुहेर्ष्यासूयार्थानां यं प्रति कोपः",
+        "क्रुधद्रुहोरुपसृष्टयोः कर्म",
+        "कर्मणा यमभिप्रेति स सम्प्रदानम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "क्रुधद्रुहेर्ष्यासूयार्थानां यं प्रति कोपः",
+      "explanation": "क्रुध्, द्रुह्, ईर्ष्य, असूय् धात्वर्थानां प्रयोगे यं प्रति कोपः क्रियते तस्य सम्प्रदानसंज्ञा भवति तथा चतुर्थी विभक्तिः प्रयुज्यते ('हरये क्रुध्यति')।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): सावधानी: यदि क्रुध्/द्रुह् धातोः पूर्वम् उपसर्गः स्यात् (यथा- अभिक्रुध्यति), तर्हि द्वितीया भवति ('हरिम् अभिक्रुध्यति')।",
+      "tip": ""
+    },
+    {
+      "id": 25,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'अपादाने पञ्चमी' सूत्रेण 'भीत्रार्थानां भयहेतुः' इत्यस्य उदाहरणं किम्?",
+      "hi": "'अपादाने पञ्चमी' सूत्रेण 'भीत्रार्थानां भयहेतुः' इत्यस्य उदाहरणं किम्?",
+      "options": [
+        "चौरात् बिभेति",
+        "वृक्षात् फलं पतति",
+        "सिंहात् त्रायते",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "भी (भयार्थक) तथा त्रा (रक्षार्थक) धातूनां प्रयोगे भयस्य यः हेतुः (कारणं) तस्य अपादानसंज्ञा भवति। अत्र 'चौरात् बिभेति' तथा 'सिंहात् त्रायते' द्वे अपि शुद्धे स्तः।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): भयहेतु अपादान: सर्पात् बिभेति; व्याघ्रात् त्रायते -> द्वयोः विकल्पयोः सद्भावात् (D) उत्तरम्।",
+      "tip": ""
+    },
+    {
+      "id": 26,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Who is the author of Ashtadhyayi?",
+      "hi": "'अष्टाध्यायी' ग्रन्थस्य रचयिता कः अस्ति?",
+      "options": [
+        "महर्षि पाणिनिः",
+        "कात्यायनः",
+        "पतञ्जलिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "महर्षि पाणिनिः",
+      "explanation": "संस्कृतव्याकरणस्य सर्वप्रमुखः ग्रन्थः 'अष्टाध्यायी' महर्षिणा पाणिनिना विरचितः, यस्मिन् अष्टौ अध्यायाः प्रायः 4000 सूत्राणि च सन्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): मुनित्रयम्: सूत्रकारः = पाणिनिः; वार्तिककारः = कात्यायनः (वररुचिः); भाष्यकारः = पतञ्जलिः (महाभाष्यम्)।",
+      "tip": ""
+    },
+    {
+      "id": 27,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Who is not included in the 'Munitraya'?",
+      "hi": "संस्कृतव्याकरणे 'मुनित्रय' अन्तर्गतः कः न आगच्छति?",
+      "options": [
+        "पाणिनिः",
+        "पतञ्जलिः",
+        "भरतमुनिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "भरतमुनिः",
+      "explanation": "व्याकरणपरम्परायां पाणिनि-कात्यायन-पतञ्जलयः 'मुनित्रयम्' उच्यन्ते। भरतमुनिः नाट्यशास्त्रस्य प्रणेता अस्ति, न तु व्याकरण-मुनित्रयस्य।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): व्याकरण मुनित्रय = पाणिनिः, कात्यायनः, पतञ्जलिः। भरतमुनिः = नाट्यशास्त्र प्रवर्तकः।",
+      "tip": ""
+    },
+    {
+      "id": 28,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'भू' धातोः लट्लकारस्य प्रथमपुरुष-बहुवचने रूपं भवति",
+      "hi": "'भू' धातोः लट्लकारस्य प्रथमपुरुष-बहुवचने रूपं भवति",
+      "options": [
+        "भवति",
+        "भवतः",
+        "भवन्ति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "भवन्ति",
+      "explanation": "'भू' (सत्तायाम्) धातोः लट्लकारे (वर्तमाने) रूपाणि भवन्ति: प्रथमपुरुषे- भवति, भवतः, भवन्ति। अतः बहुवचने 'भवन्ति' रूपं सिद्ध्यति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): लट् लकार प्रथमपुरुष रूपाणि: एकवचने = भवति; द्विवचने = भवतः; बहुवचने = भवन्ति।\nभाग २: संस्कृत-साहित्यम्, महाकाव्यानि, रूपकाणि, वैदिकसाहित्यम् च (प्रश्न २९ तः ५५)",
+      "tip": ""
+    },
+    {
+      "id": 29,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Who is honoured as 'Kavikulguru'?",
+      "hi": "संस्कृतसाहित्ये 'कविकुलगुरुः' इति उपाधिना कः विभूषितः?",
+      "options": [
+        "महाकवि कालिदासः",
+        "महाकवि भारविः",
+        "महाकवि बाणभट्टः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "महाकवि कालिदासः",
+      "explanation": "जयदेवेन प्रसन्नराघवे 'कविकुलगुरुः कालिदासो विलासः' इति उक्तम्। कालिदासः उपमासम्राट् अपि कथ्यते ('उपमा कालिदासस्य')।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): कालिदासस्य उपाधयः: कविकुलगुरुः, उपमासम्राट्, दीपशिखा-कालिदासः, रघुपतिः।",
+      "tip": ""
+    },
+    {
+      "id": 30,
+      "source": "BPSC TGT Sanskrit",
+      "en": "How many authentic works of Kalidasa are accepted?",
+      "hi": "कालिदासस्य कति प्रामाणिकाः कृतयः स्वीक्रियन्ते?",
+      "options": [
+        "पञ्च (5)",
+        "सप्त (7)",
+        "नव (9)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "सप्त (7)",
+      "explanation": "कालिदासस्य सप्त प्रामाणिकग्रन्थाः सन्ति: महाकाव्यद्वयम् (रघुवंशम्, कुमारसम्भवम्), खण्डकाव्यद्वयम् (मेघदूतम्, ऋतुसंहारम्), नाटकत्रयम् (अभिज्ञानशाकुन्तलम्, विक्रमोर्वशीयम्, मालविकाग्निमित्रम्)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): कालिदासस्य 7 कृतयः: 2 महाकाव्ये + 2 खण्डकाव्ये + 3 नाटकानि।",
+      "tip": ""
+    },
+    {
+      "id": 31,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "How many acts are there in Abhijnanashakuntalam?",
+      "hi": "'अभिज्ञानशाकुन्तलम्' नाटके कति अङ्काः सन्ति?",
+      "options": [
+        "पञ्च (5)",
+        "सप्त (7)",
+        "दश (10)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "सप्त (7)",
+      "explanation": "कालिदासस्य सर्वश्रेष्ठनाटके 'अभिज्ञानशाकुन्तले' सप्त (7) अङ्काः सन्ति, यस्य चतुर्थोऽङ्कः सर्वाधिकप्रसिद्धः मर्मस्पर्शी च मन्यते ('काव्येषु नाटकं रम्यं तत्र रम्या शकुन्तला। तत्रापि च चतुर्थोऽङ्कः')।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): अभिज्ञानशाकुन्तलम् = 7 अङ्काः; शृङ्गाररसप्रधानम्; नायकः दुष्यन्तः (धीरोदात्तः), नायिका शकुन्तला। चतुर्थे अङ्के 4 श्लोकाः सर्वोत्कृष्टाः।",
+      "tip": ""
+    },
+    {
+      "id": 32,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "How many cantos are in Raghuvamsham?",
+      "hi": "'रघुवंशम्' महाकाव्ये कति सर्गाः सन्ति?",
+      "options": [
+        "नवदश (19)",
+        "सप्तदश (17)",
+        "द्वाविंशतिः (22)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "नवदश (19)",
+      "explanation": "महाकवि कालिदासविरचिते 'रघुवंशम्' महाकाव्ये नवदश (19) सर्गाः सन्ति, यत्र दिलीप-रघु-अज-दशरथ-रामादीनां 31 सूर्यवंशीय-राजानां वर्णनं वर्तते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): सर्गाः: रघुवंशम् = 19 सर्गाः; कुमारसम्भवम् = 17 सर्गाः; किरातार्जुनीयम् = 18 सर्गाः; शिशुपालवधम् = 20 सर्गाः; नैषधीयचरितम् = 22 सर्गाः।",
+      "tip": ""
+    },
+    {
+      "id": 33,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which text is not counted in 'Brihattrayi'?",
+      "hi": "संस्कृतसाहित्ये 'बृहत्त्रयी' अन्तर्गतः कः ग्रन्थः न गण्यते?",
+      "options": [
+        "किरातार्जुनीयम्",
+        "शिशुपालवधम्",
+        "रघुवंशम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "रघुवंशम्",
+      "explanation": "बृहत्त्रयी त्रयः ग्रन्थाः सन्ति: किरातार्जुनीयम् (भारविः), शिशुपालवधम् (माघः), नैषधीयचरितम् (श्रीहर्षः) - सूत्रम् 'किशिनै'। 'रघुवंशम्' तु लघुत्रय्याम् आगच्छति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): बृहत्त्रयी = किरातार्जुनीयम् (18), शिशुपालवधम् (20), नैषधीयचरितम् (22)। लघुत्रयी = रघुवंशम्, कुमारसम्भवम्, मेघदूतम् (कालिदासस्य त्रयः ग्रन्थाः)।",
+      "tip": ""
+    },
+    {
+      "id": 34,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'भारवेरर्थगौरवम्' इति प्रशंसोक्तिः कस्य कवेः कृते प्रसिद्धा? (For which poet is 'Bhāraverarthagauravam' famous?)",
+      "hi": "'भारवेरर्थगौरवम्' इति प्रशंसोक्तिः कस्य कवेः कृते प्रसिद्धा? (For which poet is 'Bhāraverarthagauravam' famous?)",
+      "options": [
+        "माघस्य",
+        "भारवेः",
+        "दण्डिनः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "भारवेः",
+      "explanation": "प्रसिद्धश्लोकः अस्ति: 'उपमा कालिदासस्य भारवेरर्थगौरवम्। दण्डिनः पदलालित्यं माघे सन्ति त्रयो गुणाः॥' अतः अर्थगौरवाय महाकविः भारविः प्रसिद्धः अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): चतुष्टय गुण स्मरतु: कालिदासः = उपमा; भारविः = अर्थगौरवम्; दण्डी = पदलालित्यम्; माघः = त्रयो गुणाः।",
+      "tip": ""
+    },
+    {
+      "id": 35,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "What is the very first word of Kiratarjuniyam?",
+      "hi": "'किरातार्जुनीयम्' महाकाव्यस्य प्रथमः शब्दः कः अस्ति?",
+      "options": [
+        "श्रियः",
+        "नमः",
+        "कश्चित्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "श्रियः",
+      "explanation": "किरातार्जुनीयस्य मङ्गलाचरणम् 'श्रियः कुरुणामधिपस्य पालनीम्' इति 'श्रियः' शब्देन प्रारभ्यते, प्रत्येकसर्गस्य च अन्तिमः श्लोकः 'लक्ष्मी' शब्देन समाप्यते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): किरातार्जुनीयम् = 'श्रियः' शब्देन आरम्भः, 'लक्ष्मी' शब्देन सर्गान्तः। शिशुपालवधम् = 'श्रियः' शब्देन आरम्भः, 'श्री' शब्देन सर्गान्तः।",
+      "tip": ""
+    },
+    {
+      "id": 36,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Who is the author of Shishupalavadham?",
+      "hi": "'शिशुपालवधम्' महाकाव्यस्य रचयिता कः अस्ति?",
+      "options": [
+        "महाकवि माघः",
+        "श्रीहर्षः",
+        "भारविः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "महाकवि माघः",
+      "explanation": "'शिशुपालवधम्' महाकाव्यस्य प्रणेता महाकविः माघः अस्ति, यस्मिन् विंशतिः (20) सर्गाः सन्ति तथा श्रीकृष्णद्वारा शिशुपालस्य वधस्य कथा वर्णिता अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): माघः राजस्थानस्य भीनमाल-निवासी आसीत्। 'नवसर्गगते माघे नवशब्दो न विद्यते'।",
+      "tip": ""
+    },
+    {
+      "id": 37,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Which work is famous as 'Vidvad-aushadham'?",
+      "hi": "'विद्वदौषधम्' इति नाम्ना कः ग्रन्थः प्रसिद्धः अस्ति?",
+      "options": [
+        "नैषधीयचरितम्",
+        "किरातार्जुनीयम्",
+        "कादम्बरी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "नैषधीयचरितम्",
+      "explanation": "श्रीहर्षविरचितं 'नैषधीयचरितम्' पाण्डित्यपूर्ण-क्लिष्टरचनात्वात् विदुषां कृते औषधसदृशं मन्यते ('नैषधं विद्वदौषधम्')। अत्र द्वाविंशतिः (22) सर्गाः सन्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): नैषधीयचरितम् = विद्वदौषधम्; नल-दमयन्त्याः कथा; शृङ्गाररसप्रधानम्; रचयिता श्रीहर्षः (कान्यकुब्जनरेशस्य जयचन्द्रस्य सभापण्डितः)।",
+      "tip": ""
+    },
+    {
+      "id": 38,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "From which work is this sukti taken?",
+      "hi": "'हितं मनोहारि च दुर्लभं वचः' इति सूक्तिः कस्मात् ग्रन्थात् उद्धृता?",
+      "options": [
+        "किरातार्जुनीयात्",
+        "रघुवंशात्",
+        "मेघदूतात्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "किरातार्जुनीयात्",
+      "explanation": "इयं सूक्तिः भारवेः 'किरातार्जुनीयम्' महाकाव्यस्य प्रथमसर्गात् उद्धृता, यत्र वनेचरः युधिष्ठिरं प्रति सत्यं किन्तु अप्रियं वचनं श्रावयन् इदं कथयति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): किरातार्जुनीयस्य अमर सूक्तयः: 'हितं मनोहारि च दुर्लभं वचः', 'अहो दुरन्ता बलवद्विरोधिता', 'सहसा विदधीत न क्रियाम्'।",
+      "tip": ""
+    },
+    {
+      "id": 39,
+      "source": "BPSC TGT Sanskrit",
+      "en": "What is the predominant sentiment in Uttararamacharitam?",
+      "hi": "'उत्तररामचरितम्' नाटकस्य प्रधानः अङ्गीरसः कः अस्ति?",
+      "options": [
+        "वीररसः",
+        "करुणरसः",
+        "शृङ्गाररसः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "करुणरसः",
+      "explanation": "भवभूतेः 'उत्तररामचरिते' करुणरसः एव प्रधानः अस्ति। स्वयं कविना उक्तम्: 'एको रसः करुण एव निमित्तभेदाद्भिन्नः पृथक् पृथगिवाश्रयते विवर्तान्'।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): भवभूतिः = करुणरसस्य मूर्धन्यकविः। उत्तररामचरिते 7 अङ्काः सन्ति, तृतीयोऽङ्कः 'छायाङ्कः' उच्यते।",
+      "tip": ""
+    },
+    {
+      "id": 40,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Who authored Dashakumaracharitam?",
+      "hi": "'दशकुमारचरितम्' गद्यकाव्यस्य रचयिता कः अस्ति?",
+      "options": [
+        "दण्डी",
+        "बाणभट्टः",
+        "सुबन्धुः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "दण्डी",
+      "explanation": "महाकविना दण्डिना 'दशकुमारचरितम्' तथा 'काव्यादर्शः' इति ग्रन्थद्वयं रचितम्। 'दण्डिनः पदलालित्यम्' इति तस्य पदविन्यासचातुर्यं प्रशंस्यते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): दण्डी = दशकुमारचरितम् (गद्यकाव्यम्), काव्यादर्शः (काव्यशास्त्रम्), अवन्तिसुन्दरीकथा।",
+      "tip": ""
+    },
+    {
+      "id": 41,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Whose prose work is Kadambari?",
+      "hi": "'कादम्बरी' कस्य कवेः गद्यरचना अस्ति?",
+      "options": [
+        "बाणभट्टस्य",
+        "दण्डिनः",
+        "सुबन्धोः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "बाणभट्टस्य",
+      "explanation": "'कादम्बरी' तथा 'हर्षचरितम्' महाकवि बाणभट्टस्य अमरगद्यकृतयः स्तः। बाणभट्टः सम्राट् हर्षवर्धनस्य सभाकविः आसीत्। 'बाणोच्छिष्टं जगत्सर्वम्' इति तस्य ख्यातिः।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): कादम्बरी = कथा (चन्द्रापीडस्य पुण्डरीकस्य च त्रिजन्मकथा); हर्षचरितम् = आख्यायिका (संस्कृतस्य प्रथमा ऐतिहासिक आख्यायिका)।",
+      "tip": ""
+    },
+    {
+      "id": 42,
+      "source": "BPSC TGT Sanskrit",
+      "en": "What is absent in Mudrarakshasam?",
+      "hi": "'मुद्राराक्षसम्' नाटके कस्य अभावः वर्तते?",
+      "options": [
+        "विदूषकस्य",
+        "नायिकायाः",
+        "शृङ्गाररसस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "विशाखदत्तविरचिते 'मुद्राराक्षसे' विदूषकस्य अभावः अस्ति, नायिकायाः अपि अभावः अस्ति, तथा शृङ्गाररसस्यापि अभावः वर्तते (शुद्धं राजनीतिकं नाटकम्)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): मुद्राराक्षसस्य वैशिष्ट्यम्: विदूषकरहितम्, नायिकारहितम्, शृङ्गाररहितम् \\(\\rightarrow\\) विकल्पः (D) उपर्युक्त में से एक से अधिक उत्तरम्।",
+      "tip": ""
+    },
+    {
+      "id": 43,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Which dramatic genre does Mricchakatikam belong to?",
+      "hi": "'मृच्छकटिकम्' रूपकस्य कः प्रभेदः अस्ति?",
+      "options": [
+        "नाटकम्",
+        "प्रकरणम्",
+        "भाणः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "प्रकरणम्",
+      "explanation": "महाराज शूद्रकविरचितं 'मृच्छकटिकम्' दशसु रूपकेषु 'प्रकरणम्' इति प्रभेदे आगच्छति, यस्मिन् दश (10) अङ्काः सन्ति, कथा च कविकल्पिता लोकसम्बन्धिनी अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): रूपकभेदाः: अभिज्ञानशाकुन्तलम् = नाटकम्; मृच्छकटिकम् = प्रकरणम्; मालतीमाधवम् = प्रकरणम्। मृच्छकटिकस्य नायकः चारुदत्तः, नायिका वसन्तसेना।",
+      "tip": ""
+    },
+    {
+      "id": 44,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Whose dramatic work is Swapnavasavadattam?",
+      "hi": "'स्वप्नवासवदत्तम्' कस्य नाटककारस्य रचना अस्ति?",
+      "options": [
+        "भासस्य",
+        "कालिदासस्य",
+        "शूद्रकस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भासस्य",
+      "explanation": "महाकवि भासस्य त्रयोदश (13) नाटकेषु 'स्वप्नवासवदत्तम्' सर्वोत्कृष्टं षडङ्कात्मकं नाटकम् अस्ति, यत्र उदयन-वासवदत्तयोः प्रणयकथा वर्णिता।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): भासस्य 13 नाटकानि टी. गणपतिशास्त्रिणा 1912 तमे वर्षे तिरुवनन्तपुरम्तः प्राप्तानि।",
+      "tip": ""
+    },
+    {
+      "id": 45,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which metre is used throughout Meghadutam?",
+      "hi": "'मेघदूतम्' काव्ये कः छन्दः प्रयुक्तः अस्ति?",
+      "options": [
+        "मन्दाक्रान्ता",
+        "शार्दूलविक्रीडितम्",
+        "शिखरिणी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मन्दाक्रान्ता",
+      "explanation": "कालिदासस्य 'मेघदूते' आद्यन्तं केवलं 'मन्दाक्रान्ता' छन्दः एव प्रयुक्तः ('मन्दाक्रान्ताजलधिषडगैर्म्भौ नतौ ताद्गुरू चेत्')। अत्र विप्रलम्भशृङ्गाररसः अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): मेघदूतम् = मन्दाक्रान्ता छन्दः (17 वर्णाः, यतिः 4, 6, 7 वर्णे)। नायकः यक्षः, नायिका यक्षी, निर्वासितस्थानं रामगिरिः।",
+      "tip": ""
+    },
+    {
+      "id": 46,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Who is the author of Venisamharam?",
+      "hi": "'वेणीसंहारम्' नाटकस्य रचयिता कः अस्ति?",
+      "options": [
+        "भट्टनारायणः",
+        "मुरारिः",
+        "जयदेवः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भट्टनारायणः",
+      "explanation": "महाभारतकथाधारितस्य वीररसप्रधानस्य 'वेणीसंहारम्' नाटकस्य प्रणेता भट्टनारायणः अस्ति, यत्र भीमस्य प्रतिज्ञा तथा द्रौपद्याः वेणीबन्धनस्य कथा अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): वेणीसंहारम् = 6 अङ्काः; भट्टनारायणः; नायकः भीमसेनः; अङ्गीरसः वीररसः।",
+      "tip": ""
+    },
+    {
+      "id": 47,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Whose work is Gita Govindam?",
+      "hi": "'गीतगोविन्दम्' कस्य महाकवेः रचना अस्ति?",
+      "options": [
+        "जयदेवस्य",
+        "गोवर्धनाचार्यस्य",
+        "विद्यापतेः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "जयदेवस्य",
+      "explanation": "उत्कलवासी महाकवि जयदेवविरचितं 'गीतगोविन्दम्' द्वादश (12) सर्गेषु विभक्तं मधुरशृङ्गारमयं गीत्तिकाव्यम् अस्ति, यत्र राधाकृष्णयोः रासलीला वर्णिता।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): गीतगोविन्दम् = जयदेवः; 12 सर्गाः; 24 प्रबन्धाः; 'मधुरकोमलकान्तपदावली'।",
+      "tip": ""
+    },
+    {
+      "id": 48,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Who is the author of Panchatantram?",
+      "hi": "'पञ्चतन्त्रम्' नीतिग्रन्थस्य रचयिता कः?",
+      "options": [
+        "विष्णुशर्मा",
+        "नारायणपण्डितः",
+        "सोमदेवः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "विष्णुशर्मा",
+      "explanation": "पण्डित विष्णुशर्मणा राजपुत्राणां शिक्षार्थं 'पञ्चतन्त्रम्' रचितम्, यस्मिन् पञ्च तन्त्राणि सन्ति: मित्रभेदः, मित्रप्राप्तिः, काकोलूकीयम्, लब्धप्रणाशः, अपरीक्षितकारकम्।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): नीतिकथा ग्रन्थाः: पञ्चतन्त्रम् = विष्णुशर्मा; हितोपदेशः = नारायणपण्डितः; कथासरित्सागरः = सोमदेवः।",
+      "tip": ""
+    },
+    {
+      "id": 49,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Whose work is Nitishatakam?",
+      "hi": "'नीतिशतकम्' कस्य कवेः मुक्तककाव्यम् अस्ति?",
+      "options": [
+        "भर्तृहरेः",
+        "अमरुकस्य",
+        "कल्हणस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भर्तृहरेः",
+      "explanation": "महाराजा भर्तृहरिणा 'शतकत्रयम्' रचितम्: नीतिशतकम्, शृङ्गारशतकम्, वैराग्यशतकम्। अस्य व्याकरणग्रन्थः 'वाक्यपदीयम्' अपि अतीव प्रसिद्धः।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): भर्तृहरि = शतकत्रयम् (नीति, शृङ्गार, वैराग्य) + वाक्यपदीयम् (दार्शनिक व्याकरणग्रन्थः)।",
+      "tip": ""
+    },
+    {
+      "id": 50,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Who authored Rajatarangini?",
+      "hi": "'राजतरङ्गिणी' ग्रन्थस्य रचयिता कः अस्ति?",
+      "options": [
+        "कल्हणः",
+        "बिल्हणः",
+        "जयानकः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "कल्हणः",
+      "explanation": "काश्मीरस्य ऐतिहासिकवृत्तदर्शकः 'राजतरङ्गिणी' ग्रन्थः 1148–1150 ई० मध्ये महाकवि कल्हणेन विरचितः, यस्मिन् अष्टौ (8) तरङ्गाः सन्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): राजतरङ्गिणी = कल्हणः (काश्मीरस्य इतिहासः); विक्रमाङ्कदेवचरितम् = बिल्हणः; पृथ्वीराजविजयम् = जयानकः।",
+      "tip": ""
+    },
+    {
+      "id": 51,
+      "source": "BPSC TGT Sanskrit",
+      "en": "The first hymn of Rigveda is dedicated to which deity?",
+      "hi": "ऋग्वेदस्य प्रथमं सूक्तम् कस्य देवस्य अस्ति?",
+      "options": [
+        "अग्नेः",
+        "इन्द्रस्य",
+        "वरुणस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अग्नेः",
+      "explanation": "ऋग्वेदस्य प्रथममण्डलस्य प्रथमं सूक्तम् 'अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम्' इति अग्नये समर्पितम् अस्ति। अस्य ऋषिः मधुच्छन्दाः, छन्दः च गायत्री अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): ऋग्वेद प्रथम सूक्तम् = अग्नि सूक्तम् (1.1); ऋग्वेद अन्तिम सूक्तम् = संज्ञान सूक्तम् (10.191)।",
+      "tip": ""
+    },
+    {
+      "id": 52,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "In which mandala of Rigveda is Gayatri Mantra found?",
+      "hi": "'गायत्री मन्त्रः' ऋग्वेदस्य कस्मिन् मण्डले वर्तते?",
+      "options": [
+        "तृतीये मण्डले",
+        "दशमे मण्डले",
+        "प्रथमे मण्डले",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तृतीये मण्डले",
+      "explanation": "गायत्री मन्त्रः ('तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्') ऋग्वेदस्य तृतीये मण्डले (3.62.10) वर्तते। अस्य ऋषिः विश्वामित्रः, देवता च सविता अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): गायत्री मन्त्रः: मण्डलम् = तृतीयम्; ऋषिः = विश्वामित्रः; देवता = सविता (सूर्यः); छन्दः = गायत्री (24 अक्षराणि)।",
+      "tip": ""
+    },
+    {
+      "id": 53,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "From which Upanishad is 'Satyameva Jayate' taken?",
+      "hi": "'सत्यमेव जयते' इति वाक्यं कस्मात् उपनिषदः उद्धृतम्?",
+      "options": [
+        "मुण्डकोपनिषदः",
+        "माण्डूक्योपनिषदः",
+        "कठोपनिषदः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मुण्डकोपनिषदः",
+      "explanation": "भारतस्य राष्ट्रियम् आदर्शवाक्यम् 'सत्यमेव जयते नानृतम्' अथर्ववेदीय 'मुण्डकोपनिषदः' (3.1.6) मन्त्रात् उद्धृतम् अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): उपनिषद् सूक्तयः: सत्यमेव जयते = मुण्डकोपनिषद्; नचिकेता-यम संवादः = कठोपनिषद्; अहंब्रह्मास्मि = बृहदारण्यकोपनिषद्; तत्त्वमसि = छान्दोग्योपनिषद्।",
+      "tip": ""
+    },
+    {
+      "id": 54,
+      "source": "BPSC TGT Sanskrit",
+      "en": "How many Vedangas are there?",
+      "hi": "वेदाङ्गानां संख्या कति अस्ति?",
+      "options": [
+        "चत्वारः (4)",
+        "षट् (6)",
+        "अष्टौ (8)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "षट् (6)",
+      "explanation": "वेदाङ्गाः षट् सन्ति: शिक्षा (घ्राणं), कल्पः (करौ), व्याकरणम् (मुखं), निरुक्तम् (श्रोत्रं), छन्दः (पादौ), ज्योतिषम् (चक्षुः)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): षड् वेदाङ्गानि: 'छन्दः पादौ तु वेदस्य हस्तौ कल्पोऽथ पठ्यते। ज्योतिषामयनं चक्षुर्निरुक्तं श्रोत्रमुच्यते। शिक्षा घ्राणं तु वेदस्य मुखं व्याकरणं स्मृतम्॥'",
+      "tip": ""
+    },
+    {
+      "id": 55,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "How many chapters and verses in Bhagavad Gita?",
+      "hi": "श्रीमद्भगवद्गीतायां कति अध्यायाः कति च श्लोकाः सन्ति?",
+      "options": [
+        "18 अध्यायाः, 700 श्लोकाः",
+        "16 अध्यायाः, 650 श्लोकाः",
+        "20 अध्यायाः, 800 श्लोकाः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "18 अध्यायाः, 700 श्लोकाः",
+      "explanation": "महाभारतस्य भीष्मपर्वणः (अध्याय 25–42) अन्तर्गतभूतायां श्रीमद्भगवद्गीतायां अष्टादश (18) अध्यायाः सप्तशतम् (700) श्लोकाः च सन्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): भगवद्गीता = महाभारतस्य भीष्मपर्व; 18 अध्यायाः; 700 श्लोकाः; उपदेशकः श्रीकृष्णः, श्रोता अर्जुनः।\nभाग ३: कृत्-तद्धित-स्त्रीप्रत्ययाः, शब्दरूपाणि, धातुरूपाणि, छन्दांसि, अलङ्काराः, काव्यशास्त्रम् च (प्रश्न ५६ तः ८०)",
+      "tip": ""
+    },
+    {
+      "id": 56,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'गत्वा' इत्यत्र कः प्रत्ययः प्रयुक्तः अस्ति? (Which suffix is used in 'Gatvā'?)",
+      "hi": "'गत्वा' इत्यत्र कः प्रत्ययः प्रयुक्तः अस्ति? (Which suffix is used in 'Gatvā'?)",
+      "options": [
+        "क्त्वा",
+        "ल्यप्",
+        "तुमुन्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "क्त्वा",
+      "explanation": "'गम् + क्त्वा = गत्वा'। 'समानकर्तृकयोः पूर्वकाले' सूत्रेण पूर्वकालिकक्रियायां 'क्त्वा' प्रत्ययः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): क्त्वा प्रत्ययान्तः अव्ययः भवति (पठित्वा, गत्वा, कृत्वा, श्रुत्वा)।",
+      "tip": ""
+    },
+    {
+      "id": 57,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which suffix replaces Ktva when a prefix is present?",
+      "hi": "उपसर्गयुक्ते धातौ पूर्वकालिकक्रियायां कः प्रत्ययः भवति?",
+      "options": [
+        "ल्यप्",
+        "क्त्वा",
+        "शतृ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ल्यप्",
+      "explanation": "'समासेऽनञ्पूर्वे क्त्वो ल्यप्' सूत्रेण नञ्-भिन्न-उपसर्गयुक्तात् धातोः क्त्वा-स्थाने 'ल्यप्' (य) आदेशः भवति (यथा- आ + गम् + ल्यप् = आगत्य/आगम्य; वि + हस् + ल्यप् = विहस्य)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): यदि धातोः पूर्वम् उपसर्गः अस्ति, तदा क्त्वा स्थाने 'ल्यप्' (अन्ते 'य' दृश्यते): प्रणम्य, विहस्य, आदाय।",
+      "tip": ""
+    },
+    {
+      "id": 58,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Which suffix is in 'Pathitum'?",
+      "hi": "'पठितुम्' इत्यत्र कः प्रत्ययः अस्ति?",
+      "options": [
+        "तुमुन्",
+        "तव्यत्",
+        "अनीयर्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तुमुन्",
+      "explanation": "'तुमुन्ण्वुलौ क्रियायां क्रियार्थायाम्'। पठ् + तुमुन् = पठितुम् (पठनार्थम्)। अत्र 'तुम्' अवशिष्यते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): तुमुन् प्रत्ययः निमित्तार्थकः/क्रियार्थकः भवति: गन्तुम् (गन्तुम् इच्छति), पठितुम्, पातुम्, क्रेतुम्।",
+      "tip": ""
+    },
+    {
+      "id": 59,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which suffix is in 'Kurvan'?",
+      "hi": "'कुर्वन्' पदे कः कृत्-प्रत्ययः अस्ति?",
+      "options": [
+        "शतृ",
+        "शानच्",
+        "क्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "शतृ",
+      "explanation": "'लक्षणे हेत्वोः क्रियायाः' तथा 'लटः शतृशानचावप्रथमासमानाधिकरणे'। कृ + शतृ = कुर्वन् (वर्तमानकाले परस्मैपदिभ्यः)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): वर्तमानकालिक प्रत्ययौ: परस्मैपदिभ्यः = शतृ (पठन्, लिखन्, कुर्वन्); आत्मनेपदिभ्यः = शानच् (कुर्वाणः, सेवमानः)।",
+      "tip": ""
+    },
+    {
+      "id": 60,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'सेवमानः' पदे कः प्रत्ययः प्रयुक्तः? (Which suffix is used in 'Sevamānah'?)",
+      "hi": "'सेवमानः' पदे कः प्रत्ययः प्रयुक्तः? (Which suffix is used in 'Sevamānah'?)",
+      "options": [
+        "शानच्",
+        "शतृ",
+        "क्तवतु",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "शानच्",
+      "explanation": "सेव् (आत्मनेपदी) + शानच् = सेवमानः। अत्र 'आन' अवशिष्यते तथा 'मुक्' आगमेन 'मान' भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): आत्मनेपदी धातोः वर्तमानकाले 'शानच्' प्रत्ययः: सेवमानः, वर्धमानः, याचमानः।",
+      "tip": ""
+    },
+    {
+      "id": 61,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'अज' शब्देन 'टाप्' प्रत्यये कृते किं रूपं सिद्ध्यति?",
+      "hi": "'अज' शब्देन 'टाप्' प्रत्यये कृते किं रूपं सिद्ध्यति?",
+      "options": [
+        "अजा",
+        "अजी",
+        "अजानी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अजा",
+      "explanation": "'अजाद्यतष्टाप्' सूत्रेण अजादिगणे पठितेभ्यः अकारान्तेभ्यश्च प्रातिपदिकेभ्यः स्त्रियां 'टाप्' (आ) प्रत्ययः भवति। अज + टाप् = अजा।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): स्त्रीप्रत्ययाः: टाप् (अजा, बाला, अश्व), ङीप् (गौरी, नर्तकी), ङीष्, ङीन्।",
+      "tip": ""
+    },
+    {
+      "id": 62,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'मति' शब्दस्य पञ्चमी-विभक्तेः एकवचने रूपं भवति",
+      "hi": "'मति' शब्दस्य पञ्चमी-विभक्तेः एकवचने रूपं भवति",
+      "options": [
+        "मतेः",
+        "मत्याः",
+        "मत्याम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "इकारान्त-स्त्रीलिङ्ग 'मति' शब्दस्य पञ्चमी-षष्ठ्योः एकवचने रूपद्वयं भवति: 'मतेः' (ङिति ह्रस्वश्च सूत्रेण घिसंज्ञायां) तथा 'मत्याः' (नदीसंज्ञायां)। अतः द्वे अपि रूपे शुद्धे स्तः।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): मति शब्दस्य चतुर्थी, पञ्चमी, षष्ठी, सप्तमी एकवचने रूपद्वयं भवति: मत्यै/मतये, मत्याः/मतेः, मत्याम्/मतौ। द्वयोः सत्यत्वात् (D) उत्तरम्।",
+      "tip": ""
+    },
+    {
+      "id": 63,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'वारि' (नपुंसकलिङ्ग) शब्दस्य प्रथमा-द्वितीया बहुवचने रूपं भवति",
+      "hi": "'वारि' (नपुंसकलिङ्ग) शब्दस्य प्रथमा-द्वितीया बहुवचने रूपं भवति",
+      "options": [
+        "वारीणि",
+        "वारिणी",
+        "वारीणी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "वारीणि",
+      "explanation": "'वारि' शब्दस्य रूपाणि: वारि, वारिणी, वारीणि। प्रथमायाः द्वितीयायाश्च बहुवचने 'वारीणि' (दीर्घ ईकारः, ह्रस्व इकारयुक्त णकारः) रूपं सिद्ध्यति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): वारि रूपानि: वारि (एकवचनम्), वारिणी (द्विवचनम् - ह्रस्व ई, दीर्घ ई), वारीणि (बहुवचनम् - दीर्घ ई, ह्रस्व इ)।",
+      "tip": ""
+    },
+    {
+      "id": 64,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'अस्मद्' सर्वनामशब्दस्य द्वितीया-विभक्तौ वैकल्पिकानि रूपाणि कानि भवन्ति?",
+      "hi": "'अस्मद्' सर्वनामशब्दस्य द्वितीया-विभक्तौ वैकल्पिकानि रूपाणि कानि भवन्ति?",
+      "options": [
+        "मा, नौ, नः",
+        "मे, नौ, नः",
+        "ते, वाम्, वः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मा, नौ, नः",
+      "explanation": "'अस्मद्' शब्दस्य द्वितीयायां माम्, आवाम्, अस्मान् इत्येषां स्थाने 'मा, नौ, नः' इति वैकल्पिकादेशाः भवन्ति। चतुर्थी-षष्ठ्योः 'मे, नौ, नः' भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): अस्मद् वैकल्पिकादेशाः: द्वितीया = मा, नौ, नः; चतुर्थी/षष्ठी = मे, नौ, नः। युष्मद्: द्वितीया = त्वा, वाम्, वः; चतुर्थी/षष्ठी = ते, वाम्, वः।",
+      "tip": ""
+    },
+    {
+      "id": 65,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'गम्' धातोः लृट्लकारस्य (भविष्यत्काले) प्रथमपुरुष-एकवचने रूपं किम्?",
+      "hi": "'गम्' धातोः लृट्लकारस्य (भविष्यत्काले) प्रथमपुरुष-एकवचने रूपं किम्?",
+      "options": [
+        "गमिष्यति",
+        "गच्छिष्यति",
+        "आगमिष्यति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "गमिष्यति",
+      "explanation": "'गम्' धातोः लृट्लकारे 'गम्' इत्यस्य 'गच्छ्' आदेशः न भवति (केवलं शिति परे लट्-लोट्-लङ्-विधिलिङ्गेषु गच्छ् भवति)। लृटि 'गमिष्यति' रूपं भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): गम् धातु भेदः: लट् = गच्छति; लोट् = गच्छतु; लङ् = अगच्छत्; विधिलिङ् = गच्छेत्; लृट् (भविष्यत्) = गमिष्यति।",
+      "tip": ""
+    },
+    {
+      "id": 66,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'स्था' धातोः लोट्लकारस्य मध्यमपुरुष-एकवचने रूपं भवति",
+      "hi": "'स्था' धातोः लोट्लकारस्य मध्यमपुरुष-एकवचने रूपं भवति",
+      "options": [
+        "तिष्ठ",
+        "तिष्ठतु",
+        "स्थास्यति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तिष्ठ",
+      "explanation": "'स्था' धातोः लोट्लकारे रूपाणि: प्रथमपुरुषे- तिष्ठतु, तिष्ठताम्, तिष्ठन्तु; मध्यमपुरुषे- तिष्ठ, तिष्ठतम्, तिष्ठत। अतः एकवचने 'तिष्ठ' रूपं भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): लोट् लकार मध्यमपुरुष एकवचने 'हि' प्रत्ययस्य लुक् भवति: पठ् -> पठ; गम् -> गच्छ; स्था -> तिष्ठ।",
+      "tip": ""
+    },
+    {
+      "id": 67,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "How many syllables per quarter in Anushtubh metre?",
+      "hi": "'अनुष्टुप्' छन्दसि प्रतिपादं कति वर्णाः भवन्ति?",
+      "options": [
+        "अष्टौ (8)",
+        "एकादश (11)",
+        "द्वादश (12)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अष्टौ (8)",
+      "explanation": "'श्लोके षष्ठं गुरु ज्ञेयं सर्वत्र लघु पञ्चमम्। द्विचतुष्पादयोर्ह्रस्वं सप्तमं दीर्घमन्ययोः॥' अनुष्टुप् छन्दसः प्रत्येकस्मिन् पादे अष्टौ (8) वर्णाः, सम्पूर्णे च श्लोके 32 वर्णाः भवन्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): छन्द वर्णसंख्या: अनुष्टुप् = 8; इन्द्रवज्रा/उपेन्द्रवज्रा = 11; वंशस्थ/द्रुतविलम्बित = 12; वसन्ततिलका = 14; मालिनी = 15; मन्दाक्रान्ता/शिखरिणी = 17; शार्दूलविक्रीडितम् = 19; स्रग्धरा = 21।",
+      "tip": ""
+    },
+    {
+      "id": 68,
+      "source": "BPSC TGT Sanskrit",
+      "en": "How many syllables in Indravajra metre?",
+      "hi": "'इन्द्रवज्रा' छन्दसः प्रत्येकस्मिन् पादे कति वर्णाः भवन्ति?",
+      "options": [
+        "एकादश (11)",
+        "द्वादश (12)",
+        "चतुर्दश (14)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "एकादश (11)",
+      "explanation": "'स्यादिन्द्रवज्रा यदि तौ जगौ गः'। अत्र प्रतिपादम् एकादश (11) वर्णाः भवन्ति (गणक्रमः- तगण, तगण, जगण, गुरुद्वयम्)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): 11 वर्णयुक्तानि छन्दांसि: इन्द्रवज्रा (त, त, ज, गा, गा); उपेन्द्रवज्रा (ज, त, ज, गा, गा); उपजातिः (अनयोः मिश्रणम्)।",
+      "tip": ""
+    },
+    {
+      "id": 69,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'वागर्थाविव सम्पृक्तौ वागर्थप्रतिपत्तये। जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ॥' अत्र कः अलङ्कारः अस्ति?",
+      "hi": "'वागर्थाविव सम्पृक्तौ वागर्थप्रतिपत्तये। जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ॥' अत्र कः अलङ्कारः अस्ति?",
+      "options": [
+        "उपमा",
+        "रूपकम्",
+        "उत्प्रेक्षा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उपमा",
+      "explanation": "कालिदासस्य रघुवंशस्य अस्मिन् मङ्गलाचरणे 'इव' वाचकशब्देन पार्वतीपरमेश्वरयोः वागर्थेन सह सादृश्यं प्रतिपादितम्, अतः अत्र 'उपमा' अलङ्कारः अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): 'साधर्म्यमुपमा भेदे' (मम्मटः)। यत्र 'इव, यथा, सदृश, सम' इत्यादयः सादृश्यवाचकाः शब्दाः प्रयुक्ताः स्युः, सा उपमा।",
+      "tip": ""
+    },
+    {
+      "id": 70,
+      "source": "BPSC TGT Sanskrit",
+      "en": "'लिम्पतीव तमोऽङ्गानि वर्षतीवाञ्जनं नभः' इत्यत्र कः अलङ्कारः अस्ति?",
+      "hi": "'लिम्पतीव तमोऽङ्गानि वर्षतीवाञ्जनं नभः' इत्यत्र कः अलङ्कारः अस्ति?",
+      "options": [
+        "उत्प्रेक्षा",
+        "उपमा",
+        "रूपकम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उत्प्रेक्षा",
+      "explanation": "'सम्भावनमथोत्प्रेक्षा प्रकृतस्य परात्मना'। अत्र अन्धकारव्याप्तेः अङ्गलेपनेन तथा नभसः अञ्जनवर्षणेन सह सम्भावना कृता अस्ति, अतः 'उत्प्रेक्षा' अलङ्कारः अस्ति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): उत्प्रेक्षायां सम्भावना व्यज्यते। वाचकशब्दाः: मन्ये, शङ्के, ध्रुवं, प्रायः, नूनम्, 'इव' (क्रियापदस्य योगे लिम्पतीव)।",
+      "tip": ""
+    },
+    {
+      "id": 71,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Non-difference of Upamana and Upameya is",
+      "hi": "'उपमानोपमेययोरभेदः' कस्य अलङ्कारस्य लक्षणम् अस्ति?",
+      "options": [
+        "रूपकस्य",
+        "उपमायाः",
+        "उत्प्रेक्षायाः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "रूपकस्य",
+      "explanation": "काव्यप्रकाशे मम्मटेन उक्तम्: 'तद्रूपकमभेदो य उपमानोपमेययोः'। यत्र उपमेयस्य उपमानस्य च अभेदः आरोप्यते (यथा- मुखमेव चन्द्रः), तत्र रूपकालङ्कारः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): अलङ्कार भेदाः: उपमा = सादृश्यम्; रूपकम् = अभेदः; उत्प्रेक्षा = सम्भावना; सन्देहः = संशयः।",
+      "tip": ""
+    },
+    {
+      "id": 72,
+      "source": "BPSC TGT Sanskrit",
+      "en": "Who is the author of Dhvanyaloka?",
+      "hi": "'ध्वन्यालोकः' ग्रन्थस्य रचयिता कः अस्ति?",
+      "options": [
+        "आनन्दवर्धनः",
+        "अभिनवगुप्तः",
+        "मम्मटः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "आनन्दवर्धनः",
+      "explanation": "ध्वनि-सिद्धान्तस्य प्रणेता महाचार्यः आनन्दवर्धनः नवमशताब्द्यां काश्मीरे 'ध्वन्यालोकम्' अरचयत्। अस्य प्रसिद्धटीका 'लोचन' अभिनवगुप्तेन विरचिता।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): ध्वनि-प्रवर्तकः = आनन्दवर्धनः ('काव्यस्यात्मा ध्वनिः'); ध्वन्यालोकलोचन टीकाकारः = अभिनवगुप्तः।",
+      "tip": ""
+    },
+    {
+      "id": 73,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Whose work is Kavyaprakasha?",
+      "hi": "'काव्यप्रकाशः' कस्य आलंकारिकस्य कृतिः अस्ति?",
+      "options": [
+        "मम्मटस्य",
+        "विश्वनाथस्य",
+        "जगन्नाथस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मम्मटस्य",
+      "explanation": "काव्यशास्त्रस्य प्रामाणिकः ग्रन्थः 'काव्यप्रकाशः' दशसु उल्लासेषु आचार्य मम्मटेन (काश्मीरनिवासिना) विरचितः। अस्य काव्यलक्षणम्: 'तद्दोषौ शब्दार्थौ सगुणावनलङ्कृती पुनः क्वापि'।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): काव्यशास्त्र ग्रन्थाः: काव्यप्रकाशः = मम्मटः; साहित्यदर्पणः = विश्वनाथः; रसगंगाधरः = पण्डितराज जगन्नाथः।",
+      "tip": ""
+    },
+    {
+      "id": 74,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'वाक्यं रसात्मकं काव्यम्' इति काव्यलक्षणं केन प्रदत्तम्? (Who gave the definition 'Vākyam rasātmakam kāvyam'?)",
+      "hi": "'वाक्यं रसात्मकं काव्यम्' इति काव्यलक्षणं केन प्रदत्तम्? (Who gave the definition 'Vākyam rasātmakam kāvyam'?)",
+      "options": [
+        "आचार्य विश्वनाथेन",
+        "आचार्य मम्मटेन",
+        "आचार्य भामहेन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "आचार्य विश्वनाथेन",
+      "explanation": "साहित्यदर्पणस्य रचयित्रा आचार्य विश्वनाथेन मम्मटस्य काव्यलक्षणं खण्डयित्वा रसध्वनिमयं 'वाक्यं रसात्मकं काव्यम्' इति स्वकीयं काव्यलक्षणं स्थापितम्।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): काव्यलक्षणानि: भामहः = शब्दार्थौ सहितौ काव्यम्; दण्डी = शरीरं तावदिष्टार्थव्यवच्छिन्ना पदावली; मम्मटः = तद्दोषौ शब्दार्थौ...; विश्वनाथः = वाक्यं रसात्मकं काव्यम्।",
+      "tip": ""
+    },
+    {
+      "id": 75,
+      "source": "BPSC TGT Sanskrit",
+      "en": "According to Natyashastra, how many Rasas are there?",
+      "hi": "नाट्यशास्त्रानुसारं रसानां संख्या कति स्वीक्रियते?",
+      "options": [
+        "अष्टौ (8)",
+        "नव (9)",
+        "एकादश (11)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अष्टौ (8)",
+      "explanation": "भरतमुनेः नाट्यशास्त्रे अष्टौ (8) रसाः एव स्वीकृताः सन्ति ('अष्टौ नाट्ये रसाः स्मृताः')। तत्र शान्तरसः नाट्ये न स्वीकृतः। काव्ये तु मम्मटादिभिः नवमः 'शान्तः' स्वीकृतः।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): नाट्ये भरतमुनिमतानुसारम् = 8 रसाः; काव्यशास्त्रे मम्मटमतानुसारम् = 9 रसाः (नवमः शान्तरसः, स्थायी निर्वेदः)।",
+      "tip": ""
+    },
+    {
+      "id": 76,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "रसनिष्पत्तौ भरतमुनेः रससूत्रस्य 'उत्पत्तिवाद' व्याख्याता कः अस्ति?",
+      "hi": "रसनिष्पत्तौ भरतमुनेः रससूत्रस्य 'उत्पत्तिवाद' व्याख्याता कः अस्ति?",
+      "options": [
+        "भट्टलोल्लटः",
+        "शङ्कुकः",
+        "भट्टनायकः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भट्टलोल्लटः",
+      "explanation": "भरतमुनेः रससूत्रस्य 'विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः' चत्वारः व्याख्यातारः सन्ति: भट्टलोल्लटः (उत्पत्तिवादः/मीमांसा), शङ्कुकः (अनुमितिवादः/न्यायः), भट्टनायकः (भुक्तिवादः/सांख्यः), अभिनवगुप्तः (अभिव्यक्तिवादः/वेदान्त-शैव)।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): रससूत्र व्याख्यातारः: भट्टलोल्लटः = उत्पत्तिवादः; शङ्कुकः = अनुमितिवादः; भट्टनायकः = भुक्तिवादः; अभिनवगुप्तः = अभिव्यक्तिवादः।",
+      "tip": ""
+    },
+    {
+      "id": 77,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "What is the Sthayi Bhava of Vira Rasa?",
+      "hi": "'वीररसस्य' स्थायी भावः कः अस्ति?",
+      "options": [
+        "उत्साहः",
+        "क्रोधः",
+        "विस्मयः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उत्साहः",
+      "explanation": "वीररसस्य स्थायी भावः 'उत्साहः' अस्ति। क्रोधः रौद्रस्य, विस्मयः अद्भुतस्य, रतिः शृङ्गारस्य, हासः हास्यस्य स्थायी भावः भवति।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): स्थायी भावाः: शृङ्गारः = रतिः; हास्यः = हासः; करुणः = शोकः; रौद्रः = क्रोधः; वीरः = उत्साहः; भयानकः = भयम्; बीभत्सः = जुगुप्सा; अद्भुतम् = विस्मयः; शान्तः = निर्वेदः/शमः।",
+      "tip": ""
+    },
+    {
+      "id": 78,
+      "source": "BPSC TGT Sanskrit",
+      "en": "The primary power denoting literal sense is",
+      "hi": "शब्दस्य मुख्यार्थं बोधयित्री प्रथमा शक्तिः का अस्ति?",
+      "options": [
+        "अभिधा",
+        "लक्षणा",
+        "व्यञ्जना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अभिधा",
+      "explanation": "'स मुख्योऽर्थस्तत्र मुख्यो व्यापारोऽस्याभिधोच्यते'। साक्षात् संकेतिकार्थं (मुख्यार्थं वा वाच्यार्थं) प्रतिपादयित्री शब्दशक्तिः 'अभिधा' कथ्यते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): शब्दशक्तयः तिस्रः: 1. अभिधा (वाच्यार्थः/मुख्यार्थः); 2. लक्षणा (लक्ष्यार्थः, मुख्यार्थबाधे); 3. व्यञ्जना (व्यङ्ग्यार्थः/ध्वनिः)।",
+      "tip": ""
+    },
+    {
+      "id": 79,
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Sahitya Akademi Award is given in how many languages?",
+      "hi": "संस्कृतभाषायै साहित्य अकादमी पुरस्कारः कति भारतीयभाषासु दीयते?",
+      "options": [
+        "द्वाविंशतिः (22)",
+        "चतुर्विंशतिः (24)",
+        "अष्टाविंशतिः (28)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चतुर्विंशतिः (24)",
+      "explanation": "साहित्य अकादमी पुरस्कारः भारतस्य संविधानस्य अष्टमसूच्यां परिगणितासु 22 भाषासु तथा आंग्ल-राजस्थानी-सहितासु चतुर्विंशतिः (24) भाषासु प्रतिवर्षं प्रदीयते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): संविधानस्य 8वीं अनुसूची = 22 भाषाः; साहित्य अकादमी = 24 भाषाः (22 + आंग्ल + राजस्थानी)।",
+      "tip": ""
+    },
+    {
+      "id": 80,
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Which is the most ancient Veda?",
+      "hi": "सर्वप्राचीनः वेदः कः अस्ति?",
+      "options": [
+        "ऋग्वेदः",
+        "सामवेदः",
+        "यजुर्वेदः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ऋग्वेदः",
+      "explanation": "मानवजातेः सर्वप्राचीनः ग्रन्थः 'ऋग्वेदः' अस्ति, यस्मिन् 10 मण्डलानि, 1028 सूक्तानि, 10,580 ऋचाः च सन्ति। अस्य प्रधानऋत्विक् 'होता' कथ्यते।परीक्षा-संकेतः (Exam Setter's Tips & Tricks): वेद-ऋत्विक् सम्बन्धाः: ऋग्वेदः = होता; यजुर्वेदः = अध्वर्युः; सामवेदः = उद्गाता; अथर्ववेदः = ब्रह्मा।\nBPSC TRE 4.0 संस्कृतम् - सम्पूर्ण उत्तर-कुञ्जिका (Master Answer Key Q1-Q80)\nप्रश्न\nउत्तर\nप्रश्न\nउत्तर\nप्रश्न\nउत्तर\nप्रश्न\nउत्तर",
+      "tip": ""
     }
   ],
   "bpsc-tre4-science-80q": [

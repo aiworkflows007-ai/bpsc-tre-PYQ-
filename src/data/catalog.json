@@ -1,6 +1,6 @@
 {
-  "total_sets": 7,
-  "total_questions": 400,
+  "total_sets": 8,
+  "total_questions": 480,
   "sets": [
     {
       "id": "bpsc-tre4-english-literature-80q",
@@ -55,6 +55,15 @@
       "subject": "Language Qualifying",
       "filename": "bpsc-tre4-qualifying-paper-set2-40q.docx",
       "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-sanskrit-80q",
+      "title": "Sanskrit Subject Practice (80Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Sanskrit",
+      "filename": "bpsc-tre4-sanskrit-80q.docx",
+      "question_count": 80
     },
     {
       "id": "bpsc-tre4-science-80q",

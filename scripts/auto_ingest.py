@@ -14,9 +14,9 @@ CATALOG_FILE = os.path.join(ROOT, 'src', 'data', 'catalog.json')
 os.makedirs(SETS_DIR, exist_ok=True)
 
 # Standard regex headers for answer, explanation, and tips across BPSC documents
-ANS_HEADERS = r'(?:[•✔\-\*\s]*(?:Official|Correct|Right|आधिकारिक|सही|Technical)?\s*(?:Answer|Key|उत्तर))'
-EXPL_HEADERS = r'(?:[•✔\-\*\s]*(?:Technical|2-Line|Detailed|विस्तृत|आधिकारिक|Official)?\s*(?:Explanation|व्याख्या))'
-TIP_HEADERS = r'(?:[•✔\-\*\s]*(?:Exam\s+Setter\'?s?|परीक्षा)?\s*(?:Tips?(?:\s*(?:&|and|/)\s*Tricks?)?|टिप(?:्स)?(?:\s*और\s*ट्रिक्स)?))'
+ANS_HEADERS = r'(?:[•✔\-\*\s]*(?:Official|Correct|Right|आधिकारिक|सही|Technical)?\s*(?:Answer|Key|उत्तर(?:म्)?(?:\s*\([^)]*\))?))'
+EXPL_HEADERS = r'(?:[•✔\-\*\s]*(?:Technical|2-Line|Detailed|विस्तृत|आधिकारिक|Official)?\s*(?:Explanation|व्याख्या(?:\s*\([^)]*\))?))'
+TIP_HEADERS = r'(?:[•✔\-\*\s]*(?:Exam\s+Setter\'?s?|परीक्षा|परीक्षा-संकेतः)?\s*(?:Tips?(?:\s*(?:&|and|/)\s*Tricks?)?|टिप(?:्स)?(?:\s*और\s*ट्रिक्स)?|संकेतः?))'
 
 def extract_paras_from_docx(docx_path):
     with zipfile.ZipFile(docx_path) as z:
@@ -32,7 +32,7 @@ def extract_paras_from_docx(docx_path):
 
 def parse_docx(docx_path):
     paras = extract_paras_from_docx(docx_path)
-    q_pattern = re.compile(r'^(?:Q\.\s*|Question\s+|प्रश्न\s+)(\d+)', re.I)
+    q_pattern = re.compile(r'^(?:Q\.\s*|Question\s+|प्रश्न[ः:]?\s*|\bQ)(\d+)', re.I)
     
     questions = []
     seen_ids = set()
@@ -70,8 +70,9 @@ def parse_docx(docx_path):
                     start = opt_matches[k].end()
                     end = opt_matches[k+1].start() if k+1 < len(opt_matches) else len(before_ans)
                     opt_str = before_ans[start:end].strip()
-                    # Clean any trailing explanation/headers
+                    # Clean any trailing explanation/headers or source brackets
                     opt_str = re.split(rf'(?:{ANS_HEADERS}|{EXPL_HEADERS}|{TIP_HEADERS}):', opt_str, flags=re.I)[0].strip()
+                    opt_str = re.sub(r'\[.*?\]', '', opt_str).strip()
                     opts.append(opt_str)
             
             # Extract Answer Letter and Answer Text
@@ -79,7 +80,6 @@ def parse_docx(docx_path):
             ans_letter = ans_m.group(1).upper() if ans_m else 'A'
             ans_text = ans_m.group(2).strip() if ans_m else ''
             ans_text = re.sub(r'^[•✔\-\*\s]+|[•✔\-\*\s]+$', '', ans_text).strip()
-            # If ans_text accidentally contains next header
             ans_text = re.split(rf'(?:{EXPL_HEADERS}|{TIP_HEADERS}):', ans_text, flags=re.I)[0].strip()
             
             # Extract Explanation
@@ -98,30 +98,33 @@ def parse_docx(docx_path):
             
             # Extract source tag if present in brackets or pipes
             source = ''
-            src_m = re.search(r'\[(.*?)\]', prompt_raw)
+            src_m = re.search(r'\[(.*?)\]', chunk_text)
             if src_m:
                 source = src_m.group(1).strip()
                 prompt_raw = prompt_raw.replace(src_m.group(0), '').strip()
             else:
-                # Check pipe format e.g. Question 1 | BPSC TRE 2.0 | Topic
                 pipe_parts = prompt_raw.split('\n')[0].split('|')
                 if len(pipe_parts) > 1:
                     source = ' | '.join(p.strip() for p in pipe_parts[1:])
-                    # Remove the first header line from prompt_raw
                     remaining_lines = prompt_raw.split('\n')[1:]
                     prompt_raw = '\n'.join(remaining_lines).strip()
                     
-            # Strip question number prefix e.g. "Q.1", "Question 1", "प्रश्न 1"
-            prompt_raw = re.sub(r'^(?:Q\.\s*|Question\s+|प्रश्न\s+)\d+[\.\s\|\:]*', '', prompt_raw, flags=re.I).strip()
+            # Strip question number prefix e.g. "Q.1", "Question 1", "प्रश्न 1", "प्रश्नः 1."
+            prompt_raw = re.sub(r'^(?:Q\.\s*|Question\s+|प्रश्न[ः:]?\s*|\bQ)\d+[\.\s\|\:]*', '', prompt_raw, flags=re.I).strip()
             
             # Bilingual Prompt Splitting
-            # 1. Look for Hindi inside parentheses at the end: (1857 के विद्रोह ...) or (मानव आँख ...)
+            # 1. Hindi inside parentheses at end: (1857 के विद्रोह ...) or (मानव आँख ...)
             paren_hi = re.search(r'\(([^)]*[\u0900-\u097F][^)]*)\)\s*$', prompt_raw)
+            # 2. English inside parentheses at end: (How many Maheshwara Sutras are there?)
+            paren_en = re.search(r'\(([A-Za-z0-9\s\?\,\.\'\-]+)\)\s*$', prompt_raw)
+            
             if paren_hi:
                 en_prompt = prompt_raw[:paren_hi.start()].strip()
                 hi_prompt = paren_hi.group(1).strip()
+            elif paren_en:
+                hi_prompt = prompt_raw[:paren_en.start()].strip()
+                en_prompt = paren_en.group(1).strip()
             else:
-                # 2. Check if English text is directly followed by Devanagari text
                 dev_m = re.search(r'[\u0900-\u097F]', prompt_raw)
                 if dev_m and dev_m.start() > 3 and not re.search(r'[\u0900-\u097F]', prompt_raw[:dev_m.start()]):
                     en_prompt = prompt_raw[:dev_m.start()].strip()
@@ -213,6 +216,11 @@ def determine_metadata(filename, questions):
         section_name = 'Part-III Subject Practice (80 Marks)'
         title = 'English Literature Practice (80Q)'
         sub = 'English Literature'
+    elif 'sanskrit' in base:
+        section = 'subject'
+        section_name = 'Part-III Subject Practice (80 Marks)'
+        title = 'Sanskrit Subject Practice (80Q)'
+        sub = 'Sanskrit'
     elif 'math' in base or 'ganit' in base:
         section = 'subject'
         section_name = 'Part-III Subject Practice (80 Marks)'
@@ -223,11 +231,6 @@ def determine_metadata(filename, questions):
         section_name = 'Part-III Subject Practice (80 Marks)'
         title = 'Social Science Subject Practice (80Q)'
         sub = 'Social Science'
-    elif 'sanskrit' in base:
-        section = 'subject'
-        section_name = 'Part-III Subject Practice (80 Marks)'
-        title = 'Sanskrit Subject Practice (80Q)'
-        sub = 'Sanskrit'
     elif 'urdu' in base:
         section = 'subject'
         section_name = 'Part-III Subject Practice (80 Marks)'
