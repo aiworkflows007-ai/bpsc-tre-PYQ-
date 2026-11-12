@@ -1,0 +1,1451 @@
+{
+  "id": "bpsc-tre4-computer-science-pgt-80q",
+  "title": "Computer Science Practice Set 1 (PGT Class 11-12 - 80Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Computer Science",
+  "filename": "bpsc-tre-master-file3-computer-science.docx",
+  "question_count": 80,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The brain of computer is",
+      "hi": "कम्प्यूटर का दिमाग है",
+      "options": [
+        "CPU",
+        "memory",
+        "I/O device",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "CPU",
+      "explanation": "",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Intel 8085 microprocessor is of _____ generation.",
+      "hi": "इंटेल 8085 माइक्रोप्रोसेसर किस पीढ़ी का है?",
+      "options": [
+        "first",
+        "second",
+        "third",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "first",
+      "explanation": "",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The maximum memory size of third generation microprocessor is",
+      "hi": "तीसरी पीढ़ी के माइक्रोप्रोसेसर की अधिकतम मेमोरी साइज होती है",
+      "options": [
+        "4 GB",
+        "16 MB",
+        "16 GB",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "4 GB",
+      "explanation": "",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "CPU on a single chip is called",
+      "hi": "एकल चिप पर CPU को कहा जाता है",
+      "options": [
+        "microprocessor",
+        "microcontroller",
+        "solid-state device",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "microprocessor",
+      "explanation": "",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Computer on a single chip is called",
+      "hi": "एकल चिप पर कम्प्यूटर को कहा जाता है",
+      "options": [
+        "microcontroller",
+        "microprocessor",
+        "assembler",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "microcontroller",
+      "explanation": "",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which one of the following is used for playing video games?",
+      "hi": "निम्नांकित में से किसका विडियो गेम खेलने के लिए प्रयोग किया जाता है?",
+      "options": [
+        "Mouse",
+        "Trackball",
+        "Joystick",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Mouse",
+      "explanation": "",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "_____ is used to store softwares that does not update.",
+      "hi": "_____ का प्रयोग ऐसे सॉफ्टवेयर को स्टोर करने के लिए किया जाता है, जिसको अपडेट करना नहीं पड़ता है।",
+      "options": [
+        "SRAM",
+        "DRAM",
+        "ROM",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "SRAM",
+      "explanation": "",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following contains a laser?",
+      "hi": "निम्नांकित में से किसमें लेजर होता है?",
+      "options": [
+        "CD Drive",
+        "RAM",
+        "Hard Disk Drive",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "CD Drive",
+      "explanation": "",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program that converts an assembly language program into equivalent machine language program is called",
+      "hi": "एक कम्प्यूटर प्रोग्राम, जो एसेम्ब्ली भाषा के प्रोग्राम को समतुल्य मशीन भाषा के प्रोग्राम में बदल देता है, कहलाता है",
+      "options": [
+        "compiler",
+        "assembler",
+        "linker",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "compiler",
+      "explanation": "",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program that converts a high-level language program into an equivalent machine language program is called",
+      "hi": "एक कम्प्यूटर प्रोग्राम, जो उच्च-स्तरीय भाषा के प्रोग्राम को मशीन भाषा के समतुल्य प्रोग्राम में बदलता है, उसको कहा जाता है",
+      "options": [
+        "assembler",
+        "compiler",
+        "loader",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "assembler",
+      "explanation": "",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program that translates high-level language program into machine language program statement-by-statement is called",
+      "hi": "एक कम्प्यूटर प्रोग्राम, जो उच्च-स्तरीय भाषा प्रोग्राम का कथन-दर-कथन मशीन भाषा प्रोग्राम में अनुवाद करता है, कहलाता है",
+      "options": [
+        "compiler",
+        "loader",
+        "interpreter",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "compiler",
+      "explanation": "",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following is not an operating system?",
+      "hi": "निम्नांकित में से कौन-सा ऑपरेटिंग सिस्टम नहीं है?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Oracle",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Linux",
+      "explanation": "",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A software that runs on a computer hardware and serves as a platform for other softwares to run is called",
+      "hi": "कम्प्यूटर हार्डवेयर पर चलनेवाला एक सॉफ्टवेयर जो दूसरे सॉफ्टवेयर को चलाने के लिए प्लेटफॉर्म का काम करता है, कहलाता है",
+      "options": [
+        "system software",
+        "operating system",
+        "application software",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "system software",
+      "explanation": "",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following is not a system tool?",
+      "hi": "निम्नांकित में से कौन-सा सिस्टम टूल नहीं है?",
+      "options": [
+        "Scandisk",
+        "Format",
+        "Folder",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Scandisk",
+      "explanation": "",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The key/keys used to delete a file without allowing it to store in recycle bin is/are(",
+      "hi": "रिसाइकिल बिन में स्टोर किये बिना किसी फाइल को हटाने के लिए किस की (key) का प्रयोग किया जाता है?)",
+      "options": [
+        "Delete",
+        "Shift + Delete",
+        "Ctrl + Delete",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Delete",
+      "explanation": "",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The three main components of a digital computer system are",
+      "hi": "डिजिटल कम्प्यूटर सिस्टम के तीन मुख्य घटक हैं",
+      "options": [
+        "memory, I/O, DMA",
+        "ALU, CPU, memory",
+        "memory, CPU, I/O",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "memory, I/O, DMA",
+      "explanation": "",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "FFFF will be the last memory location in a memory of size",
+      "hi": "कितने साइज के मेमोरी में आखिरी मेमोरी लोकेशन FFFF होगा?",
+      "options": [
+        "16K",
+        "32K",
+        "64K",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "16K",
+      "explanation": "",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The cost of storing a bit is minimum in",
+      "hi": "एक बिट को स्टोर करने का न्यूनतम खर्च _____ में होता है।",
+      "options": [
+        "cache",
+        "register",
+        "magnetic tape",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "cache",
+      "explanation": "",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Tera means",
+      "hi": "Tera का अर्थ/मतलब होता है",
+      "options": [
+        "2^20",
+        "2^40",
+        "2^30",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "2^20",
+      "explanation": "",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following system softwares resides always in main memory?",
+      "hi": "निम्नांकित में से कौन-सा सिस्टम सॉफ्टवेयर, मेन मेमोरी में हमेशा रहता है?",
+      "options": [
+        "Loader",
+        "Linker",
+        "Assembler",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Loader",
+      "explanation": "",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The postfix equivalent of the prefix expression * + ab - cd is",
+      "hi": "प्रिफिक्स एक्सप्रेशन * + ab - cd का समतुल्य पोस्टफिक्स एक्सप्रेशन है",
+      "options": [
+        "ab+cd-*",
+        "abcd+-*",
+        "ab+cd*-",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ab+cd-*",
+      "explanation": "",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which data structure is used to convert infix notation to postfix notation?",
+      "hi": "इनफिक्स नोटेशन को पोस्टफिक्स नोटेशन में बदलने के लिए किस data structure का प्रयोग किया जाता है?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Stack",
+      "explanation": "",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The data structure in which data are added at the rear and deleted from front is called(",
+      "hi": "वह data structure, जिसमें data पीछे (rear) से जोड़ा जाता है और आगे (front) से हटाया जाता है, कहलाता है)",
+      "options": [
+        "stack",
+        "queue",
+        "linked list",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "stack",
+      "explanation": "",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Queue data structure uses",
+      "hi": "Queue data structure प्रयोग करता है",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "FIFO",
+      "explanation": "",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Stack data structure uses",
+      "hi": "Stack data structure प्रयोग करता है",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "FIFO",
+      "explanation": "",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A constructor is called whenever",
+      "hi": "एक constructor को कॉल किया जाता है, जब कभी भी",
+      "options": [
+        "an object is created",
+        "a class is created",
+        "a class is declared",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Declaring a class creates no object memory; object instantiation automatically triggers constructor execution."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "an object is created",
+      "explanation": "",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "All members of a structure in C++ are _____ by default.",
+      "hi": "C++ में, structure के सभी सदस्य डिफॉल्ट रूप से _____ होते हैं।",
+      "options": [
+        "public",
+        "private",
+        "protected",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Fundamental C++ interview rule: `struct` = public by default; `class` = private by default."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "public",
+      "explanation": "",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In C++, all members of a class are _____ by default.",
+      "hi": "C++ में, class के सभी सदस्य डिफॉल्ट रूप से _____ होते हैं।",
+      "options": [
+        "public",
+        "private",
+        "protected",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Structure vs Class access defaults is one of BPSC's most frequently repeated questions."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "public",
+      "explanation": "",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In C++, what does a class hold?",
+      "hi": "C++ में, class के अन्दर क्या होता है?",
+      "options": [
+        "Array",
+        "Data",
+        "Data and functions",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Array",
+      "explanation": "",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The number of access specifiers in class of C++ is",
+      "hi": "C++ के class में, access specifiers की संख्या है",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Remember the three C++ access specifiers: Public, Private, and Protected."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "2",
+      "explanation": "",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following is used to define the members of a class externally in C++?",
+      "hi": "निम्नांकित में से किसका C++ में class के सदस्यों को बाहर से परिभाषित करने के लिए प्रयोग किया जाता है?",
+      "options": [
+        ":",
+        "::",
+        "#",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": ":",
+      "explanation": "",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which concept of C++ is used to reuse the written code?",
+      "hi": "C++ का कौन-सा concept लिखे गए code को दुबारा प्रयोग करने के लिए प्रयोग होता है?",
+      "options": [
+        "Polymorphism",
+        "Inheritance",
+        "Encapsulation",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Polymorphism",
+      "explanation": "",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What will be the output of the following program fragment?int i = 10;",
+      "hi": "What will be the output of the following program fragment?int i = 10;",
+      "options": [
+        "30, 10",
+        "30, 20",
+        "20, 30",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "30, 10",
+      "explanation": "",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Choose the correct statement about inline function in C++.",
+      "hi": "C++ में, inline function के बारे में सही कथन को चुनें।",
+      "options": [
+        "It speeds up the execution.",
+        "It slows down the execution.",
+        "It decreases the code size.",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "It speeds up the execution.",
+      "explanation": "",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What will be the output of the following?int a = 5;",
+      "hi": "What will be the output of the following?int a = 5;",
+      "options": [
+        "FIRST 52 SECOND",
+        "FIRST 20 SECOND",
+        "SECOND 25 FIRST",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "FIRST 52 SECOND",
+      "explanation": "",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "cout in C++ stands for",
+      "hi": "C++ में cout का प्रयोग किसके लिए होता है?",
+      "options": [
+        "class output",
+        "character output",
+        "common output",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "class output",
+      "explanation": "",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Group of instructions that directs a computer is called",
+      "hi": "कम्प्यूटर को दिशा देने वाले instructions के समूह को कहा जाता है",
+      "options": [
+        "memory",
+        "storage",
+        "program",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "memory",
+      "explanation": "",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program consists of",
+      "hi": "कम्प्यूटर प्रोग्राम में होता है",
+      "options": [
+        "system flowchart",
+        "program flowchart",
+        "algorithms written in computer language",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "system flowchart",
+      "explanation": "",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The topology with highest reliability is",
+      "hi": "उच्चतम विश्वसनीयता वाली टोपोलॉजी है",
+      "options": [
+        "star",
+        "ring",
+        "mesh",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "star",
+      "explanation": "",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "End-to-end connectivity is provided from host-to-host in",
+      "hi": "होस्ट-से-होस्ट तक एंड-टू-एंड कनेक्टिविटी किस लेयर में प्रदान की जाती है?",
+      "options": [
+        "network layer",
+        "transport layer",
+        "session layer",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "network layer",
+      "explanation": "",
+      "tip": "",
+      "id": 40
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The _____ measures the number of lost or garbled messages as a fraction of the total sent in the network.",
+      "hi": "नेटवर्क में भेजे गए कुल संदेशों में से खोए या विकृत संदेशों की संख्या को मापने वाला अनुपात है",
+      "options": [
+        "error rate",
+        "bit rate",
+        "baud rate",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "error rate",
+      "explanation": "",
+      "tip": "",
+      "id": 41
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following transmission media has highest transmission speed?",
+      "hi": "निम्नांकित में से किस ट्रांसमिशन मीडिया में ट्रांसमिशन गति सबसे अधिक होती है?",
+      "options": [
+        "Coaxial cable",
+        "Twisted-pair cable",
+        "Fiber-optic cable",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Coaxial cable",
+      "explanation": "",
+      "tip": "",
+      "id": 42
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "_____ topology uses a single backbone cable to connect all devices together.(_____",
+      "hi": "टोपोलॉजी, एक ही जोड़ (बैकबोन केबल) का प्रयोग सभी युक्तियों को एक साथ जोड़ने के लिए करती है।)",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Bus",
+      "explanation": "",
+      "tip": "",
+      "id": 43
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A _____ connects LANs across large geographical areas.",
+      "hi": "एक _____ बड़े भौगोलिक क्षेत्रों में फैले LAN को आपस में जोड़ता है।",
+      "options": [
+        "WAN",
+        "LAN",
+        "MAN",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "WAN",
+      "explanation": "",
+      "tip": "",
+      "id": 44
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In computer network, what is the size of IP address in IPv4?",
+      "hi": "कम्प्यूटर नेटवर्क के IPv4 में IP एड्रेस का साइज कितना होता है?",
+      "options": [
+        "8 bits",
+        "16 bits",
+        "32 bits",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8 bits",
+      "explanation": "",
+      "tip": "",
+      "id": 45
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What is the size of MAC address in computer network?",
+      "hi": "कम्प्यूटर नेटवर्क में MAC address का साइज कितना होता है?",
+      "options": [
+        "32 bits",
+        "16 bits",
+        "48 bits",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "32 bits",
+      "explanation": "",
+      "tip": "",
+      "id": 46
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What is the name given to the act of gaining illegal entry to computer files through remote terminals or microcomputers?",
+      "hi": "दूरस्थ टर्मिनलों या माइक्रोकम्प्यूटरों के माध्यम से कम्प्यूटर फाइलों में अवैध प्रवेश प्राप्त करने के कार्य को क्या नाम दिया गया है?",
+      "options": [
+        "Hacking",
+        "Decoding",
+        "Beating the system",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Hacking",
+      "explanation": "",
+      "tip": "",
+      "id": 47
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer virus is a software program which has the essential ability to",
+      "hi": "कम्प्यूटर वाइरस एक सॉफ्टवेयर प्रोग्राम है, जिसमें आवश्यक क्षमता होती है",
+      "options": [
+        "damage data",
+        "damage program",
+        "clone itself",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Since virus definition includes both self-replication (cloning) and payload destruction, select Option"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "damage data",
+      "explanation": "",
+      "tip": "",
+      "id": 48
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Copying computer program/software without the permission of its authors is called",
+      "hi": "कम्प्यूटर प्रोग्राम/सॉफ्टवेयर को उसके लेखक की अनुमति के बिना कॉपी करना कहलाता है",
+      "options": [
+        "larceny",
+        "software piracy",
+        "highway robbery",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "larceny",
+      "explanation": "",
+      "tip": "",
+      "id": 49
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A hard disk becomes totally inaccessible when a computer virus corrupts",
+      "hi": "हार्ड डिस्क पूरी तरह से अप्राप्य हो जाता है, जब कम्प्यूटर वाइरस _____ को दूषित करता है।",
+      "options": [
+        "partition table",
+        "file allocation table",
+        "root directory",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "partition table",
+      "explanation": "",
+      "tip": "",
+      "id": 50
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "An attribute of one table matching the primary key of another table is called as",
+      "hi": "एक टेबल का ऐट्रिब्यूट, जो दूसरे टेबल की प्राइमरी की से मैच करता हो, कहलाता है",
+      "options": [
+        "foreign key",
+        "secondary key",
+        "candidate key",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "foreign key",
+      "explanation": "",
+      "tip": "",
+      "id": 51
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If every non-key attribute is fully dependent on the primary key, then the relation will be in",
+      "hi": "अगर प्रत्येक नॉन-की ऐट्रिब्यूट पूरी तरह से प्राइमरी की पर निर्भर रहता है, तो रिलेशन होगा",
+      "options": [
+        "First Normal Form (1NF)",
+        "Second Normal Form (2NF)",
+        "Third Normal Form (3NF)",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "First Normal Form (1NF)",
+      "explanation": "",
+      "tip": "",
+      "id": 52
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In relational database, the data type of values in each column of a table is called",
+      "hi": "रिलेशनल डेटाबेस में, किसी टेबल के हरेक कॉलम के वैल्यू के डेटा टाइप को क्या कहा जाता है?",
+      "options": [
+        "attribute",
+        "domain",
+        "relation",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "attribute",
+      "explanation": "",
+      "tip": "",
+      "id": 53
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In relational database, the number of attributes of a relation is called the _____ of relation.",
+      "hi": "रिलेशनल डेटाबेस में, किसी रिलेशन के ऐट्रिब्यूटों की संख्या को रिलेशन का _____ कहा जाता है।",
+      "options": [
+        "domain",
+        "degree",
+        "cardinality",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Count of Columns = Degree; Count of Rows = Cardinality."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "domain",
+      "explanation": "",
+      "tip": "",
+      "id": 54
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following SQL commands is used to change the attribute values of one or more rows in a table?",
+      "hi": "निम्नांकित में से किस SQL कमांड का किसी टेबल के एक या एक से अधिक रो के ऐट्रिब्यूट वैल्यू को बदलने के लिए प्रयोग किया जाता है?",
+      "options": [
+        "Update",
+        "Insert",
+        "Alter",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Update",
+      "explanation": "",
+      "tip": "",
+      "id": 55
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "To retrieve information from a database, which of the following SQL commands is used?",
+      "hi": "किसी डेटाबेस से सूचना को निकालने के लिए निम्नांकित में से किस SQL कमांड का प्रयोग किया जाता है?",
+      "options": [
+        "Display",
+        "Show",
+        "Select",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Display",
+      "explanation": "",
+      "tip": "",
+      "id": 56
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following SQL commands is used to modify the structure of a table?",
+      "hi": "निम्नांकित में से किस SQL कमांड का प्रयोग किसी टेबल के स्ट्रक्चर को बदलने के लिए प्रयोग किया जाता है?",
+      "options": [
+        "Alter",
+        "Modify",
+        "Update",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: `ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Alter",
+      "explanation": "",
+      "tip": "",
+      "id": 57
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following SQL keywords is used to display data from a table based on certain pattern?",
+      "hi": "निम्नांकित में से किस SQL कीवर्ड का प्रयोग किसी पैटर्न पर आधारित टेबल से डेटा को दर्शाने के लिए होता है?",
+      "options": [
+        "IN",
+        "LIKE",
+        "BETWEEN",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "IN",
+      "explanation": "",
+      "tip": "",
+      "id": 58
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Degree and cardinality of a relation in relational database are 4 and 3 respectively. If 3 attributes and 4 tuples are added to the relation, what will be its new cardinality and degree?",
+      "hi": "रिलेशनल डेटा बेस में एक रिलेशन का डिग्री और कार्डिनलिटी क्रमशः 4 और 3 हैं। अगर 3 ऐट्रिब्यूट और 4 ट्यूपल उस रिलेशन में जोड़ दिया जाए, तो उस रिलेशन का नया कार्डिनलिटी और डिग्री क्या होगा?",
+      "options": [
+        "7, 6",
+        "7, 7",
+        "8, 6",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "7, 6",
+      "explanation": "",
+      "tip": "",
+      "id": 59
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which SQL command is used to remove a table from a database?",
+      "hi": "किसी डेटाबेस से टेबल को हटाने के लिए किस SQL कमांड का प्रयोग किया जाता है?",
+      "options": [
+        "DELETE",
+        "DROP",
+        "ERASE",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "DELETE",
+      "explanation": "",
+      "tip": "",
+      "id": 60
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The register that contains the address of the next instruction to be executed is called",
+      "hi": "वह रजिस्टर, जिसमें अगला इन्सट्रक्शन जो एक्जिक्यूट होने वाला होता है उसका ऐड्रेस होता है, कहलाता है",
+      "options": [
+        "program counter",
+        "instruction register",
+        "accumulator",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "program counter",
+      "explanation": "",
+      "tip": "",
+      "id": 61
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The register that contains the instruction that is being executed is called",
+      "hi": "एक्जिक्यूट हो रहे इन्सट्रक्शन को रखनेवाले रजिस्टर को कहा जाता है",
+      "options": [
+        "accumulator",
+        "program counter",
+        "instruction register",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "accumulator",
+      "explanation": "",
+      "tip": "",
+      "id": 62
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The register which holds the address of location of memory to and from which data are to be transferred is known as",
+      "hi": "वह रजिस्टर, जिसमें मेमोरी के स्थान का पता होता है जहाँ से या जहाँ तक डेटा स्थानांतरित किया जाना होता है, कहलाता है",
+      "options": [
+        "index register",
+        "memory address register",
+        "memory buffer register",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "index register",
+      "explanation": "",
+      "tip": "",
+      "id": 63
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A storage device used to compensate the difference in flow of data is known as",
+      "hi": "डेटा के प्रवाह में अंतर की भरपाई के लिए उपयोग की जाने वाली स्टोरेज डिवाइस को क्या कहा जाता है?",
+      "options": [
+        "main memory",
+        "auxiliary memory",
+        "buffer",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "main memory",
+      "explanation": "",
+      "tip": "",
+      "id": 64
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Memory in which any location can be reached in a fixed amount of time after specifying its address is called",
+      "hi": "वह मेमोरी, जिसके किसी लोकेशन पर उस लोकेशन को बताने के बाद एक निश्चित समय में पहुँचा जा सकता है, कहलाती है",
+      "options": [
+        "Sequential Access Memory",
+        "Random Access Memory",
+        "Secondary Memory",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Sequential Access Memory",
+      "explanation": "",
+      "tip": "",
+      "id": 65
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If (X567)_8 + (2YX5)_8 = (71YX)_8, then the values of X and Y are(",
+      "hi": "अगर (X567)_8 + (2YX5)_8 = (71YX)_8, तो X और Y के मान हैं)",
+      "options": [
+        "4, 3",
+        "3, 3",
+        "4, 4",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "4, 3",
+      "explanation": "",
+      "tip": "",
+      "id": 66
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The range of the numbers that can be represented in 8-bit using 2's complement representation is",
+      "hi": "2's कॉम्प्लिमेन्ट रिप्रेजेन्टेशन का प्रयोग करके 8 बिट में रिप्रेजेन्ट होने वाली संख्याओं का रेन्ज है",
+      "options": [
+        "-128 to +128",
+        "-127 to +127",
+        "-128 to +127",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: 2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "-128 to +128",
+      "explanation": "",
+      "tip": "",
+      "id": 67
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If (11X1Y)_8 = (12C9)_16, then the values of X and Y are(",
+      "hi": "अगर (11X1Y)_8 = (12C9)_16 हो, तो X और Y के मान हैं)",
+      "options": [
+        "5, 1",
+        "5, 7",
+        "3, 1",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "5, 1",
+      "explanation": "",
+      "tip": "",
+      "id": 68
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following 4-bit numbers equals its 2's complement?",
+      "hi": "निम्नांकित 4-बिट नम्बरों में से कौन-सा अपने 2's कॉम्प्लिमेन्ट के बराबर है?",
+      "options": [
+        "1010",
+        "0101",
+        "1000",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "1010",
+      "explanation": "",
+      "tip": "",
+      "id": 69
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The number of 1's in the binary representation of the value of the decimal expression of 16^3 * 9 + 16^2 * 7 + 16 * 5 + 3 is",
+      "hi": "डेसिमल एक्सप्रेशन 16^3 * 9 + 16^2 * 7 + 16 * 5 + 3 के मान को बाइनरी रिप्रेजेन्टेशन में बदलने पर 1 की संख्या कितनी होगी?",
+      "options": [
+        "15",
+        "9",
+        "12",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "15",
+      "explanation": "",
+      "tip": "",
+      "id": 70
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression x + x'y equals",
+      "hi": "बूलियन एक्सप्रेशन x + x'y बराबर है",
+      "options": [
+        "x + y",
+        "x + xy",
+        "y + yx",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Absorption & Redundancy rule: `A + A'B = A + B`."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "x + y",
+      "explanation": "",
+      "tip": "",
+      "id": 71
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression AB + AB' + A'C + AC is independent of Boolean variable",
+      "hi": "बूलियन एक्सप्रेशन AB + AB' + A'C + AC बूलियन वैरिएबल _____ पर निर्भर नहीं है।",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "A",
+      "explanation": "",
+      "tip": "",
+      "id": 72
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression A + BC equals",
+      "hi": "बूलियन एक्सप्रेशन A + BC के बराबर है",
+      "options": [
+        "(A' + B)(A' + C)",
+        "(A + B)(A' + C)",
+        "(A + B)(A + C)",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C)."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "(A' + B)(A' + C)",
+      "explanation": "",
+      "tip": "",
+      "id": 73
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression x + xy will be equal to",
+      "hi": "बूलियन एक्सप्रेशन x + xy के बराबर होगा",
+      "options": [
+        "x",
+        "y",
+        "x + y",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Boolean Absorption Law: `x + xy = x`."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "x",
+      "explanation": "",
+      "tip": "",
+      "id": 74
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression x(x + y) is equal to(",
+      "hi": "बूलियन एक्सप्रेशन x(x + y) बराबर है)",
+      "options": [
+        "x",
+        "y",
+        "xy",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Dual Absorption Law: `x(x + y) = x`."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "x",
+      "explanation": "",
+      "tip": "",
+      "id": 75
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If x is a Boolean variable, then (((x')')')' will be(",
+      "hi": "अगर x बूलियन वैरिएबल है, तो (((x')')')' होगा)",
+      "options": [
+        "x'",
+        "x",
+        "x + x'",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "x'",
+      "explanation": "",
+      "tip": "",
+      "id": 76
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In two-valued Boolean algebra, the maximum number of Boolean functions for two variables will be",
+      "hi": "दो मान वाले बूलियन अलजेब्रा में 2 वैरिएबलों के लिए अधिकतम बूलियन फंक्शन की संख्या होगी",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8",
+      "explanation": "",
+      "tip": "",
+      "id": 77
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Simplified Boolean function of Boolean function F = A'C + A'B + AB'C + BC is",
+      "hi": "बूलियन फंक्शन F = A'C + A'B + AB'C + BC का सरलीकृत बूलियन फंक्शन है",
+      "options": [
+        "F = C + A'B",
+        "F = A'B + B'C",
+        "F = BC + A'B",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "F = C + A'B",
+      "explanation": "",
+      "tip": "",
+      "id": 78
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following logic gates is called universal gate?",
+      "hi": "निम्नांकित में से कौन-सा लॉजिक गेट, यूनिवर्सल गेट कहलाता है?",
+      "options": [
+        "AND",
+        "OR",
+        "NAND",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Universal Gates = NAND and NOR; Basic Gates = AND, OR, NOT."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "AND",
+      "explanation": "",
+      "tip": "",
+      "id": 79
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The minimum number of NAND gates required to implement Boolean function f = x'y + xy' is(",
+      "hi": "बूलियन फंक्शन f = x'y + xy' (XOR) को इम्प्लीमेन्ट करने के लिए न्यूनतम कितने NAND गेट चाहिए?)",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "More than one of the above",
+        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "3",
+      "explanation": "",
+      "tip": "",
+      "id": 80
+    }
+  ]
+}

@@ -1,0 +1,749 @@
+{
+  "id": "bpsc-tre4-general-studies-set14",
+  "title": "General Studies Practice Set 14 (41Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 41,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Two inlet pipes A and B can fill a tank in 15 hours and 20 hours respectively, while an outlet pipe C can empty the full tank in 25 hours. If all three pipes are opened together, in how many hours will the empty tank be filled?",
+      "hi": "दो नल A और B किसी टंकी को क्रमशः 15 घंटे और 20 घंटे में भर सकते हैं, जबकि एक निकासी नल C पूरी भरी टंकी को 25 घंटे में खाली कर सकता है। यदि तीनों नलों को एक साथ खोल दिया जाए, तो खाली टंकी कितने घंटे में भर जाएगी?",
+      "options": [
+        "12 hours",
+        "300/23 hours (approx. 13 hours)",
+        "14 hours",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "300/23 hours (approx. 13 hours)Detailed",
+      "explanation": "LCM of 15, 20, 25 = 300 units capacity. Efficiency of A = +20, B = +15, C = -12 units/hr. Net inflow = 20 + 15 - 12 = 23 units/hr. Time required = 300 / 23 hours = 13.04 hours.💡 Exam Setter's Tips & Quick Tricks: Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 hours.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "For any geometric circle, what is the universal ratio of its circumference to its diameter?",
+      "hi": "किसी भी ज्यामितीय वृत्त के लिए, उसकी परिधि और उसके व्यास का सार्वभौमिक अनुपात क्या होता है?",
+      "options": [
+        "An integer 3",
+        "A constant irrational number π (approx. 22/7 or 3.14159)",
+        "A variable rational ratio",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "A constant irrational number π (approx. 22/7 or 3.14159)Detailed",
+      "explanation": "By definition, π = Circumference / Diameter (C / 2r). It is a transcendental irrational mathematical constant whose exact value cannot be expressed as a finite fraction.💡 Exam Setter's Tips & Quick Tricks: Ratio of Circumference to Diameter = π (Pi); π is an irrational number.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "If 6 men and 8 boys can do a piece of work in 10 days, while 26 men and 48 boys can do the same work in 2 days, in how many days will 15 men and 20 boys finish the same work?",
+      "hi": "यदि 6 पुरुष और 8 लड़के किसी कार्य को 10 दिनों में पूरा कर सकते हैं, जबकि 26 पुरुष और 48 लड़के उसी कार्य को 2 दिनों में पूरा कर सकते हैं, तो 15 पुरुष और 20 लड़के उस कार्य को कितने दिनों में समाप्त करेंगे?",
+      "options": [
+        "4 days",
+        "5 days",
+        "6 days",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "4 daysDetailed",
+      "explanation": "(6M + 8B) * 10 = (26M + 48B) * 2 => 60M + 80B = 52M + 96B => 8M = 16B => 1 Man = 2 Boys. Total work in boy units = (6*2 + 8) * 10 = 20 * 10 = 200 boy-days. 15 men and 20 boys = 15*2 + 20 = 50 boys. Days required = 200 / 50 = 4 days.💡 Exam Setter's Tips & Quick Tricks: 15M + 20B is exactly 2.5 times (6M + 8B). Since team strength is multiplied by 2.5, time is divided by 2.5: 10 / 2.5 = 4 days.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In a group of 60 people, 35 like tea, 25 like coffee, and 15 like both tea and coffee. How many people in the group like neither tea nor coffee?",
+      "hi": "60 व्यक्तियों के समूह में, 35 चाय पसंद करते हैं, 25 कॉफी पसंद करते हैं, और 15 चाय और कॉफी दोनों पसंद करते हैं। समूह में कितने व्यक्ति न तो चाय और न ही कॉफी पसंद करते हैं?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "15Detailed",
+      "explanation": "n(T ∪ C) = n(T) + n(C) - n(T ∩ C) = 35 + 25 - 15 = 45 persons like at least one beverage. Number of persons liking neither = Total - n(T ∪ C) = 60 - 45 = 15.💡 Exam Setter's Tips & Quick Tricks: Union = 35 + 25 - 15 = 45. Neither = 60 - 45 = 15.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In a certain code language, 'WATER' is written as 'YCVGT'. How will 'FIRE' be written in that code language?",
+      "hi": "एक निश्चित कूट भाषा में 'WATER' को 'YCVGT' लिखा जाता है। उसी कूट भाषा में 'FIRE' को कैसे लिखा जाएगा?",
+      "options": [
+        "HKTG",
+        "GJSF",
+        "HKTH",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "HKTGDetailed",
+      "explanation": "Pattern is +2 to each letter: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. Applying +2 to FIRE: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG.💡 Exam Setter's Tips & Quick Tricks: Shift +2: F->H, I->K, R->T, E->G = HKTG.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Find the next number in the series: 5, 11, 23, 47, 95, ?",
+      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 5, 11, 23, 47, 95, ?",
+      "options": [
+        "189",
+        "191",
+        "195",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "191Detailed",
+      "explanation": "Pattern is (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.💡 Exam Setter's Tips & Quick Tricks: Next term = 95 * 2 + 1 = 190 + 1 = 191.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Pointing to a woman, a man says, 'Her mother's only son is my brother.' How is the woman related to the man?",
+      "hi": "एक महिला की ओर इशारा करते हुए एक पुरुष कहता है, 'उसकी माँ का एकमात्र पुत्र मेरा भाई है।' वह महिला उस पुरुष से किस प्रकार संबंधित है?",
+      "options": [
+        "Mother",
+        "Sister (बहन)",
+        "Aunt",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sister (बहन)Detailed",
+      "explanation": "'Her mother's only son' is the woman's brother. If the woman's brother is the man's brother, then the woman is the man's sister.💡 Exam Setter's Tips & Quick Tricks: Mother's only son = Brother. Woman's brother is man's brother, so the woman is his sister.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "At what time between 4 o'clock and 5 o'clock will the hands of a clock be together (coincide)?(4",
+      "hi": "बजे और 5 बजे के बीच किस समय घड़ी की दोनों सुइयां एक साथ (संपाती) होंगी?)",
+      "options": [
+        "4:20",
+        "21(9/11) minutes past 4",
+        "22(2/11) minutes past 4",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "21(9/11) minutes past 4Detailed",
+      "explanation": "At 4:00, the hands are 20 minute spaces apart. To coincide, the minute hand must gain 20 spaces over the hour hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) minutes past 4.💡 Exam Setter's Tips & Quick Tricks: Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) minutes past 4.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "One kilowatt-hour (1 kWh), commonly designated as one commercial 'unit' of electrical energy, is equal to how many Joules?(",
+      "hi": "एक किलोवाट-घंटा (1 kWh), जिसे सामान्यतः विद्युत ऊर्जा की एक 'यूनिट' कहा जाता है, कितने जूल के बराबर होता है?)",
+      "options": [
+        "3.6 × 10^5 J",
+        "3.6 × 10^6 J",
+        "3.6 × 10^7 J",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3.6 × 10^6 JDetailed",
+      "explanation": "1 kWh = 1,000 Watts * 3,600 seconds = 3,600,000 Watt-seconds = 3.6 × 10^6 Joules.💡 Exam Setter's Tips & Quick Tricks: 1 commercial electrical unit = 1 kWh = 3.6 * 10^6 J.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the focal length and optical power of an ordinary flat plane mirror?(",
+      "hi": "एक साधारण समतल दर्पण की फोकस दूरी और प्रकाशिक शक्ति (Power) क्या होती है?)",
+      "options": [
+        "Focal length is zero; Power is infinite",
+        "Focal length is infinite (∞); Power is zero (0 D)",
+        "Focal length is 1 metre; Power is 1 Dioptre",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Focal length is infinite (∞); Power is zero (0 D)Detailed",
+      "explanation": "A plane mirror has no curvature (radius of curvature R = ∞), so its focal length f = R/2 = ∞. Optical power P = 1/f = 1/∞ = 0 Dioptres.💡 Exam Setter's Tips & Quick Tricks: Plane mirror: Focal length = Infinite (∞); Power = 0 D; Magnification = +1.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which gas burns with a characteristic pale blue flame and produces a sharp 'pop' sound when a burning matchstick is brought near its opening?(",
+      "hi": "कौन-सी गैस हल्की नीली लौ के साथ जलती है और जलती हुई तीली पास लाने पर 'पॉप' ध्वनि (फट-फट की आवाज) उत्पन्न करती है?)",
+      "options": [
+        "Oxygen",
+        "Hydrogen (H2)",
+        "Carbon dioxide",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hydrogen (H2)Detailed",
+      "explanation": "Hydrogen gas is highly combustible. When mixed with atmospheric oxygen and ignited, it burns explosively with a distinctive 'pop' sound, forming water vapour: 2H2 + O2 -> 2H2O.💡 Exam Setter's Tips & Quick Tricks: Pop sound test = Hydrogen (H2); Extinguishes burning matchstick = CO2; Rekindles glowing splint = Oxygen.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Cinnabar is the principal natural mineral sulphide ore from which which heavy metal is extracted?(",
+      "hi": "सिनाबार (हिंगुल) किस भारी धातु का निष्कर्षण करने वाला प्रमुख प्राकृतिक खनिज सल्फाइड अयस्क है?)",
+      "options": [
+        "Lead",
+        "Mercury (पारा, Hg)",
+        "Copper",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mercury (पारा, Hg)Detailed",
+      "explanation": "Cinnabar is mercuric sulphide (HgS). When roasted in air, HgS decomposes into sulfur dioxide and metallic mercury vapour, which condenses into liquid mercury: HgS + O2 -> Hg + SO2.💡 Exam Setter's Tips & Quick Tricks: Cinnabar = Mercury (Hg); Galena = Lead (Pb); Chalcopyrite = Copper (Cu).",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the human female reproductive system, fertilization of the ovum by a sperm normally takes place in which anatomical part?",
+      "hi": "मानव मादा प्रजनन प्रणाली में अंडाणु का शुक्राणु द्वारा निषेचन सामान्यतः किस शारीरिक भाग में होता है?",
+      "options": [
+        "Uterus",
+        "Fallopian Tube (Ampullary-isthmic junction)",
+        "Ovary",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Fallopian Tube (Ampullary-isthmic junction)Detailed",
+      "explanation": "The released secondary oocyte travels into the fallopian tube (oviduct), where fertilization by sperm occurs in the ampullary region. The resulting zygote then moves to implant in the uterine endometrium.💡 Exam Setter's Tips & Quick Tricks: Site of fertilization = Fallopian Tube (Oviduct); Site of embryo implantation = Uterus.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which plasma protein, synthesized in the liver, is primarily responsible for maintaining the colloidal osmotic (oncotic) pressure of human blood?(",
+      "hi": "यकृत में संश्लेषित कौन-सा प्लाज्मा प्रोटीन मानव रक्त के कोलॉइडी परासरणी (ऑन्कोटिक) दाब को बनाए रखने के लिए मुख्य रूप से उत्तरदायी है?)",
+      "options": [
+        "Fibrinogen",
+        "Albumin (एल्ब्यूमिन)",
+        "Globulin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Albumin (एल्ब्यूमिन)Detailed",
+      "explanation": "Albumin accounts for ~60% of total plasma proteins and generates ~80% of the blood colloidal oncotic pressure, preventing excess fluid leakage from capillaries into interstitial tissues. Fibrinogen is for clotting, and Globulin is for immunity.💡 Exam Setter's Tips & Quick Tricks: Blood osmotic pressure = Albumin; Blood clotting = Fibrinogen; Antibodies = Globulin.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which cell organelles, discovered by George Palade, are known as the 'Protein Factories of the Cell'?",
+      "hi": "जॉर्ज पैलेड द्वारा खोजे गए किन कोशिकीय अंगकों को 'कोशिका की प्रोटीन फैक्ट्री' कहा जाता है?",
+      "options": [
+        "Lysosomes",
+        "Ribosomes (राइबोसोम)",
+        "Vacuoles",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ribosomes (राइबोसोम)Detailed",
+      "explanation": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in cytoplasm or bound to rough endoplasmic reticulum.💡 Exam Setter's Tips & Quick Tricks: Protein factory = Ribosomes; Powerhouse = Mitochondria; Packaging centre = Golgi apparatus.",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The optical illusion of a shimmering water body on hot desert roads during summer afternoons (Mirage) is caused by(",
+      "hi": "गर्मियों की दोपहर में रेगिस्तान की सड़कों पर चमकते जल का प्रकाशीय भ्रम (मरीचिका / Mirage) किसके कारण उत्पन्न होता है?)",
+      "options": [
+        "Pure optical dispersion",
+        "Total Internal Reflection of light through layers of heated air",
+        "Selective wave polarization",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Total Internal Reflection of light through layers of heated airDetailed",
+      "explanation": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing total internal reflection.💡 Exam Setter's Tips & Quick Tricks: Mirage in deserts = Total Internal Reflection (TIR) + Atmospheric Refraction.",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who was the British Commissioner of Patna Division who suppressed the uprising of Pir Ali Khan and arrested the Wahhabi leaders in July 1857?",
+      "hi": "पटना प्रभाग का वह ब्रिटिश कमिश्नर कौन था जिसने जुलाई 1857 में पीर अली खान के विद्रोह का दमन किया और वहाबी नेताओं को नजरबंद किया था?",
+      "options": [
+        "Major Dalton",
+        "William Tayler (विलियम टेलर)",
+        "E. A. Samuells",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "William Tayler (विलियम टेलर)Detailed",
+      "explanation": "William Tayler served as Commissioner of Patna during 1857. He invited three prominent Wahhabi leaders (Muhammad Hussain, Ahmadullah, Waizul Haque) to his house for talks and arrested them treacherous, and publicly hanged Pir Ali Khan.💡 Exam Setter's Tips & Quick Tricks: Patna Commissioner in 1857 = William Tayler; Chota Nagpur Commissioner = Major Dalton.",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "When the Prince of Wales visited Patna on 22 December 1921 during the Non-Cooperation Movement, how was he received by the citizens of Patna?",
+      "hi": "असहयोग आंदोलन के दौरान 22 दिसंबर 1921 को जब प्रिंस ऑफ वेल्स पटना पहुंचे, तो पटना के नागरिकों द्वारा उनका स्वागत कैसे किया गया था?",
+      "options": [
+        "With grand civic reception",
+        "With a complete citywide hartal and deserted streets (पूर्ण हड़ताल और वीरान सड़कें)",
+        "With black flags and slogans only at the station",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "With a complete citywide hartal and deserted streets (पूर्ण हड़ताल और वीरान सड़कें)Detailed",
+      "explanation": "On 22-23 December 1921, Patna observed a historic and total hartal against the Prince of Wales' visit called by the Congress. Markets and schools closed, and streets were completely deserted, delivering a stinging boycott to the colonial administration.💡 Exam Setter's Tips & Quick Tricks: Prince of Wales visit to Patna (22 Dec 1921) = Met with total hartal and deserted streets.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "On 9 August 1942, immediately following the launch of the Quit India resolution in Bombay, in which prison was Dr. Rajendra Prasad detained in Patna?",
+      "hi": "9 अगस्त 1942 को बॉम्बे में भारत छोड़ो प्रस्ताव पारित होने के तुरंत बाद डॉ. राजेंद्र प्रसाद को पटना की किस जेल में नजरबंद किया गया था?",
+      "options": [
+        "Hazaribagh Central Jail",
+        "Bankipur Central Jail, Patna (बांकीपुर जेल)",
+        "Gaya Central Jail",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bankipur Central Jail, Patna (बांकीपुर जेल)Detailed",
+      "explanation": "Due to ill health, Dr. Rajendra Prasad had not traveled to Bombay. Patna District Magistrate W. G. Archer arrested him from Sadaqat Ashram on 9 August 1942 and detained him in Bankipur Central Jail, where he wrote his autobiography 'Atmakatha'.💡 Exam Setter's Tips & Quick Tricks: Dr. Rajendra Prasad detained in 1942 = Bankipur Jail (Patna); Jayaprakash Narayan = Hazaribagh Jail.",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who served as the first Chief Minister (Premier) of Bihar in independent India from 1947 to 1961, revered as 'Bihar Kesari'?",
+      "hi": "1947 से 1961 तक स्वतंत्र भारत में बिहार के पहले मुख्यमंत्री के रूप में किसने सेवा की, जिन्हें 'बिहार केसरी' कहा जाता है?",
+      "options": [
+        "Dr. Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh (बिहार केसरी)",
+        "Pandit Karyanand Sharma",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Sri Krishna Singh (बिहार केसरी)Detailed",
+      "explanation": "Dr. Sri Krishna Singh (known as 'Sri Babu' and 'Bihar Kesari') served as the premier/Chief Minister of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy Chief Minister and Finance Minister.💡 Exam Setter's Tips & Quick Tricks: 'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = Jayaprakash Narayan.",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who was appointed as the first Governor of the State of Bihar upon India attaining Independence on 15 August 1947?",
+      "hi": "15 अगस्त 1947 को भारत के स्वतंत्र होने पर बिहार राज्य के प्रथम राज्यपाल के रूप में किसे नियुक्त किया गया था?",
+      "options": [
+        "R. R. Diwakar",
+        "Jairamdas Daulatram (जयरामदास दौलतराम)",
+        "Madhav Shrihari Aney",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jairamdas Daulatram (जयरामदास दौलतराम)Detailed",
+      "explanation": "Jairamdas Daulatram served as the first Governor of Bihar in independent India from 15 August 1947 to 11 January 1948. (Sir James David Sifton was the first Governor of Bihar when Orissa separated in 1936).💡 Exam Setter's Tips & Quick Tricks: First Governor of Bihar in Independent India = Jairamdas Daulatram (15 Aug 1947).",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The River Falgu, celebrated for the religious performance of Pinda Daan during Pitru Paksha in Gaya, is formed by the confluence of which two streams?",
+      "hi": "गया में पितृपक्ष के दौरान पिंडदान के लिए प्रसिद्ध फल्गु नदी किन दो धाराओं के संगम से बनती है?",
+      "options": [
+        "Son and North Koel",
+        "Lilajan (Nilanjana) and Mohana",
+        "Punpun and Dardha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lilajan (Nilanjana) and MohanaDetailed",
+      "explanation": "The Falgu River is formed by the meeting of the Lilajan (ancient Niranjana, on whose banks Buddha meditated) and the Mohana River near Bodh Gaya. It flows past the Vishnupad Temple in Gaya city.💡 Exam Setter's Tips & Quick Tricks: Falgu River formed by = Lilajan (Niranjana) + Mohana; Buddha attained enlightenment on banks of Niranjana.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "India's longest rubber dam, the 'Gayaji Dam' on the sacred Falgu River, was inaugurated in September 2022 in which holy city of Bihar?",
+      "hi": "पवित्र फल्गु नदी पर भारत के सबसे लंबे रबर डैम 'गयाजी डैम' का उद्घाटन सितंबर 2022 में बिहार के किस पावन नगर में किया गया था?",
+      "options": [
+        "Rajgir",
+        "Gaya (गया)",
+        "Bodh Gaya",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Gaya (गया)Detailed",
+      "explanation": "Chief Minister Nitish Kumar inaugurated the 411-metre-long and 3-metre-high 'Gayaji Dam' on the Falgu River near Vishnupad Temple on 8 September 2022 to maintain round-the-year water depth for pilgrims.💡 Exam Setter's Tips & Quick Tricks: India's largest rubber dam = Gayaji Dam on Falgu River (Gaya, 411 m long).",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In which district of Bihar has the Geological Survey of India (GSI) identified India's largest potential primary gold ore reserves at Sono?(",
+      "hi": "भारतीय भूवैज्ञानिक सर्वेक्षण (GSI) ने बिहार के किस जिले में सोनो प्रखंड में भारत के सबसे बड़े संभावित प्राथमिक स्वर्ण अयस्क भंडार की पहचान की है?)",
+      "options": [
+        "Rohtas",
+        "Jamui (सोनो, जमुई)",
+        "Banka",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jamui (सोनो, जमुई)Detailed",
+      "explanation": "The GSI estimated that Jamui district possesses approximately 222.88 million tonnes of gold ore containing ~37.6 tonnes of metal, accounting for ~44% of India's total primary gold mineral resources.💡 Exam Setter's Tips & Quick Tricks: Largest gold ore deposit in India = Sono (Jamui district, Bihar).",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The famous 'Brahmakund' hot water sulphur spring, having a natural temperature of ~45°C, is situated at which historic valley in Bihar?",
+      "hi": "लगभग 45°C तापमान वाला प्रसिद्ध 'ब्रह्मकुंड' प्राकृतिक गर्म जल का गंधक झरना बिहार की किस ऐतिहासिक घाटी में स्थित है?",
+      "options": [
+        "Kharagpur Hills, Munger",
+        "Rajgir (राजगीर, नालंदा)",
+        "Kaimur Hills",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajgir (राजगीर, नालंदा)Detailed",
+      "explanation": "Brahmakund is the hottest natural spring (temperature ~45°C) located at the foot of Vaibhargiri hill in Rajgir (Nalanda district). Saptadhara springs also emerge here.💡 Exam Setter's Tips & Quick Tricks: Brahmakund & Saptadhara = Rajgir (Nalanda); Bhimbandh, Sita Kund = Munger.",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Lonar Lake in Buldhana district of Maharashtra is a globally celebrated geological wonder created by which natural event?",
+      "hi": "महाराष्ट्र के बुलढाणा जिले की प्रसिद्ध लोनार झील किस प्राकृतिक घटना द्वारा निर्मित एक विश्व प्रसिद्ध भूवैज्ञानिक संरचना है?",
+      "options": [
+        "Volcanic caldera eruption",
+        "Hyper-velocity Meteorite Impact (उल्कापिंड प्रभाव)",
+        "Tectonic subsidence",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hyper-velocity Meteorite Impact (उल्कापिंड प्रभाव)Detailed",
+      "explanation": "Lonar Lake is a hypersaline and alkaline crater lake formed by a high-velocity extraterrestrial meteorite impact into Deccan basalt rock during the Pleistocene epoch (~50,000 years ago).💡 Exam Setter's Tips & Quick Tricks: Meteorite impact crater lake in India = Lonar Lake (Maharashtra, Ramsar site).",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which two major rivers of peninsular India flow westward through tectonic rift valleys and discharge into the Arabian Sea forming estuaries instead of deltas?(",
+      "hi": "प्रायद्वीपीय भारत की कौन-सी दो प्रमुख नदियाँ भ्रंश घाटियों (Rift Valleys) से होकर पश्चिम की ओर बहती हैं और डेल्टा के स्थान पर ज्वारनदमुख (Estuary) बनाती हैं?)",
+      "options": [
+        "Godavari and Krishna",
+        "Narmada and Tapi (तापी)",
+        "Mahanadi and Cauvery",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Narmada and Tapi (तापी)Detailed",
+      "explanation": "Narmada and Tapi (Tapti) flow westward through linear graben rift valleys flanked by the Vindhya and Satpura ranges, emptying into the Gulf of Khambhat (Arabian Sea) without forming extensive deltas.💡 Exam Setter's Tips & Quick Tricks: West-flowing rift valley rivers = Narmada & Tapi; Form estuaries, not deltas.",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under Article 123 of the Constitution of India, who possesses the legislative power to promulgate Ordinances during the recess of Parliament?",
+      "hi": "भारतीय संविधान के अनुच्छेद 123 के तहत संसद के विश्रांतिकाल में अध्यादेश प्रख्यापित करने की विधायी शक्ति किसमें निहित है?",
+      "options": [
+        "Prime Minister of India",
+        "President of India",
+        "Chief Justice of India",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "President of IndiaDetailed",
+      "explanation": "Article 123 empowers the President to promulgate Ordinances when either House of Parliament is not in session, having the same force and effect as an Act of Parliament. An Ordinance must be approved by Parliament within 6 weeks of reassembly.💡 Exam Setter's Tips & Quick Tricks: Ordinance promulgation: President = Article 123; Governor = Article 213.",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under Article 312 of the Constitution of India, the creation of one or more new 'All-India Services' (common to Union and States) can be initiated exclusively by a resolution passed by",
+      "hi": "भारतीय संविधान के अनुच्छेद 312 के तहत नई अखिल भारतीय सेवाओं के सृजन की पहल विशेष रूप से किसके द्वारा पारित संकल्प द्वारा की जा सकती है?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha (राज्य सभा)",
+        "Union Cabinet",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajya Sabha (राज्य सभा)Detailed",
+      "explanation": "Article 312 provides that if the Rajya Sabha declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, Parliament may by law create new All-India Services.💡 Exam Setter's Tips & Quick Tricks: Exclusive special powers of Rajya Sabha: Article 249 (State list legislation) and Article 312 (New All-India Services).",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The 44th Constitutional Amendment Act 1978 substituted which term in place of 'internal disturbance' as a ground for proclaiming National Emergency under Article 352?",
+      "hi": "44वें संविधान संशोधन अधिनियम 1978 द्वारा अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल की घोषणा के आधार के रूप में 'आंतरिक अशांति' के स्थान पर कौन-सा शब्द प्रतिस्थापित किया गया?",
+      "options": [
+        "External Aggression",
+        "Armed Rebellion (सशस्त्र विद्रोह)",
+        "Civil War",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Armed Rebellion (सशस्त्र विद्रोह)Detailed",
+      "explanation": "To prevent the misuse of emergency powers (as occurred in 1975 under the pretext of 'internal disturbance'), the 44th Amendment restricted National Emergency grounds to War, External Aggression, or 'Armed Rebellion', requiring written recommendation of the Union Cabinet.💡 Exam Setter's Tips & Quick Tricks: 44th Amendment substituted 'Armed Rebellion' for 'Internal Disturbance' in Article 352.",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "According to the official results of the Bihar Caste-based Survey released in October 2023, what is the total enumerated population of the State of Bihar?",
+      "hi": "अक्टूबर 2023 में जारी बिहार जाति आधारित गणना के आधिकारिक आंकड़ों के अनुसार, बिहार राज्य की कुल दर्ज जनसंख्या कितनी है?",
+      "options": [
+        "10,40,99,452",
+        "13,07,25,310 (लगभग 13.07 करोड़)",
+        "14,25,50,000",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "13,07,25,310 (लगभग 13.07 करोड़)Detailed",
+      "explanation": "The Bihar Caste Survey enumerated a total population of 13,07,25,310 individuals across 2.83 crore families. Extremely Backward Classes (EBCs) formed 36.01%, Other Backward Classes (OBCs) 27.13%, Scheduled Castes (SCs) 19.65%, and Scheduled Tribes (STs) 1.68%.💡 Exam Setter's Tips & Quick Tricks: Bihar Population: Census 2011 = 10.41 crore; Caste Survey 2023 = 13.07 crore (13,07,25,310).",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "'Operation Kaveri' was a high-risk humanitarian military rescue operation conducted by India in April 2023 to evacuate Indian citizens from which conflict-ridden nation?",
+      "hi": "'ऑपरेशन कावेरी' अप्रैल 2023 में किस युद्धग्रस्त देश से भारतीय नागरिकों को सुरक्षित निकालने के लिए भारत द्वारा चलाया गया राहत अभियान था?",
+      "options": [
+        "Ukraine",
+        "Sudan (सूडान)",
+        "Israel",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sudan (सूडान)Detailed",
+      "explanation": "Operation Kaveri evacuated over 3,800 Indian citizens stranded in Sudan during violent armed clashes between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF), using IAF C-130J aircraft and INS Sumedha from Port Sudan.💡 Exam Setter's Tips & Quick Tricks: Operation Kaveri = Sudan (2023); Operation Ajay = Israel-Gaza (2023); Operation Ganga = Ukraine (2022).",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which Constitutional Amendment Act, popularly known as the 'Nari Shakti Vandan Adhiniyam', reserves 33% (one-third) of seats for women in the Lok Sabha and State Legislative Assemblies?",
+      "hi": "किस संविधान संशोधन अधिनियम, जिसे 'नारी शक्ति वंदन अधिनियम' के नाम से जाना जाता है, द्वारा लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए 33% सीटें आरक्षित की गई हैं?",
+      "options": [
+        "103rd Amendment Act",
+        "106th Constitutional Amendment Act 2023",
+        "105th Amendment Act",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "106th Constitutional Amendment Act 2023Detailed",
+      "explanation": "The 106th Constitutional Amendment Act 2023 (128th Amendment Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the Lok Sabha, State Legislative Assemblies, and Delhi Assembly for 15 years, to be implemented after delimitation following the next census.💡 Exam Setter's Tips & Quick Tricks: Women's Reservation in Parliament (33%) = 106th Amendment Act 2023 (Nari Shakti Vandan Adhiniyam).",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the sum of all internal angles of a regular hexagon?",
+      "hi": "एक सम षट्भुज के सभी अंतःकोणों का योग क्या होता है?",
+      "options": [
+        "540°",
+        "720°",
+        "900°",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "720°Detailed",
+      "explanation": "Sum of interior angles = (n - 2) * 180°. For a hexagon (n = 6): Sum = (6 - 2) * 180° = 4 * 180° = 720°.💡 Exam Setter's Tips & Quick Tricks: (n - 2) * 180°: Hexagon = 4 * 180° = 720°; Pentagon = 540°; Octagon = 1080°.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In an aquatic pond ecosystem, what is the typical shape of the ecological 'Pyramid of Biomass'?(",
+      "hi": "एक जलीय तालाब पारिस्थितिकी तंत्र में, पारिस्थितिक 'जैवभार का पिरामिड' (Pyramid of Biomass) सामान्यतः किस आकार का होता है?)",
+      "options": [
+        "Always upright",
+        "Inverted (उल्टा)",
+        "Linear horizontal",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Inverted (उल्टा)Detailed",
+      "explanation": "In open water and ponds, the biomass of primary producers (phytoplankton) at any instant is small due to short lifespans and rapid turnover, whereas the standing biomass of consumers (fishes) is substantially larger, producing an inverted pyramid of biomass.💡 Exam Setter's Tips & Quick Tricks: Biomass pyramid in aquatic pond ecosystem = Inverted; Energy pyramid = Always upright.",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which ancient Indian astronomer and mathematician of Kusumapura (Pataliputra) formulated that the Earth is spherical and rotates on its axis, calculating the value of π to 3.1416 in 499 CE?(",
+      "hi": "कुसुमपुर (पाटलिपुत्र) के किस प्राचीन भारतीय खगोलशास्त्री और गणितज्ञ ने 499 ईस्वी में यह प्रतिपादित किया कि पृथ्वी गोल है और अपनी धुरी पर घूमती है, तथा π का मान 3.1416 निकाला था?)",
+      "options": [
+        "Varahamihira",
+        "Aryabhata (आर्यभट्ट)",
+        "Brahmagupta",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Aryabhata (आर्यभट्ट)Detailed",
+      "explanation": "Aryabhata, born in 476 CE at Kusumapura (modern Patna, Bihar), authored 'Aryabhatiya'. He introduced place-value decimal system, calculated solar year as 365.258 days, and explained lunar and solar eclipses scientifically.💡 Exam Setter's Tips & Quick Tricks: Aryabhata = Born at Kusumapura (Patna); Author of 'Aryabhatiya'; Earth's rotation on axis & eclipse science.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which treaty signed in August 1765 between Mughal Emperor Shah Alam II and Robert Clive granted the East India Company the Diwani rights of Bengal, Bihar, and Orissa?",
+      "hi": "मुगल बादशाह शाह आलम द्वितीय और रॉबर्ट क्लाइव के बीच अगस्त 1765 में हस्ताक्षरित किस संधि ने ईस्ट इंडिया कंपनी को बंगाल, बिहार और उड़ीसा के दीवानी अधिकार प्रदान किए?",
+      "options": [
+        "Treaty of Buxar",
+        "Treaty of Allahabad (इलाहाबाद की संधि)",
+        "Treaty of Alinagar",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Treaty of Allahabad (इलाहाबाद की संधि)Detailed",
+      "explanation": "Concluded after the Battle of Buxar on 12 August 1765, the Treaty of Allahabad granted the Company the right to collect land revenue (Diwani) from Bengal, Bihar, and Orissa in exchange for an annual payment of ₹26 lakh to the Mughal Emperor.💡 Exam Setter's Tips & Quick Tricks: Treaty of Allahabad = August 1765 (Robert Clive & Shah Alam II); Granted Diwani of Bengal, Bihar & Orissa.",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which river basin in Bihar is famous for extensive maize (मक्का) cultivation and has recorded the highest per-hectare maize productivity in India?",
+      "hi": "बिहार का कौन-सा नदी बेसिन मक्का की सघन खेती के लिए प्रसिद्ध है और भारत में मक्का की प्रति हेक्टेयर उच्चतम उत्पादकता दर्ज कर चुका है?",
+      "options": [
+        "Kosi and Burhi Gandak plains (Khagaria, Begusarai, Samastipur)",
+        "Son basin",
+        "Kiul basin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Kosi and Burhi Gandak plains (Khagaria, Begusarai, Samastipur)Detailed",
+      "explanation": "The well-drained alluvial tract along the Burhi Gandak and Kosi rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.💡 Exam Setter's Tips & Quick Tricks: Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi Gandak & Kosi plains).",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under which Article of the Constitution of India can the President seek the advisory opinion of the Supreme Court on any question of law or fact of public importance?",
+      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति सार्वजनिक महत्व के किसी विधि या तथ्य के प्रश्न पर सर्वोच्च न्यायालय की सलाहकारी राय मांग सकते हैं?",
+      "options": [
+        "Article 131",
+        "Article 143 (सलाहकारी क्षेत्राधिकार)",
+        "Article 136",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 143 (सलाहकारी क्षेत्राधिकार)Detailed",
+      "explanation": "Article 143 confers Advisory Jurisdiction on the Supreme Court. The President may refer a question of public importance to the Supreme Court for opinion. The opinion rendered is purely advisory and not binding on the President.💡 Exam Setter's Tips & Quick Tricks: Advisory Jurisdiction of Supreme Court = Article 143; Original Jurisdiction = Article 131; Special Leave Petition = Article 136.",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What was the focal theme and name of India's maiden human spaceflight mission slated for orbital deployment by ISRO?",
+      "hi": "इसरो द्वारा कक्षा में प्रक्षेपित किए जाने वाले भारत के पहले मानव अंतरिक्ष उड़ान मिशन का नाम क्या है?",
+      "options": [
+        "Chandrayaan",
+        "Gaganyaan (गगनयान)",
+        "Mangalyaan",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Gaganyaan (गगनयान)Detailed",
+      "explanation": "Gaganyaan is India's human spaceflight program aiming to demonstrate human spaceflight capability by launching a crew of three members to a 400 km low Earth orbit for a 3-day mission and returning them safely to Earth.💡 Exam Setter's Tips & Quick Tricks: India's manned space mission = Gaganyaan (4 IAF astronaut designates selected); Test humanoid robot = Vyommitra.\nAnswer Key Summary Table — Set 14 (Questions 521 to 560)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    },
+    {
+      "source": "BPSC Official Exam Booklet",
+      "en": "BPSC TRE 2.0 - TGT Social Science &\nWhat was the focal theme and name of India's maiden human...\n(B)\nBPSC TRE 4.0: Exam Setter's 5-Option Elimination Strategy\nThe distinctive feature of the Bihar Public Service Commission (BPSC) teacher recruitment examinations is its 5-option structure. Understanding the statistical frequency and construction logic of Option (D) ('More than one of the above') and Option (E) ('None of the above') provides candidates with a decisive competitive advantage:\nGolden Rules for Tackling Option (D) and Option (E)1. The 2-Check Rule for Option (D):   Whenever you independently verify that two of the three specific options (",
+      "hi": "BPSC TRE 2.0 - TGT Social Science &\nWhat was the focal theme and name of India's maiden human...\n(B)\nBPSC TRE 4.0: Exam Setter's 5-Option Elimination Strategy\nThe distinctive feature of the Bihar Public Service Commission (BPSC) teacher recruitment examinations is its 5-option structure. Understanding the statistical frequency and construction logic of Option (D) ('More than one of the above') and Option (E) ('None of the above') provides candidates with a decisive competitive advantage:\nGolden Rules for Tackling Option (D) and Option (E)1. The 2-Check Rule for Option (D):   Whenever you independently verify that two of the three specific options (",
+      "options": [
+        "BPSC TRE 4.0: Exam Setter's 5-Option Elimination Strategy\nThe distinctive feature of the Bihar Public Service Commission (BPSC) teacher recruitment examinations is its 5-option structure. Understanding the statistical frequency and construction logic of Option",
+        "('More than one of the above') and Option",
+        "('None of the above') provides candidates with a decisive competitive advantage:\nGolden Rules for Tackling Option",
+        "and Option",
+        "1. The 2-Check Rule for Option"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "BPSC TRE 4.0: Exam Setter's 5-Option Elimination Strategy\nThe distinctive feature of the Bihar Public Service Commission (BPSC) teacher recruitment examinations is its 5-option structure. Understanding the statistical frequency and construction logic of Option",
+      "explanation": "",
+      "tip": "",
+      "id": 41
+    }
+  ]
+}

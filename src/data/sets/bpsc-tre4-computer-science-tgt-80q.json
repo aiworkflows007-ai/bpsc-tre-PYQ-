@@ -1,0 +1,1451 @@
+{
+  "id": "bpsc-tre4-computer-science-tgt-80q",
+  "title": "Computer Science Practice Set 2 (TGT Class 9-10 - 80Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Computer Science",
+  "filename": "bpsc-tre-master-file3-computer-science.docx",
+  "question_count": 80,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In computer networks, the primary protocol responsible for routing packets across heterogeneous networks at Layer 3 is",
+      "hi": "कम्प्यूटर नेटवर्क में लेयर 3 पर विभिन्न नेटवर्कों में पैकेट रूटिंग के लिए मुख्य प्रोटोकॉल कौन-सा है?",
+      "options": [
+        "TCP",
+        "IP (Internet Protocol)",
+        "HTTP",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "IP (Internet Protocol)Detailed",
+      "explanation": "The Internet Protocol (IP) operates at Layer 3 (Network Layer) of the OSI model, handling logical addressing and host-to-host packet routing across internetworks. TCP operates at Layer 4 (Transport).💡 Exam Setter's Tips & Quick Tricks: Layer 3 (Network) = IP, Routers, Packets; Layer 4 (Transport) = TCP/UDP, Port numbers, Segments.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "When a key is pressed on keyboard, which standard is used for converting the keystroke into the corresponding bits?",
+      "hi": "जब कीबोर्ड पर एक कुंजी दबाई जाती है, तो कीस्ट्रोक को संबंधित बिट्स में परिवर्तित करने के लिए किस मानक का उपयोग किया जाता है?",
+      "options": [
+        "ANSI",
+        "ASCII",
+        "EBCDIC",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "ASCIIDetailed",
+      "explanation": "The American Standard Code for Information Interchange (ASCII) is the universal character encoding standard that maps alphanumeric keystrokes into 7-bit or 8-bit binary codes recognized by computer controllers.💡 Exam Setter's Tips & Quick Tricks: Standard PC keystroke mapping = ASCII (7-bit standard, 8-bit extended); IBM mainframes traditionally used EBCDIC.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What difference do the fifth generation computers have from other generation computers?",
+      "hi": "पाँचवीं पीढ़ी के कंप्यूटरों में अन्य पीढ़ी के कंप्यूटरों से क्या मुख्य अंतर है?",
+      "options": [
+        "Technological advancement (Artificial Intelligence & Ultra Large Scale Integration)",
+        "Object-oriented programming",
+        "Scientific code",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Technological advancement (Artificial Intelligence & Ultra Large Scale Integration)Detailed",
+      "explanation": "Fifth-generation computing devices are characterized by parallel processing hardware and Artificial Intelligence (AI) algorithms utilizing ULSI (Ultra Large Scale Integration), differentiating them from earlier silicon microprocessor generations.💡 Exam Setter's Tips & Quick Tricks: Computer Generations: 1st = Vacuum tubes; 2nd = Transistors; 3rd = Integrated Circuits (IC); 4th = VLSI Microprocessors; 5th = ULSI & Artificial Intelligence.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Source code is available to view, modify and redistribute in",
+      "hi": "स्रोत कोड देखने, संशोधित करने और पुनर्वितरित करने के लिए किसमें उपलब्ध रहता है?",
+      "options": [
+        "open source software",
+        "licensed software",
+        "proprietary software",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "open source softwareDetailed",
+      "explanation": "Open-source software licenses (e.g., GNU GPL, Apache, MIT) grant users the legal rights to inspect, alter, enhance, and freely redistribute the underlying human-readable source code.💡 Exam Setter's Tips & Quick Tricks: Free to modify & distribute = Open Source; Closed binary without source code = Proprietary/Commercial (e.g., MS Windows).",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Machine language is(",
+      "hi": "मशीनी भाषा (Machine Language) होती है)",
+      "options": [
+        "machine dependent",
+        "difficult to program",
+        "error prone",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Machine language consists of raw binary 0s and 1s directly executed by the CPU. It is strictly architecture-dependent, exceptionally tedious and difficult for humans to write, and highly prone to programmer errors.💡 Exam Setter's Tips & Quick Tricks: All three statements (A), (B), and (C) are classic limitations of raw binary machine code, making Option (D) the official answer.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "An assembly language is a/an(",
+      "hi": "एक असेम्ब्ली भाषा (Assembly Language) है)",
+      "options": [
+        "low-level programming language",
+        "middle-level programming language",
+        "internet-based programming language",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "low-level programming languageDetailed",
+      "explanation": "Assembly language is a low-level programming language that provides mnemonic representations of machine instructions with a nearly 1:1 correspondence to processor opcodes, requiring an assembler to produce machine code.💡 Exam Setter's Tips & Quick Tricks: Low-level languages = Machine Language (Binary) & Assembly Language (Mnemonics like MOV, ADD); High-level = C++, Java, Python.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "A compiler is a translating program which",
+      "hi": "कंपाइलर एक अनुवाद करने वाला प्रोग्राम है, जो",
+      "options": [
+        "translates instructions of a high-level language into machine language",
+        "translates entire source program into machine language program at once",
+        "is not involved in program's execution directly",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "A compiler converts high-level programming language source code into executable machine code by translating the entire source program at once before execution time, fulfilling both (A) and (B).💡 Exam Setter's Tips & Quick Tricks: Because both (A) (translates high-level to machine) and (B) (translates entire program at once) describe compiler functionality, Option (D) is triggered.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following programming approaches is fundamentally adopted by C++?",
+      "hi": "निम्नलिखित में से कौन-सा दृष्टिकोण C++ द्वारा मुख्य रूप से उपयोग किया जाता है?",
+      "options": [
+        "Left-right approach",
+        "Top-down approach",
+        "Bottom-up approach",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Bottom-up approachDetailed",
+      "explanation": "Object-Oriented Programming languages like C++ follow a Bottom-up design paradigm where low-level objects and classes are created first and aggregated together to form larger subsystems. Procedural C uses Top-down.💡 Exam Setter's Tips & Quick Tricks: Paradigm rule: Object-Oriented (C++, Java) = Bottom-Up; Procedural / Structured (C, Pascal) = Top-Down.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is virtual inheritance in C++?(C++",
+      "hi": "में वर्चुअल इन्हेरिटन्स (Virtual Inheritance) क्या होता है?)",
+      "options": [
+        "C++ technique to enhance multiple inheritance",
+        "C++ technique to ensure that a private member of the base class can be accessed somehow",
+        "C++ technique to avoid multiple copies of the base class into children/derived class",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "C++ technique to avoid multiple copies of the base class into children/derived classDetailed",
+      "explanation": "Virtual inheritance resolves the ambiguity of the 'Diamond Problem' in multipath inheritance by ensuring that only one shared sub-object instance of an indirect base class is included in the most derived class.💡 Exam Setter's Tips & Quick Tricks: Virtual base class = Solves Diamond problem by ensuring exactly one shared copy of the base class.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What happens if the following C++ statement is compiled and executed?`int* ptr = NULL;``delete ptr;`",
+      "hi": "यदि निम्नलिखित C++ कथन संकलित और निष्पादित किया जाए, तो क्या होगा?",
+      "options": [
+        "The program is not semantically correct",
+        "The program is compiled and executed successfully",
+        "The program is compiled successfully but throws an error during runtime",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "The program is compiled and executed successfullyDetailed",
+      "explanation": "In standard C++, applying the `delete` operator to a null pointer (`NULL` or `nullptr`) is explicitly guaranteed by the language standard to be a safe no-operation that compiles and executes without runtime error.💡 Exam Setter's Tips & Quick Tricks: Deleting a NULL pointer in C++ is completely safe and valid; the compiler simply does nothing.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is the difference between 'delete' and 'delete[]' in C++?",
+      "hi": "C++ में delete और delete[] के बीच क्या अंतर है?",
+      "options": [
+        "Delete is syntactically correct but delete is wrong and will give error",
+        "Delete is used to delete normal objects whereas delete is used to delete pointer objects",
+        "Delete is used to delete a single object whereas delete is used to delete multiple (array of) objects",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Delete is used to delete a single object whereas delete[] is used to delete multiple (array of) objectsDetailed",
+      "explanation": "Memory dynamically allocated with `new` must be freed with `delete`, which invokes a single destructor. Dynamically allocated arrays created with `new[]` must be deallocated with `delete[]` to invoke destructors for each element.💡 Exam Setter's Tips & Quick Tricks: Match the operators: `new` -> `delete` (single object); `new[]` -> `delete[]` (array of objects).",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What happens if the following program is executed in C and C++?`#include<stdio.h>``int main(void) { int new = 5; printf(\"%d\", new); }`",
+      "hi": "यदि निम्नलिखित प्रोग्राम C और C++ में निष्पादित किया जाए, तो क्या होता है?",
+      "options": [
+        "Error in C and successful execution in C++",
+        "Error in both C and C++",
+        "Error in C++ and successful execution in C",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Error in C++ and successful execution in CDetailed",
+      "explanation": "In C, `new` is not a reserved keyword and can be used as a valid variable identifier. In C++, `new` is a built-in memory allocation operator keyword, causing a syntax compilation error.💡 Exam Setter's Tips & Quick Tricks: `new`, `delete`, `class`, `template`, `virtual` are keywords in C++, but ordinary legal identifiers in C.",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is the value of 'p' in the following C++ code snippet?`int p; bool a = true; bool b = false; int x = 10; int y = 5;``p = ((x | y) + (a + b));`",
+      "hi": "निम्नलिखित C++ कोड स्निपेट में 'p' का मान क्या है?",
+      "options": [
+        "12",
+        "16",
+        "2",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16Detailed",
+      "explanation": "Bitwise OR: `x | y = 10 | 5 = 1010_2 | 0101_2 = 1111_2 = 15`. Boolean addition promoting to integers: `a + b = 1 + 0 = 1`. Thus `p = 15 + 1 = 16`.💡 Exam Setter's Tips & Quick Tricks: Binary bitwise math: 10 = 1010; 5 = 0101; 10 | 5 = 1111 = 15. In arithmetic expressions, `true` evaluates to 1 and `false` to 0.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The C++ code which causes abnormal termination/behaviour of a program should be placed inside which block?",
+      "hi": "C++ कोड, जो किसी प्रोग्राम के असामान्य समापन/व्यवहार का कारण बन सकता है, उसे किस ब्लॉक के अंतर्गत लिखा जाना चाहिए?",
+      "options": [
+        "catch block",
+        "throw block",
+        "try block",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "try blockDetailed",
+      "explanation": "Statements that may potentially raise runtime exceptions are enclosed within a `try` block. If an exception occurs, it is thrown (`throw`) and transferred to the matching `catch` handler block.💡 Exam Setter's Tips & Quick Tricks: Code that might fail goes in `try`; code that handles the error goes in `catch`; keyword to initiate error is `throw`.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What will be the output of the following C++ code?`void square(int* x, int* y) { *x = (*x) * --(*y); }``int main() { int number = 30; square(&number, &number); cout << number; }`",
+      "hi": "What will be the output of the following C++ code?`void square(int* x, int* y) { *x = (*x) * --(*y); }``int main() { int number = 30; square(&number, &number); cout << number; }`",
+      "options": [
+        "30",
+        "870",
+        "Segmentation fault",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "870Detailed",
+      "explanation": "Both pointers `x` and `y` reference the same memory location `number` (30). Pre-decrement `--(*y)` decreases `number` from 30 to 29. Multiplication evaluates as `30 * 29 = 870` stored back into `*x`.💡 Exam Setter's Tips & Quick Tricks: Aliasing pointer evaluation: `30 * 29 = 870`. Common BPSC programming puzzle.",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Pick the INCORRECT statement about inline functions in C++.(C++",
+      "hi": "में इन्लाइन फ़ंक्शंस (Inline Functions) के बारे में ग़लत कथन चुनें।)",
+      "options": [
+        "They save overhead of a return call from a function",
+        "They are generally very large and complicated functions",
+        "These functions are inserted/substituted at the point of call",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "They are generally very large and complicated functionsDetailed",
+      "explanation": "Inline functions should be small, simple utility routines (typically 1–3 lines). If large or complex functions with loops or recursion are inlined, it causes severe code bloat and the compiler ignores the inline request.💡 Exam Setter's Tips & Quick Tricks: Statement (B) is false: inline functions should never be large or complicated; statements (A) and (C) are accurate definitions.",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is an abstract class in C++?(C++",
+      "hi": "में ऐब्सट्रैक्ट क्लास (Abstract Class) क्या है?)",
+      "options": [
+        "Any class in C++ from which another class is derived",
+        "Class specifically used as a base class with at least one virtual function",
+        "Class specifically used as a base class with at least one pure virtual function",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Class specifically used as a base class with at least one pure virtual functionDetailed",
+      "explanation": "In C++, an abstract class is defined as any class containing at least one pure virtual function (syntax: `virtual void func() = 0;`). Abstract classes cannot be instantiated directly and serve as interfaces.💡 Exam Setter's Tips & Quick Tricks: Normal virtual function = Polymorphism; **Pure virtual function (`= 0`) = Abstract Class** (cannot instantiate objects).",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following constructors is automatically provided by the C++ compiler if not explicitly defined in a class?",
+      "hi": "यदि किसी क्लास में परिभाषित नहीं किया गया है, तो निम्नलिखित में से कौन-सा कंस्ट्रक्टर C++ कंपाइलर द्वारा स्वचालित रूप से प्रदान किया जाता है?",
+      "options": [
+        "Copy constructor",
+        "Default constructor",
+        "Parameterized constructor",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "If no user-defined constructors exist, the C++ compiler automatically synthesizes both an implicit parameterless Default Constructor and an implicit Default Copy Constructor (performing memberwise copy).💡 Exam Setter's Tips & Quick Tricks: The compiler provides both the Default Constructor AND the Copy Constructor automatically, triggering Option (D).",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How do structures (`struct`) and classes (`class`) in C++ differ?",
+      "hi": "C++ में structures और classes किस प्रकार भिन्न हैं?",
+      "options": [
+        "In structures, members are private by default whereas in classes, they are public by default",
+        "In structures, members are public by default whereas in classes, they are private by default",
+        "Structures cannot have private members whereas classes can have",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "In structures, members are public by default whereas in classes, they are private by defaultDetailed",
+      "explanation": "The only syntactic distinction between `struct` and `class` in C++ is default access: `struct` members and base inheritance are `public` by default, whereas `class` members and inheritance are `private` by default.💡 Exam Setter's Tips & Quick Tricks: BPSC core rule: `struct` = public by default (for C compatibility); `class` = private by default (for data hiding).",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following features must be supported by any programming language to become a pure object-oriented programming language?",
+      "hi": "शुद्ध ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषा बनने के लिए किसी भी प्रोग्रामिंग भाषा द्वारा निम्नलिखित में से किस विशेषता का समर्थन किया जाना चाहिए?",
+      "options": [
+        "Encapsulation",
+        "Inheritance",
+        "Polymorphism",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "A pure object-oriented programming language (like Smalltalk) must strictly satisfy all foundational OOP pillars: Encapsulation, Inheritance, Polymorphism, and Abstraction, with all primitive types modeled as objects.💡 Exam Setter's Tips & Quick Tricks: Pillars of OOP: Encapsulation, Inheritance, Polymorphism, Abstraction. All are mandatory, hence Option (D).",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The programming language that has the inherent ability to define new data types is called(",
+      "hi": "वह प्रोग्रामिंग भाषा, जिसमें नए डेटा प्रकार (Data Types) बनाने की क्षमता होती है, कहलाती है)",
+      "options": [
+        "overloaded language",
+        "encapsulated language",
+        "extensible language",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "extensible languageDetailed",
+      "explanation": "An extensible language allows programmers to define new data types (via classes and structures) along with user-defined operators that behave identically to built-in primitive language types.💡 Exam Setter's Tips & Quick Tricks: Ability to define custom types and operators = Extensible language.",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Who is the original creator and designer of the C++ programming language?",
+      "hi": "इनमें से कौन C++ प्रोग्रामिंग भाषा का मूल निर्माता है?",
+      "options": [
+        "Dennis Ritchie and Brian Kernighan",
+        "Ken Thompson",
+        "Bjarne Stroustrup",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Bjarne StroustrupDetailed",
+      "explanation": "Bjarne Stroustrup created C++ at Bell Laboratories in 1979 as an extension of the C language, originally naming it 'C with Classes'. Dennis Ritchie created C.💡 Exam Setter's Tips & Quick Tricks: C Language = Dennis Ritchie; C++ = Bjarne Stroustrup; Java = James Gosling; Python = Guido van Rossum.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following represents the correct syntax to read a single character from the console stream in C++?(C++",
+      "hi": "भाषा में कंसोल से एकल वर्ण (single character) को पढ़ने के लिए सही वाक्य विन्यास कौन-सा है?)",
+      "options": [
+        "read_ch()",
+        "getline_ch()",
+        "cin.get(ch)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "cin.get(ch)Detailed",
+      "explanation": "The member function `cin.get(char& ch)` reads the next single character (including whitespace and newlines) directly from the standard input stream into the specified character variable.💡 Exam Setter's Tips & Quick Tricks: Single character input = `cin.get(ch)`; formatted extraction = `cin >> ch` (skips whitespace); string line = `getline(cin, str)`.",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In C++, which expression correctly accesses the n-th element of an array named 'array'?",
+      "hi": "C++ में, कौन-सा व्यंजक 'array' नामक ऐरे के n-वें तत्त्व को सही ढंग से दर्शाता है?",
+      "options": [
+        "array;",
+        "array;",
+        "array;",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "array[n-1];Detailed",
+      "explanation": "Because C and C++ utilize zero-based array indexing, the first element is at index 0, the second at index 1, and the n-th element is situated at index position `n - 1`.💡 Exam Setter's Tips & Quick Tricks: Zero-based indexing rule: First element = `arr[0]`; n-th element = `arr[n-1]`; `arr[n]` is out of bounds for an array of size n.",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How many fundamental structural categories of arrays are there in the C++ programming language?",
+      "hi": "C++ प्रोग्रामिंग भाषा में ऐरे के मुख्य रूप से कितने संरचनात्मक प्रकार होते हैं?",
+      "options": [
+        "There are three types of arrays",
+        "There are four types of arrays",
+        "There are two types of arrays (Single-dimensional and Multidimensional)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "There are two types of arrays (Single-dimensional and Multidimensional)Detailed",
+      "explanation": "In standard computer science classification, arrays in C++ are categorized into two primary types: Single-dimensional (linear) arrays and Multidimensional arrays (2D matrices, 3D grids).💡 Exam Setter's Tips & Quick Tricks: Array categories: 1D (Single-dimensional) and Multi-D (2D, 3D, etc.) = 2 types.",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In modern C++ Standard Template Library / type traits, for what purpose is 'rank' used?",
+      "hi": "C++ में, 'rank' का उपयोग किस उद्देश्य के लिए किया जाता है?",
+      "options": [
+        "It returns the total byte size of each array dimension",
+        "It returns the maximum number of elements that can be stored in the array",
+        "It returns the dimension (number of dimensions) of the specified array type",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "It returns the dimension (number of dimensions) of the specified array typeDetailed",
+      "explanation": "`std::rank<T>::value` in `<type_traits>` queries the compile-time type of an array and returns the number of dimensions (e.g., rank of `int[5]` is 1, rank of `int[3][4]` is 2).💡 Exam Setter's Tips & Quick Tricks: Rank of an array = Dimension count (1D -> 1, 2D -> 2, 3D -> 3).",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is the scope of a local variable declared inside a user-defined function block?(",
+      "hi": "उपयोगकर्ता द्वारा परिभाषित फ़ंक्शन ब्लॉक में घोषित स्थानीय चर (variable) का स्कोप क्या होता है?)",
+      "options": [
+        "Whole program",
+        "Only inside the enclosing `{}` block",
+        "Inside the main function",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Only inside the enclosing `{}` blockDetailed",
+      "explanation": "Block scope (local scope) dictates that variables declared inside a set of braces `{}` are created when execution enters the block and destroyed upon exiting, being invisible outside it.💡 Exam Setter's Tips & Quick Tricks: Local variable scope = Only within the enclosing `{}` curly braces; Global variables = File/program scope.",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following statements is true about 'new' and 'malloc' in C++?I. The 'new' is an operator while 'malloc' is a library function.II. The 'new' invokes constructors, whereas 'malloc' does not invoke constructors.III. The 'malloc' returns a void pointer needing typecasting, whereas 'new' returns the typed pointer.(",
+      "hi": "न्यू (new) और मैलॉक (malloc) के बारे में कौन-सा/से कथन सत्य है/हैं?)",
+      "options": [
+        "Only I",
+        "Both I and II",
+        "Both II and III",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "All three statements I, II, and III are valid distinctions: `new` is a type-safe operator that calls constructors and returns `T*`, whereas `malloc` is an untyped C function that returns `void*` and does not call constructors.💡 Exam Setter's Tips & Quick Tricks: Because statements I, II, and III are all factually correct, Option (D) ('More than one of the above') is triggered.",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which class members are inherited by derived classes in C++ but remain inaccessible directly within the derived class body?",
+      "hi": "C++ में कौन-से क्लास सदस्य व्युत्पन्न क्लास द्वारा विरासत में प्राप्त होते हैं, लेकिन सीधे उस क्लास में सुलभ नहीं होते हैं?",
+      "options": [
+        "Public members",
+        "Protected members",
+        "Private members",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Private membersDetailed",
+      "explanation": "`private` members of a base class are inherited as part of the total memory layout of the derived class, but they cannot be accessed directly by derived class member functions (enforcing encapsulation).💡 Exam Setter's Tips & Quick Tricks: Access inheritance rule: `public` & `protected` members are accessible in derived class; `private` members exist in object memory but are strictly inaccessible.",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following statements regarding function resolution is completely true?I. In an object-oriented programming language, all function calls are resolved at compile-time.II. In a procedural programming language, all function calls are resolved at compile-time.",
+      "hi": "फ़ंक्शन रिज़ॉल्यूशन के संबंध में निम्नलिखित में से कौन-सा कथन पूर्णतः सत्य है?",
+      "options": [
+        "Only II",
+        "Only I",
+        "Both I and II",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Only IIDetailed",
+      "explanation": "In procedural languages (C), all calls are statically bound at compile-time. In OOP languages, virtual function calls are dynamically bound at runtime (late binding), making Statement I false and Statement II true.💡 Exam Setter's Tips & Quick Tricks: OOP uses dynamic/late runtime binding for virtual functions, so not all calls are resolved at compile time.",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What will happen if in a C++ program, an unnamed (anonymous) class is declared?(",
+      "hi": "यदि C++ प्रोग्राम में किसी अनाम (Anonymous) क्लास को घोषित किया जाए, तो क्या होगा?)",
+      "options": [
+        "It is not allowed in C++ under any circumstances",
+        "It will not have a constructor",
+        "It will not have a destructor",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "An anonymous class has no identifier name. Because constructors and destructors must share the name of their class (`ClassName()` and `~ClassName()`), an unnamed class can have neither a constructor nor a destructor.💡 Exam Setter's Tips & Quick Tricks: Because an anonymous class has no name, it can have NEITHER a constructor NOR a destructor. Both (B) and (C) are true -> Select (D)!",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How can compile-time (static) polymorphism be implemented in the C++ programming language?(C++",
+      "hi": "प्रोग्रामिंग भाषा में संकलन-समय (compile-time) बहुरूपता को कैसे कार्यान्वित किया जा सकता है?)",
+      "options": [
+        "By using function and operator overloading",
+        "By using template metaprogramming",
+        "By using virtual functions and dynamic dispatch",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Compile-time polymorphism is achieved through function overloading, operator overloading, and templates. Virtual functions implement runtime (dynamic) polymorphism.💡 Exam Setter's Tips & Quick Tricks: Compile-time polymorphism = Overloading & Templates (Both A and B -> Option D); Runtime polymorphism = Virtual functions.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following terms refers to the wrapping up of data and functions into a single cohesive unit?",
+      "hi": "निम्नलिखित में से कौन-सा डेटा और उससे संबंधित फ़ंक्शंस को एक एकल इकाई में लपेटने को संदर्भित करता है?",
+      "options": [
+        "Modularity",
+        "Abstraction",
+        "Encapsulation",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "EncapsulationDetailed",
+      "explanation": "Encapsulation is the mechanism that binds data together with the functions that manipulate that data, shielding them from unauthorized external interference and misuse.💡 Exam Setter's Tips & Quick Tricks: Wrapping data + code = Encapsulation; Hiding background implementation details = Abstraction; Reusability = Inheritance.",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Among the following, which statement accurately defines 'modularity' in software engineering?",
+      "hi": "निम्नलिखित में से कौन-सा कथन सॉफ्टवेयर इंजीनियरिंग में 'मॉड्यूलैरिटी' को सही ढंग से परिभाषित करता है?",
+      "options": [
+        "Modularity means hiding internal parts of the program from users",
+        "Modularity refers to dividing a program into smaller, manageable and independent sub-units",
+        "It refers to overloading the program's functions",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Modularity refers to dividing a program into smaller, manageable and independent sub-unitsDetailed",
+      "explanation": "Modularity is a software design technique that decomposes a complex system into smaller, self-contained, and interchangeable modules with well-defined interfaces.💡 Exam Setter's Tips & Quick Tricks: Decomposition into independent modules = Modularity; Data hiding = Encapsulation/Abstraction.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which one of the following is NOT an application of the stack data structure?(",
+      "hi": "निम्नलिखित में से कौन-सा स्टैक (Stack) डेटा संरचना का अनुप्रयोग नहीं है?)",
+      "options": [
+        "Asynchronous data transfer between processes",
+        "String reversal",
+        "Backtracking in maze and search algorithms",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Asynchronous data transfer between processesDetailed",
+      "explanation": "Asynchronous data transfer buffers (like print spoolers and I/O pipe buffers) operate on a First-In, First-Out (FIFO) basis using Queues. Stacks are used for string reversal, backtracking, and expression evaluation.💡 Exam Setter's Tips & Quick Tricks: Asynchronous transfer / Buffering = Queue; Undo operations / Backtracking / Recursion = Stack.",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following is the correct prefix notation for the infix expression `A + B * C`?(",
+      "hi": "इनफिक्स अभिव्यक्ति `A + B * C` का सही प्रीफिक्स (Prefix) रूप कौन-सा है?)",
+      "options": [
+        "`+ A * B C`",
+        "`A B C + *`",
+        "`+ A B * C`",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "`+ A * B C`Detailed",
+      "explanation": "Multiplication `*` has higher operator precedence than addition `+`. Thus `(B * C)` becomes `* B C`. Adding `A`: `+ A (* B C)` yields `+ A * B C`.💡 Exam Setter's Tips & Quick Tricks: Precedence parsing: `B * C` -> `* B C`; then `A + (* B C)` -> `+ A * B C`.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which data structure is fundamentally required to convert infix expressions to prefix notation?",
+      "hi": "इनफिक्स को प्रीफिक्स नोटेशन में बदलने के लिए किस डेटा संरचना की आवश्यकता होती है?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked list",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "StackDetailed",
+      "explanation": "Conversion algorithms (including reversal-based Shunting-yard algorithms) utilize an operator Stack to preserve and reverse operator priorities during notation transformation.💡 Exam Setter's Tips & Quick Tricks: All expression conversions (Infix to Postfix, Infix to Prefix) and evaluations require a **Stack**.",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which computer architecture and memory hierarchy property relies heavily on the contiguous layout of arrays?(",
+      "hi": "ऐरे के सन्निहित (contiguous) मेमोरी लेआउट पर कौन-सा कंप्यूटर आर्किटेक्चर गुण अत्यधिक निर्भर करता है?)",
+      "options": [
+        "Binary search tree indexing",
+        "Scheduling of processes",
+        "Spatial locality of reference",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Spatial locality of referenceDetailed",
+      "explanation": "Arrays store elements in contiguous physical memory addresses. When one element is fetched into CPU cache, adjacent array elements are loaded into the same cache line, maximizing spatial locality.💡 Exam Setter's Tips & Quick Tricks: Contiguous sequential memory = **Spatial Locality**; Re-accessing recently used memory = **Temporal Locality**.",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The necessary condition that must be verified before performing a deletion operation from a queue is(",
+      "hi": "क्यू (Queue) से किसी तत्त्व को हटाने (dequeue) से पहले किस आवश्यक स्थिति की जाँच की जानी चाहिए?)",
+      "options": [
+        "Front value",
+        "Underflow condition",
+        "Overflow condition",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Underflow conditionDetailed",
+      "explanation": "Attempting to delete an element from an empty data structure results in Underflow. Attempting to insert into a full structure results in Overflow.💡 Exam Setter's Tips & Quick Tricks: Deletion pre-check = **Underflow** (is it empty?); Insertion pre-check = **Overflow** (is it full?).",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which one of the following is NOT an application of the queue data structure?(",
+      "hi": "निम्नलिखित में से कौन-सा क्यू (Queue) डेटा संरचना का अनुप्रयोग नहीं है?)",
+      "options": [
+        "Data transferred asynchronously between two processes",
+        "Shared resource scheduling (e.g., CPU, disk, print spooler)",
+        "Balancing of parentheses and syntactic symbols",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Balancing of parentheses and syntactic symbolsDetailed",
+      "explanation": "Parentheses checking and nested symbol balancing strictly require a Last-In, First-Out (LIFO) Stack. Queues are FIFO structures used in asynchronous I/O and job scheduling.💡 Exam Setter's Tips & Quick Tricks: Balancing parentheses = Stack; Print spooling and CPU scheduling = Queue.",
+      "tip": "",
+      "id": 40
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following is a standard depth-first traversal technique applied to binary trees?",
+      "hi": "निम्नलिखित में से कौन-सी बाइनरी ट्री में मानक डेप्थ-फर्स्ट ट्रैवर्सल तकनीक है?",
+      "options": [
+        "Preorder traversal",
+        "Inorder traversal",
+        "Postorder traversal",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "The three classic depth-first search (DFS) traversals for binary trees are Preorder (Node-Left-Right), Inorder (Left-Node-Right), and Postorder (Left-Right-Node).💡 Exam Setter's Tips & Quick Tricks: All three (A), (B), and (C) are valid binary tree traversals, so select **(D) More than one of the above**.",
+      "tip": "",
+      "id": 41
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How can an array data structure be described in the best possible way?(",
+      "hi": "हम किसी ऐरे (Array) का सर्वोत्तम संभव तरीके से वर्णन कैसे कर सकते हैं?)",
+      "options": [
+        "Arrays are dynamic and immutable structures",
+        "Container that stores elements of similar data types in contiguous memory locations",
+        "The array is an associative non-linear data structure",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Container that stores elements of similar data types in contiguous memory locationsDetailed",
+      "explanation": "An array is defined as a fixed-size, linear, contiguous collection of homogeneous elements of the same data type accessible via numerical indices.💡 Exam Setter's Tips & Quick Tricks: Canonical array definition = Homogeneous elements (same type) stored in contiguous memory locations.",
+      "tip": "",
+      "id": 42
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is another widely used name for a circular queue?(",
+      "hi": "सर्कुलर क्यू (Circular Queue) का दूसरा प्रचलित नाम क्या है?)",
+      "options": [
+        "Rectangle buffer",
+        "Square buffer",
+        "Ring buffer",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Ring bufferDetailed",
+      "explanation": "In computer engineering and systems programming, a circular queue connects its last position back to the first position in a logical circle, and is universally referred to as a Ring Buffer or Circular Buffer.💡 Exam Setter's Tips & Quick Tricks: Circular Queue = **Ring Buffer** (frequently used in hardware DMA and audio/video streaming).",
+      "tip": "",
+      "id": 43
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which operational limitation of linear queues determines the primary need for a circular queue?",
+      "hi": "रैखिक क्यू की कौन-सी परिचालन सीमा सर्कुलर क्यू की प्राथमिक आवश्यकता को निर्धारित करती है?",
+      "options": [
+        "To access the queue using priority levels",
+        "To avoid memory wastage caused by unused front slots after deletions",
+        "To bypass the FIFO principle",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "To avoid memory wastage caused by unused front slots after deletionsDetailed",
+      "explanation": "In a standard linear array queue, dequeuing elements leaves empty spaces at the front that cannot be reused once `rear` hits the maximum bound. Circular queues wrap around to reuse these freed positions.💡 Exam Setter's Tips & Quick Tricks: Primary motivation for Circular Queue = Reclaiming unused memory space at the front of the array.",
+      "tip": "",
+      "id": 44
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which data structure provides the most efficient implementation for a priority queue?(",
+      "hi": "प्राथमिकता क्यू (Priority Queue) को लागू करने के लिए कौन-सी डेटा संरचना सबसे कुशल है?)",
+      "options": [
+        "Singly linked list",
+        "Unsorted array",
+        "Binary heap",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Binary heapDetailed",
+      "explanation": "A Binary Heap (min-heap or max-heap) implements Priority Queues with optimal \\(O(\\log N)\\) insertion and \\(O(\\log N)\\) extraction of the minimum/maximum element, outperforming \\(O(N)\\) arrays and linked lists.💡 Exam Setter's Tips & Quick Tricks: Standard data structure for Priority Queue = **Binary Heap** (\\(O(\\log N)\\) operations).",
+      "tip": "",
+      "id": 45
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following data structures is implicitly utilized by computer hardware and compilers to execute recursive functions?(",
+      "hi": "रिकर्शन (Recursion) को निष्पादित करने के लिए कंपाइलर और हार्डवेयर द्वारा किस डेटा संरचना का अंतर्निहित उपयोग किया जाता है?)",
+      "options": [
+        "Stack (Call Stack)",
+        "Linked list",
+        "Array",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Stack (Call Stack)Detailed",
+      "explanation": "Each recursive invocation pushes an activation record (stack frame) containing return addresses, parameters, and local variables onto the system Call Stack, which unwinds in LIFO order upon return.💡 Exam Setter's Tips & Quick Tricks: Function calls and recursion = System **Call Stack**.",
+      "tip": "",
+      "id": 46
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following represents an essential structural property of a Red-Black Tree?(",
+      "hi": "निम्नलिखित में से कौन-सा लाल-काले ट्री (Red-Black Tree) का एक अनिवार्य संरचनात्मक गुण है?)",
+      "options": [
+        "The root node is always Black",
+        "Every newly inserted node is initially Red",
+        "If a node is Red, both of its children must be Black (no two consecutive Red nodes)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Standard Red-Black tree invariants state: (1) The root is black, (2) Newly inserted nodes are colored red, and (3) Red nodes cannot have red children (no consecutive reds).💡 Exam Setter's Tips & Quick Tricks: All three options (A), (B), and (C) are fundamental rules of Red-Black Trees, leading directly to Option (D).",
+      "tip": "",
+      "id": 47
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In a Double-Ended Queue (Deque) implemented using a singly linked list without backward pointers, what is the worst-case time complexity to delete an element from the rear end?(",
+      "hi": "एकल लिंक्ड सूची द्वारा कार्यान्वित डेक (Deque) में, पीछे के छोर (rear end) से किसी तत्त्व को हटाने की समय जटिलता क्या होगी?)",
+      "options": [
+        "O(1)",
+        "O(N log N)",
+        "O(N)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "O(N)Detailed",
+      "explanation": "In a singly linked list, although we maintain a `tail` pointer, deleting the tail requires updating the second-to-last node's `next` pointer to `NULL`. Finding this preceding node requires traversing \\(N-1\\) links, taking \\(O(N)\\) time.💡 Exam Setter's Tips & Quick Tricks: Singly linked list: Delete from Front = \\(O(1)\\); Delete from Rear = \\(O(N)\\) (needs traversal). Doubly linked list achieves \\(O(1)\\).",
+      "tip": "",
+      "id": 48
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following constitutes the exact overflow condition if a linear queue is implemented using an array of size `MAX_SIZE`?(",
+      "hi": "यदि `MAX_SIZE` आकार वाले ऐरे का उपयोग करके रैखिक क्यू लागू की जाती है, तो अतिप्रवाह (Overflow) की सही स्थिति कौन-सी है?)",
+      "options": [
+        "`rear == MAX_SIZE - 1`",
+        "`rear == MAX_SIZE`",
+        "`rear == front + 1`",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "`rear == MAX_SIZE - 1`Detailed",
+      "explanation": "With zero-based indexing in an array of size `MAX_SIZE`, valid indices span `0` to `MAX_SIZE - 1`. When `rear` reaches index `MAX_SIZE - 1`, the queue cannot accommodate any further elements.💡 Exam Setter's Tips & Quick Tricks: Array boundary: max index = `size - 1`. Therefore overflow occurs when `rear == MAX_SIZE - 1`.",
+      "tip": "",
+      "id": 49
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following sorting algorithms is strictly based on the 'Divide-and-Conquer' algorithmic paradigm?(",
+      "hi": "निम्नलिखित में से कौन-सा सॉर्टिंग एल्गोरिदम 'फूट डालो और जीतो' (Divide-and-Conquer) रणनीति पर आधारित है?)",
+      "options": [
+        "Merge sort",
+        "Heap sort",
+        "Bubble sort",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Merge sortDetailed",
+      "explanation": "Merge Sort divides the unsorted list into \\(N\\) sublists until each contains 1 element, recursively sorts them, and merges them back together. Quick Sort and Merge Sort are classic Divide-and-Conquer algorithms.💡 Exam Setter's Tips & Quick Tricks: Divide and Conquer sorting = Merge Sort & Quick Sort; Greedy sorting = Selection Sort; Heap-based = Heap Sort.",
+      "tip": "",
+      "id": 50
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is a Database?(",
+      "hi": "डेटाबेस (Database) क्या है?)",
+      "options": [
+        "An unorganized repository of files that cannot be queried or updated",
+        "An organized collection of interrelated data or information that can be easily accessed, managed, and updated",
+        "A hardware storage unit that only stores operating system files",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "An organized collection of interrelated data or information that can be easily accessed, managed, and updatedDetailed",
+      "explanation": "A database is a systematic, logically structured collection of persistent, interrelated data stored electronically in a computer system designed for efficient querying, updating, and administration.💡 Exam Setter's Tips & Quick Tricks: Standard definition: Organized collection of interrelated data managed by a DBMS.",
+      "tip": "",
+      "id": 51
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which diverse types of data can be effectively stored in modern database management systems?",
+      "hi": "आधुनिक डेटाबेस प्रबंधन प्रणालियों में किस प्रकार का डेटा संग्रहीत किया जा सकता है?",
+      "options": [
+        "Image-oriented binary data (BLOBs)",
+        "Structured textual and numerical data",
+        "Multimedia data in the form of audio and video streams",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Modern enterprise relational and object-relational databases accommodate alphanumeric data, unstructured text, binary images, audio, video files (via BLOBs and CLOBs), and spatial coordinates.💡 Exam Setter's Tips & Quick Tricks: Modern databases handle text, numbers, images, audio, and video. Since all three are supported, Option (D) is the answer.",
+      "tip": "",
+      "id": 52
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following is NOT a recognized traditional architectural model of databases?",
+      "hi": "निम्नलिखित में से कौन-सा पारंपरिक डेटाबेस संरचना का एक मान्यता प्राप्त प्रकार नहीं है?",
+      "options": [
+        "Network Database Model",
+        "Distributed Database Model",
+        "Decentralized Database Model",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Decentralized Database ModelDetailed",
+      "explanation": "Classical database architectures include Hierarchical, Network, Relational, Object-Oriented, and Distributed. 'Decentralized' is a distributed ledger/blockchain concept, not a traditional DBMS architectural category.💡 Exam Setter's Tips & Quick Tricks: Standard DBMS models: Relational, Hierarchical, Network, Distributed. 'Decentralized' is not a formal DBMS architecture.",
+      "tip": "",
+      "id": 53
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following software applications is NOT an example of a Database Management System (DBMS)?",
+      "hi": "निम्नलिखित में से कौन-सा DBMS का उदाहरण नहीं है?",
+      "options": [
+        "Microsoft Access",
+        "IBM Db2",
+        "Google Search Engine",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Google Search EngineDetailed",
+      "explanation": "Microsoft Access and IBM Db2 are specialized Database Management Systems. Google is an internet search engine, web crawler, and technology corporation, not a standalone DBMS product.💡 Exam Setter's Tips & Quick Tricks: DBMS products: Oracle, MySQL, SQL Server, MS Access, IBM Db2, PostgreSQL. Google is a search engine.",
+      "tip": "",
+      "id": 54
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following is NOT a characteristic feature of an enterprise Relational Database Management System?",
+      "hi": "निम्नलिखित में से कौन-सी रिलेशनल DBMS की विशेषता नहीं है?",
+      "options": [
+        "Minimum duplication and redundancy of data",
+        "Strict single-user access only",
+        "Support for ACID transaction properties",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Strict single-user access onlyDetailed",
+      "explanation": "Enterprise DBMS platforms are built specifically to support concurrent, multi-user transactions while maintaining isolation. Single-user access only is an archaic limitation, not a feature.💡 Exam Setter's Tips & Quick Tricks: DBMS provides multi-user concurrency control. Single-user access only is false.",
+      "tip": "",
+      "id": 55
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following is NOT an internal core function of a database system?",
+      "hi": "निम्नलिखित में से कौन-सा डेटाबेस का आंतरिक कार्य नहीं है?",
+      "options": [
+        "Manipulating and querying stored data",
+        "Ensuring security and access privileges for data",
+        "Analysing and compiling compiler source code",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Analysing and compiling compiler source codeDetailed",
+      "explanation": "A DBMS provides query manipulation, transaction management, indexing, concurrency control, and security access. Compiling and analyzing source code is performed by language compilers and IDEs.💡 Exam Setter's Tips & Quick Tricks: Compiling and syntax analysis is the job of a Compiler, not a Database system.",
+      "tip": "",
+      "id": 56
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Information about data, such as schema definition, column constraints, and storage specifications, is termed as(",
+      "hi": "डेटा के बारे में डेटा या जानकारी (Information about data) क्या कहलाती है?)",
+      "options": [
+        "Teradata",
+        "Metadata",
+        "Relational tuples",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "MetadataDetailed",
+      "explanation": "Metadata is defined as 'data about data', comprising data dictionary descriptions, table schemas, column data types, indexing definitions, and access privileges.💡 Exam Setter's Tips & Quick Tricks: Data about data = **Metadata**; stored in the System Catalog / Data Dictionary.",
+      "tip": "",
+      "id": 57
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In a multi-tier enterprise architecture, a Database Management System acts as an interface between",
+      "hi": "DBMS एक एंटरप्राइज़-क्लास सिस्टम में किनके बीच एक इंटरफ़ेस के रूप में कार्य करता है?",
+      "options": [
+        "Raw hardware data and the operating system",
+        "Database application program and the physical database",
+        "The end-user monitor and peripheral firmware",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Database application program and the physical databaseDetailed",
+      "explanation": "The DBMS serves as the software middleware that translates high-level user/application SQL queries into low-level physical file system reads and writes against the physical database storage.💡 Exam Setter's Tips & Quick Tricks: DBMS sits between the Application Program / User and the Physical Storage Files.",
+      "tip": "",
+      "id": 58
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "A set of one or more attributes that, taken collectively, allows us to uniquely identify a record/tuple in a relation is called a",
+      "hi": "किसी रिकॉर्ड को विशिष्ट रूप से पहचानने के लिए सामूहिक रूप से ली गई एक या अधिक विशेषताओं का सेट क्या कहलाता है?",
+      "options": [
+        "Primary key",
+        "Foreign key",
+        "Superkey",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "SuperkeyDetailed",
+      "explanation": "By relational database theory definition, a Superkey is any superset of attributes that uniquely identifies a tuple. A minimal superkey is designated as a Candidate Key, one of which is chosen as the Primary Key.💡 Exam Setter's Tips & Quick Tricks: Collective attributes that uniquely identify a row = **Superkey**; Minimal superkey = Candidate key; Chosen candidate key = Primary key.",
+      "tip": "",
+      "id": 59
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following SQL DML commands is correct to delete all row values from the relation 'teaches' while keeping the table structure intact?(",
+      "hi": "संबंध 'teaches' के टेबल स्ट्रक्चर को बनाए रखते हुए उसके सभी मानों (रो) को हटाने के लिए सही SQL कमांड कौन-सा है?)",
+      "options": [
+        "`DELETE FROM teaches;`",
+        "`DELETE FROM teaches WHERE Id='Null';`",
+        "`REMOVE TABLE teaches;`",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "`DELETE FROM teaches;`Detailed",
+      "explanation": "The SQL syntax `DELETE FROM table_name;` purges all rows from the table while retaining its schema and column definitions in the data dictionary. `DROP TABLE` deletes both rows and schema.💡 Exam Setter's Tips & Quick Tricks: Delete data only = `DELETE FROM table_name;`; Delete entire table and schema = `DROP TABLE table_name;`.",
+      "tip": "",
+      "id": 60
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In the ANSI/ISO SQL environment hierarchy, the top level consists of _____ each of which can contain multiple _____.",
+      "hi": "ANSI/ISO SQL पदानुक्रम के शीर्ष स्तर में _____ होते हैं, जिनमें से प्रत्येक में कई _____ हो सकते हैं।",
+      "options": [
+        "schemas, catalogs",
+        "schemas, environments",
+        "catalogs, schemas",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "catalogs, schemasDetailed",
+      "explanation": "In standard SQL database architecture, an Environment contains Catalogs (databases), and each Catalog contains one or more Schemas (user namespaces), which in turn contain tables, views, and constraints.💡 Exam Setter's Tips & Quick Tricks: SQL hierarchy order: Environment -> Catalogs -> Schemas -> Tables/Views.",
+      "tip": "",
+      "id": 61
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In Microsoft SQL Server security administration, user database logins and IDs can be added or removed using which fixed database role?(",
+      "hi": "डेटाबेस सुरक्षा प्रशासन में उपयोगकर्ता आईडी को जोड़ने या हटाने के लिए किस निश्चित भूमिका (fixed role) का उपयोग किया जाता है?)",
+      "options": [
+        "`db_sysadmin`",
+        "`db_accessadmin`",
+        "`db_securityadmin`",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "`db_accessadmin`Detailed",
+      "explanation": "In SQL Server, members of the `db_accessadmin` fixed database role have permissions to add or remove access to the database for Windows logins, Windows groups, and SQL Server logins.💡 Exam Setter's Tips & Quick Tricks: Add/remove user access rights = `db_accessadmin`; Manage permissions and roles = `db_securityadmin`.",
+      "tip": "",
+      "id": 62
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The traditional storage of business records organized by customer name, stored in physical folders within filing cabinets, directly mirrors which database model?",
+      "hi": "फाइलिंग कैबिनेट में फ़ोल्डरों में संग्रहीत डेटा का पारंपरिक भंडारण किस डेटाबेस मॉडल का प्रत्यक्ष उदाहरण है?",
+      "options": [
+        "Relational database management system",
+        "Network database management system",
+        "Hierarchical database management system",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Hierarchical database management systemDetailed",
+      "explanation": "In a physical filing cabinet, files are organized into a strict top-down tree hierarchy (Cabinet -> Drawer -> Folder -> Document), directly representing a 1:N parent-child Hierarchical Database Model.💡 Exam Setter's Tips & Quick Tricks: Parent-child 1:N tree hierarchy = **Hierarchical Model**; Many-to-many graph = **Network Model**; Tables/relations = **Relational Model**.",
+      "tip": "",
+      "id": 63
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "After groups have been established via `GROUP BY`, SQL applies filtering conditions on aggregate functions using which clause?(",
+      "hi": "ग्रुप स्थापित होने के बाद, SQL समग्र (Aggregate) कार्यों पर शर्तें लागू करने के लिए किस खंड (clause) का उपयोग करता है?)",
+      "options": [
+        "`HAVING` clause",
+        "`GROUP BY` clause",
+        "`WHERE` clause",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "`HAVING` clauseDetailed",
+      "explanation": "In SQL, individual rows are filtered before grouping using the `WHERE` clause. Once groups are formed via `GROUP BY`, aggregate conditions (`COUNT() > 5`, `AVG() > 50`) can only be filtered using the `HAVING` clause.💡 Exam Setter's Tips & Quick Tricks: Filter individual rows = `WHERE`; Filter groups / aggregate functions = `HAVING`.",
+      "tip": "",
+      "id": 64
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following operations is NOT considered an internal utility service of a DBMS?I. Backup and recoveryII. Data loadingIII. Operating system process schedulingIV. File reorganization(",
+      "hi": "निम्नलिखित में से कौन-सी DBMS की उपयोगिताएँ (Utilities) नहीं हैं?)",
+      "options": [
+        "I, II and IV only",
+        "I, II and III only",
+        "III only (Operating system process scheduling)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "III only (Operating system process scheduling)Detailed",
+      "explanation": "DBMS utility programs provide backup, recovery, data loading, and index reorganization. Process scheduling across CPU cores is strictly an Operating System kernel responsibility.💡 Exam Setter's Tips & Quick Tricks: Process scheduling belongs to the OS kernel, not the database engine.",
+      "tip": "",
+      "id": 65
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "For designing a practical, well-normalized enterprise Relational Database, which Normal Form is generally considered sufficient and adequate?(",
+      "hi": "सामान्य RDBMS को डिज़ाइन करने के लिए निम्नलिखित में से कौन-सा सामान्य रूप (Normal Form) पर्याप्त माना जाता है?)",
+      "options": [
+        "4NF",
+        "3NF (Third Normal Form)",
+        "2NF",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3NF (Third Normal Form)Detailed",
+      "explanation": "In commercial database design, Third Normal Form (3NF) or BCNF is considered the standard target. It eliminates all partial and transitive functional dependencies while preserving dependencies without performance penalties.💡 Exam Setter's Tips & Quick Tricks: Industry standard target for RDBMS normalization = **3NF**.",
+      "tip": "",
+      "id": 66
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What severe anomalies occur if identical business data is redundantly stored in two separate tables in a database?",
+      "hi": "यदि डेटा का एक ही टुकड़ा डेटाबेस में दो अलग-अलग स्थानों पर संग्रहीत किया जाता है, तो क्या परिणाम होता है?",
+      "options": [
+        "Valuable storage space is wasted",
+        "Updating data in one spot will cause data inconsistency across the database",
+        "Modification anomalies arise",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Data redundancy leads to wasted disk storage, potential update/insertion/deletion anomalies, and data inconsistency when one copy is updated while the duplicate copy retains obsolete data.💡 Exam Setter's Tips & Quick Tricks: Consequences of data redundancy: (A) Wasted storage, (B) Data inconsistency, (C) Update anomalies. Hence Option (D).",
+      "tip": "",
+      "id": 67
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In relational database systems, which data type is specifically designed to store raw, unstructured binary byte data in a table column?",
+      "hi": "रिलेशनल डेटाबेस में कौन-सा डेटा टाइप असंरचित बाइनरी डेटा को कॉलम में संग्रहीत करने के लिए बनाया गया है?",
+      "options": [
+        "RAW / BLOB",
+        "Numeric",
+        "VARCHAR",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "RAW / BLOBDetailed",
+      "explanation": "The `RAW` and `BLOB` (Binary Large Object) data types are designed to store raw uninterpreted binary bytes (e.g., compiled binaries, encrypted signatures, images) without character-set translation.💡 Exam Setter's Tips & Quick Tricks: Unstructured binary data = `RAW` / `BLOB`; Formatted text = `VARCHAR`; Numbers = `NUMERIC`.",
+      "tip": "",
+      "id": 68
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which logic gate provides a HIGH (1) output when both of its inputs are identical (either both 0 or both 1)?(",
+      "hi": "लॉजिक गेट, जो समान इनपुट होने पर (दोनों 0 या दोनों 1) उच्च (HIGH/1) आउटपुट प्रदान करता है, कहलाता है)",
+      "options": [
+        "NOT gate",
+        "X-NOR gate (Equivalence gate)",
+        "XOR gate",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "X-NOR gate (Equivalence gate)Detailed",
+      "explanation": "An X-NOR (Exclusive-NOR) gate outputs 1 when inputs are equal (`0 XNOR 0 = 1`, `1 XNOR 1 = 1`) and 0 when inputs differ. Hence it is also known as the Coincidence or Equivalence gate.💡 Exam Setter's Tips & Quick Tricks: High for SAME inputs = **X-NOR (Equivalence)**; High for DIFFERENT inputs = **XOR (Inequality)**.",
+      "tip": "",
+      "id": 69
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Boolean algebra is fundamentally applied in",
+      "hi": "बूलियन बीजगणित का उपयोग मुख्य रूप से किसमें किया जाता है?",
+      "options": [
+        "Designing digital computer hardware and processors",
+        "Constructing and simplifying logic gate networks",
+        "Switching circuit theory",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Claude Shannon established that Boolean algebra models electrical relay circuits. It is the mathematical foundation for digital IC design, processor ALU construction, and switching network theory.💡 Exam Setter's Tips & Quick Tricks: Boolean algebra applies to digital computer design, circuit theory, and logic gate symbols -> Select Option (D).",
+      "tip": "",
+      "id": 70
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Communication between a personal computer and a keyboard involves which transmission mode?",
+      "hi": "कंप्यूटर और कीबोर्ड के बीच संचार में किस प्रकार का ट्रांसमिशन शामिल होता है?",
+      "options": [
+        "Simplex transmission",
+        "Half-duplex transmission",
+        "Full-duplex transmission",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Simplex transmissionDetailed",
+      "explanation": "In Simplex mode, data communication occurs strictly in one unidirectional channel. A keyboard can only send keystroke data to the computer; the computer cannot transmit user input back to the keyboard.💡 Exam Setter's Tips & Quick Tricks: Unidirectional (Keyboard -> PC, TV broadcast) = **Simplex**; Alternate two-way (Walkie-talkie) = **Half-Duplex**; Simultaneous two-way (Telephone) = **Full-Duplex**.",
+      "tip": "",
+      "id": 71
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is the simplified form of the Boolean expression `(X + Y + XY)(X + Z)`?(",
+      "hi": "बूलियन अभिव्यक्ति `(X + Y + XY)(X + Z)` का सरलीकृत रूप क्या है?)",
+      "options": [
+        "`XY + YZ`",
+        "`X + YZ`",
+        "`XZ + Y`",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "`X + YZ`Detailed",
+      "explanation": "By absorption, `X + Y + XY = X + Y(1 + X) = X + Y`. Then `(X + Y)(X + Z)`. By distributive law of Boolean algebra, `(X + Y)(X + Z) = X + YZ`.💡 Exam Setter's Tips & Quick Tricks: Distributive law identity: `(A + B)(A + C) = A + BC`. Here `(X + Y)(X + Z) = X + YZ`.",
+      "tip": "",
+      "id": 72
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The dual of a Boolean expression is obtained by which mathematical rule?(",
+      "hi": "किसी बूलियन अभिव्यक्ति का द्वैत (Dual) किसके द्वारा प्राप्त किया जाता है?)",
+      "options": [
+        "Interchanging all 0s and 1s only",
+        "Interchanging all AND (`.`) with OR (`+`) operators, and interchanging all 0s with 1s without complementing variables",
+        "Complementing all literal variables without changing operator signs",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Interchanging all AND (`.`) with OR (`+`) operators, and interchanging all 0s with 1s without complementing variablesDetailed",
+      "explanation": "Duality Principle: The dual of a Boolean expression is obtained by replacing each AND (`.`) with OR (`+`), each OR with AND, each 0 with 1, and each 1 with 0, leaving variables intact.💡 Exam Setter's Tips & Quick Tricks: Principle of Duality: `+` <-> `.`, and `0` <-> `1`. Do NOT complement variables!",
+      "tip": "",
+      "id": 73
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Wireless transmission of data signals across networks can be accomplished through",
+      "hi": "नेटवर्क में संकेतों का वायरलेस ट्रांसमिशन किसके माध्यम से किया जा सकता है?",
+      "options": [
+        "Radio waves",
+        "Microwaves",
+        "Infrared waves",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Wireless unguided transmission utilizes electromagnetic frequencies spanning radio waves (Wi-Fi, cellular), microwaves (satellite links, terrestrial towers), and infrared (short-range line-of-sight).💡 Exam Setter's Tips & Quick Tricks: Radio waves, microwaves, and infrared are all standard wireless communication bands -> Option (D).",
+      "tip": "",
+      "id": 74
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In computer networks, what does the acronym 'DNS' stand for?",
+      "hi": "कम्प्यूटर नेटवर्क में 'DNS' का पूर्ण रूप क्या है?",
+      "options": [
+        "Data Network Service",
+        "Domain Name System",
+        "Digital Network Standard",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Domain Name SystemDetailed",
+      "explanation": "The Domain Name System (DNS) is an application-layer hierarchical protocol that translates human-friendly domain names (e.g., www.bpsc.bih.nic.in) into machine-readable numeric IP addresses.💡 Exam Setter's Tips & Quick Tricks: DNS = Domain Name System (acts as the phonebook of the Internet, translating names to IP addresses).",
+      "tip": "",
+      "id": 75
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In synchronous Time Division Multiplexing (TDM), transmission frames are composed of individual(",
+      "hi": "टाइम डिवीज़न मल्टीप्लेक्सिंग (TDM) में, स्लॉट (Slots) आगे किसमें विभाजित होते हैं?)",
+      "options": [
+        "Frames",
+        "Packets",
+        "Bits or bit groups",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Bits or bit groupsDetailed",
+      "explanation": "In TDM systems, each continuous time frame contains a set of fixed time slots assigned to channels, where each slot carries a discrete unit of data down to individual bits or characters.💡 Exam Setter's Tips & Quick Tricks: In TDM, each time frame is partitioned into time slots, which transport serialized **bits**.",
+      "tip": "",
+      "id": 76
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following statements is true regarding Transmission Control Protocol (TCP)?(",
+      "hi": "ट्रांसमिशन कंट्रोल प्रोटोकॉल (TCP) के संबंध में निम्नलिखित में से कौन-सा कथन सत्य है?)",
+      "options": [
+        "It is a connection-oriented reliable protocol operating at Transport Layer",
+        "It uses a three-way handshake (SYN, SYN-ACK, ACK) to establish a connection",
+        "It provides flow control, error recovery, and packet retransmission",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "TCP is a connection-oriented Layer 4 protocol that guarantees reliable delivery via three-way handshakes, sequence numbers, sliding-window flow control, and checksum error checking.💡 Exam Setter's Tips & Quick Tricks: TCP is connection-oriented, reliable, and uses a 3-way handshake -> All statements are true -> Option (D).",
+      "tip": "",
+      "id": 77
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following application software is classified as a Web Browser?",
+      "hi": "निम्नलिखित में से कौन-सा अनुप्रयोग सॉफ्टवेयर 'वेब ब्राउज़र' के रूप में वर्गीकृत है?",
+      "options": [
+        "Google Chrome",
+        "Mozilla Firefox",
+        "Apple Safari",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Google Chrome, Mozilla Firefox, and Apple Safari are standard client web browser applications used to fetch, render, and navigate HTML web pages across the World Wide Web.💡 Exam Setter's Tips & Quick Tricks: Chrome, Firefox, Safari, Edge, Opera are all web browsers -> Select Option (D).",
+      "tip": "",
+      "id": 78
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which transmission media provides the highest bandwidth and data transmission speed in modern communication networks?",
+      "hi": "कौन-सा ट्रांसमिशन मीडिया किसी नेटवर्क में उच्चतम ट्रांसमिशन गति और बैंडविड्थ प्रदान करता है?",
+      "options": [
+        "Coaxial cable",
+        "Shielded Twisted-pair cable (STP)",
+        "Optical fiber cable",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Optical fiber cableDetailed",
+      "explanation": "Fiber-optic cables transmit digital pulses of light through high-purity glass cores via total internal reflection, providing terabit-per-second bandwidth with negligible attenuation and zero EMI.💡 Exam Setter's Tips & Quick Tricks: Speed & Bandwidth hierarchy: **Optical Fiber >> Coaxial Cable > Twisted Pair (Cat6/Cat5e)**.",
+      "tip": "",
+      "id": 79
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In SQL, which command is used to permanently remove an entire table structure along with all of its stored records from the database?",
+      "hi": "SQL में, डेटाबेस से किसी संपूर्ण टेबल स्ट्रक्चर और उसके सभी रिकॉर्ड को स्थायी रूप से हटाने के लिए किस कमांड का उपयोग किया जाता है?",
+      "options": [
+        "DELETE",
+        "DROP TABLE",
+        "ERASE",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "DROP TABLEDetailed",
+      "explanation": "`DROP TABLE table_name;` is a Data Definition Language (DDL) command that drops the table schema, indexes, and all rows permanently. `DELETE` is DML and removes only rows.💡 Exam Setter's Tips & Quick Tricks: Delete data rows only = `DELETE`; Remove data + schema permanently = `DROP TABLE`.\nMaster Answer Key & Topic Index — Set 2 (Questions 81 to 160)\nQ.No.\nTopic / Technical Concept\nKey\nQ.No.\nTopic / Technical Concept\nKey\n81\nNetwork Layer 3 IP Protocol\n(B)\n121\nBinary Tree Traversal Methods\n(D)\n82\nKeyboard Keystroke Standard (ASCII)\n(B)\n122\nHomogeneous Contiguous Array\n(B)\n83\n5th Gen AI & ULSI Advancement\n(A)\n123\nCircular Queue as Ring Buffer\n(C)\n84\nOpen Source Software Definition\n(A)\n124\nCircular Queue Memory Reclamation\n(B)\n85\nMachine Language Properties\n(D)\n125\nPriority Queue via Binary Heap\n(C)\n86\nAssembly Language Classification\n(A)\n126\nCall Stack in Recursion\n(A)\n87\nCompiler Functions & Translation\n(D)\n127\nRed-Black Tree Invariants\n(D)\n88\nC++ Bottom-Up Paradigm\n(C)\n128\nDeque Rear Deletion in SLL (O(N))\n(C)\n89\nVirtual Inheritance & Diamond Problem\n(C)\n129\nLinear Queue Overflow (MAX_SIZE - 1)\n(A)\n90\nSafe Deletion of NULL Pointer\n(B)\n130\nDivide and Conquer (Merge Sort)\n(A)\n91\ndelete vs delete[] Syntax\n(C)\n131\nDatabase Formal Definition\n(B)\n92\nKeyword 'new' in C vs C++\n(C)\n132\nSupported Database Data Types\n(D)\n93\nBitwise OR & Bool Evaluation\n(B)\n133\nTraditional Database Models\n(C)\n94\nException Handling 'try' Block\n(C)\n134\nDBMS Product Identification\n(C)\n95\nAliasing Pointer Output (870)\n(B)\n135\nDBMS Concurrency (Not Single-User)\n(B)\n96\nInline Function Misconception\n(B)\n136\nDatabase Engine vs Compiler Scope\n(C)\n97\nAbstract Class Definition (= 0)\n(C)\n137\nMetadata (Data about Data)\n(B)\n98\nCompiler Synthesized Constructors\n(D)\n138\nDBMS Middleware Interface Role\n(B)\n99\nStruct vs Class Access Specifiers\n(B)\n139\nSuperkey Uniqueness Property\n(C)\n100\nPillars of Pure OOP Languages\n(D)\n140\nSQL DELETE FROM Statement\n(A)\n101\nExtensible Language Definition\n(C)\n141\nSQL Catalogs and Schemas Hierarchy\n(C)\n102\nCreator of C++ (Bjarne Stroustrup)\n(C)\n142\nSQL Server db_accessadmin Role\n(B)\n103\nConsole Character Input (cin.get)\n(C)\n143\nHierarchical Model Filing Cabinets\n(C)\n104\nArray Element Access (n-1)\n(B)\n144\nSQL HAVING Clause with Aggregates\n(A)\n105\nArray Categories (1D and Multi-D)\n(C)\n145\nDBMS Utilities vs OS Scheduling\n(C)\n106\nType Traits Array Rank (Dimensions)\n(C)\n146\n3NF Normalization Sufficiency\n(B)\n107\nBlock Scope of Local Variables\n(B)\n147\nConsequences of Data Redundancy\n(D)\n108\nnew Operator vs malloc Function\n(D)\n148\nRAW / BLOB Binary Data Types\n(A)\n109\nInaccessible Private Inheritance\n(C)\n149\nX-NOR Logic Coincidence Gate\n(B)\n110\nStatic vs Dynamic Binding\n(A)\n150\nApplications of Boolean Algebra\n(D)\n111\nAnonymous Classes (No Constructor)\n(D)\n151\nSimplex Keyboard Communication\n(A)\n112\nCompile-Time Polymorphism\n(D)\n152\nBoolean Simplification (X + YZ)\n(B)\n113\nEncapsulation Definition\n(C)\n153\nBoolean Duality Principle\n(B)\n114\nModularity in Software Design\n(B)\n154\nWireless Transmission Media\n(D)\n115\nStack vs Queue Applications\n(A)\n155\nDNS Application Layer Protocol\n(B)\n116\nInfix to Prefix (A + B * C)\n(A)\n156\nTDM Time Slots Bit Serialization\n(C)\n117\nStack in Prefix Conversion\n(B)\n157\nTCP 3-Way Handshake & Reliability\n(D)\n118\nSpatial Locality in Arrays\n(C)\n158\nWeb Browser Classification\n(D)\n119\nQueue Underflow Condition\n(B)\n159\nOptical Fiber Total Internal Reflection\n(C)\n120\nQueue Applications (Not Parentheses)\n(C)\n160\nSQL Permanent DROP TABLE Command\n(B)\nBPSC TRE 4.0: Computer Science 5-Option Elimination StrategyTactical Guidelines for Tackling Option (D) 'More than one of the above' and Option (E) 'None of the above' in Technical MCQs\n1. The 2-Check Rule for Option (D) in Technical Questions:Whenever you independently confirm that two choices satisfy the technical criteria (e.g., both Encapsulation and Polymorphism in pure OOP; both Default and Copy constructor; both Compiler and Assembler as translators; both Radio waves and Microwaves in wireless transmission), stop analyzing choice (C) and mark (D) ('More than one of the above') immediately.2. The Missing Key Entity Trap for Option (E):BPSC question setters frequently construct questions testing famous computer algorithms, hardware pioneers, or units (e.g., Dijkstra's algorithm for shortest paths, Turing machine, or non-listed memory units) and deliberately omit the correct answer from (A), (B), and (C). Candidates who second-guess themselves often pick a plausible-looking distractor instead of selecting (E) ('None of the above').3. Hardware vs. Software vs. Operating System Traps:Watch out for classification traps where system software utilities (e.g., compilers, defragmenters) are mixed with OS kernel responsibilities (e.g., CPU process scheduling), or database engines (Oracle, Db2) with internet search engines (Google). Operating system process scheduling and memory management belong to the OS kernel, not the DBMS.4. Default Access Specifier Distinctions:One of BPSC's most tested distinctions is structure vs. class default access. Remember: `struct` members and inheritance are PUBLIC by default (C compatibility); `class` members and inheritance are PRIVATE by default (encapsulation).",
+      "tip": "",
+      "id": 80
+    }
+  ]
+}

@@ -1,15 +1,14 @@
 {
-  "id": "bpsc-tre4-qualifying-paper-40q",
-  "title": "Language Qualifying Set 1 (40Q)",
+  "id": "bpsc-tre4-qualifying-set1",
+  "title": "Language Qualifying Practice Set 1 (40Q)",
   "section": "qualifying",
   "section_name": "Part-I Language Qualifying",
   "subject": "Language Qualifying",
-  "filename": "bpsc-tre4-qualifying-paper-40q.docx",
+  "filename": "bpsc-tre4-master-qualifying-paper-120q.docx",
   "question_count": 40,
   "questions": [
     {
-      "id": 1,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "I have ______ so many good friends.",
       "hi": "I have ______ so many good friends.",
       "options": [
@@ -23,11 +22,11 @@
       "answer_letter": "E",
       "answer_text": "None of the above",
       "explanation": "The quantifier phrase 'so many' does not permit an article before it when qualifying plural countable nouns ('friends'). Hence, zero article is required.💡 Setter's",
-      "tip": "Watch out for pre-determiners like 'so many' or 'too many'; they never take an article ('a/an/the') directly in front."
+      "tip": "Watch out for pre-determiners like 'so many' or 'too many'; they never take an article ('a/an/the') directly in front.",
+      "id": 1
     },
     {
-      "id": 2,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "I want to build ______ very big house.",
       "hi": "I want to build ______ very big house.",
       "options": [
@@ -41,11 +40,11 @@
       "answer_letter": "A",
       "answer_text": "a",
       "explanation": "The singular countable noun phrase 'very big house' begins with the consonant sound /v/, requiring the indefinite article 'a'.💡 Setter's",
-      "tip": "Article choice depends strictly on the phonetic sound of the immediate next word; 'very' starts with a consonant sound, so use 'a'."
+      "tip": "Article choice depends strictly on the phonetic sound of the immediate next word; 'very' starts with a consonant sound, so use 'a'.",
+      "id": 2
     },
     {
-      "id": 3,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "Which of the following is not a part of a garden?",
       "hi": "Which of the following is not a part of a garden?",
       "options": [
@@ -59,11 +58,11 @@
       "answer_letter": "C",
       "answer_text": "Wardrobe",
       "explanation": "Flowers and grass are typical outdoor garden elements, whereas a wardrobe is an indoor furniture unit designed for storing clothing.💡 Setter's",
-      "tip": "For negative category questions ('not a part of...'), spot the domestic bedroom/indoor item that contradicts the outdoor domain."
+      "tip": "For negative category questions ('not a part of...'), spot the domestic bedroom/indoor item that contradicts the outdoor domain.",
+      "id": 3
     },
     {
-      "id": 4,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "Which of the following is a part of railway station?",
       "hi": "Which of the following is a part of railway station?",
       "options": [
@@ -77,11 +76,11 @@
       "answer_letter": "D",
       "answer_text": "More than one of the above",
       "explanation": "Platforms, pedestrian overbridges, and arrival-departure indicators/counters are all essential standard components of a railway station.💡 Setter's",
-      "tip": "Whenever you verify that at least two individual options (A and B) are undeniably correct, immediately select Option (D)."
+      "tip": "Whenever you verify that at least two individual options (A and B) are undeniably correct, immediately select Option (D).",
+      "id": 4
     },
     {
-      "id": 5,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "The sixth letter in the alphabet after J will be",
       "hi": "The sixth letter in the alphabet after J will be",
       "options": [
@@ -95,11 +94,11 @@
       "answer_letter": "B",
       "answer_text": "P",
       "explanation": "Letter J is the 10th letter of the alphabet. Counting 6 positions forward: 10 + 6 = 16th letter, which is 'P' (K, L, M, N, O, P).💡 Setter's",
-      "tip": "Convert letters to numbers (EJOTY: E=5, J=10, O=15, T=20, Y=25) to solve alphabet rank questions in 3 seconds without errors."
+      "tip": "Convert letters to numbers (EJOTY: E=5, J=10, O=15, T=20, Y=25) to solve alphabet rank questions in 3 seconds without errors.",
+      "id": 5
     },
     {
-      "id": 6,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "In a zoo, ______ live in cages.",
       "hi": "In a zoo, ______ live in cages.",
       "options": [
@@ -113,11 +112,11 @@
       "answer_letter": "D",
       "answer_text": "More than one of the above",
       "explanation": "In a zoological garden, various fauna including birds (aviaries/cages), wild mammals, and snakes (glass cages/reptile houses) are housed in enclosed cages.💡 Setter's",
-      "tip": "Do not rush to pick only (B) 'animals'; birds and reptiles are also zoo inmates kept in cages, triggering Option (D)."
+      "tip": "Do not rush to pick only (B) 'animals'; birds and reptiles are also zoo inmates kept in cages, triggering Option (D).",
+      "id": 6
     },
     {
-      "id": 7,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "Daughter's daughter is",
       "hi": "Daughter's daughter is",
       "options": [
@@ -131,11 +130,11 @@
       "answer_letter": "E",
       "answer_text": "None of the above",
       "explanation": "One's daughter's daughter is designated as a 'granddaughter' (maternal granddaughter). Since this specific term is not listed in (A), (B), or (C), option (E) is correct.💡 Setter's",
-      "tip": "BPSC frequently tests kinships where the exact English term is missing from options (A, B, C); always check if (E) applies."
+      "tip": "BPSC frequently tests kinships where the exact English term is missing from options (A, B, C); always check if (E) applies.",
+      "id": 7
     },
     {
-      "id": 8,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "My siblings are my",
       "hi": "My siblings are my",
       "options": [
@@ -149,11 +148,11 @@
       "answer_letter": "B",
       "answer_text": "brothers and sisters",
       "explanation": "By definition, 'siblings' refers exclusively to brothers and sisters sharing one or both biological parents, excluding cousins and in-laws.💡 Setter's",
-      "tip": "Remember: Sibling = Brother/Sister; Nephew/Niece = Sibling's child; Cousin = Uncle/Aunt's child."
+      "tip": "Remember: Sibling = Brother/Sister; Nephew/Niece = Sibling's child; Cousin = Uncle/Aunt's child.",
+      "id": 8
     },
     {
-      "id": 9,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "Sarita is going to join as ______ BDO.",
       "hi": "Sarita is going to join as ______ BDO.",
       "options": [
@@ -167,11 +166,11 @@
       "answer_letter": "B",
       "answer_text": "a",
       "explanation": "The abbreviation BDO is pronounced as /biː.diː.oʊ/ with an initial consonant sound /b/, requiring the indefinite article 'a'.💡 Setter's",
-      "tip": "Check the sound, not the alphabet letter: 'BDO' starts with consonant /b/ ('a BDO'), whereas 'SDO' starts with vowel sound /e/ ('an SDO')."
+      "tip": "Check the sound, not the alphabet letter: 'BDO' starts with consonant /b/ ('a BDO'), whereas 'SDO' starts with vowel sound /e/ ('an SDO').",
+      "id": 9
     },
     {
-      "id": 10,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "______ Washington Post is the most read newspaper in the USA.",
       "hi": "______ Washington Post is the most read newspaper in the USA.",
       "options": [
@@ -185,11 +184,11 @@
       "answer_letter": "A",
       "answer_text": "The",
       "explanation": "Renowned newspapers, periodicals, and historical publications universally require the definite article 'The' (e.g., The Washington Post, The Hindu).💡 Setter's",
-      "tip": "Names of newspapers, ships, rivers, oceans, mountain ranges, and sacred scriptures mandatorily take 'The'."
+      "tip": "Names of newspapers, ships, rivers, oceans, mountain ranges, and sacred scriptures mandatorily take 'The'.",
+      "id": 10
     },
     {
-      "id": 11,
-      "source": "TRE 2 (Advt 24/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "There are 30 or 31 days in ______ month.",
       "hi": "There are 30 or 31 days in ______ month.",
       "options": [
@@ -203,11 +202,11 @@
       "answer_letter": "B",
       "answer_text": "a",
       "explanation": "The noun 'month' is singular countable and begins with consonant sound /m/. It refers to any calendar month in general, so 'a' is correct.💡 Setter's",
-      "tip": "When a singular countable noun represents any member of a class without prior specification, use indefinite article 'a/an'."
+      "tip": "When a singular countable noun represents any member of a class without prior specification, use indefinite article 'a/an'.",
+      "id": 11
     },
     {
-      "id": 12,
-      "source": "TRE 2 (Advt 24/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "My father is ______ engineer in the Water Works Department.",
       "hi": "My father is ______ engineer in the Water Works Department.",
       "options": [
@@ -221,11 +220,11 @@
       "answer_letter": "B",
       "answer_text": "an",
       "explanation": "The designation 'engineer' begins with a vowel sound /e/, requiring the indefinite article 'an' before profession titles.💡 Setter's",
-      "tip": "Job titles in predicate positions after 'is/was' take 'a/an'; check vowel sound (engineer, architect -> an; teacher, doctor -> a)."
+      "tip": "Job titles in predicate positions after 'is/was' take 'a/an'; check vowel sound (engineer, architect -> an; teacher, doctor -> a).",
+      "id": 12
     },
     {
-      "id": 13,
-      "source": "TRE 2 (Advt 23/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "In this school, all ______ students are given free education.",
       "hi": "In this school, all ______ students are given free education.",
       "options": [
@@ -239,11 +238,11 @@
       "answer_letter": "C",
       "answer_text": "the",
       "explanation": "When 'all' refers to a specific, defined group of students within a stated institution ('this school'), it takes the definite article 'the'.💡 Setter's",
-      "tip": "Standard grammar rule: 'All the + plural noun' defines a specific set of entities restricted by context."
+      "tip": "Standard grammar rule: 'All the + plural noun' defines a specific set of entities restricted by context.",
+      "id": 13
     },
     {
-      "id": 14,
-      "source": "TRE 2 (Advt 23/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "I have a friend in Mumbai who is ______ actress.",
       "hi": "I have a friend in Mumbai who is ______ actress.",
       "options": [
@@ -257,11 +256,11 @@
       "answer_letter": "B",
       "answer_text": "an",
       "explanation": "The noun 'actress' begins with the open vowel phoneme /æ/, taking indefinite article 'an' to introduce the profession.💡 Setter's",
-      "tip": "Always verify vowel sounds for feminine nouns: actress, authoress, empress take 'an'."
+      "tip": "Always verify vowel sounds for feminine nouns: actress, authoress, empress take 'an'.",
+      "id": 14
     },
     {
-      "id": 15,
-      "source": "BPSC TRE (Advt 10/2024)",
+      "source": "BPSC TRE 3.0",
       "en": "Had we ______ punctual, we would have ______ the train.",
       "hi": "Had we ______ punctual, we would have ______ the train.",
       "options": [
@@ -269,17 +268,17 @@
         "were, boarded",
         "are, got",
         "More than one of the above",
-        "None of the above"
+        "None of the above\nPART B: GENERAL HINDI (QUESTIONS 16 TO 40)\nनिर्देश: निम्नलिखित प्रत्येक प्रश्न में पाँच विकल्प"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "been, caught",
       "explanation": "This is an inverted third conditional ('Had + Subject + Past Participle (V3)... would have + V3'). Thus, 'Had we been... would have caught' is grammatically correct.💡 Setter's",
-      "tip": "In conditional inversion: 'Had + Subject' strictly demands a past participle ('been'), never past tense ('were') or base form ('be').\nPART B: GENERAL HINDI (QUESTIONS 16 TO 40)\nनिर्देश: निम्नलिखित प्रत्येक प्रश्न में पाँच विकल्प (A), (B), (C), (D) उपर्युक्त में से एक से अधिक, और (E) उपर्युक्त में से कोई नहीं दिए गए हैं। सही विकल्प का चयन कीजिए।"
+      "tip": "In conditional inversion: 'Had + Subject' strictly demands a past participle ('been'), never past tense ('were') or base form ('be').",
+      "id": 15
     },
     {
-      "id": 16,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "'प्रत्युत्तर' शब्द में कौन-सी संधि है?",
       "hi": "'प्रत्युत्तर' शब्द में कौन-सी संधि है?",
       "options": [
@@ -293,11 +292,11 @@
       "answer_letter": "C",
       "answer_text": "यण संधि",
       "explanation": "'प्रति + उत्तर = प्रत्युत्तर'। नियमानुसार जब इ/ई के बाद कोई असमान स्वर आता है, तो इ/ई का 'य्' हो जाता है, जो यण संधि का विशिष्ट लक्षण है।💡 Setter's",
-      "tip": "जब भी 'य' अथवा 'व' से पहले कोई आधा (स्वरहीन) व्यंजन दिखाई दे (जैसे प्रत्युत्तर में 'त्य'), तो 95% मामलों में यण संधि होती है।"
+      "tip": "जब भी 'य' अथवा 'व' से पहले कोई आधा (स्वरहीन) व्यंजन दिखाई दे (जैसे प्रत्युत्तर में 'त्य'), तो 95% मामलों में यण संधि होती है।",
+      "id": 16
     },
     {
-      "id": 17,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "'मनोरंजन' शब्द का संधि-विच्छेद होगा",
       "hi": "'मनोरंजन' शब्द का संधि-विच्छेद होगा",
       "options": [
@@ -311,11 +310,11 @@
       "answer_letter": "A",
       "answer_text": "मनः + रंजन",
       "explanation": "विसर्ग संधि के नियमानुसार यदि विसर्ग (:) से पूर्व 'अ' हो तथा बाद में किसी वर्ग का 3/4/5 वर्ण या य, र, ल, व, ह हो, तो विसर्ग 'ओ' में परिवर्तित हो जाता है (मनः + रंजन = मनोरंजन)।💡 Setter's",
-      "tip": "'ओ' की मात्रा वाले तत्सम शब्दों (मनोरंजन, यशोदा, तपोवन, मनोहर) का विच्छेद प्रायः विसर्ग (मनः+, यशः+, तपः+) से होता है।"
+      "tip": "'ओ' की मात्रा वाले तत्सम शब्दों (मनोरंजन, यशोदा, तपोवन, मनोहर) का विच्छेद प्रायः विसर्ग (मनः+, यशः+, तपः+) से होता है।",
+      "id": 17
     },
     {
-      "id": 18,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "विराम चिह्न ';' को क्या कहते हैं?",
       "hi": "विराम चिह्न ';' को क्या कहते हैं?",
       "options": [
@@ -329,11 +328,11 @@
       "answer_letter": "B",
       "answer_text": "अर्ध-विराम",
       "explanation": "चिह्न ';' को 'अर्ध-विराम' (Semicolon) कहा जाता है। अल्प-विराम ',' तथा योजक-चिह्न '-' होता है।💡 Setter's",
-      "tip": "विराम चिह्न याद रखें: अल्पविराम = , (सबसे कम ठहराव); अर्धविराम = ; (अल्पविराम से अधिक ठहराव); पूर्णविराम = । (पूर्ण ठहराव)।"
+      "tip": "विराम चिह्न याद रखें: अल्पविराम = , (सबसे कम ठहराव); अर्धविराम = ; (अल्पविराम से अधिक ठहराव); पूर्णविराम = । (पूर्ण ठहराव)।",
+      "id": 18
     },
     {
-      "id": 19,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "हिन्दी शब्दकोश में, निम्नलिखित में से कौन-सा शब्द सबसे पहले आता है?",
       "hi": "हिन्दी शब्दकोश में, निम्नलिखित में से कौन-सा शब्द सबसे पहले आता है?",
       "options": [
@@ -347,11 +346,11 @@
       "answer_letter": "A",
       "answer_text": "शिष्टाचार",
       "explanation": "वर्णक्रम में 'श' के बाद स्वर 'इ' (शि) आता है, जबकि 'श्लाघा' (श्+ल) और 'श्रेय' (श्+र) में संयुक्त व्यंजन हैं जो स्वरों के बाद आते हैं।💡 Setter's",
-      "tip": "शब्दकोश नियम: स्वर-युक्त वर्ण (अ, आ, इ, ई आदि) संयुक्त वर्णों (क्+, च्+, श्+) से पहले आते हैं।"
+      "tip": "शब्दकोश नियम: स्वर-युक्त वर्ण (अ, आ, इ, ई आदि) संयुक्त वर्णों (क्+, च्+, श्+) से पहले आते हैं।",
+      "id": 19
     },
     {
-      "id": 20,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "'व्यास' शब्द का विलोम है",
       "hi": "'व्यास' शब्द का विलोम है",
       "options": [
@@ -365,11 +364,11 @@
       "answer_letter": "A",
       "answer_text": "समास",
       "explanation": "'व्यास' का शाब्दिक अर्थ विस्तार या फैलाना होता है, जिसका सटीक विलोम 'समास' (संक्षेप या संक्षिप्तीकरण) होता है।💡 Setter's",
-      "tip": "शैलीगत विलोम युग्म याद रखें: 'व्यास शैली' (विस्तृत व्याख्या) का विलोम सदैव 'समास शैली' (संक्षिप्त रूप) होता है।"
+      "tip": "शैलीगत विलोम युग्म याद रखें: 'व्यास शैली' (विस्तृत व्याख्या) का विलोम सदैव 'समास शैली' (संक्षिप्त रूप) होता है।",
+      "id": 20
     },
     {
-      "id": 21,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "हिन्दी में प्रचलित विदेशी भाषा और उसके शब्द का कौन-सा युग्म सही नहीं है?",
       "hi": "हिन्दी में प्रचलित विदेशी भाषा और उसके शब्द का कौन-सा युग्म सही नहीं है?",
       "options": [
@@ -383,11 +382,11 @@
       "answer_letter": "B",
       "answer_text": "तुर्की - अमरूद",
       "explanation": "'अमरूद' फ़ारसी भाषा का शब्द है, तुर्की का नहीं। अतः युग्म (B) गलत है। 'अदब' अरबी और 'आज़ादी' फ़ारसी शब्द हैं।💡 Setter's",
-      "tip": "तुर्की के प्रसिद्ध शब्द हैं: तोप, बंदूक, कैंची, चाकू, बेगम, कुली, तलाश; फल-संबंधी शब्द जैसे अमरूद, अनार, बादाम फ़ारसी हैं।"
+      "tip": "तुर्की के प्रसिद्ध शब्द हैं: तोप, बंदूक, कैंची, चाकू, बेगम, कुली, तलाश; फल-संबंधी शब्द जैसे अमरूद, अनार, बादाम फ़ारसी हैं।",
+      "id": 21
     },
     {
-      "id": 22,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "'मगही' किस उपभाषा की बोली है?",
       "hi": "'मगही' किस उपभाषा की बोली है?",
       "options": [
@@ -401,11 +400,11 @@
       "answer_letter": "A",
       "answer_text": "बिहारी",
       "explanation": "मगही, भोजपुरी और मैथिली तीनों बोलियाँ 'बिहारी हिन्दी' उपभाषा वर्ग (मागधी अपभ्रंश से विकसित) के अंतर्गत आती हैं।💡 Setter's",
-      "tip": "बिहारी हिन्दी की त्रिमूर्ति याद रखें = MMB (मगही, मैथिली, भोजपुरी); पूर्वी हिन्दी = ABC (अवधी, बघेली, छत्तीसगढ़ी)।"
+      "tip": "बिहारी हिन्दी की त्रिमूर्ति याद रखें = MMB (मगही, मैथिली, भोजपुरी); पूर्वी हिन्दी = ABC (अवधी, बघेली, छत्तीसगढ़ी)।",
+      "id": 22
     },
     {
-      "id": 23,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "\"पाठक के भावबोध को सरल और सुबोध बनाने के लिए ______ का प्रयोग होता है।\"",
       "hi": "\"पाठक के भावबोध को सरल और सुबोध बनाने के लिए ______ का प्रयोग होता है।\"",
       "options": [
@@ -419,11 +418,11 @@
       "answer_letter": "C",
       "answer_text": "विराम चिह्नों",
       "explanation": "वाक्य में विचारों के ठहराव, उतार-चढ़ाव और अर्थ की स्पष्टता बनाए रखने के लिए विराम चिह्नों का प्रयोग आवश्यक होता है।💡 Setter's",
-      "tip": "व्याकरणिक परिभाषा: 'भावबोध को स्पष्ट व सुबोध करने वाले सभी चिह्नों की सामूहिक संज्ञा 'विराम चिह्न' है।"
+      "tip": "व्याकरणिक परिभाषा: 'भावबोध को स्पष्ट व सुबोध करने वाले सभी चिह्नों की सामूहिक संज्ञा 'विराम चिह्न' है।",
+      "id": 23
     },
     {
-      "id": 24,
-      "source": "TRE 1 (Advt 21/2023)",
+      "source": "BPSC TRE 1.0",
       "en": "कौन-सा विकल्प विराम चिह्न का भेद नहीं है?",
       "hi": "कौन-सा विकल्प विराम चिह्न का भेद नहीं है?",
       "options": [
@@ -437,11 +436,11 @@
       "answer_letter": "D",
       "answer_text": "उपर्युक्त में से एक से अधिक",
       "explanation": "प्रामाणिक हिन्दी व्याकरण में 'मध्य-विराम' और 'अंत्य-विराम' नाम से कोई विराम चिह्न नहीं होता। चूंकि दो विकल्प अमानक हैं, अतः (D) सही है।💡 Setter's",
-      "tip": "BPSC में जब दो विकल्प गलत या असत्य पाए जाएँ, तो 'उपर्युक्त में से एक से अधिक' (Option D) सही उत्तर बनता है।"
+      "tip": "BPSC में जब दो विकल्प गलत या असत्य पाए जाएँ, तो 'उपर्युक्त में से एक से अधिक' (Option D) सही उत्तर बनता है।",
+      "id": 24
     },
     {
-      "id": 25,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "'भाषा' शब्द संस्कृत की किस धातु से बना है?",
       "hi": "'भाषा' शब्द संस्कृत की किस धातु से बना है?",
       "options": [
@@ -455,11 +454,11 @@
       "answer_letter": "C",
       "answer_text": "भाष से",
       "explanation": "'भाषा' शब्द संस्कृत की 'भाष्' (भाष) धातु में 'टाप्' (आ) प्रत्यय लगने से बना है, जिसका अर्थ है 'व्यक्त वाणी' या बोलना।💡 Setter's",
-      "tip": "संस्कृत मूल धातु में मूर्धन्य 'ष' हलंतयुक्त होता है; 'श' या 'भाष्य' वाले विकल्पों को सीधे खारिज करें।"
+      "tip": "संस्कृत मूल धातु में मूर्धन्य 'ष' हलंतयुक्त होता है; 'श' या 'भाष्य' वाले विकल्पों को सीधे खारिज करें।",
+      "id": 25
     },
     {
-      "id": 26,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "कौन-सी बोली 'मध्य पहाड़ी हिन्दी' उपभाषा के अंतर्गत आती है?",
       "hi": "कौन-सी बोली 'मध्य पहाड़ी हिन्दी' उपभाषा के अंतर्गत आती है?",
       "options": [
@@ -473,11 +472,11 @@
       "answer_letter": "C",
       "answer_text": "गढ़वाली",
       "explanation": "पहाड़ी उपभाषा वर्ग में मध्य पहाड़ी के अंतर्गत गढ़वाली और कुमाऊँनी बोलियाँ आती हैं। नेपाली पूर्वी पहाड़ी के अंतर्गत आती है।💡 Setter's",
-      "tip": "पहाड़ी हिन्दी वर्गीकरण: पश्चिमी पहाड़ी (हिमाचली), मध्य पहाड़ी (गढ़वाली + कुमाऊँनी), पूर्वी पहाड़ी (नेपाली)।"
+      "tip": "पहाड़ी हिन्दी वर्गीकरण: पश्चिमी पहाड़ी (हिमाचली), मध्य पहाड़ी (गढ़वाली + कुमाऊँनी), पूर्वी पहाड़ी (नेपाली)।",
+      "id": 26
     },
     {
-      "id": 27,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "'कन्नौजी' किस उपभाषा की बोली है?",
       "hi": "'कन्नौजी' किस उपभाषा की बोली है?",
       "options": [
@@ -491,11 +490,11 @@
       "answer_letter": "B",
       "answer_text": "पश्चिमी हिन्दी",
       "explanation": "शौरसेनी अपभ्रंश से विकसित पश्चिमी हिन्दी की पाँच प्रमुख बोलियाँ हैं: खड़ी बोली, ब्रजभाषा, हरियाणवी, बुंदेली और कन्नौजी।💡 Setter's",
-      "tip": "पश्चिमी हिन्दी ट्रिक: 'काबू बरखा' -> का (कन्नौजी), बु (बुंदेली), ब (ब्रज), र (रांगड़ी/हरियाणवी), खा (खड़ी बोली)।"
+      "tip": "पश्चिमी हिन्दी ट्रिक: 'काबू बरखा' -> का (कन्नौजी), बु (बुंदेली), ब (ब्रज), र (रांगड़ी/हरियाणवी), खा (खड़ी बोली)।",
+      "id": 27
     },
     {
-      "id": 28,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "राजस्थानी उपभाषांतर्गत कितनी बोलियाँ आती हैं?",
       "hi": "राजस्थानी उपभाषांतर्गत कितनी बोलियाँ आती हैं?",
       "options": [
@@ -509,11 +508,11 @@
       "answer_letter": "C",
       "answer_text": "चार",
       "explanation": "राजस्थानी उपभाषा के अंतर्गत चार प्रमुख बोलियाँ मानी जाती हैं: मारवाड़ी (पश्चिमी), जयपुरी/ढूँढाड़ी (पूर्वी), मेवाती (उत्तरी), और मालवी (दक्षिणी)।💡 Setter's",
-      "tip": "राजस्थानी के चार दिशा-कोण: उत्तर=मेवाती, दक्षिण=मालवी, पूर्व=जयपुरी, पश्चिम=मारवाड़ी।"
+      "tip": "राजस्थानी के चार दिशा-कोण: उत्तर=मेवाती, दक्षिण=मालवी, पूर्व=जयपुरी, पश्चिम=मारवाड़ी।",
+      "id": 28
     },
     {
-      "id": 29,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "खड़ी बोली को 'Artificial Dialect' (कृत्रिम बोली) किसने कहा है?",
       "hi": "खड़ी बोली को 'Artificial Dialect' (कृत्रिम बोली) किसने कहा है?",
       "options": [
@@ -527,11 +526,11 @@
       "answer_letter": "A",
       "answer_text": "जॉर्ज अब्राहम ग्रियर्सन",
       "explanation": "डॉ. जॉर्ज अब्राहम ग्रियर्सन ने अपने भाषा सर्वेक्षण 'Linguistic Survey of India' में खड़ी बोली के साहित्यिक गद्य रूप को कृत्रिम बोली (Artificial Dialect) कहा था।💡 Setter's",
-      "tip": "अंग्रेजी शब्दावली युक्त भाषावैज्ञानिक टिप्पणियों में ग्रियर्सन और गिलक्राइस्ट प्रमुख हैं; 'Artificial Dialect' ग्रियर्सन का कथन है।"
+      "tip": "अंग्रेजी शब्दावली युक्त भाषावैज्ञानिक टिप्पणियों में ग्रियर्सन और गिलक्राइस्ट प्रमुख हैं; 'Artificial Dialect' ग्रियर्सन का कथन है।",
+      "id": 29
     },
     {
-      "id": 30,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "निम्नलिखित में से कौन-सा शुद्ध शब्द है?",
       "hi": "निम्नलिखित में से कौन-सा शुद्ध शब्द है?",
       "options": [
@@ -545,11 +544,11 @@
       "answer_letter": "A",
       "answer_text": "अंत्याक्षरी",
       "explanation": "संधि नियमानुसार 'अंत्य + अक्षरी' के मेल से शुद्ध वर्तनी 'अंत्याक्षरी' बनती है। बोलचाल में प्रयुक्त 'अंताक्षरी' अशुद्ध रूप है।💡 Setter's",
-      "tip": "शुद्ध वर्तनी परीक्षण में मूल संधि को पहचानें: अंत्य (अंतिम वर्ण) + अक्षरी = अंत्याक्षरी।"
+      "tip": "शुद्ध वर्तनी परीक्षण में मूल संधि को पहचानें: अंत्य (अंतिम वर्ण) + अक्षरी = अंत्याक्षरी।",
+      "id": 30
     },
     {
-      "id": 31,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "'नवोढ़ा' का संधि-विच्छेद है",
       "hi": "'नवोढ़ा' का संधि-विच्छेद है",
       "options": [
@@ -563,11 +562,11 @@
       "answer_letter": "E",
       "answer_text": "उपर्युक्त में से कोई नहीं",
       "explanation": "'नवोढ़ा' का वास्तविक गुण संधि विच्छेद 'नव + ऊढ़ा' (दीर्घ ऊ) होता है। मूल प्रश्न पत्र में सही वर्तनी वाला विकल्प न होने के कारण आधिकारिक उत्तर (E) मान्य हुआ।💡 Setter's",
-      "tip": "ध्यान दें: ऊढ़ा में 'ऊ' दीर्घ होता है। यदि विकल्प में 'उढ़ा' (ह्रस्व उ) दिया गया हो, तो वह अमान्य होकर (E) बनता है।"
+      "tip": "ध्यान दें: ऊढ़ा में 'ऊ' दीर्घ होता है। यदि विकल्प में 'उढ़ा' (ह्रस्व उ) दिया गया हो, तो वह अमान्य होकर (E) बनता है।",
+      "id": 31
     },
     {
-      "id": 32,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "'पारितोषिक' किस शब्द का पर्यायवाची है?",
       "hi": "'पारितोषिक' किस शब्द का पर्यायवाची है?",
       "options": [
@@ -581,11 +580,11 @@
       "answer_letter": "A",
       "answer_text": "इनाम",
       "explanation": "'पारितोषिक' का अर्थ किसी उत्कृष्ट कार्य या प्रतियोगिता में प्राप्त पुरस्कार, पारितोष या इनाम होता है।💡 Setter's",
-      "tip": "शब्द निर्माण: परितोष (संतुष्टि/आनंद) + इक = पारितोषिक (प्रसन्नतापूर्वक दिया जाने वाला पुरस्कार/इनाम)।"
+      "tip": "शब्द निर्माण: परितोष (संतुष्टि/आनंद) + इक = पारितोषिक (प्रसन्नतापूर्वक दिया जाने वाला पुरस्कार/इनाम)।",
+      "id": 32
     },
     {
-      "id": 33,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "भारत की प्राचीन भारतीय आर्यभाषा है",
       "hi": "भारत की प्राचीन भारतीय आर्यभाषा है",
       "options": [
@@ -599,11 +598,11 @@
       "answer_letter": "A",
       "answer_text": "संस्कृत",
       "explanation": "प्राचीन भारतीय आर्यभाषा काल (1500 ई.पू. से 500 ई.पू.) में वैदिक संस्कृत और लौकिक संस्कृत प्रचलित थी। तमिल द्रविड़ परिवार की भाषा है।💡 Setter's",
-      "tip": "आर्यभाषा कालक्रम: प्राचीन = संस्कृत; मध्यकालीन = पालि, प्राकृत, अपभ्रंश; आधुनिक = हिन्दी व आधुनिक आर्यभाषाएँ।"
+      "tip": "आर्यभाषा कालक्रम: प्राचीन = संस्कृत; मध्यकालीन = पालि, प्राकृत, अपभ्रंश; आधुनिक = हिन्दी व आधुनिक आर्यभाषाएँ।",
+      "id": 33
     },
     {
-      "id": 34,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "\"रोहित अमेरिका में नौकरी करना चाहता है।\" वाक्य में प्रयुक्त क्रिया का स्वरूप है",
       "hi": "\"रोहित अमेरिका में नौकरी करना चाहता है।\" वाक्य में प्रयुक्त क्रिया का स्वरूप है",
       "options": [
@@ -617,11 +616,11 @@
       "answer_letter": "A",
       "answer_text": "इच्छाबोधक क्रिया",
       "explanation": "जिस संयुक्त क्रिया में मुख्य क्रिया के साथ 'चाहना' क्रिया जुड़कर कर्ता की इच्छा या आकांक्षा को व्यक्त करे, उसे 'इच्छाबोधक संयुक्त क्रिया' कहते हैं।💡 Setter's",
-      "tip": "पहचान: मुख्य क्रिया + 'चाहना' (करना चाहता है, पढ़ना चाहता है) = सदैव इच्छाबोधक क्रिया।"
+      "tip": "पहचान: मुख्य क्रिया + 'चाहना' (करना चाहता है, पढ़ना चाहता है) = सदैव इच्छाबोधक क्रिया।",
+      "id": 34
     },
     {
-      "id": 35,
-      "source": "TRE 2 (Advt 22/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "संविधान सभा द्वारा हिन्दी को भारत की राजभाषा के रूप में कब स्वीकार किया गया?",
       "hi": "संविधान सभा द्वारा हिन्दी को भारत की राजभाषा के रूप में कब स्वीकार किया गया?",
       "options": [
@@ -635,11 +634,11 @@
       "answer_letter": "C",
       "answer_text": "14 सितम्बर, 1949",
       "explanation": "संविधान सभा ने 14 सितम्बर 1949 को भारतीय संविधान के अनुच्छेद 343(1) के अंतर्गत हिन्दी को संघ की राजभाषा और देवनागरी को लिपि घोषित किया।💡 Setter's",
-      "tip": "14 सितम्बर को ही पूरे भारत में 'हिन्दी दिवस' मनाया जाता है; 26 नवम्बर = संविधान अंगीकार दिवस; 26 जनवरी = लागू दिवस।"
+      "tip": "14 सितम्बर को ही पूरे भारत में 'हिन्दी दिवस' मनाया जाता है; 26 नवम्बर = संविधान अंगीकार दिवस; 26 जनवरी = लागू दिवस।",
+      "id": 35
     },
     {
-      "id": 36,
-      "source": "TRE 2 (Advt 24/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "जिन शब्दों पर लिंग, वचन, कारक का कोई प्रभाव न पड़े, वे कहलाते हैं",
       "hi": "जिन शब्दों पर लिंग, वचन, कारक का कोई प्रभाव न पड़े, वे कहलाते हैं",
       "options": [
@@ -653,11 +652,11 @@
       "answer_letter": "C",
       "answer_text": "अविकारी",
       "explanation": "जिन शब्दों के मूल रूप में लिंग, वचन, कारक या काल के कारण कोई विकार (परिवर्तन) नहीं होता, उन्हें 'अविकारी शब्द' या 'अव्यय' कहा जाता है।💡 Setter's",
-      "tip": "विकारी = संज्ञा, सर्वनाम, विशेषण, क्रिया (बदलते हैं); अविकारी/अव्यय = क्रियाविशेषण, समुच्चयबोधक, संबंधबोधक, विस्मयादिबोधक (स्थिर रहते हैं)।"
+      "tip": "विकारी = संज्ञा, सर्वनाम, विशेषण, क्रिया (बदलते हैं); अविकारी/अव्यय = क्रियाविशेषण, समुच्चयबोधक, संबंधबोधक, विस्मयादिबोधक (स्थिर रहते हैं)।",
+      "id": 36
     },
     {
-      "id": 37,
-      "source": "TRE 2 (Advt 24/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "\"जसोदा हरि पालनै झुलावै। हलरावै दुलराइ मल्हावैं, जोइ-सोइ कछु गावैं॥\" उक्त काव्य-पंक्तियों में कौन-सा रस है?",
       "hi": "\"जसोदा हरि पालनै झुलावै। हलरावै दुलराइ मल्हावैं, जोइ-सोइ कछु गावैं॥\" उक्त काव्य-पंक्तियों में कौन-सा रस है?",
       "options": [
@@ -671,11 +670,11 @@
       "answer_letter": "C",
       "answer_text": "वात्सल्य",
       "explanation": "सूरदास रचित इन पंक्तियों में माता यशोदा का बाल कृष्ण के प्रति मातृ-स्नेह व ममत्व अभिव्यक्त हुआ है, जिसका स्थायी भाव 'वत्सलता' है।💡 Setter's",
-      "tip": "शिशु की क्रीड़ा, पालना झुलाना, लोरी गाना या माँ-बेटे का स्नेह दृश्य सीधे 'वात्सल्य रस' को इंगित करता है।"
+      "tip": "शिशु की क्रीड़ा, पालना झुलाना, लोरी गाना या माँ-बेटे का स्नेह दृश्य सीधे 'वात्सल्य रस' को इंगित करता है।",
+      "id": 37
     },
     {
-      "id": 38,
-      "source": "TRE 2 (Advt 23/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "निम्नलिखित में से कौन-सा 'प्रत्यय-रहित' शब्द है?",
       "hi": "निम्नलिखित में से कौन-सा 'प्रत्यय-रहित' शब्द है?",
       "options": [
@@ -689,11 +688,11 @@
       "answer_letter": "B",
       "answer_text": "भावविह्वल",
       "explanation": "'झुकाव' में 'आव' प्रत्यय है; 'उल्लेखनीय' में 'अनीय' प्रत्यय है; 'भावविह्वल' दो स्वतंत्र शब्दों (भाव + विह्वल) का सामासिक पद है, इसमें कोई प्रत्यय नहीं है।💡 Setter's",
-      "tip": "शब्द विग्रह करें: यदि दोनों खंड स्वतंत्र सार्थक शब्द हैं और अंत में कोई शब्दांश नहीं है, तो वह यौगिक/सामासिक पद है, प्रत्यय-युक्त नहीं।"
+      "tip": "शब्द विग्रह करें: यदि दोनों खंड स्वतंत्र सार्थक शब्द हैं और अंत में कोई शब्दांश नहीं है, तो वह यौगिक/सामासिक पद है, प्रत्यय-युक्त नहीं।",
+      "id": 38
     },
     {
-      "id": 39,
-      "source": "TRE 2 (Advt 23/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "'अल्पप्राण' ध्वनि कौन-सी है?",
       "hi": "'अल्पप्राण' ध्वनि कौन-सी है?",
       "options": [
@@ -707,11 +706,11 @@
       "answer_letter": "B",
       "answer_text": "च",
       "explanation": "प्रत्येक स्पर्श व्यंजन वर्ग का 1ला, 3रा और 5वाँ वर्ण 'अल्पप्राण' होता है। 'च' च-वर्ग का प्रथम वर्ण है, जबकि 'ख' व 'छ' द्वितीय वर्ण (महाप्राण) हैं।💡 Setter's",
-      "tip": "ध्वनि सूत्र: अल्पप्राण = विषम वर्ण (1, 3, 5) + अंतःस्थ (य, र, ल, व); महाप्राण = सम वर्ण (2, 4) + ऊष्म (श, ष, स, ह)।"
+      "tip": "ध्वनि सूत्र: अल्पप्राण = विषम वर्ण (1, 3, 5) + अंतःस्थ (य, र, ल, व); महाप्राण = सम वर्ण (2, 4) + ऊष्म (श, ष, स, ह)।",
+      "id": 39
     },
     {
-      "id": 40,
-      "source": "TRE 2 (Advt 23/2023)",
+      "source": "BPSC TRE 2.0",
       "en": "\"उदित उदयगिरि मंच पर रघुवर बाल पतंग। बिकसे संत सरोज सब हरषे लोचन भृंग॥\" उपर्युक्त दोहे में कौन-सा अलंकार है?",
       "hi": "\"उदित उदयगिरि मंच पर रघुवर बाल पतंग। बिकसे संत सरोज सब हरषे लोचन भृंग॥\" उपर्युक्त दोहे में कौन-सा अलंकार है?",
       "options": [
@@ -719,13 +718,14 @@
         "उपमा",
         "उत्प्रेक्षा",
         "उपर्युक्त में से एक से अधिक",
-        "उपर्युक्त में से कोई नहीं"
+        "उपर्युक्त में से कोई नहीं\nMASTER ANSWER KEY & QUESTION MAPPING\nQuick-reference matrix of all 40 questions with source mapping and official answer keys:\nEXAM SETTER'S STRATEGIC DECODING FOR BPSC TRE 4.0\n• The 'Option"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "रूपक",
       "explanation": "यहाँ मंच पर उदयगिरि का, रघुवर पर बाल सूर्य का, संतों पर सरोज (कमल) का तथा लोचनों पर भृंग (भ्रमर) का अभेद आरोप किया गया है, अतः रूपक अलंकार है।💡 Setter's",
-      "tip": "जहाँ उपमेय और उपमान के बीच कोई वाचक शब्द (सा, सी, सरिस, सम, जनु, मनु) न हो और दोनों को एक मान लिया जाए, वहाँ 'रूपक' होता है।\nMASTER ANSWER KEY & QUESTION MAPPING\nQuick-reference matrix of all 40 questions with source mapping and official answer keys:\nQ. No.\nExam Origin\nTopic / Concept\nAnswer Key"
+      "tip": "जहाँ उपमेय और उपमान के बीच कोई वाचक शब्द (सा, सी, सरिस, सम, जनु, मनु) न हो और दोनों को एक मान लिया जाए, वहाँ 'रूपक' होता है।\nQ. No.\nExam Origin\nTopic / Concept\nAnswer Key",
+      "id": 40
     }
   ]
 }

@@ -1,0 +1,713 @@
+{
+  "id": "bpsc-tre4-general-studies-set10",
+  "title": "General Studies Practice Set 10 (39Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 39,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The marked price of an article is ₹800. A shopkeeper allows two successive discounts of 20% and 10%. What is the net selling price of the article?",
+      "hi": "किसी वस्तु का अंकित मूल्य ₹800 है। एक दुकानदार 20% और 10% की दो क्रमिक छूट देता है। वस्तु का शुद्ध विक्रय मूल्य क्या है?",
+      "options": [
+        "₹560",
+        "₹576",
+        "₹600",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹576Detailed",
+      "explanation": "Net multiplier = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72. Selling Price = 800 * 0.72 = ₹576. (Single equivalent discount = 20 + 10 - (20*10)/100 = 28%).💡 Exam Setter's Tips & Quick Tricks: SP = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the area of an equilateral triangle each of whose sides measures 12 cm?",
+      "hi": "एक समबाहु त्रिभुज का क्षेत्रफल क्या होगा जिसकी प्रत्येक भुजा 12 सेमी है?",
+      "options": [
+        "24√3 sq cm",
+        "36√3 sq cm",
+        "48√3 sq cm",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "36√3 sq cmDetailed",
+      "explanation": "Area of equilateral triangle = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 sq cm.💡 Exam Setter's Tips & Quick Tricks: Area = (√3 / 4) * 144 = 36√3 cm².",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "If a : b = 3 : 4 and b : c = 8 : 9, what is the compound ratio a : c?",
+      "hi": "यदि a : b = 3 : 4 और b : c = 8 : 9 है, तो a : c का मान क्या होगा?",
+      "options": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 4",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2 : 3Detailed",
+      "explanation": "a/c = (a/b) * (b/c) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3. Therefore, a : c = 2 : 3.💡 Exam Setter's Tips & Quick Tricks: a/c = (3/4) * (8/9) = 2/3 => 2 : 3.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The arithmetic mean of 5 observations is 15. If each observation is multiplied by 3, what will be the new arithmetic mean?",
+      "hi": "5 प्रेक्षणों का समांतर माध्य 15 है। यदि प्रत्येक प्रेक्षण को 3 से गुणा कर दिया जाए, तो नया समांतर माध्य क्या होगा?",
+      "options": [
+        "15",
+        "45",
+        "75",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "45Detailed",
+      "explanation": "If every observation in a statistical distribution is multiplied by a constant 'k', the new mean is also multiplied by 'k'. New mean = 15 * 3 = 45.💡 Exam Setter's Tips & Quick Tricks: Property of Mean: If all observations are multiplied by k, New Mean = Old Mean * k = 15 * 3 = 45.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In a certain code, 'ORANGE' is written as 'PQBOFH'. How is 'GRAPES' written in that code language?",
+      "hi": "एक निश्चित कूट भाषा में 'ORANGE' को 'PQBOFH' लिखा जाता है। उसी कूट भाषा में 'GRAPES' को कैसे लिखा जाएगा?",
+      "options": [
+        "HSBQFT",
+        "HSCQFT",
+        "HSBQFS",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "HSBQFTDetailed",
+      "explanation": "Each letter is shifted by +1: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (wait: G->H, E->F). Applying +1 to GRAPES: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT.💡 Exam Setter's Tips & Quick Tricks: Pattern: +1 to each letter. G->H, R->S, A->B, P->Q, E->F, S->T.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A person facing West turns 45° in the clockwise direction, then 180° in the same direction, and then 270° in the anti-clockwise direction. Which direction is he facing now?",
+      "hi": "एक व्यक्ति का मुख पश्चिम की ओर है। वह घड़ी की दिशा में 45°, फिर उसी दिशा में 180° और फिर घड़ी की विपरीत दिशा में 270° मुड़ता है। अब उसका मुख किस दिशा में है?",
+      "options": [
+        "South-East",
+        "South-West",
+        "North-West",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "South-WestDetailed",
+      "explanation": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from West leads to South-West.💡 Exam Setter's Tips & Quick Tricks: Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from West is South-West.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "If South-East becomes North, and North-East becomes West, and so on, what will West become?",
+      "hi": "यदि दक्षिण-पूर्व उत्तर हो जाए, और उत्तर-पूर्व पश्चिम हो जाए, और इसी प्रकार क्रम जारी रहे, तो पश्चिम क्या बन जाएगा?",
+      "options": [
+        "South-West",
+        "South-East",
+        "North-East",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "South-EastDetailed",
+      "explanation": "South-East (135°) becomes North (0°/360°), which is an anti-clockwise rotation of 135°. Rotating West (270°) by 135° anti-clockwise: 270° - 135° = 135° = South-East.💡 Exam Setter's Tips & Quick Tricks: Rotation = 135° anti-clockwise. West rotated 135° ACW becomes South-East.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Statements: No bird is a mammal. All bats are mammals.Conclusions: I. No bat is a bird. II. No bird is a bat.",
+      "hi": "कथन: कोई पक्षी स्तनधारी नहीं है। सभी चमगादड़ स्तनधारी हैं।निष्कर्ष: I. कोई चमगादड़ पक्षी नहीं है। II. कोई पक्षी चमगादड़ नहीं है।",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Both conclusions I and II followDetailed",
+      "explanation": "Since the set of Bats is entirely contained within Mammals (Bats ⊂ Mammals), and Mammals are completely disjoint from Birds (Mammals ∩ Birds = ∅), it follows that Bats ∩ Birds = ∅. Thus, neither can any bat be a bird nor any bird be a bat.💡 Exam Setter's Tips & Quick Tricks: Complete separation between Birds and Mammals implies both I and II definitely hold.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Newton's First Law of Motion, which asserts that an object continues in its state of rest or uniform motion unless acted upon by an external unbalanced force, is also famously known as",
+      "hi": "न्यूटन का गति का प्रथम नियम, जो यह प्रतिपादित करता है कि कोई वस्तु अपनी विरामावस्था या सरल रेखा में एकसमान गति की अवस्था में बनी रहती है जब तक कि उस पर कोई बाह्य असंतुलित बल न लगे, कहलाता है",
+      "options": [
+        "Law of Conservation of Momentum",
+        "Law of Inertia (जड़त्व का नियम)",
+        "Law of Gravitation",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Law of Inertia (जड़त्व का नियम)Detailed",
+      "explanation": "First formulated conceptually by Galileo Galilei and formalized by Isaac Newton, the first law describes the inherent property of matter called inertia—the resistance of any physical object to any change in its velocity.💡 Exam Setter's Tips & Quick Tricks: Newton's 1st Law = Law of Inertia; Defines force qualitatively.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "At which location on the Earth's surface is the acceleration due to gravity (g) at its maximum value?(",
+      "hi": "पृथ्वी की सतह पर किस स्थान पर गुरुत्वीय त्वरण (g) का मान अधिकतम होता है?)",
+      "options": [
+        "At the Equator",
+        "At the Poles",
+        "At 45° latitude",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "At the PolesDetailed",
+      "explanation": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 km (g = GM/R^2). Furthermore, centrifugal force due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).💡 Exam Setter's Tips & Quick Tricks: Value of 'g': Maximum at Poles, Minimum at Equator, Zero at the Centre of the Earth.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the normal audible frequency range of sound waves for a healthy human ear?(",
+      "hi": "सामान्य स्वस्थ मानव कर्ण के लिए ध्वनि तरंगों की श्रव्य आवृत्ति परास (Audible frequency range) क्या होती है?)",
+      "options": [
+        "2 Hz to 200 Hz",
+        "20 Hz to 20,000 Hz (20 kHz)",
+        "200 Hz to 200,000 Hz",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "20 Hz to 20,000 Hz (20 kHz)Detailed",
+      "explanation": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed infrasonic (produced by earthquakes, elephants), and frequencies above 20 kHz are termed ultrasonic (utilized by bats, dolphins, and medical ultrasound).💡 Exam Setter's Tips & Quick Tricks: Audible range = 20 Hz – 20 kHz; Infrasonic < 20 Hz; Ultrasonic > 20 kHz.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In the Modern Periodic Table discovered by Henry Moseley in 1913, the physical and chemical properties of elements are periodic functions of their",
+      "hi": "1913 में हेनरी मोजले द्वारा विकसित आधुनिक आवर्त सारणी में तत्वों के भौतिक और रासायनिक गुणधर्म किसके आवर्ती फलन होते हैं?",
+      "options": [
+        "Atomic Mass",
+        "Atomic Number (परमाणु क्रमांक)",
+        "Mass Number",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Atomic Number (परमाणु क्रमांक)Detailed",
+      "explanation": "Moseley demonstrated that X-ray frequency (√ν) is linearly related to atomic number (Z). The Modern Periodic Law states that properties of elements are periodic functions of their atomic numbers (number of nuclear protons), resolving anomalies in Mendeleev's atomic mass arrangement.💡 Exam Setter's Tips & Quick Tricks: Mendeleev = Atomic Mass; Modern Periodic Table (Moseley) = Atomic Number (Z).",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which muscular structures inside the human eyeball adjust the focal length of the crystalline lens to focus clearly on near and distant objects?",
+      "hi": "मानव नेत्र के भीतर कौन-सी पेशीय संरचनाएं निकट और दूर की वस्तुओं पर स्पष्ट फोकस करने के लिए क्रिस्टलीय लेंस की फोकस दूरी को समायोजित करती हैं?",
+      "options": [
+        "Iris",
+        "Ciliary Muscles (पक्ष्माभी पेशियां)",
+        "Cornea",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ciliary Muscles (पक्ष्माभी पेशियां)Detailed",
+      "explanation": "Ciliary muscles contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.💡 Exam Setter's Tips & Quick Tricks: Power of accommodation = Ciliary muscles; Regulates pupil size and light entry = Iris.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Deficiency of iron (Fe) in human nutrition directly impairs the synthesis of which oxygen-carrying protein in red blood cells, resulting in anaemia?(",
+      "hi": "मानव आहार में आयरन (लोहा) की कमी से लाल रक्त कोशिकाओं में किस ऑक्सीजन-वाहक प्रोटीन का निर्माण बाधित होता है, जिसके परिणामस्वरूप रक्ताल्पता (एनीमिया) होता है?)",
+      "options": [
+        "Myoglobin",
+        "Hemoglobin",
+        "Albumin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "HemoglobinDetailed",
+      "explanation": "Hemoglobin is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.💡 Exam Setter's Tips & Quick Tricks: Iron deficiency = Hemoglobin reduction => Nutritional Anaemia.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which gaseous phytohormone naturally regulates the ripening of fleshy fruits in plants and is applied commercially in agriculture?",
+      "hi": "पौधों में कौन-सा गैसीय पादप हार्मोन प्राकृतिक रूप से फलों के पकने को नियंत्रित करता है?",
+      "options": [
+        "Auxin",
+        "Ethylene",
+        "Gibberellin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "EthyleneDetailed",
+      "explanation": "Ethylene (C2H4) is the only gaseous plant hormone. It stimulates climacteric fruit ripening, leaf abscission, and senescence. In artificial ripening, calcium carbide reacts with moisture to produce acetylene, an analogue of ethylene.💡 Exam Setter's Tips & Quick Tricks: Gaseous fruit-ripening hormone = Ethylene (C2H4); Plant growth promoter = Auxin / Gibberellin.",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the primary combustible chemical constituent present in Compressed Natural Gas (CNG) and Biogas?(",
+      "hi": "संपीड़ित प्राकृतिक गैस (CNG) और बायोगैस में उपस्थित मुख्य ज्वलनशील रासायनिक घटक क्या है?)",
+      "options": [
+        "Propane",
+        "Methane (CH4)",
+        "Butane",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Methane (CH4)Detailed",
+      "explanation": "Methane constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (LPG) consists primarily of butane and propane.💡 Exam Setter's Tips & Quick Tricks: CNG & Biogas = Methane (CH4); LPG = Butane + Propane.",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the patriotic bookseller in Patna who organized and led the armed 1857 insurrection in Patna city and was publicly hanged by British Commissioner William Tayler?",
+      "hi": "पटना नगर में 1857 के सशस्त्र विद्रोह का नेतृत्व करने वाले देशभक्त पुस्तक विक्रेता कौन थे जिन्हें ब्रिटिश कमिश्नर विलियम टेलर ने सार्वजनिक रूप से फांसी दी थी?",
+      "options": [
+        "Waris Ali",
+        "Pir Ali Khan",
+        "Lutf Ali Khan",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pir Ali KhanDetailed",
+      "explanation": "On 3 July 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 July 1857.💡 Exam Setter's Tips & Quick Tricks: 1857 Patna city rebellion leader = Pir Ali Khan (Hanged by Commissioner William Tayler).",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "During the Champaran Satyagraha in 1917, who saved Mahatma Gandhi's life by refusing an order from a British plantation manager to serve poisoned milk to him?",
+      "hi": "1917 के चंपारण सत्याग्रह के दौरान एक ब्रिटिश बगान प्रबंधक द्वारा दिए गए आदेश को नकारते हुए दूध में जहर देकर महात्मा गांधी की हत्या की साजिश को किसने विफल किया था?",
+      "options": [
+        "Raj Kumar Shukla",
+        "Batak Mian (बतक मियां)",
+        "Sant Raut",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Batak Mian (बतक मियां)Detailed",
+      "explanation": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted Dr. Rajendra Prasad and Gandhi, exposing the assassination plot.💡 Exam Setter's Tips & Quick Tricks: Saved Gandhi's life in Champaran (1917) = Batak Mian (Bettiah/Motihari).",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In Patna, the historic 'Sadaqat Ashram' was established during the Non-Cooperation Movement on a 16-bigha plot of land donated by which nationalist philanthropist?",
+      "hi": "असहयोग आंदोलन के दौरान पटना में ऐतिहासिक 'सदाकत आश्रम' की स्थापना 16 बीघे जमीन पर की गई थी, जिसे किस राष्ट्रवादी परोपकारी ने दान में दिया था?",
+      "options": [
+        "Maulana Mazharul Haque",
+        "Khairun Mian (मियां खैरुद्दीन)",
+        "Hasan Imam",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Khairun Mian (मियां खैरुद्दीन)Detailed",
+      "explanation": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the Ganga in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of Dr. Rajendra Prasad.💡 Exam Setter's Tips & Quick Tricks: Sadaqat Ashram founded by Mazharul Haque; Land donated by Khairun Mian.",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In February 1923, a provincial branch of the 'Swaraj Dal' was formed in Bihar under the leadership of which prominent national leader?",
+      "hi": "फरवरी 1923 में बिहार में 'स्वराज दल' की प्रांतीय शाखा का गठन किस प्रमुख नेता के नेतृत्व में किया गया था?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Sri Krishna Singh",
+        "Anugrah Narayan Sinha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sri Krishna SinghDetailed",
+      "explanation": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in February 1923 with Narayan Prasad as President and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.💡 Exam Setter's Tips & Quick Tricks: Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first Chief Minister of Bihar).",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who presided over the 53rd Annual Session of the Indian National Congress held at Ramgarh (in undivided Bihar) in March 1940?(",
+      "hi": "मार्च 1940 में रामगढ़ (अविभाजित बिहार) में आयोजित भारतीय राष्ट्रीय कांग्रेस के 53वें वार्षिक अधिवेशन की अध्यक्षता किसने की थी?)",
+      "options": [
+        "Jawaharlal Nehru",
+        "Maulana Abul Kalam Azad",
+        "Subhas Chandra Bose",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulana Abul Kalam AzadDetailed",
+      "explanation": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress President continuously from 1940 to 1946 during World War II.💡 Exam Setter's Tips & Quick Tricks: 1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (President continuously 1940-46).",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "On 11 August 1942, how many student martyrs were killed in police firing while attempting to hoist the national flag at the Patna Secretariat?",
+      "hi": "11 अगस्त 1942 को पटना सचिवालय पर तिरंगा फहराने के प्रयास में पुलिस गोलीबारी में कितने छात्र शहीद हुए थे?",
+      "options": [
+        "5 martyrs",
+        "7 martyrs (सात शहीद)",
+        "9 martyrs",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7 martyrs (सात शहीद)Detailed",
+      "explanation": "Seven young students (Devipat Choudhary, Umakant Prasad Sinha, Ramanand Singh, Satish Prasad Jha, Jagpati Kumar, Rajendra Singh, and Ramgovind Singh) were martyred when District Magistrate W. G. Archer ordered Gurkha military police to fire on them.💡 Exam Setter's Tips & Quick Tricks: 'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 August 1942 (DM W.G. Archer).",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under the Permanent Settlement of 1793 in Bengal and Bihar, the draconian legal provision that led to the forfeiture and auction of zamindari estates if dues were not paid by sunset on a fixed date was known as",
+      "hi": "1793 के स्थायी बंदोबस्त के तहत वह कठोर कानूनी प्रावधान क्या कहलाता था जिसके तहत निश्चित तिथि को सूर्यास्त तक लगान जमा न करने पर जमींदारी नीलाम कर दी जाती थी?",
+      "options": [
+        "Ryotwari Rule",
+        "Sunset Law (सूर्यास्त कानून)",
+        "Mahalwari Code",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sunset Law (सूर्यास्त कानून)Detailed",
+      "explanation": "Under the Sunset Law of the Permanent Settlement, if a zamindar failed to remit the fixed government revenue before sunset on the appointed date, his zamindari estate was immediately confiscated and auctioned off to the highest bidder.💡 Exam Setter's Tips & Quick Tricks: Sunset Law = Associated with Lord Cornwallis's Permanent Settlement (1793).",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the first English traveler and merchant to visit Patna and write a detailed account of its commerce during the reign of Mughal Emperor Akbar?",
+      "hi": "मुगल बादशाह अकबर के शासनकाल में पटना का दौरा करने वाले और इसके व्यापार का विस्तृत विवरण लिखने वाले पहले अंग्रेज यात्री कौन थे?",
+      "options": [
+        "Thomas Roe",
+        "Ralph Fitch",
+        "Peter Mundy",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ralph FitchDetailed",
+      "explanation": "Ralph Fitch visited Patna in 1586 during Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the Ganga.💡 Exam Setter's Tips & Quick Tricks: First English traveler to visit Bihar/Patna = Ralph Fitch (1586, reign of Akbar).",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "At which historic confluence in Bihar does the River Gandak discharge into the River Ganga, celebrated for the annual Harihar Kshetra Sonepur fair?",
+      "hi": "बिहार के किस ऐतिहासिक संगम पर गंडक नदी गंगा में विसर्जित होती है, जो वार्षिक हरिहर क्षेत्र सोनपुर मेले के लिए प्रसिद्ध है?",
+      "options": [
+        "Maner",
+        "Sonpur (Hajipur)",
+        "Fatuha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sonpur (Hajipur)Detailed",
+      "explanation": "The Gandak merges into the left bank of the Ganga at Sonpur (Saran) opposite Hajipur (Vaishali), the site of the world-famous Harihar Kshetra Sonepur Mela, Asia's largest cattle fair held on Kartik Purnima.💡 Exam Setter's Tips & Quick Tricks: Gandak meets Ganga at Sonpur/Hajipur; Son meets Ganga at Maner/Danapur; Punpun meets Ganga at Fatuha.",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The fertile alluvial soil in the floodplains of North Bihar that is renewed every year by river inundation is known as",
+      "hi": "उत्तर बिहार के बाढ़ के मैदानों में प्रतिवर्ष नदियों द्वारा नवीनीकृत होने वाली उपजाऊ जलोढ़ मिट्टी क्या कहलाती है?",
+      "options": [
+        "Bangar Soil",
+        "Khadar Soil (नवीन जलोढ़)",
+        "Terai Soil",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Khadar Soil (नवीन जलोढ़)Detailed",
+      "explanation": "Khadar is new alluvium deposited annually by monsoon floodwaters in low-lying river plains (Gandak, Kosi, Bagmati), highly fertile and rich in fine silt. Bangar represents older alluvium situated in upland terraces above flood level.💡 Exam Setter's Tips & Quick Tricks: New flood alluvium = Khadar (highly fertile); Older upland alluvium = Bangar (contains kankar nodules).",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Bihar possesses over 95% of India's total reserves of which mineral ore, mined primarily at Amjhor in Rohtas district?",
+      "hi": "बिहार के पास किस खनिज अयस्क का भारत के कुल भंडार का 95% से अधिक हिस्सा है, जिसका खनन मुख्य रूप से रोहतास जिले के अमझोर में किया जाता है?",
+      "options": [
+        "Bauxite",
+        "Pyrite (आयरन पाइराइट्स)",
+        "Magnetite",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pyrite (आयरन पाइराइट्स)Detailed",
+      "explanation": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture sulfuric acid.💡 Exam Setter's Tips & Quick Tricks: Pyrite in Bihar = Amjhor (Rohtas) - 95% of India's reserves; Fools' Gold.",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In which district of Bihar was the 'Barauni Oil Refinery' established in 1964 with technical and financial collaboration of the Soviet Union (USSR) and Romania?(1964",
+      "hi": "में सोवियत संघ (USSR) और रोमानिया के तकनीकी व वित्तीय सहयोग से बिहार के किस जिले में 'बरौनी तेल शोधक कारखाना' स्थापित किया गया था?)",
+      "options": [
+        "Bhagalpur",
+        "Begusarai",
+        "Munger",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "BegusaraiDetailed",
+      "explanation": "Barauni Refinery of Indian Oil Corporation Limited (IOCL) is situated in Begusarai district, commissioned in 1964. It processes crude oil transported via pipeline from Naharkatiya in Assam.💡 Exam Setter's Tips & Quick Tricks: Barauni Oil Refinery = Begusarai (1964, built with USSR and Romanian collaboration).",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "According to the Census of 2011, which district of Bihar recorded the lowest female literacy rate in the State?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले में महिला साक्षरता दर सबसे कम दर्ज की गई?",
+      "options": [
+        "Purnia",
+        "Saharsa",
+        "Madhepura",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "SaharsaDetailed",
+      "explanation": "Saharsa recorded the lowest female literacy rate in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).💡 Exam Setter's Tips & Quick Tricks: Important Census Trap: Lowest overall literacy = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%).",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Guru Shikhar, with an elevation of 1,722 metres on Mount Abu, is the highest mountain peak of which ancient fold mountain range?",
+      "hi": "माउंट आबू पर 1,722 मीटर ऊँचाई वाला गुरु शिखर किस प्राचीन वलित पर्वत श्रृंखला की सबसे ऊँची चोटी है?",
+      "options": [
+        "Vindhyan Range",
+        "Aravalli Range",
+        "Satpura Range",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Aravalli RangeDetailed",
+      "explanation": "Guru Shikhar (1,722 m) in the Arbuda Mountains of Rajasthan is the highest peak of the Aravalli Range, one of the oldest residual fold mountain systems in the world.💡 Exam Setter's Tips & Quick Tricks: Aravalli highest peak = Guru Shikhar (1,722 m); Satpura highest peak = Dhupgarh (1,350 m).",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which river island formed by the Brahmaputra River in Assam is recognized as the world's largest inhabited river island?",
+      "hi": "असम में ब्रह्मपुत्र नदी द्वारा निर्मित कौन-सा नदी द्वीप विश्व का सबसे बड़ा आबाद नदी द्वीप माना जाता है?",
+      "options": [
+        "Umananda Island",
+        "Majuli Island",
+        "Bhavani Island",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Majuli IslandDetailed",
+      "explanation": "Majuli island, formed by the Brahmaputra River and its anabranch Kherkutia Xuti joined by the Subansiri River, is a designated district of Assam and the world's largest river island according to Guinness World Records.💡 Exam Setter's Tips & Quick Tricks: Largest river island = Majuli (Brahmaputra, Assam); Smallest inhabited river island = Umananda (Peacock Island, Guwahati).",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The Standard Meridian of India (82°30' E longitude) passes through which of the following cities near Prayagraj in Uttar Pradesh?(",
+      "hi": "भारत की मानक याम्योत्तर (82°30' पूर्वी देशांतर) उत्तर प्रदेश में प्रयागराज के निकट किस नगर से होकर गुजरती है?)",
+      "options": [
+        "Mirzapur",
+        "Varanasi",
+        "Kanpur",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "MirzapurDetailed",
+      "explanation": "Indian Standard Time (IST) is calculated based on 82°30' E longitude passing through Shankargarh fort / Mirzapur near Prayagraj. It passes through 5 States: UP, MP, Chhattisgarh, Odisha, and Andhra Pradesh, exactly 5 hours 30 minutes ahead of GMT.💡 Exam Setter's Tips & Quick Tricks: Standard Meridian = 82°30' E (Mirzapur); Passes through 5 States (UP, MP, CG, Odisha, AP); IST = GMT + 5:30.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who among the following presides over a joint sitting of both Houses of Parliament summoned by the President under Article 108?",
+      "hi": "अनुच्छेद 108 के तहत राष्ट्रपति द्वारा बुलाए गए संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता निम्नलिखित में से कौन करता है?",
+      "options": [
+        "President of India",
+        "Speaker of the Lok Sabha",
+        "Chairman of the Rajya Sabha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Speaker of the Lok SabhaDetailed",
+      "explanation": "Under Article 118(4), the Speaker of the Lok Sabha presides over a joint sitting. In his absence, the Deputy Speaker presides, and if both are absent, the Deputy Chairman of the Rajya Sabha presides. The Chairman of Rajya Sabha (Vice-President) never presides.💡 Exam Setter's Tips & Quick Tricks: Joint sitting: Summoned by President (Art. 108); Presided by Lok Sabha Speaker (Art. 118(4)).",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The concept of 'Fundamental Duties' was incorporated into Part IV-A (Article 51A) of the Indian Constitution on the recommendation of which committee?('",
+      "hi": "मौलिक कर्तव्यों' की अवधारणा को किस समिति की सिफारिश पर भारतीय संविधान के भाग IV-A (अनुच्छेद 51A) में शामिल किया गया था?)",
+      "options": [
+        "Sarkaria Commission",
+        "Swaran Singh Committee",
+        "Verma Committee",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swaran Singh CommitteeDetailed",
+      "explanation": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd Amendment added 10 duties in Article 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th Amendment 2002.💡 Exam Setter's Tips & Quick Tricks: Fundamental Duties = Swaran Singh Committee (1976), 42nd Amendment, borrowed from USSR.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which was the first State in independent India to be created on a linguistic basis in October 1953?",
+      "hi": "अक्टूबर 1953 में भाषाई आधार पर गठित होने वाला स्वतंत्र भारत का पहला राज्य कौन-सा था?",
+      "options": [
+        "Gujarat",
+        "Andhra State",
+        "Kerala",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Andhra StateDetailed",
+      "explanation": "Following the 56-day hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 October 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).💡 Exam Setter's Tips & Quick Tricks: First linguistic state = Andhra State (1 October 1953); Fast-unto-death = Potti Sreeramulu.",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Kanwar Lake (Kabartal), designated as Bihar's first Ramsar site (Wetland of International Importance) in 2020, is situated in which district?(2020",
+      "hi": "में बिहार के पहले रामसर स्थल (अंतर्राष्ट्रीय महत्व की आर्द्रभूमि) के रूप में घोषित 'कांवर झील' (कबरताल) किस जिले में स्थित है?)",
+      "options": [
+        "Begusarai",
+        "Khagaria",
+        "Samastipur",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "BegusaraiDetailed",
+      "explanation": "Kanwar Lake (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi Gandak River. It was designated as India's 39th Ramsar site in July 2020.💡 Exam Setter's Tips & Quick Tricks: Bihar's 1st Ramsar Site = Kanwar Lake / Kabartal (Begusarai, 2020; Oxbow lake of Burhi Gandak).",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The Kyoto Protocol, adopted internationally in 1997, is an international environmental treaty primarily focused on",
+      "hi": "1997 में अंतर्राष्ट्रीय स्तर पर अपनाया गया क्योटो प्रोटोकॉल मुख्य रूप से किससे संबंधित है?",
+      "options": [
+        "Conservation of endangered migratory bird species",
+        "Reduction of greenhouse gas emissions to combat global climate change",
+        "Eradication of hazardous chemical pesticides",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Reduction of greenhouse gas emissions to combat global climate changeDetailed",
+      "explanation": "Adopted in Kyoto, Japan under the UNFCCC, the Kyoto Protocol committed industrialized Annex I countries to legally binding targets for reducing greenhouse gases (CO2, CH4, N2O, HFCs, PFCs, SF6).💡 Exam Setter's Tips & Quick Tricks: Kyoto Protocol (1997) = Greenhouse Gas reduction; Montreal Protocol (1987) = Ozone layer.",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under the 'Mukhya Mantri Kanya Utthan Yojana' of the Government of Bihar, financial assistance is provided to girls from birth up to which educational level?",
+      "hi": "बिहार सरकार की 'मुख्यमंत्री कन्या उत्थान योजना' के तहत बालिकाओं को उनके जन्म से लेकर किस स्तर की शिक्षा पूरी करने तक वित्तीय सहायता प्रदान की जाती है?",
+      "options": [
+        "Matriculation (Class 10)",
+        "Graduation (स्नातक)",
+        "Post-Graduation",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Graduation (स्नातक)Detailed",
+      "explanation": "The scheme provides staggered cash incentives amounting to up to ₹54,100 from the birth of a girl child through intermediate and graduation (₹50,000 for unmarried graduate girls) to promote higher education and curb child marriage.💡 Exam Setter's Tips & Quick Tricks: Mukhya Mantri Kanya Utthan Yojana = Birth up to Graduation (₹50,000 for female graduates).",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The official mascot of the Women's Asian Champions Trophy 2023 hockey tournament held in Jharkhand was named 'Juhi', inspired by which iconic animal?",
+      "hi": "झारखंड में आयोजित महिला एशियाई चैंपियंस ट्रॉफी 2023 हॉकी टूर्नामेंट के आधिकारिक शुभंकर का नाम 'जूही' था, जो किस प्रतिष्ठित प्राणी से प्रेरित था?",
+      "options": [
+        "Royal Bengal Tiger",
+        "Elephant of Betla National Park",
+        "One-horned Rhinoceros",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Elephant of Betla National ParkDetailed",
+      "explanation": "The mascot 'Juhi' was inspired by the beloved female elephant of Betla National Park in Palamu, Jharkhand. The Indian women's hockey team defeated Japan to win the title.💡 Exam Setter's Tips & Quick Tricks: Women's Asian Champions Trophy 2023 Mascot = 'Juhi' (Elephant of Betla National Park).\nAnswer Key Summary Table — Set 10 (Questions 361 to 400)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 39
+    }
+  ]
+}

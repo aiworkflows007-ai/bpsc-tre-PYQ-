@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set11",
+  "title": "General Studies Practice Set 11 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A boat travels 24 km upstream in 4 hours and 36 km downstream in 3 hours. What is the speed of the water current (stream)?",
+      "hi": "एक नाव धारा के प्रतिकूल 24 किमी की दूरी 4 घंटे में और धारा के अनुकूल 36 किमी की दूरी 3 घंटे में तय करती है। धारा की चाल क्या है?",
+      "options": [
+        "2 km/h",
+        "3 km/h",
+        "4 km/h",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 km/hDetailed",
+      "explanation": "Downstream speed (D) = 36 / 3 = 12 km/h. Upstream speed (U) = 24 / 4 = 6 km/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 km/h. (Speed of boat in still water = (12 + 6)/2 = 9 km/h).💡 Exam Setter's Tips & Quick Tricks: Current speed = (Downstream - Upstream) / 2 = (12 - 6) / 2 = 3 km/h.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What will be the simple interest accrued on a principal sum of ₹5,000 at the rate of 8% per annum in 3 years?",
+      "hi": "₹5,000 की मूल धनराशि पर 8% वार्षिक दर से 3 वर्ष में कितना साधारण ब्याज अर्जित होगा?",
+      "options": [
+        "₹1,000",
+        "₹1,200",
+        "₹1,400",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹1,200Detailed",
+      "explanation": "Simple Interest = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200.💡 Exam Setter's Tips & Quick Tricks: SI = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "If the price of sugar increases by 25%, by what percentage must a household reduce its consumption so that total expenditure on sugar remains unchanged?",
+      "hi": "यदि चीनी के मूल्य में 25% की वृद्धि हो जाए, तो एक परिवार को अपनी चीनी की खपत में कितने प्रतिशत की कमी करनी होगी ताकि कुल खर्च अपरिवर्तित रहे?",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "20%Detailed",
+      "explanation": "Percentage reduction in consumption = [R / (100 + R)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%.💡 Exam Setter's Tips & Quick Tricks: Formula: R/(100 + R) * 100 = 25/125 * 100 = 20%.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A and B enter into a partnership investing capitals in the ratio 4 : 5. A invests for 10 months and B invests for 8 months. What is the ratio of their profits?",
+      "hi": "A और B, 4 : 5 के अनुपात में पूंजी निवेश करके एक साझेदारी करते हैं। A 10 महीने के लिए और B 8 महीने के लिए निवेश करता है। उनके लाभ का अनुपात क्या होगा?",
+      "options": [
+        "4 : 5",
+        "1 : 1",
+        "5 : 4",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1 : 1Detailed",
+      "explanation": "Ratio of profit = (Capital A * Time A) : (Capital B * Time B) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.💡 Exam Setter's Tips & Quick Tricks: Profit ratio = Investment * Time = 4*10 : 5*8 = 40 : 40 = 1 : 1.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The lengths of the parallel sides of a trapezium are 14 cm and 10 cm, and the perpendicular distance between them is 8 cm. What is the area of the trapezium?",
+      "hi": "एक समलंब चतुर्भुज की समानांतर भुजाओं की लंबाई 14 सेमी और 10 सेमी है, तथा उनके बीच की लंबवत दूरी 8 सेमी है। समलंब का क्षेत्रफल क्या है?",
+      "options": [
+        "84 sq cm",
+        "96 sq cm",
+        "192 sq cm",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "96 sq cmDetailed",
+      "explanation": "Area of trapezium = (1/2) * (Sum of parallel sides) * Height = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 sq cm.💡 Exam Setter's Tips & Quick Tricks: Area = 1/2 * (a + b) * h = 1/2 * 24 * 8 = 96 cm².",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Statements: All pens are pencils. No pencil is an eraser.Conclusions: I. No pen is an eraser. II. Some pencils are pens.",
+      "hi": "कथन: सभी पेन पेंसिल हैं। कोई पेंसिल इरेज़र नहीं है।निष्कर्ष: I. कोई पेन इरेज़र नहीं है। II. कुछ पेंसिल पेन हैं।",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Both conclusions I and II followDetailed",
+      "explanation": "Pens ⊂ Pencils, and Pencils ∩ Erasers = ∅. Since Pens are inside Pencils, Pens ∩ Erasers = ∅ (Conclusion I holds). Since All pens are pencils, some pencils are pens (Conclusion II holds).💡 Exam Setter's Tips & Quick Tricks: Disjoint set property: Both conclusions I and II logically follow.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A man travels 10 km North, turns left and travels 6 km, then turns left again and travels 10 km. How far and in which direction is he from his starting point?",
+      "hi": "एक व्यक्ति उत्तर दिशा में 10 किमी चलता है, बायें मुड़कर 6 किमी चलता है, फिर बायें मुड़कर 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूरी और किस दिशा में है?",
+      "options": [
+        "6 km East",
+        "6 km West",
+        "10 km South",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "6 km WestDetailed",
+      "explanation": "North 10 km (+10y) -> West 6 km (-6x) -> South 10 km (-10y). Net displacement = -6x = 6 km due West of starting position.💡 Exam Setter's Tips & Quick Tricks: Vertical movements (+10 km North and -10 km South) cancel out; leaves 6 km West.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Find the next number in the numerical series: 3, 8, 18, 38, 78, ?",
+      "hi": "संख्यात्मक श्रृंखला में अगला पद ज्ञात कीजिए: 3, 8, 18, 38, 78, ?",
+      "options": [
+        "148",
+        "158",
+        "168",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "158Detailed",
+      "explanation": "Pattern is (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (Or differences double: 5, 10, 20, 40, 80; 78 + 80 = 158).💡 Exam Setter's Tips & Quick Tricks: Multiply by 2 and add 2: 78 * 2 + 2 = 156 + 2 = 158.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the approximate numerical value of the escape velocity (ve) of a projectile from the surface of the Earth?(",
+      "hi": "पृथ्वी की सतह से किसी प्रक्षेप्य के पलायन वेग (ve) का लगभग संख्यात्मक मान क्या होता है?)",
+      "options": [
+        "9.8 km/s",
+        "11.2 km/s",
+        "15.4 km/s",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "11.2 km/sDetailed",
+      "explanation": "Escape velocity ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 km/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 km/s (ve = √2 * vo).💡 Exam Setter's Tips & Quick Tricks: Escape velocity from Earth = 11.2 km/s; from Moon = 2.4 km/s; Orbital velocity = 7.9 km/s.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "An electrical transformer is a static device designed to step-up or step-down alternating voltage based on the principle of",
+      "hi": "एक विद्युत ट्रांसफॉर्मर किस सिद्धांत पर प्रत्यावर्ती वोल्टेज को बढ़ाने या घटाने के लिए कार्य करता है?",
+      "options": [
+        "Self-induction",
+        "Mutual Induction",
+        "Photoelectric effect",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mutual InductionDetailed",
+      "explanation": "A transformer operates on Faraday's law of mutual electromagnetic induction between two magnetically coupled primary and secondary coils wound on a laminated iron core. It cannot step-up or step-down direct current (DC).💡 Exam Setter's Tips & Quick Tricks: Transformer works on Mutual Induction and operates only on Alternating Current (AC).",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Temporary hardness of water is caused by the presence of dissolved bicarbonates of which metals, and can be removed simply by boiling?",
+      "hi": "जल की अस्थायी कठोरता किन धातुओं के घुलनशील बाइकार्बोनेट की उपस्थिति के कारण होती है, जिसे केवल उबालकर दूर किया जा सकता है?",
+      "options": [
+        "Sodium and Potassium",
+        "Calcium and Magnesium",
+        "Iron and Aluminium",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Calcium and MagnesiumDetailed",
+      "explanation": "Temporary hardness is due to calcium bicarbonate Ca(HCO3)2 and magnesium bicarbonate Mg(HCO3)2. Boiling decomposes them into insoluble carbonates: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2. Permanent hardness is due to chlorides and sulphates of Ca and Mg.💡 Exam Setter's Tips & Quick Tricks: Temporary hardness = Bicarbonates of Ca & Mg (removed by boiling); Permanent hardness = Chlorides & Sulphates of Ca & Mg.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which chemical element is used in the galvanization process to coat iron and protect it from atmospheric corrosion?(",
+      "hi": "लोहे को जंग से बचाने के लिए गैल्वनीकरण (यशदलेपन) प्रक्रिया में किस रासायनिक तत्व की परत चढ़ाई जाती है?)",
+      "options": [
+        "Copper",
+        "Zinc (जस्ता)",
+        "Lead",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Zinc (जस्ता)Detailed",
+      "explanation": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of basic zinc carbonate and acts as a sacrificial sacrificial anode because its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).💡 Exam Setter's Tips & Quick Tricks: Galvanization = Coating of Zinc (Zn) on Iron (Fe).",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Bilirubin and biliverdin are yellow-green waste bile pigments produced primarily by the metabolic degradation of which molecule in the liver?",
+      "hi": "बिलीरुबिन और बिलिवर्डिन मुख्य रूप से यकृत में किस अणु के उपापचयी विघटन से उत्पन्न होने वाले अपशिष्ट पित्त वर्णक हैं?",
+      "options": [
+        "Cholesterol",
+        "Hemoglobin (Heme group)",
+        "Albumin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hemoglobin (Heme group)Detailed",
+      "explanation": "Senescent red blood cells are engulfed by macrophages in the spleen and liver. The heme ring of hemoglobin is catabolized by heme oxygenase into biliverdin, which is reduced to bilirubin and excreted via bile into the intestine.💡 Exam Setter's Tips & Quick Tricks: Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of Hemoglobin.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Severe nutritional deficiency of Vitamin D in growing children leads to which skeletal disorder characterized by soft, weakened, and deformed bones?",
+      "hi": "बढ़ते बच्चों में विटामिन D की गंभीर पोषण संबंधी कमी से कौन-सा अस्थि रोग होता है जिसमें हड्डियां कमजोर और मुड़ जाती हैं?",
+      "options": [
+        "Scurvy",
+        "Rickets (सूखा रोग)",
+        "Beriberi",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rickets (सूखा रोग)Detailed",
+      "explanation": "Vitamin D (cholecalciferol) is required for intestinal absorption of calcium and phosphorus. Deficiency in children impairs bone mineralization, causing rickets (bowlegs, knock-knees, pigeon chest). In adults, it causes osteomalacia.💡 Exam Setter's Tips & Quick Tricks: Vitamin D deficiency = Rickets (in children) / Osteomalacia (in adults); Vitamin C = Scurvy; Vitamin B1 = Beriberi.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which blood group in the ABO system is designated as the 'Universal Recipient' because its plasma contains neither anti-A nor anti-B antibodies?(ABO",
+      "hi": "प्रणाली में किस रक्त समूह को 'सर्वग्राही' (Universal Recipient) कहा जाता है क्योंकि इसके प्लाज्मा में न तो एंटी-A और न ही एंटी-B एंटीबॉडी होते हैं?)",
+      "options": [
+        "O Positive",
+        "AB Positive",
+        "A Positive",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "AB PositiveDetailed",
+      "explanation": "Blood group AB Positive possesses both A and B antigens on RBC surfaces and lacks anti-A, anti-B, and anti-Rh antibodies in plasma. Hence, it can receive blood cells from all ABO and Rh types without agglutination.💡 Exam Setter's Tips & Quick Tricks: Universal Recipient = AB Positive; Universal Donor = O Negative.",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In an ecological food chain, what approximate percentage of energy captured at any trophic level is lost as metabolic heat and respiration during transfer to the next level?",
+      "hi": "एक पारिस्थितिक खाद्य श्रृंखला में, किसी पोषी स्तर पर ग्रहण की गई ऊर्जा का लगभग कितना प्रतिशत अगले स्तर में स्थानांतरण के दौरान उपापचयी ऊष्मा के रूप में नष्ट हो जाता है?",
+      "options": [
+        "10%",
+        "50%",
+        "90%",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "90%Detailed",
+      "explanation": "Under Lindeman's 10% law, only ~10% of chemical energy is transferred and incorporated into consumer biomass at the successive trophic level. Therefore, approximately 90% is dissipated as heat, cellular respiration, and unconsumed waste.💡 Exam Setter's Tips & Quick Tricks: Energy Transferred = 10%; Energy Lost as heat/respiration = 90%.",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which fierce engagement on 23 April 1858 did Babu Kunwar Singh inflict a crushing defeat on the British forces commanded by Captain Le Grand near Jagdishpur?",
+      "hi": "23 अप्रैल 1858 को किस भीषण युद्ध में बाबू कुंवर सिंह ने जगदीशपुर के निकट कैप्टन ली ग्रांड की ब्रिटिश सेना को करारी शिकस्त दी थी?",
+      "options": [
+        "Battle of Bibiganj",
+        "Battle of Jagdishpur",
+        "Battle of Arrah House",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Battle of JagdishpurDetailed",
+      "explanation": "Despite losing his left arm crossing the Ganga, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 April 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 April as 'Vijay Utsav'.💡 Exam Setter's Tips & Quick Tricks: Kunwar Singh's victory over Captain Le Grand = 23 April 1858 (Celebrated as Vijay Diwas in Bihar).",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "When Mahatma Gandhi arrived at Patna railway station on 10 April 1917 on his way to Champaran, at whose residence was he hosted?",
+      "hi": "10 अप्रैल 1917 को जब महात्मा गांधी चंपारण जाते समय पटना रेलवे स्टेशन पहुंचे, तो वे किसके आवास पर ठहरे थे?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Maulana Mazharul Haque",
+        "Brajkishore Prasad",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Dr. Rajendra PrasadDetailed",
+      "explanation": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 April 1917 and went to the residence of Dr. Rajendra Prasad (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.💡 Exam Setter's Tips & Quick Tricks: Gandhi in Patna (10 April 1917) visited Dr. Rajendra Prasad's residence first with Raj Kumar Shukla.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was the founder-editor of the bilingual nationalist newspaper 'The Motherland' launched in September 1921 from Sadaqat Ashram in Patna?",
+      "hi": "सितंबर 1921 में पटना के सदाकत आश्रम से शुरू हुए द्विभाषी राष्ट्रवादी समाचार पत्र 'द मदरलैंड' के संस्थापक-संपादक कौन थे?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Maulana Mazharul Haque",
+        "Hasan Imam",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulana Mazharul HaqueDetailed",
+      "explanation": "Maulana Mazharul Haque started 'The Motherland' on 30 September 1921 from Sadaqat Ashram to propagate Hindu-Muslim unity and the non-cooperation program, facing colonial censorship and imprisonment for his fiery editorials.💡 Exam Setter's Tips & Quick Tricks: 'The Motherland' (1921) = Founded by Maulana Mazharul Haque from Sadaqat Ashram.",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who served as the first elected President of the Bihar Provincial Kisan Sabha (BPKS) established in November 1929 at the Sonepur Fair?(",
+      "hi": "नवंबर 1929 में सोनपुर मेले के दौरान स्थापित 'बिहार प्रांतीय किसान सभा' (BPKS) के प्रथम निर्वाचित अध्यक्ष कौन थे?)",
+      "options": [
+        "Sri Krishna Singh",
+        "Swami Sahajanand Saraswati",
+        "Karyanand Sharma",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swami Sahajanand SaraswatiDetailed",
+      "explanation": "Swami Sahajanand Saraswati established the BPKS at Sonepur in November 1929 to protect tenant farmers from zamindari eviction. He was elected President, and Dr. Sri Krishna Singh was appointed Secretary.💡 Exam Setter's Tips & Quick Tricks: Bihar Provincial Kisan Sabha (1929, Sonepur) = President: Swami Sahajanand Saraswati; Secretary: Sri Krishna Singh.",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which district of Bihar did the Salt Satyagraha of 1930 commence under the pioneering leadership of Bipin Bihari Varma at Goad?",
+      "hi": "1930 में बिहार के किस जिले में विपिन बिहारी वर्मा के नेतृत्व में गोआड में नमक सत्याग्रह का शुभारंभ हुआ था?",
+      "options": [
+        "Saran",
+        "Champaran",
+        "Patna",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "ChamparanDetailed",
+      "explanation": "In Champaran district, Salt Satyagraha began on 15 April 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt march.💡 Exam Setter's Tips & Quick Tricks: Salt Satyagraha in Champaran = Led by Bipin Bihari Varma; In Patna = Ambika Kant Sinha (Nakhas Pind).",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "During the Quit India Movement in 1942, who operated the underground clandestine 'Congress Radio' broadcasting nationalist messages across the country?",
+      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान देशभर में राष्ट्रवादी संदेश प्रसारित करने वाले भूमिगत 'कांग्रेस रेडियो' का संचालन किसने किया था?",
+      "options": [
+        "Aruna Asaf Ali",
+        "Usha Mehta",
+        "Sucheta Kripalani",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Usha MehtaDetailed",
+      "explanation": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. Ram Manohar Lohia) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in November 1942.💡 Exam Setter's Tips & Quick Tricks: Underground Congress Radio (1942) = Usha Mehta and Dr. Ram Manohar Lohia.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The official royal notification creating the separate Province of Bihar and Orissa was promulgated on 22 March 1912, and the province formally commenced functioning on",
+      "hi": "अलग बिहार और उड़ीसा प्रांत के गठन की आधिकारिक अधिसूचना 22 मार्च 1912 को जारी हुई थी, तथा इस प्रांत ने औपचारिक रूप से कार्य करना कब प्रारंभ किया?",
+      "options": [
+        "22 March 1912",
+        "1 April 1912",
+        "1 April 1936",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1 April 1912Detailed",
+      "explanation": "While 22 March 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 April 1912 with Sir Charles Stuart Bayley as Lieutenant Governor.💡 Exam Setter's Tips & Quick Tricks: Bihar Diwas = 22 March; Administrative inception = 1 April 1912.",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The River Burhi Gandak, an active northern tributary of the Ganga, originates from which physical feature in Bihar?",
+      "hi": "गंगा की उत्तरी सहायक नदी 'बूढ़ी गंडक' का उद्गम बिहार में किस भौगोलिक स्थल से होता है?",
+      "options": [
+        "Chautarwa Chaur in Someshwar Range",
+        "Mahabharat Range",
+        "Kaimur Plateau",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Chautarwa Chaur in Someshwar RangeDetailed",
+      "explanation": "The Burhi Gandak originates from Chautarwa Chaur near the Someshwar hills in West Champaran. It flows southeast through East Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the Ganga near Khagaria.💡 Exam Setter's Tips & Quick Tricks: Burhi Gandak origin = Someshwar Range (Chautarwa Chaur, West Champaran); joins Ganga at Khagaria.",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What type of soil, locally known as 'Balther Soil' (बलथर मिट्टी), occurs in a narrow transition belt between the southern alluvial plain and the Chota Nagpur plateau in Bihar?",
+      "hi": "बिहार में दक्षिणी जलोढ़ मैदान और छोटानागपुर पठार के बीच संकीर्ण संक्रमण पेटी में पाई जाने वाली मिट्टी को स्थानीय रूप से क्या कहा जाता है?",
+      "options": [
+        "Khadar Soil",
+        "Balther Soil (Red and Yellow sandy-clayey soil)",
+        "Karail-Kewal Soil",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Balther Soil (Red and Yellow sandy-clayey soil)Detailed",
+      "explanation": "Balther soil is an acidic, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of South Bihar.💡 Exam Setter's Tips & Quick Tricks: Balther soil = Sandy, acidic foothills soil of South Bihar; Karail-Kewal = Heavy clayey alluvium.",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "During the pre-monsoon summer months of May and June, the extremely hot, dry, and dust-laden westerly winds blowing across the Bihar plains are known as",
+      "hi": "मई और जून के गर्मियों के महीनों में बिहार के मैदानों में चलने वाली अत्यधिक गर्म, शुष्क और धूल भरी पछुआ हवाएं क्या कहलाती हैं?",
+      "options": [
+        "Kalbaishakhi (Norwesters)",
+        "Loo (लू)",
+        "Mango Showers",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Loo (लू)Detailed",
+      "explanation": "'Loo' is the strong, scorching dry summer wind blowing from the Thar Desert eastward across northern India and Bihar during afternoon hours, causing heatstroke. Norwesters (Kalbaishakhi) are thunderstorm showers.💡 Exam Setter's Tips & Quick Tricks: Hot dry summer wind = Loo; Thunderstorm pre-monsoon rain = Kalbaishakhi (Norwesters).",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which district of Bihar has the highest percentage of its geographical area covered under forest as per the India State of Forest Report (ISFR) 2021?(",
+      "hi": "भारत वन स्थिति रिपोर्ट (ISFR) 2021 के अनुसार, बिहार के किस जिले में उसके भौगोलिक क्षेत्रफल का सर्वाधिक प्रतिशत वनाच्छादित है?)",
+      "options": [
+        "West Champaran",
+        "Kaimur (31.56%)",
+        "Jamui",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kaimur (31.56%)Detailed",
+      "explanation": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq km), followed by Jamui (21.34%) and Nawada (20.72%). West Champaran has the largest absolute forest area (903.34 sq km).💡 Exam Setter's Tips & Quick Tricks: Highest Forest Percentage = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq km); Lowest forest = Sheikhpura.",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which is the highest mountain peak in the Eastern Ghats of India?",
+      "hi": "भारत के पूर्वी घाट की सबसे ऊँची पर्वत चोटी कौन-सी है?",
+      "options": [
+        "Mahendragiri",
+        "Jindhagada Peak (Arma Konda)",
+        "Anamudi",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jindhagada Peak (Arma Konda)Detailed",
+      "explanation": "Jindhagada Peak (also known as Arma Konda) in the Araku Valley of Andhra Pradesh has an elevation of 1,690 metres, making it the highest peak of the Eastern Ghats. Mahendragiri (1,501 m) is in Odisha.💡 Exam Setter's Tips & Quick Tricks: Highest of Eastern Ghats = Jindhagada / Arma Konda (1,690 m); Highest of Western Ghats = Anamudi (2,695 m).",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The Luni River, an ephemeral river of the Thar Desert, originates in the Aravalli Range near Pushkar and terminates in",
+      "hi": "थार मरुस्थल की मौसमी नदी 'लूनी' पुष्कर के निकट अरावली श्रेणी से निकलती है और कहाँ समाप्त होती है?",
+      "options": [
+        "Arabian Sea (Gulf of Khambhat)",
+        "Rann of Kutch (Inland drainage)",
+        "Sambhar Salt Lake",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rann of Kutch (Inland drainage)Detailed",
+      "explanation": "The Luni flows southwest through Rajasthan and Gujarat for ~495 km and is lost in the marshy saline sands of the Rann of Kutch without reaching the sea, representing an inland drainage system.💡 Exam Setter's Tips & Quick Tricks: Luni River = Inland drainage, terminates in the Rann of Kutch.",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Under Article 243D of the Constitution of India, what proportion of total seats in Panchayats is constitutionally reserved for women?",
+      "hi": "भारतीय संविधान के अनुच्छेद 243D के तहत पंचायतों में महिलाओं के लिए कुल सीटों का कितना अनुपात संवैधानिक रूप से आरक्षित है?",
+      "options": [
+        "Not less than one-fourth",
+        "Not less than one-third (33.3%)",
+        "Exactly one-half (50%)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Not less than one-third (33.3%)Detailed",
+      "explanation": "Article 243D(3) mandates that not less than one-third of total seats shall be reserved for women in all Panchayats. (Note: States like Bihar have increased this reservation to 50% under state law, but the baseline constitutional requirement is 1/3rd).💡 Exam Setter's Tips & Quick Tricks: Constitutional minimum (Art. 243D) = Not less than 1/3rd; Bihar State Law = 50% reservation.",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which Article in Part XX of the Constitution of India specifies the power and procedure of Parliament to amend the Constitution?",
+      "hi": "भारतीय संविधान के भाग XX का कौन-सा अनुच्छेद संविधान में संशोधन करने की संसद की शक्ति और प्रक्रिया को निर्दिष्ट करता है?",
+      "options": [
+        "Article 356",
+        "Article 368",
+        "Article 370",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 368Detailed",
+      "explanation": "Article 368 empowers Parliament to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'Basic Structure' doctrine (Kesavananda Bharati case 1973).💡 Exam Setter's Tips & Quick Tricks: Amendment of Constitution = Article 368 (Part XX, borrowed from South Africa).",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In the Seventh Schedule of the Constitution of India, the subject 'Public Health and Sanitation; Hospitals and Dispensaries' is included in which legislative list?",
+      "hi": "भारतीय संविधान की सातवीं अनुसूची में 'लोक स्वास्थ्य और स्वच्छता; अस्पताल और औषधालय' किस सूची में शामिल है?",
+      "options": [
+        "Union List",
+        "State List (List II)",
+        "Concurrent List",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "State List (List II)Detailed",
+      "explanation": "Public health, sanitation, hospitals, and dispensaries fall under Entry 6 of List II (State List). Education, forests, and weights & measures are in the Concurrent List (List III).💡 Exam Setter's Tips & Quick Tricks: Public Health, Police, Agriculture, Local Govt = State List; Defence, Railways, Banking = Union List; Education, Forests = Concurrent List.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A Proclamation of President's Rule under Article 356 in a State must be approved by resolutions of both Houses of Parliament within what time limit?",
+      "hi": "किसी राज्य में अनुच्छेद 356 के तहत राष्ट्रपति शासन की उद्घोषणा को संसद के दोनों सदनों द्वारा कितने समय के भीतर अनुमोदित किया जाना चाहिए?",
+      "options": [
+        "1 month",
+        "2 months",
+        "6 months",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2 monthsDetailed",
+      "explanation": "Article 356(3) mandates that a proclamation of President's Rule ceases to operate at the expiration of 2 months unless approved by resolutions of both Lok Sabha and Rajya Sabha by simple majority. National Emergency (Art. 352) requires approval within 1 month.💡 Exam Setter's Tips & Quick Tricks: Approval deadline: National Emergency (Art. 352) = 1 month; President's Rule (Art. 356) = 2 months; Financial Emergency (Art. 360) = 2 months.",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What was the official state theme of 'Bihar Diwas' celebrated on 22 March 2023 across the State?(22",
+      "hi": "मार्च 2023 को राज्यभर में मनाए गए 'बिहार दिवस' का आधिकारिक राज्य विषय (Theme) क्या था?)",
+      "options": [
+        "Jal Jeevan Hariyali",
+        "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+        "Samriddh Bihar, Swachh Bihar",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)Detailed",
+      "explanation": "Bihar Diwas 2023 marked the 111th anniversary of the State's creation, organized under the focal theme 'Yuva Shakti - Bihar Ki Pragati', emphasizing youth empowerment and self-employment initiatives.💡 Exam Setter's Tips & Quick Tricks: Bihar Diwas 2023 Theme = 'Yuva Shakti - Bihar Ki Pragati'.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "How many mobility wheels were equipped on ISRO's Chandrayaan-3 lunar rover named 'Pragyan' for roving on the Moon's surface?",
+      "hi": "चंद्रमा की सतह पर चलने के लिए इसरो के चंद्रयान-3 के चंद्र रोवर 'प्रज्ञान' में कितने पहिए लगाए गए थे?",
+      "options": [
+        "4 wheels",
+        "6 wheels",
+        "8 wheels",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "6 wheelsDetailed",
+      "explanation": "Pragyan rover is a 26 kg, 6-wheeled robotic vehicle equipped with rocker-bogie suspension and two scientific payloads (APXS and LIBS) to conduct in-situ chemical and elemental analysis of lunar soil.💡 Exam Setter's Tips & Quick Tricks: Pragyan rover has 6 wheels, weighed 26 kg, deployed from Vikram lander.",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was awarded the prestigious Nobel Prize in Literature 2023 'for his innovative plays and prose which give voice to the unsayable'?",
+      "hi": "'उनके अभिनव नाटकों और गद्य के लिए जो अनकहे को आवाज देते हैं' 2023 का साहित्य का नोबेल पुरस्कार किसे प्रदान किया गया?",
+      "options": [
+        "Annie Ernaux",
+        "Jon Fosse (योन फॉसे)",
+        "Abdulrazak Gurnah",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jon Fosse (योन फॉसे)Detailed",
+      "explanation": "The Swedish Academy awarded the 2023 Nobel Prize in Literature to Norwegian playwright and novelist Jon Fosse, written in Norwegian Nynorsk.💡 Exam Setter's Tips & Quick Tricks: Nobel Prize Literature 2023 = Jon Fosse (Norway); 2022 = Annie Ernaux (France).",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A shopkeeper marks his goods at 20% above the cost price and allows a discount of 10% for cash payment. What is his net profit percentage?",
+      "hi": "एक दुकानदार अपनी वस्तुओं पर क्रय मूल्य से 20% अधिक मूल्य अंकित करता है और नकद भुगतान पर 10% की छूट देता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8%Detailed",
+      "explanation": "Let CP = 100. Marked Price = 120. Discount = 10% of 120 = 12. Selling Price = 120 - 12 = 108. Profit % = 108 - 100 = 8%.💡 Exam Setter's Tips & Quick Tricks: Net % = 20 - 10 - (20*10)/100 = 10 - 2 = 8% profit.",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which gas is released during photosynthesis when water molecules (H2O) are split by light in the thylakoid membrane (photolysis)?(",
+      "hi": "थाइलेकोइड झिल्ली में प्रकाश द्वारा जल के अणुओं (H2O) के विखंडन (फोटोलाइसिस) से प्रकाश संश्लेषण के दौरान कौन-सी गैस मुक्त होती है?)",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen (O2)",
+        "Hydrogen",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Oxygen (O2)Detailed",
+      "explanation": "In light-dependent reactions of photosynthesis, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.💡 Exam Setter's Tips & Quick Tricks: Evolved Oxygen in photosynthesis comes from Water (H2O), not from Carbon Dioxide.",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which district of Bihar is the historical 'Shershah Suri's Tomb' (शेरशाह का मकबरा) situated, built in the middle of an artificial lake?",
+      "hi": "एक कृत्रिम झील के बीच निर्मित ऐतिहासिक 'शेरशाह सूरी का मकबरा' बिहार के किस जिले में स्थित है?",
+      "options": [
+        "Gaya",
+        "Rohtas (Sasaram)",
+        "Aurangabad",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rohtas (Sasaram)Detailed",
+      "explanation": "Built in red sandstone between 1540 and 1545 by architect Mir Muhammad Aliwal Khan, Sher Shah Suri's tomb stands on an octagonal stone plinth in an artificial lake at Sasaram in Rohtas district.💡 Exam Setter's Tips & Quick Tricks: Tomb of Sher Shah Suri = Sasaram (Rohtas district); Architect = Aliwal Khan.",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which Indian space scientist served as the Chairman of the Drafting Committee for the National Education Policy (NEP) 2020?(",
+      "hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 की प्रारूप समिति के अध्यक्ष के रूप में किस भारतीय अंतरिक्ष वैज्ञानिक ने कार्य किया था?)",
+      "options": [
+        "Dr. K. Sivan",
+        "Dr. K. Kasturirangan",
+        "Prof. Yash Pal",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. K. KasturiranganDetailed",
+      "explanation": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of Planning Commission) chaired the 9-member committee that submitted the Draft National Education Policy in May 2019, which formed the basis of NEP 2020.💡 Exam Setter's Tips & Quick Tricks: NEP 2020 Drafting Committee Chairman = Dr. K. Kasturirangan.\nAnswer Key Summary Table — Set 11 (Questions 401 to 440)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    }
+  ]
+}

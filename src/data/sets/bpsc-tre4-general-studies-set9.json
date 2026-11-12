@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set9",
+  "title": "General Studies Practice Set 9 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A sum of money invested at compound interest doubles itself in 3 years. In how many years will it become 16 times of itself at the same annual rate?",
+      "hi": "कोई धनराशि चक्रवृद्धि ब्याज पर 3 वर्ष में दोगुनी हो जाती है। समान वार्षिक दर पर वह कितने वर्षों में 16 गुनी हो जाएगी?",
+      "options": [
+        "9 years",
+        "12 years",
+        "15 years",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "12 yearsDetailed",
+      "explanation": "At compound interest, if P becomes 2P in 3 years, then 16P = (2^4)P will take 4 * 3 = 12 years.💡 Exam Setter's Tips & Quick Tricks: In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 years.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Two unbiased dice are rolled simultaneously. What is the probability that the sum of the numbers appearing on top is 8?",
+      "hi": "दो निष्पक्ष पासे एक साथ फेंके जाते हैं। शीर्ष पर आने वाली संख्याओं का योग 8 होने की प्रायिकता क्या है?",
+      "options": [
+        "5/36",
+        "1/6",
+        "7/36",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "5/36Detailed",
+      "explanation": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.💡 Exam Setter's Tips & Quick Tricks: Pairs summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 pairs out of 36 => 5/36.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A train 180 metres long is moving at a uniform speed of 72 km/h. How much time will it take to pass a stationary man standing on the platform?",
+      "hi": "180 मीटर लंबी एक रेलगाड़ी 72 किमी/घंटा की समान गति से चल रही है। प्लेटफॉर्म पर खड़े एक व्यक्ति को पार करने में इसे कितना समय लगेगा?",
+      "options": [
+        "8 seconds",
+        "9 seconds",
+        "10 seconds",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "9 secondsDetailed",
+      "explanation": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 seconds.💡 Exam Setter's Tips & Quick Tricks: Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 seconds.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A, B, and C can complete a piece of work individually in 10, 12, and 15 days respectively. Working together, in how many days will they finish the entire work?",
+      "hi": "A, B और C अकेले किसी कार्य को क्रमशः 10, 12 और 15 दिनों में पूरा कर सकते हैं। एक साथ मिलकर कार्य करते हुए वे पूरे कार्य को कितने दिनों में समाप्त करेंगे?",
+      "options": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "4 daysDetailed",
+      "explanation": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/day. Total efficiency = 6 + 5 + 4 = 15 units/day. Time required = 60 / 15 = 4 days.💡 Exam Setter's Tips & Quick Tricks: Combined 1-day work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 days.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the volume of a right circular cylinder having a base radius of 7 cm and a vertical height of 10 cm? (Use π = 22/7)",
+      "hi": "7 सेमी आधार त्रिज्या और 10 सेमी ऊँचाई वाले एक लंबवृत्तीय बेलन का आयतन क्या होगा?",
+      "options": [
+        "1,440 cu cm",
+        "1,540 cu cm",
+        "1,640 cu cm",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1,540 cu cmDetailed",
+      "explanation": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu cm.💡 Exam Setter's Tips & Quick Tricks: V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "If 'ROSE' is coded as 6821, 'CHAIR' is coded as 73456, and 'PREACH' is coded as 961473, what will be the code for 'SEARCH'?",
+      "hi": "यदि 'ROSE' का कोड 6821 है, 'CHAIR' का कोड 73456 है, और 'PREACH' का कोड 961473 है, तो 'SEARCH' का कोड क्या होगा?",
+      "options": [
+        "214673",
+        "214763",
+        "241673",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "214673Detailed",
+      "explanation": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.💡 Exam Setter's Tips & Quick Tricks: Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Who is the uncle of D?",
+      "hi": "A, B का भाई है। C, A का पिता है। D, E का भाई है। E, B की पुत्री है। D का चाचा/मामा कौन है?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ADetailed",
+      "explanation": "E is daughter of B, and D is brother of E, so D is the son of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.💡 Exam Setter's Tips & Quick Tricks: Brother of parent (B) is A, so A is the uncle of D.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Find the next number in the series: 2, 6, 12, 20, 30, 42, ?",
+      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, 42, ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "56Detailed",
+      "explanation": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).💡 Exam Setter's Tips & Quick Tricks: Formula: n*(n+1). For n=7, 7*8 = 56.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the speed of electromagnetic waves (including visible light) in free vacuum?(",
+      "hi": "निर्वात में विद्युत चुंबकीय तरंगों (दृश्य प्रकाश सहित) की चाल क्या होती है?)",
+      "options": [
+        "3 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^10 m/s",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 × 10^8 m/sDetailed",
+      "explanation": "In vacuum, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 km/s).💡 Exam Setter's Tips & Quick Tricks: Speed of light c = 3 × 10^8 m/s = 3 × 10^5 km/s.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "When a body is partially or fully immersed in a fluid at rest, it experiences an upward buoyant force equal to the weight of the fluid displaced by the body. This principle is credited to",
+      "hi": "जब कोई पिंड किसी स्थिर द्रव में पूर्णतः या आंशिक रूप से डुबोया जाता है, तो उस पर ऊपर की ओर एक उत्प्लावन बल कार्य करता है जो पिंड द्वारा विस्थापित द्रव के भार के बराबर होता है। यह सिद्धांत कहलाता है",
+      "options": [
+        "Pascal's Principle",
+        "Archimedes' Principle",
+        "Bernoulli's Principle",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Archimedes' PrincipleDetailed",
+      "explanation": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.💡 Exam Setter's Tips & Quick Tricks: Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the basic microscopic structural and functional filtration unit of the human kidney?(",
+      "hi": "मानव गुर्दे (वृक्क) की मूल सूक्ष्म संरचनात्मक एवं कार्यात्मक निस्यंदन इकाई क्या है?)",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "NephronDetailed",
+      "explanation": "Each human kidney contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.💡 Exam Setter's Tips & Quick Tricks: Kidney unit = Nephron; Nervous system unit = Neuron; Lungs unit = Alveolus.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which endocrine hormone is secreted by the beta cells of the Islets of Langerhans in the pancreas to lower elevated blood glucose levels?(",
+      "hi": "रक्त में शर्करा (ग्लूकोज) के उच्च स्तर को कम करने के लिए अग्न्याशय के लैंगरहैंस के द्वीप की बीटा कोशिकाओं द्वारा कौन-सा हार्मोन स्रावित होता है?)",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Somatostatin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "InsulinDetailed",
+      "explanation": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the liver. In contrast, alpha cells secrete glucagon to raise blood glucose.💡 Exam Setter's Tips & Quick Tricks: Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar).",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "An aqueous solution turns blue litmus paper red. What is the probable nature of this solution and its pH value?",
+      "hi": "एक जलीय विलयन नीले लिटमस पत्र को लाल कर देता है। इस विलयन की संभावित प्रकृति और इसका pH मान क्या होगा?",
+      "options": [
+        "Basic; pH > 7",
+        "Acidic; pH < 7",
+        "Neutral; pH = 7",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Acidic; pH < 7Detailed",
+      "explanation": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.💡 Exam Setter's Tips & Quick Tricks: Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7).",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "How many neutrons are present in the atomic nucleus of ordinary hydrogen (Protium, 1H1)?(",
+      "hi": "साधारण हाइड्रोजन (प्रोटियम, 1H1) के परमाणु नाभिक में कितने न्यूट्रॉन उपस्थित होते हैं?)",
+      "options": [
+        "Zero",
+        "One",
+        "Two",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ZeroDetailed",
+      "explanation": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its nucleus.💡 Exam Setter's Tips & Quick Tricks: Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "According to Joule's law of heating, the heat produced in a resistor of resistance R carrying a current I for time t is given by",
+      "hi": "जूल के तापीय नियम के अनुसार, t समय के लिए I धारा प्रवाहित होने पर R प्रतिरोध वाले चालक में उत्पन्न ऊष्मा का मान होता है",
+      "options": [
+        "H = I · R · t",
+        "H = I^2 · R · t",
+        "H = I · R^2 · t",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "H = I^2 · R · tDetailed",
+      "explanation": "Joule's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.💡 Exam Setter's Tips & Quick Tricks: Joule's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t.",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which toxic chemical gas leaked from the Union Carbide pesticide plant causing the horrific Bhopal Gas Tragedy on the night of 2-3 December 1984?",
+      "hi": "2-3 दिसंबर 1984 की रात भोपाल गैस त्रासदी में यूनियन कार्बाइड कारखाने से कौन-सी अत्यधिक जहरीली गैस का रिसाव हुआ था?",
+      "options": [
+        "Phosgene",
+        "Methyl Isocyanate (MIC)",
+        "Hydrogen Cyanide",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Methyl Isocyanate (MIC)Detailed",
+      "explanation": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.💡 Exam Setter's Tips & Quick Tricks: Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO).",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was hailed by British military commanders as the 'Lighthouse of Rebellion' during the 1857 Uprising for his fierce armed defence of Faizabad?",
+      "hi": "1857 के विद्रोह के दौरान फैजाबाद में अपने प्रबल प्रतिरोध के लिए ब्रिटिश सैन्य अधिकारियों द्वारा 'विद्रोह का प्रकाश स्तंभ' किसे कहा गया था?",
+      "options": [
+        "Bakht Khan",
+        "Maulvi Ahmadullah Shah",
+        "Khan Bahadur Khan",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulvi Ahmadullah ShahDetailed",
+      "explanation": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir Henry Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.💡 Exam Setter's Tips & Quick Tricks: 1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = Babu Kunwar Singh.",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under the oppressive 'Tinkathia System' prevalent in Champaran prior to 1917, tenant farmers were legally compelled by European planters to cultivate indigo on what proportion of their holding?",
+      "hi": "1917 से पूर्व चंपारण में प्रचलित दमनकारी 'तिनकठिया प्रणाली' के तहत किसानों को अपनी कुल कृषि भूमि के कितने भाग पर नील की खेती करने के लिए कानूनी रूप से बाध्य किया जाता था?",
+      "options": [
+        "1/20th part",
+        "3/20th part (3 kathas per bigha)",
+        "5/20th part",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3/20th part (3 kathas per bigha)Detailed",
+      "explanation": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).💡 Exam Setter's Tips & Quick Tricks: Tinkathia = 3 kathas per bigha = 3/20th of land holding.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "On 6 February 1921, Mahatma Gandhi formally inaugurated which national educational institution in Patna to promote non-cooperation against colonial British universities?",
+      "hi": "6 फरवरी 1921 को महात्मा गांधी ने ब्रिटिश विश्वविद्यालयों के बहिष्कार के तहत पटना में किस राष्ट्रीय शिक्षण संस्थान का औपचारिक उद्घाटन किया था?",
+      "options": [
+        "Patna College",
+        "Bihar National College and Bihar Vidyapeeth",
+        "Sadaqat College",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bihar National College and Bihar VidyapeethDetailed",
+      "explanation": "During the Non-Cooperation movement, Mahatma Gandhi opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 February 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.💡 Exam Setter's Tips & Quick Tricks: Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor).",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who presided over the 37th Annual Session of the Indian National Congress held at Gaya in Bihar in December 1922?",
+      "hi": "दिसंबर 1922 में बिहार के गया में आयोजित भारतीय राष्ट्रीय कांग्रेस के 37वें वार्षिक अधिवेशन की अध्यक्षता किसने की थी?",
+      "options": [
+        "Motilal Nehru",
+        "Deshbandhu Chittaranjan Das (C. R. Das)",
+        "Hakim Ajmal Khan",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Deshbandhu Chittaranjan Das (C. R. Das)Detailed",
+      "explanation": "C. R. Das presided over the 1922 Gaya Session. After his proposal for council entry was defeated by the 'No-Changers' (Rajendra Prasad, C. Rajagopalachari), he resigned and founded the Swaraj Party with Motilal Nehru.💡 Exam Setter's Tips & Quick Tricks: Congress Sessions in Bihar: 1912 Bankipore (R. N. Mudholkar); 1922 Gaya (C. R. Das); 1940 Ramgarh (Abul Kalam Azad).",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In the catastrophic Bihar-Nepal Earthquake of 15 January 1934, who established the 'Bihar Central Relief Committee' to organize non-official relief and rehabilitation work?",
+      "hi": "15 जनवरी 1934 के विनाशकारी बिहार-नेपाल भूकंप के बाद गैर-सरकारी राहत और पुनर्वास कार्यों के संचालन हेतु 'बिहार सेंट्रल रिलीफ कमेटी' का गठन किसने किया था?",
+      "options": [
+        "Mahatma Gandhi",
+        "Dr. Rajendra Prasad",
+        "Sri Krishna Singh",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Rajendra PrasadDetailed",
+      "explanation": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), Dr. Rajendra Prasad formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.💡 Exam Setter's Tips & Quick Tricks: Bihar Central Relief Committee (1934 Earthquake) = Dr. Rajendra Prasad.",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "During the Quit India Movement in 1942, which veteran national leader led the agitation in Siwan and captured the police station, sacrificing his son in police firing?",
+      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान सीवान में आंदोलन का नेतृत्व करने वाले और थाने पर कब्जा करने वाले कौन-से वरिष्ठ नेता थे, जिनके पुत्र पुलिस गोलीबारी में शहीद हुए थे?",
+      "options": [
+        "Phulena Prasad Srivastava",
+        "Jaglal Choudhary",
+        "Ram Nandan Mishra",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jaglal ChoudharyDetailed",
+      "explanation": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.💡 Exam Setter's Tips & Quick Tricks: Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who founded the Patna branch of the revolutionary secret society 'Anushilan Samiti' in 1913?",
+      "hi": "1913 में क्रांतिकारी गुप्त संगठन 'अनुशीलन समिति' की पटना शाखा की स्थापना किसने की थी?",
+      "options": [
+        "Bupendra Nath Datta",
+        "Sachindra Nath Sanyal",
+        "Khudiram Bose",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sachindra Nath SanyalDetailed",
+      "explanation": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.💡 Exam Setter's Tips & Quick Tricks: Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal.",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the pioneer journalist and editor of the newspaper 'The Biharee' who campaigned relentlessly for the creation of a separate Bihar province?",
+      "hi": "'द बिहारी' समाचार पत्र के अग्रणी पत्रकार और संपादक कौन थे जिन्होंने एक अलग बिहार प्रांत के निर्माण के लिए निरंतर अभियान चलाया?",
+      "options": [
+        "Sachchidananda Sinha",
+        "Mahesh Narayan",
+        "Krishna Sahay",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mahesh NarayanDetailed",
+      "explanation": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.💡 Exam Setter's Tips & Quick Tricks: Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee').",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The River Ghaghra (Sarayu) enters Bihar from Uttar Pradesh and merges into the River Ganga near which town?(",
+      "hi": "घाघरा (सरयू) नदी उत्तर प्रदेश से बिहार में प्रवेश करती है और किस नगर के समीप गंगा नदी में मिलती है?)",
+      "options": [
+        "Chhapra (near Revelganj)",
+        "Buxar",
+        "Hajipur",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Chhapra (near Revelganj)Detailed",
+      "explanation": "The Ghaghra originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the Ganga at Revelganj near Chhapra in Saran district.💡 Exam Setter's Tips & Quick Tricks: Ghaghra joins Ganga at Revelganj (Chhapra); Gandak joins at Sonpur; Kosi joins at Kursela (Katihar).",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "According to Köppen's climatic classification, the climate of northern Bihar is designated as",
+      "hi": "कोपेन के जलवायु वर्गीकरण के अनुसार, उत्तरी बिहार की जलवायु को किस रूप में वर्गीकृत किया गया है?",
+      "options": [
+        "Aw (Tropical Savanna)",
+        "Cwg (Monsoon with dry winter)",
+        "BSh (Semi-arid steppe)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Cwg (Monsoon with dry winter)Detailed",
+      "explanation": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest month before the solstice, which accurately characterizes the Gangetic plains of North Bihar.💡 Exam Setter's Tips & Quick Tricks: Bihar climate in Köppen classification = Cwg (Gangetic plain type).",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In which district of Bihar is the State's only National Park, the 'Valmiki National Park and Tiger Reserve', situated?",
+      "hi": "बिहार का एकमात्र राष्ट्रीय उद्यान 'वाल्मीकि राष्ट्रीय उद्यान एवं बाघ अभयारण्य' किस जिले में स्थित है?",
+      "options": [
+        "East Champaran",
+        "West Champaran",
+        "Kaimur",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "West ChamparanDetailed",
+      "explanation": "Valmiki National Park covers an area of approx. 335.65 sq km (and sanctuary area of 898 sq km) in the Terai region of West Champaran along the Gandak River and Nepal border, forming Project Tiger Reserve No. 18.💡 Exam Setter's Tips & Quick Tricks: Only National Park of Bihar = Valmiki National Park (West Champaran).",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The famous 'Bhimbandh Wildlife Sanctuary', known for its natural geothermal hot water springs (Sita Kund, Rishi Kund), is situated in which district of Bihar?(",
+      "hi": "प्राकृतिक गर्म जल स्रोतों (सीता कुंड, ऋषि कुंड) के लिए प्रसिद्ध 'भीमबांध वन्यजीव अभयारण्य' बिहार के किस जिले में स्थित है?)",
+      "options": [
+        "Nalanda (Rajgir)",
+        "Munger",
+        "Gaya",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "MungerDetailed",
+      "explanation": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq km, famous for dense sal forests and thermal mineral springs.💡 Exam Setter's Tips & Quick Tricks: Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya.",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Kahalgaon Super Thermal Power Station (KhSTPP), a major coal-fired power station of NTPC, is located in which district of Bihar?",
+      "hi": "एनटीपीसी का प्रमुख कोयला आधारित विद्युत संयंत्र 'कहलगांव सुपर थर्मल पावर स्टेशन' बिहार के किस जिले में स्थित है?",
+      "options": [
+        "Begusarai",
+        "Bhagalpur",
+        "Banka",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "BhagalpurDetailed",
+      "explanation": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.💡 Exam Setter's Tips & Quick Tricks: Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC).",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which mountain pass in the Greater Himalayas connects the Kashmir Valley (Srinagar) with Ladakh (Leh)?(",
+      "hi": "महान हिमालय का कौन-सा दर्रा कश्मीर घाटी (श्रीनगर) को लद्दाख (लेह) से जोड़ता है?)",
+      "options": [
+        "Banihal Pass",
+        "Zoji La Pass",
+        "Shipki La Pass",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Zoji La PassDetailed",
+      "explanation": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.💡 Exam Setter's Tips & Quick Tricks: Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La.",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which State in India is the largest producer of bauxite ore, with major deposits located in the Panchpatmali hills of Koraput district?",
+      "hi": "भारत का कौन-सा राज्य बॉक्साइट अयस्क का सबसे बड़ा उत्पादक है, जिसके प्रमुख भंडार कोरापुट जिले की पंचपतमली पहाड़ियों में स्थित हैं?",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "OdishaDetailed",
+      "explanation": "Odisha accounts for over 50% of India's total bauxite production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).💡 Exam Setter's Tips & Quick Tricks: Leading mineral producers: Bauxite = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh.",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under Article 110 of the Constitution of India, who possesses the exclusive authority to certify whether a legislative bill is a 'Money Bill' or not?",
+      "hi": "भारतीय संविधान के अनुच्छेद 110 के तहत कोई विधेयक 'धन विधेयक' है या नहीं, इसे प्रमाणित करने का अंतिम और अनन्य अधिकार किसे प्राप्त है?",
+      "options": [
+        "President of India",
+        "Speaker of the Lok Sabha",
+        "Chairman of the Rajya Sabha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Speaker of the Lok SabhaDetailed",
+      "explanation": "Article 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha thereon shall be final. The Rajya Sabha has only 14 days to recommend changes.💡 Exam Setter's Tips & Quick Tricks: Certification of Money Bill = Speaker of Lok Sabha (Article 110). Final and cannot be questioned in court.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under which Article can the President of India proclaim a 'National Emergency' on the grounds of war, external aggression, or armed rebellion?",
+      "hi": "युद्ध, बाह्य आक्रमण या सशस्त्र विद्रोह के आधार पर भारत के राष्ट्रपति किस अनुच्छेद के तहत 'राष्ट्रीय आपातकाल' की घोषणा कर सकते हैं?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Article 352Detailed",
+      "explanation": "Article 352 governs National Emergency. (Article 356 provides for President's Rule in States due to constitutional failure, and Article 360 provides for Financial Emergency).💡 Exam Setter's Tips & Quick Tricks: Emergency provisions: Article 352 = National; Article 356 = State (President's Rule); Article 360 = Financial.",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The 73rd Constitutional Amendment Act 1992 added which Schedule to the Constitution of India containing a list of 29 functional items for Panchayats?",
+      "hi": "73वें संविधान संशोधन अधिनियम 1992 द्वारा भारतीय संविधान में कौन-सी अनुसूची जोड़ी गई जिसमें पंचायतों के लिए 29 कार्यात्मक विषयों की सूची है?",
+      "options": [
+        "10th Schedule",
+        "11th Schedule",
+        "12th Schedule",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "11th ScheduleDetailed",
+      "explanation": "The 73rd Amendment added Part IX and the 11th Schedule (29 functional subjects for Panchayats). The 74th Amendment added Part IX-A and the 12th Schedule (18 functional subjects for Municipalities).💡 Exam Setter's Tips & Quick Tricks: 11th Schedule = Panchayats (29 items); 12th Schedule = Municipalities (18 items); 10th Schedule = Anti-Defection.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the minimum age prescribed by the Constitution of India for a citizen to be eligible for election as a Member of the Legislative Assembly (MLA)?(",
+      "hi": "भारत के संविधान द्वारा किसी नागरिक के विधानसभा सदस्य (MLA) के रूप में निर्वाचित होने के लिए न्यूनतम आयु क्या निर्धारित की गई है?)",
+      "options": [
+        "21 years",
+        "25 years",
+        "30 years",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "25 yearsDetailed",
+      "explanation": "Under Article 173, the minimum age for election to the Legislative Assembly (and Lok Sabha) is 25 years. For Legislative Council (and Rajya Sabha), it is 30 years. For Panchayat elections, it is 21 years.💡 Exam Setter's Tips & Quick Tricks: Age limits: Panchayats = 21; Lok Sabha & Vidhan Sabha = 25; Rajya Sabha & Vidhan Parishad = 30; President & Governor = 35.",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the minimum constitutional age required to be appointed as the Governor of a State in India?",
+      "hi": "भारत में किसी राज्य का राज्यपाल नियुक्त होने के लिए न्यूनतम संवैधानिक आयु क्या आवश्यक है?",
+      "options": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "35 yearsDetailed",
+      "explanation": "Article 157 prescribes that no person shall be eligible for appointment as Governor unless he is a citizen of India and has completed the age of 35 years.💡 Exam Setter's Tips & Quick Tricks: Minimum age for President, Vice-President, and Governor is 35 years.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In which year was the comprehensive environmental mission 'Jal-Jeevan-Hariyali' officially launched by the Government of Bihar?",
+      "hi": "बिहार सरकार द्वारा पर्यावरण संरक्षण हेतु महत्वाकांक्षी अभियान 'जल-जीवन-हरियाली' किस वर्ष आधिकारिक रूप से शुरू किया गया था?",
+      "options": [
+        "2017",
+        "2019",
+        "2021",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2019Detailed",
+      "explanation": "Launched on 2 October 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.💡 Exam Setter's Tips & Quick Tricks: Jal-Jeevan-Hariyali launched = 2 October 2019 (Focus: Water conservation & tree plantation).",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Bihar's first official state bird festival, 'Kalrav' (कलरव), was celebrated in January 2021 at which bird sanctuary?",
+      "hi": "बिहार का पहला आधिकारिक राज्य पक्षी महोत्सव 'कलरव' जनवरी 2021 में किस पक्षी अभयारण्य में आयोजित किया गया था?",
+      "options": [
+        "Kanwar Lake Bird Sanctuary (Begusarai)",
+        "Nagi-Nakti Bird Sanctuary (Jamui)",
+        "Kusheshwar Asthan (Darbhanga)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nagi-Nakti Bird Sanctuary (Jamui)Detailed",
+      "explanation": "Inaugurated by Chief Minister Nitish Kumar on 15-17 January 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.💡 Exam Setter's Tips & Quick Tricks: First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui).",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the chief architect of the new Parliament House of India inaugurated in New Delhi in May 2023 under the Central Vista Redevelopment Project?",
+      "hi": "मई 2023 में सेंट्रल विस्टा पुनर्विकास परियोजना के तहत नई दिल्ली में उद्घाटित भारत के नए संसद भवन के मुख्य वास्तुकार कौन थे?",
+      "options": [
+        "Hafeez Contractor",
+        "Dr. Bimal Patel",
+        "Raj Rewal",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Bimal PatelDetailed",
+      "explanation": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new Parliament building, featuring the Lok Sabha chamber styled on the National Bird Peacock and Rajya Sabha on the National Flower Lotus.💡 Exam Setter's Tips & Quick Tricks: New Parliament Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad).",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the new pedagogical curricular structure introduced in school education under the National Education Policy (NEP) 2020?(",
+      "hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 के तहत स्कूली शिक्षा में कौन-सी नई शैक्षणिक पाठ्यचर्या संरचना लागू की गई है?)",
+      "options": [
+        "10 + 2 + 3",
+        "5 + 3 + 3 + 4",
+        "5 + 4 + 3 + 2",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "5 + 3 + 3 + 4Detailed",
+      "explanation": "NEP 2020 restructured school curriculum into four stages: 5 years Foundational stage (ages 3-8), 3 years Preparatory stage (ages 8-11), 3 years Middle stage (ages 11-14), and 4 years Secondary stage (ages 14-18).💡 Exam Setter's Tips & Quick Tricks: NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    }
+  ]
+}

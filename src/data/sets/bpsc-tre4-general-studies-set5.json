@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set5",
+  "title": "General Studies Practice Set 5 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A trader buys 25 articles for ₹20 and sells 20 articles for ₹25. What is the profit percentage?",
+      "hi": "एक व्यापारी 25 वस्तुएं ₹20 में खरीदता है और 20 वस्तुएं ₹25 में बेचता है। उसका लाभ प्रतिशत क्या है?",
+      "options": [
+        "50%",
+        "56.25%",
+        "60%",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "56.25%Detailed",
+      "explanation": "Cost price of 1 article = 20/25 = ₹0.80. Selling price of 1 article = 25/20 = ₹1.25. Profit per article = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.💡 Exam Setter's Tips & Quick Tricks: Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The difference between compound interest and simple interest on a sum of money for 2 years at 10% per annum is ₹65. What is the principal sum?",
+      "hi": "किसी धनराशि पर 10% वार्षिक दर से 2 वर्ष के चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ₹65 है। वह धनराशि क्या है?",
+      "options": [
+        "₹6,000",
+        "₹6,500",
+        "₹7,000",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹6,500Detailed",
+      "explanation": "For 2 years, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.💡 Exam Setter's Tips & Quick Tricks: Standard 2-year difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Two numbers are in the ratio 3 : 4 and their Least Common Multiple (LCM) is 180. The smaller of the two numbers is(",
+      "hi": "दो संख्याएं 3 : 4 के अनुपात में हैं और उनका लघुत्तम समापवर्त्य (LCM) 180 है। उनमें छोटी संख्या है)",
+      "options": [
+        "45",
+        "60",
+        "36",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "45Detailed",
+      "explanation": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.💡 Exam Setter's Tips & Quick Tricks: Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The average of five consecutive odd numbers is 61. What is the difference between the highest and lowest numbers?",
+      "hi": "पाँच क्रमागत विषम संख्याओं का औसत 61 है। उच्चतम और निम्नतम संख्याओं के बीच का अंतर क्या है?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8Detailed",
+      "explanation": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.💡 Exam Setter's Tips & Quick Tricks: For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "If in a code language, 'TEACHER' is coded as 'VGCEJGT', then how will 'CHILDREN' be coded in that language?",
+      "hi": "यदि किसी सांकेतिक भाषा में 'TEACHER' को 'VGCEJGT' लिखा जाता है, तो उसी भाषा में 'CHILDREN' को कैसे लिखा जाएगा?",
+      "options": [
+        "EJKNFTGP",
+        "EJKNFPEQ",
+        "EJKNEGTO",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "EJKNFTGPDetailed",
+      "explanation": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.💡 Exam Setter's Tips & Quick Tricks: Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Pointing to a photograph, a woman says, 'He is the only son of the wife of my husband's father.' How is the man related to the woman?",
+      "hi": "एक तस्वीर की ओर इशारा करते हुए एक महिला कहती है, 'वह मेरे पति के पिता की पत्नी का एकमात्र पुत्र है।' वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+      "options": [
+        "Brother-in-law",
+        "Husband",
+        "Father-in-law",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "HusbandDetailed",
+      "explanation": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only son of mother-in-law is the woman's husband.💡 Exam Setter's Tips & Quick Tricks: 'Only son of my husband's mother/father' always refers directly to the husband.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A man walks 5 km East, turns right and walks 4 km, then turns left and walks 5 km. In which direction is he now facing?",
+      "hi": "एक व्यक्ति 5 किमी पूर्व दिशा में चलता है, दायें मुड़कर 4 किमी चलता है, फिर बायें मुड़कर 5 किमी चलता है। अब उसका मुख किस दिशा की ओर है?",
+      "options": [
+        "North",
+        "East",
+        "South",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "EastDetailed",
+      "explanation": "Initial direction = East. Turning right from East turns him to face South. Turning left from South turns him back to face East.💡 Exam Setter's Tips & Quick Tricks: Right turn (+90 deg) followed by Left turn (-90 deg) cancels out; facing direction remains East.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Find the next term in the alphanumeric series: B2D, E4H, H8L, K16P, ?",
+      "hi": "वर्ण-अंकीय श्रृंखला में अगला पद ज्ञात कीजिए: B2D, E4H, H8L, K16P, ?",
+      "options": [
+        "N32T",
+        "M32T",
+        "N32S",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "N32TDetailed",
+      "explanation": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.💡 Exam Setter's Tips & Quick Tricks: Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which acid is injected into human skin during an ant sting causing acute burning pain and irritation?",
+      "hi": "चींटी के डंक में कौन-सा अम्ल पाया जाता है जो जलन और दर्द उत्पन्न करता है?",
+      "options": [
+        "Oxalic acid",
+        "Formic acid (Methanoic acid)",
+        "Tartaric acid",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Formic acid (Methanoic acid)Detailed",
+      "explanation": "Ant stings inject methanoic acid (common name formic acid, HCOOH). It is neutralized by applying mild basic substances such as baking soda (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).💡 Exam Setter's Tips & Quick Tricks: Formic acid = Ant sting; Vinegar = Acetic acid; Tomato = Oxalic acid; Tamarind = Tartaric acid.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "In the human digestive system, bile juice is synthesized in which organ and where is it stored temporarily?(",
+      "hi": "मानव पाचन तंत्र में पित्त रस (Bile) का निर्माण किस अंग में होता है और इसका भंडारण कहाँ होता है?)",
+      "options": [
+        "Synthesized in Pancreas, stored in Liver",
+        "Synthesized in Liver, stored in Gallbladder",
+        "Synthesized in Stomach, stored in Small Intestine",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Synthesized in Liver, stored in GallbladderDetailed",
+      "explanation": "Bile juice is synthesized continuously by hepatic cells of the liver and concentrated/stored in the gallbladder. It contains no digestive enzymes but contains bile salts that emulsify dietary fats.💡 Exam Setter's Tips & Quick Tricks: Classic trap: Liver produces bile; Gallbladder only stores and concentrates it.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which of the following optical phenomena is fundamentally responsible for the formation of a rainbow in the sky?",
+      "hi": "आकाश में इन्द्रधनुष के निर्माण के लिए निम्नलिखित में से कौन-सी प्रकाशिक घटनाएँ उत्तरदायी हैं?",
+      "options": [
+        "Refraction and Dispersion only",
+        "Total Internal Reflection only",
+        "Refraction, Dispersion, and Internal Reflection",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Refraction, Dispersion, and Internal ReflectionDetailed",
+      "explanation": "Rainbow formation involves refraction and dispersion of sunlight as it enters water droplets, followed by total internal reflection at the back of the droplet, and refraction again as it exits.💡 Exam Setter's Tips & Quick Tricks: Three-stage optical process: Refraction -> Dispersion -> Total Internal Reflection.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "What is the chemical formula of Plaster of Paris?",
+      "hi": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र क्या है?",
+      "options": [
+        "CaSO4 · 2H2O",
+        "CaSO4 · 1/2H2O",
+        "CaSO4 · H2O",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "CaSO4 · 1/2H2ODetailed",
+      "explanation": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating gypsum (CaSO4 · 2H2O) at 373 K (100°C).💡 Exam Setter's Tips & Quick Tricks: Gypsum = dihydrate (2H2O); Plaster of Paris = hemihydrate (1/2 H2O).",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A concave mirror produces a virtual, erect, and magnified image of an object when the object is placed",
+      "hi": "अवतल दर्पण किसी वस्तु का आभासी, सीधा और बड़ा प्रतिबिम्ब कब बनाता है?",
+      "options": [
+        "At the Centre of Curvature",
+        "Between the Focus and Pole",
+        "At the Principal Focus",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Between the Focus and PoleDetailed",
+      "explanation": "A concave mirror forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).💡 Exam Setter's Tips & Quick Tricks: Only position for virtual image in concave mirror = Object between Focus and Pole.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which endocrine gland in the human body is popularly designated as the 'Master Gland'?",
+      "hi": "मानव शरीर की किस अन्तःस्रावी ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
+      "options": [
+        "Thyroid Gland",
+        "Pituitary Gland",
+        "Adrenal Gland",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pituitary GlandDetailed",
+      "explanation": "The pituitary gland (hypophysis) is called the master gland because its tropic hormones regulate the secretion of thyroid, adrenal cortex, and gonads, under hypothalamus control.💡 Exam Setter's Tips & Quick Tricks: Master Gland = Pituitary; Master of Master Gland = Hypothalamus.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Galvanization is the process of applying a protective coating of which metal onto iron or steel to prevent rusting?(",
+      "hi": "लोहे या इस्पात को जंग से बचाने के लिए उस पर किस धातु की परत चढ़ाने की प्रक्रिया को गैल्वनीकरण (यशदलेपन) कहते हैं?)",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Tin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "ZincDetailed",
+      "explanation": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode because it oxidizes preferentially over iron.💡 Exam Setter's Tips & Quick Tricks: Galvanization = Zinc (Zn) coating on Iron (Fe).",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Sound waves cannot propagate through which of the following media?",
+      "hi": "ध्वनि तरंगें निम्नलिखित में से किस माध्यम में संचरण नहीं कर सकती हैं?",
+      "options": [
+        "Solids",
+        "Liquids",
+        "Vacuum",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "VacuumDetailed",
+      "explanation": "Sound waves are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through vacuum, whereas electromagnetic waves (light) can.💡 Exam Setter's Tips & Quick Tricks: Speed of sound: Solids > Liquids > Gases > Vacuum (zero).",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "In which historic Session of the Indian National Congress was the resolution for 'Purna Swaraj' (Complete Independence) formally adopted?",
+      "hi": "भारतीय राष्ट्रीय कांग्रेस के किस ऐतिहासिक अधिवेशन में 'पूर्ण स्वराज' का प्रस्ताव पारित किया गया था?",
+      "options": [
+        "1920 Nagpur Session",
+        "1929 Lahore Session",
+        "1931 Karachi Session",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1929 Lahore SessionDetailed",
+      "explanation": "Under the presidency of Jawaharlal Nehru at the Lahore Session in December 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 January 1930 as Independence Day.💡 Exam Setter's Tips & Quick Tricks: 1929 Lahore = Purna Swaraj + Tri-colour hoisted on the banks of Ravi.",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Bihar was separated from the Bengal Presidency and created as an independent Province in which year?",
+      "hi": "बिहार को बंगाल प्रेसीडेंसी से अलग कर एक स्वतंत्र प्रांत के रूप में किस वर्ष गठित किया गया था?",
+      "options": [
+        "1905",
+        "1912",
+        "1936",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1912Detailed",
+      "explanation": "Announced at the Delhi Durbar in December 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 April 1912. Orissa was subsequently separated from Bihar on 1 April 1936.💡 Exam Setter's Tips & Quick Tricks: 1912 = Bihar & Orissa separated from Bengal; 1936 = Orissa separated from Bihar; 2000 = Jharkhand separated from Bihar.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Who were the principal leaders of the famous Santhal Rebellion of 1855-56 in the Rajmahal hills?",
+      "hi": "1855-56 में राजमहल की पहाड़ियों में हुए प्रसिद्ध संथाल विद्रोह के प्रमुख नेता कौन थे?",
+      "options": [
+        "Birsa Munda and Gaya Munda",
+        "Sidhu and Kanhu",
+        "Jatra Bhagat and Tana Bhagat",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sidhu and KanhuDetailed",
+      "explanation": "The Santhal Hool (Rebellion) was led by four brothers—Sidhu, Kanhu, Chand, and Bhairav—in Damin-i-Koh against oppressive British revenue collectors, police, and mahajans (moneylenders).💡 Exam Setter's Tips & Quick Tricks: Santhal Rebellion (1855-56) = Sidhu & Kanhu; Munda Ulgulan (1899-1900) = Birsa Munda.",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Who authored the celebrated revolutionary book 'Bandi Jiwan', which served as a textbook for Indian freedom fighters?",
+      "hi": "प्रसिद्ध क्रांतिकारी पुस्तक 'बंदी जीवन' के लेखक कौन थे, जिसे क्रांतिकारियों की पाठ्यपुस्तक कहा जाता था?",
+      "options": [
+        "Bhagat Singh",
+        "Sachindra Nath Sanyal",
+        "Barindra Kumar Ghosh",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sachindra Nath SanyalDetailed",
+      "explanation": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.💡 Exam Setter's Tips & Quick Tricks: 'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay.",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "In which district of Bihar is the picturesque 'Kakolat Waterfall' situated?",
+      "hi": "बिहार के किस जिले में प्रसिद्ध 'ककोलत जलप्रपात' स्थित है?",
+      "options": [
+        "Rohtas",
+        "Nawada",
+        "Kaimur",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "NawadaDetailed",
+      "explanation": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.💡 Exam Setter's Tips & Quick Tricks: Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas).",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "As per the Census of 2011, which district of Bihar has the highest population density?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले का जनसंख्या घनत्व सर्वाधिक है?",
+      "options": [
+        "Patna",
+        "Sheohar",
+        "Darbhanga",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "SheoharDetailed",
+      "explanation": "Sheohar has the highest population density in Bihar with 1,880 persons per sq km, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq km.💡 Exam Setter's Tips & Quick Tricks: Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488).",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which Constitutional Amendment Act reduced the voting age for citizens of India from 21 years to 18 years?",
+      "hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय नागरिकों के लिए मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी?",
+      "options": [
+        "44th Constitutional Amendment Act",
+        "61st Constitutional Amendment Act",
+        "73rd Constitutional Amendment Act",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "61st Constitutional Amendment ActDetailed",
+      "explanation": "The 61st Constitutional Amendment Act of 1988 amended Article 326 of the Constitution, lowering the voting age from 21 to 18 years. It came into force on 28 March 1989 under Rajiv Gandhi's government.💡 Exam Setter's Tips & Quick Tricks: Voting age reduction (21 to 18) = 61st Amendment 1988 (Article 326).",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The prestigious G20 Leaders' Summit 2023 under India's Presidency was convened at which architectural convention centre in New Delhi?",
+      "hi": "भारत की अध्यक्षता में प्रतिष्ठित G20 शिखर सम्मेलन 2023 का आयोजन नई दिल्ली के किस अंतर्राष्ट्रीय सम्मेलन केंद्र में किया गया था?",
+      "options": [
+        "Yashobhoomi Convention Centre",
+        "Bharat Mandapam (Pragati Maidan)",
+        "Vigyan Bhawan",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bharat Mandapam (Pragati Maidan)Detailed",
+      "explanation": "The 18th G20 Heads of State and Government Summit was held on 9-10 September 2023 at the newly renovated Bharat Mandapam International Exhibition-Convention Centre at Pragati Maidan, New Delhi.💡 Exam Setter's Tips & Quick Tricks: G20 Summit venue = Bharat Mandapam (Pragati Maidan); Theme: Vasudhaiva Kutumbakam.",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A train 240 metres long crosses a platform of length 260 metres in 25 seconds. What is the speed of the train in km/h?",
+      "hi": "240 मीटर लंबी एक रेलगाड़ी 260 मीटर लंबे प्लेटफॉर्म को 25 सेकंड में पार करती है। रेलगाड़ी की गति किमी/घंटा में क्या है?",
+      "options": [
+        "64 km/h",
+        "72 km/h",
+        "80 km/h",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "72 km/hDetailed",
+      "explanation": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 seconds. Speed = 500 / 25 = 20 m/s. Converting to km/h = 20 * (18/5) = 72 km/h.💡 Exam Setter's Tips & Quick Tricks: Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 km/h.",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "If a sum of money doubles itself in 5 years at simple interest, in how many years will it become 4 times of itself at the same rate?",
+      "hi": "यदि कोई धनराशि साधारण ब्याज पर 5 वर्ष में दोगुनी हो जाती है, तो उसी दर पर वह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "options": [
+        "10 years",
+        "15 years",
+        "20 years",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "15 yearsDetailed",
+      "explanation": "Let principal = P. Doubling means SI = P in 5 years. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 years.💡 Exam Setter's Tips & Quick Tricks: Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 years.",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A can do a piece of work in 12 days and B can do it in 18 days. If they work together for 4 days, what fraction of work remains to be finished?",
+      "hi": "A किसी कार्य को 12 दिनों में और B उसे 18 दिनों में कर सकता है। यदि वे 4 दिनों तक एक साथ कार्य करते हैं, तो कार्य का कितना भाग शेष रह जाएगा?",
+      "options": [
+        "4/9",
+        "5/9",
+        "1/3",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "4/9Detailed",
+      "explanation": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/day, B's efficiency = 2 units/day. Together in 4 days = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.💡 Exam Setter's Tips & Quick Tricks: 1-day combined work = 1/12 + 1/18 = 5/36. In 4 days = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9.",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The perimeter of a rectangular field is 80 metres and its length is 8 metres more than its breadth. What is the area of the field?",
+      "hi": "एक आयताकार मैदान का परिमाप 80 मीटर है और उसकी लंबाई उसकी चौड़ाई से 8 मीटर अधिक है। मैदान का क्षेत्रफल क्या है?",
+      "options": [
+        "364 sq metres",
+        "384 sq metres",
+        "400 sq metres",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "384 sq metresDetailed",
+      "explanation": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.💡 Exam Setter's Tips & Quick Tricks: L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m.",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which non-metal is in liquid state at standard room temperature (25°C)?(",
+      "hi": "मानक कमरे के तापमान (25°C) पर कौन-सा अधातु द्रव अवस्था में रहता है?)",
+      "options": [
+        "Mercury",
+        "Bromine",
+        "Chlorine",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "BromineDetailed",
+      "explanation": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.💡 Exam Setter's Tips & Quick Tricks: Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br).",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "In the human circulatory system, which blood vessels carry oxygenated blood from the lungs back to the left atrium of the heart?(",
+      "hi": "मानव परिसंचरण तंत्र में फेफड़ों से शुद्ध (ऑक्सीजनयुक्त) रक्त हृदय के बाएं अलिंद में लाने वाली रक्त वाहिकाएँ कौन-सी हैं?)",
+      "options": [
+        "Pulmonary Artery",
+        "Pulmonary Veins",
+        "Vena Cava",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pulmonary VeinsDetailed",
+      "explanation": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to lungs, while pulmonary veins carry oxygenated blood from lungs to left atrium.💡 Exam Setter's Tips & Quick Tricks: Exception to vein rule: Pulmonary veins carry oxygen-rich blood.",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The twinkling of stars in the night sky is an optical manifestation of",
+      "hi": "रात्रि के समय तारों का टिमटिमाना किस प्रकाशिक घटना का परिणाम है?",
+      "options": [
+        "Total Internal Reflection of starlight",
+        "Atmospheric Refraction of starlight through air layers of varying optical density",
+        "Periodic Dispersion of starlight by cloud moisture",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Atmospheric Refraction of starlight through air layers of varying optical densityDetailed",
+      "explanation": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.💡 Exam Setter's Tips & Quick Tricks: Star twinkling = Atmospheric Refraction; Advanced sunrise & delayed sunset = Atmospheric Refraction.",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "What is the pH value of pure water at 25°C?",
+      "hi": "25°C पर शुद्ध जल का pH मान क्या होता है?",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7Detailed",
+      "explanation": "Pure neutral water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are acidic, and pH > 7 are alkaline.💡 Exam Setter's Tips & Quick Tricks: Neutral pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Who established the 'India House' in London in 1905 as a vibrant revolutionary centre for Indian nationalist students?",
+      "hi": "1905 में लंदन में भारतीय राष्ट्रवादी छात्रों के लिए क्रांतिकारी केंद्र 'इंडिया हाउस' की स्थापना किसने की थी?",
+      "options": [
+        "Lala Har Dayal",
+        "Shyamji Krishna Varma",
+        "Madam Bhikaji Cama",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Shyamji Krishna VarmaDetailed",
+      "explanation": "Shyamji Krishna Varma founded the Indian Home Rule Society and India House in London in 1905. He also published the monthly journal 'The Indian Sociologist'. V.D. Savarkar and Madan Lal Dhingra were associated with India House.💡 Exam Setter's Tips & Quick Tricks: India House (London, 1905) = Shyamji Krishna Varma; Ghadar Party (San Francisco, 1913) = Lala Har Dayal.",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "During the Salt Satyagraha of 1930 in Patna, which historic location was chosen by the local leaders to manufacture salt and defy colonial law?",
+      "hi": "1930 के नमक सत्याग्रह के दौरान पटना में स्थानीय नेताओं द्वारा नमक बनाने और औपनिवेशिक कानून की अवज्ञा के लिए किस ऐतिहासिक स्थल को चुना गया था?",
+      "options": [
+        "Gandhi Maidan",
+        "Nakhas Pond (नखास पिंड)",
+        "Sadaqat Ashram",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nakhas Pond (नखास पिंड)Detailed",
+      "explanation": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 April 1930 to manufacture salt and inaugurate the civil disobedience movement.💡 Exam Setter's Tips & Quick Tricks: Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which mountain peak is the highest point in South India and the Western Ghats?",
+      "hi": "दक्षिण भारत और पश्चिमी घाट की सबसे ऊँची पर्वत चोटी कौन-सी है?",
+      "options": [
+        "Doddabetta",
+        "Anamudi",
+        "Mahendragiri",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "AnamudiDetailed",
+      "explanation": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.💡 Exam Setter's Tips & Quick Tricks: Highest peak of South India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m).",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which river in Bihar is infamously referred to as the 'Sorrow of Bihar' due to its frequent avulsion and catastrophic floodings?",
+      "hi": "बिहार की किस नदी को उसके मार्ग परिवर्तन और विनाशकारी बाढ़ के कारण 'बिहार का शोक' कहा जाता है?",
+      "options": [
+        "Gandak River",
+        "Kosi River",
+        "Bagmati River",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kosi RiverDetailed",
+      "explanation": "The Kosi River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 km over 250 years, causing repeated disasters.💡 Exam Setter's Tips & Quick Tricks: Sorrow of Bihar = Kosi; Sorrow of Bengal = Damodar.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "As per Census 2011, which district in Bihar recorded the highest overall literacy rate?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले में समग्र साक्षरता दर सर्वाधिक दर्ज की गई?",
+      "options": [
+        "Patna",
+        "Rohtas",
+        "Bhojpur",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "RohtasDetailed",
+      "explanation": "Rohtas district recorded the highest overall literacy rate in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is second with 70.68%.💡 Exam Setter's Tips & Quick Tricks: Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%).",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "According to Lindeman's 10% Ecological Law, how much energy is transferred from one trophic level to the next higher trophic level?",
+      "hi": "लिंडमैन के 10% पारिस्थितिक नियम के अनुसार, एक पोषी स्तर से अगले उच्च पोषी स्तर तक कितनी ऊर्जा स्थानांतरित होती है?",
+      "options": [
+        "1%",
+        "10%",
+        "50%",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10%Detailed",
+      "explanation": "Formulated by Raymond Lindeman in 1942, during energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and respiration, leaving only ~10% stored as flesh for the next trophic level.💡 Exam Setter's Tips & Quick Tricks: Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links.",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which emergency evacuation mission was executed by the Government of India in 2022 to evacuate Indian citizens stranded during the conflict in Ukraine?",
+      "hi": "2022 में यूक्रेन युद्ध के दौरान फंसे भारतीय नागरिकों को सुरक्षित निकालने के लिए भारत सरकार द्वारा कौन-सा राहत अभियान चलाया गया था?",
+      "options": [
+        "Operation Devi Shakti",
+        "Operation Ganga",
+        "Operation Kaveri",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Operation GangaDetailed",
+      "explanation": "Operation Ganga was launched in late February 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).💡 Exam Setter's Tips & Quick Tricks: Operation Ganga = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023).",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Under which Article of the Constitution of India is the Supreme Court empowered to issue writs for the enforcement of Fundamental Rights?",
+      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत सर्वोच्च न्यायालय को मौलिक अधिकारों के प्रवर्तन के लिए रिट जारी करने की शक्ति प्राप्त है?",
+      "options": [
+        "Article 32",
+        "Article 131",
+        "Article 226",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Article 32Detailed",
+      "explanation": "Article 32 guarantees the Right to Constitutional Remedies, empowering the Supreme Court to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under Article 226.💡 Exam Setter's Tips & Quick Tricks: Supreme Court Writs = Article 32 (Heart & Soul of Constitution by Ambedkar); High Court Writs = Article 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    }
+  ]
+}

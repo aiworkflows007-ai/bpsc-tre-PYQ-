@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set13",
+  "title": "General Studies Practice Set 13 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "By selling an article for ₹720, a shopkeeper incurs a loss of 20%. At what price should he sell the article to gain 20% profit?",
+      "hi": "किसी वस्तु को ₹720 में बेचने पर एक दुकानदार को 20% की हानि होती है। 20% का लाभ अर्जित करने के लिए उसे इस वस्तु को किस मूल्य पर बेचना चाहिए?",
+      "options": [
+        "₹960",
+        "₹1,080",
+        "₹1,200",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹1,080Detailed",
+      "explanation": "CP = SP / (1 - Loss%) = 720 / 0.80 = ₹900. Required SP for 20% gain = CP * (1 + Gain%) = 900 * 1.20 = ₹1,080.💡 Exam Setter's Tips & Quick Tricks: Direct formula: SP2 = SP1 * (100 + G)/(100 - L) = 720 * (120 / 80) = 720 * 1.5 = ₹1,080.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Divide ₹1,200 among A, B, and C in the ratio 2 : 3 : 5. What is the share of C?",
+      "hi": "₹1,200 की धनराशि को A, B और C के बीच 2 : 3 : 5 के अनुपात में विभाजित किया जाता है। C का हिस्सा क्या है?",
+      "options": [
+        "₹400",
+        "₹600",
+        "₹800",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹600Detailed",
+      "explanation": "Total ratio parts = 2 + 3 + 5 = 10 parts. 1 part = 1200 / 10 = ₹120. C's share = 5 parts = 5 * 120 = ₹600.💡 Exam Setter's Tips & Quick Tricks: C's share = (5/10) * 1200 = 1/2 of ₹1200 = ₹600.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "A student walks from his home to school at a speed of 4 km/h and arrives 15 minutes late. If he walks at 6 km/h, he arrives exactly on time. What is the distance between his home and school?",
+      "hi": "एक छात्र अपने घर से 4 किमी/घंटा की गति से चलकर 15 मिनट देरी से विद्यालय पहुँचता है। यदि वह 6 किमी/घंटा की गति से चले तो ठीक समय पर पहुँचता है। उसके घर और विद्यालय के बीच की दूरी क्या है?",
+      "options": [
+        "2.5 km",
+        "3 km",
+        "3.5 km",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 kmDetailed",
+      "explanation": "Time difference = 15 minutes = 15/60 = 1/4 hour. Distance = (S1 * S2) / (S2 - S1) * Time difference = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 km.💡 Exam Setter's Tips & Quick Tricks: D = (4 * 6)/2 * (15/60) = 12 * (1/4) = 3 km.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the length of the diagonal of a rectangle whose length is 12 cm and breadth is 5 cm?",
+      "hi": "एक आयत के विकर्ण की लंबाई क्या होगी जिसकी लंबाई 12 सेमी और चौड़ाई 5 सेमी है?",
+      "options": [
+        "13 cm",
+        "15 cm",
+        "17 cm",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "13 cmDetailed",
+      "explanation": "By Pythagoras theorem, Diagonal = √(Length^2 + Breadth^2) = √(12^2 + 5^2) = √(144 + 25) = √169 = 13 cm.💡 Exam Setter's Tips & Quick Tricks: Standard Pythagorean triplet: (5, 12, 13) => Diagonal = 13 cm.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "How many times do the minute hand and the hour hand of a standard clock coincide (overlap) with each other in a complete 24-hour day?(",
+      "hi": "एक मानक घड़ी में 24 घंटे की पूरी अवधि में मिनट और घंटे की सुइयां कुल कितनी बार एक दूसरे के संपाती (Overlapping) होती हैं?)",
+      "options": [
+        "20 times",
+        "22 times",
+        "24 times",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "22 timesDetailed",
+      "explanation": "In every 12-hour period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-hour day, they coincide 11 * 2 = 22 times.💡 Exam Setter's Tips & Quick Tricks: Overlapping in 12 hours = 11 times; Overlapping in 24 hours = 22 times.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "India attained Independence on 15 August 1947, which was a Friday. What day of the week was India's first Republic Day on 26 January 1950?",
+      "hi": "भारत 15 अगस्त 1947 को स्वतंत्र हुआ जो शुक्रवार था। 26 जनवरी 1950 को जब पहला गणतंत्र दिवस मनाया गया, तो सप्ताह का कौन-सा दिन था?",
+      "options": [
+        "Wednesday",
+        "Thursday (बृहस्पतिवार)",
+        "Friday",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Thursday (बृहस्पतिवार)Detailed",
+      "explanation": "Total days from 15 Aug 1947 to 26 Jan 1950 = 895 days. Dividing 895 by 7 gives 127 weeks and 6 odd days. Friday + 6 days = Thursday.💡 Exam Setter's Tips & Quick Tricks: 15 August 1947 = Friday; 26 January 1950 = Thursday.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the SI unit of magnetic flux in electromagnetism?(",
+      "hi": "विद्युत चुंबकत्व में चुंबकीय फ्लक्स (Magnetic Flux) का SI मात्रक क्या है?)",
+      "options": [
+        "Tesla",
+        "Weber (Wb)",
+        "Henry",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Weber (Wb)Detailed",
+      "explanation": "Magnetic flux is measured in Weber (Wb = Tesla * m^2). Tesla (T) is the unit of magnetic flux density / magnetic field strength, and Henry (H) is the unit of inductance.💡 Exam Setter's Tips & Quick Tricks: Magnetic Flux = Weber (Wb); Magnetic Field = Tesla (T); Inductance = Henry (H).",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which English natural philosopher first demonstrated that white sunlight is composed of seven constituent colours by passing it through a glass prism in 1665?",
+      "hi": "1665 में कांच के प्रिज्म से गुजारकर सबसे पहले यह किसने प्रदर्शित किया था कि सूर्य का श्वेत प्रकाश सात संघटक रंगों से मिलकर बना है?",
+      "options": [
+        "Thomas Young",
+        "Sir Isaac Newton",
+        "Christiaan Huygens",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sir Isaac NewtonDetailed",
+      "explanation": "Sir Isaac Newton demonstrated spectrum dispersion using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).💡 Exam Setter's Tips & Quick Tricks: Discovery of light spectrum through prism = Sir Isaac Newton.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Household vinegar is an aqueous solution containing approximately 5% to 8% of which organic chemical acid?(",
+      "hi": "घरेलू सिरका (Vinegar) में लगभग 5% से 8% किस कार्बनिक अम्ल का जलीय घोल होता है?)",
+      "options": [
+        "Formic Acid",
+        "Acetic Acid (Ethanoic Acid, CH3COOH)",
+        "Lactic Acid",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Acetic Acid (Ethanoic Acid, CH3COOH)Detailed",
+      "explanation": "Vinegar is produced by bacterial fermentation of ethanol by Acetobacter into dilute acetic acid (CH3COOH, 5-8% v/v), widely used as a food preservative and flavoring.💡 Exam Setter's Tips & Quick Tricks: Vinegar = Acetic Acid (CH3COOH); Curd = Lactic Acid; Sour milk = Lactic Acid.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The natural pH indicator 'Litmus' is extracted from which symbiotic plant organism belonging to division Thallophyta?",
+      "hi": "प्राकृतिक pH सूचक 'लिटमस' थैलॉफाइटा वर्ग के किस सहजीवी पादप जीव से निष्कर्षित किया जाता है?",
+      "options": [
+        "Fungi",
+        "Lichen (लाइकेन)",
+        "Moss",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lichen (लाइकेन)Detailed",
+      "explanation": "Litmus is a water-soluble dye mixture extracted from lichens (predominantly Roccella tinctoria). Lichens represent a mutualistic symbiotic association between an alga (phycobiont) and a fungus (mycobiont).💡 Exam Setter's Tips & Quick Tricks: Litmus is extracted from Lichens; Lichens are sensitive bioindicators of SO2 air pollution.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which cellular organelle is universally designated as the 'Powerhouse of the Cell' because it synthesizes cellular energy in the form of ATP molecules?(",
+      "hi": "किस कोशिकीय अंगक को 'कोशिका का ऊर्जाघर' (Powerhouse of the Cell) कहा जाता है क्योंकि यह ATP अणुओं के रूप में कोशिकीय ऊर्जा उत्पन्न करता है?)",
+      "options": [
+        "Ribosome",
+        "Mitochondria (सूत्रकणिका)",
+        "Golgi Apparatus",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mitochondria (सूत्रकणिका)Detailed",
+      "explanation": "Mitochondria carry out the Krebs cycle and oxidative phosphorylation via inner membrane cristae to generate adenosine triphosphate (ATP), the universal chemical energy currency of eukaryotic cells.💡 Exam Setter's Tips & Quick Tricks: Powerhouse of Cell = Mitochondria; Protein Factory = Ribosomes; Suicidal Bags = Lysosomes.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which membrane-bound organelles containing powerful hydrolytic enzymes are known as the 'Suicidal Bags of the Cell'?(",
+      "hi": "शक्तिशाली पाचक हाइड्रोलाइटिक एंजाइमों से युक्त कौन-से झिल्लीदार अंगक 'कोशिका की आत्मघाती थैली' (Suicidal Bags) कहलाते हैं?)",
+      "options": [
+        "Centrosomes",
+        "Lysosomes (लाइसोसोम)",
+        "Peroxisomes",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lysosomes (लाइसोसोम)Detailed",
+      "explanation": "Discovered by Christian de Duve, lysosomes contain acidic hydrolytic enzymes that break down cellular debris. Under extreme metabolic stress or injury, lysosomes rupture, autolyzing and destroying the damaged cell.💡 Exam Setter's Tips & Quick Tricks: Suicidal Bags = Lysosomes; Discovered by Christian de Duve.",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the standard resting arterial blood pressure reading for a healthy adult human being measured in mm of Mercury (Hg)?(",
+      "hi": "पारे के मिमी (mm Hg) में मापा जाने वाला एक स्वस्थ वयस्क मनुष्य का मानक विश्राम रक्तचाप मान क्या होता है?)",
+      "options": [
+        "100/60 mm Hg",
+        "120/80 mm Hg",
+        "140/90 mm Hg",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "120/80 mm HgDetailed",
+      "explanation": "Normal adult blood pressure is 120/80 mm Hg, representing systolic pressure of 120 mm Hg during ventricular contraction and diastolic pressure of 80 mm Hg during ventricular relaxation, measured using a sphygmomanometer.💡 Exam Setter's Tips & Quick Tricks: Normal BP = 120/80 mm Hg (Systolic = 120, Diastolic = 80); Instrument = Sphygmomanometer.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Human saliva contains which digestive enzyme that initiates the chemical digestion of dietary starch into maltose sugars in the mouth?(",
+      "hi": "मानव लार में कौन-सा पाचक एंजाइम पाया जाता है जो मुखगुहा में स्टार्च (मंड) को माल्टोज शर्करा में तोड़ना प्रारंभ करता है?)",
+      "options": [
+        "Pepsin",
+        "Salivary Amylase (Ptyalin)",
+        "Trypsin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Salivary Amylase (Ptyalin)Detailed",
+      "explanation": "Salivary amylase (ptyalin, pH ~6.8) is secreted by salivary glands and hydrolyzes about 30% of dietary starch into maltose disaccharides in the oral cavity before swallowing.💡 Exam Setter's Tips & Quick Tricks: Starch digesting enzyme in mouth = Salivary Amylase (Ptyalin).",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the Chota Nagpur plateau of undivided Bihar, who were the foremost leaders of the armed rebellion of 1857?",
+      "hi": "अविभाजित बिहार के छोटानागपुर पठार में 1857 के सशस्त्र विद्रोह के प्रमुख नेता कौन थे?",
+      "options": [
+        "Thakur Bishwanath Shahdeo and Pandey Ganpat Rai",
+        "Nilamber and Pitamber",
+        "Raja Arjun Singh of Porahat",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "In Chota Nagpur, the 1857 movement was multi-faceted: Thakur Bishwanath Shahdeo and Pandey Ganpat Rai led the Ranchi Muktivahini; Nilamber and Pitamber led the Chero-Bhokta rebellion in Palamu; and Raja Arjun Singh led the revolt in Singhbhum. Because all of these were paramount leaders, (D) is the official key.💡 Exam Setter's Tips & Quick Tricks: 1857 leaders in Chota Nagpur: Ranchi = Thakur Bishwanath Shahdeo & Pandey Ganpat Rai; Palamu = Nilamber & Pitamber. Triggers Option (D).",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "During the Champaran Satyagraha in 1917, Mahatma Gandhi established his first experimental rural school on 14 November 1917 at which village in Bihar?",
+      "hi": "1917 के चंपारण सत्याग्रह के दौरान महात्मा गांधी ने 14 नवंबर 1917 को बिहार के किस गाँव में अपना पहला ग्रामीण बुनियादी विद्यालय स्थापित किया था?",
+      "options": [
+        "Bhitiharwa",
+        "Barharwa Lakhansen (बरहरवा लखनसेन)",
+        "Madhuban",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Barharwa Lakhansen (बरहरवा लखनसेन)Detailed",
+      "explanation": "Gandhi opened his first primary school on 14 November 1917 at Barharwa Lakhansen (20 miles east of Motihari) with teachers Babasaheb Soman and Sadashiv Lakshman Purohit. His second school was opened on 20 November 1917 at Bhitiharwa.💡 Exam Setter's Tips & Quick Tricks: First school by Gandhi in Champaran = Barharwa Lakhansen (14 Nov 1917); Second school = Bhitiharwa.",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In which year was Patna University, the premier and seventh oldest university of modern India, established by an Act of the Imperial Legislative Council?",
+      "hi": "इंपीरियल लेजिस्लेटिव काउंसिल के एक अधिनियम द्वारा भारत के 7वें सबसे पुराने विश्वविद्यालय 'पटना विश्वविद्यालय' की स्थापना किस वर्ष की गई थी?",
+      "options": [
+        "1912",
+        "1916",
+        "1917",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "1917Detailed",
+      "explanation": "Established under the Patna University Act in October 1917, it initially had jurisdiction over all educational colleges across Bihar, Orissa, and Nepal. (Patna High Court was opened in 1916).💡 Exam Setter's Tips & Quick Tricks: Patna High Court = 1916; Patna University = 1917; PMCH (Prince of Wales Medical College) = 1925.",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who served as the first President of the Bihar Legislative Council (बिहार विधान परिषद) when the bicameral legislature was inaugurated under the Government of India Act 1935 in 1937?",
+      "hi": "1937 में भारत शासन अधिनियम 1935 के तहत द्विसदनीय विधानमंडल के गठन पर बिहार विधान परिषद के प्रथम सभापति कौन बने थे?",
+      "options": [
+        "Sir Ganesh Dutt",
+        "Dr. Sachchidananda Sinha",
+        "Rajiv Ranjan Prasad Sinha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Rajiv Ranjan Prasad SinhaDetailed",
+      "explanation": "Following the 1937 provincial elections, Rajiv Ranjan Prasad Sinha was elected as the first President of the newly constituted Bihar Legislative Council on 22 July 1937. (Ramdayalu Singh was elected first Speaker of the Legislative Assembly).💡 Exam Setter's Tips & Quick Tricks: 1937 Bihar Legislature: Assembly Speaker = Ramdayalu Singh; Council President = Rajiv Ranjan Prasad Sinha.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The River Bagmati, originating in the Shivapuri hills near Kathmandu in Nepal, enters Bihar in which district?",
+      "hi": "नेपाल में काठमांडू के निकट शिवपुरी पहाड़ियों से निकलने वाली बागमती नदी बिहार के किस जिले में प्रवेश करती है?",
+      "options": [
+        "West Champaran",
+        "Sitamarhi (Shorwat)",
+        "Madhubani",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sitamarhi (Shorwat)Detailed",
+      "explanation": "The Bagmati River enters Bihar near Shorwat in Sitamarhi district and flows through Sheohar, Muzaffarpur, and Darbhanga before joining the Kosi/Kamla river system.💡 Exam Setter's Tips & Quick Tricks: Bagmati enters Bihar at Sitamarhi; Gandak enters at West Champaran; Kamla enters at Madhubani (Jayanagar).",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which city in Bihar is celebrated as the 'Silk City' of India, renowned worldwide for its Bhagalpuri Tussar silk weaving?",
+      "hi": "बिहार के किस शहर को अपने भागलपुरी टसर रेशम वस्त्र उद्योग के लिए 'सिल्क सिटी' कहा जाता है?",
+      "options": [
+        "Gaya",
+        "Bhagalpur",
+        "Madhubani",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "BhagalpurDetailed",
+      "explanation": "Bhagalpur has a centuries-old tradition of sericulture and handloom weaving producing high-quality Tussar and Ahimsa silk, earning it the title 'Silk City' and a Geographical Indication (GI) tag.💡 Exam Setter's Tips & Quick Tricks: Silk City of Bihar = Bhagalpur; Famous for Tussar Silk (GI tag).",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the Supreme Court of India, which Article of the Constitution guarantees the right of citizens to move the court by appropriate proceedings for the enforcement of Fundamental Rights?",
+      "hi": "भारतीय संविधान का कौन-सा अनुच्छेद नागरिकों को मौलिक अधिकारों के प्रवर्तन के लिए सीधे सर्वोच्च न्यायालय में जाने के अधिकार की गारंटी देता है?",
+      "options": [
+        "Article 19",
+        "Article 32",
+        "Article 226",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 32Detailed",
+      "explanation": "Article 32 itself is a Fundamental Right (Right to Constitutional Remedies) described by Dr. Ambedkar as the 'heart and soul of the Constitution'. Under it, the Supreme Court issues prerogative writs.💡 Exam Setter's Tips & Quick Tricks: Article 32 = Supreme Court writ jurisdiction (Fundamental Right); Article 226 = High Court writ jurisdiction.",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which Constitutional Amendment Act added the Tenth Schedule (Anti-Defection Law) to the Constitution of India in 1985?(1985",
+      "hi": "में किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान में दसवीं अनुसूची (दल-बदल विरोधी कानून) जोड़ी गई थी?)",
+      "options": [
+        "44th Amendment Act",
+        "52nd Amendment Act 1985",
+        "61st Amendment Act",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "52nd Amendment Act 1985Detailed",
+      "explanation": "The 52nd Constitutional Amendment Act 1985 inserted the Tenth Schedule, laying down disqualification of legislators on grounds of defection from their political party.💡 Exam Setter's Tips & Quick Tricks: Anti-Defection Law = 52nd Amendment Act 1985 (Tenth Schedule); Strengthened by 91st Amendment 2003.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who is the first tribal woman to be elected as the President of India, assuming office as the 15th President in July 2022?",
+      "hi": "जुलाई 2022 में भारत की 15वीं राष्ट्रपति के रूप में पदभार ग्रहण करने वाली देश की पहली आदिवासी महिला कौन हैं?",
+      "options": [
+        "Pratibha Patil",
+        "Smt. Droupadi Murmu",
+        "Meira Kumar",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Smt. Droupadi MurmuDetailed",
+      "explanation": "Smt. Droupadi Murmu, belonging to the Santhal tribal community of Mayurbhanj, Odisha and former Governor of Jharkhand, was sworn in on 25 July 2022 as the 15th President of India.💡 Exam Setter's Tips & Quick Tricks: 15th President of India = Smt. Droupadi Murmu (First tribal and second woman President after Pratibha Patil).",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What was the Sanskrit phrase adopted as the official motto and theme of India's G20 Presidency in 2023?",
+      "hi": "2023 में भारत की G20 अध्यक्षता का आधिकारिक आदर्श वाक्य और विषय कौन-सा संस्कृत वाक्य था?",
+      "options": [
+        "सत्यमेव जयते",
+        "वसुधैव कुटुम्बकम् (One Earth, One Family, One Future)",
+        "सर्वे भवन्तु सुखिनः",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "वसुधैव कुटुम्बकम् (One Earth, One Family, One Future)Detailed",
+      "explanation": "Drawn from the ancient Maha Upanishad, 'Vasudhaiva Kutumbakam' (The World is One Family) with the English tagline 'One Earth · One Family · One Future' was the theme of India's G20 Presidency.💡 Exam Setter's Tips & Quick Tricks: G20 Theme = Vasudhaiva Kutumbakam (Maha Upanishad) -> One Earth, One Family, One Future.",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "A train 150 m long crosses a bridge 250 m long in 20 seconds. What is the speed of the train in km/h?",
+      "hi": "150 मीटर लंबी एक रेलगाड़ी 250 मीटर लंबे पुल को 20 सेकंड में पार करती है। रेलगाड़ी की गति किमी/घंटा में क्या है?",
+      "options": [
+        "60 km/h",
+        "72 km/h",
+        "80 km/h",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "72 km/hDetailed",
+      "explanation": "Distance = 150 + 250 = 400 m. Time = 20 s. Speed = 400 / 20 = 20 m/s. In km/h = 20 * (18/5) = 72 km/h.💡 Exam Setter's Tips & Quick Tricks: Speed = (150+250)/20 = 20 m/s * 18/5 = 72 km/h.",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the value of: (0.7 * 0.7 * 0.7 + 0.3 * 0.3 * 0.3) / (0.7 * 0.7 - 0.7 * 0.3 + 0.3 * 0.3)?(",
+      "hi": "मान ज्ञात कीजिए: (0.7 * 0.7 * 0.7 + 0.3 * 0.3 * 0.3) / (0.7 * 0.7 - 0.7 * 0.3 + 0.3 * 0.3))",
+      "options": [
+        "0.4",
+        "1.0",
+        "0.21",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1.0Detailed",
+      "explanation": "Algebraic identity: (a^3 + b^3) / (a^2 - ab + b^2) = a + b. Here a = 0.7 and b = 0.3. Value = 0.7 + 0.3 = 1.0.💡 Exam Setter's Tips & Quick Tricks: Standard identity (a^3 + b^3)/(a^2 - ab + b^2) = a + b = 0.7 + 0.3 = 1.",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which blood vessels possess one-way internal valves to prevent backflow of blood against gravity towards the heart?(",
+      "hi": "गुरुत्वाकर्षण के विपरीत रक्त के पीछे बहने को रोकने के लिए किन रक्त वाहिकाओं में आंतरिक कपाट (Valves) पाए जाते हैं?)",
+      "options": [
+        "Arteries",
+        "Veins (शिराएं)",
+        "Capillaries",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Veins (शिराएं)Detailed",
+      "explanation": "Veins carry deoxygenated blood under low hydrostatic pressure towards the heart. Semilunar valves in veins prevent backflow of venous blood caused by gravity, assisted by skeletal muscle pumping.💡 Exam Setter's Tips & Quick Tricks: Blood vessels with valves = Veins; Thick muscular elastic walls without valves = Arteries.",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the chemical name and composition of 'Bordeaux Mixture' widely used by farmers as an agricultural fungicide?(",
+      "hi": "किसानों द्वारा कृषि कवकनाशी (Fungicide) के रूप में व्यापक रूप से उपयोग किए जाने वाले 'बोर्डो मिश्रण' (Bordeaux mixture) का रासायनिक संघटन क्या है?)",
+      "options": [
+        "Copper Sulphate and Slaked Lime (CuSO4 + Ca(OH)2)",
+        "Zinc Sulphate and Lime",
+        "Ferrous Sulphate and Urea",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Copper Sulphate and Slaked Lime (CuSO4 + Ca(OH)2)Detailed",
+      "explanation": "Discovered by P. M. A. Millardet in Bordeaux (France) in 1882, Bordeaux mixture is a suspension of copper sulfate (CuSO4) and slaked lime (Ca(OH)2) in water, highly effective against downy mildew of grapevine and potato blight.💡 Exam Setter's Tips & Quick Tricks: Bordeaux Mixture = Copper Sulphate + Slaked Lime (CuSO4 + Ca(OH)2).",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who led the 1857 Revolt in the district of Rohtas and Sasaram, providing logistical support to Kunwar Singh?",
+      "hi": "रोहतास और सासाराम जिले में 1857 के विद्रोह का नेतृत्व किसने किया था और कुंवर सिंह को रसद व सैन्य सहायता प्रदान की थी?",
+      "options": [
+        "Nishan Singh",
+        "Amar Singh",
+        "Jodhar Singh",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "In the Rohtas/Sasaram region, Nishan Singh (of Badiha, Rohtas) was the commander, Jodhar Singh led local forces, and Amar Singh established the base in Rohtasgarh fort and Kaimur hills. Because Nishan Singh and Amar Singh both operated prominently in Rohtas, (D) is the official key.💡 Exam Setter's Tips & Quick Tricks: 1857 Rohtas leaders = Nishan Singh & Amar Singh. Triggers Option (D).",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In which year was the first railway line in Bihar opened, connecting Howrah to Raniganj and extended to Rajmahal and Patna?",
+      "hi": "बिहार में पहली रेलवे लाइन किस वर्ष शुरू की गई थी जो हावड़ा से रानीगंज होते हुए राजमहल और पटना तक विस्तारित हुई थी?",
+      "options": [
+        "1853",
+        "1860-62",
+        "1885",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1860-62Detailed",
+      "explanation": "The East Indian Railway (EIR) line in Bihar was opened in 1860-62, connecting Howrah with Patna (Bankipore) and onward to Mughal Sarai along the Ganga loop line.💡 Exam Setter's Tips & Quick Tricks: First railway in India = 1853 (Bombay-Thane); First railway in Bihar = 1860-62 (East Indian Railway).",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which river forms the boundary between the Indian State of Bihar and the State of Uttar Pradesh along part of its course?",
+      "hi": "कौन-सी नदी अपने प्रवाह के एक भाग में बिहार और उत्तर प्रदेश राज्यों के बीच सीमा बनाती है?",
+      "options": [
+        "Gandak River",
+        "Karmanasa River",
+        "Ghaghra River",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "Three rivers form parts of the natural boundary between Bihar and Uttar Pradesh: the Gandak (in West Champaran), the Ghaghra (in Saran/Siwan), and the Karmanasa (in Kaimur/Buxar). Since all three form boundaries, (D) is the official key.💡 Exam Setter's Tips & Quick Tricks: Border rivers between Bihar & UP = Gandak, Ghaghra, Karmanasa. Option (D) More than one of the above.",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under the Constitution of India, the power to grant pardons and commute death sentences is vested exclusively in the",
+      "hi": "भारतीय संविधान के तहत मृत्युदंड की सजा को माफ करने और लघुकरण की अनन्य शक्ति किसमें निहित है?",
+      "options": [
+        "President of India",
+        "Governor of the State",
+        "Chief Justice of India",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "President of IndiaDetailed",
+      "explanation": "Under Article 72, the President has the exclusive power to pardon death sentences. Although Article 161 empowers the Governor to commute or suspend sentences, the Governor cannot grant an absolute pardon in death penalty cases.💡 Exam Setter's Tips & Quick Tricks: Absolute pardon for death sentence = President of India alone (Article 72).",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the name of the prestigious educational residential school established in 1954 in Netarhat (undivided Bihar) by the Government of Bihar?(",
+      "hi": "बिहार सरकार द्वारा 1954 में नेतरहाट (अविभाजित बिहार) में स्थापित प्रतिष्ठित आवासीय विद्यालय का क्या नाम है?)",
+      "options": [
+        "Sainik School Tilaiya",
+        "Netarhat Vidyalaya (नेतरहाट विद्यालय)",
+        "Navodaya Vidyalaya",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Netarhat Vidyalaya (नेतरहाट विद्यालय)Detailed",
+      "explanation": "Established on 15 November 1954 under the vision of Chief Minister Dr. Sri Krishna Singh and principal Charles Napier, Netarhat Vidyalaya was conceived on Gurukul lines and produced outstanding civil servants, scientists, and academics.💡 Exam Setter's Tips & Quick Tricks: Netarhat Vidyalaya established in 1954 by Bihar Government (Founder Principal: Charles Napier).",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which prominent leader from Bihar served as the Chairman of the All-India Forward Bloc in 1940 and led the Subhas Chandra Bose forward movement?",
+      "hi": "बिहार के किस प्रमुख नेता ने 1940 में ऑल इंडिया फॉरवर्ड ब्लॉक के सम्मेलन में भाग लिया और सुभाष चंद्र बोस के आंदोलन का नेतृत्व किया?",
+      "options": [
+        "Sheel Bhadra Yagee (शीलभद्र याजी)",
+        "Baikunth Shukla",
+        "Jaglal Choudhary",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Sheel Bhadra Yagee (शीलभद्र याजी)Detailed",
+      "explanation": "Sheel Bhadra Yagee of Bakhtiyarpur (Patna) was Subhas Chandra Bose's trusted associate in Bihar, founding member and President of the All India Forward Bloc, actively participating in the INA movement.💡 Exam Setter's Tips & Quick Tricks: Forward Bloc / INA leader from Bihar = Sheel Bhadra Yagee.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the Indian financial system, which apex bank acts as the 'Lender of Last Resort' and Banker to Banks?(",
+      "hi": "भारतीय वित्तीय प्रणाली में कौन-सा शीर्ष बैंक 'अंतिम ऋणदाता' (Lender of Last Resort) और बैंकों के बैंकर के रूप में कार्य करता है?)",
+      "options": [
+        "State Bank of India",
+        "Reserve Bank of India (RBI)",
+        "National Bank for Agriculture and Rural Development (NABARD)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Reserve Bank of India (RBI)Detailed",
+      "explanation": "Established on 1 April 1935 under the RBI Act 1934 on the recommendation of the Hilton Young Commission, the RBI regulates currency issue, monetary policy, and acts as the lender of last resort to commercial banks.💡 Exam Setter's Tips & Quick Tricks: Central Bank / Lender of Last Resort = Reserve Bank of India (RBI, established 1935).",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the tenure of the Comptroller and Auditor General (CAG) of India in constitutional office?(",
+      "hi": "भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) के संवैधानिक पद का कार्यकाल कितना होता है?)",
+      "options": [
+        "5 years or up to 62 years of age",
+        "6 years or up to 65 years of age, whichever is earlier",
+        "5 years or up to 65 years of age",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "6 years or up to 65 years of age, whichever is earlierDetailed",
+      "explanation": "Under the CAG (Duties, Powers and Conditions of Service) Act 1971, the CAG holds office for a term of 6 years or until attaining the age of 65 years, whichever is earlier, and cannot hold any further office under Government of India.💡 Exam Setter's Tips & Quick Tricks: CAG & UPSC Chairman tenure = 6 years or 65 years of age, whichever is earlier.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which district in Bihar is situated at the highest elevation, containing the Someshwar Fort (880 m)?(",
+      "hi": "बिहार का कौन-सा जिला सर्वाधिक ऊँचाई पर स्थित है, जिसमें सोमेश्वर किला (880 मीटर) अवस्थित है?)",
+      "options": [
+        "Kaimur",
+        "West Champaran",
+        "Rohtas",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "West ChamparanDetailed",
+      "explanation": "The Someshwar Range in Ramnagar subdivision of West Champaran forms the Shiwalik outer Himalayas, with Someshwar Fort (880 metres / 2,887 ft) being the highest summit in Bihar.💡 Exam Setter's Tips & Quick Tricks: Highest point of Bihar = Someshwar Fort (880 m, West Champaran).",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In which year was the 'Bihar and Orissa Subordinate Civil Service' created following separation from the Bengal Presidency?",
+      "hi": "बंगाल प्रेसीडेंसी से अलग होने के बाद किस वर्ष 'बिहार और उड़ीसा प्रांतीय सिविल सेवा' का गठन हुआ था?",
+      "options": [
+        "1912",
+        "1914",
+        "1916",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "1912Detailed",
+      "explanation": "Consequent upon the inauguration of the new province on 1 April 1912, the separate cadre of Bihar and Orissa Civil Service was established to administer the 5 divisions (Patna, Tirhut, Bhagalpur, Chota Nagpur, Orissa).💡 Exam Setter's Tips & Quick Tricks: Administration inception of Bihar cadre = 1912.",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which ancient Mahajanapada had its capital at Rajgriha (Girivraja), later shifted to Pataliputra by King Udayin?(",
+      "hi": "किस प्राचीन महाजनपद की राजधानी राजगृह (गिरिव्रज) थी, जिसे बाद में राजा उदयन द्वारा पाटलिपुत्र स्थानांतरित किया गया था?)",
+      "options": [
+        "Anga",
+        "Magadha (मगध)",
+        "Vajji",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Magadha (मगध)Detailed",
+      "explanation": "Magadha was one of the sixteen great Mahajanapadas. Its early capital Girivraja (Rajgir) was fortified by Bimbisara and Ajatashatru. King Udayin (Haryanka dynasty) founded Pataliputra at the confluence of Ganga and Son and shifted the capital there.💡 Exam Setter's Tips & Quick Tricks: Magadha capital shifted to Pataliputra = King Udayin (Haryanka dynasty).",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What was the capital of the ancient Licchavi Republic, considered the world's earliest republic, located in modern Bihar?",
+      "hi": "आधुनिक बिहार में स्थित विश्व का पहला गणतंत्र माने जाने वाले प्राचीन लिच्छवि गणराज्य की राजधानी क्या थी?",
+      "options": [
+        "Champa",
+        "Vaishali (वैशाली)",
+        "Mithila",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vaishali (वैशाली)Detailed",
+      "explanation": "Vaishali was the capital of the Licchavis and the Vajji confederacy, governed by an elected assembly of 7,707 rajas in the Santhagara. It is recognized by historians as the world's first democratic republic.💡 Exam Setter's Tips & Quick Tricks: World's earliest republic = Vaishali (Licchavis / Vajji confederacy).\nAnswer Key Summary Table — Set 13 (Questions 481 to 520)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    }
+  ]
+}

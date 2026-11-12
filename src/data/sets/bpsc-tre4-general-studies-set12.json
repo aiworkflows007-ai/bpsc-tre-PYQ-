@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set12",
+  "title": "General Studies Practice Set 12 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the sum of the interior angles of a regular convex octagon (polygon with 8 sides)?(",
+      "hi": "एक सम अष्टभुज (8 भुजाओं वाले बहुभुज) के सभी अंतःकोणों का योग क्या होगा?)",
+      "options": [
+        "900°",
+        "1,080°",
+        "1,260°",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1,080°Detailed",
+      "explanation": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.💡 Exam Setter's Tips & Quick Tricks: Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What are the real roots of the quadratic algebraic equation: x^2 - 7x + 12 = 0?",
+      "hi": "द्विघात समीकरण x^2 - 7x + 12 = 0 के वास्तविक मूल क्या हैं?",
+      "options": [
+        "2 and 6",
+        "3 and 4",
+        "-3 and -4",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 and 4Detailed",
+      "explanation": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.💡 Exam Setter's Tips & Quick Tricks: Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The HCF and LCM of two numbers are 11 and 693 respectively. If one of the numbers is 77, what is the other number?(",
+      "hi": "दो संख्याओं का म०स० (HCF) 11 और ल०स० (LCM) 693 है। यदि उनमें से एक संख्या 77 है, तो दूसरी संख्या क्या है?)",
+      "options": [
+        "88",
+        "99",
+        "110",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "99Detailed",
+      "explanation": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.💡 Exam Setter's Tips & Quick Tricks: N2 = (11 * 693) / 77 = 693 / 7 = 99.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A train 300 metres long crosses a railway platform 200 metres long in 25 seconds. What is the speed of the train in km/h?",
+      "hi": "300 मीटर लंबी एक रेलगाड़ी 200 मीटर लंबे रेलवे प्लेटफॉर्म को 25 सेकंड में पार करती है। रेलगाड़ी की गति किमी/घंटा में क्या है?",
+      "options": [
+        "64 km/h",
+        "72 km/h",
+        "80 km/h",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "72 km/hDetailed",
+      "explanation": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in km/h = 20 * (18/5) = 72 km/h.💡 Exam Setter's Tips & Quick Tricks: Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 km/h.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Find the missing letters in the letter pattern: a _ b a _ b _ b _ a _ b",
+      "hi": "अक्षर श्रृंखला में रिक्त स्थानों की पूर्ति कीजिए: a _ b a _ b _ b _ a _ b",
+      "options": [
+        "b a a b a",
+        "b b a b a",
+        "a b a b a",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "b b a b aDetailed",
+      "explanation": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.💡 Exam Setter's Tips & Quick Tricks: Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Pointing to a photograph of a gentleman, Deepak said, 'His only brother is the father of my daughter's father.' How is the gentleman related to Deepak?",
+      "hi": "एक सज्जन की तस्वीर की ओर इशारा करते हुए दीपक ने कहा, 'इनका एकमात्र भाई मेरी पुत्री के पिता का पिता है।' वह सज्जन दीपक से किस प्रकार संबंधित हैं?",
+      "options": [
+        "Grandfather",
+        "Uncle (चाचा)",
+        "Father",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Uncle (चाचा)Detailed",
+      "explanation": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).💡 Exam Setter's Tips & Quick Tricks: Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In a straight row of 30 trees, a neem tree is 12th from the left end. What is its position from the right end of the row?",
+      "hi": "30 पेड़ों की एक सीधी पंक्ति में, नीम का पेड़ बाएं छोर से 12वें स्थान पर है। पंक्ति के दाएं छोर से उसका स्थान क्या होगा?",
+      "options": [
+        "18th",
+        "19th",
+        "20th",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "19thDetailed",
+      "explanation": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.💡 Exam Setter's Tips & Quick Tricks: Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "If 'DELHI' is coded as 73541 and 'CALCUTTA' is coded as 82589662, how will 'CALICUT' be coded in that system?",
+      "hi": "यदि 'DELHI' को 73541 और 'CALCUTTA' को 82589662 लिखा जाता है, तो उसी कूट भाषा में 'CALICUT' को कैसे लिखा जाएगा?",
+      "options": [
+        "8251896",
+        "8251869",
+        "8251968",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8251896Detailed",
+      "explanation": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.💡 Exam Setter's Tips & Quick Tricks: Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Optical fibres utilized in telecommunication and endoscopic medical probes transmit light signals along their core by virtue of",
+      "hi": "दूरसंचार और एंडोस्कोपी में उपयोग किए जाने वाले ऑप्टिकल फाइबर किस सिद्धांत पर प्रकाश संकेतों को संचरित करते हैं?",
+      "options": [
+        "Continuous optical scattering",
+        "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)",
+        "Optical polarization",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)Detailed",
+      "explanation": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.💡 Exam Setter's Tips & Quick Tricks: Optical Fibre = Total Internal Reflection (TIR); Core refractive index > Cladding refractive index.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which sensitive electrical instrument is specifically employed to detect the presence and direction of minute electric currents in an electrical circuit?",
+      "hi": "विद्युत परिपथ में सूक्ष्म विद्युत धारा की उपस्थिति और उसकी दिशा का पता लगाने के लिए किस संवेदनशील उपकरण का उपयोग किया जाता है?",
+      "options": [
+        "Ammeter",
+        "Galvanometer (गैल्वेनोमीटर)",
+        "Voltmeter",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Galvanometer (गैल्वेनोमीटर)Detailed",
+      "explanation": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.💡 Exam Setter's Tips & Quick Tricks: Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What are the primary hydrocarbon chemical components compressed under pressure inside domestic Liquefied Petroleum Gas (LPG) cylinders?(",
+      "hi": "घरेलू एलपीजी (LPG) सिलेंडरों में दबाव में संपीड़ित मुख्य हाइड्रोकार्बन घटक कौन-से होते हैं?)",
+      "options": [
+        "Methane and Ethane",
+        "Butane and Propane",
+        "Ethylene and Acetylene",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Butane and PropaneDetailed",
+      "explanation": "Domestic LPG consists primarily of n-butane and isobutane (~60%) along with propane (~40%). A minute quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.💡 Exam Setter's Tips & Quick Tricks: LPG = Butane + Propane; Odorant for leak detection = Ethyl Mercaptan.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Bronze is an ancient metallic alloy composed primarily of which two elements?(",
+      "hi": "कांसा (Bronze) मुख्य रूप से किन दो तत्वों से मिलकर बनी एक मिश्रधातु है?)",
+      "options": [
+        "Copper and Zinc",
+        "Copper and Tin",
+        "Lead and Tin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Copper and TinDetailed",
+      "explanation": "Bronze is an alloy of Copper (~88-90%) and Tin (~10-12%). Brass is an alloy of Copper and Zinc. Solder is an alloy of Lead and Tin.💡 Exam Setter's Tips & Quick Tricks: Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn); Solder = Lead + Tin (Pb + Sn).",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which of the following vitamins is water-soluble and must be regularly replenished in the human diet because excess amounts are excreted in urine?",
+      "hi": "निम्नलिखित में से कौन-सा विटामिन जल में घुलनशील है और इसे मानव आहार में नियमित रूप से लेना आवश्यक है क्योंकि अतिरिक्त मात्रा मूत्र के साथ उत्सर्जित हो जाती है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C (Ascorbic Acid)",
+        "Vitamin D",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vitamin C (Ascorbic Acid)Detailed",
+      "explanation": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the liver and adipose tissue.💡 Exam Setter's Tips & Quick Tricks: Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the normal physiological core temperature of a healthy human body on the Celsius and Fahrenheit scales?",
+      "hi": "सेल्सियस और फारेनहाइट पैमाने पर स्वस्थ मानव शरीर का सामान्य शारीरिक तापमान क्या होता है?",
+      "options": [
+        "35°C / 95.0°F",
+        "37°C / 98.6°F",
+        "39°C / 102.2°F",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "37°C / 98.6°FDetailed",
+      "explanation": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.💡 Exam Setter's Tips & Quick Tricks: Normal body temperature = 37°C = 98.6°F = 310.15 K.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the base SI unit of luminous intensity in physics?(",
+      "hi": "भौतिकी में ज्योति तीव्रता (Luminous Intensity) का मूल SI मात्रक क्या है?)",
+      "options": [
+        "Lumen",
+        "Candela (cd)",
+        "Lux",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Candela (cd)Detailed",
+      "explanation": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.💡 Exam Setter's Tips & Quick Tricks: Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux.",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was the chief military strategist and commander-in-chief of Babu Kunwar Singh's revolutionary forces during the 1857 rebellion in Bihar?",
+      "hi": "बिहार में 1857 के विद्रोह के दौरान बाबू कुंवर सिंह की क्रांतिकारी सेना के मुख्य सैन्य रणनीतिकार और सेनापति कौन थे?",
+      "options": [
+        "Nishan Singh",
+        "Hare Krishna Singh (हरे कृष्ण सिंह)",
+        "Amar Singh",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hare Krishna Singh (हरे कृष्ण सिंह)Detailed",
+      "explanation": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.💡 Exam Setter's Tips & Quick Tricks: Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh.",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "At which Annual Session of the Indian National Congress did Raj Kumar Shukla meet Mahatma Gandhi and persuade him to visit Champaran?",
+      "hi": "भारतीय राष्ट्रीय कांग्रेस के किस वार्षिक अधिवेशन में राजकुमार शुक्ल ने महात्मा गांधी से मुलाकात की और उन्हें चंपारण आने के लिए राजी किया?",
+      "options": [
+        "1915 Bombay Session",
+        "1916 Lucknow Session",
+        "1917 Calcutta Session",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1916 Lucknow SessionDetailed",
+      "explanation": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in December 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.💡 Exam Setter's Tips & Quick Tricks: 1916 Lucknow Session = Raj Kumar Shukla invited Mahatma Gandhi to Champaran.",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was chosen as the first Individual Satyagrahi in Bihar when Mahatma Gandhi launched the Individual Civil Disobedience movement in 1940?",
+      "hi": "1940 में महात्मा गांधी द्वारा व्यक्तिगत सत्याग्रह आंदोलन शुरू किए जाने पर बिहार में प्रथम व्यक्तिगत सत्याग्रही किसे चुना गया था?",
+      "options": [
+        "Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh",
+        "Gauri Shankar Singh",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Sri Krishna SinghDetailed",
+      "explanation": "On 27 November 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the second individual satyagrahi of Bihar.💡 Exam Setter's Tips & Quick Tricks: Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = Jawaharlal Nehru. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The High Court of Judicature at Patna was formally inaugurated on which date by the Viceroy of India, Lord Hardinge?",
+      "hi": "पटना उच्च न्यायालय का औपचारिक उद्घाटन भारत के वायसराय लॉर्ड हार्डिंग द्वारा किस तिथि को किया गया था?",
+      "options": [
+        "22 March 1912",
+        "3 February 1916",
+        "1 April 1916",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 February 1916Detailed",
+      "explanation": "Established under Letters Patent issued by King George V, Patna High Court was formally opened by Viceroy Lord Hardinge on 3 February 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.💡 Exam Setter's Tips & Quick Tricks: Patna High Court inaugurated = 3 February 1916 (1st Chief Justice: Sir Edward Chamier).",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The River Punpun, an important right-bank tributary originating in the Palamu plateau of Jharkhand, discharges into the River Ganga at which town in Bihar?",
+      "hi": "झारखंड के पलामू पठार से निकलने वाली गंगा की प्रमुख दाहिनी सहायक नदी 'पुनपुन' बिहार के किस नगर में गंगा में विसर्जित होती है?",
+      "options": [
+        "Maner",
+        "Fatuha (फतुहा)",
+        "Barh",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Fatuha (फतुहा)Detailed",
+      "explanation": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the Ganga at Fatuha, approximately 25 km downstream of Patna.💡 Exam Setter's Tips & Quick Tricks: Punpun joins Ganga at Fatuha; Son joins Ganga at Danapur/Maner; Gandak joins at Sonpur.",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which district in Bihar receives the highest average annual rainfall from the Bay of Bengal branch of the Southwest Monsoon?",
+      "hi": "दक्षिण-पश्चिम मानसून की बंगाल की खाड़ी शाखा से बिहार के किस जिले में सर्वाधिक औसत वार्षिक वर्षा होती है?",
+      "options": [
+        "Purnia",
+        "Kishanganj",
+        "West Champaran",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "KishanganjDetailed",
+      "explanation": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan West Bengal hills, receives the highest annual rainfall in the State (>180 cm to 200 cm).💡 Exam Setter's Tips & Quick Tricks: Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal.",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which district in Bihar is situated in the rain-shadow belt of the South Bihar plains and consistently records the lowest average annual rainfall?",
+      "hi": "दक्षिण बिहार के वृष्टि-छाया क्षेत्र में स्थित कौन-सा जिला राज्य में सबसे कम औसत वार्षिक वर्षा दर्ज करता है?",
+      "options": [
+        "Kishanganj",
+        "Aurangabad",
+        "Rohtas",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "AurangabadDetailed",
+      "explanation": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 cm to 100 cm annual average).💡 Exam Setter's Tips & Quick Tricks: Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The historic 'Son Canal System', the oldest canal irrigation network in Bihar, was inaugurated in which year with its headworks at Dehri-on-Son?",
+      "hi": "बिहार का सबसे पुराना नहर सिंचाई नेटवर्क 'सोन नहर प्रणाली' किस वर्ष देहरी-ऑन-सोन में अपने हेडवर्क्स के साथ शुरू किया गया था?",
+      "options": [
+        "1857",
+        "1874",
+        "1905",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1874Detailed",
+      "explanation": "The Son Canal System was completed in 1874 by constructing an anicut weir across the Son River at Dehri (Rohtas). It bifurcates into the Western Son Canal (irrigating Rohtas, Bhojpur) and Eastern Son Canal (Aurangabad, Gaya, Patna).💡 Exam Setter's Tips & Quick Tricks: Oldest canal system in Bihar = Son Canal System (1874, Dehri-on-Son).",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "To whom does the Speaker of the Lok Sabha address his letter of resignation when resigning from his constitutional office?",
+      "hi": "लोकसभा अध्यक्ष अपने संवैधानिक पद से इस्तीफा देते समय अपना त्यागपत्र किसे संबोधित करते हैं?",
+      "options": [
+        "President of India",
+        "Deputy Speaker of the Lok Sabha",
+        "Prime Minister of India",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Deputy Speaker of the Lok SabhaDetailed",
+      "explanation": "Under Article 94(b) of the Constitution of India, a member holding office as Speaker may at any time resign his office by writing under his hand addressed to the Deputy Speaker.💡 Exam Setter's Tips & Quick Tricks: Speaker resigns to Deputy Speaker; Deputy Speaker resigns to Speaker; President resigns to Vice-President.",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Article 50 of the Constitution of India, contained in Part IV (Directive Principles of State Policy), directs the State to(",
+      "hi": "भारतीय संविधान के भाग IV (राज्य के नीति निदेशक तत्व) में निहित अनुच्छेद 50 राज्य को क्या निर्देश देता है?)",
+      "options": [
+        "Promote international peace and security",
+        "Separate the Judiciary from the Executive in the public services of the State",
+        "Organize village panchayats as units of self-government",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Separate the Judiciary from the Executive in the public services of the StateDetailed",
+      "explanation": "Article 50 obligates the State to take steps to separate the judiciary from the executive in public services. Article 40 deals with village panchayats, and Article 51 deals with international peace.💡 Exam Setter's Tips & Quick Tricks: Article 50 = Separation of Judiciary from Executive; Article 40 = Panchayats; Article 44 = Uniform Civil Code.",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which freshwater fish species was officially declared as the 'State Fish of Bihar' by the State Government in 2008?",
+      "hi": "2008 में राज्य सरकार द्वारा किस मीठे पानी की मछली को 'बिहार की राज्य मछली' घोषित किया गया था?",
+      "options": [
+        "Rohu (Labeo rohita)",
+        "Desi Magur (Clarias batrachus)",
+        "Katla (Gibelion catla)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Desi Magur (Clarias batrachus)Detailed",
+      "explanation": "On 10 July 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.💡 Exam Setter's Tips & Quick Tricks: State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya).",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the opening lyric of the official State Song of Bihar (बिहार राज्य गीत) adopted by the Government of Bihar in 2012?",
+      "hi": "2012 में बिहार सरकार द्वारा अपनाए गए आधिकारिक बिहार राज्य गीत के प्रारंभिक बोल क्या हैं?",
+      "options": [
+        "जय जय बिहार, जय जय भारत",
+        "मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहार",
+        "हमर प्यारा बिहार",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहारDetailed",
+      "explanation": "The State Song of Bihar 'Mere Bharat Ke Kanthhar, Tujhko Shat-Shat Vandan Bihar' was composed by poet Satya Narayan with music composed by Pt. Hari Prasad Chaurasia and Pt. Shivkumar Sharma.💡 Exam Setter's Tips & Quick Tricks: State Song of Bihar = 'Mere Bharat Ke Kanthhar' (Lyrics: Satya Narayan; Music: Chaurasia & Sharma).",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "According to the All India Tiger Estimation 2022 (5th cycle released in April 2023), what was the minimum tiger count recorded in India?(",
+      "hi": "अखिल भारतीय बाघ अनुमान 2022 (अप्रैल 2023 में जारी 5वां चक्र) के अनुसार, भारत में बाघों की न्यूनतम दर्ज संख्या क्या थी?)",
+      "options": [
+        "2,967 tigers",
+        "3,167 tigers",
+        "3,682 tigers",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3,167 tigersDetailed",
+      "explanation": "Prime Minister Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 years of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.💡 Exam Setter's Tips & Quick Tricks: 5th Tiger Census (April 2023) = 3,167 tigers (up from 2,967 in 2018).",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "If 12 men can complete a construction project in 24 days working 8 hours a day, in how many days can 16 men complete the same project working 9 hours a day?",
+      "hi": "यदि 12 पुरुष प्रतिदिन 8 घंटे कार्य करके किसी निर्माण कार्य को 24 दिनों में पूरा कर सकते हैं, तो 16 पुरुष प्रतिदिन 9 घंटे कार्य करके उसी कार्य को कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "14 days",
+        "16 days",
+        "18 days",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16 daysDetailed",
+      "explanation": "M1 * D1 * H1 = M2 * D2 * H2 => 12 * 24 * 8 = 16 * D2 * 9 => 2304 = 144 * D2 => D2 = 2304 / 144 = 16 days.💡 Exam Setter's Tips & Quick Tricks: D2 = (12 * 24 * 8) / (16 * 9) = 16 days.",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which gas in the stratosphere absorbs harmful ultraviolet (UV-B) radiations from the Sun, shielding life on Earth from cellular mutations and skin cancer?(",
+      "hi": "समताप मंडल में कौन-सी गैस सूर्य से आने वाली हानिकारक पराबैंगनी (UV-B) विकिरणों को अवशोषित करती है?)",
+      "options": [
+        "Nitrogen dioxide",
+        "Ozone (O3)",
+        "Carbon dioxide",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ozone (O3)Detailed",
+      "explanation": "The ozone layer in the stratosphere (15 to 35 km altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.💡 Exam Setter's Tips & Quick Tricks: UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU).",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the name of the state animal (राजकीय पशु) of Bihar?",
+      "hi": "बिहार का राजकीय पशु कौन-सा है?",
+      "options": [
+        "Royal Bengal Tiger",
+        "Gaur / Ox (बैल)",
+        "One-horned Rhino",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Gaur / Ox (बैल)Detailed",
+      "explanation": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).💡 Exam Setter's Tips & Quick Tricks: Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda).",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the official State Bird (राजकीय पक्षी) of Bihar, celebrated annually on 20 March on World Sparrow Day?",
+      "hi": "बिहार का राजकीय पक्षी कौन-सा है, जिसकी स्मृति में प्रतिवर्ष 20 मार्च को विश्व गौरैया दिवस मनाया जाता है?",
+      "options": [
+        "Indian Roller (Neelkanth)",
+        "House Sparrow (गौरैया)",
+        "Great Indian Bustard",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "House Sparrow (गौरैया)Detailed",
+      "explanation": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.💡 Exam Setter's Tips & Quick Tricks: State Bird of Bihar = House Sparrow (गौरैया); 20 March = World Sparrow Day.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which official State Tree (राजकीय वृक्ष) of Bihar is venerated across the State and is renowned in Buddhist history as the Bodhi Tree?",
+      "hi": "बिहार का राजकीय वृक्ष कौन-सा है जो बौद्ध इतिहास में बोधि वृक्ष के रूप में विख्यात है?",
+      "options": [
+        "Banyan Tree (वट वृक्ष)",
+        "Peepal Tree (Ficus religiosa)",
+        "Sal Tree",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Peepal Tree (Ficus religiosa)Detailed",
+      "explanation": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).💡 Exam Setter's Tips & Quick Tricks: State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa).",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the official State Flower (राजकीय पुष्प) of Bihar?",
+      "hi": "बिहार का राजकीय पुष्प कौन-सा है?",
+      "options": [
+        "Lotus (कमल)",
+        "Marigold (गेंदा)",
+        "Palash (पलाश)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Marigold (गेंदा)Detailed",
+      "explanation": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.💡 Exam Setter's Tips & Quick Tricks: State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which district of Bihar was the historic 'Vikramashila Mahavihara', a premier international Buddhist university founded by King Dharmapala of the Pala dynasty, situated?",
+      "hi": "पाल वंश के राजा धर्मपाल द्वारा स्थापित अंतरराष्ट्रीय बौद्ध विश्वविद्यालय 'विक्रमशिला महाविहार' बिहार के किस जिले में स्थित था?",
+      "options": [
+        "Nalanda",
+        "Bhagalpur (Antichak)",
+        "Banka",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bhagalpur (Antichak)Detailed",
+      "explanation": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.💡 Exam Setter's Tips & Quick Tricks: Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I).",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was the founder-king of the ancient 'Nalanda Mahavihara' in the 5th century CE during the golden age of the Gupta Empire?",
+      "hi": "गुप्त साम्राज्य के स्वर्ण युग के दौरान 5वीं शताब्दी ईस्वी में प्राचीन 'नालंदा महाविहार' के संस्थापक राजा कौन थे?",
+      "options": [
+        "Chandragupta II (Vikramaditya)",
+        "Kumaragupta I (Mahendraditya)",
+        "Samudragupta",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kumaragupta I (Mahendraditya)Detailed",
+      "explanation": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.💡 Exam Setter's Tips & Quick Tricks: Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang during reign of Harshavardhana.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Under the Constitution of India, who is the Supreme Commander of the Defence Forces of the Union of India?(",
+      "hi": "भारत के संविधान के तहत भारतीय संघ के रक्षा बलों का सर्वोच्च समादेशक (Supreme Commander) कौन होता है?)",
+      "options": [
+        "Prime Minister of India",
+        "President of India",
+        "Chief of Defence Staff (CDS)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "President of IndiaDetailed",
+      "explanation": "Article 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.💡 Exam Setter's Tips & Quick Tricks: Supreme Commander of Armed Forces = President of India (Article 53(2)).",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which Article of the Constitution of India empowers the President of India to grant pardons, reprieves, respites or remissions of punishment to any person convicted of an offence?",
+      "hi": "भारतीय संविधान का कौन-सा अनुच्छेद भारत के राष्ट्रपति को किसी अपराध के लिए दोषी ठहराए गए व्यक्ति को क्षमादान, प्रविलंबन, विराम या परिहार देने की शक्ति प्रदान करता है?",
+      "options": [
+        "Article 61",
+        "Article 72",
+        "Article 161",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 72Detailed",
+      "explanation": "Article 72 grants pardoning powers to the President for offences against Union laws, court-martial sentences, and all death sentences. The Governor has corresponding pardoning powers under Article 161 (except court martial and death sentence pardon).💡 Exam Setter's Tips & Quick Tricks: Pardoning Power: President = Article 72; Governor = Article 161.",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the maximum strength (number of members) of the Legislative Assembly (Vidhan Sabha) of Bihar?",
+      "hi": "बिहार विधानसभा के सदस्यों की कुल निर्धारित संख्या कितनी है?",
+      "options": [
+        "240 seats",
+        "243 seats",
+        "250 seats",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "243 seatsDetailed",
+      "explanation": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).💡 Exam Setter's Tips & Quick Tricks: Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; Lok Sabha = 40 seats; Rajya Sabha = 16 seats.",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "How many seats are allocated to the State of Bihar in the Lok Sabha (Lower House of Indian Parliament)?(",
+      "hi": "भारतीय संसद के निचले सदन (लोकसभा) में बिहार राज्य को कितनी सीटें आवंटित हैं?)",
+      "options": [
+        "36 seats",
+        "40 seats",
+        "44 seats",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "40 seatsDetailed",
+      "explanation": "Bihar has 40 seats in the Lok Sabha (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the Rajya Sabha.💡 Exam Setter's Tips & Quick Tricks: Parliamentary representation of Bihar: Lok Sabha = 40 seats; Rajya Sabha = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    }
+  ]
+}

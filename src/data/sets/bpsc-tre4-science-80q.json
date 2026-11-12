@@ -8,7 +8,6 @@
   "question_count": 80,
   "questions": [
     {
-      "id": 1,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The human eye forms the image of an object on its",
       "hi": "मानव आँख में किसी वस्तु का प्रतिबिम्ब बनता है",
@@ -23,10 +22,10 @@
       "answer_letter": "B",
       "answer_text": "retina",
       "explanation": "The eye lens focuses incident light rays onto the retina, a light-sensitive screen at the back of the eye containing photoreceptor rods and cones that generate electrical impulses.",
-      "tip": "Cornea = transparent front window; Iris = regulates pupil diameter; Retina = screen where real and inverted image is formed."
+      "tip": "Cornea = transparent front window; Iris = regulates pupil diameter; Retina = screen where real and inverted image is formed.",
+      "id": 1
     },
     {
-      "id": 2,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Soundwaves travel fastest in",
       "hi": "ध्वनि तरंगों का सबसे तीव्र प्रगमन होता है",
@@ -41,10 +40,10 @@
       "answer_letter": "A",
       "answer_text": "solids",
       "explanation": "Mechanical sound waves propagate via particle collisions; higher elasticity and closer atomic packing in solids yield the highest acoustic velocity (approx. 5100 m/s in steel vs. 1500 m/s in water and 343 m/s in air).",
-      "tip": "Sound velocity order: Solids > Liquids > Gases >> Vacuum (0 m/s, cannot travel through vacuum)."
+      "tip": "Sound velocity order: Solids > Liquids > Gases >> Vacuum (0 m/s, cannot travel through vacuum).",
+      "id": 2
     },
     {
-      "id": 3,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Transfer of heat by convection can take place in",
       "hi": "संवहन द्वारा ऊष्मा का स्थानान्तरण हो सकता है",
@@ -59,10 +58,10 @@
       "answer_letter": "C",
       "answer_text": "gases and liquids",
       "explanation": "Convection involves macroscopic mass movement of fluid particles due to density gradients under gravity. Therefore, it occurs exclusively in fluids (liquids and gases).",
-      "tip": "Conduction = Solids (fixed particles); Convection = Fluids (Liquids & Gases); Radiation = Vacuum & transparent media (no material medium required)."
+      "tip": "Conduction = Solids (fixed particles); Convection = Fluids (Liquids & Gases); Radiation = Vacuum & transparent media (no material medium required).",
+      "id": 3
     },
     {
-      "id": 4,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The power of a lens is measured in",
       "hi": "लेंस की शक्ति मापी जाती है",
@@ -77,10 +76,10 @@
       "answer_letter": "A",
       "answer_text": "dioptre",
       "explanation": "The optical power of a lens is defined as the reciprocal of its focal length expressed in metres (P = 1/f). Its SI unit is dioptre (D = m^-1).",
-      "tip": "Candela = luminous intensity; Dioptre = lens power. Always convert focal length to metres before applying P = 1/f."
+      "tip": "Candela = luminous intensity; Dioptre = lens power. Always convert focal length to metres before applying P = 1/f.",
+      "id": 4
     },
     {
-      "id": 5,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The phenomenon used in optical fibre for transmission of light energy is\n(",
       "hi": "प्रकाशीय तन्तु (ऑप्टिकल फाइबर) में प्रकाश ऊर्जा के संचरण हेतु प्रयुक्त परिघटना है)",
@@ -95,10 +94,10 @@
       "answer_letter": "A",
       "answer_text": "total internal reflection",
       "explanation": "Optical fibres consist of a high refractive index core surrounded by lower refractive index cladding. Light launched at an angle exceeding the critical angle undergoes repeated total internal reflection without signal leakage.",
-      "tip": "Two conditions for TIR: (1) Light must travel from denser to rarer medium, and (2) Angle of incidence must exceed critical angle."
+      "tip": "Two conditions for TIR: (1) Light must travel from denser to rarer medium, and (2) Angle of incidence must exceed critical angle.",
+      "id": 5
     },
     {
-      "id": 6,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following types of glass can cut ultraviolet (UV) rays?",
       "hi": "निम्नलिखित में से काँच का कौन-सा प्रकार पराबैंगनी किरणों को काट सकता है?",
@@ -113,10 +112,10 @@
       "answer_letter": "A",
       "answer_text": "Crookes glass",
       "explanation": "Crookes glass contains cerium oxide (CeO2), which absorbs harmful high-energy ultraviolet radiation while remaining transparent to visible light, making it ideal for sunglasses.",
-      "tip": "Crookes glass = absorbs UV rays (sunglasses); Pyrex glass = heat-resistant borosilicate (lab apparatus); Flint glass = optical lenses and prisms."
+      "tip": "Crookes glass = absorbs UV rays (sunglasses); Pyrex glass = heat-resistant borosilicate (lab apparatus); Flint glass = optical lenses and prisms.",
+      "id": 6
     },
     {
-      "id": 7,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The velocity of electromagnetic waves in vacuum is",
       "hi": "निर्वात में विद्युत्-चुम्बकीय तरंगों का वेग होता है",
@@ -131,10 +130,10 @@
       "answer_letter": "A",
       "answer_text": "3 × 10^8 m/s",
       "explanation": "All electromagnetic waves (gamma rays, X-rays, UV, visible light, infrared, microwaves, and radio waves) propagate through free space (vacuum) at the universal speed of light c = 1 / sqrt(mu_0 * epsilon_0) approx. 3 × 10^8 m/s.",
-      "tip": "Notice unit exponents carefully: 3 × 10^8 m/s = 3 × 10^5 km/s = 3 × 10^10 cm/s."
+      "tip": "Notice unit exponents carefully: 3 × 10^8 m/s = 3 × 10^5 km/s = 3 × 10^10 cm/s.",
+      "id": 7
     },
     {
-      "id": 8,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Kepler's second law (law of areas) is based on the conservation of\n(",
       "hi": "केप्लर का द्वितीय नियम (क्षेत्रफलीय चाल का नियम) किस संरक्षण पर आधारित है?)",
@@ -149,10 +148,10 @@
       "answer_letter": "C",
       "answer_text": "conservation of angular momentum",
       "explanation": "Because gravitational attraction is a central force, the net external torque acting on an orbiting planet about the Sun is zero (tau = r × F = 0). Consequently, its orbital angular momentum L = m * r^2 * omega remains constant, yielding constant areal velocity (dA/dt = L / 2m).",
-      "tip": "Kepler's 1st Law = Law of Elliptical Orbits; Kepler's 2nd Law = Conservation of Angular Momentum; Kepler's 3rd Law = Harmonic Law (T^2 proportional to R^3)."
+      "tip": "Kepler's 1st Law = Law of Elliptical Orbits; Kepler's 2nd Law = Conservation of Angular Momentum; Kepler's 3rd Law = Harmonic Law (T^2 proportional to R^3).",
+      "id": 8
     },
     {
-      "id": 9,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following is not a vector quantity?",
       "hi": "निम्नलिखित में से कौन-सी सदिश राशि नहीं है?",
@@ -167,10 +166,10 @@
       "answer_letter": "A",
       "answer_text": "Speed",
       "explanation": "Speed is a scalar quantity possessing magnitude only, without directional dependence. Displacement and velocity are vector quantities requiring both magnitude and spatial direction.",
-      "tip": "Scalars = Speed, Distance, Mass, Time, Work, Energy, Power; Vectors = Velocity, Displacement, Acceleration, Force, Momentum."
+      "tip": "Scalars = Speed, Distance, Mass, Time, Work, Energy, Power; Vectors = Velocity, Displacement, Acceleration, Force, Momentum.",
+      "id": 9
     },
     {
-      "id": 10,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Solar energy is converted into electric energy through",
       "hi": "सौर ऊर्जा को विद्युत् ऊर्जा में किसके द्वारा परिवर्तित किया जाता है?",
@@ -185,10 +184,10 @@
       "answer_letter": "C",
       "answer_text": "photovoltaic cells",
       "explanation": "Photovoltaic (solar) cells exploit the photoelectric/photovoltaic effect across a semiconductor p-n junction (such as silicon) to convert absorbed solar photons directly into electric current.",
-      "tip": "Chemical to Electrical = Voltaic/Dry cell; Solar to Electrical = Photovoltaic (solar) cell; Mechanical to Electrical = Dynamo/Generator."
+      "tip": "Chemical to Electrical = Voltaic/Dry cell; Solar to Electrical = Photovoltaic (solar) cell; Mechanical to Electrical = Dynamo/Generator.",
+      "id": 10
     },
     {
-      "id": 11,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "In which of the following heat engines is a carburettor used?",
       "hi": "निम्नलिखित प्रकार के ऊष्मा इंजनों में से किसमें कार्बुरेटर का प्रयोग किया जाता है?",
@@ -203,10 +202,10 @@
       "answer_letter": "A",
       "answer_text": "Petrol engine",
       "explanation": "A carburettor mixes atomized petrol with intake air in stoichiometric proportion before induction into the cylinder for spark ignition. Diesel engines utilize fuel injectors instead of carburettors.",
-      "tip": "Petrol engine = Spark ignition + Carburettor; Diesel engine = Compression ignition + Fuel injector (no spark plug or carburettor)."
+      "tip": "Petrol engine = Spark ignition + Carburettor; Diesel engine = Compression ignition + Fuel injector (no spark plug or carburettor).",
+      "id": 11
     },
     {
-      "id": 12,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Lenz's law is based on the conservation of",
       "hi": "लेन्ज का नियम किस संरक्षण नियम पर आधारित है?",
@@ -221,10 +220,10 @@
       "answer_letter": "A",
       "answer_text": "energy",
       "explanation": "Lenz's law states that induced electromotive force opposes the magnetic flux change producing it. Mechanical work done in overcoming this opposing magnetic force is converted into electrical energy, satisfying conservation of energy.",
-      "tip": "Kirchhoff's 1st Law (Junction) = Conservation of Charge; Kirchhoff's 2nd Law (Loop) = Conservation of Energy; Lenz's Law = Conservation of Energy."
+      "tip": "Kirchhoff's 1st Law (Junction) = Conservation of Charge; Kirchhoff's 2nd Law (Loop) = Conservation of Energy; Lenz's Law = Conservation of Energy.",
+      "id": 12
     },
     {
-      "id": 13,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Cosmic rays are",
       "hi": "कॉस्मिक किरणें हैं",
@@ -239,10 +238,10 @@
       "answer_letter": "A",
       "answer_text": "charged particles",
       "explanation": "Cosmic rays are high-energy relativistic charged particles originating from outer space, consisting predominantly of positive protons (approx. 90%), alpha particles (9%), and heavier atomic nuclei.",
-      "tip": "Cosmic rays are particulate radiation (positively charged nuclei), not photons or electromagnetic waves."
+      "tip": "Cosmic rays are particulate radiation (positively charged nuclei), not photons or electromagnetic waves.",
+      "id": 13
     },
     {
-      "id": 14,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following is not an electromagnetic wave?",
       "hi": "निम्नलिखित में से कौन-सी विद्युत्-चुम्बकीय तरंग नहीं है?",
@@ -257,10 +256,10 @@
       "answer_letter": "C",
       "answer_text": "Beta ray",
       "explanation": "Beta rays are high-speed streams of energetic electrons (beta-) or positrons (beta+) emitted during nuclear decay, possessing mass and charge. Gamma rays and X-rays are massless, chargeless electromagnetic waves.",
-      "tip": "EM Waves: Radio, Microwave, Infrared, Visible, UV, X-rays, Gamma rays. Non-EM Particulate Streams: Alpha rays (He nuclei), Beta rays (electrons), Cathode rays."
+      "tip": "EM Waves: Radio, Microwave, Infrared, Visible, UV, X-rays, Gamma rays. Non-EM Particulate Streams: Alpha rays (He nuclei), Beta rays (electrons), Cathode rays.",
+      "id": 14
     },
     {
-      "id": 15,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "On heating, the electrical resistance of a semiconductor",
       "hi": "गर्म करने पर किसी अर्द्धचालक का विद्युत् प्रतिरोध",
@@ -275,10 +274,10 @@
       "answer_letter": "B",
       "answer_text": "decreases",
       "explanation": "Semiconductors have a negative temperature coefficient of resistance (alpha < 0). Thermal energy breaks covalent bonds, liberating covalent electrons into the conduction band, vastly increasing charge carrier concentration and lowering resistance.",
-      "tip": "Metals (Conductors) = Resistance increases on heating; Semiconductors & Electrolytes = Resistance decreases on heating."
+      "tip": "Metals (Conductors) = Resistance increases on heating; Semiconductors & Electrolytes = Resistance decreases on heating.",
+      "id": 15
     },
     {
-      "id": 16,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Internal energy of an ideal gas in a cyclic thermodynamic process",
       "hi": "चक्रीय प्रक्रम में किसी गैस की आन्तरिक ऊर्जा",
@@ -293,10 +292,10 @@
       "answer_letter": "C",
       "answer_text": "remains unchanged",
       "explanation": "Internal energy is a thermodynamic state function dependent solely on temperature (U = f(T)). In any completed cyclic process, the system returns to its initial thermodynamic state (Delta U = 0), so net internal energy remains unchanged.",
-      "tip": "For any cyclic process: Delta U = 0 (Internal energy change is zero); therefore Q = W (First Law of Thermodynamics)."
+      "tip": "For any cyclic process: Delta U = 0 (Internal energy change is zero); therefore Q = W (First Law of Thermodynamics).",
+      "id": 16
     },
     {
-      "id": 17,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following is considered a better nuclear fuel?",
       "hi": "निम्नलिखित में से कौन-सा एक बेहतर नाभिकीय ईंधन है?",
@@ -311,10 +310,10 @@
       "answer_letter": "B",
       "answer_text": "Uranium 235",
       "explanation": "Uranium-235 is a naturally occurring fissile isotope that readily undergoes nuclear fission upon capturing low-energy thermal neutrons, sustaining controlled chain reactions in nuclear power reactors.",
-      "tip": "Fissile isotopes that split directly with thermal neutrons: U-235, Pu-239, U-233. Fertile isotopes requiring transmutation: U-238, Th-232."
+      "tip": "Fissile isotopes that split directly with thermal neutrons: U-235, Pu-239, U-233. Fertile isotopes requiring transmutation: U-238, Th-232.",
+      "id": 17
     },
     {
-      "id": 18,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "If the speed of sound in air at 0°C is 332 m/s, then at 35°C the speed of sound in air will be approximately",
       "hi": "यदि 0°C पर वायु में ध्वनि की चाल 332 मी०/से० है, तो 35°C पर वायु में ध्वनि की चाल लगभग होगी",
@@ -329,10 +328,10 @@
       "answer_letter": "B",
       "answer_text": "353 metres/second",
       "explanation": "Acoustic velocity increases with temperature at the rate of approx. 0.61 m/s per °C: v_t = v_0 + 0.61 * t = 332 + 0.61 * 35 = 332 + 21.35 = 353.35 m/s approx. 353 m/s.",
-      "tip": "Rule of thumb: Velocity of sound increases by 0.61 m/s for every 1°C increase in temperature."
+      "tip": "Rule of thumb: Velocity of sound increases by 0.61 m/s for every 1°C increase in temperature.",
+      "id": 18
     },
     {
-      "id": 19,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Magnetic domains are formed in which of the following substances?",
       "hi": "चुम्बकीय डोमेन निम्नलिखित में से किस पदार्थ में बनते हैं?",
@@ -347,10 +346,10 @@
       "answer_letter": "C",
       "answer_text": "Ferromagnetic",
       "explanation": "Ferromagnetic materials (such as iron, cobalt, and nickel) contain microscopic regions called magnetic domains (approx. 10^17 to 10^21 atoms each) where exchange coupling aligns atomic dipoles in a spontaneous common direction.",
-      "tip": "Domains = Ferromagnetic only; Diamagnetic = Weakly repelled; Paramagnetic = Weakly attracted with randomly oriented dipoles."
+      "tip": "Domains = Ferromagnetic only; Diamagnetic = Weakly repelled; Paramagnetic = Weakly attracted with randomly oriented dipoles.",
+      "id": 19
     },
     {
-      "id": 20,
       "source": "BPSC Middle School & TGT Science",
       "en": "Monochromatic light enters from one optical medium to another. Which one of the following physical properties does not change?",
       "hi": "एकवर्णी प्रकाश एक माध्यम से दूसरे माध्यम में प्रवेश करता है। निम्नलिखित में से कौन-सा भौतिक गुण नहीं बदलता है?",
@@ -365,10 +364,10 @@
       "answer_letter": "A",
       "answer_text": "Frequency",
       "explanation": "The frequency of light depends exclusively on the atomic oscillations of the generating source. During refraction across media boundaries, velocity and wavelength decrease proportionally (v = f * lambda), leaving frequency invariant.",
-      "tip": "In refraction: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change proportionally; Wave slows down and bends towards normal in denser media.\nSection 2: Chemistry (रसायन विज्ञान) — Questions 21 to 40\nPeriodic Trends, Molecular Structure, Coordination Chemistry, Organic Mechanisms & Thermochemistry"
+      "tip": "In refraction: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change proportionally; Wave slows down and bends towards normal in denser media.\nSection 2: Chemistry (रसायन विज्ञान) — Questions 21 to 40\nPeriodic Trends, Molecular Structure, Coordination Chemistry, Organic Mechanisms & Thermochemistry",
+      "id": 20
     },
     {
-      "id": 21,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following is an intensive property?\n(",
       "hi": "निम्नलिखित में से कौन-सा एक गहन (विशिष्ट) गुणधर्म है?)",
@@ -383,10 +382,10 @@
       "answer_letter": "A",
       "answer_text": "Refractive index",
       "explanation": "An intensive property is independent of the size or quantity of matter in the thermodynamic system. Refractive index, density, temperature, and pressure are intensive, whereas mass and volume are extensive.",
-      "tip": "Extensive = depends on sample size (Mass, Volume, Enthalpy, Heat capacity); Intensive = independent of sample size (Density, Refractive index, Temperature, Viscosity)."
+      "tip": "Extensive = depends on sample size (Mass, Volume, Enthalpy, Heat capacity); Intensive = independent of sample size (Density, Refractive index, Temperature, Viscosity).",
+      "id": 21
     },
     {
-      "id": 22,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The decreasing order of second ionization potential of Carbon (C), Nitrogen (N), Oxygen (O), and Fluorine (F) is\n(",
       "hi": "कार्बन (C), नाइट्रोजन (N), ऑक्सीजन (O) और फ्लोरीन (F) के द्वितीय आयनन विभव का घटता क्रम है)",
@@ -401,10 +400,10 @@
       "answer_letter": "A",
       "answer_text": "O > F > N > C",
       "explanation": "Second ionization removes an electron from the unipositive cation. O+ has the stable half-filled electronic configuration 2s^2 2p^3, requiring the highest removal energy, making its second IP greater than that of F+ (2p^4), N+ (2p^2), and C+ (2p^1).",
-      "tip": "Always write the electronic configuration of the M+ cation when analyzing 2nd Ionization Potential. O+ is 2p^3 (half-filled stability), hence O has the highest 2nd IP."
+      "tip": "Always write the electronic configuration of the M+ cation when analyzing 2nd Ionization Potential. O+ is 2p^3 (half-filled stability), hence O has the highest 2nd IP.",
+      "id": 22
     },
     {
-      "id": 23,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following elements has the largest atomic size?",
       "hi": "निम्नलिखित में से किसका परमाणु आकार सबसे बड़ा है?",
@@ -419,10 +418,10 @@
       "answer_letter": "C",
       "answer_text": "Ra",
       "explanation": "All three elements belong to Group 2 (alkaline earth metals). Down a periodic group, principal quantum shells are progressively added, so atomic radius increases: Be (period 2) < Mg (period 3) < Ca < Sr < Ba < Ra (period 7, largest).",
-      "tip": "Periodic trend: Atomic radius increases down a group (due to increasing shells) and decreases across a period left-to-right (due to increasing effective nuclear charge)."
+      "tip": "Periodic trend: Atomic radius increases down a group (due to increasing shells) and decreases across a period left-to-right (due to increasing effective nuclear charge).",
+      "id": 23
     },
     {
-      "id": 24,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The number of nodal planes in a p_x-orbital is",
       "hi": "p_x-कक्षक में नोडल तलों की संख्या होती है",
@@ -437,10 +436,10 @@
       "answer_letter": "A",
       "answer_text": "1",
       "explanation": "The number of angular nodes (nodal planes) for any atomic subshell equals its azimuthal quantum number (l). For a p-orbital, l = 1; specifically, the p_x orbital has exactly one nodal plane, which is the yz-plane.",
-      "tip": "Nodal planes = l. s-orbital (l=0) has 0; p-orbital (l=1) has 1; d-orbital (l=2) has 2 (except d_z^2 which has 2 nodal cones)."
+      "tip": "Nodal planes = l. s-orbital (l=0) has 0; p-orbital (l=1) has 1; d-orbital (l=2) has 2 (except d_z^2 which has 2 nodal cones).",
+      "id": 24
     },
     {
-      "id": 25,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Intermolecular hydrogen bonding is strongest in which of the following compounds?",
       "hi": "निम्नलिखित यौगिकों में से किसमें अंतराआण्विक हाइड्रोजन बंधन सबसे प्रबल होगा?",
@@ -455,10 +454,10 @@
       "answer_letter": "C",
       "answer_text": "C2H5OH",
       "explanation": "Ethanol (C2H5OH) contains hydrogen directly bonded to highly electronegative oxygen (O-H), establishing strong intermolecular hydrogen bonding. Diethyl ether lacks O-H bonds, and triethylamine lacks N-H bonds.",
-      "tip": "Hydrogen bonding requires H bonded directly to F, O, or N (FON). Ethers and tertiary amines have no acidic H on heteroatoms."
+      "tip": "Hydrogen bonding requires H bonded directly to F, O, or N (FON). Ethers and tertiary amines have no acidic H on heteroatoms.",
+      "id": 25
     },
     {
-      "id": 26,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The oxidation number of iron (Fe) in sodium nitroprusside, Na2[Fe(CN)5(NO)], is\n(",
       "hi": "सोडियम नाइट्रोप्रुसाइड, Na2[Fe(CN)5(NO)] में आयरन (Fe) की ऑक्सीकरण संख्या है)",
@@ -473,10 +472,10 @@
       "answer_letter": "B",
       "answer_text": "+2",
       "explanation": "In sodium nitroprusside, the nitrosyl ligand exists as the nitrosonium cation (NO+). Setting up the coordination sphere charge equation: x + 5(-1) + 1(+1) = -2 yields x - 4 = -2, so x = +2.",
-      "tip": "Nitroprusside trap: NO is coordinated as NO+ (positive nitrosyl), NOT neutral NO. Hence Fe is in the +2 oxidation state."
+      "tip": "Nitroprusside trap: NO is coordinated as NO+ (positive nitrosyl), NOT neutral NO. Hence Fe is in the +2 oxidation state.",
+      "id": 26
     },
     {
-      "id": 27,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "How many sigma (sigma) and pi (pi) bonds are present in a tetracyanoethylene molecule?\n(",
       "hi": "टेट्रासायनोएथिलीन अणु में कितने सिग्मा (sigma) और पाई (pi) बंध उपस्थित होते हैं?)",
@@ -491,10 +490,10 @@
       "answer_letter": "A",
       "answer_text": "9 sigma and 9 pi bonds",
       "explanation": "Structure (NC)2C=C(CN)2: Contains one central C=C double bond (1 sigma, 1 pi), four C-C single bonds (4 sigma), and four -C#N cyano triple bonds (4 sigma, 8 pi). Total = 1+4+4 = 9 sigma bonds and 1+8 = 9 pi bonds.",
-      "tip": "Single bond = 1 sigma; Double bond = 1 sigma + 1 pi; Triple bond = 1 sigma + 2 pi. Sum carefully: 4 nitriles give 4 sigma and 8 pi."
+      "tip": "Single bond = 1 sigma; Double bond = 1 sigma + 1 pi; Triple bond = 1 sigma + 2 pi. Sum carefully: 4 nitriles give 4 sigma and 8 pi.",
+      "id": 27
     },
     {
-      "id": 28,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following synthetic polymers is a polyamide?",
       "hi": "निम्नलिखित में से कौन-सा संश्लेषित बहुलक एक पॉलिएमाइड है?",
@@ -509,10 +508,10 @@
       "answer_letter": "A",
       "answer_text": "Nylon",
       "explanation": "Nylons (such as Nylon-6,6 and Nylon-6) are condensation polymers joined by recurring amide linkages (-CO-NH-), classifying them as polyamides. Polythene is an addition polyalkene, and Bakelite is a phenol-formaldehyde resin.",
-      "tip": "Polyamides = Nylon 6, Nylon 6,6; Polyesters = Terylene / Dacron; Phenol resins = Bakelite; Addition polymers = Polythene, PVC, Teflon."
+      "tip": "Polyamides = Nylon 6, Nylon 6,6; Polyesters = Terylene / Dacron; Phenol resins = Bakelite; Addition polymers = Polythene, PVC, Teflon.",
+      "id": 28
     },
     {
-      "id": 29,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following hydrocarbons does not give a red precipitate with ammoniacal cuprous chloride?",
       "hi": "निम्नलिखित में से कौन-सा हाइड्रोकार्बन अमोनियाकल क्यूप्रस क्लोराइड के साथ लाल अवक्षेप नहीं देता है?",
@@ -527,10 +526,10 @@
       "answer_letter": "C",
       "answer_text": "CH3-C#C-CH3",
       "explanation": "Ammoniacal cuprous chloride reacts selectively with terminal alkynes possessing acidic acetylenic hydrogen atoms (H-C#C-R) to form red copper acetylide precipitates. But-2-yne (CH3-C#C-CH3) is an internal alkyne with no terminal sp-hybridized hydrogen.",
-      "tip": "Red ppt with Cu2Cl2 / white ppt with Tollens' reagent requires a terminal alkyne (-C#CH). Internal alkynes (R-C#C-R) give no reaction."
+      "tip": "Red ppt with Cu2Cl2 / white ppt with Tollens' reagent requires a terminal alkyne (-C#CH). Internal alkynes (R-C#C-R) give no reaction.",
+      "id": 29
     },
     {
-      "id": 30,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following carbocations is the most stable?",
       "hi": "निम्नलिखित में से कौन-सा कार्बोधनायन सर्वाधिक स्थायी है?",
@@ -545,10 +544,10 @@
       "answer_letter": "B",
       "answer_text": "(C6H5)3C+",
       "explanation": "The triphenylmethyl (trityl) carbocation, (C6H5)3C+, is exceptionally stabilized because the positive charge is delocalized over three aromatic phenyl rings across nine contributing canonical resonance structures.",
-      "tip": "Carbocation stability: Triphenylmethyl > Diphenylmethyl > Benzyl > Allyl approx. 3° alkyl > 2° alkyl > 1° alkyl > methyl."
+      "tip": "Carbocation stability: Triphenylmethyl > Diphenylmethyl > Benzyl > Allyl approx. 3° alkyl > 2° alkyl > 1° alkyl > methyl.",
+      "id": 30
     },
     {
-      "id": 31,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following carboxylic acids is the strongest acid?",
       "hi": "निम्नलिखित में से कौन-सा अम्ल प्रबलतम है?",
@@ -563,10 +562,10 @@
       "answer_letter": "B",
       "answer_text": "CH3CHClCOOH",
       "explanation": "2-Chloropropanoic acid (CH3CHClCOOH) possesses an electronegative chlorine atom at the alpha-carbon, exerting a strong electron-withdrawing inductive effect (-I effect) that disperses negative charge on the carboxylate anion, stabilizing it.",
-      "tip": "I effect increases acid strength. Closer the halogen to the -COOH group (alpha > beta > gamma), stronger the acid."
+      "tip": "I effect increases acid strength. Closer the halogen to the -COOH group (alpha > beta > gamma), stronger the acid.",
+      "id": 31
     },
     {
-      "id": 32,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following species behaves as a nucleophilic reagent?\n(",
       "hi": "निम्नलिखित में से कौन-सा अभिकर्मक नाभिकस्नेही (न्यूक्लियोफाइल) की तरह व्यवहार करता है?)",
@@ -581,10 +580,10 @@
       "answer_letter": "A",
       "answer_text": "R3N",
       "explanation": "A nucleophile is an electron-rich Lewis base capable of donating an electron pair. Tertiary amines (R3N) carry an unshared non-bonding lone pair of electrons on nitrogen. SO3 and NO2+ are electron-deficient electrophiles.",
-      "tip": "Nucleophile = lone pair or negative charge (R3N, NH3, H2O, OH-); Electrophile = positive charge or incomplete octet (NO2+, AlCl3, SO3)."
+      "tip": "Nucleophile = lone pair or negative charge (R3N, NH3, H2O, OH-); Electrophile = positive charge or incomplete octet (NO2+, AlCl3, SO3).",
+      "id": 32
     },
     {
-      "id": 33,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Markownikoff's rule is applicable to which of the following addition reactions?",
       "hi": "मार्कोनीकॉफ का नियम निम्नलिखित में से किस योगशील अभिक्रिया पर लागू होता है?",
@@ -599,10 +598,10 @@
       "answer_letter": "C",
       "answer_text": "HBr + CH3CH=CH2",
       "explanation": "Markownikoff's rule applies strictly to the addition of an unsymmetrical polar reagent (like HBr) across an unsymmetrical alkene (like propene, CH3CH=CH2), directing the electrophilic H+ to the carbon holding more hydrogens.",
-      "tip": "Markownikoff's rule prerequisites: Both the alkene AND the adding reagent must be unsymmetrical (CH3-CH=CH2 + H-Br)."
+      "tip": "Markownikoff's rule prerequisites: Both the alkene AND the adding reagent must be unsymmetrical (CH3-CH=CH2 + H-Br).",
+      "id": 33
     },
     {
-      "id": 34,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following is a functional isomer of diethyl ether (C4H10O)?\n(",
       "hi": "डाईएथिल ईथर (C4H10O) का क्रियात्मक समावयवी कौन-सा है?)",
@@ -617,10 +616,10 @@
       "answer_letter": "A",
       "answer_text": "(CH3)3C-OH",
       "explanation": "Ethers and monohydric alcohols of formula CnH2n+2O are functional isomers. Diethyl ether (C4H10O) has 4 carbons; tert-butyl alcohol (CH3)3C-OH also has molecular formula C4H10O, making it an isomer.",
-      "tip": "Count carbons first: Diethyl ether = 4 carbons. (CH3)2CHOH has 3 carbons; (C2H5)2CHOH has 5 carbons; (CH3)3C-OH has 4 carbons."
+      "tip": "Count carbons first: Diethyl ether = 4 carbons. (CH3)2CHOH has 3 carbons; (C2H5)2CHOH has 5 carbons; (CH3)3C-OH has 4 carbons.",
+      "id": 34
     },
     {
-      "id": 35,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following statements regarding phosphine (PH3) and ammonia (NH3) is true?\n(",
       "hi": "फॉस्फीन (PH3) और अमोनिया (NH3) के संदर्भ में कौन-सा कथन सत्य है?)",
@@ -635,10 +634,10 @@
       "answer_letter": "A",
       "answer_text": "PH3 is less alkaline as compared to NH3",
       "explanation": "Phosphorus is larger in size and less electronegative than nitrogen, so its lone pair occupies a diffused, almost non-hybridized 3s orbital with lower electron density, making PH3 a substantially weaker Lewis base than NH3.",
-      "tip": "Basicity of Group 15 hydrides decreases down the group: NH3 > PH3 > AsH3 > SbH3 > BiH3."
+      "tip": "Basicity of Group 15 hydrides decreases down the group: NH3 > PH3 > AsH3 > SbH3 > BiH3.",
+      "id": 35
     },
     {
-      "id": 36,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following chemical compounds does not liberate oxygen gas on thermal decomposition?",
       "hi": "निम्नलिखित में से कौन-सा रासायनिक यौगिक गर्म करने पर ऑक्सीजन गैस नहीं देता है?",
@@ -653,10 +652,10 @@
       "answer_letter": "C",
       "answer_text": "(NH4)2Cr2O7",
       "explanation": "Ammonium dichromate decomposes thermally via internal redox to produce nitrogen gas, chromic oxide, and steam: (NH4)2Cr2O7 -> N2 + Cr2O3 + 4 H2O. Potassium dichromate and chlorates liberate oxygen gas on heating.",
-      "tip": "Heating (NH4)2Cr2O7 gives nitrogen (N2) gas (the 'chemical volcano' reaction); it does NOT release oxygen."
+      "tip": "Heating (NH4)2Cr2O7 gives nitrogen (N2) gas (the 'chemical volcano' reaction); it does NOT release oxygen.",
+      "id": 36
     },
     {
-      "id": 37,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Chloroform (CHCl3) on oxidation by atmospheric oxygen in the presence of sunlight gives\n(",
       "hi": "सूर्य के प्रकाश की उपस्थिति में वायुमण्डलीय ऑक्सीजन द्वारा क्लोरोफॉर्म (CHCl3) के ऑक्सीकरण से प्राप्त होता है)",
@@ -671,10 +670,10 @@
       "answer_letter": "A",
       "answer_text": "phosgene",
       "explanation": "In the presence of light and air, chloroform slowly oxidizes to produce the extremely toxic, suffocating gas carbonyl chloride (phosgene, COCl2): 2 CHCl3 + O2 -> 2 COCl2 + 2 HCl.",
-      "tip": "To prevent toxic phosgene formation, chloroform is stored in dark brown bottles filled to the brim with 1% ethanol added as a negative catalyst."
+      "tip": "To prevent toxic phosgene formation, chloroform is stored in dark brown bottles filled to the brim with 1% ethanol added as a negative catalyst.",
+      "id": 37
     },
     {
-      "id": 38,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Chemically, the widely used analgesic drug Aspirin is",
       "hi": "रासायनिक रूप से, व्यापक रूप से प्रयुक्त दर्द निवारक दवा एस्पिरिन है",
@@ -689,10 +688,10 @@
       "answer_letter": "B",
       "answer_text": "Acetyl salicylic acid",
       "explanation": "Aspirin is 2-acetoxybenzoic acid (acetylsalicylic acid), synthesized industrially via acetylation of the phenolic -OH group of salicylic acid with acetic anhydride in the presence of concentrated sulfuric acid.",
-      "tip": "Aspirin = Acetyl salicylic acid (analgesic/antipyretic); Oil of wintergreen = Methyl salicylate; Salol = Phenyl salicylate."
+      "tip": "Aspirin = Acetyl salicylic acid (analgesic/antipyretic); Oil of wintergreen = Methyl salicylate; Salol = Phenyl salicylate.",
+      "id": 38
     },
     {
-      "id": 39,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following haloalkanes reacts with aqueous potassium hydroxide (KOH) to yield acetaldehyde?\n(",
       "hi": "निम्नलिखित में से कौन-सा हैलोएल्केन जलीय पोटैशियम हाइड्रॉक्साइड (KOH) के साथ अभिक्रिया करके एसीटैल्डिहाइड बनाता है?)",
@@ -707,10 +706,10 @@
       "answer_letter": "B",
       "answer_text": "CH3CHCl2",
       "explanation": "Ethylidene chloride, CH3CHCl2 (a gem-dihalide), undergoes nucleophilic substitution with aqueous KOH to form an unstable gem-diol [CH3CH(OH)2], which spontaneously eliminates a water molecule to yield acetaldehyde (CH3CHO).",
-      "tip": "Gem-dihalide with two halogens on the end carbon (R-CHX2) yields an aldehyde; gem-dihalide on an internal carbon (R-CX2-R) yields a ketone."
+      "tip": "Gem-dihalide with two halogens on the end carbon (R-CHX2) yields an aldehyde; gem-dihalide on an internal carbon (R-CX2-R) yields a ketone.",
+      "id": 39
     },
     {
-      "id": 40,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The standard electrode reduction potentials of three metals X, Y, and Z are -3.05 V, -1.66 V, and -0.40 V respectively. The strongest reducing agent among them is",
       "hi": "तीन धातुओं X, Y और Z के मानक इलेक्ट्रोड अपचयन विभव क्रमशः -3.05 V, -1.66 V तथा -0.40 V हैं। इनमें से सबसे प्रबल अपचायक है",
@@ -725,10 +724,10 @@
       "answer_letter": "A",
       "answer_text": "X",
       "explanation": "A more negative standard reduction potential signifies a greater tendency to lose electrons (undergo oxidation) and therefore a stronger reducing capability. Metal X with E° = -3.05 V is the most powerful reducing agent.",
-      "tip": "Standard Reduction Potential rule: More negative E° value = Stronger reducing agent (e.g., Lithium). More positive E° value = Stronger oxidizing agent (e.g., Fluorine).\nSection 3: Botany / Plant Sciences (वनस्पति विज्ञान) — Questions 41 to 60\nPlant Morphology & Anatomy, Photosynthesis, Taxonomic Classifications, Phytohormones & Economic Botany"
+      "tip": "Standard Reduction Potential rule: More negative E° value = Stronger reducing agent (e.g., Lithium). More positive E° value = Stronger oxidizing agent (e.g., Fluorine).\nSection 3: Botany / Plant Sciences (वनस्पति विज्ञान) — Questions 41 to 60\nPlant Morphology & Anatomy, Photosynthesis, Taxonomic Classifications, Phytohormones & Economic Botany",
+      "id": 40
     },
     {
-      "id": 41,
       "source": "BPSC Middle School & TGT Science",
       "en": "The primary intracellular site of photosynthesis in the cells of a green leaf is",
       "hi": "हरी पत्ती की कोशिकाओं में प्रकाश-संश्लेषण का प्राथमिक अंतःकोशिकीय स्थल है",
@@ -743,10 +742,10 @@
       "answer_letter": "C",
       "answer_text": "chloroplast",
       "explanation": "Chloroplasts are double-membrane organelles containing chlorophyll pigments; light-dependent reactions occur on the thylakoid grana membranes, while the light-independent Calvin cycle occurs in the stroma.",
-      "tip": "Mitochondria = Cellular respiration (Powerhouse of cell); Ribosomes = Protein synthesis; Chloroplasts = Photosynthesis (Kitchen of cell)."
+      "tip": "Mitochondria = Cellular respiration (Powerhouse of cell); Ribosomes = Protein synthesis; Chloroplasts = Photosynthesis (Kitchen of cell).",
+      "id": 41
     },
     {
-      "id": 42,
       "source": "BPSC Middle School & TGT Science",
       "en": "In vascular plants, the complex permanent tissue responsible for the translocation of food (sucrose) is\n(",
       "hi": "संवहनी पौधों में भोजन (सुक्रोज) के स्थानांतरण के लिए उत्तरदायी जटिल स्थायी ऊतक है)",
@@ -761,10 +760,10 @@
       "answer_letter": "B",
       "answer_text": "phloem",
       "explanation": "Phloem conducts soluble organic substances synthesized during photosynthesis (predominantly sucrose) bidirectionally from source to sink via sieve tube elements and companion cells.",
-      "tip": "Xylem = Unidirectional transport of water and dissolved minerals; Phloem = Bidirectional translocation of organic nutrients (food)."
+      "tip": "Xylem = Unidirectional transport of water and dissolved minerals; Phloem = Bidirectional translocation of organic nutrients (food).",
+      "id": 42
     },
     {
-      "id": 43,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "The photosynthetic accessory pigments phycocyanin and phycoerythrin are characteristic of",
       "hi": "प्रकाश-संश्लेषी सहायक वर्णक फाइकोसायनिन और फाइकोएरिथ्रिन किसकी विशेषता हैं?",
@@ -779,10 +778,10 @@
       "answer_letter": "D",
       "answer_text": "More than one of the above",
       "explanation": "Phycobiliprotein pigments, notably red phycoerythrin and blue phycocyanin, occur water-solubly in Cyanophyceae (blue-green algae) and Rhodophyceae (red algae). Since both classes contain these pigments, Option (D) is triggered.",
-      "tip": "Chlorophyceae (Green algae) = Chlorophyll a, b; Phaeophyceae (Brown algae) = Fucoxanthin; Rhodophyceae (Red algae) = r-Phycoerythrin & r-Phycocyanin."
+      "tip": "Chlorophyceae (Green algae) = Chlorophyll a, b; Phaeophyceae (Brown algae) = Fucoxanthin; Rhodophyceae (Red algae) = r-Phycoerythrin & r-Phycocyanin.",
+      "id": 43
     },
     {
-      "id": 44,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "Which of the following is an edible special inflorescence?",
       "hi": "निम्नलिखित में से कौन-सा एक खाने योग्य विशेष पुष्पक्रम है?",
@@ -797,10 +796,10 @@
       "answer_letter": "C",
       "answer_text": "hypanthodium",
       "explanation": "In the genus Ficus (fig, banyan, gular), the fleshy, flask-shaped receptacle with a tiny apical pore bears microscopic flowers internally, constituting an edible hypanthodium inflorescence (syconus fruit).",
-      "tip": "Fig (अंजीर) and Gular = Hypanthodium inflorescence; Pineapple and Mulberry = Sorosis fruit developing from spike/spadix/catkin."
+      "tip": "Fig (अंजीर) and Gular = Hypanthodium inflorescence; Pineapple and Mulberry = Sorosis fruit developing from spike/spadix/catkin.",
+      "id": 44
     },
     {
-      "id": 45,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "In a racemose (raceme) inflorescence, the flowers are arranged\n(",
       "hi": "रेसीम (असीमाक्षी) पुष्पक्रम में फूल किस क्रम में व्यवस्थित होते हैं?)",
@@ -815,10 +814,10 @@
       "answer_letter": "A",
       "answer_text": "acropetally",
       "explanation": "In racemose inflorescences, the main floral axis continues indeterminate growth, bearing flowers laterally in acropetal succession (oldest flowers at the base, progressively younger buds towards the apex).",
-      "tip": "Racemose = Indeterminate growth, Acropetal succession (youngest at apex); Cymose = Determinate growth, Basipetal succession (youngest at base)."
+      "tip": "Racemose = Indeterminate growth, Acropetal succession (youngest at apex); Cymose = Determinate growth, Basipetal succession (youngest at base).",
+      "id": 45
     },
     {
-      "id": 46,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "Which of the following carbohydrates is a hexose monosaccharide?",
       "hi": "निम्नलिखित में से कौन-सा कार्बोहाइड्रेट एक हेक्सोज़ मोनोसैकराइड है?",
@@ -833,10 +832,10 @@
       "answer_letter": "A",
       "answer_text": "Mannose",
       "explanation": "Mannose is a six-carbon aldohexose sugar with formula C6H12O6 (a C-2 epimer of glucose). Cellulose is a complex structural polysaccharide, while xylulose is a five-carbon ketopentose.",
-      "tip": "Hexoses (6 Carbons) = Glucose, Fructose, Galactose, Mannose; Pentoses (5 Carbons) = Ribose, Deoxyribose, Xylulose; Polysaccharides = Starch, Cellulose."
+      "tip": "Hexoses (6 Carbons) = Glucose, Fructose, Galactose, Mannose; Pentoses (5 Carbons) = Ribose, Deoxyribose, Xylulose; Polysaccharides = Starch, Cellulose.",
+      "id": 46
     },
     {
-      "id": 47,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "Which of the following classification systems was proposed and utilized by Carl Linnaeus?",
       "hi": "कार्ल लिनियस द्वारा पादप जगत के वर्गीकरण हेतु कौन-सी प्रणाली प्रयुक्त की गई थी?",
@@ -851,10 +850,10 @@
       "answer_letter": "C",
       "answer_text": "Artificial system",
       "explanation": "Carl Linnaeus established an artificial system of plant classification (known as the sexual system) based purely on superficial morphological characteristics, primarily the numerical count of stamens and styles.",
-      "tip": "Artificial System = Linnaeus (stamen numbers); Natural System = Bentham & Hooker; Phylogenetic System = Engler & Prantl, Hutchinson."
+      "tip": "Artificial System = Linnaeus (stamen numbers); Natural System = Bentham & Hooker; Phylogenetic System = Engler & Prantl, Hutchinson.",
+      "id": 47
     },
     {
-      "id": 48,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "Which plant hormone acts as a stress hormone by triggering the closure of stomata during water deficit?\n(",
       "hi": "जल संकट के समय रंध्रों (स्टोमेटा) को बंद करके कौन-सा पादप हॉर्मोन 'तनाव हॉर्मोन' के रूप में कार्य करता है?)",
@@ -869,10 +868,10 @@
       "answer_letter": "A",
       "answer_text": "Abscisic acid (ABA)",
       "explanation": "Abscisic acid (ABA) is synthesized rapidly in leaves under drought stress, causing potassium ion efflux from stomatal guard cells, reducing turgor pressure and promoting rapid stomatal closure to conserve water.",
-      "tip": "Plant Stress Hormone = Abscisic Acid (ABA); Fruit Ripening Gas = Ethylene; Cell Division Promoter = Cytokinin; Stem Elongation = Gibberellin."
+      "tip": "Plant Stress Hormone = Abscisic Acid (ABA); Fruit Ripening Gas = Ethylene; Cell Division Promoter = Cytokinin; Stem Elongation = Gibberellin.",
+      "id": 48
     },
     {
-      "id": 49,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "Which of the following phytohormone pairs is wrongly matched with its physiological function?",
       "hi": "निम्नलिखित में से कौन-सा पादप हॉर्मोन युग्म अपने कार्य के साथ सही सुमेलित नहीं है?",
@@ -887,10 +886,10 @@
       "answer_letter": "B",
       "answer_text": "Gibberellic acid - Leaf fall",
       "explanation": "Gibberellic acid promotes stem internode elongation, seed germination, and delays leaf senescence. Leaf fall (abscission) is induced by abscisic acid (ABA) and ethylene, making pair (B) factually incorrect.",
-      "tip": "Gibberellins delay senescence and breakdown dormancy; they NEVER promote leaf fall or abscission."
+      "tip": "Gibberellins delay senescence and breakdown dormancy; they NEVER promote leaf fall or abscission.",
+      "id": 49
     },
     {
-      "id": 50,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "Axile placentation is characteristically found in which of the following?\n(",
       "hi": "अक्षीय बीजाण्डन्यास (Axile placentation) मुख्य रूप से किसमें पाया जाता है?)",
@@ -905,10 +904,10 @@
       "answer_letter": "C",
       "answer_text": "Citrus",
       "explanation": "In axile placentation, the multilocular ovary's septa meet at a central axis bearing the ovules, as observed in Citrus (lemon/orange), tomato, and China rose. Argemone exhibits parietal placentation, and Dianthus shows free-central.",
-      "tip": "Placentation examples: Axile = Citrus, Tomato, China rose; Parietal = Mustard, Argemone; Free-central = Dianthus, Primrose; Marginal = Pea."
+      "tip": "Placentation examples: Axile = Citrus, Tomato, China rose; Parietal = Mustard, Argemone; Free-central = Dianthus, Primrose; Marginal = Pea.",
+      "id": 50
     },
     {
-      "id": 51,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "The fern Adiantum caudatum is popularly called the 'walking fern' because",
       "hi": "फर्न एडिएन्टम को 'वॉकिंग फर्न' कहा जाता है, क्योंकि",
@@ -923,10 +922,10 @@
       "answer_letter": "C",
       "answer_text": "it propagates vegetatively by its leaf tips",
       "explanation": "Adiantum caudatum produces adventitious buds at the tips of its arching fronds. When the frond tips touch moist soil, they produce roots and daughter plantlets, creating a walking habit across ground surfaces.",
-      "tip": "Walking fern (Adiantum) reproduces vegetatively via leaf-tip rooting; it does NOT physically walk or possess motile spores."
+      "tip": "Walking fern (Adiantum) reproduces vegetatively via leaf-tip rooting; it does NOT physically walk or possess motile spores.",
+      "id": 51
     },
     {
-      "id": 52,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following is a geocarpic fruit developing subterraneanly?\n(",
       "hi": "निम्नलिखित में से कौन-सा एक भूमिगत विकसित होने वाला भू-फलीय (geocarpic) फल है?)",
@@ -941,10 +940,10 @@
       "answer_letter": "B",
       "answer_text": "groundnut",
       "explanation": "In the groundnut (Arachis hypogaea), flowers are aerial, but after fertilization, the floral peg elongates downward into the soil by positive geotropism, where the fruit (pod) matures underground.",
-      "tip": "Groundnut is a geocarpic fruit (subterranean legume); Potato is an underground stem tuber; Onion is a modified underground tunicated bulb."
+      "tip": "Groundnut is a geocarpic fruit (subterranean legume); Potato is an underground stem tuber; Onion is a modified underground tunicated bulb.",
+      "id": 52
     },
     {
-      "id": 53,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Commercial Sunn hemp jute fibres are anatomically obtained from the plant's",
       "hi": "व्यावसायिक सन हेम्प के रेशे पौधे के किस भाग से प्राप्त होते हैं?",
@@ -959,10 +958,10 @@
       "answer_letter": "B",
       "answer_text": "phloem",
       "explanation": "Commercial fibres of Sunn hemp (Crotalaria juncea) and Jute (Corchorus) are sclerenchymatous bast fibres derived from secondary phloem tissue in the stem cortex.",
-      "tip": "Bast fibres = Secondary phloem (Jute, Hemp, Flax); Surface fibres = Epidermal seed hairs (Cotton); Leaf fibres = Sclerenchyma of monocot leaves (Sisal)."
+      "tip": "Bast fibres = Secondary phloem (Jute, Hemp, Flax); Surface fibres = Epidermal seed hairs (Cotton); Leaf fibres = Sclerenchyma of monocot leaves (Sisal).",
+      "id": 53
     },
     {
-      "id": 54,
       "source": "BPSC Middle School & TGT Science",
       "en": "Which specialized pigment is essential for symbiotic nitrogen fixation in leguminous root nodules?",
       "hi": "दलहनी पौधों की जड़ ग्रंथिकाओं में सहजीवी नाइट्रोजन स्थिरीकरण के लिए कौन-सा वर्णक आवश्यक है?",
@@ -977,10 +976,10 @@
       "answer_letter": "B",
       "answer_text": "Leghaemoglobin",
       "explanation": "Leghaemoglobin is an oxygen-scavenging haemoprotein synthesized collaboratively by Rhizobium bacteroids and legume plant cells that maintains strict anaerobic conditions around oxygen-sensitive nitrogenase.",
-      "tip": "The enzyme nitrogenase is destroyed by free O2. Leghaemoglobin binds oxygen away from it, turning the interior of active nodules pink."
+      "tip": "The enzyme nitrogenase is destroyed by free O2. Leghaemoglobin binds oxygen away from it, turning the interior of active nodules pink.",
+      "id": 54
     },
     {
-      "id": 55,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "In C4 plants, the ultimate fixation of CO2 and synthesis of carbohydrates during the Calvin cycle occurs in the chloroplasts of",
       "hi": "C4 पौधों में केल्विन चक्र के दौरान CO2 का अंतिम स्थिरीकरण और कार्बोहाइड्रेट का संश्लेषण किन कोशिकाओं के हरितलवक में होता है?",
@@ -995,10 +994,10 @@
       "answer_letter": "C",
       "answer_text": "bundle sheath cells",
       "explanation": "C4 plants exhibit Kranz anatomy. Initial carboxylation by PEP carboxylase occurs in mesophyll cells forming C4 acids, which are transported to bundle sheath cells where Rubisco carries out the final Calvin cycle.",
-      "tip": "C4 plants division of labor: Mesophyll cells = PEP carboxylase (initial C4 acid formation); Bundle sheath cells = Rubisco + Calvin Cycle (C3 pathway)."
+      "tip": "C4 plants division of labor: Mesophyll cells = PEP carboxylase (initial C4 acid formation); Bundle sheath cells = Rubisco + Calvin Cycle (C3 pathway).",
+      "id": 55
     },
     {
-      "id": 56,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "The ploidy level of the endosperm in gymnosperms is\n(",
       "hi": "जिम्नोस्पर्म (अनावृतबीजी) में भ्रूणपोष की गुणसूत्र संख्या (प्लॉइडी स्तर) होती है)",
@@ -1013,10 +1012,10 @@
       "answer_letter": "C",
       "answer_text": "haploid (n)",
       "explanation": "In gymnosperms, endosperm is the female gametophyte tissue developed directly from the functional megaspore before fertilization, making it haploid (n). In angiosperms, double fertilization forms triploid (3n) endosperm.",
-      "tip": "Gymnosperm endosperm = Haploid (n), formed BEFORE fertilization; Angiosperm endosperm = Triploid (3n), formed AFTER double fertilization."
+      "tip": "Gymnosperm endosperm = Haploid (n), formed BEFORE fertilization; Angiosperm endosperm = Triploid (3n), formed AFTER double fertilization.",
+      "id": 56
     },
     {
-      "id": 57,
       "source": "BPSC Middle School & TGT Science",
       "en": "An unripe green fruit turns yellow or red when it ripens because",
       "hi": "एक कच्चा हरा फल पकने पर पीले या लाल रंग में परिवर्तित हो जाता है, क्योंकि",
@@ -1031,10 +1030,10 @@
       "answer_letter": "C",
       "answer_text": "chloroplast changes to chromoplast",
       "explanation": "During fruit ripening, green chlorophyll pigments degrade while thylakoids dissolve, transforming photosynthetic chloroplasts into non-photosynthetic chromoplasts rich in carotenoid and lycopene pigments.",
-      "tip": "Plastid transformation during ripening: Green Chloroplast -> Red/Yellow Chromoplast. Amyloplasts store starch; Leucoplasts are colorless."
+      "tip": "Plastid transformation during ripening: Green Chloroplast -> Red/Yellow Chromoplast. Amyloplasts store starch; Leucoplasts are colorless.",
+      "id": 57
     },
     {
-      "id": 58,
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
       "en": "Which chemotrophic nitrifying bacteria oxidizes ammonium salts into nitrites?",
       "hi": "कौन-सा रसायनसंश्लेषी जीवाणु अमोनियम लवणों को नाइट्राइट में परिवर्तित करता है?",
@@ -1049,10 +1048,10 @@
       "answer_letter": "B",
       "answer_text": "Nitrosomonas",
       "explanation": "Nitrification occurs in two sequential biological steps: Nitrosomonas oxidizes ammonia/ammonium ions into nitrite (NO2-), and Nitrobacter subsequent oxidizes nitrite into nitrate (NO3-).",
-      "tip": "Step 1: Ammonia -> Nitrite (Nitrosomonas & Nitrococcus); Step 2: Nitrite -> Nitrate (Nitrobacter). Azotobacter is free-living N2 fixer."
+      "tip": "Step 1: Ammonia -> Nitrite (Nitrosomonas & Nitrococcus); Step 2: Nitrite -> Nitrate (Nitrobacter). Azotobacter is free-living N2 fixer.",
+      "id": 58
     },
     {
-      "id": 59,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The commercially valuable hydrocolloid 'Agar-agar' used in microbiological culture media is extracted from",
       "hi": "सूक्ष्मजैविक संवर्धन माध्यम में प्रयुक्त व्यावसायिक 'एगार-एगार' किससे प्राप्त किया जाता है?",
@@ -1067,10 +1066,10 @@
       "answer_letter": "A",
       "answer_text": "Gelidium",
       "explanation": "Agar-agar is a sulfated galactan polysaccharide derived from cell walls of red algae (Rhodophyceae), primarily Gelidium and Gracilaria. Sargassum yields alginates, and Ulothrix is a green alga.",
-      "tip": "Agar-agar = Gelidium & Gracilaria (Red algae); Alginic acid / Algin = Laminaria & Fucus (Brown algae); Carrageenan = Chondrus crispus (Red alga)."
+      "tip": "Agar-agar = Gelidium & Gracilaria (Red algae); Alginic acid / Algin = Laminaria & Fucus (Brown algae); Carrageenan = Chondrus crispus (Red alga).",
+      "id": 59
     },
     {
-      "id": 60,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Floridean starch, the stored carbohydrate food reserve in red algae, has a structural similarity to",
       "hi": "लाल शैवाल का संचित खाद्य 'फ्लोरिडियन स्टार्च' संरचनात्मक रूप से किसके समान होता है?",
@@ -1085,10 +1084,10 @@
       "answer_letter": "A",
       "answer_text": "amylopectin and glycogen",
       "explanation": "Floridean starch synthesized in Rhodophyceae consists of branched alpha-glucan polymers connected by alpha-(1,4) and alpha-(1,6) glycosidic linkages, mirroring the molecular branching of amylopectin and animal glycogen.",
-      "tip": "Stored foods: Chlorophyceae = Starch; Phaeophyceae = Laminarin and Mannitol; Rhodophyceae = Floridean starch (structurally like amylopectin & glycogen).\nSection 4: Zoology & Human Physiology (जंतु विज्ञान एवं मानव कार्यिकी) — Questions 61 to 80\nDigestive & Excretory Systems, Cellular Immunology, Evolutionary Connecting Links, Genetics & Molecular Biology"
+      "tip": "Stored foods: Chlorophyceae = Starch; Phaeophyceae = Laminarin and Mannitol; Rhodophyceae = Floridean starch (structurally like amylopectin & glycogen).\nSection 4: Zoology & Human Physiology (जंतु विज्ञान एवं मानव कार्यिकी) — Questions 61 to 80\nDigestive & Excretory Systems, Cellular Immunology, Evolutionary Connecting Links, Genetics & Molecular Biology",
+      "id": 60
     },
     {
-      "id": 61,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "Hydrochloric acid (HCl) secreting cells present in the gastric glands of the stomach are called\n(",
       "hi": "आमाशय की जठर ग्रंथियों में हाइड्रोक्लोरिक अम्ल (HCl) स्रावित करने वाली कोशिकाएँ कहलाती हैं)",
@@ -1103,10 +1102,10 @@
       "answer_letter": "C",
       "answer_text": "oxyntic cells",
       "explanation": "Oxyntic (also called parietal) cells in the gastric mucosa secrete hydrochloric acid (which lowers stomach pH to 1.5-2.0 to activate pepsinogen) and Castle's intrinsic factor (essential for vitamin B12 absorption).",
-      "tip": "Oxyntic/Parietal cells = HCl & Intrinsic Factor; Chief/Zymogenic cells = Pepsinogen & Prorennin; Goblet cells = Mucus."
+      "tip": "Oxyntic/Parietal cells = HCl & Intrinsic Factor; Chief/Zymogenic cells = Pepsinogen & Prorennin; Goblet cells = Mucus.",
+      "id": 61
     },
     {
-      "id": 62,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "The peptide hormone Secretin stimulates the secretory functioning of which digestive organ?",
       "hi": "पेप्टाइड हॉर्मोन सीक्रेटिन किस पाचक अंग के स्रावण को उत्तेजित करता है?",
@@ -1121,10 +1120,10 @@
       "answer_letter": "B",
       "answer_text": "pancreas",
       "explanation": "Secretin is released by duodenum S-cells in response to acidic chyme, stimulating the exocrine pancreas to secrete watery pancreatic juice rich in bicarbonate ions to neutralize stomach acid.",
-      "tip": "Secretin = stimulates pancreatic bicarbonate and water secretion; Cholecystokinin (CCK) = stimulates gallbladder bile ejection and pancreatic digestive enzymes."
+      "tip": "Secretin = stimulates pancreatic bicarbonate and water secretion; Cholecystokinin (CCK) = stimulates gallbladder bile ejection and pancreatic digestive enzymes.",
+      "id": 62
     },
     {
-      "id": 63,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "Which digestive enzyme hydrolyzes dietary proteins optimally at a strongly acidic pH around 1.6 to 2.0?\n(",
       "hi": "कौन-सा पाचक एंजाइम अत्यधिक अम्लीय माध्यम (pH 1.6 से 2.0) पर प्रोटीन का पाचन करता है?)",
@@ -1139,10 +1138,10 @@
       "answer_letter": "B",
       "answer_text": "Pepsin",
       "explanation": "Pepsin is the active proteolytic enzyme of the stomach, converted from inactive pepsinogen by gastric HCl; it operates optimally at pH 1.5-2.0 to cleave complex proteins into proteoses and peptones.",
-      "tip": "Pepsin = operates in acidic medium (pH 1.5-2.0) in stomach; Trypsin = operates in alkaline medium (pH 7.8-8.5) in small intestine."
+      "tip": "Pepsin = operates in acidic medium (pH 1.5-2.0) in stomach; Trypsin = operates in alkaline medium (pH 7.8-8.5) in small intestine.",
+      "id": 63
     },
     {
-      "id": 64,
       "source": "BPSC Middle School & Senior Secondary",
       "en": "The basic structural and functional microscopic filtration unit of the human kidney is called\n(",
       "hi": "मानव वृक्क (गुर्दे) की मूलभूत संरचनात्मक एवं क्रियात्मक निस्यंदन इकाई कहलाती है)",
@@ -1157,10 +1156,10 @@
       "answer_letter": "A",
       "answer_text": "Nephron",
       "explanation": "Each human kidney contains approximately one million nephrons comprising a glomerulus, Bowman's capsule, and renal tubules that perform blood ultrafiltration, selective reabsorption, and tubular secretion.",
-      "tip": "Nephron = Excretory and filtration unit of Kidney; Neuron = Structural and functional unit of Nervous system."
+      "tip": "Nephron = Excretory and filtration unit of Kidney; Neuron = Structural and functional unit of Nervous system.",
+      "id": 64
     },
     {
-      "id": 65,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "Which cellular component of human blood is directly responsible for producing circulating antibodies?\n(",
       "hi": "मानव रक्त का कौन-सा कोशिकीय घटक प्रतिरक्षी (एंटीबॉडी) उत्पादन के लिए प्रत्यक्षतः उत्तरदायी है?)",
@@ -1175,10 +1174,10 @@
       "answer_letter": "A",
       "answer_text": "lymphocyte",
       "explanation": "B-lymphocytes proliferate and differentiate into effector plasma cells, which secrete specific immunoglobulin proteins (antibodies) into circulating blood to neutralize invading pathogens.",
-      "tip": "B-Lymphocytes = Humoral immunity (produce antibodies); T-Lymphocytes = Cell-mediated immunity; Thrombocytes = Blood clotting."
+      "tip": "B-Lymphocytes = Humoral immunity (produce antibodies); T-Lymphocytes = Cell-mediated immunity; Thrombocytes = Blood clotting.",
+      "id": 65
     },
     {
-      "id": 66,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "The exchange of respiratory gases (O2 and CO2) across the pulmonary alveolar surface occurs through\n(",
       "hi": "श्वसन सतह (कूपिकाओं) पर ऑक्सीजन और CO2 का विनिमय किस प्रक्रिया द्वारा होता है?)",
@@ -1193,10 +1192,10 @@
       "answer_letter": "C",
       "answer_text": "diffusion",
       "explanation": "Alveolar gas exchange is a passive biophysical process governed by Fick's law of simple diffusion down partial pressure concentration gradients without cellular ATP expenditure.",
-      "tip": "Gas exchange in lungs and tissues is strictly driven by simple physical diffusion based on partial pressure differences (pO2 and pCO2)."
+      "tip": "Gas exchange in lungs and tissues is strictly driven by simple physical diffusion based on partial pressure differences (pO2 and pCO2).",
+      "id": 66
     },
     {
-      "id": 67,
       "source": "BPSC Middle School & PRT Class 1-5",
       "en": "The rhythmic contraction and expansion wave movements of the muscular wall of the food pipe (oesophagus) are known as",
       "hi": "आहार नली की दीवार के संकुचन और विस्तार की लयबद्ध गति कहलाती है",
@@ -1211,10 +1210,10 @@
       "answer_letter": "C",
       "answer_text": "peristaltic movement",
       "explanation": "Peristalsis is an involuntary reflex characterized by coordinated circular muscle contraction behind the food bolus and longitudinal muscle relaxation ahead of it, propelling food down the digestive tract.",
-      "tip": "Peristalsis = Muscular wave movement propelling food through gut; Translocation = Phloem nutrient transport; Transpiration = Water vapor loss from leaves."
+      "tip": "Peristalsis = Muscular wave movement propelling food through gut; Translocation = Phloem nutrient transport; Transpiration = Water vapor loss from leaves.",
+      "id": 67
     },
     {
-      "id": 68,
       "source": "BPSC Middle School Question Paper - Science",
       "en": "The paired muscular tube connecting each kidney with the urinary bladder in humans is the\n(",
       "hi": "मानव शरीर में वृक्क (गुर्दे) को मूत्राशय से जोड़ने वाली नली कहलाती है)",
@@ -1229,10 +1228,10 @@
       "answer_letter": "B",
       "answer_text": "ureter",
       "explanation": "The ureters are bilateral muscular ducts that transport urine from the renal pelvis of each kidney into the urinary bladder. The urethra discharges urine from the bladder to the exterior.",
-      "tip": "Kidney to Bladder = Ureter (द्वि-पार्श्वी नलिका); Bladder to Outside = Urethra (मूत्रमार्ग)."
+      "tip": "Kidney to Bladder = Ureter (द्वि-पार्श्वी नलिका); Bladder to Outside = Urethra (मूत्रमार्ग).",
+      "id": 68
     },
     {
-      "id": 69,
       "source": "BPSC Middle School Question Paper - Science",
       "en": "The 'Nodes of Ranvier' are periodic microscopic gaps characteristically found in\n('",
       "hi": "रैनवियर के नोड्स' (Nodes of Ranvier) सूक्ष्म रूप से किसमें पाए जाते हैं?)",
@@ -1247,10 +1246,10 @@
       "answer_letter": "A",
       "answer_text": "nerve cells",
       "explanation": "Nodes of Ranvier are periodic uninsulated gaps along the myelinated axons of neurons where voltage-gated sodium channels are concentrated, facilitating rapid saltatory conduction of nerve impulses.",
-      "tip": "Nodes of Ranvier = Gaps in the myelin sheath along neuron axons enabling fast saltatory impulse conduction."
+      "tip": "Nodes of Ranvier = Gaps in the myelin sheath along neuron axons enabling fast saltatory impulse conduction.",
+      "id": 69
     },
     {
-      "id": 70,
       "source": "BPSC Middle School Question Paper - Science",
       "en": "The celebrated fossil organism that represents an evolutionary connecting missing link between reptiles and birds is",
       "hi": "सरीसृपों और पक्षियों के बीच की विकासवादी योजक कड़ी माना जाने वाला प्रसिद्ध जीवाश्म जीव है",
@@ -1265,10 +1264,10 @@
       "answer_letter": "A",
       "answer_text": "Archaeopteryx",
       "explanation": "Archaeopteryx possessed avian characteristics (feathers, wings, wishbone) alongside reptilian features (beak with teeth, long bony tail, clawed digits), establishing that birds evolved from theropod reptiles.",
-      "tip": "Archaeopteryx = Connecting link between Reptiles and Birds; Ichthyostega = Connecting link between Fishes and Amphibians; Platypus = Reptiles and Mammals."
+      "tip": "Archaeopteryx = Connecting link between Reptiles and Birds; Ichthyostega = Connecting link between Fishes and Amphibians; Platypus = Reptiles and Mammals.",
+      "id": 70
     },
     {
-      "id": 71,
       "source": "BPSC Middle School & TGT Science",
       "en": "Dengue fever is caused by which of the following pathogens?",
       "hi": "डेंगू ज्वर निम्नलिखित में से किस रोगजनक के कारण होता है?",
@@ -1283,10 +1282,10 @@
       "answer_letter": "B",
       "answer_text": "RNA-containing arbovirus",
       "explanation": "Dengue is caused by the Dengue virus (DENV 1-4), an arthropod-borne single-stranded positive-sense RNA virus belonging to the family Flaviviridae, transmitted by Aedes aegypti mosquitoes.",
-      "tip": "Dengue virus genome = Single-stranded RNA (Flavivirus / Arbovirus); Vector = Day-biting female Aedes aegypti mosquito."
+      "tip": "Dengue virus genome = Single-stranded RNA (Flavivirus / Arbovirus); Vector = Day-biting female Aedes aegypti mosquito.",
+      "id": 71
     },
     {
-      "id": 72,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "The protozoan parasite causing Malaria in humans is biological transmitted by the vector",
       "hi": "मनुष्यों में मलेरिया रोग फैलाने वाला प्रोटोजोआ परजीवी किस वाहक द्वारा संचारित होता है?",
@@ -1301,10 +1300,10 @@
       "answer_letter": "C",
       "answer_text": "female Anopheles",
       "explanation": "Malaria is caused by Plasmodium species and transmitted by female Anopheles mosquitoes, which require blood meals to nourish developing eggs. Male mosquitoes feed exclusively on plant nectar.",
-      "tip": "Malaria = Female Anopheles (Plasmodium parasite); Dengue/Chikungunya = Female Aedes (Flavivirus); Filariasis = Female Culex (Wuchereria worm)."
+      "tip": "Malaria = Female Anopheles (Plasmodium parasite); Dengue/Chikungunya = Female Aedes (Flavivirus); Filariasis = Female Culex (Wuchereria worm).",
+      "id": 72
     },
     {
-      "id": 73,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The primary biochemical function of cellular ribosomes is",
       "hi": "कोशिकीय राइबोसोम का प्राथमिक जैव रासायनिक कार्य है",
@@ -1319,10 +1318,10 @@
       "answer_letter": "B",
       "answer_text": "protein synthesis",
       "explanation": "Ribosomes (often termed 'protein factories' of the cell) translate mRNA codon sequences into polypeptide chains by catalyzing peptide bond formation between linked amino acids.",
-      "tip": "Ribosomes = Protein synthesis; Smooth Endoplasmic Reticulum = Lipid and steroid synthesis; Golgi Apparatus = Packaging and secretion."
+      "tip": "Ribosomes = Protein synthesis; Smooth Endoplasmic Reticulum = Lipid and steroid synthesis; Golgi Apparatus = Packaging and secretion.",
+      "id": 73
     },
     {
-      "id": 74,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following exceptional mammals is oviparous (lays eggs)?\n(",
       "hi": "निम्नलिखित में से कौन-सा अपवाद स्वरूप अण्डप्रजक (अण्डे देने वाला) स्तनधारी है?)",
@@ -1337,10 +1336,10 @@
       "answer_letter": "A",
       "answer_text": "Echidna",
       "explanation": "Monotremes (order Monotremata), including the spiny anteater (Echidna / Tachyglossus) and the duck-billed platypus (Ornithorhynchus), are primitive egg-laying (oviparous) mammals that nourish hatched young with milk.",
-      "tip": "Egg-laying mammals (Prototheria / Monotremes) = Echidna and Platypus; Marsupials (Pouched) = Kangaroo; Placental mammals = Loris, Humans."
+      "tip": "Egg-laying mammals (Prototheria / Monotremes) = Echidna and Platypus; Marsupials (Pouched) = Kangaroo; Placental mammals = Loris, Humans.",
+      "id": 74
     },
     {
-      "id": 75,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "The proteolytic enzyme Rennin, which curdles milk casein, is found in",
       "hi": "दूध के केसीन को पचाने वाला प्रोटीयोलाइटिक एंजाइम रेनिन किसमें पाया जाता है?",
@@ -1355,10 +1354,10 @@
       "answer_letter": "B",
       "answer_text": "gastric juice",
       "explanation": "Prorennin is secreted by gastric chief cells in infant gastric juice and activated by HCl into active rennin, which coagulates soluble milk casein into insoluble calcium paracaseinate for digestion by pepsin.",
-      "tip": "Rennin (with double 'n') is a milk-coagulating enzyme in infant gastric juice; Renin (with single 'n') is a kidney hormone in the RAAS blood pressure system."
+      "tip": "Rennin (with double 'n') is a milk-coagulating enzyme in infant gastric juice; Renin (with single 'n') is a kidney hormone in the RAAS blood pressure system.",
+      "id": 75
     },
     {
-      "id": 76,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Intercostal muscles are anatomically situated in which part of the human body?\n(",
       "hi": "अंतरापर्शुक पेशियाँ (Intercostal muscles) मानव शरीर के किस भाग में स्थित होती हैं?)",
@@ -1373,10 +1372,10 @@
       "answer_letter": "C",
       "answer_text": "ribs",
       "explanation": "Intercostal muscles occupy the intercostal spaces between adjacent ribs; their external and internal sets contract and relax to alter the antero-posterior and transverse dimensions of the thoracic cavity during breathing.",
-      "tip": "External and internal intercostal muscles are located strictly between the ribs, functioning in pulmonary ventilation."
+      "tip": "External and internal intercostal muscles are located strictly between the ribs, functioning in pulmonary ventilation.",
+      "id": 76
     },
     {
-      "id": 77,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following is the most abundant structural protein in the animal kingdom?",
       "hi": "जंतु जगत में सर्वाधिक प्रचुर मात्रा में पाया जाने वाला संरचनात्मक प्रोटीन कौन-सा है?",
@@ -1391,10 +1390,10 @@
       "answer_letter": "C",
       "answer_text": "Collagen",
       "explanation": "Collagen is the primary insoluble fibrous protein of the extracellular matrix and connective tissues (tendons, skin, ligaments, bones, and cartilage), constituting approx. 30% of total body protein mass in animals.",
-      "tip": "Most abundant protein in the Animal Kingdom = Collagen; Most abundant protein in the entire Biosphere = Rubisco (in green plants)."
+      "tip": "Most abundant protein in the Animal Kingdom = Collagen; Most abundant protein in the entire Biosphere = Rubisco (in green plants).",
+      "id": 77
     },
     {
-      "id": 78,
       "source": "BPSC TGT Science - Advt. 23/2023",
       "en": "Which of the following endocrine hormones is not a steroid hormone?",
       "hi": "निम्नलिखित अंतःस्रावी हॉर्मोनों में से कौन-सा स्टीरॉइड हॉर्मोन नहीं है?",
@@ -1409,10 +1408,10 @@
       "answer_letter": "A",
       "answer_text": "Thyroxine",
       "explanation": "Thyroxine (T4) is an iodinated amino acid derivative synthesized from tyrosine in the thyroid gland. In contrast, aldosterone and estrogen are lipid-soluble steroid hormones synthesized from cholesterol.",
-      "tip": "Steroid Hormones (from cholesterol) = Cortisol, Aldosterone, Estrogen, Progesterone, Testosterone; Amino Acid Derivatives = Thyroxine, Epinephrine."
+      "tip": "Steroid Hormones (from cholesterol) = Cortisol, Aldosterone, Estrogen, Progesterone, Testosterone; Amino Acid Derivatives = Thyroxine, Epinephrine.",
+      "id": 78
     },
     {
-      "id": 79,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "In molecular genetics, how many nitrogenous nucleotides constitute a single genetic codon?\n(",
       "hi": "आणविक आनुवंशिकी में, एक आनुवंशिक कोडॉन (codon) में कितने न्यूक्लियोटाइड होते हैं?)",
@@ -1427,10 +1426,10 @@
       "answer_letter": "C",
       "answer_text": "3",
       "explanation": "The genetic code is a triplet code: three consecutive ribonucleotide bases on mRNA constitute a codon specifying one particular amino acid (yielding 4^3 = 64 possible codons, proved by Nirenberg, Khorana, and Holley).",
-      "tip": "Triplet code: 3 bases = 1 codon = 1 amino acid. There are 64 codons in total: 61 sense codons and 3 nonsense/stop codons (UAA, UAG, UGA)."
+      "tip": "Triplet code: 3 bases = 1 codon = 1 amino acid. There are 64 codons in total: 61 sense codons and 3 nonsense/stop codons (UAA, UAG, UGA).",
+      "id": 79
     },
     {
-      "id": 80,
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
       "en": "Charles Darwin's epoch-making book 'On the Origin of Species by Means of Natural Selection' was originally published in the year",
       "hi": "चार्ल्स डार्विन की युगांतरकारी पुस्तक 'ओरिजिन ऑफ स्पीशीज़' मूल रूप से किस वर्ष में प्रकाशित हुई थी?",
@@ -1445,7 +1444,8 @@
       "answer_letter": "B",
       "answer_text": "1859",
       "explanation": "Charles Darwin's revolutionary masterwork 'On the Origin of Species by Means of Natural Selection' was officially published in London on 24th November 1859, proposing the theory of biological evolution by natural selection.",
-      "tip": "Milestone science publication dates: 1859 = Darwin's 'Origin of Species'; 1866 = Mendel's laws of inheritance published; 1953 = Watson & Crick DNA double helix.\nMaster Answer Key & Topic Index (Questions 1 to 80)\nQ. No.\nDiscipline\nCore Scientific Topic\nOfficial Key"
+      "tip": "Milestone science publication dates: 1859 = Darwin's 'Origin of Species'; 1866 = Mendel's laws of inheritance published; 1953 = Watson & Crick DNA double helix.\nMaster Answer Key & Topic Index (Questions 1 to 80)\nQ. No.\nDiscipline\nCore Scientific Topic\nOfficial Key",
+      "id": 80
     }
   ]
 }

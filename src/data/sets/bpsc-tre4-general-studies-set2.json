@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set2",
+  "title": "General Studies Practice Set 2 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "The cost of 5 bats and 18 balls is ₹6,500 and the cost of 2 bats and 20 balls is ₹4,200. What are the costs of one bat and one ball respectively?",
+      "hi": "5 बल्लों और 18 गेंदों की कीमत ₹6,500 है तथा 2 बल्लों और 20 गेंदों की कीमत ₹4,200 है। एक बल्ला और एक गेंद की कीमतें हैं, क्रमशः",
+      "options": [
+        "₹1,000 and ₹110",
+        "₹900 and ₹110",
+        "₹800 and ₹120",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Solving the system 5x + 18y = 6500 and 2x + 20y = 4200 (x + 10y = 2100): substituting x = 2100 - 10y gives y = ₹125 and x = ₹850. Since ₹850 and ₹125 are not among (A), (B), or (C), Option (E) is correct.",
+      "tip": "Always solve linear systems directly: test the derived solution against choices before checking (E).",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "The lengths of two sides of a triangle are 8 cm and 9 cm, and its area is 12√5 cm². What is the length of the third side?",
+      "hi": "किसी त्रिभुज की दो भुजाओं की लम्बाई 8 से० मी० और 9 से० मी० है तथा इसका क्षेत्रफल 12√5 से० मी०² है। तीसरी भुजा की लम्बाई क्या है?",
+      "options": [
+        "7 cm",
+        "√241 cm",
+        "13 cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Area = (1/2)*8*9*sin C = 36 sin C = 12√5 -> sin C = √5/3. Thus cos C = ±2/3. By the Law of Cosines, c² = 8² + 9² - 2*8*9*(±2/3), yielding c = 7 cm or c = √241 cm. Since two values are valid, Option (D) is the answer.",
+      "tip": "When the sine of an angle is determined, both acute and obtuse angles yield valid triangles, giving two distinct third sides.",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "There are 50 numbers. Each number is subtracted from 53, and the mean of the numbers so obtained is found to be -3.5. The mean of the given numbers is",
+      "hi": "50 संख्याएँ दी हुई हैं। प्रत्येक संख्या को 53 से घटाया गया और इस तरह प्राप्त संख्याओं का माध्य -3.5 पाया गया। दी गई संख्याओं का माध्य है",
+      "options": [
+        "56.5",
+        "53.5",
+        "49.5",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "56.5",
+      "explanation": "Mean of (53 - x_i) = 53 - Mean(x) = -3.5. Therefore, Mean(x) = 53 - (-3.5) = 53 + 3.5 = 56.5.",
+      "tip": "Linear property of arithmetic mean: E[a - X] = a - E[X]. Rearrange directly to find E[X] = a - mean.",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "When is 'Human Rights Day' celebrated annually?",
+      "hi": "'मानवाधिकार दिवस' प्रतिवर्ष कब मनाया जाता है?",
+      "options": [
+        "10th November",
+        "10th December",
+        "24th October",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10th December",
+      "explanation": "Human Rights Day is observed globally on 10th December to commemorate the adoption of the Universal Declaration of Human Rights (UDHR) by the UN General Assembly in 1948.",
+      "tip": "24 October = United Nations Day; 10 December = Human Rights Day; 10 November = World Science Day for Peace.",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "'Tana Bhagat Movement' was related to",
+      "hi": "'ताना भगत आन्दोलन' संबंधित था",
+      "options": [
+        "Dalit Movement",
+        "Tribal Movement",
+        "Peasant Movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Tribal Movement",
+      "explanation": "The Tana Bhagat Movement (1914) was a religious, agrarian, and tribal movement among the Oraon tribe of Chotanagpur led by Jatra Bhagat, opposing British land taxes and money lenders.",
+      "tip": "Tana Bhagats later allied with Mahatma Gandhi's Non-Cooperation Movement, adopting non-violence and Khadi.",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "In which of the following states is black soil found?",
+      "hi": "निम्नलिखित में से किस राज्य में काली मिट्टी पाई जाती है?",
+      "options": [
+        "Karnataka",
+        "Gujarat",
+        "Uttarakhand",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Black soil (Regur soil) is widespread across the Deccan lava trap, predominantly found in Maharashtra, Gujarat, Madhya Pradesh, and parts of Karnataka. As both Gujarat and Karnataka have it, (D) is correct.",
+      "tip": "Regur/Black cotton soil spans multiple peninsular states; when Gujarat and Karnataka appear together, pick Option (D).",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Minerals are deposited and accumulated in the stratas of which of the following rocks?",
+      "hi": "खनिज निम्नलिखित में से किस चट्टान के स्तर में जमा होता है?",
+      "options": [
+        "Sedimentary rocks",
+        "Metamorphic rocks",
+        "Igneous rocks",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Sedimentary rocks",
+      "explanation": "In sedimentary rocks, minerals occur in beds or strata formed as a result of deposition, accumulation, and concentration in horizontal layers (e.g., coal, iron ore, limestone).",
+      "tip": "Sedimentary rocks = strata / beds; Igneous and metamorphic rocks = cracks, crevices, faults, and veins / lodes.",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Which one of the following is a leguminous crop?",
+      "hi": "निम्नलिखित में से कौन-सी एक फलीदार फसल है?",
+      "options": [
+        "Pulse",
+        "Jowar",
+        "Millet",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Pulse",
+      "explanation": "Pulses (beans, gram, lentils, peas) belong to the Leguminosae family and fix atmospheric nitrogen through root nodules, whereas Jowar and Millets are coarse cereals (Poaceae family).",
+      "tip": "Leguminous crops = Pulses (Gram, Arhar, Moong); Coarse grains (Jowar, Bajra, Ragi) = Cereals.",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Which two of the following extreme locations are connected by the East-West Corridor?",
+      "hi": "निम्नलिखित में से कौन-से दो दूरस्थ स्थान पूर्व-पश्चिम गलियारे से जुड़े हैं?",
+      "options": [
+        "Mumbai and Nagpur",
+        "Mumbai and Kolkata",
+        "Silchar and Porbandar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Silchar and Porbandar",
+      "explanation": "The East-West Corridor of the Golden Quadrilateral project links Silchar in Assam (East) with Porbandar in Gujarat (West).",
+      "tip": "Corridors: East-West = Silchar to Porbandar; North-South = Srinagar to Kanyakumari.",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Stalactite and stalagmite structures are formed by",
+      "hi": "स्टैलेक्टाइट और स्टैलेग्माइट संरचनाएँ किसके द्वारा बनती हैं?",
+      "options": [
+        "wind action",
+        "underground water",
+        "snow action",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "underground water",
+      "explanation": "Stalactites (hanging from cave ceilings) and stalagmites (rising from cave floors) are depositional landforms produced by calcium carbonate precipitation in karst underground water topography.",
+      "tip": "Memory aid: StalacTite holds 'Tight' to the ceiling; StalagMite 'Might' reach the ceiling from the ground; both formed by Karst groundwater.",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "April 22 is celebrated as the",
+      "hi": "22 अप्रैल को मनाया जाता है",
+      "options": [
+        "World Earth Day",
+        "World Health Day",
+        "World Ozone Day",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "World Earth Day",
+      "explanation": "World Earth Day is celebrated annually on April 22 to mobilize global support for environmental protection. World Health Day is April 7 and World Ozone Day is September 16.",
+      "tip": "Calendar of environment days: 22 March = World Water Day; 22 April = World Earth Day; 22 May = International Biological Diversity Day.",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Topographical map of India is prepared by which organization?",
+      "hi": "भारत का स्थलाकृतिक मानचित्र किस संगठन द्वारा तैयार किया जाता है?",
+      "options": [
+        "The Geological Survey of India",
+        "The Survey of India",
+        "The Zoological Survey of India",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "The Survey of India",
+      "explanation": "The Survey of India (founded 1767, headquartered at Dehradun) is the National Mapping Agency of India mandated to produce official topographical maps.",
+      "tip": "Topographical / Geodetic Maps = Survey of India; Mineral / Geological mapping = Geological Survey of India (GSI).",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Who first described the Revolt of 1857 as the 'First Indian War of Independence'?",
+      "hi": "1857 के विद्रोह को किसके द्वारा पहली बार 'प्रथम भारतीय स्वतंत्रता संग्राम' के रूप में वर्णित किया गया था?",
+      "options": [
+        "V. D. Savarkar",
+        "Bal Gangadhar Tilak",
+        "R. C. Majumdar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "V. D. Savarkar",
+      "explanation": "Vinayak Damodar Savarkar authored 'The Indian War of Independence 1857' in 1909, characterizing the uprising as India's first coordinated national war of independence.",
+      "tip": "V.D. Savarkar = First War of Independence; R.C. Majumdar = 'Neither first, nor national, nor war of independence'.",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Which of the following events happened first?",
+      "hi": "निम्नलिखित में से कौन-सी घटना सबसे पहले हुई?",
+      "options": [
+        "Santhal Rebellion",
+        "Rebellion of Birsa Munda",
+        "Tana Bhagat Movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Santhal Rebellion",
+      "explanation": "Santhal Rebellion occurred in 1855-1856; Birsa Munda's Ulgulan occurred in 1899-1900; and the Tana Bhagat Movement occurred in 1914. Santhal Rebellion took place earliest.",
+      "tip": "Tribal timeline: Santhal (1855-56) -> Birsa Munda (1899-1900) -> Tana Bhagat (1914).",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Under whose leadership did the Santhal Rebellion of 1855-1856 take place?\n(",
+      "hi": "किसके नेतृत्व में सन्थाल विद्रोह (1855-1856) हुआ?)",
+      "options": [
+        "Raj Kumar Shukla",
+        "S. N. Sinha",
+        "Sahajanand Saraswati",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "The Santhal Rebellion was spearheaded by the four Murmu brothers: Sidhu, Kanhu, Chand, and Bhairav. None of their names appear in choices (A), (B), or (C), making (E) the correct response.",
+      "tip": "Always verify leadership: Santhal Rebellion = Sidhu & Kanhu Murmu; Champaran = Raj Kumar Shukla; Peasant = Sahajanand.",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "When did the Bihar Youth League come into existence?",
+      "hi": "बिहार यूथ लीग का गठन कब हुआ?",
+      "options": [
+        "1930",
+        "1928",
+        "1940",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1928",
+      "explanation": "The Bihar Youth League was established in 1928 at Motihari under the leadership of Prof. Gyan Saha to mobilize youth in the national freedom struggle.",
+      "tip": "1928 saw the establishment of both the Bihar Youth League and the boycott of the Simon Commission across Bihar.",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Who led the Salt Satyagraha on 6th April, 1930 in Champaran?",
+      "hi": "6 अप्रैल, 1930 को चंपारण में नमक सत्याग्रह का नेतृत्व किसने किया?",
+      "options": [
+        "Bepin Behari Varma",
+        "Laxmi Narayan Jha",
+        "Ramlal Prasad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Bepin Behari Varma",
+      "explanation": "Bepin Behari Varma organized and led the Salt Satyagraha at Champaran on 6th April 1930, where volunteers marched to make illegal salt.",
+      "tip": "Salt Satyagraha in Champaran was led by Bepin Behari Varma; in Patna, it was led by Ambika Kant Sinha at Nakhas Pond.",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "At which of the following Sessions of the Indian National Congress did the Champaran trouble come up for discussion?",
+      "hi": "भारतीय राष्ट्रीय काँग्रेस के किस अधिवेशन में चंपारण समस्या, चर्चा का विषय बना?",
+      "options": [
+        "Calcutta, 1911",
+        "Patna, 1912",
+        "Ramgarh, 1940",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "The Champaran agrarian distress was brought up and formally discussed at the 31st Lucknow Session of the INC in December 1916. Since Lucknow 1916 is absent, (E) is the answer.",
+      "tip": "At Lucknow 1916, Raj Kumar Shukla met Mahatma Gandhi and urged him to visit Champaran.",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following cannot be the probability of an event?",
+      "hi": "निम्नलिखित में से कौन-सा किसी घटना की प्रायिकता नहीं हो सकती है?",
+      "options": [
+        "0.7",
+        "-0.7",
+        "1.2",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "The probability P(E) of any event must satisfy 0 <= P(E) <= 1. Both -0.7 (negative) and 1.2 (> 1) cannot be probabilities of an event.",
+      "tip": "Since both (B) and (C) violate the probability axiom [0, 1], Option (D) ('More than one of the above') is correct.",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "A cycle is sold at a gain of 16%. Had it been sold for ₹100 more, the gain would have been 20%. The cost price of the cycle is",
+      "hi": "एक साइकिल 16% लाभ पर बेची जाती है। यदि इसे ₹100 अधिक पर बेचा जाता, तो 20% का लाभ होता। साइकिल का क्रय मूल्य है",
+      "options": [
+        "₹1,500",
+        "₹2,275",
+        "₹2,500",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "₹2,500",
+      "explanation": "The difference between 20% gain and 16% gain is 4% of Cost Price (CP). 4% of CP = ₹100 -> CP = (100 / 4) * 100 = ₹2,500.",
+      "tip": "Percentage difference shortcut: Difference in Profit % = Price difference. (20% - 16%) = 4% -> 100% = 25 * 100 = 2500.",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "When was the Salt Movement started in Bihar?",
+      "hi": "बिहार में नमक आन्दोलन कब प्रारंभ हुआ?",
+      "options": [
+        "April 1930",
+        "April 1932",
+        "March 1930",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "April 1930",
+      "explanation": "Salt Satyagraha in Bihar commenced in April 1930, following Gandhiji's Dandi march, with initial ground agitation organized on 15-16 April 1930 in Champaran and Saran.",
+      "tip": "Dandi March began 12 March 1930; Salt was broken on 6 April 1930; Bihar salt agitation was initiated in mid-April 1930.",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which State of India is the highest producer of Millets?\n(",
+      "hi": "भारत का कौन-सा राज्य मोटे अनाज (मिलेट्स) का सबसे बड़ा उत्पादक है?)",
+      "options": [
+        "Rajasthan",
+        "Maharashtra",
+        "Tamil Nadu",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Rajasthan",
+      "explanation": "Rajasthan is India's leading producer of nutri-cereals / millets, especially pearl millet (bajra), accounting for over 27% of India's total millet output.",
+      "tip": "Rajasthan leads in Bajra and total Millets; Karnataka leads in Ragi; Maharashtra leads in Jowar.",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following is a Zaid crop?",
+      "hi": "निम्नलिखित में से कौन-सी जायद की फसल है?",
+      "options": [
+        "Moong",
+        "Urad",
+        "Watermelon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Zaid is the short summer cropping season (March to June). Watermelon, cucumber, and short-duration pulses like Moong are cultivated in this season.",
+      "tip": "Zaid crops include cucurbits (Watermelon, Muskmelon, Cucumber) and quick pulses (Moong); hence Option (D) applies.",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Magadha and Anga plains are parts of which of the following?",
+      "hi": "मगध एवं अंग के मैदान निम्नलिखित में से किसके भाग हैं?",
+      "options": [
+        "Upper Ganga Valley",
+        "Middle Ganga Valley",
+        "Lower Ganga Valley",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Middle Ganga Valley",
+      "explanation": "The Bihar plains (both North Bihar Plains and South Bihar Plains, comprising Magadha and Anga) form the core of the Middle Ganga Plain.",
+      "tip": "Upper Ganga = UP west of Allahabad; Middle Ganga = Eastern UP and Bihar; Lower Ganga = West Bengal and Delta.",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Himalayan Brown bear, wild Asiatic buffalo, and desert fox are examples of",
+      "hi": "हिमालयी भूरा भालू, एशियाई जंगली भैंसा, मरुस्थलीय लोमड़ी किसके उदाहरण हैं?",
+      "options": [
+        "rare species",
+        "extinct species",
+        "endangered species",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "rare species",
+      "explanation": "Under the IUCN classification taught in NCERT geography, species with small populations that could move into endangered categories if adverse factors continue are categorized as rare species.",
+      "tip": "IUCN / NCERT definitions: Small population = Rare species; Facing imminent extinction = Endangered species; No living member = Extinct.",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Who among the following ladies actively participated in the Salt Satyagraha in Bihar?",
+      "hi": "निम्नलिखित में से किन महिलाओं ने बिहार में नमक सत्याग्रह में सक्रिय रूप से भाग लिया?",
+      "options": [
+        "Shrimati Mira Devi",
+        "Mrs. Hasan Imam",
+        "Miss Gauri Das",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "During the Civil Disobedience Movement in Bihar, Mrs. Hasan Imam, Shrimati Mira Devi, and Miss Gauri Das actively led salt demonstrations and picketing.",
+      "tip": "Women freedom fighters in Bihar Salt Satyagraha included Mrs. Hasan Imam, Mira Devi, Saraswati Devi, and Sadhana Devi.",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "'Leaching' process is related to\n('",
+      "hi": "निक्षालन (Leaching)' प्रक्रिया संबंधित है)",
+      "options": [
+        "regions of heavy rainfall",
+        "minerals and soil",
+        "roots of plants",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Leaching is the pedological process where soluble plant nutrients and silica are washed downward through the soil profile in regions of heavy tropical rainfall, forming Laterite soil.",
+      "tip": "Leaching directly involves both soil minerals and heavy rainfall conditions, prompting BPSC's official key (D).",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following is not a young fold mountain?",
+      "hi": "निम्नलिखित में से कौन-सा नवीन वलित पर्वत नहीं है?",
+      "options": [
+        "Aravallis",
+        "Andes",
+        "Appalachians",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "The Aravallis (India) and the Appalachians (North America) are relict/ancient fold mountains formed hundreds of millions of years ago, unlike the young Tertiary fold mountains (Andes, Himalayas).",
+      "tip": "Young fold mountains: Himalayas, Alps, Andes, Rockies. Old fold mountains: Aravallis, Appalachians, Urals.",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following terms is used for primitive form of cultivation in India?\n(",
+      "hi": "भारत में आदिम रूप की कृषि (झूम कृषि) के लिए निम्नलिखित में से किस शब्द का प्रयोग किया जाता है?)",
+      "options": [
+        "Bewar",
+        "Pama Dabi",
+        "Milpa",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In India, primitive slash-and-burn shifting agriculture is called 'Bewar' or 'Dahiya' in Madhya Pradesh and 'Pama Dabi' or 'Koman' in Odisha. 'Milpa' is practiced in Mexico/Central America.",
+      "tip": "Local names in India: Bewar (MP), Podu (Andhra), Pama Dabi (Odisha), Jhum (North-East). Milpa is Mexico.",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following States is the largest producer of pyrite in India?",
+      "hi": "निम्नलिखित में से कौन-सा राज्य भारत में पाइराइट का सबसे बड़ा उत्पादक है?",
+      "options": [
+        "Odisha",
+        "Bihar",
+        "Jharkhand",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bihar",
+      "explanation": "Bihar holds over 95% of India's total pyrite reserves, concentrated in the Amjhore region of Rohtas district.",
+      "tip": "Pyrite (Iron sulphide / 'Fool's Gold') in India is virtually monopolized by Bihar (Rohtas district).",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Where is geothermal energy harnessing centre located in India?",
+      "hi": "भारत में भूतापीय ऊर्जा दोहन केंद्र कहाँ स्थित है?",
+      "options": [
+        "Parvati Valley in Himachal Pradesh",
+        "Puga Valley in Ladakh",
+        "Aravalli Ranges in Rajasthan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Two major experimental geothermal energy pilot projects were established in India: one in Parvati Valley (Manikaran, Himachal Pradesh) and another in Puga Valley (Ladakh).",
+      "tip": "As both Parvati Valley (HP) and Puga Valley (Ladakh) are operational geothermal sites, select Option (D).",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following statements relating to iron and steel industry is not correct?",
+      "hi": "लौह एवं इस्पात उद्योग के संबंध में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+      "options": [
+        "It is called as basic industry.",
+        "It is called as light industry.",
+        "It is located in the areas of proximity of raw materials.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "It is called as light industry.",
+      "explanation": "Iron and steel is a heavy, weight-losing basic mineral industry because both its inputs (iron ore, coal, limestone) and finished outputs are heavy and bulky. Describing it as a light industry is false.",
+      "tip": "Heavy industries consume bulky raw materials (Iron & Steel); Light industries produce compact goods (Electronics, Watches).",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The first woman in the Indian Cabinet was",
+      "hi": "भारतीय मंत्रिमंडल में प्रथम महिला कौन थीं?",
+      "options": [
+        "Sarojini Naidu",
+        "Rajkumari Amrit Kaur",
+        "Indira Gandhi",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajkumari Amrit Kaur",
+      "explanation": "Rajkumari Amrit Kaur was the first female Cabinet Minister in independent India's Union Cabinet, serving as the Minister of Health from 1947 to 1957.",
+      "tip": "First female Governor = Sarojini Naidu (UP); First female Cabinet Minister = Rajkumari Amrit Kaur; First female PM = Indira Gandhi.",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The founder of the Swatantra Party was",
+      "hi": "स्वतंत्र पार्टी के संस्थापक कौन थे?",
+      "options": [
+        "C. Rajagopalachari",
+        "Subhas Chandra Bose",
+        "Chittaranjan Das",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "C. Rajagopalachari",
+      "explanation": "The Swatantra Party was founded in 1959 by C. Rajagopalachari, advocating free enterprise, reduction of state control, and opposition to Nehru's socialist planning.",
+      "tip": "Swatantra Party (1959) = C. Rajagopalachari, Minoo Masani, N.G. Ranga; Swaraj Party (1923) = C.R. Das and Motilal Nehru.",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The Concurrent List is mentioned in the",
+      "hi": "समवर्ती सूची का उल्लेख किस अनुसूची में है?",
+      "options": [
+        "5th Schedule",
+        "8th Schedule",
+        "7th Schedule",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "7th Schedule",
+      "explanation": "The Seventh Schedule (Article 246) defines legislative powers divided into three lists: List I (Union List), List II (State List), and List III (Concurrent List).",
+      "tip": "Schedules mnemonic: 7th = Division of Powers (Union, State, Concurrent Lists); 8th = Official Languages; 5th = Scheduled Areas.",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The Article 280 of Indian Constitution is related to",
+      "hi": "भारतीय संविधान का अनुच्छेद 280 किससे संबंधित है?",
+      "options": [
+        "the Union Public Service Commission",
+        "the Bihar Public Service Commission",
+        "the Finance Commission",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "the Finance Commission",
+      "explanation": "Article 280 mandates the President of India to constitute a Finance Commission every fifth year to recommend the devolution of tax revenues between the Union and the States.",
+      "tip": "Article 280 = Finance Commission; Article 315 = UPSC and State PSCs; Article 324 = Election Commission.",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following is the lowest level of rural local government in India?",
+      "hi": "निम्नलिखित में से भारत में ग्रामीण स्थानीय सरकार का सबसे निचला स्तर कौन-सा है?",
+      "options": [
+        "Cantonment Board",
+        "Panchayats",
+        "Municipal Corporation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Panchayats",
+      "explanation": "Under the 73rd Constitutional Amendment Act, the 3-tier Panchayati Raj structure comprises Zila Parishad (district level), Panchayat Samiti (block level), and Gram Panchayat (village level).",
+      "tip": "Lowest level in rural governance = Gram Panchayat; Intermediate = Block/Panchayat Samiti; Apex = Zila Parishad.",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following activities does not belong to the primary sector?",
+      "hi": "निम्नलिखित में से कौन-सी गतिविधि प्राथमिक क्षेत्र से संबंधित नहीं है?",
+      "options": [
+        "Transport",
+        "Fishing",
+        "Banking",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Fishing is an extraction activity belonging to the primary sector. Transport and Banking provide commercial services belonging to the tertiary sector. Since two do not belong, (D) is correct.",
+      "tip": "Primary = Agriculture, Mining, Fishing, Forestry; Secondary = Manufacturing; Tertiary = Transport, Banking, Insurance.",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "As per Census 2011, which of the following districts has maximum rural literacy rate in Bihar?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार में निम्नलिखित में से किस जिले में ग्रामीण साक्षरता दर सबसे अधिक है?",
+      "options": [
+        "Rohtas",
+        "Siwan",
+        "Purnea",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Rohtas",
+      "explanation": "According to Census 2011, Rohtas district recorded the highest overall literacy rate (73.37%) as well as the highest rural literacy rate in Bihar.",
+      "tip": "Bihar Literacy: Highest overall and rural literacy = Rohtas; Lowest overall and rural literacy = Purnea.",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following statements is true in the context of money supply in India?",
+      "hi": "भारत में मुद्रा आपूर्ति के संदर्भ में निम्नलिखित में से कौन-सा कथन सही है?",
+      "options": [
+        "M3 is the most liquid money supply measure.",
+        "M2 is the most liquid money supply measure.",
+        "M1 is the most liquid money supply measure.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "M1 is the most liquid money supply measure.",
+      "explanation": "M1 (currency with public + demand deposits + other deposits with RBI) is immediately spendable and has the highest liquidity. M4/M3 represents broad money with lower liquidity.",
+      "tip": "Liquidity hierarchy: M1 > M2 > M3 > M4. M1 is narrow money with maximum liquidity; M3 is broad money.\nAnswer Key Summary Table — Set 2 (Q.41 to Q.80)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key",
+      "id": 40
+    }
+  ]
+}

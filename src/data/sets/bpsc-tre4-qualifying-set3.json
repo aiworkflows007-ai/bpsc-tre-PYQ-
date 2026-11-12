@@ -1,0 +1,713 @@
+{
+  "id": "bpsc-tre4-qualifying-set3",
+  "title": "Language Qualifying Practice Set 3 (40Q)",
+  "section": "qualifying",
+  "section_name": "Part-I Language Qualifying",
+  "subject": "Language Qualifying",
+  "filename": "bpsc-tre4-master-qualifying-paper-120q.docx",
+  "question_count": 39,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "July comes before the month of",
+      "hi": "जुलाई किस महीने से पहले आता है?",
+      "options": [
+        "June",
+        "August",
+        "May",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "August",
+      "explanation": "In the standard 12-month calendar order, July (the 7th month) immediately precedes August (the 8th month).",
+      "tip": "Notice the phrasing 'comes before': July comes BEFORE August, but July comes AFTER June.",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Which of the following is not found in an office?",
+      "hi": "निम्नलिखित में से कौन-सी वस्तु कार्यालय में नहीं पाई जाती है?",
+      "options": [
+        "File cabinet",
+        "Computer",
+        "Kitchen stove",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Kitchen stove",
+      "explanation": "File cabinets and computers are standard professional office appliances, whereas a kitchen stove is a domestic cooking appliance.",
+      "tip": "Domain exclusion: Always isolate domestic culinary equipment contrasted against professional work environment furniture.",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "A person who sells meat is called a",
+      "hi": "माँस बेचने वाले व्यक्ति को क्या कहा जाता है?",
+      "options": [
+        "Baker",
+        "Butcher",
+        "Barber",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Butcher",
+      "explanation": "A butcher is a person whose trade is the slaughtering of animals and selling of meat. A baker sells bread and a barber cuts hair.",
+      "tip": "Occupation vocabulary: Meat seller = Butcher; Bread seller = Baker; Hair cutter = Barber; Flower seller = Florist.",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Look at the dark clouds! It ______ rain soon.",
+      "hi": "काले बादलों को देखो! शीघ्र ही वर्षा होने की संभावना है।",
+      "options": [
+        "is going to",
+        "will",
+        "can",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "is going to",
+      "explanation": "When present sensory evidence (dark clouds) indicates that an immediate future occurrence is certain, the 'be going to' future construction is grammatically preferred over simple 'will'.",
+      "tip": "Present visible evidence ('Look at the dark clouds!') triggers 'is going to' to express imminent future events.",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "He died ______ cholera after drinking contaminated water.",
+      "hi": "दूषित पानी पीने के बाद हैजा से उसकी मृत्यु हो गई।",
+      "options": [
+        "from",
+        "of",
+        "with",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "of",
+      "explanation": "When a person dies directly of a disease or illness (cholera, cancer, malaria), the fixed preposition is 'die of'. 'Die from' is used for external causes (wounds, overwork).",
+      "tip": "Fixed Preposition Rule: Die of a disease (cholera, heart attack); Die from a cause/wound (loss of blood, hunger); Die for a noble cause.",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Ramesh is senior ______ Suresh in our department.",
+      "hi": "रमेश हमारे विभाग में सुरेश से वरिष्ठ हैं।",
+      "options": [
+        "than",
+        "to",
+        "from",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "to",
+      "explanation": "Latin comparative adjectives ending in '-ior' (senior, junior, superior, inferior, prior, anterior, posterior) are invariably followed by the preposition 'to', never 'than'.",
+      "tip": "Memorize the Latin '-ior' rule: Senior, Junior, Superior, Inferior, Preferable -> always pair with 'to', never 'than'.",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Mount Everest is ______ highest peak in the world.",
+      "hi": "माउंट एवरेस्ट विश्व की सबसे ऊँची चोटी है।",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "the",
+      "explanation": "Superlative degree adjectives ('highest', 'best', 'most beautiful') mandatorily require the definite article 'the' preceding them.",
+      "tip": "Superlative degree adjectives always take 'the' (the highest, the deepest, the tallest).",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Gold is ______ useful metal.",
+      "hi": "सोना एक उपयोगी धातु है।",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "a",
+      "explanation": "Although the adjective 'useful' begins with the vowel letter 'u', its phonetic pronunciation begins with the consonant glide /juː/ (yoo-). Therefore, the indefinite article 'a' is correct.",
+      "tip": "Phonetic trap: Words beginning with the initial /j/ sound ('useful', 'university', 'European', 'unique') take 'a', not 'an'.",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "She has been living in this city ______ 2015.",
+      "hi": "वह 2015 से इस शहर में रह रही है।",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "since",
+      "explanation": "In present perfect continuous tense, 'since' is used to denote a specific point of origin in past time ('2015', 'Monday', 'morning'), whereas 'for' denotes a duration or period.",
+      "tip": "Point of time (2015, 8 o'clock, childhood) = since; Period/duration of time (5 years, 3 hours) = for.",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Choose the correctly spelt word from the options:",
+      "hi": "दिए गए विकल्पों में से सही वर्तनी वाला शब्द चुनिए:",
+      "options": [
+        "Embarrass",
+        "Embaras",
+        "Embarass",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Embarrass",
+      "explanation": "The correct English spelling of 'embarrass' contains double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+      "tip": "Spelling check: Double 'r' and double 's' rule -> Embarrass, Harass (single 'r', double 's'), Occur / Occurrence (double 'c', double 'r').",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Neither the teacher nor the students ______ present in the auditorium.",
+      "hi": "सभागार में न तो शिक्षक और न ही छात्र उपस्थित थे।",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "were",
+      "explanation": "When two subjects are joined by correlative conjunctions 'neither...nor' or 'either...or', the verb agrees in number and person with the closest subject ('the students', which is plural, requiring 'were').",
+      "tip": "Proximity Rule in Subject-Verb Agreement: The verb agrees with the subject closest to it. Here, 'students' (plural) is adjacent to the verb -> were.",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "The antonym of the word 'OBSTINATE' is\n('OBSTINATE' (",
+      "hi": "हठी/जिद्दी) शब्द का विलोम शब्द है)",
+      "options": [
+        "Stubborn",
+        "Flexible",
+        "Rigid",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Flexible",
+      "explanation": "'Obstinate' denotes being stubborn or unyielding. Its exact antonym is 'flexible' (yielding, compliant, accommodating). 'Stubborn' and 'rigid' are synonyms.",
+      "tip": "Watch the instruction: The question asks for the antonym (opposite), not synonym. Flexible / Docile = opposite of Obstinate.",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "A book of maps is called an",
+      "hi": "मानचित्रों की पुस्तक को क्या कहा जाता है?",
+      "options": [
+        "Encyclopedia",
+        "Atlas",
+        "Dictionary",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Atlas",
+      "explanation": "An atlas is a bound collection or volume of geographic maps and charts. An encyclopedia is a compendium of general knowledge.",
+      "tip": "Book categories: Collection of maps = Atlas; Book of word definitions = Dictionary; Comprehensive knowledge reference = Encyclopedia.",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "If it rains, we ______ cancel the cricket match.",
+      "hi": "यदि वर्षा होती है, तो हम क्रिकेट मैच रद्द कर देंगे।",
+      "options": [
+        "will",
+        "would",
+        "would have",
+        "More than one of the above",
+        "None of the above\nPart B: General Hindi (Questions 16 to 40)\nCompulsory General Hindi section testing संधि, समास, वर्ण विचार, कारक, मुहावरे, वर्तनी शुद्धि, तथा वाक्य भेद under the official BPSC 5-option model."
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "will",
+      "explanation": "In first conditional sentences expressing a real, probable future condition ('If + Present Simple'), the main clause takes 'will + base verb' ('we will cancel').",
+      "tip": "Conditional Tense pairing: Type 1: If + V1 (rains) -> will + V1 (will cancel); Type 2: If + V2 (rained) -> would cancel.",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "'तपोवन' शब्द का सही संधि-विच्छेद क्या होगा?",
+      "hi": "'तपोवन' शब्द में कौन-सी संधि है?",
+      "options": [
+        "तपः + वन (विसर्ग संधि)",
+        "तपो + वन (स्वर संधि)",
+        "तप + वन (व्यंजन संधि)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तपः + वन (विसर्ग संधि)",
+      "explanation": "विसर्ग संधि के नियमानुसार विसर्ग से पहले 'अ' हो तथा बाद में कोई सघोष व्यंजन (व) आए, तो विसर्ग 'ओ' में परिवर्तित हो जाता है: 'तपः + वन = तपोवन' ।",
+      "tip": "ओ-कार वाले तत्सम शब्द (तपोवन, यशोदा, मनोरथ, पयोधर) विसर्ग संधि के उदाहरण होते हैं।",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "'लंबोदर' शब्द में कौन-सा समास है?\n('लंबोदर' (लंबा है उदर जिसका अर्थात गणेश) में समास भेद है)",
+      "hi": "'लंबोदर' शब्द में कौन-सा समास है?\n('लंबोदर' (लंबा है उदर जिसका अर्थात गणेश) में समास भेद है)",
+      "options": [
+        "कर्मधारय",
+        "बहुव्रीहि",
+        "तत्पुरुष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "बहुव्रीहि",
+      "explanation": "जहाँ सामासिक पद के दोनों पद प्रधान न होकर किसी अन्य विशिष्ट संज्ञा (भगवान गणेश) की ओर संकेत करते हैं, वहाँ बहुव्रीहि समास होता है।",
+      "tip": "विग्रह में 'जिसका/जिसके/जिसकी' आए और तीसरा अर्थ (रूढ़ संज्ञा) निकले, तो सदैव बहुव्रीहि समास होगा।",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "विराम चिह्न '!' को क्या कहा जाता है?",
+      "hi": "हिन्दी व्याकरण में '!' चिह्न का नाम क्या है?",
+      "options": [
+        "प्रश्नवाचक चिह्न",
+        "विस्मयादिबोधक चिह्न",
+        "निर्देशक चिह्न",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "विस्मयादिबोधक चिह्न",
+      "explanation": "हर्ष, शोक, भय, आश्चर्य, घृणा आदि भावों को व्यक्त करने वाले शब्दों या वाक्यों के अंत में '!' (विस्मयादिबोधक चिह्न) लगाया जाता है।",
+      "tip": "विराम चिह्न पहचान: '?' = प्रश्नवाचक; '!' = विस्मयादिबोधक; '-' = योजक; '—' = निर्देशक।",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "निम्नलिखित में से कौन-सा 'कंठ्य' वर्ण है?",
+      "hi": "जिन ध्वनियों का उच्चारण कंठ से होता है, वे हैं",
+      "options": [
+        "क",
+        "ख",
+        "ग",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "क-वर्ग के सभी वर्ण (क, ख, ग, घ, ङ) तथा अ, आ, ह और विसर्ग का उच्चारण स्थान कंठ है ('अकुहविसर्जनीयानां कण्ठः')। यहाँ क, ख, ग तीनों कंठ्य हैं।",
+      "tip": "जब प्रश्न में एक ही वर्ग की 2 या अधिक ध्वनियाँ दी जाएँ, तो उत्तर निश्चित रूप से **(D) उपर्युक्त में से एक से अधिक** बनेगा।",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'उज्ज्वल' शब्द की शुद्ध वर्तनी कौन-सी है?",
+      "hi": "निम्न में से मानक शुद्ध वर्तनी वाला शब्द पहचानिए",
+      "options": [
+        "उज्जवल",
+        "उज्ज्वल",
+        "उज्वल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "उज्ज्वल",
+      "explanation": "'उत् + ज्वल = उज्ज्वल' । व्यंजन संधि नियमानुसार त् का परिवर्तन ज् में होता है, जिससे दो आधे 'ज्' (ज्ज्व) आते हैं।",
+      "tip": "उज्ज्वल में दोनों 'ज' आधे होते हैं (उ + ज् + ज् + व + ल)। यह BPSC की सर्वाधिक बार दोहराई गई वर्तनी है।",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'जो सब कुछ जानता हो' के लिए एक शब्द है",
+      "hi": "अनेक शब्दों के लिए एक शब्द चुनिए:",
+      "options": [
+        "अल्पज्ञ",
+        "सर्वज्ञ",
+        "बहुज्ञ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "सर्वज्ञ",
+      "explanation": "जो सब कुछ जानता हो उसे 'सर्वज्ञ' कहते हैं। जो थोड़ा जानता हो वह 'अल्पज्ञ' तथा जो बहुत जानता हो वह 'बहुज्ञ' कहलाता है।",
+      "tip": "ज्ञान संबंधी वाक्यांश: सब कुछ जानने वाला = सर्वज्ञ; कम जानने वाला = अल्पज्ञ; न जानने वाला = अज्ञ; इतिहास जानने वाला = इतिहासज्ञ।",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'अंगूठा दिखाना' मुहावरे का सही अर्थ क्या है?",
+      "hi": "मुहावरे का अर्थ बताइए: 'अंगूठा दिखाना'",
+      "options": [
+        "मदद करना",
+        "साफ मना करना या ऐन वक्त पर धोखा देना",
+        "खुशामद करना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "साफ मना करना या ऐन वक्त पर धोखा देना",
+      "explanation": "'अंगूठा दिखाना' का रूढ़ लाक्षणिक अर्थ किसी कार्य हेतु साफ इनकार कर देना अथवा आवश्यकता के समय इंकार करना है।",
+      "tip": "हाथ-अंगूठा मुहावरे: अंगूठा दिखाना = साफ मना करना; अंगूठा चूमना = खुशामद करना; हाथ खींचना = सहायता बंद करना।",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'अतिथि' का पर्यायवाची शब्द नहीं है",
+      "hi": "निम्नलिखित में से कौन-सा शब्द 'अतिथि' का पर्याय नहीं है?",
+      "options": [
+        "पाहुना",
+        "आगंतुक",
+        "अनुचर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "अनुचर",
+      "explanation": "'पाहुना' और 'आगंतुक' अतिथि (मेहमान) के पर्यायवाची हैं, जबकि 'अनुचर' का अर्थ सेवक, नौकर या दास होता है।",
+      "tip": "नकारात्मक प्रश्नों में ध्यान दें: 'अनुचर' = सेवक/पीछे चलने वाला, अतः यह अतिथि का पर्याय नहीं है।",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'उत्थान' शब्द का विलोम शब्द होगा",
+      "hi": "'उत्थान' का विपरीतार्थक शब्द है",
+      "options": [
+        "पतन",
+        "पतनशीलता",
+        "अधोगति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "पतन",
+      "explanation": "'उत्थान' (उन्नति या ऊपर उठना) का सटीक और मानक विलोम शब्द 'पतन' (नीचे गिरना) होता है।",
+      "tip": "सटीक विलोम युग्म: उत्थान का विलोम सदैव 'पतन' होता है; उन्नति का 'अवनति' होता है; ऊर्ध्व का 'अधः' होता है।",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'सूर्योदय हुआ और कुहासा जाता रहा।' यह वाक्य किस प्रकार का है?",
+      "hi": "रचना की दृष्टि से वाक्य भेद पहचानिए:",
+      "options": [
+        "सरल वाक्य",
+        "संयुक्त वाक्य",
+        "मिश्र वाक्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "संयुक्त वाक्य",
+      "explanation": "यहाँ दो स्वतंत्र उपवाक्य ('सूर्योदय हुआ' तथा 'कुहासा जाता रहा') समानाधिकरण समुच्चयबोधक अव्यय 'और' से जुड़े हैं, अतः यह संयुक्त वाक्य है।",
+      "tip": "वाक्य पहचान: यदि दो पूर्ण वाक्य 'और, तथा, एवं, या, किन्तु, परन्तु, लेकिन' से जुड़े हों, तो वह **संयुक्त वाक्य** होता है।",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'लड़का पेड़ से गिर पड़ा।' इस वाक्य में 'पेड़ से' में कौन-सा कारक है?",
+      "hi": "वाक्य में रेखांकित पद का कारक बताइए:",
+      "options": [
+        "करण कारक",
+        "कर्म कारक",
+        "अपादान कारक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "अपादान कारक",
+      "explanation": "संज्ञा के जिस रूप से किसी वस्तु का किसी स्थान या वस्तु से अलग होने (अलगाव) का भाव प्रकट हो, वहाँ अपादान कारक (विभक्ति 'से') होता है।",
+      "tip": "विभक्ति 'से': साधन/माध्यम के अर्थ में = करण कारक (कलम से); अलग होने के अर्थ में = **अपादान कारक** (पेड़ से गिरा)।",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'अनुराग' शब्द में कौन-सा उपसर्ग है?",
+      "hi": "'अनुराग' में प्रयुक्त उपसर्ग पहचानिए:",
+      "options": [
+        "अ",
+        "अनु",
+        "अन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "अनु",
+      "explanation": "'अनुराग' शब्द में 'अनु' उपसर्ग मूल शब्द 'राग' (प्रेम/आसक्ति) के पूर्व जुड़कर बना है। 'अनु' का अर्थ पीछे या अनुकूल होता है।",
+      "tip": "उपसर्ग अलग करके मूल शब्द की सार्थकता जाँचें: अनु + राग = अनुराग; अनु + शासन = अनुशासन; अनु + भव = अनुभव।",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'मिठास' शब्द में किस प्रत्यय का प्रयोग हुआ है?",
+      "hi": "'मिठास' में कौन-सा प्रत्यय है?",
+      "options": [
+        "आस",
+        "तास",
+        "ठास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "आस",
+      "explanation": "'मीठा' विशेषण शब्द में भाववाचक तद्धित प्रत्यय 'आस' जुड़ने से 'मिठास' संज्ञा शब्द की रचना होती है।",
+      "tip": "प्रत्यय विभाजन: मीठा + आस = मिठास; खट्टा + आस = खटास; प्यासा/पी + आस = प्यास।",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "निम्नलिखित में से कौन-सा शब्द 'तत्सम' शब्द है?",
+      "hi": "संस्कृत के जो शब्द बिना परिवर्तन के प्रयुक्त होते हैं, वे हैं:",
+      "options": [
+        "अग्नि",
+        "सूर्य",
+        "दुग्ध",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "अग्नि (तद्भव आग), सूर्य (तद्भव सूरज), तथा दुग्ध (तद्भव दूध) तीनों ही संस्कृत के मूल तत्सम शब्द हैं।",
+      "tip": "तीनों शब्द संस्कृत के शुद्ध रूप हैं, अतः BPSC उत्तर कुंजी में **(D) उपर्युक्त में से एक से अधिक** सही है।",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "हिन्दी भाषा की लिपि कौन-सी है?",
+      "hi": "भारतीय संविधान के अनुच्छेद 343 के अनुसार संघ की राजभाषा हिन्दी की लिपि है:",
+      "options": [
+        "गुरुमुखी",
+        "देवनागरी",
+        "रोमन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "देवनागरी",
+      "explanation": "भारतीय संविधान के अनुच्छेद 343(1) में स्पष्ट उल्लिखित है कि 'संघ की राजभाषा हिन्दी और लिपि देवनागरी होगी'।",
+      "tip": "लिपि मिलान: हिन्दी/संस्कृत/मराठी/नेपाली = देवनागरी; पंजाबी = गुरुमुखी; अंग्रेजी = रोमन; उर्दू = फारसी।",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'दशानन' (दस हैं आनन जिसके अर्थात रावण) में कौन-सा समास है?",
+      "hi": "'दशानन' शब्द का समास विग्रह कर भेद बताइए:",
+      "options": [
+        "द्विगु समास",
+        "बहुव्रीहि समास",
+        "द्वंद्व समास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "बहुव्रीहि समास",
+      "explanation": "यद्यपि पूर्वपद संख्यावाचक 'दश' है, किन्तु यह पद लंकापति रावण के लिए रूढ़ अर्थ देता है, अतः विशेष अर्थ में बहुव्रीहि समास मान्य होता है।",
+      "tip": "संख्यावाचक होने पर भी यदि पद किसी पौराणिक/विशिष्ट व्यक्तित्व का बोध कराए (दशानन, पंचानन, चतुर्भुज), तो द्विगु के स्थान पर **बहुव्रीहि** को प्राथमिकता मिलती है।",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'पवन' शब्द का सही संधि-विच्छेद क्या होगा?",
+      "hi": "'पवन' शब्द में अयादि संधि का रूप है:",
+      "options": [
+        "पो + अन",
+        "पौ + अन",
+        "प + वन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "पो + अन",
+      "explanation": "अयादि संधि के नियमानुसार 'ओ' के बाद भिन्न स्वर आने पर 'ओ' का 'अव्' हो जाता है: पो + अन = पवन (जबकि पौ + अन = पावन होता है)।",
+      "tip": "अयादि संधि सूत्र: पो + अन = पवन (ह्रस्व); पौ + अन = पावन (दीर्घ 'पा'); ने + अन = नयन; नौ + इक = नाविक।",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'कमल' शब्द का पर्यायवाची शब्द है",
+      "hi": "दिए गए विकल्पों में कमल का पर्याय चुनिए:",
+      "options": [
+        "जलज",
+        "पंकज",
+        "सरोज",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "जलज (जल में जन्मा), पंकज (कीचड़ में जन्मा) तथा सरोज (सरोवर में जन्मा) तीनों ही कमल के सुप्रसिद्ध पर्यायवाची हैं।",
+      "tip": "जल के पर्यायवाची में 'ज' जोड़ने से कमल बनता है: जलज, नीरज, वारिज, तोयज, अंबुज, पंकज, सरोज।",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'आँखों का तारा होना' मुहावरे का क्या अर्थ है?",
+      "hi": "मुहावरे का अर्थ बताइए:",
+      "options": [
+        "अत्यधिक प्रिय होना",
+        "आँख में दर्द होना",
+        "बहुत दूर होना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अत्यधिक प्रिय होना",
+      "explanation": "'आँखों का तारा होना' का लाक्षणिक अर्थ बहुत प्यारा या अत्यधिक दुलारा/प्रिय होना होता है (जैसे- श्रवणकुमार अपने माता-पिता की आँखों का तारा था)।",
+      "tip": "नेत्र संबंधी मुहावरे: आँखों का तारा = बहुत प्यारा होना; आँखें फेरना = उदासीन हो जाना; आँखें खुलना = वास्तविकता का ज्ञान होना।",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'श, ष, स, ह' वर्णों को क्या कहा जाता है?",
+      "hi": "हिन्दी वर्णमाला में इन चार व्यंजनों का वर्गीकरण है:",
+      "options": [
+        "स्पर्श व्यंजन",
+        "अंतःस्थ व्यंजन",
+        "ऊष्म व्यंजन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "ऊष्म व्यंजन",
+      "explanation": "जिन व्यंजनों के उच्चारण में वायु मुख के विभिन्न भागों से रगड़ या घर्षण खाकर ऊष्मा (गर्मी) उत्पन्न करती है, उन्हें 'ऊष्म या संघर्षी व्यंजन' (श, ष, स, ह) कहते हैं।",
+      "tip": "व्यंजन वर्गीकरण: स्पर्श = क से म तक (25); अंतःस्थ = य, र, ल, व (4); **ऊष्म = श, ष, स, ह (4)**।",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'सच्चिदानंद' शब्द का सही संधि-विच्छेद है",
+      "hi": "'सच्चिदानंद' में व्यंजन संधि का विच्छेद होगा:",
+      "options": [
+        "सत् + चित् + आनंद",
+        "सच्चि + दानंद",
+        "सत् + चिदानंद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "सत् + चित् + आनंद",
+      "explanation": "सत् + चित् = सच्चित् (श्चुत्व संधि: त् का च्) और सच्चित् + आनंद = सच्चिदानंद (जश्त्व संधि: त् का द्)। इस प्रकार सही विच्छेद 'सत् + चित् + आनंद' है।",
+      "tip": "द्वि-स्तरीय संधि विच्छेद: सत् + चित् + आनंद = सच्चिदानंद; जगत् + ईश = जगदीश; वाक् + ईश = वागीश।",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'अंधे की लाठी होना' मुहावरे का अर्थ है",
+      "hi": "मुहावरे का भावार्थ पहचानिए:",
+      "options": [
+        "लकड़ी के सहारे चलना",
+        "एकमात्र सहारा होना",
+        "अंधा व्यक्ति होना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "एकमात्र सहारा होना",
+      "explanation": "'अंधे की लाठी' का अर्थ विपत्ति या असहाय अवस्था में 'एकमात्र सहारा' या अवलंब होना होता है।",
+      "tip": "मुहावरों का कभी भी वाच्यार्थ (literal meaning) नहीं लिया जाता; लाक्षणिक अर्थ 'एकमात्र सहारा' ही सही है।",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "'कवि' शब्द का सही स्त्रीलिंग रूप क्या होगा?",
+      "hi": "'कवि' का स्त्रीलिंग रूप पहचानिए:",
+      "options": [
+        "कवियित्री",
+        "कवयित्री",
+        "कवीत्री",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "कवयित्री",
+      "explanation": "'कवि' का शुद्ध व्याकरणिक स्त्रीलिंग रूप 'कवयित्री' (क + व + यि + त्री) होता है। विकल्प (A) कवियित्री अशुद्ध वर्तनी है।",
+      "tip": "अति-महत्त्वपूर्ण वर्तनी: 'कवि' में व पर इ की मात्रा होती है, परन्तु स्त्रीलिंग में 'कवयित्री' (य पर इ की मात्रा) हो जाती है।",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "'जो कभी न मरे' के लिए एक शब्द होगा",
+      "hi": "वाक्यांश के लिए एक शब्द चुनिए:",
+      "options": [
+        "अमर",
+        "अजर",
+        "अविनाशी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अमर",
+      "explanation": "जो कभी न मरे उसे 'अमर' कहते हैं। जो कभी वृद्ध (बूढ़ा) न हो उसे 'अजर' कहते हैं, तथा जिसका कभी विनाश न हो वह 'अविनाशी' कहलाता है।",
+      "tip": "सूक्ष्म भेद: जो कभी न मरे = **अमर**; जो कभी वृद्ध न हो = **अजर**; जिसकी मृत्यु निकट हो = **मुमूर्षु**।",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "हिन्दी भाषा में मूल स्वरों (ह्रस्व स्वरों) की संख्या कितनी है?",
+      "hi": "मूल स्वर ध्वनियों की गणना बताइए:",
+      "options": [
+        "तीन",
+        "चार",
+        "सात",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं\nQuick reference answer key with official options and topic classification:"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चार",
+      "explanation": "हिन्दी वर्णमाला में मूल अथवा ह्रस्व स्वरों की संख्या 4 है: अ, इ, उ, ऋ। शेष स्वर (आ, ई, ऊ, ए, ऐ, ओ, औ) दीर्घ या संयुक्त स्वर कहलाते हैं।",
+      "tip": "स्वर संख्या विभाजन: कुल स्वर = 11; **मूल/ह्रस्व स्वर = 4 (अ, इ, उ, ऋ)**; दीर्घ स्वर = 7 (आ, ई, ऊ, ए, ऐ, ओ, औ)।\nQ. No.\nSection / Subject\nGrammar / Concept Tested\nOfficial Key",
+      "id": 39
+    }
+  ]
+}

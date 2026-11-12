@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set3",
+  "title": "General Studies Practice Set 3 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "What are the last signs of the activities of a volcano?",
+      "hi": "ज्वालामुखी क्रिया की अंतिम प्रतीक क्या हैं?",
+      "options": [
+        "Geysers",
+        "Craters",
+        "Fumaroles",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Fumaroles",
+      "explanation": "Fumaroles (धुँआरे / वातिमुख) are vents emitting steam and volcanic gases (SO2, CO2, H2S) during the dying/senescent phase of volcanism when magma has ceased erupting.",
+      "tip": "Volcano life cycle: Active eruption -> Crater formation -> Geysers/Hot Springs -> Fumaroles (final dying gaseous stage).",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following is warm-blooded animal?\n(",
+      "hi": "निम्न में से कौन-सा समतापी (warm-blooded) प्राणी है?)",
+      "options": [
+        "Toad",
+        "Crocodile",
+        "Fish",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Toads (Amphibians), Crocodiles (Reptiles), and Fish (Pisces) are poikilothermic (cold-blooded) ectotherms. Only birds (Aves) and mammals are homeothermic (warm-blooded).",
+      "tip": "Warm-blooded = Birds & Mammals only. Reptiles, amphibians, and fish are cold-blooded; hence Option (E) is correct.",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Bankim Chandra Chatterjee's novel, 'Anandamath' was published in",
+      "hi": "बंकिम चन्द्र चटर्जी का उपन्यास 'आनन्दमठ' कब प्रकाशित हुआ था?",
+      "options": [
+        "1882",
+        "1876",
+        "1890",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "1882",
+      "explanation": "Anandamath was published as a book in 1882 in Bengali by Bankim Chandra Chatterjee, inspiring nationalist pride through the hymn 'Vande Mataram'.",
+      "tip": "1875-76 = 'Vande Mataram' written; 1882 = 'Anandamath' published; 1896 = Sung at Calcutta Congress Session.",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "In a national park, protection is provided to",
+      "hi": "राष्ट्रीय उद्यान में सुरक्षा दी जाती है",
+      "options": [
+        "Fauna only",
+        "Entire ecosystem",
+        "Flora only",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Entire ecosystem",
+      "explanation": "A National Park (IUCN Category II) is legally constituted to conserve the complete natural ecosystem, protecting flora, fauna, historical objects, and abiotic landscapes.",
+      "tip": "Wildlife Sanctuary = Protection to specific species (fauna); National Park = Protection to entire ecosystem.",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Earth Day celebrated every 22nd April is related with",
+      "hi": "प्रतिवर्ष 22 अप्रैल को मनाया जाने वाला पृथ्वी दिवस संबंधित है",
+      "options": [
+        "End of the Second World War day",
+        "Declaration of no use of nuclear weapons on earth planet",
+        "Public awareness about environment issues",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Public awareness about environment issues",
+      "explanation": "Earth Day was first organized on April 22, 1970 in the USA by Senator Gaylord Nelson to mobilize grassroots public education and action on environmental conservation.",
+      "tip": "Earth Day focuses on global environmental protection and climate awareness, rejecting misleading wartime or disarmament distractors.",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following is the source of renewable energy?",
+      "hi": "निम्न में से कौन-सा नवीकरणीय ऊर्जा का स्रोत है?",
+      "options": [
+        "Coal",
+        "Nuclear fuel",
+        "Petroleum",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Coal and Petroleum are exhaustible fossil fuels, while Nuclear fuel (Uranium/Thorium) is a non-renewable finite mineral. As none is renewable, (E) is the answer.",
+      "tip": "Renewable = Solar, Wind, Hydro, Biomass, Geothermal. Coal, oil, natural gas, and uranium are non-renewable.",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Who among the following was/were Members of the State Re-organisation Commission (SRC) in 1953?\n(1953",
+      "hi": "में गठित राज्य पुनर्गठन आयोग (SRC) के सदस्य निम्नलिखित में से कौन थे?)",
+      "options": [
+        "K. M. Panikkar",
+        "Hriday Nath Kunzru",
+        "Fazal Ali",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "The State Re-organisation Commission appointed in December 1953 comprised Justice Fazal Ali (Chairman), K.M. Panikkar, and Hriday Nath Kunzru. All three served as members.",
+      "tip": "Commission members: Fazal Ali (Head) + K.M. Panikkar + H.N. Kunzru. Since all three appear, select Option (D).",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The distance between the Earth and the Sun is greater during",
+      "hi": "पृथ्वी और सूर्य के बीच की दूरी किस स्थिति में सर्वाधिक होती है?",
+      "options": [
+        "Aphelion",
+        "Perihelion",
+        "Summer solstice",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Aphelion",
+      "explanation": "Due to Earth's elliptical orbit, the maximum distance (approx. 152 million km) occurs at Aphelion (अपसौर) around July 4. The closest distance occurs at Perihelion (उपसौर, Jan 3).",
+      "tip": "Mnemonic: 'A'phelion = 'A'way (furthest, July 4); 'P'erihelion = 'P'ass (closest, January 3).",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Who assassinated Sir Curzon-Wyllie in London?",
+      "hi": "लंदन में सर कर्जन वायली की हत्या किसने की थी?",
+      "options": [
+        "V.D. Savarkar",
+        "Udham Singh",
+        "Madan Lal Dhingra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Madan Lal Dhingra",
+      "explanation": "Indian revolutionary Madan Lal Dhingra shot dead British political aide Sir William Hutt Curzon-Wyllie at the Imperial Institute in London on 1st July 1909.",
+      "tip": "Madan Lal Dhingra assassinated Curzon-Wyllie (1909); Udham Singh assassinated Michael O'Dwyer (1940).",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The 'Operation Barga' gained sustainable support to which of the following State Governments of India?",
+      "hi": "'ऑपरेशन बर्गा' ने देश में किस राज्य सरकार को स्थायी समर्थन प्रदान किया?",
+      "options": [
+        "The State Government in West Bengal",
+        "The State Government in Kerala",
+        "The State Government in Assam",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "The State Government in West Bengal",
+      "explanation": "Operation Barga was a comprehensive land reform program initiated in 1978 by the Left Front government in West Bengal to register sharecroppers (bargadars) and protect their tenancy rights.",
+      "tip": "Operation Barga is historically synonymous with agrarian reforms under the Left Front in West Bengal.",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which one among the following represents the meaningful sequence of the words: 1. Interview, 2. Appointment, 3. Selection, 4. Advertisement, 5. Application?",
+      "hi": "निम्नलिखित शब्दों का तार्किक एवं सार्थक क्रम कौन-सा होगा: 1. साक्षात्कार, 2. नियुक्ति, 3. चयन, 4. विज्ञापन, 5. आवेदन?",
+      "options": [
+        "4, 5, 1, 2, 3",
+        "4, 5, 2, 1, 3",
+        "4, 5, 1, 3, 2",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "4, 5, 1, 3, 2",
+      "explanation": "The logical operational recruitment process progresses sequentially: Advertisement (4) -> Application (5) -> Interview (1) -> Selection (3) -> Appointment (2).",
+      "tip": "Selection logically precedes final Appointment; look for sequence ending with 3, 2.",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The reversal of partition of Bengal was carried out during the time of",
+      "hi": "बंगाल विभाजन को रद्द करने की घोषणा किसके कार्यकाल में की गई थी?",
+      "options": [
+        "Lord Minto",
+        "Lord Hardinge",
+        "Lord Curzon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lord Hardinge",
+      "explanation": "King George V announced the annulment/reversal of the Partition of Bengal at the Delhi Durbar in December 1911 during the viceroyalty of Lord Hardinge II.",
+      "tip": "1905 Partition = Lord Curzon; 1909 Morley-Minto Reforms = Lord Minto; 1911 Annulment = Lord Hardinge.",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The SONAR technique is used to determine\n(",
+      "hi": "सोनार (SONAR) तकनीक का उपयोग क्या ज्ञात करने के लिए किया जाता है?)",
+      "options": [
+        "To locate under water hills and valleys",
+        "To locate flying aircrafts",
+        "To measure atmospheric pressure",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "To locate under water hills and valleys",
+      "explanation": "SONAR (Sound Navigation and Ranging) uses ultrasonic sound waves to map ocean depths and locate submerged objects, hills, valleys, and shipwrecks.",
+      "tip": "SONAR = Underwater sound reflection; RADAR = Atmospheric radio wave reflection.",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "In a food chain, insectivorous plants' trophic level is",
+      "hi": "एक खाद्य श्रृंखला में कीटभक्षी पौधों का पोषण स्तर होता है",
+      "options": [
+        "Primary consumer",
+        "Secondary consumer",
+        "Producer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Insectivorous plants (Pitcher plant, Venus flytrap) photosynthesize as primary producers (T1) and consume herbivorous insects as secondary consumers (T3).",
+      "tip": "Because insectivorous plants hold two trophic identities (Autotroph/Producer and Carnivore/Secondary Consumer), Option (D) applies.",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "At what rate of simple interest, a certain sum of money becomes its seven times in 24 years?",
+      "hi": "साधारण ब्याज की किस दर से कोई धनराशि 24 वर्षों में अपनी 7 गुनी हो जाएगी?",
+      "options": [
+        "24% per annum",
+        "25% per annum",
+        "22% per annum",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "25% per annum",
+      "explanation": "If principal is P, amount is 7P; Simple Interest SI = 6P. Formula: SI = (P * R * T) / 100 -> 6P = (P * R * 24) / 100 -> R = (6 * 100) / 24 = 25% per annum.",
+      "tip": "Direct formula for n-times: Rate R = ((n - 1) * 100) / T = ((7 - 1) * 100) / 24 = 600 / 24 = 25%.",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "If day before yesterday it was Monday, then which will be the day on day after tomorrow?\n(",
+      "hi": "यदि परसों सोमवार था, तो नरसों (day after tomorrow) कौन-सा दिन होगा?)",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Wednesday",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Friday",
+      "explanation": "Day before yesterday = Monday -> Yesterday = Tuesday -> Today = Wednesday -> Tomorrow = Thursday -> Day after tomorrow = Friday.",
+      "tip": "Count displacement from 'day before yesterday' (-2) to 'day after tomorrow' (+2): total +4 days. Monday + 4 days = Friday.",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The best method to prevent flood is",
+      "hi": "बाढ़ को रोकने का सबसे प्रभावी उपाय है",
+      "options": [
+        "Grazing",
+        "Afforestation",
+        "Deforestation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Afforestation",
+      "explanation": "Afforestation enhances surface water infiltration, binds soil with root networks, reduces rapid overland runoff velocity, and prevents heavy siltation in riverbeds.",
+      "tip": "Planting trees (afforestation) controls both soil erosion and flood runoffs; deforestation accelerates floods.",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The animals found in desert are called",
+      "hi": "रेगिस्तान / मरुस्थल में पाए जाने वाले जन्तु कहलाते हैं",
+      "options": [
+        "Deserticolous",
+        "Desertimalia",
+        "Desertimals",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Deserticolous",
+      "explanation": "Organisms that inhabit arid desert environments and exhibit specific xerocolous morphological adaptations are termed deserticolous.",
+      "tip": "Arboreal = trees; Fossorial = underground burrows; Deserticolous / Xerocolous = deserts.",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Who among the following was the Prime Minister of India when 73rd and 74th Amendments of the Constitution came into existence?",
+      "hi": "जब संविधान के 73वें एवं 74वें संशोधन लागू हुए, तब भारत के प्रधानमन्त्री कौन थे?",
+      "options": [
+        "P. V. Narasimha Rao",
+        "H. D. Deve Gowda",
+        "Chandra Shekhar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "P. V. Narasimha Rao",
+      "explanation": "The 73rd and 74th Constitutional Amendment Acts were enacted by Parliament in 1992 and came into force in 1993 under the Prime Ministership of P. V. Narasimha Rao.",
+      "tip": "73rd Amendment (Panchayats) enforced 24 April 1993; 74th Amendment (Municipalities) enforced 1 June 1993 during Narasimha Rao's tenure.",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Chemically rust is\n(",
+      "hi": "रासायनिक रूप से जंग (rust) है)",
+      "options": [
+        "Hydrated ferric oxide",
+        "Hydrated ferrous oxide",
+        "Only ferric oxide",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Hydrated ferric oxide",
+      "explanation": "Rusting of iron in the presence of atmospheric oxygen and moisture produces hydrated ferric oxide with the chemical formula Fe2O3 · xH2O.",
+      "tip": "Rust is Fe(III) oxide (Ferric), not Fe(II) oxide (Ferrous). Look strictly for 'Hydrated ferric oxide'.",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "In which of the following States of India, the maximum teak forest is found?\n(",
+      "hi": "भारत के निम्नलिखित में से किस राज्य में सर्वाधिक सागौन (teak) वन पाए जाते हैं?)",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Karnataka",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Madhya Pradesh",
+      "explanation": "Madhya Pradesh contains the largest area under teak (Tectona grandis) forests in India, covering extensive tracts in Hoshangabad, Betul, and Jabalpur.",
+      "tip": "Teak (सागौन) and Sal (साल) are predominant species of tropical deciduous forests; MP possesses the largest teak forest area.",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Kargil is located on the bank of",
+      "hi": "कारगिल किस नदी के तट पर स्थित है?",
+      "options": [
+        "Suru river",
+        "Jhelum river",
+        "Indus river",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Suru river",
+      "explanation": "The city and district of Kargil in Ladakh are situated along the banks of the Suru River, a significant left-bank tributary of the Indus River.",
+      "tip": "Leh is located on the Indus River; Kargil is located on the Suru River; Srinagar is located on the Jhelum River.",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following constitutes a food chain?",
+      "hi": "निम्नलिखित में से कौन-सा एक खाद्य श्रृंखला का सही निर्माण करता है?",
+      "options": [
+        "Grass, deer and tiger",
+        "Grass, fish and cow",
+        "Grass, rabbit and elephant",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Grass, deer and tiger",
+      "explanation": "In a terrestrial grazing food chain, Grass is the primary producer, Deer is the herbivorous primary consumer, and Tiger is the apex carnivorous secondary consumer.",
+      "tip": "Food chain must represent realistic trophic feeding links: Producer -> Herbivore -> Carnivore (Grass -> Deer -> Tiger).",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which was the main centre of activities of Wahabis in Bihar?",
+      "hi": "बिहार में वहाबियों की गतिविधियों का मुख्य केंद्र कौन-सा था?",
+      "options": [
+        "Jagdishpur",
+        "Champaran",
+        "Patna",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Patna",
+      "explanation": "Patna was the premier headquarters of the Wahabi Movement in India from the 1820s to the 1860s, organized by leaders Maulvi Wilayat Ali and Inayat Ali.",
+      "tip": "Patna served as the pan-Indian organizational hub for propaganda and soldiers for the Wahabis on the North-West Frontier.",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The iron pillar wonder of ancient Indian metallurgy is situated in",
+      "hi": "प्राचीन भारतीय धातु-विज्ञान का चमत्कार 'लौह स्तम्भ' कहाँ स्थित है?",
+      "options": [
+        "Mehrauli",
+        "Sarnath",
+        "Ujjain",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Mehrauli",
+      "explanation": "The rust-resistant Gupta-era iron pillar constructed during the reign of Chandragupta II Vikramaditya stands in the Qutb Complex at Mehrauli, New Delhi.",
+      "tip": "Mehrauli iron pillar has resisted corrosion for over 1600 years due to a protective layer of crystalline iron hydrogen phosphate.",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Brahmo Samaj's influence was confined mostly to the",
+      "hi": "ब्रह्म समाज का प्रभाव मुख्यतः सीमित था",
+      "options": [
+        "Rural Bengal",
+        "Both rural and urban educated groups",
+        "Urban educated groups",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Urban educated groups",
+      "explanation": "The intellectual reform movement of Brahmo Samaj founded by Raja Ram Mohan Roy was predominantly confined to the urban educated middle class (Bhadralok) in Calcutta.",
+      "tip": "Arya Samaj achieved broad rural and mass popularity in Punjab/UP; Brahmo Samaj was primarily an urban intellectual elite movement.",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following will turn blue litmus red?",
+      "hi": "निम्नलिखित में से कौन नीले लिटमस को लाल कर देगा?",
+      "options": [
+        "Washing soda solution",
+        "Vinegar",
+        "Baking soda solution",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vinegar",
+      "explanation": "Acids turn blue litmus red. Vinegar contains dilute acetic acid (CH3COOH, pH approx. 2.5), whereas washing soda (Na2CO3) and baking soda (NaHCO3) are basic.",
+      "tip": "Acid turns Blue to Red ('ABR'); Base turns Red to Blue ('BRB'). Vinegar is acidic; sodas are alkaline.",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The country India shares longest international boundary with",
+      "hi": "भारत सबसे लम्बी अंतर्राष्ट्रीय सीमा किस देश के साथ साझा करता है?",
+      "options": [
+        "Pakistan",
+        "Nepal",
+        "Bangladesh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Bangladesh",
+      "explanation": "India shares its longest land border of 4,096.7 km with Bangladesh, spanning West Bengal, Meghalaya, Mizoram, Assam, and Tripura.",
+      "tip": "Border lengths mnemonic: Bangladesh (4,096.7 km) > China (3,488 km) > Pakistan (3,323 km) > Nepal (1,751 km).",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following Constitutional Amendments in India made judiciary subservient of Parliament?",
+      "hi": "भारत के किस संविधान संशोधन ने न्यायपालिका को संसद के अधीन कर दिया था?",
+      "options": [
+        "42nd Constitutional Amendment",
+        "43rd Constitutional Amendment",
+        "40th Constitutional Amendment",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "42nd Constitutional Amendment",
+      "explanation": "The 42nd Constitutional Amendment Act, 1976 curtailed judicial review powers of the Supreme Court and High Courts, declaring that constitutional amendments could not be questioned in court.",
+      "tip": "42nd Amendment (1976) is known as the 'Mini-Constitution'; judicial review powers were later restored by the 44th Amendment (1978).",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The value of 2 * { (467 + 359)² - 2 * 467 * 359 } / { (467)² + (359)² } is\n(2 * { (467 + 359)² - 2 * 467 * 359 } / { (467)² + (359)² }",
+      "hi": "का मान है)",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "2",
+      "explanation": "Using algebraic identity (a + b)² - 2ab = a² + b²: the expression simplifies to 2 * (a² + b²) / (a² + b²) = 2.",
+      "tip": "Never compute large numerical squares; substitute variables a = 467, b = 359 to simplify algebraically in seconds.",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the ecological pyramids show both upright and inverted types?\n(",
+      "hi": "कौन-से पारिस्थितिक पिरामिड सीधे (upright) और उल्टे (inverted) दोनों प्रकार के हो सकते हैं?)",
+      "options": [
+        "Pyramid of number",
+        "Pyramid of biomass",
+        "Pyramid of energy",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Pyramid of number can be inverted (e.g., single tree ecosystem supporting parasites), and Pyramid of biomass can be inverted (e.g., aquatic ecosystem). Both (A) and (B) qualify.",
+      "tip": "Pyramid of energy is ALWAYS upright (10% law). Both Pyramid of Number and Pyramid of Biomass can be inverted; choose (D).",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "How many kilometers is the total length of Atal Setu connecting Mumbai and Navi Mumbai?",
+      "hi": "मुम्बई और नवी मुम्बई को जोड़ने वाले अटल सेतु की कुल लम्बाई कितने किलोमीटर है?",
+      "options": [
+        "21.5 kilometers",
+        "21.8 kilometers",
+        "21.3 kilometers",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "21.8 kilometers",
+      "explanation": "The Mumbai Trans Harbour Link (MTHL / Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu) is India's longest sea bridge, measuring 21.8 km (16.5 km over sea).",
+      "tip": "Atal Setu = 21.8 km total length; longest sea bridge in India, inaugurated in early 2024.",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "Which of the following is used in metal extraction?",
+      "hi": "निम्नलिखित में से किसका उपयोग धातु निष्कर्षण में किया जाता है?",
+      "options": [
+        "Coke",
+        "Petroleum",
+        "Coal tar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Coke",
+      "explanation": "Coke is nearly pure carbon, used as a primary reducing agent in blast furnaces to extract metals like iron from their oxide ores.",
+      "tip": "Coke reduces metal oxides (Fe2O3 + 3C -> 2Fe + 3CO); coal tar is used for surfacing roads and dyes.",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "Which of the following is suitable for alcoholic beverages?\n(",
+      "hi": "निम्नलिखित में से कौन मादक पेय (alcoholic beverages) के लिए उपयुक्त है?)",
+      "options": [
+        "Methanol",
+        "Hexenol",
+        "Ethanol",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Ethanol",
+      "explanation": "Ethanol (ethyl alcohol, C2H5OH) is the psychoactive substance suitable for potable alcoholic beverages. Methanol (methyl alcohol, CH3OH) is highly poisonous.",
+      "tip": "Potable drinking alcohol = Ethanol (C2H5OH); Toxic industrial alcohol = Methanol (CH3OH, causes blindness and death).",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "As per 5th Tiger Census in 2022, the number of tigers in India is",
+      "hi": "2022 में 5वीं बाघ गणना के अनुसार, भारत में बाघों की संख्या है",
+      "options": [
+        "3167",
+        "3267",
+        "3067",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "3167",
+      "explanation": "Prime Minister Narendra Modi released the summary of the 5th cycle of Management Effectiveness Evaluation of Tiger Reserves in April 2023, declaring 3,167 tigers in India.",
+      "tip": "Tiger population grew from 2,967 (2018) to 3,167 (2022 census released in 2023).",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "The author of the book, 'The Chipko Movement: A People's History' is",
+      "hi": "'द चिपको मूवमेंट: ए पीपुल्स हिस्ट्री' पुस्तक के लेखक हैं",
+      "options": [
+        "Shekhar Pathak",
+        "Shekhar Joshi",
+        "Shekhar Pandey",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Shekhar Pathak",
+      "explanation": "Historian Shekhar Pathak authored 'The Chipko Movement: A People's History' (translated by Manisha Chaudhry), which won the Kamaladevi Chattopadhyay NIF Book Prize 2022.",
+      "tip": "Award-winning environmental history books are heavily tested in BPSC General Studies.",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "How many latitudes are there on the globe drawn at 1 degree interval?",
+      "hi": "1 डिग्री के अंतराल पर खींचे जाने पर ग्लोब पर कुल कितने अक्षांश वृत्त होते हैं?",
+      "options": [
+        "179",
+        "180",
+        "181",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "181",
+      "explanation": "There are 90 degrees North, 90 degrees South, and 1 Equator (0 degree): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
+      "tip": "Total parallels of latitude = 181 (including 0° and two 90° poles); Latitude circles = 179.",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "Barauni Oil Refinery Plant is situated in which district of Bihar?",
+      "hi": "बरौनी तेल शोधक कारखाना बिहार के किस जिले में स्थित है?",
+      "options": [
+        "Bhagalpur",
+        "Munger",
+        "Patna",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Barauni Oil Refinery (established in 1964 with Soviet collaboration) is situated in Begusarai district of Bihar. Since Begusarai is not in (A), (B), or (C), Option (E) is correct.",
+      "tip": "Barauni Refinery, Barauni Thermal Power Station, and Fertilizer Plant are all located in Begusarai district.",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "In which district of Bihar silk textile production is maximum?",
+      "hi": "बिहार के किस जिले में रेशमी वस्त्र का उत्पादन सर्वाधिक होता है?",
+      "options": [
+        "Madhubani",
+        "Bhagalpur",
+        "Aurangabad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bhagalpur",
+      "explanation": "Bhagalpur is globally renowned as the 'Silk City' (रेशमी शहर) of Bihar, producing Tussar silk, Eri silk, and famous Bhagalpuri silk sarees.",
+      "tip": "Silk City of Bihar = Bhagalpur; Cotton handlooms = Gaya & Madhubani; Jute = Purnea & Katihar.",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Principal (December 2023)",
+      "en": "Who was the 'political guru' of Mahatma Gandhi?",
+      "hi": "महात्मा गाँधी के 'राजनीतिक गुरु' कौन थे?",
+      "options": [
+        "Dadabhai Naoroji",
+        "M. G. Ranade",
+        "Surendranath Banerjea",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Gopal Krishna Gokhale was the political mentor and guru of Mahatma Gandhi, who advised him to travel across India for one year to understand ground realities. Gokhale is omitted from (A), (B), and (C).",
+      "tip": "Gandhi's Political Guru = Gopal Krishna Gokhale; Gokhale's Political Guru = Justice M.G. Ranade. When Gokhale is not in A, B, or C, select Option (E).\nAnswer Key Summary Table — Set 3 (Q.81 to Q.120)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key",
+      "id": 40
+    }
+  ]
+}

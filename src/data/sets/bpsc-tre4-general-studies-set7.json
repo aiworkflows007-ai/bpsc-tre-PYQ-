@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set7",
+  "title": "General Studies Practice Set 7 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "A sum of money invested at simple interest triples itself in 8 years. In how many years will it become 9 times of itself at the same annual rate of interest?",
+      "hi": "कोई धनराशि साधारण ब्याज पर 8 वर्षों में तीन गुनी हो जाती है। समान वार्षिक ब्याज दर पर वह कितने वर्षों में 9 गुनी हो जाएगी?",
+      "options": [
+        "24 years",
+        "32 years",
+        "40 years",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "32 yearsDetailed",
+      "explanation": "For tripling, SI = 2P in 8 years, so interest rate = 2P/(P * 8) = 25%. For becoming 9 times, SI = 8P. Time = 8P / (P * 0.25) = 32 years.💡 Exam Setter's Tips & Quick Tricks: Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 years.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The lengths of the diagonals of a rhombus are 16 cm and 12 cm respectively. What is the area of the rhombus?",
+      "hi": "एक समचतुर्भुज के विकर्णों की लंबाई क्रमशः 16 सेमी और 12 सेमी है। समचतुर्भुज का क्षेत्रफल क्या है?",
+      "options": [
+        "84 sq cm",
+        "96 sq cm",
+        "192 sq cm",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "96 sq cmDetailed",
+      "explanation": "Area of a rhombus = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 sq cm.💡 Exam Setter's Tips & Quick Tricks: Area of rhombus = 1/2 * product of diagonals = 1/2 * 16 * 12 = 96 cm².",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The average of 6 numbers is 30. If the average of the first four numbers is 25 and that of the last three numbers is 35, what is the fourth number?",
+      "hi": "6 संख्याओं का औसत 30 है। यदि प्रथम चार संख्याओं का औसत 25 है और अंतिम तीन संख्याओं का औसत 35 है, तो चौथी संख्या क्या है?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "25Detailed",
+      "explanation": "Total of 6 numbers = 6 * 30 = 180. Sum of first four = 4 * 25 = 100. Sum of last three = 3 * 35 = 105. Sum of (first 4 + last 3) = 100 + 105 = 205 (includes 4th number twice). Fourth number = 205 - 180 = 25.💡 Exam Setter's Tips & Quick Tricks: Overlapping number = (Sum of 1st set + Sum of 2nd set) - Total Sum = (100 + 105) - 180 = 25.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Two trains 140 m and 160 m long are running towards each other on parallel tracks at speeds of 60 km/h and 48 km/h respectively. In how many seconds will they completely cross each other?",
+      "hi": "140 मीटर और 160 मीटर लंबी दो रेलगाड़ियाँ समानांतर पटरियों पर विपरीत दिशाओं में क्रमशः 60 किमी/घंटा और 48 किमी/घंटा की गति से चल रही हैं। वे एक दूसरे को कितने सेकंड में पूरी तरह पार कर लेंगी?",
+      "options": [
+        "8 seconds",
+        "10 seconds",
+        "12 seconds",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10 secondsDetailed",
+      "explanation": "Total distance = 140 + 160 = 300 m. Relative speed in opposite direction = 60 + 48 = 108 km/h = 108 * (5/18) = 30 m/s. Crossing time = 300 / 30 = 10 seconds.💡 Exam Setter's Tips & Quick Tricks: Distance = L1 + L2 = 300 m; Relative speed = 60 + 48 = 108 km/h = 30 m/s. Time = 300/30 = 10 s.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Find the odd one out among the following numbers: 27, 64, 125, 144, 216",
+      "hi": "निम्नलिखित संख्याओं में से विषम संख्या ज्ञात कीजिए: 27, 64, 125, 144, 216",
+      "options": [
+        "64",
+        "144",
+        "216",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "144Detailed",
+      "explanation": "27 = 3^3, 64 = 4^3, 125 = 5^3, 216 = 6^3 are all perfect cubes. 144 is a perfect square (12^2) but not a perfect cube.💡 Exam Setter's Tips & Quick Tricks: All numbers except 144 are perfect cubes of consecutive integers (3, 4, 5, 6).",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "If 'A' denotes '+', 'B' denotes '-', 'C' denotes '×', and 'D' denotes '÷', then what is the value of: 18 C 14 A 16 D 4 B 10?",
+      "hi": "यदि 'A' का अर्थ '+', 'B' का अर्थ '-', 'C' का अर्थ '×', और 'D' का अर्थ '÷' है, तो 18 C 14 A 16 D 4 B 10 का मान क्या होगा?",
+      "options": [
+        "246",
+        "250",
+        "254",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "246Detailed",
+      "explanation": "Substituting operators: 18 * 14 + 16 / 4 - 10. Following BODMAS: 16 / 4 = 4; 18 * 14 = 252; 252 + 4 - 10 = 256 - 10 = 246.💡 Exam Setter's Tips & Quick Tricks: BODMAS: 18*14 + 16/4 - 10 = 252 + 4 - 10 = 246.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Statements: All petals are flowers. All flowers are plants.Conclusions: I. All petals are plants. II. Some plants are petals.",
+      "hi": "कथन: सभी पंखुड़ियाँ फूल हैं। सभी फूल पौधे हैं।निष्कर्ष: I. सभी पंखुड़ियाँ पौधे हैं। II. कुछ पौधे पंखुड़ियाँ हैं।",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Both conclusion I and II followDetailed",
+      "explanation": "Universal affirmative premise: Petals ⊂ Flowers ⊂ Plants. Therefore, Petals ⊂ Plants (Conclusion I holds). Since Petals are a subset of Plants, some plants are definitely petals (Conclusion II holds).💡 Exam Setter's Tips & Quick Tricks: Concentric circles: Petals inside Flowers inside Plants => Both I and II definitely follow.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "If 1st January 2024 was Monday, what day of the week was 31st December 2024?",
+      "hi": "यदि 1 जनवरी 2024 को सोमवार था, तो 31 दिसंबर 2024 को सप्ताह का कौन-सा दिन था?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "TuesdayDetailed",
+      "explanation": "2024 is a leap year (divisible by 4) containing 366 days (52 weeks + 2 odd days). In a leap year, the last day of the year (31 Dec) is one day ahead of the first day (1 Jan). Monday + 1 day = Tuesday.💡 Exam Setter's Tips & Quick Tricks: Ordinary year: First day = Last day; Leap year: Last day = First day + 1 day = Monday + 1 = Tuesday.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The rate of change of momentum of a body is directly proportional to the applied unbalanced force and takes place in the direction of the force. This represents",
+      "hi": "किसी वस्तु के संवेग परिवर्तन की दर उस पर लगाए गए असंतुलित बल के समानुपाती होती है तथा बल की दिशा में होती है। यह कथन व्यक्त करता है",
+      "options": [
+        "Newton's First Law of Motion",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Newton's Second Law of MotionDetailed",
+      "explanation": "Newton's Second Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction pairs.💡 Exam Setter's Tips & Quick Tricks: 1st Law = Definition of Force & Inertia; 2nd Law = Measure of Force (F = ma); 3rd Law = Action-Reaction.",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "What is the SI unit of electric charge?",
+      "hi": "विद्युत आवेश का SI मात्रक क्या है?",
+      "options": [
+        "Ampere",
+        "Coulomb",
+        "Volt",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "CoulombDetailed",
+      "explanation": "The SI unit of electric charge is the Coulomb (C), defined as the quantity of electricity transferred by a current of 1 ampere in 1 second (1 C = 1 A·s). Ampere is current, and Volt is electric potential.💡 Exam Setter's Tips & Quick Tricks: Charge = Coulomb (C); Current = Ampere (A); Potential = Volt (V); Resistance = Ohm (Ω).",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which part of the human brain is primarily responsible for maintaining posture, equilibrium, and precision of voluntary muscle movements?",
+      "hi": "मानव मस्तिष्क का कौन-सा भाग शारीरिक संतुलन, मुद्रा और ऐच्छिक पेशियों की परिशुद्धता को बनाए रखने के लिए मुख्य रूप से उत्तरदायी है?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum (अनुमस्तिष्क)",
+        "Medulla Oblongata",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Cerebellum (अनुमस्तिष्क)Detailed",
+      "explanation": "The cerebellum (hindbrain) coordinates motor activities, precision of voluntary movements, and equilibrium. The cerebrum controls conscious thought and memory, while the medulla oblongata controls involuntary vitals (heartbeat, respiration).💡 Exam Setter's Tips & Quick Tricks: Balance & posture = Cerebellum; Memory & intelligence = Cerebrum; Heartbeat & breathing = Medulla Oblongata.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Deficiency of dietary iodine leads to the enlargement of which endocrine gland, causing the condition known as simple goitre?(",
+      "hi": "आहार में आयोडीन की कमी से किस अन्तःस्रावी ग्रंथि का आकार असामान्य रूप से बढ़ जाता है, जिसे घेंघा (Goitre) रोग कहते हैं?)",
+      "options": [
+        "Adrenal Gland",
+        "Thyroid Gland",
+        "Thymus Gland",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Thyroid GlandDetailed",
+      "explanation": "Iodine is essential for the synthesis of thyroxine (T4) and triiodothyronine (T3) by the thyroid gland. Iodine deficiency stimulates excessive TSH release, causing hyperplasia and enlargement of the thyroid gland (goitre).💡 Exam Setter's Tips & Quick Tricks: Goitre = Thyroid Gland enlargement (Iodine deficiency); Hormone = Thyroxine.",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Rusting of an iron nail in moist air is an example of which type of transformation?",
+      "hi": "नम वायु में लोहे की कील पर जंग लगना किस प्रकार के परिवर्तन का उदाहरण है?",
+      "options": [
+        "Physical change only",
+        "Chemical change involving oxidation",
+        "Reversible thermal change",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Chemical change involving oxidationDetailed",
+      "explanation": "Rusting is an irreversible chemical oxidation reaction where iron reacts with atmospheric oxygen in the presence of water to form hydrated ferric oxide: 4Fe + 3O2 + 2xH2O -> 2Fe2O3 · xH2O. It increases the mass of the iron object.💡 Exam Setter's Tips & Quick Tricks: Rusting is a chemical change, oxidation reaction, and increases the weight of iron.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which of the following greenhouse gases is released extensively from submerged agricultural paddy fields and enteric fermentation in cattle?",
+      "hi": "जलमग्न धान के खेतों और मवेशियों के पाचन से कौन-सी ग्रीनहाउस गैस अत्यधिक मात्रा में उत्सर्जित होती है?",
+      "options": [
+        "Carbon monoxide",
+        "Methane (CH4)",
+        "Sulfur dioxide",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Methane (CH4)Detailed",
+      "explanation": "Methanogenic archaebacteria operating in anaerobic conditions of waterlogged rice paddies and the rumen of ruminant livestock produce massive quantities of biogenic methane (CH4), a potent greenhouse gas.💡 Exam Setter's Tips & Quick Tricks: Paddy fields & cattle belching = Methane (CH4); Coal mines & marsh gas = Methane.",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which chemical compound is commonly used in laboratory fire extinguishers and baked goods as a leavening agent?",
+      "hi": "अग्निशामक यंत्रों और बेकरी उत्पादों में खमीर उठाने के लिए आमतौर पर किस रासायनिक यौगिक का उपयोग किया जाता है?",
+      "options": [
+        "Calcium hydroxide",
+        "Sodium bicarbonate",
+        "Ammonium chloride",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sodium bicarbonateDetailed",
+      "explanation": "Sodium bicarbonate (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.💡 Exam Setter's Tips & Quick Tricks: Sodium bicarbonate = Fire extinguishers + Baking soda.",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Light year is a physical unit used to measure(",
+      "hi": "प्रकाश वर्ष (Light Year) किस भौतिक राशि को मापने का मात्रक है?)",
+      "options": [
+        "Stellar Distance",
+        "Time duration",
+        "Intensity of light",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Stellar DistanceDetailed",
+      "explanation": "A light year is the astronomical distance that light travels in vacuum in one Julian year (approx. 9.46 * 10^12 km or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.💡 Exam Setter's Tips & Quick Tricks: Light Year & Parsec = Units of astronomical distance; 1 Parsec ≈ 3.26 Light Years.",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The historic 'Lucknow Pact' of December 1916 was signed between which two major political organizations to present joint constitutional demands?",
+      "hi": "दिसंबर 1916 का ऐतिहासिक 'लखनऊ समझौता' किन दो प्रमुख राजनीतिक संगठनों के बीच संयुक्त संवैधानिक मांगों को प्रस्तुत करने के लिए हस्ताक्षरित हुआ था?",
+      "options": [
+        "Indian National Congress and British Indian Association",
+        "Indian National Congress and All-India Muslim League",
+        "Home Rule League and Ghadar Party",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Indian National Congress and All-India Muslim LeagueDetailed",
+      "explanation": "Under the efforts of Bal Gangadhar Tilak and Mohammad Ali Jinnah, the Congress and Muslim League held their joint session at Lucknow in 1916, accepting separate electorates and demanding provincial self-government.💡 Exam Setter's Tips & Quick Tricks: Lucknow Pact 1916 = Congress & Muslim League alliance + Re-unification of Moderates and Extremists (President: A. C. Majumdar).",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who served as the official President of the 'Champaran Agrarian Enquiry Committee' appointed by the Government of Bihar and Orissa in 1917, in which Mahatma Gandhi was a member?",
+      "hi": "1917 में बिहार और उड़ीसा सरकार द्वारा गठित 'चंपारण कृषि जांच समिति' के अध्यक्ष कौन थे, जिसके एक सदस्य महात्मा गांधी भी थे?",
+      "options": [
+        "D. J. Reid",
+        "F. G. Sly",
+        "L. C. Adami",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "F. G. SlyDetailed",
+      "explanation": "Sir Frank G. Sly (Commissioner of Central Provinces) was appointed President of the Champaran Agrarian Enquiry Committee by Lieutenant Governor Edward Gait. The committee unanimously recommended the abolition of the tinkathia system.💡 Exam Setter's Tips & Quick Tricks: Champaran Agrarian Committee: President = F. G. Sly; Member = Mahatma Gandhi; Outcome = Champaran Agrarian Act 1918.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "In which year was the 'Bihar Provincial Congress Committee' formally constituted with its headquarters at Patna and Nawab Sarfaraz Hussain Khan as President?",
+      "hi": "पटना में मुख्यालय और नवाब सरफराज हुसैन खान की अध्यक्षता में 'बिहार प्रांतीय कांग्रेस कमेटी' का औपचारिक गठन किस वर्ष हुआ था?",
+      "options": [
+        "1905",
+        "1908",
+        "1912",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1908Detailed",
+      "explanation": "In 1908, a meeting was held at Patna under Nawab Sarfaraz Hussain Khan where the Bihar Provincial Congress Committee was formally constituted, choosing Syed Hasan Imam as its first permanent president.💡 Exam Setter's Tips & Quick Tricks: Bihar Provincial Congress Committee formed = 1908 (Patna conference under Nawab Sarfaraz Hussain Khan).",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "After resigning from the Presidency of the Indian National Congress at the Tripuri Session in 1939, Subhas Chandra Bose founded which political party?",
+      "hi": "1939 में त्रिपुरी अधिवेशन में कांग्रेस के अध्यक्ष पद से इस्तीफा देने के बाद सुभाष चंद्र बोस ने किस राजनीतिक दल की स्थापना की थी?",
+      "options": [
+        "Revolutionary Socialist Party",
+        "All India Forward Bloc",
+        "Swaraj Party",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "All India Forward BlocDetailed",
+      "explanation": "Following ideological differences with Mahatma Gandhi and the Congress Working Committee, Subhas Chandra Bose resigned in April 1939 and announced the formation of the Forward Bloc within the Congress on 3 May 1939 at Makur, Unnao.💡 Exam Setter's Tips & Quick Tricks: Subhas Chandra Bose founded Forward Bloc in 1939 (First All India Conference at Ramgarh, Bihar in 1940).",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Winter rainfall in the plains of Northwest India and parts of Bihar is primarily caused by which meteorological system?",
+      "hi": "उत्तर-पश्चिम भारत के मैदानों और बिहार के कुछ हिस्सों में सर्दियों की वर्षा मुख्य रूप से किस मौसम प्रणाली के कारण होती है?",
+      "options": [
+        "Southwest Monsoon",
+        "Western Disturbances (पश्चिमी विक्षोभ)",
+        "Retreating Northeast Monsoon",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Western Disturbances (पश्चिमी विक्षोभ)Detailed",
+      "explanation": "Western disturbances are extra-tropical cyclonic storms originating over the Mediterranean Sea and steered eastward by the subtropical westerly jet stream. They bring crucial winter rain (Mahawat) beneficial for Rabi crops (wheat).💡 Exam Setter's Tips & Quick Tricks: Northwest India winter rain = Western Disturbances; Coromandel (Tamil Nadu) coast winter rain = Retreating Monsoon.",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Black soil (Regur soil) in India is most extensively developed over which geological region and is uniquely suited for the cultivation of which commercial crop?(",
+      "hi": "भारत में काली मिट्टी (रेगुर मिट्टी) का विस्तार मुख्यतः किस भू-भाग पर है और यह किस व्यावसायिक फसल के लिए सर्वाधिक उपयुक्त है?)",
+      "options": [
+        "Deccan Lava Plateau; Cotton",
+        "Indo-Gangetic Plain; Jute",
+        "Chota Nagpur Plateau; Tea",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Deccan Lava Plateau; CottonDetailed",
+      "explanation": "Regur (black cotton soil) is derived from the weathering of basaltic Deccan trap lava rocks (Maharashtra, Gujarat, MP). It is rich in clay, possesses high moisture retention capacity, and is ideal for cotton cultivation.💡 Exam Setter's Tips & Quick Tricks: Black Soil = Regur = Basaltic lava = Cotton cultivation.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Dalmianagar, situated along the Son River in Rohtas district of Bihar, emerged historically as a premier industrial centre for which industries?",
+      "hi": "बिहार के रोहतास जिले में सोन नदी के तट पर स्थित डालमियानगर ऐतिहासिक रूप से किन उद्योगों के प्रमुख केंद्र के रूप में उभरा था?",
+      "options": [
+        "Silk and Handloom",
+        "Cement, Sugar, Paper, and Chemical manufacturing",
+        "Petrochemicals and Oil refining",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Cement, Sugar, Paper, and Chemical manufacturingDetailed",
+      "explanation": "Established by Ramkrishna Dalmia under the Rohtas Industries conglomerate in the 1930s, Dalmianagar was one of India's largest integrated industrial complexes, housing cement plants, sugar mills, paper factories, and chemical works.💡 Exam Setter's Tips & Quick Tricks: Dalmianagar (Rohtas) = Cement, Paper, Sugar, Chemicals; Barauni (Begusarai) = Oil Refinery, Fertilizer.",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "National Highway 19 (formerly NH 2), which traverses Sasaram, Aurangabad, and Dobhi in Bihar, is historically part of the ancient road network known as(",
+      "hi": "राष्ट्रीय राजमार्ग 19 (पूर्व NH 2), जो बिहार में सासाराम, औरंगाबाद और डोभी से होकर गुजरता है, ऐतिहासिक रूप से किस मार्ग का भाग है?)",
+      "options": [
+        "Silk Route",
+        "Grand Trunk Road (Sher Shah Suri Marg)",
+        "Dakshinapatha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Grand Trunk Road (Sher Shah Suri Marg)Detailed",
+      "explanation": "Built along the ancient Uttarapatha and reconstructed by Sher Shah Suri (Sadak-e-Azam), the Grand Trunk Road connected Sonargaon (Bangladesh) to Peshawar. In Bihar, it traverses the southern plains through Kaimur, Rohtas, Aurangabad, and Gaya.💡 Exam Setter's Tips & Quick Tricks: Sadak-e-Azam / Grand Trunk Road = Built by Sher Shah Suri (tomb at Sasaram).",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who is appointed under Article 76 of the Constitution of India as the highest legal officer of the Government of India?",
+      "hi": "भारतीय संविधान के अनुच्छेद 76 के तहत भारत सरकार के सर्वोच्च विधि अधिकारी के रूप में किसे नियुक्त किया जाता है?",
+      "options": [
+        "Solicitor General of India",
+        "Attorney General for India",
+        "Advocate General of the State",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Attorney General for IndiaDetailed",
+      "explanation": "Article 76 provides that the President shall appoint a person qualified to be a Judge of the Supreme Court to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in Parliament without voting rights.💡 Exam Setter's Tips & Quick Tricks: Attorney General for India = Article 76 (Union highest law officer); Advocate General = Article 165 (State).",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The three-tier Panchayati Raj system (Gram Panchayat, Panchayat Samiti, Zilla Parishad) was first recommended by which landmark committee in 1957?(",
+      "hi": "त्रिस्तरीय पंचायती राज प्रणाली (ग्राम पंचायत, पंचायत समिति, जिला परिषद) की सर्वप्रथम सिफारिश 1957 में किस ऐतिहासिक समिति ने की थी?)",
+      "options": [
+        "Ashok Mehta Committee",
+        "Balwant Rai Mehta Committee",
+        "L. M. Singhvi Committee",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Balwant Rai Mehta CommitteeDetailed",
+      "explanation": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate Panchayati Raj on 2 October 1959 at Nagaur, followed by Andhra Pradesh.💡 Exam Setter's Tips & Quick Tricks: 3-tier Panchayati Raj = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986).",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Under Article 280 of the Constitution of India, the Finance Commission is constituted by the President of India at the expiration of every",
+      "hi": "भारतीय संविधान के अनुच्छेद 280 के तहत वित्त आयोग का गठन भारत के राष्ट्रपति द्वारा प्रत्येक कितने वर्ष की समाप्ति पर किया जाता है?",
+      "options": [
+        "3 years",
+        "5 years",
+        "6 years",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "5 yearsDetailed",
+      "explanation": "Article 280 mandates that the President shall constitute a Finance Commission every fifth year (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.💡 Exam Setter's Tips & Quick Tricks: Finance Commission = Article 280, appointed every 5 years by the President. 16th FC Chairman = Dr. Arvind Panagariya.",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who was appointed as the Chairman of the 16th Finance Commission of India constituted in December 2023?",
+      "hi": "दिसंबर 2023 में गठित भारत के 16वें वित्त आयोग का अध्यक्ष किसे नियुक्त किया गया?",
+      "options": [
+        "N. K. Singh",
+        "Dr. Arvind Panagariya",
+        "Dr. Y. V. Reddy",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Arvind PanagariyaDetailed",
+      "explanation": "On 31 December 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th Finance Commission. N.K. Singh headed the 15th Finance Commission.💡 Exam Setter's Tips & Quick Tricks: 16th Finance Commission Chairman = Dr. Arvind Panagariya; 15th FC Chairman = N. K. Singh.",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "A man buys a cycle for ₹1,400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+      "hi": "एक व्यक्ति ₹1,400 में एक साइकिल खरीदता है और उसे 15% की हानि पर बेचता है। साइकिल का विक्रय मूल्य क्या है?",
+      "options": [
+        "₹1,160",
+        "₹1,190",
+        "₹1,210",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹1,190Detailed",
+      "explanation": "SP = CP * (100 - Loss%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190.💡 Exam Setter's Tips & Quick Tricks: 15% of 1400 = 210. SP = 1400 - 210 = ₹1,190.",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "If the volume of two spheres are in the ratio 64 : 27, what is the ratio of their surface areas?",
+      "hi": "यदि दो गोलों के आयतनों का अनुपात 64 : 27 है, तो उनके पृष्ठीय क्षेत्रफलों का अनुपात क्या होगा?",
+      "options": [
+        "8 : 3",
+        "16 : 9",
+        "4 : 3",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16 : 9Detailed",
+      "explanation": "Volume ratio = (r1/r2)^3 = 64/27 => r1/r2 = 4/3. Surface area ratio = (r1/r2)^2 = (4/3)^2 = 16/9.💡 Exam Setter's Tips & Quick Tricks: Volume ratio = a^3 : b^3 = 64 : 27 => Radius ratio = 4 : 3 => Area ratio = 4^2 : 3^2 = 16 : 9.",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which chemical compound is responsible for the yellow colour of human urine?",
+      "hi": "मानव मूत्र का पीला रंग किस यौगिक की उपस्थिति के कारण होता है?",
+      "options": [
+        "Bilirubin",
+        "Urochrome (Urobilin)",
+        "Melanin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Urochrome (Urobilin)Detailed",
+      "explanation": "The pale yellow colour of normal urine is due to the pigment urochrome (urobilin), a breakdown end-product of hemoglobin degradation excreted by the kidneys.💡 Exam Setter's Tips & Quick Tricks: Urine yellow pigment = Urochrome; Bile yellow pigment = Bilirubin.",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which law of physics explains the working principle of hydraulic brakes and hydraulic presses?",
+      "hi": "भौतिकी का कौन-सा नियम हाइड्रोलिक ब्रेक और हाइड्रोलिक प्रेस के कार्य सिद्धांत की व्याख्या करता है?",
+      "options": [
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Principle",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pascal's LawDetailed",
+      "explanation": "Pascal's Principle states that pressure applied to an enclosed, incompressible fluid is transmitted undiminished equally in all directions throughout the fluid and to the walls of its container.💡 Exam Setter's Tips & Quick Tricks: Hydraulic lift / brakes = Pascal's Law; Aeroplane wing lift = Bernoulli's Principle; Buoyancy = Archimedes' Principle.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Under which Article of the Constitution of India is the Governor of a State empowered to promulgate Ordinances during the recess of the State Legislature?",
+      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राज्य के राज्यपाल को विधानमंडल के विश्रांतिकाल में अध्यादेश प्रख्यापित करने की शक्ति प्राप्त है?",
+      "options": [
+        "Article 123",
+        "Article 213",
+        "Article 217",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 213Detailed",
+      "explanation": "Article 213 empowers the Governor to promulgate an Ordinance when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. President's ordinance power is under Article 123.💡 Exam Setter's Tips & Quick Tricks: Ordinance Powers: President = Article 123; Governor = Article 213.",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who was the founder of the 'Ramakrishna Mission' established in 1897 to promote humanitarian relief and spiritual education?",
+      "hi": "1897 में मानव सेवा और आध्यात्मिक शिक्षा के प्रसार हेतु 'रामकृष्ण मिशन' की स्थापना किसने की थी?",
+      "options": [
+        "Ramakrishna Paramahamsa",
+        "Swami Vivekananda",
+        "Swami Dayananda Saraswati",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swami VivekanandaDetailed",
+      "explanation": "Swami Vivekananda founded the Ramakrishna Mission on 1 May 1897 at Belur Math near Kolkata, named after his spiritual guru Ramakrishna Paramahamsa.💡 Exam Setter's Tips & Quick Tricks: Ramakrishna Mission (1897) = Swami Vivekananda; Arya Samaj (1875) = Dayananda Saraswati; Brahmo Samaj (1828) = Raja Ram Mohan Roy.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which district in Bihar is the leading producer of jute, situated in the northeastern humid floodplains?(",
+      "hi": "बिहार के उत्तर-पूर्वी आर्द्र मैदान में स्थित कौन-सा जिला जूट (पटसन) का प्रमुख उत्पादक है?)",
+      "options": [
+        "Purnia",
+        "Katihar",
+        "Kishanganj",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the aboveDetailed",
+      "explanation": "The northeastern floodplain districts—Purnia, Katihar, and Kishanganj—form the primary jute-producing belt of Bihar due to alluvial soils and high rainfall (>140 cm). Purnia is the largest single producer, but Katihar and Kishanganj are also major producers, making (D) the official key.💡 Exam Setter's Tips & Quick Tricks: BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) More than one of the above is correct.",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "In which year was the 'Bihar Caste-based Survey 2022-23' (जाति आधारित गणना) formally notified and conducted by the Government of Bihar?",
+      "hi": "बिहार सरकार द्वारा 'बिहार जाति आधारित गणना 2022-23' किस वर्ष अधिसूचित और संपन्न की गई?",
+      "options": [
+        "2021",
+        "2023",
+        "2024",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2023Detailed",
+      "explanation": "Conducted in two phases during 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 October 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.💡 Exam Setter's Tips & Quick Tricks: Bihar Caste Survey released on 2 October 2023: EBC (36%) + OBC (27%) = 63% total backward classes.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "What is the name of India's first dedicated space observatory mission launched by ISRO in September 2023 to study the Sun from the Sun-Earth L1 point?",
+      "hi": "सूर्य-पृथ्वी L1 बिंदु से सूर्य का अध्ययन करने के लिए सितंबर 2023 में इसरो द्वारा प्रक्षेपित भारत के पहले सौर मिशन का नाम क्या है?",
+      "options": [
+        "Aditya-L1",
+        "Surya-1",
+        "Helios-India",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Aditya-L1Detailed",
+      "explanation": "Aditya-L1 was launched on 2 September 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million km from Earth, to study solar coronal heating and solar wind flares.💡 Exam Setter's Tips & Quick Tricks: India's solar mission = Aditya-L1 (PSLV-C57); Destination = Lagrange point 1 (L1).",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "In the Indian Constitution, the concept of 'Single Citizenship' is borrowed from the constitutional system of which country?(",
+      "hi": "भारतीय संविधान में 'एकल नागरिकता' (Single Citizenship) की अवधारणा किस देश की संवैधानिक प्रणाली से ग्रहण की गई है?)",
+      "options": [
+        "United States of America",
+        "United Kingdom (Britain)",
+        "Canada",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "United Kingdom (Britain)Detailed",
+      "explanation": "Unlike the USA which features dual citizenship (Federal and State), India adopted a single uniform citizenship for the entire nation, borrowed directly from the British parliamentary and constitutional model.💡 Exam Setter's Tips & Quick Tricks: UK borrowings: Parliamentary system, Rule of Law, Single Citizenship, Bicameralism, Cabinet system.",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which national highway connects Delhi and Kolkata traversing through Sasaram and Aurangabad in Bihar?",
+      "hi": "बिहार के सासाराम और औरंगाबाद से होकर गुजरते हुए दिल्ली और कोलकाता को जोड़ने वाला राष्ट्रीय राजमार्ग कौन-सा है?",
+      "options": [
+        "NH 19 (Old NH 2)",
+        "NH 28",
+        "NH 31",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "NH 19 (Old NH 2)Detailed",
+      "explanation": "National Highway 19 (formerly NH 2) is part of the Golden Quadrilateral connecting Delhi and Kolkata via Mathura, Agra, Kanpur, Allahabad, Varanasi, Mohania, Sasaram, Aurangabad, Dobhi, Dhanbad, and Asansol.💡 Exam Setter's Tips & Quick Tricks: Delhi-Kolkata corridor through Sasaram = NH 19 (old NH 2).",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who served as the Chairman of the Drafting Committee of the Constituent Assembly of India?",
+      "hi": "भारत की संविधान सभा की प्रारूप समिति के अध्यक्ष कौन थे?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. B. R. Ambedkar",
+        "Jawaharlal Nehru",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. B. R. AmbedkarDetailed",
+      "explanation": "The Drafting Committee was set up on 29 August 1947 with Dr. B. R. Ambedkar as its Chairman. Dr. Rajendra Prasad was the permanent President of the Constituent Assembly.💡 Exam Setter's Tips & Quick Tricks: Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly President = Dr. Rajendra Prasad.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    }
+  ]
+}

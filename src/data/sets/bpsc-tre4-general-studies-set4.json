@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set4",
+  "title": "General Studies Practice Set 4 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5)",
+      "en": "Who among the following led the 1857 Uprising in Patna city?",
+      "hi": "पटना नगर में 1857 के विद्रोह का नेतृत्व निम्नलिखित में से किसने किया था?",
+      "options": [
+        "Babu Kunwar Singh",
+        "Pir Ali Khan",
+        "Wilayat Ali",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pir Ali Khan",
+      "explanation": "Pir Ali Khan, a patriotic bookseller in Patna, organized and led the armed insurrection against the British on 3rd July 1857. He was captured and publicly hanged by Commissioner William Tayler.",
+      "tip": "Distinguish Patna leadership: Pir Ali Khan led the urban uprising in Patna city, whereas Babu Kunwar Singh led the wider regional movement in Jagdishpur/Shahabad.",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "Who persuaded Mahatma Gandhi to visit Champaran to investigate the condition of the indigo ryots?",
+      "hi": "चम्पारण में नील के किसानों की दशा की जाँच के लिए महात्मा गांधी को किसने आमंत्रित किया था?",
+      "options": [
+        "Brajkishore Prasad",
+        "Raj Kumar Shukla",
+        "Dr. Rajendra Prasad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Raj Kumar Shukla",
+      "explanation": "Raj Kumar Shukla, an exploited peasant leader from Champaran, met Mahatma Gandhi at the Lucknow Congress Session in December 1916 and persistently urged him to visit Champaran.",
+      "tip": "Raj Kumar Shukla's persistent persuasion led directly to the historic Champaran Satyagraha of 1917, Gandhi's first Satyagraha experiment in India.",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster Examination",
+      "en": "The 27th Session of the Indian National Congress held in 1912 took place at which venue in Bihar?",
+      "hi": "1912 में आयोजित भारतीय राष्ट्रीय काँग्रेस का 27वाँ अधिवेशन बिहार में कहाँ हुआ था?",
+      "options": [
+        "Gaya",
+        "Bankipore (Patna)",
+        "Ramgarh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bankipore (Patna)",
+      "explanation": "The 27th session of the INC met at Bankipore (Patna) in December 1912 under the presidency of Rao Bahadur Raghunath Narasinha Mudholkar (R.N. Mudholkar).",
+      "tip": "INC Sessions in Bihar sequence: 1912 Bankipore (R.N. Mudholkar); 1922 Gaya (C.R. Das); 1940 Ramgarh (Maulana Abul Kalam Azad).",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary History",
+      "en": "In which year was the Bihar Provincial Kisan Sabha (BPKS) formally established?(",
+      "hi": "बिहार प्रांतीय किसान सभा (BPKS) की औपचारिक स्थापना किस वर्ष हुई थी?)",
+      "options": [
+        "1928",
+        "1929",
+        "1936",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1929",
+      "explanation": "Swami Sahajanand Saraswati formally founded the Bihar Provincial Kisan Sabha in November 1929 at the Sonepur Fair, with Shri Krishna Singh as its Secretary.",
+      "tip": "Key years: 1929 = Bihar Provincial Kisan Sabha (Sonepur); 1936 = All India Kisan Sabha (Lucknow under Swami Sahajanand).",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School General Studies",
+      "en": "During the Quit India Movement (1942), who organized the underground revolutionary guerrilla force 'Azad Dasta' in the jungles of Nepal?(",
+      "hi": "भारत छोड़ो आंदोलन (1942) के दौरान नेपाल के जंगलों में 'आजाद दस्ता' नामक भूमिगत छापामार संगठन का गठन किसने किया था?)",
+      "options": [
+        "Ram Manohar Lohia",
+        "Jayaprakash Narayan",
+        "Aruna Asaf Ali",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jayaprakash Narayan",
+      "explanation": "After escaping from Hazaribagh Central Jail on Diwali night in 1942, Jayaprakash Narayan (JP) established the underground guerrilla force 'Azad Dasta' at Bakro ka Tapu in Nepal to disrupt British communications.",
+      "tip": "Radio transmitter broadcast was managed by Ram Manohar Lohia, but the overall founder and supreme leader of Azad Dasta was Jayaprakash Narayan.",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5)",
+      "en": "On 11th August 1942, how many young students were martyred in police firing while attempting to unfurl the National Flag at Patna Secretariat?",
+      "hi": "11 अगस्त 1942 को पटना सचिवालय पर तिरंगा फहराने के प्रयास में पुलिस गोलीबारी में कितने छात्र शहीद हुए थे?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7",
+      "explanation": "Seven brave student freedom fighters were killed on the spot when Patna District Magistrate W.G. Archer ordered police to open fire on students attempting to hoist the tricolour at the Patna Secretariat.",
+      "tip": "Remembered as 'The Seven Martyrs' (सात शहीद). A monumental bronze memorial stands in front of the Bihar Vidhan Sabha at Patna commemorating them.",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary History",
+      "en": "In Bihar, the Salt Satyagraha of 1930 was first inaugurated in which of the following districts?",
+      "hi": "बिहार में 1930 का नमक सत्याग्रह सर्वप्रथम निम्नलिखित में से किन जिलों में प्रारंभ हुआ था?",
+      "options": [
+        "Patna and Gaya",
+        "Champaran and Saran",
+        "Munger and Bhagalpur",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Champaran and Saran",
+      "explanation": "In Bihar, Salt Satyagraha began on 15th April 1930 in Champaran and Saran districts by manufacturing salt from saline soil (nonia mitti) under leaders like Bipin Bihari Varma.",
+      "tip": "Since Bihar is landlocked, volunteers broke salt laws by boiling salty soil (Khar soil) collected from villages.",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "Who founded the 'Sadaqat Ashram' in Patna, which later became the headquarters of the freedom movement in Bihar?",
+      "hi": "पटना में 'सदाकत आश्रम' की स्थापना किसने की थी, जो बाद में बिहार में स्वतंत्रता संग्राम का प्रमुख केंद्र बना?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Maulana Mazharul Haque",
+        "Sachchidananda Sinha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulana Mazharul Haque",
+      "explanation": "Maulana Mazharul Haque founded Sadaqat Ashram in 1921 on land donated by his friend Khairun Miyan along the banks of the Ganges in Patna, and launched the weekly newspaper 'The Motherland' from here.",
+      "tip": "Sadaqat Ashram served as the residence of Dr. Rajendra Prasad after his retirement as the President of India until his death in 1963.",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster Examination",
+      "en": "The famous slogan 'Do or Die' (करो या मरो) was given by Mahatma Gandhi during which movement?",
+      "hi": "महात्मा गांधी ने 'करो या मरो' का प्रसिद्ध नारा किस आंदोलन के दौरान दिया था?",
+      "options": [
+        "Non-Cooperation Movement",
+        "Civil Disobedience Movement",
+        "Quit India Movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Quit India Movement",
+      "explanation": "Mahatma Gandhi delivered his historic 'Do or Die' call at the Gowalia Tank Maidan in Bombay on 8th August 1942 while launching the Quit India Movement.",
+      "tip": "Non-Cooperation (1920) promised Swaraj in one year; Quit India (1942) demanded complete and immediate withdrawal with the mantra 'Do or Die'.",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary History",
+      "en": "Who established the branch of 'Swaraj Dal' in Bihar in February 1923?",
+      "hi": "फरवरी 1923 में बिहार में 'स्वराज्य दल' की शाखा का गठन किसने किया था?",
+      "options": [
+        "Shri Krishna Singh",
+        "Dr. Anugrah Narayan Sinha",
+        "Deep Narayan Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Shri Krishna Singh",
+      "explanation": "Following the Gaya Congress Session of 1922, a Bihar branch of the Swaraj Party was established in February 1923 under the leadership of Dr. Shri Krishna Singh (first Premier/Chief Minister of Bihar).",
+      "tip": "National founders = C.R. Das and Motilal Nehru; Bihar leader = Dr. Shri Krishna Singh ('Bihar Kesari').",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Science",
+      "en": "The atmospheric pressure at sea level is measured by which instrument?",
+      "hi": "समुद्र तल पर वायुमंडलीय दबाव को किस उपकरण द्वारा मापा जाता है?",
+      "options": [
+        "Hydrometer",
+        "Barometer",
+        "Hygrometer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Barometer",
+      "explanation": "Atmospheric pressure is measured by a mercury or aneroid barometer, invented by Evangelista Torricelli in 1643. Standard atmospheric pressure is 760 mm of Hg (1 atm = 101.3 kPa).",
+      "tip": "Instruments guide: Barometer = Atmospheric pressure; Hygrometer = Relative humidity; Hydrometer = Specific gravity of liquids.",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Science",
+      "en": "The primary constituent of compressed natural gas (CNG) and biogas is(",
+      "hi": "संपीड़ित प्राकृतिक गैस (CNG) और बायो-गैस का मुख्य घटक है)",
+      "options": [
+        "Propane",
+        "Methane",
+        "Butane",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Methane",
+      "explanation": "Methane (CH4) accounts for 75% to 95% of compressed natural gas (CNG) and between 50% to 70% of biogas (gobar gas). Liquefied Petroleum Gas (LPG) predominantly contains butane and propane.",
+      "tip": "CNG & Biogas = Methane (CH4); LPG (cooking gas cylinders) = Butane and Propane (with ethyl mercaptan odorant).",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Science",
+      "en": "Which blood group in humans is recognized as the 'Universal Recipient'?(",
+      "hi": "मानवों में किस रक्त समूह को 'सर्वग्राही' (Universal Recipient) कहा जाता है?)",
+      "options": [
+        "O positive",
+        "AB positive",
+        "O negative",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "AB positive",
+      "explanation": "Blood group AB positive (AB+) contains both A and B antigens on RBCs and the Rh factor, with no anti-A, anti-B, or anti-Rh antibodies in serum, allowing it to safely receive all blood types.",
+      "tip": "Universal Donor = O negative (O-); Universal Recipient = AB positive (AB+).",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Science",
+      "en": "The basic microscopic structural and functional filtration unit of the human kidney is(",
+      "hi": "मानव वृक्क (गुर्दे) की सूक्ष्म संरचनात्मक एवं क्रियात्मक निस्यंदन इकाई है)",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveoli",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nephron",
+      "explanation": "Each human kidney contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, and renal tubule that filter blood and form urine.",
+      "tip": "Nephron = Kidney functional unit; Neuron = Nervous system unit; Alveoli = Respiratory gas exchange unit.",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Science",
+      "en": "What is the chemical formula of bleaching powder?(",
+      "hi": "ब्लीचिंग पाउडर (विरंजक चूर्ण) का रासायनिक सूत्र क्या है?)",
+      "options": [
+        "CaSO4·2H2O",
+        "CaOCl2",
+        "NaHCO3",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "CaOCl2",
+      "explanation": "Bleaching powder is chemically calcium oxychloride (CaOCl2), manufactured by reacting dry slaked lime with chlorine gas: Ca(OH)2 + Cl2 -> CaOCl2 + H2O.",
+      "tip": "Plaster of Paris = CaSO4·1/2H2O; Gypsum = CaSO4·2H2O; Baking Soda = NaHCO3; Bleaching Powder = CaOCl2.",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Chemistry",
+      "en": "The chemical formula of washing soda is(",
+      "hi": "धावन सोडा (वाशिंग सोडा) का रासायनिक सूत्र है)",
+      "options": [
+        "Na2CO3·10H2O",
+        "NaHCO3",
+        "NaOH",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Na2CO3·10H2O",
+      "explanation": "Washing soda is sodium carbonate decahydrate (Na2CO3·10H2O), containing 10 molecules of water of crystallization. Anhydrous sodium carbonate (Na2CO3) is termed soda ash.",
+      "tip": "Washing Soda = Na2CO3·10H2O; Baking Soda = NaHCO3; Caustic Soda = NaOH.",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Science",
+      "en": "The image formed by the convex lens of the human eye on the retina is",
+      "hi": "मानव नेत्र के उत्तल लेंस द्वारा रेटिना पर बनने वाला प्रतिबिंब होता है",
+      "options": [
+        "Virtual and erect",
+        "Real and inverted",
+        "Real and erect",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Real and inverted",
+      "explanation": "The converging eye lens projects a real, inverted, and diminished image onto the photosensitive retina, which the brain's visual cortex perceives as upright.",
+      "tip": "The retinal optical image is always real and inverted; brain processing renders it upright.",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5)",
+      "en": "Which vitamin is synthesized endogenously in the human body upon exposure to sunlight?",
+      "hi": "सूर्य के प्रकाश के संपर्क में आने पर मानव शरीर में किस विटामिन का संश्लेषण होता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vitamin D",
+      "explanation": "UV-B radiation in sunlight converts 7-dehydrocholesterol in the epidermal layer of the skin into cholecalciferol (Vitamin D3), essential for calcium homeostasis.",
+      "tip": "Vitamin D deficiency causes Rickets in children and Osteomalacia in adults.",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Science",
+      "en": "Brass is an alloy composed of(",
+      "hi": "पीतल (Brass) एक मिश्रधातु है, जो बनी होती है)",
+      "options": [
+        "Copper and Tin",
+        "Copper and Zinc",
+        "Lead and Tin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Copper and Zinc",
+      "explanation": "Brass is a non-ferrous alloy of Copper (approx. 70%) and Zinc (approx. 30%). Bronze is an alloy of Copper and Tin.",
+      "tip": "Memory trick: Brass = Cu + Zn (पीतल); Bronze = Cu + Sn (कांसा); Solder = Pb + Sn (टांका).",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Science",
+      "en": "The splitting of white beam of light into its seven constituent spectral colours through a prism is called",
+      "hi": "प्रिज्म से होकर गुजरने पर श्वेत प्रकाश का अपने सात अवयवी रंगों में विभक्त होना कहलाता है",
+      "options": [
+        "Refraction",
+        "Dispersion",
+        "Total internal reflection",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dispersion",
+      "explanation": "Dispersion occurs because light of different wavelengths travels at different speeds through the glass prism, resulting in differing angles of deviation (violet deviates the most, red the least).",
+      "tip": "Rainbow formation involves refraction, dispersion, and total internal reflection in raindrops.",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science",
+      "en": "Guru Shikhar, the highest mountain peak of the Aravalli Range, is located in which State?",
+      "hi": "अरावली पर्वतमाला की सर्वोच्च चोटी 'गुरु शिखर' किस राज्य में स्थित है?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajasthan",
+      "explanation": "Guru Shikhar (elevation 1,722 metres) is the highest peak of the ancient fold Aravalli Range, situated at Mount Abu in the Sirohi district of southern Rajasthan.",
+      "tip": "Aravallis are the oldest fold mountains in India; Guru Shikhar is its culminating summit.",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "Majuli, recognized as the world's largest inhabited river island, is located on which river in Assam?",
+      "hi": "विश्व का सबसे बड़ा आबाद नदी द्वीप 'माजुली' असम में किस नदी पर स्थित है?",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Barak",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Brahmaputra",
+      "explanation": "Majuli is a fluvial river island formed by the Brahmaputra River and its anabranch the Kherkutia Xuti, joined by the Subansiri River in Upper Assam.",
+      "tip": "Majuli is also India's first island district (declared in 2016) and a prominent hub of Neo-Vaishnavite culture.",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science",
+      "en": "The Tropic of Cancer (23°30' N latitude) passes through how many Indian States?(",
+      "hi": "कर्क रेखा (23°30' उत्तरी अक्षांश) भारत के कितने राज्यों से होकर गुजरती है?)",
+      "options": [
+        "7 States",
+        "8 States",
+        "9 States",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "8 States",
+      "explanation": "The Tropic of Cancer traverses 8 Indian States from west to east: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+      "tip": "Mnemonic from West to East: 'GRM-CJ-WTM' -> Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram.",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "The Standard Meridian of India (82°30' E longitude) passes through which of the following cities?(",
+      "hi": "भारत की मानक याम्योत्तर रेखा (82°30' पूर्वी देशांतर) निम्नलिखित में से किस शहर से होकर गुजरती है?)",
+      "options": [
+        "Patna",
+        "Mirzapur (Prayagraj)",
+        "Bhopal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mirzapur (Prayagraj)",
+      "explanation": "The Standard Meridian of India passes through Mirzapur (near Prayagraj, UP) along 82°30' E longitude, which is 5 hours and 30 minutes ahead of Greenwich Mean Time (UTC+05:30).",
+      "tip": "The 82°30' E meridian traverses 5 States: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh.",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Geography",
+      "en": "The highest peak of Bihar, the Someshwar Fort (880 m), is situated in which district?(",
+      "hi": "बिहार की सर्वोच्च चोटी 'सोमेश्वर किला' (880 मीटर) किस जिले में स्थित है?)",
+      "options": [
+        "Rohtas",
+        "West Champaran",
+        "Nalanda",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "West Champaran",
+      "explanation": "The Someshwar Hills represent the foothills of the Shiwalik Himalayas extending along the northern border of West Champaran district, culminating at Someshwar Fort (880 m).",
+      "tip": "Valmiki National Park and Tiger Reserve, Bihar's only national park, is also situated in the Someshwar-Doon range in West Champaran.",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "The River Ganga enters the territory of Bihar in which district?",
+      "hi": "गंगा नदी बिहार के भू-भाग में किस जिले में प्रवेश करती है?",
+      "options": [
+        "Bhojpur",
+        "Buxar (at Chausa)",
+        "Saran",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Buxar (at Chausa)",
+      "explanation": "The Ganga enters Bihar near Chausa in Buxar district from Uttar Pradesh and traverses 445 km eastward across 12 districts before exiting via Katihar into West Bengal.",
+      "tip": "Ganga in Bihar: Enters at Buxar (Chausa), longest stretch in Patna district (approx. 99 km), exits at Katihar/Bhagalpur.",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster Examination",
+      "en": "What is the total geographical area of the State of Bihar?",
+      "hi": "बिहार राज्य का कुल भौगोलिक क्षेत्रफल कितना है?",
+      "options": [
+        "94,163 sq km",
+        "84,210 sq km",
+        "104,320 sq km",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "94,163 sq km",
+      "explanation": "The total area of Bihar is 94,163 square kilometres, which constitutes approximately 2.86% of India's total geographical area, ranking it 12th by land area in India.",
+      "tip": "Bihar area: 94,163 sq km; 2.86% of India; 3rd largest State by population (Census 2011).",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Geography",
+      "en": "As per the Census 2011, which district of Bihar recorded the lowest overall literacy rate?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले में समग्र साक्षरता दर सबसे कम दर्ज की गई थी?",
+      "options": [
+        "Kishanganj",
+        "Purnia",
+        "Sitamarhi",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Purnia",
+      "explanation": "According to Census 2011, Purnia district had the lowest overall literacy rate in Bihar (51.08%). Rohtas district recorded the highest overall literacy rate (73.37%).",
+      "tip": "Literacy extremes in Bihar: Lowest overall = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%); Highest literacy (overall, male, female) = Rohtas.",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "Kanwar Lake (Kabartal), designated as Bihar's first Ramsar wetland site of international importance, is located in which district?(",
+      "hi": "बिहार का पहला रामसर आर्द्रभूमि स्थल 'कांवर झील' (काबरताल) किस जिले में स्थित है?)",
+      "options": [
+        "Darbhanga",
+        "Begusarai",
+        "Samastipur",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Begusarai",
+      "explanation": "Kanwar Lake in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi Gandak River, designated as a Ramsar site in July 2020.",
+      "tip": "Oxbow lake formation = Burhi Gandak River; Location = Begusarai; Significance = 39th Ramsar site of India.",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science",
+      "en": "The concept of 'Fundamental Duties' in the Constitution of India was borrowed from the Constitution of which country?",
+      "hi": "भारतीय संविधान में 'मौलिक कर्तव्यों' की अवधारणा किस देश के संविधान से ली गई थी?",
+      "options": [
+        "USA",
+        "USSR (Soviet Union)",
+        "Ireland",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "USSR (Soviet Union)",
+      "explanation": "Fundamental Duties were incorporated into Part IV-A (Article 51A) by the 42nd Amendment Act, 1976 on the recommendations of the Swaran Singh Committee, inspired by the Constitution of the USSR.",
+      "tip": "Borrowing sources: Fundamental Duties = USSR; Fundamental Rights = USA; DPSP = Ireland; Parliamentary system = UK.",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Political Science",
+      "en": "Who among the following presides over the joint sitting of both Houses of Parliament in India?",
+      "hi": "भारत में संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता निम्नलिखित में से कौन करता है?",
+      "options": [
+        "President of India",
+        "Speaker of the Lok Sabha",
+        "Chairman of the Rajya Sabha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Speaker of the Lok Sabha",
+      "explanation": "Under Article 118(4) of the Indian Constitution, the Speaker of the Lok Sabha presides over a joint sitting of Parliament. The President summons the joint sitting under Article 108.",
+      "tip": "Chairman of Rajya Sabha (Vice-President) never presides over a joint sitting as he is not a member of either House.",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "What is the minimum age prescribed by the Constitution of India to become a member of the Rajya Sabha?",
+      "hi": "भारत के संविधान के अनुसार राज्य सभा का सदस्य बनने के लिए न्यूनतम निर्धारित आयु क्या है?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "30 years",
+      "explanation": "Article 84(b) stipulates that a candidate must be not less than 30 years of age for the Rajya Sabha and not less than 25 years for the Lok Sabha.",
+      "tip": "Constitutional Age Floor: Panchayat/Municipality = 21 years; Lok Sabha/Vidhan Sabha = 25 years; Rajya Sabha/Vidhan Parishad = 30 years; President/Governor = 35 years.",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science",
+      "en": "Which Article of the Constitution of India formally abolishes 'Untouchability' and forbids its practice in any form?",
+      "hi": "भारतीय संविधान का कौन-सा अनुच्छेद 'अस्पृश्यता' का उन्मूलन करता है और किसी भी रूप में इसके आचरण को निषिद्ध करता है?",
+      "options": [
+        "Article 14",
+        "Article 17",
+        "Article 21",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 17",
+      "explanation": "Article 17 declares that 'Untouchability' is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of untouchability is an offence punishable in accordance with law.",
+      "tip": "Enforced by Parliament through the Protection of Civil Rights Act, 1955.",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Political Science",
+      "en": "The three-tier Panchayati Raj System was first inaugurated in India on 2nd October 1959 in which district?",
+      "hi": "भारत में त्रिस्तरीय पंचायती राज व्यवस्था का उद्घाटन सर्वप्रथम 2 अक्टूबर 1959 को किस जिले में हुआ था?",
+      "options": [
+        "Belgaum (Karnataka)",
+        "Nagaur (Rajasthan)",
+        "Sabarkantha (Gujarat)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nagaur (Rajasthan)",
+      "explanation": "Prime Minister Jawaharlal Nehru inaugurated democratic decentralization via the 3-tier Panchayati Raj system on Mahatma Gandhi's birthday in 1959 at Nagaur, Rajasthan, following the Balwant Rai Mehta Committee report.",
+      "tip": "1st State to adopt Panchayati Raj = Rajasthan (Oct 1959); 2nd State = Andhra Pradesh (Nov 1959).",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Math-Science",
+      "en": "If the perimeter of a semi-circular protractor is 36 cm, what is its radius? (Take pi = 22/7)(",
+      "hi": "यदि एक अर्धवृत्ताकार चांदे का परिमाप 36 सेमी है, तो इसकी त्रिज्या क्या होगी? (pi = 22/7 लें))",
+      "options": [
+        "14 cm",
+        "7 cm",
+        "21 cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7 cm",
+      "explanation": "Perimeter of semi-circle = pi*r + 2r = r(pi + 2) = r(22/7 + 2) = r(36/7). Given perimeter = 36 cm: r * (36/7) = 36 => r = 7 cm.",
+      "tip": "Common error: Do not use pi*r alone. The perimeter of a semi-circle includes its straight diameter boundary: P = r(pi + 2).",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Math-Science",
+      "en": "A train 150 metres long crosses a telegraph pole in 15 seconds. What is the speed of the train in km/h?",
+      "hi": "150 मीटर लंबी एक रेलगाड़ी एक टेलीग्राफ खंभे को 15 सेकंड में पार करती है। रेलगाड़ी की गति किमी/घंटा में क्या है?",
+      "options": [
+        "10 km/h",
+        "36 km/h",
+        "54 km/h",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "36 km/h",
+      "explanation": "Speed = Distance / Time = 150 m / 15 s = 10 m/s. Converting to km/h: 10 * (18/5) = 36 km/h.",
+      "tip": "Conversion factor: m/s to km/h = multiply by 18/5; km/h to m/s = multiply by 5/18.",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Math-Science",
+      "en": "What is the sum of the interior angles of a regular hexagon?(",
+      "hi": "एक सम-षट्भुज (regular hexagon) के अंतःकोणों का योग कितना होता है?)",
+      "options": [
+        "540 degrees",
+        "720 degrees",
+        "1080 degrees",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "720 degrees",
+      "explanation": "Formula for sum of interior angles of an n-sided polygon = (n - 2) * 180 degrees. For a hexagon (n = 6): (6 - 2) * 180 = 4 * 180 = 720 degrees.",
+      "tip": "Each interior angle of a regular hexagon = 720 / 6 = 120 degrees.",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Math-Science",
+      "en": "If a : b = 2 : 3 and b : c = 4 : 5, then the compound ratio a : b : c is",
+      "hi": "यदि a : b = 2 : 3 तथा b : c = 4 : 5 हो, तो मिश्रित अनुपात a : b : c होगा",
+      "options": [
+        "8 : 12 : 15",
+        "6 : 9 : 15",
+        "8 : 10 : 15",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8 : 12 : 15",
+      "explanation": "Equalize the common term b: a:b = 2*4 : 3*4 = 8:12, and b:c = 4*3 : 5*3 = 12:15. Hence, a:b:c = 8:12:15.",
+      "tip": "Standard ratio combination: a:b:c = (2*4) : (3*4) : (3*5) = 8 : 12 : 15.",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5)",
+      "en": "In an aquatic ecosystem (such as a pond or deep lake), the pyramid of biomass is typically(",
+      "hi": "एक जलीय पारिस्थितिकी तंत्र (जैसे तालाब या गहरी झील) में जैव-भार (बायोमास) का पिरामिड प्रायः होता है)",
+      "options": [
+        "Upright",
+        "Inverted",
+        "Linear",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Inverted",
+      "explanation": "In aquatic ecosystems, the standing biomass of primary producers (microscopic phytoplankton) at any given moment is far smaller than the biomass of long-lived zooplankton and predatory fish that consume them, resulting in an inverted pyramid of biomass.",
+      "tip": "Pyramid of energy is ALWAYS upright in all ecosystems. Pyramid of biomass is inverted in aquatic/oceanic ecosystems and upright in terrestrial/forest ecosystems.",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Geography",
+      "en": "The Kyoto Protocol, adopted internationally in 1997, is specifically aimed at",
+      "hi": "1997 में अंतरराष्ट्रीय स्तर पर अपनाया गया 'क्योटो प्रोटोकॉल' विशेष रूप से किससे संबंधित है?",
+      "options": [
+        "Depletion of stratospheric ozone layer",
+        "Reduction of greenhouse gas emissions to combat climate change",
+        "Conservation of endangered migratory bird species",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Reduction of greenhouse gas emissions to combat climate change",
+      "explanation": "The Kyoto Protocol committed industrialized nations to legally binding greenhouse gas reduction targets (targeting 6 gases: CO2, CH4, N2O, HFCs, PFCs, and SF6) under the UNFCCC framework.",
+      "tip": "Montreal Protocol (1987) = Ozone layer protection (CFC phase-out); Kyoto Protocol (1997) = Greenhouse gases & Global warming.\nAnswer Key Summary Table — Set 4 (Q.121 to Q.160)\nQ. No.\nBPSC Edition & Paper Origin\nCore Conceptual Focus\nOfficial Key",
+      "id": 40
+    }
+  ]
+}

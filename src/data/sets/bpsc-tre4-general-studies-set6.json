@@ -1,0 +1,731 @@
+{
+  "id": "bpsc-tre4-general-studies-set6",
+  "title": "General Studies Practice Set 6 (40Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Studies",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 40,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "A car travels at a speed of 54 km/h. How many metres does it travel in 20 seconds?",
+      "hi": "एक कार 54 किमी/घंटा की गति से चल रही है। वह 20 सेकंड में कितने मीटर की दूरी तय करेगी?",
+      "options": [
+        "250 metres",
+        "300 metres",
+        "350 metres",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "300 metresDetailed",
+      "explanation": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.💡 Exam Setter's Tips & Quick Tricks: Multiply km/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m.",
+      "tip": "",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "If the radius of a circle is decreased by 50%, by what percentage does its area decrease?",
+      "hi": "यदि किसी वृत्त की त्रिज्या 50% घटा दी जाए, तो उसके क्षेत्रफल में कितने प्रतिशत की कमी होगी?",
+      "options": [
+        "50%",
+        "75%",
+        "100%",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "75%Detailed",
+      "explanation": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. Percentage reduction = (1 - 0.25) * 100 = 75%.💡 Exam Setter's Tips & Quick Tricks: Successive percentage formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%.",
+      "tip": "",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "In an election between two candidates, the winner received 58% of the total valid votes and won by a majority of 1,600 votes. What was the total number of valid votes polled?",
+      "hi": "दो उम्मीदवारों के बीच एक चुनाव में, विजेता को कुल वैध मतों का 58% प्राप्त हुआ और वह 1,600 मतों के बहुमत से जीता। कुल वैध मतों की संख्या क्या थी?",
+      "options": [
+        "8,000",
+        "10,000",
+        "12,000",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10,000Detailed",
+      "explanation": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.💡 Exam Setter's Tips & Quick Tricks: Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes.",
+      "tip": "",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
+      "hi": "यदि x + 1/x = 4 है, तो x^2 + 1/x^2 का मान क्या होगा?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "14Detailed",
+      "explanation": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.💡 Exam Setter's Tips & Quick Tricks: Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14.",
+      "tip": "",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Two pipes A and B can fill a cistern in 20 minutes and 30 minutes respectively. If both pipes are opened simultaneously, in how much time will the cistern be completely filled?",
+      "hi": "दो नल A और B किसी टंकी को क्रमशः 20 मिनट और 30 मिनट में भर सकते हैं। यदि दोनों नलों को एक साथ खोल दिया जाए, तो टंकी कितने समय में पूरी भर जाएगी?",
+      "options": [
+        "10 minutes",
+        "12 minutes",
+        "15 minutes",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "12 minutesDetailed",
+      "explanation": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per minute. Time required = 12 minutes.💡 Exam Setter's Tips & Quick Tricks: Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 minutes.",
+      "tip": "",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "What is the angle between the hour hand and minute hand of a clock at 3:30?",
+      "hi": "घड़ी में 3 बजकर 30 मिनट पर घंटे और मिनट की सुइयों के बीच कितने अंश का कोण होगा?",
+      "options": [
+        "70°",
+        "75°",
+        "80°",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "75°Detailed",
+      "explanation": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.💡 Exam Setter's Tips & Quick Tricks: Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°.",
+      "tip": "",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "In a class of 45 students, Rohan ranks 18th from the top. What is his rank from the bottom?",
+      "hi": "45 छात्रों की एक कक्षा में रोहन का स्थान शीर्ष से 18वां है। नीचे से उसका स्थान क्या होगा?",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "28thDetailed",
+      "explanation": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.💡 Exam Setter's Tips & Quick Tricks: Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th.",
+      "tip": "",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Find the missing number in the sequence: 4, 9, 19, 39, 79, ?",
+      "hi": "अनुक्रम में लुप्त संख्या ज्ञात कीजिए: 4, 9, 19, 39, 79, ?",
+      "options": [
+        "149",
+        "159",
+        "169",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "159Detailed",
+      "explanation": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.💡 Exam Setter's Tips & Quick Tricks: Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159.",
+      "tip": "",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The brilliant sparkling brilliance of diamond is primarily attributable to which physical phenomenon?",
+      "hi": "हीरे की अत्यधिक चमक मुख्यतः किस भौतिक परिघटना के कारण होती है?",
+      "options": [
+        "High optical dispersion",
+        "Total Internal Reflection with a very small critical angle",
+        "External scattering of light rays",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Total Internal Reflection with a very small critical angleDetailed",
+      "explanation": "Diamond has a very high refractive index (2.42), which results in an exceptionally small critical angle of approximately 24.4°. Light entering a properly cut diamond undergoes multiple total internal reflections before emerging.💡 Exam Setter's Tips & Quick Tricks: Diamond brilliance = Total Internal Reflection (TIR) + high refractive index (2.42).",
+      "tip": "",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "What is the chemical name and formula of ordinary baking soda used in cooking?",
+      "hi": "रसोई में प्रयुक्त होने वाले साधारण बेकिंग सोडा का रासायनिक नाम और सूत्र क्या है?",
+      "options": [
+        "Sodium Carbonate, Na2CO3",
+        "Sodium Hydrogen Carbonate, NaHCO3",
+        "Calcium Carbonate, CaCO3",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sodium Hydrogen Carbonate, NaHCO3Detailed",
+      "explanation": "Baking soda is sodium bicarbonate / sodium hydrogen carbonate, NaHCO3. When heated during baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.💡 Exam Setter's Tips & Quick Tricks: Baking Soda = NaHCO3 (Bicarbonate); Washing Soda = Na2CO3 · 10H2O.",
+      "tip": "",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which cellular components of human blood are primarily responsible for blood clotting (coagulation) at the site of a wound?(",
+      "hi": "मानव रक्त का कौन-सा कोशिकीय घटक घाव लगने पर रक्त का थक्का (Coagulation) जमाने के लिए मुख्य रूप से उत्तरदायी है?)",
+      "options": [
+        "Erythrocytes (RBCs)",
+        "Thrombocytes (Blood Platelets)",
+        "Leucocytes (WBCs)",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Thrombocytes (Blood Platelets)Detailed",
+      "explanation": "Blood platelets (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.💡 Exam Setter's Tips & Quick Tricks: Clotting cells = Platelets (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K.",
+      "tip": "",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "A person suffering from myopia (near-sightedness) is prescribed spectacles containing which type of optical lens?(",
+      "hi": "निकट दृष्टि दोष (Myopia) से पीड़ित व्यक्ति के चश्मे में किस प्रकार के लेंस का प्रयोग किया जाता है?)",
+      "options": [
+        "Convex Lens",
+        "Concave Lens",
+        "Cylindrical Lens",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Concave LensDetailed",
+      "explanation": "In myopia, light rays converge in front of the retina. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the retina.💡 Exam Setter's Tips & Quick Tricks: Myopia (Near-sighted) = Concave Lens; Hypermetropia (Far-sighted) = Convex Lens; Astigmatism = Cylindrical Lens.",
+      "tip": "",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which synthetic fibre is prepared by the chemical treatment of natural wood pulp and is popularly known as 'Artificial Silk'?(",
+      "hi": "प्राकृतिक काष्ठ की लुगदी के रासायनिक उपचार से तैयार किए जाने वाले किस कृत्रिम रेशे को 'कृत्रिम रेशम' (Artificial Silk) कहा जाता है?)",
+      "options": [
+        "Nylon",
+        "Rayon",
+        "Polyester",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "RayonDetailed",
+      "explanation": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and sodium hydroxide. It possesses a lustrous silk-like appearance and soft texture.💡 Exam Setter's Tips & Quick Tricks: Artificial Silk = Rayon (from wood pulp); First fully synthetic fibre = Nylon.",
+      "tip": "",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which blood group is universally known as the 'Universal Donor' because its red blood cells lack both A and B surface antigens?(",
+      "hi": "किस रक्त समूह को 'सर्वदाता' (Universal Donor) कहा जाता है क्योंकि इसकी लाल रक्त कोशिकाओं में A और B दोनों प्रतिजन (Antigens) अनुपस्थित होते हैं?)",
+      "options": [
+        "AB Positive",
+        "O Negative",
+        "B Positive",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "O NegativeDetailed",
+      "explanation": "Blood group O Negative has neither A nor B antigens, and also lacks the Rh(D) factor. Consequently, it can be transfused safely to recipients of any ABO and Rh blood group without triggering acute hemolytic agglutination.💡 Exam Setter's Tips & Quick Tricks: Universal Donor = O Negative (O-); Universal Recipient = AB Positive (AB+).",
+      "tip": "",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "At constant temperature, the volume of a given mass of dry gas is inversely proportional to its pressure. This fundamental gas law is known as",
+      "hi": "नियत तापमान पर, किसी गैस के निश्चित द्रव्यमान का आयतन उसके दाब के व्युत्क्रमानुपाती होता है। यह नियम कहलाता है",
+      "options": [
+        "Charles's Law",
+        "Boyle's Law",
+        "Gay-Lussac's Law",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Boyle's LawDetailed",
+      "explanation": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.💡 Exam Setter's Tips & Quick Tricks: Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T).",
+      "tip": "",
+      "id": 15
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which international treaty, signed in 1987, was successfully designed to phase out the production and consumption of chlorofluorocarbons (CFCs) to protect the stratospheric ozone layer?(1987",
+      "hi": "में हस्ताक्षरित कौन-सी अंतर्राष्ट्रीय संधि समतापमंडलीय ओजोन परत के संरक्षण हेतु क्लोरोफ्लोरोकार्बन (CFCs) के उत्पादन को समाप्त करने के लिए तैयार की गई थी?)",
+      "options": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Basel Convention",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Montreal ProtocolDetailed",
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 September 1987 (commemorated globally as World Ozone Day) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.💡 Exam Setter's Tips & Quick Tricks: Ozone Layer protection = Montreal Protocol (1987); Greenhouse Gas reduction = Kyoto Protocol (1997).",
+      "tip": "",
+      "id": 16
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The revolutionary 'Ghadar Party' was established in 1913 in the United States with its headquarters at which city?",
+      "hi": "1913 में संयुक्त राज्य अमेरिका में क्रांतिकारी 'गदर पार्टी' की स्थापना किस शहर में मुख्यालय बनाकर की गई थी?",
+      "options": [
+        "New York",
+        "San Francisco (Yugantar Ashram)",
+        "Vancouver",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "San Francisco (Yugantar Ashram)Detailed",
+      "explanation": "The Ghadar Party was founded in 1913 by Lala Har Dayal, Sohan Singh Bhakna (President), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.💡 Exam Setter's Tips & Quick Tricks: Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna.",
+      "tip": "",
+      "id": 17
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The historic peasant agitation known as the 'Bakhasht Movement' was organized in the Barahiya Tal area of Munger under the leadership of",
+      "hi": "मुंगेर के बड़हिया टाल क्षेत्र में ऐतिहासिक 'बकाश्त आंदोलन' का नेतृत्व किसने किया था?",
+      "options": [
+        "Swami Sahajanand Saraswati",
+        "Karyanand Sharma",
+        "Yadunandan Sharma",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Karyanand SharmaDetailed",
+      "explanation": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement during 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.💡 Exam Setter's Tips & Quick Tricks: Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma.",
+      "tip": "",
+      "id": 18
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who served as the first Premier (Prime Minister) of Bihar Province under the Government of India Act 1935 prior to the assumption of office by the Congress Ministry in July 1937?(",
+      "hi": "जुलाई 1937 में कांग्रेस मंत्रिमंडल के पदभार ग्रहण करने से पूर्व भारत शासन अधिनियम 1935 के तहत बिहार प्रांत के प्रथम प्रीमियर (प्रधानमंत्री) कौन बने थे?)",
+      "options": [
+        "Dr. Sri Krishna Singh",
+        "Mohammad Yunus",
+        "Sachchidananda Sinha",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mohammad YunusDetailed",
+      "explanation": "When the Congress initially declined to form a government over the Governor's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 April 1937, serving until Sri Krishna Singh took oath on 20 July 1937.💡 Exam Setter's Tips & Quick Tricks: First Premier of Bihar = Mohammad Yunus (Interim); First Congress Chief Minister = Sri Krishna Singh.",
+      "tip": "",
+      "id": 19
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The famous ancient rock-cut caves of 'Barabar Hills' in Jehanabad district of Bihar were excavated during the Mauryan period for which ascetic sect?",
+      "hi": "बिहार के जहानाबाद जिले की प्रसिद्ध प्राचीन 'बराबर की गुफाएं' मौर्य काल में किस संप्रदाय के तपस्वियों के लिए उत्कीर्ण की गई थीं?",
+      "options": [
+        "Buddhism",
+        "Ajivika Sect",
+        "Jainism",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ajivika SectDetailed",
+      "explanation": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.💡 Exam Setter's Tips & Quick Tricks: Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala).",
+      "tip": "",
+      "id": 20
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "What is the southern-most point of the sovereign territory of the Republic of India?(",
+      "hi": "भारतीय गणराज्य के संप्रभु क्षेत्र का सुदूर दक्षिणतम बिंदु (Southern-most point) कौन-सा है?)",
+      "options": [
+        "Kanyakumari (Cape Comorin)",
+        "Indira Point (Pygmalion Point)",
+        "Rameswaram",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Indira Point (Pygmalion Point)Detailed",
+      "explanation": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.💡 Exam Setter's Tips & Quick Tricks: Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari.",
+      "tip": "",
+      "id": 21
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The River Son, an important right-bank tributary originating in Amarkantak, joins the River Ganga near which location in Bihar?",
+      "hi": "अमरकंटक से निकलने वाली गंगा की प्रमुख दाहिनी सहायक नदी 'सोन' बिहार में किस स्थल के निकट गंगा में मिलती है?",
+      "options": [
+        "Fatuha",
+        "Danapur (Maner / Patna)",
+        "Mokama",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Danapur (Maner / Patna)Detailed",
+      "explanation": "The Son river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the Ganga just west of Danapur / Maner in Patna district. Punpun joins Ganga at Fatuha.💡 Exam Setter's Tips & Quick Tricks: Son meets Ganga at Danapur/Maner; Punpun meets Ganga at Fatuha; Gandak meets Ganga at Sonpur/Hajipur.",
+      "tip": "",
+      "id": 22
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which district in Bihar possesses the vast majority of the State's commercial limestone deposits utilized by cement industrial units?(",
+      "hi": "बिहार के किस जिले में राज्य के विशाल चूना पत्थर (Limestone) के भंडार स्थित हैं, जिनका उपयोग सीमेंट कारखानों द्वारा किया जाता है?)",
+      "options": [
+        "Gaya",
+        "Rohtas and Kaimur",
+        "Munger",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rohtas and KaimurDetailed",
+      "explanation": "High-grade limestone belonging to the Vindhyan geological system occurs along the Kaimur plateau in Rohtas (Banjari, Rohtasgarh) and Kaimur districts, supporting major cement plants at Dalmianagar and Banjari.💡 Exam Setter's Tips & Quick Tricks: Limestone & Pyrite = Rohtas / Kaimur (Vindhyan rocks); Mica = Nawada / Gaya / Jamui.",
+      "tip": "",
+      "id": 23
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who among the following was martyred by hanging for assassinating Phanindra Nath Ghosh, the government approver in the Lahore Conspiracy Case?",
+      "hi": "लाहौर षड्यंत्र केस के सरकारी गवाह फणीन्द्र नाथ घोष की हत्या करने के कारण निम्नलिखित में से किसे फांसी की सजा दी गई थी?",
+      "options": [
+        "Batukeshwar Dutt",
+        "Baikunth Shukla",
+        "Jogendra Shukla",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Baikunth ShuklaDetailed",
+      "explanation": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in November 1932 to avenge the martyrdom of Bhagat Singh, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 May 1934.💡 Exam Setter's Tips & Quick Tricks: Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934).",
+      "tip": "",
+      "id": 24
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Through how many States of India does the Tropic of Cancer (23°30' N) pass?(",
+      "hi": "कर्क रेखा (23°30' उत्तरी अक्षांश) भारत के कितने राज्यों से होकर गुजरती है?)",
+      "options": [
+        "7 States",
+        "8 States",
+        "9 States",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "8 StatesDetailed",
+      "explanation": "The Tropic of Cancer passes through 8 Indian States from West to East: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.💡 Exam Setter's Tips & Quick Tricks: Mnemonic: 'मित्र पर गमछा झार' (Mizoram, Tripura, W.Bengal, Rajasthan, Gujarat, MP, Chhattisgarh, Jharkhand).",
+      "tip": "",
+      "id": 25
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which strait of water separates the island nation of Sri Lanka from the southeastern coast of India?",
+      "hi": "कौन-सा जलडमरूमध्य भारत के दक्षिण-पूर्वी तट को श्रीलंका से अलग करता है?",
+      "options": [
+        "Malacca Strait",
+        "Palk Strait",
+        "Ten Degree Channel",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Palk StraitDetailed",
+      "explanation": "Palk Strait, situated between the Tamil Nadu coast of India and the Jaffna peninsula of Sri Lanka, connects the Bay of Bengal with Palk Bay and the Gulf of Mannar.💡 Exam Setter's Tips & Quick Tricks: India and Sri Lanka = Palk Strait & Gulf of Mannar; Andaman and Nicobar = 10 Degree Channel.",
+      "tip": "",
+      "id": 26
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which famous freshwater lake in Jammu and Kashmir is celebrated as the largest natural freshwater lake in India?",
+      "hi": "जम्मू और कश्मीर में स्थित कौन-सी प्रसिद्ध झील भारत की सबसे बड़ी प्राकृतिक मीठे पानी की झील मानी जाती है?",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Pangong Tso",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Wular LakeDetailed",
+      "explanation": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.💡 Exam Setter's Tips & Quick Tricks: Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha).",
+      "tip": "",
+      "id": 27
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who is the ex-officio Chairperson of the NITI Aayog (National Institution for Transforming India)?(",
+      "hi": "नीति आयोग (NITI Aayog) का पदेन अध्यक्ष कौन होता है?)",
+      "options": [
+        "President of India",
+        "Prime Minister of India",
+        "Union Minister of Finance",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Prime Minister of IndiaDetailed",
+      "explanation": "Established on 1 January 2015 replacing the Planning Commission, the Prime Minister serves as the ex-officio Chairperson of NITI Aayog.💡 Exam Setter's Tips & Quick Tricks: Chairperson of NITI Aayog, National Development Council & Inter-State Council = Prime Minister.",
+      "tip": "",
+      "id": 28
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which Constitutional Amendment incorporated the fundamental right to free and compulsory education for children aged 6 to 14 years under Article 21A?",
+      "hi": "किस संविधान संशोधन द्वारा 6 से 14 वर्ष की आयु के बच्चों के लिए मुफ्त और अनिवार्य शिक्षा को अनुच्छेद 21A के तहत मौलिक अधिकार बनाया गया?",
+      "options": [
+        "42nd Amendment Act 1976",
+        "86th Amendment Act 2002",
+        "91st Amendment Act 2003",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "86th Amendment Act 2002Detailed",
+      "explanation": "The 86th Constitutional Amendment Act 2002 inserted Article 21A into Part III, making elementary education a fundamental right. It also updated Article 45 in DPSP and added 11th fundamental duty in Article 51A(k).💡 Exam Setter's Tips & Quick Tricks: Right to Education (RTE) = 86th Constitutional Amendment 2002 (Article 21A).",
+      "tip": "",
+      "id": 29
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The lunar landing site of ISRO's Chandrayaan-3 lander (Vikram) on the south polar region of the Moon was officially named as(",
+      "hi": "चंद्रमा के दक्षिणी ध्रुव पर इसरो के चंद्रयान-3 के लैंडर (विक्रम) के उतरने वाले स्थल को आधिकारिक रूप से क्या नाम दिया गया है?)",
+      "options": [
+        "Tiranga Point",
+        "Shiv Shakti Point",
+        "Jawahar Point",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Shiv Shakti PointDetailed",
+      "explanation": "Prime Minister Narendra Modi announced that the landing site of Vikram lander on 23 August 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 August declared 'National Space Day'.💡 Exam Setter's Tips & Quick Tricks: Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 August = National Space Day.",
+      "tip": "",
+      "id": 30
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "If a train runs at 40 km/h, it reaches its destination late by 11 minutes, but if it runs at 50 km/h, it is late by only 5 minutes. The correct journey distance is",
+      "hi": "यदि एक रेलगाड़ी 40 किमी/घंटा की गति से चले तो 11 मिनट की देरी से पहुँचती है, परन्तु यदि 50 किमी/घंटा की गति से चले तो केवल 5 मिनट की देरी होती है। यात्रा की सही दूरी क्या है?",
+      "options": [
+        "18 km",
+        "20 km",
+        "22 km",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "20 kmDetailed",
+      "explanation": "Time difference = 11 - 5 = 6 minutes = 6/60 hour = 1/10 hour. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 km.💡 Exam Setter's Tips & Quick Tricks: Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 km.",
+      "tip": "",
+      "id": 31
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The ratio of ages of father and son at present is 7 : 2. After 10 years, the ratio of their ages will be 9 : 4. What is the present age of the father?",
+      "hi": "वर्तमान में पिता और पुत्र की आयु का अनुपात 7 : 2 है। 10 वर्ष बाद उनकी आयु का अनुपात 9 : 4 होगा। पिता की वर्तमान आयु क्या है?",
+      "options": [
+        "35 years",
+        "40 years",
+        "45 years",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "35 yearsDetailed",
+      "explanation": "Let present ages be 7x and 2x. In 10 years: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 years.💡 Exam Setter's Tips & Quick Tricks: Ratio units: (9-7)=2 units in 10 years => 1 unit = 5 years. Father = 7 units = 35 years.",
+      "tip": "",
+      "id": 32
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "A man sells an article at a gain of 15%. If he had bought it at 10% less and sold it for ₹4 less, he would have gained 25%. What is the cost price of the article?",
+      "hi": "एक व्यक्ति एक वस्तु को 15% लाभ पर बेचता है। यदि उसने इसे 10% कम पर खरीदा होता और ₹4 कम में बेचा होता, तो उसे 25% का लाभ होता। वस्तु का क्रय मूल्य क्या है?",
+      "options": [
+        "₹150",
+        "₹160",
+        "₹180",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹160Detailed",
+      "explanation": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.💡 Exam Setter's Tips & Quick Tricks: 115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160.",
+      "tip": "",
+      "id": 33
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "In a mixture of 60 litres, the ratio of milk and water is 2 : 1. How much water must be added to make the ratio of milk to water 1 : 2?",
+      "hi": "60 लीटर के मिश्रण में दूध और पानी का अनुपात 2 : 1 है। इस अनुपात को 1 : 2 करने के लिए इसमें कितना पानी मिलाना होगा?",
+      "options": [
+        "40 litres",
+        "50 litres",
+        "60 litres",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "60 litresDetailed",
+      "explanation": "In 60 litres: Milk = 40 L, Water = 20 L. Let 'x' litres of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 litres.💡 Exam Setter's Tips & Quick Tricks: Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L.",
+      "tip": "",
+      "id": 34
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which vitamin is chemically known as 'Ascorbic Acid' and plays a vital role in collagen synthesis and wound healing?",
+      "hi": "किस विटामिन का रासायनिक नाम 'एस्कॉर्बिक एसिड' है जो कोलेजन संश्लेषण और घाव भरने में महत्वपूर्ण भूमिका निभाता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vitamin CDetailed",
+      "explanation": "Vitamin C (ascorbic acid) is a water-soluble antioxidant vitamin found abundantly in citrus fruits and amla. Its severe deficiency leads to scurvy, characterized by spongy bleeding gums and delayed wound healing.💡 Exam Setter's Tips & Quick Tricks: Ascorbic acid = Vitamin C (Scurvy); Retinol = Vitamin A; Calciferol = Vitamin D; Tocopherol = Vitamin E.",
+      "tip": "",
+      "id": 35
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "What is the main ore of aluminium extracted industrially through the Bayer process?",
+      "hi": "बेयर प्रक्रम द्वारा औद्योगिक रूप से निष्कर्षित एल्युमिनियम का मुख्य अयस्क कौन-सा है?",
+      "options": [
+        "Haematite",
+        "Bauxite",
+        "Galena",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "BauxiteDetailed",
+      "explanation": "Bauxite (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, bauxite is digested in hot sodium hydroxide to produce pure alumina, which is then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.💡 Exam Setter's Tips & Quick Tricks: Aluminium ore = Bauxite; Iron ore = Haematite / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite.",
+      "tip": "",
+      "id": 36
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which green pigment in chloroplasts absorbs solar light energy during photosynthesis?",
+      "hi": "प्रकाश संश्लेषण के दौरान सौर प्रकाश ऊर्जा को अवशोषित करने वाला हरित लवक में मौजूद वर्णक कौन-सा है?",
+      "options": [
+        "Carotenoid",
+        "Chlorophyll",
+        "Anthocyanin",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "ChlorophyllDetailed",
+      "explanation": "Chlorophyll (predominantly Chlorophyll a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.💡 Exam Setter's Tips & Quick Tricks: Photosynthetic green pigment = Chlorophyll (central metal atom = Magnesium, Mg).",
+      "tip": "",
+      "id": 37
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who founded the 'All India Depressed Classes League' in 1935 and served as a veteran freedom fighter and Deputy Prime Minister of India?",
+      "hi": "1935 में 'ऑल इंडिया डिप्रेस्ड क्लासेज लीग' की स्थापना किसने की थी जो वरिष्ठ स्वतंत्रता सेनानी और भारत के उप-प्रधानमंत्री भी रहे?",
+      "options": [
+        "Dr. B. R. Ambedkar",
+        "Babu Jagjivan Ram",
+        "Mahatma Jyotirao Phule",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Babu Jagjivan RamDetailed",
+      "explanation": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.💡 Exam Setter's Tips & Quick Tricks: All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar.",
+      "tip": "",
+      "id": 38
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "In which year was the 'Bihar Socialist Party' formally founded at the Anjuman Islamia Hall in Patna with Acharya Narendra Deva as President and Jayaprakash Narayan as General Secretary?",
+      "hi": "पटना के अंजुमन इस्लामिया हॉल में किस वर्ष आचार्य नरेंद्र देव की अध्यक्षता और जयप्रकाश नारायण के सचिव पद पर 'बिहार सोशलिस्ट पार्टी' का औपचारिक गठन हुआ था?",
+      "options": [
+        "1931",
+        "1934",
+        "1939",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1934Detailed",
+      "explanation": "While an informal group formed in 1931, the formal founding convention of the Bihar Socialist Party (and foundation of Congress Socialist Party) took place at Anjuman Islamia Hall, Patna on 17 May 1934 under Acharya Narendra Deva.💡 Exam Setter's Tips & Quick Tricks: Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (President) & JP (Secretary).",
+      "tip": "",
+      "id": 39
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which national sanctuary in Bihar along the River Ganga in Bhagalpur district is dedicated to the conservation of the endangered Gangetic River Dolphin?",
+      "hi": "भागलपुर जिले में गंगा नदी के किनारे स्थित बिहार का कौन-सा राष्ट्रीय अभयारण्य लुप्तप्राय गंगा डॉल्फिन के संरक्षण के लिए समर्पित है?",
+      "options": [
+        "Valmiki Tiger Reserve",
+        "Vikramshila Gangetic Dolphin Sanctuary",
+        "Kanwar Lake Bird Sanctuary",
+        "More than one of the above",
+        "None of the above\n✔ Official Answer"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vikramshila Gangetic Dolphin SanctuaryDetailed",
+      "explanation": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-km stretch of the Ganga from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.💡 Exam Setter's Tips & Quick Tricks: Gangetic Dolphin Sanctuary = Vikramshila (Bhagalpur); National Aquatic Animal = Gangetic Dolphin (Platanista gangetica).\nAnswer Key Summary Table — Set 6 (Questions 201 to 240)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "tip": "",
+      "id": 40
+    }
+  ]
+}
