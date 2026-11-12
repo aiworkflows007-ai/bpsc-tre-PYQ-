@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: bpsc-tre-practice
+    name: bpsc-tre-pyq
     runtime: static
     buildCommand: npm ci && npm run build
     staticPublishPath: ./dist
