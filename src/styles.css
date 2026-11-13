@@ -14,4 +14,50 @@
 .tip-box b{display:block;margin-bottom:3px;color:#8f5c00}
 .palette>div{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;max-height:380px;overflow-y:auto;padding-right:4px}
 .palette button{height:30px;font-size:12px}
+
+/* Set Progression & 80% Unlock System */
+.progression-banner{display:flex;align-items:center;justify-content:space-between;background:#eff8f6;border:1px solid #cce8e2;border-radius:12px;padding:14px 18px;margin:16px 0 24px;gap:16px}
+.progression-banner-text{display:flex;align-items:center;gap:12px;font-size:14px;color:#102a43}
+.progression-banner-text b{color:#147d75}
+.progression-toggle-btn{background:#fff;border:1px solid #147d75;color:#147d75;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;white-space:nowrap;cursor:pointer;transition:.15s}
+.progression-toggle-btn:hover{background:#147d75;color:#fff}
+.set-card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:16px;margin-top:16px}
+.set-prog-card{position:relative;background:#fff;border:1px solid #e2e8f0;border-radius:14px;padding:22px;display:flex;flex-direction:column;justify-content:space-between;min-height:220px;transition:.2s;box-shadow:0 1px 3px rgba(16,42,67,0.04)}
+.set-prog-card:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(16,42,67,0.08);border-color:#cbd5e1}
+.set-card-locked{background:#f8fafc;border:1px dashed #cbd5e1;opacity:.88}
+.set-card-locked:hover{transform:none;box-shadow:none;border-color:#94a3b8}
+.set-card-mastered{background:#f0fdf4;border:1px solid #86efac}
+.set-card-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:10px}
+.set-number-tag{font-size:11px;font-weight:700;letter-spacing:.08em;color:#64748b;text-transform:uppercase}
+.set-pill{font-size:11px;font-weight:700;padding:4px 9px;border-radius:99px;display:inline-flex;align-items:center;gap:5px}
+.pill-locked{background:#fee2e2;color:#991b1b;border:1px solid #fecaca}
+.pill-ready{background:#e0f2fe;color:#0369a1;border:1px solid #bae6fd}
+.pill-mastered{background:#dcfce7;color:#15803d;border:1px solid #bbf7d0}
+.pill-attempted{background:#fef3c7;color:#92400e;border:1px solid #fde68a}
+.set-prog-card h3{font-size:18px;margin:4px 0 6px;color:#0f172a;line-height:1.3}
+.set-prog-card p{font-size:13px;color:#64748b;margin:0 0 16px;line-height:1.5}
+.set-progress-box{margin-top:auto;padding-top:14px;border-top:1px solid #f1f5f9}
+.set-progress-bar-wrap{position:relative;height:8px;background:#e2e8f0;border-radius:99px;overflow:hidden;margin:8px 0 4px}
+.set-progress-bar-fill{height:100%;border-radius:inherit;transition:width .4s ease}
+.fill-mastered{background:#16a34a}
+.fill-partial{background:#d99a2b}
+.target-marker{position:absolute;left:80%;top:0;bottom:0;width:2px;background:#ef4444;z-index:2}
+.set-progress-labels{display:flex;justify-content:space-between;font-size:11px;color:#64748b;font-weight:600}
+.set-action-btn{margin-top:14px;width:100%;padding:10px 14px;border-radius:8px;font-size:14px;font-weight:700;display:inline-flex;align-items:center;justify-content:center;gap:8px;cursor:pointer;border:0;transition:.15s}
+.btn-unlocked{background:#102a43;color:#fff}
+.btn-unlocked:hover{background:#147d75}
+.btn-locked{background:#e2e8f0;color:#64748b;cursor:not-allowed}
+.btn-mastered{background:#16a34a;color:#fff}
+.btn-mastered:hover{background:#15803d}
+.unlock-celebration-banner{background:#ecfdf5;border:2px solid #34d399;border-radius:12px;padding:20px;margin:20px 0 28px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.unlock-celebration-banner h3{margin:0;font-size:20px;color:#065f46}
+.unlock-celebration-banner p{margin:4px 0 0;font-size:14px;color:#047857}
+.unlock-celebration-banner button{background:#059669;color:#fff;border:0;padding:12px 20px;border-radius:8px;font-weight:700;font-size:14px;cursor:pointer;white-space:nowrap;transition:.15s}
+.unlock-celebration-banner button:hover{background:#047857}
+
+@media(max-width:760px){
+.progression-banner{flex-direction:column;align-items:flex-start}
+.set-card-grid{grid-template-columns:1fr}
+.unlock-celebration-banner{flex-direction:column;align-items:flex-start}
+}
 @media(max-width:760px){header{height:64px;padding:0 18px}.brand small,nav{display:none}.nav-cta{display:none}.hero{min-height:0;padding:65px 23px 55px;display:block}.hero h1{font-size:43px}.hero-paper{margin:55px 10px 0}.section{padding:53px 20px}.section-head{display:block}.section-head>p{margin-top:10px}.section h2{font-size:31px}.category-grid,.compact{grid-template-columns:1fr 1fr;gap:10px}.category{min-height:168px;padding:16px}.category b{margin-top:19px;font-size:14px}.category small{font-size:12px}.benefits{grid-template-columns:1fr;gap:28px;padding:40px 22px}footer{display:block;padding:24px 20px}footer span{display:block;margin-top:6px}.app-shell{display:block}.side{border-right:0;border-bottom:1px solid #e4e8eb;padding:8px 14px;display:flex;gap:4px;overflow:auto}.side-label,.guest{display:none}.side button{width:auto;white-space:nowrap}.app-content{padding:45px 20px}.app-content h1{font-size:35px}.decision{display:block}.decision-actions{margin-top:22px}.exam-bar{padding:0 18px}.exam-meta{gap:9px;font-size:11px}.exam-meta span:nth-child(2){display:none}.exam-meta .icon{width:15px}.exam-body{display:block;padding:17px}.question-area{padding:23px 18px}.question-top button{font-size:0}.question-top button .icon{width:18px}.question-area h1{font-size:23px}.palette{display:none}.dashboard,.discussions,.static,.results{padding:48px 20px}.metrics{grid-template-columns:1fr 1fr}.metrics article:last-child{grid-column:span 2}.topic{grid-template-columns:100px 1fr 42px;gap:8px;font-size:12px}.discussion-tools{flex-wrap:wrap}.discussion-tools .secondary{margin-left:0;width:100%}.post{padding:16px}.button-row{align-items:flex-start;flex-direction:column;gap:18px}}

@@ -32,6 +32,51 @@ const prefs = {
   }
 }
 
+export function getBestScoreForSet(setId: string): { score: number; total: number; pct: number } | null {
+  const attempts = prefs.get<Attempt[]>('attempts', [])
+  const setAttempts = attempts.filter(a => a.setId === setId)
+  if (!setAttempts.length) return null
+  let best = setAttempts[0]
+  let bestPct = (best.score / best.total) * 100
+  for (const a of setAttempts) {
+    const p = (a.score / a.total) * 100
+    if (p > bestPct) {
+      bestPct = p
+      best = a
+    }
+  }
+  return { score: best.score, total: best.total, pct: Math.round(bestPct) }
+}
+
+export function checkIsSetUnlocked(
+  s: SetMeta,
+  allSets: SetMeta[],
+  freeMode: boolean
+): { isUnlocked: boolean; requiredPrevSet?: SetMeta; prevScore?: number; subjectIndex: number; totalInSubject: number } {
+  const subjectSets = allSets.filter(x => x.subject === s.subject)
+  const subjectIndex = subjectSets.findIndex(x => x.id === s.id)
+  const totalInSubject = subjectSets.length
+
+  if (freeMode || subjectIndex <= 0) {
+    return { isUnlocked: true, subjectIndex: Math.max(0, subjectIndex), totalInSubject }
+  }
+
+  const prevSet = subjectSets[subjectIndex - 1]
+  const prevBest = getBestScoreForSet(prevSet.id)
+
+  if (prevBest && prevBest.pct >= 80) {
+    return { isUnlocked: true, subjectIndex, totalInSubject }
+  }
+
+  return {
+    isUnlocked: false,
+    requiredPrevSet: prevSet,
+    prevScore: prevBest?.pct,
+    subjectIndex,
+    totalInSubject
+  }
+}
+
 const copy = {
   en: {
     start: 'Start your preparation',
@@ -185,7 +230,7 @@ function Header({ lang, setLang, route, setRoute }: { lang: Lang; setLang: (x: L
 function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void }) {
   const t = copy[lang]
   const totalQuestions = SETS_CATALOG.reduce((sum, s) => sum + s.question_count, 0)
-  const defaultSet = SETS_CATALOG.find(s => s.id.includes('qualifying-paper-set2')) || SETS_CATALOG[0]
+  const defaultSet = SETS_CATALOG.find(s => s.id === 'bpsc-tre4-qualifying-set1') || SETS_CATALOG[0]
 
   return (
     <>
@@ -201,42 +246,42 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
             <button
               className="primary"
               onClick={() => {
-                prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-paper-set2-40q')
-                prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Set 2 (40Q)')
+                prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-set1')
+                prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Practice Set 1 (40Q)')
                 setRoute('/app/practice')
               }}
             >
               <Icon name="book" />
-              {lang === 'hi' ? 'भाषा अर्हता सेट 2 (40 प्रश्न) शुरू करें' : 'Start Language Qualifying Set 2 (40Q)'}
+              {lang === 'hi' ? 'भाषा अर्हता सेट 1 (40 प्रश्न) शुरू करें' : 'Start Language Qualifying Set 1 (40Q)'}
             </button>
             <button className="text-button" onClick={() => setRoute('/app')}>
               Browse all {SETS_CATALOG.length} question sets ({totalQuestions}Q) <Icon name="arrow" />
             </button>
           </div>
-          <p className="micro">No login required · 100% Free · Saves your progress locally</p>
+          <p className="micro">80% Mastery Unlock System · No login required · Saves your progress locally</p>
         </div>
         <aside className="hero-paper">
           <div className="paper-top">
             <span>Part-I Qualifying Paper</span>
             <b>{defaultSet?.question_count || 40} Questions</b>
           </div>
-          <h3>{defaultSet?.title || 'Language Practice Set 2'}</h3>
+          <h3>{defaultSet?.title || 'Language Qualifying Set 1'}</h3>
           <p>English (Q1–15) + General Hindi (Q16–40)</p>
           <div className="mini-progress">
             <i style={{ width: '40%' }} />
           </div>
           <div className="paper-bottom">
-            <span>Min. Qualifying Criteria</span>
-            <b>30% Marks (12/40)</b>
+            <span>Unlock Set 2 Requirement</span>
+            <b>Score 80%+ (32/40)</b>
           </div>
           <button
             onClick={() => {
-              prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-paper-set2-40q')
-              prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Set 2 (40Q)')
+              prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-set1')
+              prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Practice Set 1 (40Q)')
               setRoute('/app/practice')
             }}
           >
-            Start Practice Now <Icon name="arrow" />
+            Start Set 1 Practice Now <Icon name="arrow" />
           </button>
         </aside>
       </section>
@@ -295,6 +340,7 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
   const t = copy[lang]
   const [category, setCategory] = useState<string>(initial || '')
   const [selectedSet, setSelectedSet] = useState<SetMeta | null>(null)
+  const [freeMode, setFreeMode] = useState<boolean>(() => prefs.get('free_mode_unlock_all', false))
 
   useEffect(() => {
     if (initial) {
@@ -313,9 +359,16 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
     <main className="app-shell">
       <aside className="side">
         <p className="side-label">EXAM SECTIONS</p>
-        <button className={!category ? 'side-active' : ''} onClick={() => { setCategory(''); setSelectedSet(null) }}>
+        <button
+          className={!category ? 'side-active' : ''}
+          onClick={() => {
+            setCategory('')
+            setSelectedSet(null)
+            location.hash = '#/app'
+          }}
+        >
           <Icon name="book" />
-          All Sets ({SETS_CATALOG.length})
+          All Sections
         </button>
         {SECTIONS.map(sec => (
           <button
@@ -324,6 +377,7 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
             onClick={() => {
               setCategory(sec.id)
               setSelectedSet(null)
+              location.hash = `#/app?category=${sec.id}`
             }}
           >
             <Icon name="book" />
@@ -363,7 +417,14 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
               const count = SETS_CATALOG.filter(s => s.section === sec.id).length
               const totalQ = SETS_CATALOG.filter(s => s.section === sec.id).reduce((sum, s) => sum + s.question_count, 0)
               return (
-                <button className="category" onClick={() => setCategory(sec.id)} key={sec.id}>
+                <button
+                  className="category"
+                  onClick={() => {
+                    setCategory(sec.id)
+                    location.hash = `#/app?category=${sec.id}`
+                  }}
+                  key={sec.id}
+                >
                   <span className={'cat-icon c' + (i % 4)}>{sec.icon}</span>
                   <b>{lang === 'hi' ? sec.hi : sec.name}</b>
                   <small>{sec.desc}</small>
@@ -376,33 +437,126 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
           </div>
         )}
 
-        {/* 2. Sets List in Selected Category */}
+        {/* 2. Sets List in Selected Category with 80% Progression */}
         {category && !selectedSet && (
           <>
-            <button className="back" onClick={() => setCategory('')}>
-              ← Change exam section
-            </button>
-            <div className="subject-list">
-              {availableSets.map(s => (
-                <button
-                  onClick={() => {
-                    setSelectedSet(s)
-                  }}
-                  key={s.id}
-                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '16px 20px' }}
-                >
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '14px' }}>
-                    <span>{s.title.slice(0, 1)}</span>
-                    <div style={{ textAlign: 'left' }}>
-                      <b style={{ fontSize: '15px' }}>{s.title}</b>
-                      <div style={{ fontSize: '12px', color: '#667085', marginTop: '3px' }}>
-                        {s.question_count} Questions · 5 Options · Bilingual (EN/हिन्दी)
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px', flexWrap: 'wrap', gap: '10px' }}>
+              <button
+                className="back"
+                onClick={() => {
+                  setCategory('')
+                  location.hash = '#/app'
+                }}
+              >
+                ← Change exam section
+              </button>
+              <button
+                className="progression-toggle-btn"
+                onClick={() => {
+                  const next = !freeMode
+                  setFreeMode(next)
+                  prefs.set('free_mode_unlock_all', next)
+                }}
+              >
+                {freeMode ? '🔒 Enable 80% Mastery Unlock Rule' : '🔓 Teacher Mode: Unlock All Sets'}
+              </button>
+            </div>
+
+            {/* Progression Guidance Banner */}
+            <div className="progression-banner">
+              <div className="progression-banner-text">
+                <span style={{ fontSize: '26px' }}>🎯</span>
+                <div>
+                  <b>BPSC TRE 4.0 Set-Wise Progression System:</b>
+                  <div style={{ fontSize: '13px', color: '#486581', marginTop: '2px' }}>
+                    {freeMode
+                      ? 'Teacher Mode is ON: All sets are unlocked for unrestricted evaluation.'
+                      : 'Mastery Rule Active: Score 80%+ on Set 1 to unlock Set 2, 80%+ on Set 2 to unlock Set 3, etc.'}
+                  </div>
+                </div>
+              </div>
+              <div style={{ fontSize: '12px', fontWeight: 700, color: '#147d75', background: '#fff', padding: '6px 12px', border: '1px solid #cce8e2', borderRadius: '8px', whiteSpace: 'nowrap' }}>
+                Mastery Target: 80%
+              </div>
+            </div>
+
+            <div className="set-card-grid">
+              {availableSets.map(s => {
+                const unlock = checkIsSetUnlocked(s, availableSets, freeMode)
+                const best = getBestScoreForSet(s.id)
+                const isMastered = best && best.pct >= 80
+                const isAttempted = best && best.pct < 80
+
+                return (
+                  <div
+                    key={s.id}
+                    className={`set-prog-card ${!unlock.isUnlocked ? 'set-card-locked' : ''} ${isMastered ? 'set-card-mastered' : ''}`}
+                  >
+                    <div>
+                      <div className="set-card-head">
+                        <span className="set-number-tag">
+                          SET {unlock.subjectIndex + 1} OF {unlock.totalInSubject}
+                        </span>
+                        {!unlock.isUnlocked ? (
+                          <span className="set-pill pill-locked">🔒 Locked</span>
+                        ) : isMastered ? (
+                          <span className="set-pill pill-mastered">🌟 Mastered ({best?.pct}%)</span>
+                        ) : isAttempted ? (
+                          <span className="set-pill pill-attempted">⚠️ Score: {best?.pct}%</span>
+                        ) : (
+                          <span className="set-pill pill-ready">🟢 Ready to Practice</span>
+                        )}
                       </div>
+
+                      <h3>{s.title}</h3>
+                      <p>
+                        {s.question_count} Authentic Questions · 5 Options (A to E) · Bilingual (EN/हिन्दी) · Official Explanations
+                      </p>
+                    </div>
+
+                    <div className="set-progress-box">
+                      <div className="set-progress-labels">
+                        <span>{best ? `Best Score: ${best.score}/${best.total} (${best.pct}%)` : 'Not yet attempted'}</span>
+                        <span style={{ color: best && best.pct >= 80 ? '#16a34a' : '#ef4444' }}>
+                          Target: 80%
+                        </span>
+                      </div>
+                      <div className="set-progress-bar-wrap">
+                        <div className="target-marker" title="80% Unlock Threshold" />
+                        <div
+                          className={`set-progress-bar-fill ${best && best.pct >= 80 ? 'fill-mastered' : 'fill-partial'}`}
+                          style={{ width: `${Math.min(100, best?.pct || 0)}%` }}
+                        />
+                      </div>
+
+                      {!unlock.isUnlocked ? (
+                        <button
+                          className="set-action-btn btn-locked"
+                          disabled
+                          title={`Score at least 80% in Set ${unlock.subjectIndex} (${unlock.requiredPrevSet?.title}) to unlock this set`}
+                        >
+                          🔒 Locked (Need 80% in Set {unlock.subjectIndex})
+                        </button>
+                      ) : (
+                        <button
+                          className={`set-action-btn ${isMastered ? 'btn-mastered' : 'btn-unlocked'}`}
+                          onClick={() => {
+                            prefs.set('currentSetId', s.id)
+                            prefs.set('lastSubject', s.title)
+                            setRoute('/app/practice')
+                          }}
+                        >
+                          {isMastered
+                            ? '↻ Practice Again (Mastered)'
+                            : isAttempted
+                            ? `↻ Re-attempt Set ${unlock.subjectIndex + 1} (${best?.pct}%)`
+                            : `Start Set ${unlock.subjectIndex + 1} Test (${s.question_count}Q) →`}
+                        </button>
+                      )}
                     </div>
                   </div>
-                  <Icon name="arrow" />
-                </button>
-              ))}
+                )
+              })}
             </div>
           </>
         )}
@@ -546,6 +700,22 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
           seconds={seconds}
           setRoute={setRoute}
           activeSet={activeSet}
+          onNextSet={(next: SetMeta) => {
+            prefs.set('currentSetId', next.id)
+            prefs.set('lastSubject', next.title)
+            setSubmitted(false)
+            setIndex(0)
+            setAnswers({})
+            setFlags([])
+            setSeconds(0)
+          }}
+          onRetry={() => {
+            setSubmitted(false)
+            setIndex(0)
+            setAnswers({})
+            setFlags([])
+            setSeconds(0)
+          }}
         />
       ) : (
         <div className="exam-body">
@@ -633,18 +803,28 @@ function Results({
   answers,
   seconds,
   setRoute,
-  activeSet
+  activeSet,
+  onNextSet,
+  onRetry
 }: {
   questionsList: QuestionItem[]
   answers: Record<number, number>
   seconds: number
   setRoute: (s: string) => void
   activeSet: SetMeta
+  onNextSet?: (next: SetMeta) => void
+  onRetry?: () => void
 }) {
   const score = questionsList.filter(q => answers[q.id] === q.answer).length
   const pct = Math.round((score / questionsList.length) * 100)
   const isQualifying = activeSet.section === 'qualifying'
   const isPassed = pct >= 30
+  const isMastered = pct >= 80
+
+  // Find next set in the same subject
+  const subjectSets = SETS_CATALOG.filter(s => s.subject === activeSet.subject)
+  const currentIdx = subjectSets.findIndex(s => s.id === activeSet.id)
+  const nextSet = currentIdx >= 0 && currentIdx < subjectSets.length - 1 ? subjectSets[currentIdx + 1] : null
 
   return (
     <section className="results">
@@ -653,6 +833,45 @@ function Results({
         {score} of {questionsList.length} correct ({pct}%)
       </h1>
       <p>Time spent: {Math.ceil(seconds / 60)} minutes. Review the official answer keys and setter insights below.</p>
+
+      {/* 80% Mastery Celebration & Next Set Unlock Banner */}
+      {isMastered ? (
+        <div className="unlock-celebration-banner">
+          <div>
+            <h3>🎉 80% MASTERY ACHIEVED! {nextSet ? `Set ${currentIdx + 2} is Now Unlocked!` : 'All Sets Mastered!'}</h3>
+            <p>
+              Outstanding score: <b>{pct}% ({score}/{questionsList.length})</b>!
+              {nextSet
+                ? ` You achieved the 80% mastery threshold and unlocked "${nextSet.title}". Continue your preparation!`
+                : ` You have mastered all practice sets in ${activeSet.subject}!`}
+            </p>
+          </div>
+          {nextSet && onNextSet && (
+            <button onClick={() => onNextSet(nextSet)}>
+              Start Set {currentIdx + 2} Now →
+            </button>
+          )}
+        </div>
+      ) : (
+        <div style={{ background: '#fffbeb', border: '1px solid #fef3c7', borderRadius: '12px', padding: '16px 20px', margin: '18px 0', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '16px', flexWrap: 'wrap' }}>
+          <div>
+            <b style={{ color: '#92400e', fontSize: '15px' }}>
+              🎯 Next Set Unlock Target: 80% (Your score: {pct}%)
+            </b>
+            <div style={{ fontSize: '13px', color: '#b45309', marginTop: '3px' }}>
+              To unlock {nextSet ? `Set ${currentIdx + 2} (${nextSet.title})` : 'the next set'}, you need at least 80% ({Math.ceil(questionsList.length * 0.8)}/{questionsList.length} marks). Review the explanations below and re-attempt!
+            </div>
+          </div>
+          {onRetry && (
+            <button
+              style={{ background: '#d97706', color: '#fff', border: 0, padding: '10px 18px', borderRadius: '8px', fontWeight: 700, fontSize: '13px', cursor: 'pointer', whiteSpace: 'nowrap' }}
+              onClick={onRetry}
+            >
+              ↻ Re-attempt This Set
+            </button>
+          )}
+        </div>
+      )}
 
       {isQualifying && (
         <div className={`qualify-banner ${isPassed ? 'qualify-pass' : 'qualify-fail'}`}>
@@ -713,9 +932,19 @@ function Results({
         })}
       </div>
 
-      <div style={{ display: 'flex', gap: '14px' }}>
-        <button className="primary" onClick={() => setRoute('/app')}>
-          Practice another set
+      <div style={{ display: 'flex', gap: '14px', flexWrap: 'wrap', marginTop: '24px' }}>
+        {nextSet && isMastered && onNextSet && (
+          <button className="primary" onClick={() => onNextSet(nextSet)}>
+            Proceed to Set {currentIdx + 2} ({nextSet.title}) →
+          </button>
+        )}
+        {onRetry && (
+          <button className="secondary" onClick={onRetry}>
+            ↻ Re-attempt This Set
+          </button>
+        )}
+        <button className="secondary" onClick={() => setRoute(`/app?category=${activeSet.section}`)}>
+          View all sets in this section
         </button>
         <button className="secondary" onClick={() => setRoute('/app/analysis')}>
           See topic analysis

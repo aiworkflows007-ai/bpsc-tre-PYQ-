@@ -18,8 +18,7 @@ echo ""
 echo "🔨 Building high-speed production bundle..."
 npm run build
 
-# 3. Double-host assets for Render root + Hostinger dist
-cp dist/index.html index.html
+# 3. Mirror assets to root
 cp -r dist/assets .
 
 # 4. Git commit and push to live repository
