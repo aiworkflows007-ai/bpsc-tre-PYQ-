@@ -4,8 +4,8 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc -b && vite build",
+    "dev": "cp index.template.html index.html && vite",
+    "build": "tsc -b && cp index.template.html index.html && vite build && cp dist/index.html index.html && cp -r dist/assets .",
     "lint": "tsc -b --pretty false",
     "preview": "vite preview",
     "ingest": "python3 scripts/auto_ingest.py",
