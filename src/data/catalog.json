@@ -1,133 +1,7 @@
 {
-  "total_sets": 26,
-  "total_questions": 1158,
+  "total_sets": 53,
+  "total_questions": 1718,
   "sets": [
-    {
-      "id": "bpsc-tre4-general-studies-set1",
-      "title": "General Studies Practice Set 1 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set10",
-      "title": "General Studies Practice Set 10 (39Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 39
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set11",
-      "title": "General Studies Practice Set 11 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set12",
-      "title": "General Studies Practice Set 12 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set13",
-      "title": "General Studies Practice Set 13 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set14",
-      "title": "General Studies Practice Set 14 (41Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 41
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set2",
-      "title": "General Studies Practice Set 2 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set3",
-      "title": "General Studies Practice Set 3 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set4",
-      "title": "General Studies Practice Set 4 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set5",
-      "title": "General Studies Practice Set 5 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set6",
-      "title": "General Studies Practice Set 6 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set7",
-      "title": "General Studies Practice Set 7 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set8",
-      "title": "General Studies Practice Set 8 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
-    {
-      "id": "bpsc-tre4-general-studies-set9",
-      "title": "General Studies Practice Set 9 (40Q)",
-      "section": "gk_gs",
-      "section_name": "Part-II General Studies (40 Marks)",
-      "subject": "General Studies",
-      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
-      "question_count": 40
-    },
     {
       "id": "bpsc-tre4-qualifying-english-set1",
       "title": "English Language Practice Set 1 (15Q)",
@@ -235,6 +109,375 @@
       "subject": "Science",
       "filename": "bpsc-tre4-science-80q.docx",
       "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-gkgs-biology-set1",
+      "title": "General Science: Biology Set 1 (30Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Biology",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-gkgs-biology-set2",
+      "title": "General Science: Biology Set 2 (30Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Biology",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-gkgs-biology-set3",
+      "title": "General Science: Biology Set 3 (30Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Biology",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-gkgs-biology-set4",
+      "title": "General Science: Biology Set 4 (12Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Biology",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 12
+    },
+    {
+      "id": "bpsc-tre4-gkgs-chemistry-set1",
+      "title": "General Science: Chemistry Set 1 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Chemistry",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-chemistry-set2",
+      "title": "General Science: Chemistry Set 2 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Chemistry",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-chemistry-set3",
+      "title": "General Science: Chemistry Set 3 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Chemistry",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-chemistry-set4",
+      "title": "General Science: Chemistry Set 4 (4Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Chemistry",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 4
+    },
+    {
+      "id": "bpsc-tre4-gkgs-physics-set1",
+      "title": "General Science: Physics Set 1 (20Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Physics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 20
+    },
+    {
+      "id": "bpsc-tre4-gkgs-physics-set2",
+      "title": "General Science: Physics Set 2 (17Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "General Science: Physics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 17
+    },
+    {
+      "id": "bpsc-tre4-gkgs-math-set1",
+      "title": "Elementary Mathematics Set 1 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Elementary Mathematics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-math-set2",
+      "title": "Elementary Mathematics Set 2 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Elementary Mathematics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-math-set3",
+      "title": "Elementary Mathematics Set 3 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Elementary Mathematics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-math-set4",
+      "title": "Elementary Mathematics Set 4 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Elementary Mathematics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-math-set5",
+      "title": "Elementary Mathematics Set 5 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Elementary Mathematics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-math-set6",
+      "title": "Elementary Mathematics Set 6 (6Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Elementary Mathematics",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 6
+    },
+    {
+      "id": "bpsc-tre4-gkgs-reasoning-set1",
+      "title": "Mental Ability & Reasoning Set 1 (15Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Mental Ability & Reasoning",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 15
+    },
+    {
+      "id": "bpsc-tre4-gkgs-reasoning-set2",
+      "title": "Mental Ability & Reasoning Set 2 (10Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Mental Ability & Reasoning",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 10
+    },
+    {
+      "id": "bpsc-tre4-gkgs-history-set1",
+      "title": "Indian National Movement & History Set 1 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Indian National Movement & History",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-history-set2",
+      "title": "Indian National Movement & History Set 2 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Indian National Movement & History",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-history-set3",
+      "title": "Indian National Movement & History Set 3 (20Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Indian National Movement & History",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 20
+    },
+    {
+      "id": "bpsc-tre4-gkgs-geography-set1",
+      "title": "Geography & Environment Set 1 (25Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Geography & Environment",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-gkgs-geography-set2",
+      "title": "Geography & Environment Set 2 (21Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Geography & Environment",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 21
+    },
+    {
+      "id": "bpsc-tre4-gkgs-polity-set1",
+      "title": "Indian Polity & Economy Set 1 (22Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Indian Polity & Economy",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 22
+    },
+    {
+      "id": "bpsc-tre4-gkgs-polity-set2",
+      "title": "Indian Polity & Economy Set 2 (20Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Indian Polity & Economy",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 20
+    },
+    {
+      "id": "bpsc-tre4-gkgs-bihar-set1",
+      "title": "Bihar Special & Current Affairs Set 1 (20Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Bihar Special & Current Affairs",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 20
+    },
+    {
+      "id": "bpsc-tre4-gkgs-bihar-set2",
+      "title": "Bihar Special & Current Affairs Set 2 (8Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Bihar Special & Current Affairs",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 8
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set1",
+      "title": "General Studies Practice Set 1 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set10",
+      "title": "General Studies Practice Set 10 (39Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 39
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set11",
+      "title": "General Studies Practice Set 11 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set12",
+      "title": "General Studies Practice Set 12 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set13",
+      "title": "General Studies Practice Set 13 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set14",
+      "title": "General Studies Practice Set 14 (41Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 41
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set2",
+      "title": "General Studies Practice Set 2 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set3",
+      "title": "General Studies Practice Set 3 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set4",
+      "title": "General Studies Practice Set 4 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set5",
+      "title": "General Studies Practice Set 5 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set6",
+      "title": "General Studies Practice Set 6 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set7",
+      "title": "General Studies Practice Set 7 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set8",
+      "title": "General Studies Practice Set 8 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-general-studies-set9",
+      "title": "General Studies Practice Set 9 (40Q)",
+      "section": "gk_gs",
+      "section_name": "Part-II General Studies (40 Marks)",
+      "subject": "Full 40Q Mock Papers",
+      "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+      "question_count": 40
     }
   ]
 }

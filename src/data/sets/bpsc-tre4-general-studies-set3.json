@@ -3,7 +3,7 @@
   "title": "General Studies Practice Set 3 (40Q)",
   "section": "gk_gs",
   "section_name": "Part-II General Studies (40 Marks)",
-  "subject": "General Studies",
+  "subject": "Full 40Q Mock Papers",
   "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
   "question_count": 40,
   "questions": [
@@ -23,7 +23,16 @@
       "answer_text": "Fumaroles",
       "explanation": "Fumaroles (धुँआरे / वातिमुख) are vents emitting steam and volcanic gases (SO2, CO2, H2S) during the dying/senescent phase of volcanism when magma has ceased erupting.",
       "tip": "Volcano life cycle: Active eruption -> Crater formation -> Geysers/Hot Springs -> Fumaroles (final dying gaseous stage).",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "Geysers",
+        "Craters",
+        "Fumaroles",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Fumaroles (धुँआरे / वातिमुख) are vents emitting steam and volcanic गैस (SO2, CO2, H2S) के दौरान the dying/senescent phase of volcanism when magma has ceased erupting.",
+      "tip_hi": "Volcano life cycle: Active eruption -> Crater formation -> Geysers/Hot Springs -> Fumaroles (final dying gaseous stage)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -41,7 +50,16 @@
       "answer_text": "None of the above",
       "explanation": "Toads (Amphibians), Crocodiles (Reptiles), and Fish (Pisces) are poikilothermic (cold-blooded) ectotherms. Only birds (Aves) and mammals are homeothermic (warm-blooded).",
       "tip": "Warm-blooded = Birds & Mammals only. Reptiles, amphibians, and fish are cold-blooded; hence Option (E) is correct.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "Toad",
+        "Crocodile",
+        "Fish",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Toads (Amphibians), Crocodiles (Reptiles), and Fish (Pisces) are poikilothermic (असमतापी (शीत-रक्त वाले)) ectotherms. Only birds (Aves) and mammals are homeothermic (समतापी (उष्ण-रक्त वाले)).",
+      "tip_hi": "समतापी (उष्ण-रक्त वाले) = Birds & Mammals only. Reptiles, amphibians, and fish are असमतापी (शीत-रक्त वाले); hence Option (E) is correct."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -59,7 +77,16 @@
       "answer_text": "1882",
       "explanation": "Anandamath was published as a book in 1882 in Bengali by Bankim Chandra Chatterjee, inspiring nationalist pride through the hymn 'Vande Mataram'.",
       "tip": "1875-76 = 'Vande Mataram' written; 1882 = 'Anandamath' published; 1896 = Sung at Calcutta Congress Session.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "1882",
+        "1876",
+        "1890",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Anandamath was published as a book in 1882 in Bengali by बंकिम चंद्र चटर्जी, inspiring nationalist pride through the hymn 'Vande Mataram'.",
+      "tip_hi": "1875-76 = 'Vande Mataram' written; 1882 = 'Anandamath' published; 1896 = Sung at Calcutta Congress Session."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -77,7 +104,16 @@
       "answer_text": "Entire ecosystem",
       "explanation": "A National Park (IUCN Category II) is legally constituted to conserve the complete natural ecosystem, protecting flora, fauna, historical objects, and abiotic landscapes.",
       "tip": "Wildlife Sanctuary = Protection to specific species (fauna); National Park = Protection to entire ecosystem.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "Fauna only",
+        "Entire ecosystem",
+        "Flora only",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A National Park (IUCN Category II) is legally constituted to conserve the complete natural ecosystem, protecting flora, fauna, historical objects, and abiotic landscapes.",
+      "tip_hi": "Wildlife Sanctuary = Protection to specific species (fauna); National Park = Protection to entire ecosystem."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -95,7 +131,16 @@
       "answer_text": "Public awareness about environment issues",
       "explanation": "Earth Day was first organized on April 22, 1970 in the USA by Senator Gaylord Nelson to mobilize grassroots public education and action on environmental conservation.",
       "tip": "Earth Day focuses on global environmental protection and climate awareness, rejecting misleading wartime or disarmament distractors.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "End of the सेकंड World War दिन",
+        "Declaration of no use of nuclear weapons on earth planet",
+        "Public awareness about environment issues",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Earth दिन was first organized on अप्रैल 22, 1970 in the USA by Senator Gaylord Nelson to mobilize grassroots public education and action on environmental conservation.",
+      "tip_hi": "Earth दिन focuses on global environmental protection and climate awareness, rejecting misleading wartime or disarmament distractors."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -113,7 +158,16 @@
       "answer_text": "None of the above",
       "explanation": "Coal and Petroleum are exhaustible fossil fuels, while Nuclear fuel (Uranium/Thorium) is a non-renewable finite mineral. As none is renewable, (E) is the answer.",
       "tip": "Renewable = Solar, Wind, Hydro, Biomass, Geothermal. Coal, oil, natural gas, and uranium are non-renewable.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "Coal",
+        "Nuclear ईंधन",
+        "Petroleum",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Coal and Petroleum are exhaustible fossil fuels, while Nuclear ईंधन (Uranium/Thorium) is a non-renewable finite mineral. As none is renewable, (E) is the answer.",
+      "tip_hi": "Renewable = Solar, Wind, Hydro, Biomass, Geothermal. Coal, oil, natural gas, and uranium are non-renewable."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -131,7 +185,16 @@
       "answer_text": "More than one of the above",
       "explanation": "The State Re-organisation Commission appointed in December 1953 comprised Justice Fazal Ali (Chairman), K.M. Panikkar, and Hriday Nath Kunzru. All three served as members.",
       "tip": "Commission members: Fazal Ali (Head) + K.M. Panikkar + H.N. Kunzru. Since all three appear, select Option (D).",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "K. M. Panikkar",
+        "Hriday Nath Kunzru",
+        "Fazal Ali",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The State Re-organisation Commission appointed in दिसम्बर 1953 comprised Justice Fazal Ali (Chairman), K.M. Panikkar, and Hriday Nath Kunzru. All three served as members.",
+      "tip_hi": "Commission members: Fazal Ali (Head) + K.M. Panikkar + H.N. Kunzru. Since all three appear, select Option (D)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -149,7 +212,16 @@
       "answer_text": "Aphelion",
       "explanation": "Due to Earth's elliptical orbit, the maximum distance (approx. 152 million km) occurs at Aphelion (अपसौर) around July 4. The closest distance occurs at Perihelion (उपसौर, Jan 3).",
       "tip": "Mnemonic: 'A'phelion = 'A'way (furthest, July 4); 'P'erihelion = 'P'ass (closest, January 3).",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "Aphelion",
+        "Perihelion",
+        "Summer solstice",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Due to Earth's elliptical orbit, the maximum distance (approx. 152 million किमी) occurs at Aphelion (अपसौर) around जुलाई 4. The closest distance occurs at Perihelion (उपसौर, Jan 3).",
+      "tip_hi": "Mnemonic: 'A'phelion = 'A'way (furthest, जुलाई 4); 'P'erihelion = 'P'ass (closest, जनवरी 3)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -167,7 +239,16 @@
       "answer_text": "Madan Lal Dhingra",
       "explanation": "Indian revolutionary Madan Lal Dhingra shot dead British political aide Sir William Hutt Curzon-Wyllie at the Imperial Institute in London on 1st July 1909.",
       "tip": "Madan Lal Dhingra assassinated Curzon-Wyllie (1909); Udham Singh assassinated Michael O'Dwyer (1940).",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "V.D. Savarkar",
+        "Udham Singh",
+        "Madan Lal Dhingra",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Indian revolutionary Madan Lal Dhingra shot dead British political aide Sir William Hutt Curzon-Wyllie at the Imperial Institute in London on 1st जुलाई 1909.",
+      "tip_hi": "Madan Lal Dhingra assassinated Curzon-Wyllie (1909); Udham Singh assassinated Michael O'Dwyer (1940)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -185,7 +266,16 @@
       "answer_text": "The State Government in West Bengal",
       "explanation": "Operation Barga was a comprehensive land reform program initiated in 1978 by the Left Front government in West Bengal to register sharecroppers (bargadars) and protect their tenancy rights.",
       "tip": "Operation Barga is historically synonymous with agrarian reforms under the Left Front in West Bengal.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "The State Government in पश्चिम Bengal",
+        "The State Government in Kerala",
+        "The State Government in Assam",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Operation Barga was a comprehensive land reform program initiated in 1978 by the Left Front government in पश्चिम Bengal to register sharecroppers (bargadars) and protect their tenancy rights.",
+      "tip_hi": "Operation Barga is historically synonymous with agrarian reforms under the Left Front in पश्चिम Bengal."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -203,7 +293,16 @@
       "answer_text": "4, 5, 1, 3, 2",
       "explanation": "The logical operational recruitment process progresses sequentially: Advertisement (4) -> Application (5) -> Interview (1) -> Selection (3) -> Appointment (2).",
       "tip": "Selection logically precedes final Appointment; look for sequence ending with 3, 2.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "4, 5, 1, 2, 3",
+        "4, 5, 2, 1, 3",
+        "4, 5, 1, 3, 2",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The logical operational recruitment process progresses sequentially: Advertisement (4) -> Application (5) -> Interview (1) -> Selection (3) -> Appointment (2).",
+      "tip_hi": "Selection logically precedes final Appointment; look for sequence ending with 3, 2."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -221,7 +320,16 @@
       "answer_text": "Lord Hardinge",
       "explanation": "King George V announced the annulment/reversal of the Partition of Bengal at the Delhi Durbar in December 1911 during the viceroyalty of Lord Hardinge II.",
       "tip": "1905 Partition = Lord Curzon; 1909 Morley-Minto Reforms = Lord Minto; 1911 Annulment = Lord Hardinge.",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "Lord Minto",
+        "Lord Hardinge",
+        "Lord Curzon",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "King George V announced the annulment/reversal of the Partition of Bengal at the Delhi Durbar in दिसम्बर 1911 के दौरान the viceroyalty of Lord Hardinge II.",
+      "tip_hi": "1905 Partition = Lord Curzon; 1909 Morley-Minto Reforms = Lord Minto; 1911 Annulment = Lord Hardinge."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -239,7 +347,16 @@
       "answer_text": "To locate under water hills and valleys",
       "explanation": "SONAR (Sound Navigation and Ranging) uses ultrasonic sound waves to map ocean depths and locate submerged objects, hills, valleys, and shipwrecks.",
       "tip": "SONAR = Underwater sound reflection; RADAR = Atmospheric radio wave reflection.",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "To locate under water hills and valleys",
+        "To locate flying aircrafts",
+        "To measure atmospheric pressure",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "SONAR (Sound Navigation and Ranging) uses पराध्वनि (अल्ट्रासोनिक) ध्वनि तरंगें to map ocean depths and locate submerged objects, hills, valleys, and shipwrecks.",
+      "tip_hi": "SONAR = Underwater sound परावर्तन; RADAR = Atmospheric radio wave परावर्तन."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -257,7 +374,16 @@
       "answer_text": "More than one of the above",
       "explanation": "Insectivorous plants (Pitcher plant, Venus flytrap) photosynthesize as primary producers (T1) and consume herbivorous insects as secondary consumers (T3).",
       "tip": "Because insectivorous plants hold two trophic identities (Autotroph/Producer and Carnivore/Secondary Consumer), Option (D) applies.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "Primary consumer",
+        "Secondary consumer",
+        "Producer",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Insectivorous plants (Pitcher plant, Venus flytrap) photosynthesize as primary producers (T1) and consume herbivorous insects as secondary consumers (T3).",
+      "tip_hi": "क्योंकि insectivorous plants hold two trophic identities (Autotroph/Producer and Carnivore/Secondary Consumer), Option (D) applies."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -275,7 +401,16 @@
       "answer_text": "25% per annum",
       "explanation": "If principal is P, amount is 7P; Simple Interest SI = 6P. Formula: SI = (P * R * T) / 100 -> 6P = (P * R * 24) / 100 -> R = (6 * 100) / 24 = 25% per annum.",
       "tip": "Direct formula for n-times: Rate R = ((n - 1) * 100) / T = ((7 - 1) * 100) / 24 = 600 / 24 = 25%.",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "24% per annum",
+        "25% per annum",
+        "22% per annum",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "If principal is P, amount is 7P; Simple Interest SI = 6P. Formula: SI = (P * R * T) / 100 -> 6P = (P * R * 24) / 100 -> R = (6 * 100) / 24 = 25% per annum.",
+      "tip_hi": "Direct formula for n-times: Rate R = ((n - 1) * 100) / T = ((7 - 1) * 100) / 24 = 600 / 24 = 25%."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -293,7 +428,16 @@
       "answer_text": "Friday",
       "explanation": "Day before yesterday = Monday -> Yesterday = Tuesday -> Today = Wednesday -> Tomorrow = Thursday -> Day after tomorrow = Friday.",
       "tip": "Count displacement from 'day before yesterday' (-2) to 'day after tomorrow' (+2): total +4 days. Monday + 4 days = Friday.",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "Friday",
+        "Saturday",
+        "Wednesday",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "दिन before yesterday = Monday -> Yesterday = Tuesday -> Today = Wednesday -> Tomorrow = Thursday -> दिन after tomorrow = Friday.",
+      "tip_hi": "Count displacement from 'दिन before yesterday' (-2) to 'दिन after tomorrow' (+2): total +4 दिन. Monday + 4 दिन = Friday."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -311,7 +455,16 @@
       "answer_text": "Afforestation",
       "explanation": "Afforestation enhances surface water infiltration, binds soil with root networks, reduces rapid overland runoff velocity, and prevents heavy siltation in riverbeds.",
       "tip": "Planting trees (afforestation) controls both soil erosion and flood runoffs; deforestation accelerates floods.",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "Grazing",
+        "Afforestation",
+        "Deforestation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Afforestation enhances surface water infiltration, binds soil with root networks, reduces rapid overland runoff velocity, and prevents heavy siltation in riverbeds.",
+      "tip_hi": "Planting trees (afforestation) controls both soil erosion and flood runoffs; deforestation accelerates floods."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -329,7 +482,16 @@
       "answer_text": "Deserticolous",
       "explanation": "Organisms that inhabit arid desert environments and exhibit specific xerocolous morphological adaptations are termed deserticolous.",
       "tip": "Arboreal = trees; Fossorial = underground burrows; Deserticolous / Xerocolous = deserts.",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "Deserticolous",
+        "Desertimalia",
+        "Desertimals",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Organisms that inhabit arid desert environments and exhibit specific xerocolous morphological adaptations are termed deserticolous.",
+      "tip_hi": "Arboreal = trees; Fossorial = underground burrows; Deserticolous / Xerocolous = deserts."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -347,7 +509,16 @@
       "answer_text": "P. V. Narasimha Rao",
       "explanation": "The 73rd and 74th Constitutional Amendment Acts were enacted by Parliament in 1992 and came into force in 1993 under the Prime Ministership of P. V. Narasimha Rao.",
       "tip": "73rd Amendment (Panchayats) enforced 24 April 1993; 74th Amendment (Municipalities) enforced 1 June 1993 during Narasimha Rao's tenure.",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "P. V. Narasimha Rao",
+        "H. D. Deve Gowda",
+        "Chandra Shekhar",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 73rd and 74th Constitutional संशोधन Acts were enacted by संसद in 1992 and came into force in 1993 under the Prime Ministership of P. V. Narasimha Rao.",
+      "tip_hi": "73rd संशोधन (Panchayats) enforced 24 अप्रैल 1993; 74th संशोधन (Municipalities) enforced 1 जून 1993 के दौरान Narasimha Rao's tenure."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -365,7 +536,16 @@
       "answer_text": "Hydrated ferric oxide",
       "explanation": "Rusting of iron in the presence of atmospheric oxygen and moisture produces hydrated ferric oxide with the chemical formula Fe2O3 · xH2O.",
       "tip": "Rust is Fe(III) oxide (Ferric), not Fe(II) oxide (Ferrous). Look strictly for 'Hydrated ferric oxide'.",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "Hydrated ferric oxide",
+        "Hydrated ferrous oxide",
+        "Only ferric oxide",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rusting of iron in the presence of atmospheric oxygen and moisture produces hydrated ferric oxide with the chemical formula Fe2O3 · xH2O.",
+      "tip_hi": "Rust is Fe(III) oxide (Ferric), not Fe(II) oxide (Ferrous). Look strictly for 'Hydrated ferric oxide'."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -383,7 +563,16 @@
       "answer_text": "Madhya Pradesh",
       "explanation": "Madhya Pradesh contains the largest area under teak (Tectona grandis) forests in India, covering extensive tracts in Hoshangabad, Betul, and Jabalpur.",
       "tip": "Teak (सागौन) and Sal (साल) are predominant species of tropical deciduous forests; MP possesses the largest teak forest area.",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Karnataka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Madhya Pradesh contains the largest area under teak (Tectona grandis) forests in India, covering extensive tracts in Hoshangabad, Betul, and Jabalpur.",
+      "tip_hi": "Teak (सागौन) and Sal (साल) are predominant species of tropical deciduous forests; MP possesses the largest teak forest area."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -401,7 +590,16 @@
       "answer_text": "Suru river",
       "explanation": "The city and district of Kargil in Ladakh are situated along the banks of the Suru River, a significant left-bank tributary of the Indus River.",
       "tip": "Leh is located on the Indus River; Kargil is located on the Suru River; Srinagar is located on the Jhelum River.",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "Suru river",
+        "Jhelum river",
+        "Indus river",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The city and district of Kargil in Ladakh are situated along the banks of the Suru River, a significant left-bank tributary of the Indus River.",
+      "tip_hi": "Leh is located on the Indus River; Kargil is located on the Suru River; Srinagar is located on the Jhelum River."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -419,7 +617,16 @@
       "answer_text": "Grass, deer and tiger",
       "explanation": "In a terrestrial grazing food chain, Grass is the primary producer, Deer is the herbivorous primary consumer, and Tiger is the apex carnivorous secondary consumer.",
       "tip": "Food chain must represent realistic trophic feeding links: Producer -> Herbivore -> Carnivore (Grass -> Deer -> Tiger).",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "Grass, deer and tiger",
+        "Grass, fish and cow",
+        "Grass, rabbit and elephant",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In a terrestrial grazing food chain, Grass is the primary producer, Deer is the herbivorous primary consumer, and Tiger is the apex carnivorous secondary consumer.",
+      "tip_hi": "Food chain must represent realistic trophic feeding links: Producer -> Herbivore -> Carnivore (Grass -> Deer -> Tiger)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -437,7 +644,16 @@
       "answer_text": "Patna",
       "explanation": "Patna was the premier headquarters of the Wahabi Movement in India from the 1820s to the 1860s, organized by leaders Maulvi Wilayat Ali and Inayat Ali.",
       "tip": "Patna served as the pan-Indian organizational hub for propaganda and soldiers for the Wahabis on the North-West Frontier.",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "Jagdishpur",
+        "Champaran",
+        "Patna",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Patna was the premier headquarters of the Wahabi Movement in India from the 1820s to the 1860s, organized by leaders Maulvi Wilayat Ali and Inayat Ali.",
+      "tip_hi": "Patna served as the pan-Indian organizational hub for propaganda and soldiers for the Wahabis on the उत्तर-पश्चिम Frontier."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -455,7 +671,16 @@
       "answer_text": "Mehrauli",
       "explanation": "The rust-resistant Gupta-era iron pillar constructed during the reign of Chandragupta II Vikramaditya stands in the Qutb Complex at Mehrauli, New Delhi.",
       "tip": "Mehrauli iron pillar has resisted corrosion for over 1600 years due to a protective layer of crystalline iron hydrogen phosphate.",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "Mehrauli",
+        "Sarnath",
+        "Ujjain",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The rust-resistant Gupta-era iron pillar constructed के दौरान the reign of Chandragupta II Vikramaditya stands in the Qutb Complex at Mehrauli, New Delhi.",
+      "tip_hi": "Mehrauli iron pillar has resisted corrosion for over 1600 वर्ष due to a protective layer of crystalline iron hydrogen phosphate."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -473,7 +698,16 @@
       "answer_text": "Urban educated groups",
       "explanation": "The intellectual reform movement of Brahmo Samaj founded by Raja Ram Mohan Roy was predominantly confined to the urban educated middle class (Bhadralok) in Calcutta.",
       "tip": "Arya Samaj achieved broad rural and mass popularity in Punjab/UP; Brahmo Samaj was primarily an urban intellectual elite movement.",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "Rural Bengal",
+        "Both rural and urban educated groups",
+        "Urban educated groups",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The intellectual reform movement of Brahmo Samaj founded by राजा राममोहन राय was predominantly confined to the urban educated middle class (Bhadralok) in Calcutta.",
+      "tip_hi": "Arya Samaj achieved broad rural and mass popularity in Punjab/UP; Brahmo Samaj was primarily an urban intellectual elite movement."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -491,7 +725,16 @@
       "answer_text": "Vinegar",
       "explanation": "Acids turn blue litmus red. Vinegar contains dilute acetic acid (CH3COOH, pH approx. 2.5), whereas washing soda (Na2CO3) and baking soda (NaHCO3) are basic.",
       "tip": "Acid turns Blue to Red ('ABR'); Base turns Red to Blue ('BRB'). Vinegar is acidic; sodas are alkaline.",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "धावन सोडा (Na2CO3·10H2O) solution",
+        "Vinegar",
+        "बेकिंग सोडा (NaHCO3) solution",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acids turn blue litmus red. Vinegar contains dilute एसिटिक अम्ल (CH3COOH, pH approx. 2.5), जबकि धावन सोडा (Na2CO3·10H2O) (Na2CO3) and बेकिंग सोडा (NaHCO3) (NaHCO3) are क्षारीय.",
+      "tip_hi": "Acid turns Blue to Red ('ABR'); Base turns Red to Blue ('BRB'). Vinegar is अम्लीय; sodas are alkaline."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -509,7 +752,16 @@
       "answer_text": "Bangladesh",
       "explanation": "India shares its longest land border of 4,096.7 km with Bangladesh, spanning West Bengal, Meghalaya, Mizoram, Assam, and Tripura.",
       "tip": "Border lengths mnemonic: Bangladesh (4,096.7 km) > China (3,488 km) > Pakistan (3,323 km) > Nepal (1,751 km).",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "Pakistan",
+        "Nepal",
+        "Bangladesh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "India shares its longest land border of 4,096.7 किमी with Bangladesh, spanning पश्चिम Bengal, Meghalaya, Mizoram, Assam, and Tripura.",
+      "tip_hi": "Border lengths mnemonic: Bangladesh (4,096.7 किमी) > China (3,488 किमी) > Pakistan (3,323 किमी) > Nepal (1,751 किमी)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -527,7 +779,16 @@
       "answer_text": "42nd Constitutional Amendment",
       "explanation": "The 42nd Constitutional Amendment Act, 1976 curtailed judicial review powers of the Supreme Court and High Courts, declaring that constitutional amendments could not be questioned in court.",
       "tip": "42nd Amendment (1976) is known as the 'Mini-Constitution'; judicial review powers were later restored by the 44th Amendment (1978).",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "42nd Constitutional संशोधन",
+        "43rd Constitutional संशोधन",
+        "40वां Constitutional संशोधन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 42nd संविधान संशोधन अधिनियम, 1976 curtailed judicial review powers of the सर्वोच्च न्यायालय and High Courts, declaring that constitutional amendments could not be questioned in court.",
+      "tip_hi": "42nd संशोधन (1976) is के रूप में जाना जाता है the 'Mini-Constitution'; judicial review powers were later restored by the 44th संशोधन (1978)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -545,7 +806,16 @@
       "answer_text": "2",
       "explanation": "Using algebraic identity (a + b)² - 2ab = a² + b²: the expression simplifies to 2 * (a² + b²) / (a² + b²) = 2.",
       "tip": "Never compute large numerical squares; substitute variables a = 467, b = 359 to simplify algebraically in seconds.",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "2",
+        "3",
+        "1",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Using algebraic identity (a + b)² - 2ab = a² + b²: the expression simplifies to 2 * (a² + b²) / (a² + b²) = 2.",
+      "tip_hi": "Never compute large numerical squares; substitute variables a = 467, b = 359 to simplify algebraically in सेकंड."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -563,7 +833,16 @@
       "answer_text": "More than one of the above",
       "explanation": "Pyramid of number can be inverted (e.g., single tree ecosystem supporting parasites), and Pyramid of biomass can be inverted (e.g., aquatic ecosystem). Both (A) and (B) qualify.",
       "tip": "Pyramid of energy is ALWAYS upright (10% law). Both Pyramid of Number and Pyramid of Biomass can be inverted; choose (D).",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "Pyramid of number",
+        "Pyramid of biomass",
+        "Pyramid of energy",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pyramid of number can be inverted (e.g., single tree ecosystem supporting parasites), and Pyramid of biomass can be inverted (e.g., aquatic ecosystem). Both (A) and (B) qualify.",
+      "tip_hi": "Pyramid of energy is ALWAYS upright (10% law). Both Pyramid of Number and Pyramid of Biomass can be inverted; choose (D)."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -581,7 +860,16 @@
       "answer_text": "21.8 kilometers",
       "explanation": "The Mumbai Trans Harbour Link (MTHL / Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu) is India's longest sea bridge, measuring 21.8 km (16.5 km over sea).",
       "tip": "Atal Setu = 21.8 km total length; longest sea bridge in India, inaugurated in early 2024.",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "21.5 kilometers",
+        "21.8 kilometers",
+        "21.3 kilometers",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Mumbai Trans Harbour Link (MTHL / Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu) is India's longest sea bridge, measuring 21.8 किमी (16.5 किमी over sea).",
+      "tip_hi": "Atal Setu = 21.8 किमी total length; longest sea bridge in India, inaugurated in early 2024."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -599,7 +887,16 @@
       "answer_text": "Coke",
       "explanation": "Coke is nearly pure carbon, used as a primary reducing agent in blast furnaces to extract metals like iron from their oxide ores.",
       "tip": "Coke reduces metal oxides (Fe2O3 + 3C -> 2Fe + 3CO); coal tar is used for surfacing roads and dyes.",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "Coke",
+        "Petroleum",
+        "Coal tar",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Coke is nearly pure carbon, used as a primary reducing agent in blast furnaces to extract metals like iron from their oxide ores.",
+      "tip_hi": "Coke reduces metal oxides (Fe2O3 + 3C -> 2Fe + 3CO); coal tar is used for surfacing roads and dyes."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -617,7 +914,16 @@
       "answer_text": "Ethanol",
       "explanation": "Ethanol (ethyl alcohol, C2H5OH) is the psychoactive substance suitable for potable alcoholic beverages. Methanol (methyl alcohol, CH3OH) is highly poisonous.",
       "tip": "Potable drinking alcohol = Ethanol (C2H5OH); Toxic industrial alcohol = Methanol (CH3OH, causes blindness and death).",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "Methanol",
+        "Hexenol",
+        "Ethanol",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ethanol (ethyl alcohol, C2H5OH) is the psychoactive substance suitable for potable alcoholic beverages. Methanol (methyl alcohol, CH3OH) is highly poisonous.",
+      "tip_hi": "Potable drinking alcohol = Ethanol (C2H5OH); Toxic industrial alcohol = Methanol (CH3OH, causes blindness and death)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -635,7 +941,16 @@
       "answer_text": "3167",
       "explanation": "Prime Minister Narendra Modi released the summary of the 5th cycle of Management Effectiveness Evaluation of Tiger Reserves in April 2023, declaring 3,167 tigers in India.",
       "tip": "Tiger population grew from 2,967 (2018) to 3,167 (2022 census released in 2023).",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "3167",
+        "3267",
+        "3067",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary of the 5th cycle of Management Effectiveness Evaluation of Tiger Reserves in अप्रैल 2023, declaring 3,167 tigers in India.",
+      "tip_hi": "Tiger population grew from 2,967 (2018) to 3,167 (2022 जनगणना released in 2023)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -653,7 +968,16 @@
       "answer_text": "Shekhar Pathak",
       "explanation": "Historian Shekhar Pathak authored 'The Chipko Movement: A People's History' (translated by Manisha Chaudhry), which won the Kamaladevi Chattopadhyay NIF Book Prize 2022.",
       "tip": "Award-winning environmental history books are heavily tested in BPSC General Studies.",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "Shekhar Pathak",
+        "Shekhar Joshi",
+        "Shekhar Pandey",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Historian Shekhar Pathak authored 'The Chipko Movement: A People's History' (translated by Manisha Chaudhry), which won the Kamaladevi Chattopadhyay NIF Book Prize 2022.",
+      "tip_hi": "Award-winning environmental history books are heavily tested in BPSC General Studies."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -671,7 +995,16 @@
       "answer_text": "181",
       "explanation": "There are 90 degrees North, 90 degrees South, and 1 Equator (0 degree): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
       "tip": "Total parallels of latitude = 181 (including 0° and two 90° poles); Latitude circles = 179.",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "179",
+        "180",
+        "181",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "There are 90 डिग्री उत्तर, 90 डिग्री दक्षिण, and 1 Equator (0 डिग्री): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
+      "tip_hi": "Total parallels of latitude = 181 (including 0° and two 90° poles); Latitude circles = 179."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -689,7 +1022,16 @@
       "answer_text": "None of the above",
       "explanation": "Barauni Oil Refinery (established in 1964 with Soviet collaboration) is situated in Begusarai district of Bihar. Since Begusarai is not in (A), (B), or (C), Option (E) is correct.",
       "tip": "Barauni Refinery, Barauni Thermal Power Station, and Fertilizer Plant are all located in Begusarai district.",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "Bhagalpur",
+        "Munger",
+        "Patna",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Barauni Oil Refinery (established in 1964 with Soviet collaboration) is situated in Begusarai district of Bihar. Since Begusarai is not in (A), (B), or (C), Option (E) is correct.",
+      "tip_hi": "Barauni Refinery, Barauni Thermal Power Station, and Fertilizer Plant are all located in Begusarai district."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -707,7 +1049,16 @@
       "answer_text": "Bhagalpur",
       "explanation": "Bhagalpur is globally renowned as the 'Silk City' (रेशमी शहर) of Bihar, producing Tussar silk, Eri silk, and famous Bhagalpuri silk sarees.",
       "tip": "Silk City of Bihar = Bhagalpur; Cotton handlooms = Gaya & Madhubani; Jute = Purnea & Katihar.",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "Madhubani",
+        "Bhagalpur",
+        "Aurangabad",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bhagalpur is globally renowned as the 'Silk City' (रेशमी शहर) of Bihar, producing Tussar silk, Eri silk, and famous Bhagalpuri silk sarees.",
+      "tip_hi": "Silk City of Bihar = Bhagalpur; Cotton handlooms = Gaya & Madhubani; Jute = Purnea & Katihar."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Principal (December 2023)",
@@ -725,7 +1076,16 @@
       "answer_text": "None of the above",
       "explanation": "Gopal Krishna Gokhale was the political mentor and guru of Mahatma Gandhi, who advised him to travel across India for one year to understand ground realities. Gokhale is omitted from (A), (B), and (C).",
       "tip": "Gandhi's Political Guru = Gopal Krishna Gokhale; Gokhale's Political Guru = Justice M.G. Ranade. When Gokhale is not in A, B, or C, select Option (E).\nAnswer Key Summary Table — Set 3 (Q.81 to Q.120)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key",
-      "id": 40
+      "id": 40,
+      "options_hi": [
+        "दादाभाई नौरोजी",
+        "M. G. Ranade",
+        "Surendranath Banerjea",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "गोपाल कृष्ण गोखले was the political mentor and guru of महात्मा गांधी, who advised him to travel across India for one वर्ष to understand ground realities. Gokhale is omitted from (A), (B), and (C).",
+      "tip_hi": "Gandhi's Political Guru = गोपाल कृष्ण गोखले; Gokhale's Political Guru = Justice M.G. Ranade. When Gokhale is not in A, B, or C, select Option (E).\nAnswer Key Summary Table — Set 3 (Q.81 to Q.120)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
     }
   ]
 }

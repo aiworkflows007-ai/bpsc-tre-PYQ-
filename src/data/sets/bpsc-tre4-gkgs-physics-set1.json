@@ -1,0 +1,551 @@
+{
+  "id": "bpsc-tre4-gkgs-physics-set1",
+  "title": "General Science: Physics Set 1 (20Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Physics",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 20,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "Which of the following makes use of Newton's third law of motion?",
+      "hi": "निम्नलिखित में से कौन-सा न्यूटन के गति के तीसरे नियम का उपयोग करता है?",
+      "options": [
+        "Archery",
+        "Space rocket",
+        "Venturimeter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Archery (bowstring pushing arrow and arrow reacting on string) and Space rockets (expulsion of combustion gases creating forward thrust) both utilize action-reaction.",
+      "tip": "Whenever two independent options validly apply Newton's 3rd Law, select Option (D).",
+      "id": 1,
+      "options_hi": [
+        "Archery",
+        "Space rocket",
+        "Venturimeter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Archery (bowstring pushing arrow and arrow reacting on string) and Space rockets (expulsion of combustion गैस creating forward thrust) both utilize action-reaction.",
+      "tip_hi": "Whenever two independent options validly apply Newton's 3rd Law, select Option (D)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "The Partition of Bengal was made effective on",
+      "hi": "बंगाल विभाजन किस तिथि को प्रभावी हुआ था?",
+      "options": [
+        "14 October, 1905",
+        "15 October, 1905",
+        "16 October, 1905",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "16 October, 1905",
+      "explanation": "Lord Curzon's partition of Bengal took official effect on 16th October 1905, marked as a day of national mourning and Rakhi Bandhan across Bengal.",
+      "tip": "Timeline of 1905: 20 July (Partition announced) -> 7 August (Boycott resolution at Calcutta) -> 16 October (Enforced).",
+      "id": 2,
+      "options_hi": [
+        "14 अक्टूबर, 1905",
+        "15 अक्टूबर, 1905",
+        "16 अक्टूबर, 1905",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Lord Curzon's partition of Bengal took official effect on 16th अक्टूबर 1905, marked as a दिन of national mourning and Rakhi Bandhan across Bengal.",
+      "tip_hi": "Timeline of 1905: 20 जुलाई (Partition announced) -> 7 अगस्त (Boycott resolution at Calcutta) -> 16 अक्टूबर (Enforced)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which muscular structures inside the human eyeball adjust the focal length of the crystalline lens to focus clearly on near and distant objects?",
+      "hi": "मानव नेत्र के भीतर कौन-सी पेशीय संरचनाएं निकट और दूर की वस्तुओं पर स्पष्ट फोकस करने के लिए क्रिस्टलीय लेंस की फोकस दूरी को समायोजित करती हैं?",
+      "options": [
+        "Iris",
+        "Ciliary Muscles (पक्ष्माभी पेशियां)",
+        "Cornea",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ciliary Muscles (पक्ष्माभी पेशियां)",
+      "explanation": "Ciliary muscles contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.",
+      "tip": "Power of accommodation = Ciliary muscles; Regulates pupil size and light entry = Iris.",
+      "id": 3,
+      "options_hi": [
+        "आईरिस",
+        "सिलियरी मांसपेशियां (पक्ष्माभी पेशियां)",
+        "कॉर्निया",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सिलियरी मांसपेशियां contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.",
+      "tip_hi": "Power of accommodation = सिलियरी मांसपेशियां; Regulates पुतली size and light entry = आईरिस."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the approximate numerical value of the escape velocity (ve) of a projectile from the surface of the Earth?(",
+      "hi": "पृथ्वी की सतह से किसी प्रक्षेप्य के पलायन वेग (ve) का लगभग संख्यात्मक मान क्या होता है?)",
+      "options": [
+        "9.8 km/s",
+        "11.2 km/s",
+        "15.4 km/s",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "11.2 km/s",
+      "explanation": "Escape velocity ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 km/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 km/s (ve = √2 * vo).",
+      "tip": "Escape velocity from Earth = 11.2 km/s; from Moon = 2.4 km/s; Orbital velocity = 7.9 km/s.",
+      "id": 4,
+      "options_hi": [
+        "9.8 किमी/s",
+        "11.2 किमी/s",
+        "15.4 किमी/s",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पलायन वेग ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 किमी/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 किमी/s (ve = √2 * vo).",
+      "tip_hi": "पलायन वेग from Earth = 11.2 किमी/s; from Moon = 2.4 किमी/s; Orbital velocity = 7.9 किमी/s."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which fierce engagement on 23 April 1858 did Babu Kunwar Singh inflict a crushing defeat on the British forces commanded by Captain Le Grand near Jagdishpur?",
+      "hi": "23 अप्रैल 1858 को किस भीषण युद्ध में बाबू कुंवर सिंह ने जगदीशपुर के निकट कैप्टन ली ग्रांड की ब्रिटिश सेना को करारी शिकस्त दी थी?",
+      "options": [
+        "Battle of Bibiganj",
+        "Battle of Jagdishpur",
+        "Battle of Arrah House",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Battle of Jagdishpur",
+      "explanation": "Despite losing his left arm crossing the Ganga, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 April 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 April as 'Vijay Utsav'.",
+      "tip": "Kunwar Singh's victory over Captain Le Grand = 23 April 1858 (Celebrated as Vijay Diwas in Bihar).",
+      "id": 5,
+      "options_hi": [
+        "Battle of Bibiganj",
+        "Battle of Jagdishpur",
+        "Battle of Arrah House",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Despite losing his left arm crossing the गंगा नदी, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 अप्रैल 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 अप्रैल as 'Vijay Utsav'.",
+      "tip_hi": "Kunwar Singh's victory over Captain Le Grand = 23 अप्रैल 1858 (Celebrated as Vijay Diwas in Bihar)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which Article in Part XX of the Constitution of India specifies the power and procedure of Parliament to amend the Constitution?",
+      "hi": "भारतीय संविधान के भाग XX का कौन-सा अनुच्छेद संविधान में संशोधन करने की संसद की शक्ति और प्रक्रिया को निर्दिष्ट करता है?",
+      "options": [
+        "Article 356",
+        "Article 368",
+        "Article 370",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 368",
+      "explanation": "Article 368 empowers Parliament to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'Basic Structure' doctrine (Kesavananda Bharati case 1973).",
+      "tip": "Amendment of Constitution = Article 368 (Part XX, borrowed from South Africa).",
+      "id": 6,
+      "options_hi": [
+        "अनुच्छेद 356",
+        "अनुच्छेद 368",
+        "अनुच्छेद 370",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 368 empowers संसद to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'क्षारीय Structure' doctrine (Kesavananda Bharati case 1973).",
+      "tip_hi": "संशोधन of Constitution = अनुच्छेद 368 (Part XX, borrowed from दक्षिण Africa)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In the Seventh Schedule of the Constitution of India, the subject 'Public Health and Sanitation; Hospitals and Dispensaries' is included in which legislative list?",
+      "hi": "भारतीय संविधान की सातवीं अनुसूची में 'लोक स्वास्थ्य और स्वच्छता; अस्पताल और औषधालय' किस सूची में शामिल है?",
+      "options": [
+        "Union List",
+        "State List (List II)",
+        "Concurrent List",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "State List (List II)",
+      "explanation": "Public health, sanitation, hospitals, and dispensaries fall under Entry 6 of List II (State List). Education, forests, and weights & measures are in the Concurrent List (List III).",
+      "tip": "Public Health, Police, Agriculture, Local Govt = State List; Defence, Railways, Banking = Union List; Education, Forests = Concurrent List.",
+      "id": 7,
+      "options_hi": [
+        "Union List",
+        "State List (List II)",
+        "Concurrent List",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Public health, sanitation, hospitals, and dispensaries fall under Entry 6 of List II (State List). Education, forests, and weights & measures are in the Concurrent List (List III).",
+      "tip_hi": "Public Health, Police, Agriculture, Local Govt = State List; Defence, Railways, Banking = Union List; Education, Forests = Concurrent List."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was the chief military strategist and commander-in-chief of Babu Kunwar Singh's revolutionary forces during the 1857 rebellion in Bihar?",
+      "hi": "बिहार में 1857 के विद्रोह के दौरान बाबू कुंवर सिंह की क्रांतिकारी सेना के मुख्य सैन्य रणनीतिकार और सेनापति कौन थे?",
+      "options": [
+        "Nishan Singh",
+        "Hare Krishna Singh (हरे कृष्ण सिंह)",
+        "Amar Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hare Krishna Singh (हरे कृष्ण सिंह)",
+      "explanation": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.",
+      "tip": "Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh.",
+      "id": 8,
+      "options_hi": [
+        "Nishan Singh",
+        "Hare Krishna Singh (हरे कृष्ण सिंह)",
+        "Amar Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.",
+      "tip_hi": "Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which official State Tree (राजकीय वृक्ष) of Bihar is venerated across the State and is renowned in Buddhist history as the Bodhi Tree?",
+      "hi": "बिहार का राजकीय वृक्ष कौन-सा है जो बौद्ध इतिहास में बोधि वृक्ष के रूप में विख्यात है?",
+      "options": [
+        "Banyan Tree (वट वृक्ष)",
+        "Peepal Tree (Ficus religiosa)",
+        "Sal Tree",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Peepal Tree (Ficus religiosa)",
+      "explanation": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).",
+      "tip": "State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa).",
+      "id": 9,
+      "options_hi": [
+        "Banyan Tree (वट वृक्ष)",
+        "Peepal Tree (Ficus religiosa)",
+        "Sal Tree",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).",
+      "tip_hi": "State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Under the Constitution of India, who is the Supreme Commander of the Defence Forces of the Union of India?(",
+      "hi": "भारत के संविधान के तहत भारतीय संघ के रक्षा बलों का सर्वोच्च समादेशक (Supreme Commander) कौन होता है?)",
+      "options": [
+        "Prime Minister of India",
+        "President of India",
+        "Chief of Defence Staff (CDS)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "President of India",
+      "explanation": "Article 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.",
+      "tip": "Supreme Commander of Armed Forces = President of India (Article 53(2)).",
+      "id": 10,
+      "options_hi": [
+        "प्रधानमंत्री of India",
+        "राष्ट्रपति of India",
+        "Chief of Defence Staff (CDS)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the राष्ट्रपति and the exercise thereof shall be regulated by law.",
+      "tip_hi": "Supreme Commander of Armed Forces = राष्ट्रपति of India (अनुच्छेद 53(2))."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which Article of the Constitution of India empowers the President of India to grant pardons, reprieves, respites or remissions of punishment to any person convicted of an offence?",
+      "hi": "भारतीय संविधान का कौन-सा अनुच्छेद भारत के राष्ट्रपति को किसी अपराध के लिए दोषी ठहराए गए व्यक्ति को क्षमादान, प्रविलंबन, विराम या परिहार देने की शक्ति प्रदान करता है?",
+      "options": [
+        "Article 61",
+        "Article 72",
+        "Article 161",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 72",
+      "explanation": "Article 72 grants pardoning powers to the President for offences against Union laws, court-martial sentences, and all death sentences. The Governor has corresponding pardoning powers under Article 161 (except court martial and death sentence pardon).",
+      "tip": "Pardoning Power: President = Article 72; Governor = Article 161.",
+      "id": 11,
+      "options_hi": [
+        "अनुच्छेद 61",
+        "अनुच्छेद 72",
+        "अनुच्छेद 161",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 72 grants pardoning powers to the राष्ट्रपति for offences against Union laws, court-martial sentences, and all death sentences. The राज्यपाल has corresponding pardoning powers under अनुच्छेद 161 (except court martial and death sentence pardon).",
+      "tip_hi": "Pardoning Power: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the SI unit of magnetic flux in electromagnetism?(",
+      "hi": "विद्युत चुंबकत्व में चुंबकीय फ्लक्स (Magnetic Flux) का SI मात्रक क्या है?)",
+      "options": [
+        "Tesla",
+        "Weber (Wb)",
+        "Henry",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Weber (Wb)",
+      "explanation": "Magnetic flux is measured in Weber (Wb = Tesla * m^2). Tesla (T) is the unit of magnetic flux density / magnetic field strength, and Henry (H) is the unit of inductance.",
+      "tip": "Magnetic Flux = Weber (Wb); Magnetic Field = Tesla (T); Inductance = Henry (H).",
+      "id": 12,
+      "options_hi": [
+        "टेस्ला",
+        "वेबर (Wb)",
+        "हेनरी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "चुंबकीय फ्लक्स is measured in वेबर (Wb = टेस्ला * m^2). टेस्ला (T) is the unit of चुंबकीय फ्लक्स density / चुंबकीय क्षेत्र strength, and हेनरी (H) is the unit of inductance.",
+      "tip_hi": "चुंबकीय फ्लक्स = वेबर (Wb); चुंबकीय क्षेत्र = टेस्ला (T); Inductance = हेनरी (H)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under the Constitution of India, the power to grant pardons and commute death sentences is vested exclusively in the",
+      "hi": "भारतीय संविधान के तहत मृत्युदंड की सजा को माफ करने और लघुकरण की अनन्य शक्ति किसमें निहित है?",
+      "options": [
+        "President of India",
+        "Governor of the State",
+        "Chief Justice of India",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "President of India",
+      "explanation": "Under Article 72, the President has the exclusive power to pardon death sentences. Although Article 161 empowers the Governor to commute or suspend sentences, the Governor cannot grant an absolute pardon in death penalty cases.",
+      "tip": "Absolute pardon for death sentence = President of India alone (Article 72).",
+      "id": 13,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "राज्यपाल of the State",
+        "Chief Justice of India",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 72, the राष्ट्रपति has the exclusive power to pardon death sentences. Although अनुच्छेद 161 empowers the राज्यपाल to commute or suspend sentences, the राज्यपाल cannot grant an absolute pardon in death penalty cases.",
+      "tip_hi": "Absolute pardon for death sentence = राष्ट्रपति of India alone (अनुच्छेद 72)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the tenure of the Comptroller and Auditor General (CAG) of India in constitutional office?(",
+      "hi": "भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) के संवैधानिक पद का कार्यकाल कितना होता है?)",
+      "options": [
+        "5 years or up to 62 years of age",
+        "6 years or up to 65 years of age, whichever is earlier",
+        "5 years or up to 65 years of age",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "6 years or up to 65 years of age, whichever is earlier",
+      "explanation": "Under the CAG (Duties, Powers and Conditions of Service) Act 1971, the CAG holds office for a term of 6 years or until attaining the age of 65 years, whichever is earlier, and cannot hold any further office under Government of India.",
+      "tip": "CAG & UPSC Chairman tenure = 6 years or 65 years of age, whichever is earlier.",
+      "id": 14,
+      "options_hi": [
+        "5 वर्ष or up to 62 वर्ष of age",
+        "6 वर्ष or up to 65 वर्ष of age, whichever is earlier",
+        "5 वर्ष or up to 65 वर्ष of age",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under the CAG (Duties, Powers and Conditions of Service) Act 1971, the CAG holds office for a term of 6 वर्ष or until attaining the age of 65 वर्ष, whichever is earlier, and cannot hold any further office under Government of India.",
+      "tip_hi": "CAG & UPSC Chairman tenure = 6 वर्ष or 65 वर्ष of age, whichever is earlier."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "One kilowatt-hour (1 kWh), commonly designated as one commercial 'unit' of electrical energy, is equal to how many Joules?(",
+      "hi": "एक किलोवाट-घंटा (1 kWh), जिसे सामान्यतः विद्युत ऊर्जा की एक 'यूनिट' कहा जाता है, कितने जूल के बराबर होता है?)",
+      "options": [
+        "3.6 × 10^5 J",
+        "3.6 × 10^6 J",
+        "3.6 × 10^7 J",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3.6 × 10^6 J",
+      "explanation": "1 kWh = 1,000 Watts * 3,600 seconds = 3,600,000 Watt-seconds = 3.6 × 10^6 Joules.",
+      "tip": "1 commercial electrical unit = 1 kWh = 3.6 * 10^6 J.",
+      "id": 15,
+      "options_hi": [
+        "3.6 × 10^5 J",
+        "3.6 × 10^6 J",
+        "3.6 × 10^7 J",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "1 kWh = 1,000 Watts * 3,600 सेकंड = 3,600,000 वाट-सेकंड = 3.6 × 10^6 Joules.",
+      "tip_hi": "1 commercial electrical unit = 1 kWh = 3.6 * 10^6 J."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The River Falgu, celebrated for the religious performance of Pinda Daan during Pitru Paksha in Gaya, is formed by the confluence of which two streams?",
+      "hi": "गया में पितृपक्ष के दौरान पिंडदान के लिए प्रसिद्ध फल्गु नदी किन दो धाराओं के संगम से बनती है?",
+      "options": [
+        "Son and North Koel",
+        "Lilajan (Nilanjana) and Mohana",
+        "Punpun and Dardha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lilajan (Nilanjana) and Mohana",
+      "explanation": "The Falgu River is formed by the meeting of the Lilajan (ancient Niranjana, on whose banks Buddha meditated) and the Mohana River near Bodh Gaya. It flows past the Vishnupad Temple in Gaya city.",
+      "tip": "Falgu River formed by = Lilajan (Niranjana) + Mohana; Buddha attained enlightenment on banks of Niranjana.",
+      "id": 16,
+      "options_hi": [
+        "सोन नदी and उत्तर Koel",
+        "Lilajan (Nilanjana) and Mohana",
+        "Punpun and Dardha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Falgu River is formed by the meeting of the Lilajan (ancient Niranjana, on whose banks Buddha meditated) and the Mohana River near Bodh Gaya. It flows past the Vishnupad Temple in Gaya city.",
+      "tip_hi": "Falgu River formed by = Lilajan (Niranjana) + Mohana; Buddha attained enlightenment on banks of Niranjana."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under Article 123 of the Constitution of India, who possesses the legislative power to promulgate Ordinances during the recess of Parliament?",
+      "hi": "भारतीय संविधान के अनुच्छेद 123 के तहत संसद के विश्रांतिकाल में अध्यादेश प्रख्यापित करने की विधायी शक्ति किसमें निहित है?",
+      "options": [
+        "Prime Minister of India",
+        "President of India",
+        "Chief Justice of India",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "President of India",
+      "explanation": "Article 123 empowers the President to promulgate Ordinances when either House of Parliament is not in session, having the same force and effect as an Act of Parliament. An Ordinance must be approved by Parliament within 6 weeks of reassembly.",
+      "tip": "Ordinance promulgation: President = Article 123; Governor = Article 213.",
+      "id": 17,
+      "options_hi": [
+        "प्रधानमंत्री of India",
+        "राष्ट्रपति of India",
+        "Chief Justice of India",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 123 empowers the राष्ट्रपति to promulgate Ordinances when either House of संसद is not in session, having the same force and effect as an Act of संसद. An अध्यादेश must be approved by संसद within 6 सप्ताह of reassembly.",
+      "tip_hi": "अध्यादेश promulgation: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under Article 312 of the Constitution of India, the creation of one or more new 'All-India Services' (common to Union and States) can be initiated exclusively by a resolution passed by",
+      "hi": "भारतीय संविधान के अनुच्छेद 312 के तहत नई अखिल भारतीय सेवाओं के सृजन की पहल विशेष रूप से किसके द्वारा पारित संकल्प द्वारा की जा सकती है?",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha (राज्य सभा)",
+        "Union Cabinet",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajya Sabha (राज्य सभा)",
+      "explanation": "Article 312 provides that if the Rajya Sabha declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, Parliament may by law create new All-India Services.",
+      "tip": "Exclusive special powers of Rajya Sabha: Article 249 (State list legislation) and Article 312 (New All-India Services).",
+      "id": 18,
+      "options_hi": [
+        "लोकसभा",
+        "राज्यसभा (राज्य सभा)",
+        "Union Cabinet",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 312 provides that if the राज्यसभा declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, संसद मई by law create new All-India Services.",
+      "tip_hi": "Exclusive special powers of राज्यसभा: अनुच्छेद 249 (State list legislation) and अनुच्छेद 312 (New All-India Services)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What was the focal theme and name of India's maiden human spaceflight mission slated for orbital deployment by ISRO?",
+      "hi": "इसरो द्वारा कक्षा में प्रक्षेपित किए जाने वाले भारत के पहले मानव अंतरिक्ष उड़ान मिशन का नाम क्या है?",
+      "options": [
+        "Chandrayaan",
+        "Gaganyaan (गगनयान)",
+        "Mangalyaan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Gaganyaan (गगनयान)",
+      "explanation": "Gaganyaan is India's human spaceflight program aiming to demonstrate human spaceflight capability by launching a crew of three members to a 400 km low Earth orbit for a 3-day mission and returning them safely to Earth.",
+      "tip": "India's manned space mission = Gaganyaan (4 IAF astronaut designates selected); Test humanoid robot = Vyommitra.\nAnswer Key Summary Table — Set 14 (Questions 521 to 560)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 19,
+      "options_hi": [
+        "Chandrayaan",
+        "Gaganyaan (गगनयान)",
+        "Mangalyaan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gaganyaan is India's human spaceflight program aiming to demonstrate human spaceflight capability by launching a crew of three members to a 400 किमी low Earth orbit for a 3-दिन mission and returning them safely to Earth.",
+      "tip_hi": "India's manned space mission = Gaganyaan (4 IAF astronaut designates selected); Test humanoid robot = Vyommitra.\nAnswer Key Summary Table — Set 14 (Questions 521 to 560)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    },
+    {
+      "source": "BPSC Official Exam Booklet",
+      "en": "BPSC TRE 2.0 - TGT Social Science &\nWhat was the focal theme and name of India's maiden human...\n(B)\nBPSC TRE 4.0: Exam Setter's 5-Option Elimination Strategy\nThe distinctive feature of the Bihar Public Service Commission (BPSC) teacher recruitment examinations is its 5-option structure. Understanding the statistical frequency and construction logic of Option (D) ('More than one of the above') and Option (E) ('None of the above') provides candidates with a decisive competitive advantage:\nGolden Rules for Tackling Option (D) and Option (E)1. The 2-Check Rule for Option (D):   Whenever you independently verify that two of the three specific options (",
+      "hi": "BPSC TRE 2.0 - TGT Social Science &\nWhat was the focal theme and name of India's maiden human...\n(B)\nBPSC TRE 4.0: Exam Setter's 5-Option Elimination Strategy\nThe distinctive feature of the Bihar Public Service Commission (BPSC) teacher recruitment examinations is its 5-option structure. Understanding the statistical frequency and construction logic of Option (D) ('More than one of the above') and Option (E) ('None of the above') provides candidates with a decisive competitive advantage:\nGolden Rules for Tackling Option (D) and Option (E)1. The 2-Check Rule for Option (D):   Whenever you independently verify that two of the three specific options (",
+      "options": [
+        "BPSC TRE 4.0:",
+        "('More than one of the above') and Option",
+        "('None of the above') provides candidates with a decisive competitive advantage:\nGolden Rules for Tackling Option",
+        "and Option",
+        "1. The 2-Check Rule for Option"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "('More than one of the above') and Option",
+      "explanation": "",
+      "tip": "",
+      "id": 20,
+      "options_hi": [
+        "BPSC TRE 4.0:",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "",
+      "tip_hi": ""
+    }
+  ]
+}

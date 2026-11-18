@@ -76,6 +76,24 @@
 .hi-btn{background:#9a3412}
 .qualifying-choice-card:hover .hi-btn{background:#c2410c}
 
+/* GK/GS Subject Selector */
+.gkgs-subject-chooser{margin-top:10px}
+.gkgs-banner-hero{background:linear-gradient(135deg, #0e3b43 0%, #102a43 100%);color:#fff;padding:24px 28px;border-radius:16px;margin-bottom:24px}
+.gkgs-banner-hero h2{font-size:24px;color:#fff;margin:10px 0 8px}
+.gkgs-banner-hero p{font-size:14px;color:#cbd5e1;margin:0;line-height:1.5;max-width:820px}
+.gkgs-cards-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+.gkgs-choice-card{background:#fff;border:2px solid #e2e8f0;border-radius:16px;padding:22px;cursor:pointer;transition:all .2s ease;display:flex;flex-direction:column;justify-content:space-between}
+.gkgs-choice-card:hover{transform:translateY(-3px);border-color:#147d75;box-shadow:0 12px 30px rgba(16,42,67,0.1)}
+.gkgs-card-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.gkgs-card-tag{font-size:11px;font-weight:800;letter-spacing:.06em;padding:4px 10px;border-radius:99px;background:#ecfeff;color:#0e7490;border:1px solid #cffafe}
+.gkgs-card-icon{font-size:32px}
+.gkgs-choice-card h3{font-size:18px;margin:0 0 8px;color:#0f172a;line-height:1.3}
+.gkgs-choice-card p{font-size:13px;color:#64748b;line-height:1.5;margin:0 0 16px}
+.gkgs-card-features{display:flex;flex-direction:column;gap:6px;font-size:12.5px;color:#334155;margin-bottom:18px;padding:10px 12px;background:#f8fafc;border-radius:10px}
+.gkgs-card-features span{display:flex;align-items:center;gap:6px;font-weight:500}
+.gkgs-select-btn{background:#102a43;color:#fff;border:0;padding:11px 16px;border-radius:10px;font-size:14px;font-weight:700;cursor:pointer;transition:.15s;width:100%;text-align:center}
+.gkgs-choice-card:hover .gkgs-select-btn{background:#147d75}
+
 /* Practice In-Question Solution & Tricks Toggle */
 .practice-action-row{margin:18px 0 12px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
 .toggle-solution-btn{background:#f0fdf4;border:1px solid #86efac;color:#166534;padding:8px 16px;border-radius:8px;font-size:13px;font-weight:700;cursor:pointer;display:inline-flex;align-items:center;gap:6px;transition:.15s}
@@ -90,6 +108,7 @@
 
 @media(max-width:760px){
 .qualifying-cards-grid{grid-template-columns:1fr}
+.gkgs-cards-grid{grid-template-columns:1fr}
 .progression-banner{flex-direction:column;align-items:flex-start}
 .set-card-grid{grid-template-columns:1fr}
 .unlock-celebration-banner{flex-direction:column;align-items:flex-start}

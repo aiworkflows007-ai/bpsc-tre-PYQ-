@@ -23,7 +23,16 @@
       "answer_text": "None of the above",
       "explanation": "The quantifier phrase 'so many' does not permit an article before it when qualifying plural countable nouns ('friends'). Hence, zero article is required.💡 Setter's",
       "tip": "Watch out for pre-determiners like 'so many' or 'too many'; they never take an article ('a/an/the') directly in front.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "a",
+        "an",
+        "the",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The quantifier phrase 'so many' does not permit an article before it when qualifying plural countable nouns ('friends'). Hence, zero article is required.💡 Setter's",
+      "tip_hi": "Watch out for pre-determiners like 'so many' or 'too many'; they never take an article ('a/an/the') directly in front."
     },
     {
       "source": "BPSC TRE 1.0",
@@ -41,7 +50,16 @@
       "answer_text": "a",
       "explanation": "The singular countable noun phrase 'very big house' begins with the consonant sound /v/, requiring the indefinite article 'a'.💡 Setter's",
       "tip": "Article choice depends strictly on the phonetic sound of the immediate next word; 'very' starts with a consonant sound, so use 'a'.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "a",
+        "an",
+        "the",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The singular countable noun phrase 'very big house' begins with the consonant sound /v/, requiring the indefinite article 'a'.💡 Setter's",
+      "tip_hi": "Article choice depends strictly on the phonetic sound of the immediate next word; 'very' starts with a consonant sound, so use 'a'."
     },
     {
       "source": "BPSC TRE 1.0",
@@ -59,7 +77,16 @@
       "answer_text": "Wardrobe",
       "explanation": "Flowers and grass are typical outdoor garden elements, whereas a wardrobe is an indoor furniture unit designed for storing clothing.💡 Setter's",
       "tip": "For negative category questions ('not a part of...'), spot the domestic bedroom/indoor item that contradicts the outdoor domain.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "Flowers",
+        "Grass",
+        "Wardrobe",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Flowers and grass are typical outdoor garden elements, whereas a wardrobe is an indoor furniture unit designed for storing clothing.💡 Setter's",
+      "tip_hi": "For negative category questions ('not a part of...'), spot the domestic bedroom/indoor item that contradicts the outdoor domain."
     },
     {
       "source": "BPSC TRE 1.0",
@@ -77,7 +104,16 @@
       "answer_text": "More than one of the above",
       "explanation": "Platforms, pedestrian overbridges, and arrival-departure indicators/counters are all essential standard components of a railway station.💡 Setter's",
       "tip": "Whenever you verify that at least two individual options (A and B) are undeniably correct, immediately select Option (D).",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "Platform",
+        "Overbridge",
+        "Arrival-Departure",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Platforms, pedestrian overbridges, and arrival-departure indicators/counters are all essential standard components of a railway station.💡 Setter's",
+      "tip_hi": "Whenever you verify that at least two individual options (A and B) are undeniably correct, immediately select Option (D)."
     },
     {
       "source": "BPSC TRE 1.0",
@@ -95,7 +131,16 @@
       "answer_text": "P",
       "explanation": "Letter J is the 10th letter of the alphabet. Counting 6 positions forward: 10 + 6 = 16th letter, which is 'P' (K, L, M, N, O, P).💡 Setter's",
       "tip": "Convert letters to numbers (EJOTY: E=5, J=10, O=15, T=20, Y=25) to solve alphabet rank questions in 3 seconds without errors.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "G",
+        "P",
+        "O",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Letter J is the 10th letter of the alphabet. Counting 6 positions forward: 10 + 6 = 16th letter, which is 'P' (K, L, M, N, O, P).💡 Setter's",
+      "tip_hi": "Convert letters to numbers (EJOTY: E=5, J=10, O=15, T=20, Y=25) to solve alphabet rank questions in 3 seconds without errors."
     },
     {
       "source": "BPSC TRE 1.0",
@@ -113,7 +158,16 @@
       "answer_text": "More than one of the above",
       "explanation": "In a zoological garden, various fauna including birds (aviaries/cages), wild mammals, and snakes (glass cages/reptile houses) are housed in enclosed cages.💡 Setter's",
       "tip": "Do not rush to pick only (B) 'animals'; birds and reptiles are also zoo inmates kept in cages, triggering Option (D).",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "birds",
+        "animals",
+        "snakes",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In a zoological garden, various fauna including birds (aviaries/cages), wild mammals, and snakes (glass cages/reptile houses) are housed in enclosed cages.💡 Setter's",
+      "tip_hi": "Do not rush to pick only (B) 'animals'; birds and reptiles are also zoo inmates kept in cages, triggering Option (D)."
     },
     {
       "source": "BPSC TRE 1.0",
@@ -131,7 +185,16 @@
       "answer_text": "None of the above",
       "explanation": "One's daughter's daughter is designated as a 'granddaughter' (maternal granddaughter). Since this specific term is not listed in (A), (B), or (C), option (E) is correct.💡 Setter's",
       "tip": "BPSC frequently tests kinships where the exact English term is missing from options (A, B, C); always check if (E) applies.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "sibling",
+        "niece",
+        "cousin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "One's daughter's daughter is designated as a 'granddaughter' (maternal granddaughter). Since this specific term is not listed in (A), (B), or (C), option (E) is correct.💡 Setter's",
+      "tip_hi": "BPSC frequently tests kinships where the exact English term is missing from options (A, B, C); always check if (E) applies."
     },
     {
       "source": "BPSC TRE 1.0",
@@ -149,7 +212,16 @@
       "answer_text": "brothers and sisters",
       "explanation": "By definition, 'siblings' refers exclusively to brothers and sisters sharing one or both biological parents, excluding cousins and in-laws.💡 Setter's",
       "tip": "Remember: Sibling = Brother/Sister; Nephew/Niece = Sibling's child; Cousin = Uncle/Aunt's child.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "cousins",
+        "brothers and sisters",
+        "in-laws",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "By definition, 'siblings' refers exclusively to brothers and sisters sharing one or both biological parents, excluding cousins and in-laws.💡 Setter's",
+      "tip_hi": "Remember: Sibling = Brother/Sister; Nephew/Niece = Sibling's child; Cousin = Uncle/Aunt's child."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -167,7 +239,16 @@
       "answer_text": "a",
       "explanation": "The abbreviation BDO is pronounced as /biː.diː.oʊ/ with an initial consonant sound /b/, requiring the indefinite article 'a'.💡 Setter's",
       "tip": "Check the sound, not the alphabet letter: 'BDO' starts with consonant /b/ ('a BDO'), whereas 'SDO' starts with vowel sound /e/ ('an SDO').",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "the",
+        "a",
+        "an",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The abbreviation BDO is pronounced as /biː.diː.oʊ/ with an initial consonant sound /b/, requiring the indefinite article 'a'.💡 Setter's",
+      "tip_hi": "Check the sound, not the alphabet letter: 'BDO' starts with consonant /b/ ('a BDO'), whereas 'SDO' starts with vowel sound /e/ ('an SDO')."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -185,7 +266,16 @@
       "answer_text": "The",
       "explanation": "Renowned newspapers, periodicals, and historical publications universally require the definite article 'The' (e.g., The Washington Post, The Hindu).💡 Setter's",
       "tip": "Names of newspapers, ships, rivers, oceans, mountain ranges, and sacred scriptures mandatorily take 'The'.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "The",
+        "A",
+        "An",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Renowned newspapers, periodicals, and historical publications universally require the definite article 'The' (e.g., The Washington Post, The Hindu).💡 Setter's",
+      "tip_hi": "Names of newspapers, ships, rivers, oceans, mountain ranges, and sacred scriptures mandatorily take 'The'."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -203,7 +293,16 @@
       "answer_text": "a",
       "explanation": "The noun 'month' is singular countable and begins with consonant sound /m/. It refers to any calendar month in general, so 'a' is correct.💡 Setter's",
       "tip": "When a singular countable noun represents any member of a class without prior specification, use indefinite article 'a/an'.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "the",
+        "a",
+        "an",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The noun 'month' is singular countable and begins with consonant sound /m/. It refers to any calendar month in general, so 'a' is correct.💡 Setter's",
+      "tip_hi": "When a singular countable noun represents any member of a class without prior specification, use indefinite article 'a/an'."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -221,7 +320,16 @@
       "answer_text": "an",
       "explanation": "The designation 'engineer' begins with a vowel sound /e/, requiring the indefinite article 'an' before profession titles.💡 Setter's",
       "tip": "Job titles in predicate positions after 'is/was' take 'a/an'; check vowel sound (engineer, architect -> an; teacher, doctor -> a).",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "the",
+        "an",
+        "a",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The designation 'engineer' begins with a vowel sound /e/, requiring the indefinite article 'an' before profession titles.💡 Setter's",
+      "tip_hi": "Job titles in predicate positions after 'is/was' take 'a/an'; check vowel sound (engineer, architect -> an; teacher, doctor -> a)."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -239,7 +347,16 @@
       "answer_text": "the",
       "explanation": "When 'all' refers to a specific, defined group of students within a stated institution ('this school'), it takes the definite article 'the'.💡 Setter's",
       "tip": "Standard grammar rule: 'All the + plural noun' defines a specific set of entities restricted by context.",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "an",
+        "a",
+        "the",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "When 'all' refers to a specific, defined group of students within a stated institution ('this school'), it takes the definite article 'the'.💡 Setter's",
+      "tip_hi": "Standard grammar rule: 'All the + plural noun' defines a specific set of entities restricted by context."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -257,7 +374,16 @@
       "answer_text": "an",
       "explanation": "The noun 'actress' begins with the open vowel phoneme /æ/, taking indefinite article 'an' to introduce the profession.💡 Setter's",
       "tip": "Always verify vowel sounds for feminine nouns: actress, authoress, empress take 'an'.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "a",
+        "an",
+        "the",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The noun 'actress' begins with the open vowel phoneme /æ/, taking indefinite article 'an' to introduce the profession.💡 Setter's",
+      "tip_hi": "Always verify vowel sounds for feminine nouns: actress, authoress, empress take 'an'."
     },
     {
       "source": "BPSC TRE 3.0",
@@ -275,7 +401,16 @@
       "answer_text": "been, caught",
       "explanation": "This is an inverted third conditional ('Had + Subject + Past Participle (V3)... would have + V3'). Thus, 'Had we been... would have caught' is grammatically correct.💡 Setter's",
       "tip": "In conditional inversion: 'Had + Subject' strictly demands a past participle ('been'), never past tense ('were') or base form ('be').",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "been, caught",
+        "were, boarded",
+        "are, got",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This is an inverted third conditional ('Had + Subject + Past Participle (V3)... would have + V3'). Thus, 'Had we been... would have caught' is grammatically correct.💡 Setter's",
+      "tip_hi": "In conditional inversion: 'Had + Subject' strictly demands a past participle ('been'), never past tense ('were') or base form ('be')."
     }
   ]
 }

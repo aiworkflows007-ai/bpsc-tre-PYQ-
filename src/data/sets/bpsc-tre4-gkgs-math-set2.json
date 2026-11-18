@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-gkgs-math-set2",
+  "title": "Elementary Mathematics Set 2 (25Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Elementary Mathematics",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which district of Bihar has the highest percentage of its geographical area covered under forest as per the India State of Forest Report (ISFR) 2021?(",
+      "hi": "भारत वन स्थिति रिपोर्ट (ISFR) 2021 के अनुसार, बिहार के किस जिले में उसके भौगोलिक क्षेत्रफल का सर्वाधिक प्रतिशत वनाच्छादित है?)",
+      "options": [
+        "West Champaran",
+        "Kaimur (31.56%)",
+        "Jamui",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kaimur (31.56%)",
+      "explanation": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq km), followed by Jamui (21.34%) and Nawada (20.72%). West Champaran has the largest absolute forest area (903.34 sq km).",
+      "tip": "Highest Forest Percentage = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq km); Lowest forest = Sheikhpura.",
+      "id": 1,
+      "options_hi": [
+        "पश्चिम Champaran",
+        "Kaimur (31.56%)",
+        "Jamui",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq किमी), followed by Jamui (21.34%) and Nawada (20.72%). पश्चिम Champaran has the largest absolute forest area (903.34 sq किमी).",
+      "tip_hi": "Highest Forest प्रतिशत = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq किमी); Lowest forest = Sheikhpura."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A Proclamation of President's Rule under Article 356 in a State must be approved by resolutions of both Houses of Parliament within what time limit?",
+      "hi": "किसी राज्य में अनुच्छेद 356 के तहत राष्ट्रपति शासन की उद्घोषणा को संसद के दोनों सदनों द्वारा कितने समय के भीतर अनुमोदित किया जाना चाहिए?",
+      "options": [
+        "1 month",
+        "2 months",
+        "6 months",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2 months",
+      "explanation": "Article 356(3) mandates that a proclamation of President's Rule ceases to operate at the expiration of 2 months unless approved by resolutions of both Lok Sabha and Rajya Sabha by simple majority. National Emergency (Art. 352) requires approval within 1 month.",
+      "tip": "Approval deadline: National Emergency (Art. 352) = 1 month; President's Rule (Art. 356) = 2 months; Financial Emergency (Art. 360) = 2 months.",
+      "id": 2,
+      "options_hi": [
+        "1 माह",
+        "2 माह",
+        "6 माह",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 356(3) mandates that a proclamation of राष्ट्रपति's Rule ceases to operate at the expiration of 2 माह unless approved by resolutions of both लोकसभा and राज्यसभा by simple majority. National Emergency (Art. 352) requires approval within 1 माह.",
+      "tip_hi": "Approval deadline: National Emergency (Art. 352) = 1 माह; राष्ट्रपति's Rule (Art. 356) = 2 माह; Financial Emergency (Art. 360) = 2 माह."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A shopkeeper marks his goods at 20% above the cost price and allows a discount of 10% for cash payment. What is his net profit percentage?",
+      "hi": "एक दुकानदार अपनी वस्तुओं पर क्रय मूल्य से 20% अधिक मूल्य अंकित करता है और नकद भुगतान पर 10% की छूट देता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
+      "options": [
+        "8%",
+        "10%",
+        "12%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8%",
+      "explanation": "Let CP = 100. Marked Price = 120. Discount = 10% of 120 = 12. Selling Price = 120 - 12 = 108. Profit % = 108 - 100 = 8%.",
+      "tip": "Net % = 20 - 10 - (20*10)/100 = 10 - 2 = 8% profit.",
+      "id": 3,
+      "options_hi": [
+        "8%",
+        "10%",
+        "12%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let CP = 100. Marked Price = 120. Discount = 10% of 120 = 12. Selling Price = 120 - 12 = 108. Profit % = 108 - 100 = 8%.",
+      "tip_hi": "Net % = 20 - 10 - (20*10)/100 = 10 - 2 = 8% profit."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the sum of the interior angles of a regular convex octagon (polygon with 8 sides)?(",
+      "hi": "एक सम अष्टभुज (8 भुजाओं वाले बहुभुज) के सभी अंतःकोणों का योग क्या होगा?)",
+      "options": [
+        "900°",
+        "1,080°",
+        "1,260°",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1,080°",
+      "explanation": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.",
+      "tip": "Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°.",
+      "id": 4,
+      "options_hi": [
+        "900°",
+        "1,080°",
+        "1,260°",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.",
+      "tip_hi": "Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What are the real roots of the quadratic algebraic equation: x^2 - 7x + 12 = 0?",
+      "hi": "द्विघात समीकरण x^2 - 7x + 12 = 0 के वास्तविक मूल क्या हैं?",
+      "options": [
+        "2 and 6",
+        "3 and 4",
+        "-3 and -4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 and 4",
+      "explanation": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.",
+      "tip": "Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4.",
+      "id": 5,
+      "options_hi": [
+        "2 and 6",
+        "3 and 4",
+        "-3 and -4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.",
+      "tip_hi": "Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The HCF and LCM of two numbers are 11 and 693 respectively. If one of the numbers is 77, what is the other number?(",
+      "hi": "दो संख्याओं का म०स० (HCF) 11 और ल०स० (LCM) 693 है। यदि उनमें से एक संख्या 77 है, तो दूसरी संख्या क्या है?)",
+      "options": [
+        "88",
+        "99",
+        "110",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "99",
+      "explanation": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.",
+      "tip": "N2 = (11 * 693) / 77 = 693 / 7 = 99.",
+      "id": 6,
+      "options_hi": [
+        "88",
+        "99",
+        "110",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.",
+      "tip_hi": "N2 = (11 * 693) / 77 = 693 / 7 = 99."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A train 300 metres long crosses a railway platform 200 metres long in 25 seconds. What is the speed of the train in km/h?",
+      "hi": "300 मीटर लंबी एक रेलगाड़ी 200 मीटर लंबे रेलवे प्लेटफॉर्म को 25 सेकंड में पार करती है। रेलगाड़ी की गति किमी/घंटा में क्या है?",
+      "options": [
+        "64 km/h",
+        "72 km/h",
+        "80 km/h",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "72 km/h",
+      "explanation": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in km/h = 20 * (18/5) = 72 km/h.",
+      "tip": "Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 km/h.",
+      "id": 7,
+      "options_hi": [
+        "64 किमी/h",
+        "72 किमी/h",
+        "80 किमी/h",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "tip_hi": "Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 किमी/h."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What are the primary hydrocarbon chemical components compressed under pressure inside domestic Liquefied Petroleum Gas (LPG) cylinders?(",
+      "hi": "घरेलू एलपीजी (LPG) सिलेंडरों में दबाव में संपीड़ित मुख्य हाइड्रोकार्बन घटक कौन-से होते हैं?)",
+      "options": [
+        "Methane and Ethane",
+        "Butane and Propane",
+        "Ethylene and Acetylene",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Butane and Propane",
+      "explanation": "Domestic LPG consists primarily of n-butane and isobutane (~60%) along with propane (~40%). A minute quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
+      "tip": "LPG = Butane + Propane; Odorant for leak detection = Ethyl Mercaptan.",
+      "id": 8,
+      "options_hi": [
+        "मीथेन and Ethane",
+        "ब्यूटेन and प्रोपेन",
+        "Ethylene and Acetylene",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Domestic एलपीजी (द्रवीभूत पेट्रोलियम गैस) consists primarily of n-ब्यूटेन and isobutane (~60%) along with प्रोपेन (~40%). A मिनट quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
+      "tip_hi": "एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन; Odorant for leak detection = Ethyl Mercaptan."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Article 50 of the Constitution of India, contained in Part IV (Directive Principles of State Policy), directs the State to(",
+      "hi": "भारतीय संविधान के भाग IV (राज्य के नीति निदेशक तत्व) में निहित अनुच्छेद 50 राज्य को क्या निर्देश देता है?)",
+      "options": [
+        "Promote international peace and security",
+        "Separate the Judiciary from the Executive in the public services of the State",
+        "Organize village panchayats as units of self-government",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Separate the Judiciary from the Executive in the public services of the State",
+      "explanation": "Article 50 obligates the State to take steps to separate the judiciary from the executive in public services. Article 40 deals with village panchayats, and Article 51 deals with international peace.",
+      "tip": "Article 50 = Separation of Judiciary from Executive; Article 40 = Panchayats; Article 44 = Uniform Civil Code.",
+      "id": 9,
+      "options_hi": [
+        "Promote international peace and security",
+        "Separate the Judiciary from the Executive in the public services of the State",
+        "Organize village panchayats as units of self-government",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 50 obligates the State to take steps to separate the judiciary from the executive in public services. अनुच्छेद 40 deals with village panchayats, and अनुच्छेद 51 deals with international peace.",
+      "tip_hi": "अनुच्छेद 50 = Separation of Judiciary from Executive; अनुच्छेद 40 = Panchayats; अनुच्छेद 44 = Uniform Civil Code."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which gas in the stratosphere absorbs harmful ultraviolet (UV-B) radiations from the Sun, shielding life on Earth from cellular mutations and skin cancer?(",
+      "hi": "समताप मंडल में कौन-सी गैस सूर्य से आने वाली हानिकारक पराबैंगनी (UV-B) विकिरणों को अवशोषित करती है?)",
+      "options": [
+        "Nitrogen dioxide",
+        "Ozone (O3)",
+        "Carbon dioxide",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ozone (O3)",
+      "explanation": "The ozone layer in the stratosphere (15 to 35 km altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.",
+      "tip": "UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU).",
+      "id": 10,
+      "options_hi": [
+        "Nitrogen dioxide",
+        "Ozone (O3)",
+        "Carbon dioxide",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The ozone layer in the stratosphere (15 to 35 किमी altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.",
+      "tip_hi": "UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "By selling an article for ₹720, a shopkeeper incurs a loss of 20%. At what price should he sell the article to gain 20% profit?",
+      "hi": "किसी वस्तु को ₹720 में बेचने पर एक दुकानदार को 20% की हानि होती है। 20% का लाभ अर्जित करने के लिए उसे इस वस्तु को किस मूल्य पर बेचना चाहिए?",
+      "options": [
+        "₹960",
+        "₹1,080",
+        "₹1,200",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹1,080",
+      "explanation": "CP = SP / (1 - Loss%) = 720 / 0.80 = ₹900. Required SP for 20% gain = CP * (1 + Gain%) = 900 * 1.20 = ₹1,080.",
+      "tip": "Direct formula: SP2 = SP1 * (100 + G)/(100 - L) = 720 * (120 / 80) = 720 * 1.5 = ₹1,080.",
+      "id": 11,
+      "options_hi": [
+        "₹960",
+        "₹1,080",
+        "₹1,200",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "CP = SP / (1 - Loss%) = 720 / 0.80 = ₹900. Required SP for 20% gain = CP * (1 + Gain%) = 900 * 1.20 = ₹1,080.",
+      "tip_hi": "Direct formula: SP2 = SP1 * (100 + G)/(100 - L) = 720 * (120 / 80) = 720 * 1.5 = ₹1,080."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Divide ₹1,200 among A, B, and C in the ratio 2 : 3 : 5. What is the share of C?",
+      "hi": "₹1,200 की धनराशि को A, B और C के बीच 2 : 3 : 5 के अनुपात में विभाजित किया जाता है। C का हिस्सा क्या है?",
+      "options": [
+        "₹400",
+        "₹600",
+        "₹800",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹600",
+      "explanation": "Total ratio parts = 2 + 3 + 5 = 10 parts. 1 part = 1200 / 10 = ₹120. C's share = 5 parts = 5 * 120 = ₹600.",
+      "tip": "C's share = (5/10) * 1200 = 1/2 of ₹1200 = ₹600.",
+      "id": 12,
+      "options_hi": [
+        "₹400",
+        "₹600",
+        "₹800",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total ratio parts = 2 + 3 + 5 = 10 parts. 1 part = 1200 / 10 = ₹120. C's share = 5 parts = 5 * 120 = ₹600.",
+      "tip_hi": "C's share = (5/10) * 1200 = 1/2 of ₹1200 = ₹600."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "A student walks from his home to school at a speed of 4 km/h and arrives 15 minutes late. If he walks at 6 km/h, he arrives exactly on time. What is the distance between his home and school?",
+      "hi": "एक छात्र अपने घर से 4 किमी/घंटा की गति से चलकर 15 मिनट देरी से विद्यालय पहुँचता है। यदि वह 6 किमी/घंटा की गति से चले तो ठीक समय पर पहुँचता है। उसके घर और विद्यालय के बीच की दूरी क्या है?",
+      "options": [
+        "2.5 km",
+        "3 km",
+        "3.5 km",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 km",
+      "explanation": "Time difference = 15 minutes = 15/60 = 1/4 hour. Distance = (S1 * S2) / (S2 - S1) * Time difference = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 km.",
+      "tip": "D = (4 * 6)/2 * (15/60) = 12 * (1/4) = 3 km.",
+      "id": 13,
+      "options_hi": [
+        "2.5 किमी",
+        "3 किमी",
+        "3.5 किमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Time difference = 15 मिनट = 15/60 = 1/4 घंटे. Distance = (S1 * S2) / (S2 - S1) * Time difference = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 किमी.",
+      "tip_hi": "D = (4 * 6)/2 * (15/60) = 12 * (1/4) = 3 किमी."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the length of the diagonal of a rectangle whose length is 12 cm and breadth is 5 cm?",
+      "hi": "एक आयत के विकर्ण की लंबाई क्या होगी जिसकी लंबाई 12 सेमी और चौड़ाई 5 सेमी है?",
+      "options": [
+        "13 cm",
+        "15 cm",
+        "17 cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "13 cm",
+      "explanation": "By Pythagoras theorem, Diagonal = √(Length^2 + Breadth^2) = √(12^2 + 5^2) = √(144 + 25) = √169 = 13 cm.",
+      "tip": "Standard Pythagorean triplet: (5, 12, 13) => Diagonal = 13 cm.",
+      "id": 14,
+      "options_hi": [
+        "13 सेमी",
+        "15 सेमी",
+        "17 सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "By Pythagoras theorem, Diagonal = √(Length^2 + Breadth^2) = √(12^2 + 5^2) = √(144 + 25) = √169 = 13 सेमी.",
+      "tip_hi": "Standard Pythagorean triplet: (5, 12, 13) => Diagonal = 13 सेमी."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "A train 150 m long crosses a bridge 250 m long in 20 seconds. What is the speed of the train in km/h?",
+      "hi": "150 मीटर लंबी एक रेलगाड़ी 250 मीटर लंबे पुल को 20 सेकंड में पार करती है। रेलगाड़ी की गति किमी/घंटा में क्या है?",
+      "options": [
+        "60 km/h",
+        "72 km/h",
+        "80 km/h",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "72 km/h",
+      "explanation": "Distance = 150 + 250 = 400 m. Time = 20 s. Speed = 400 / 20 = 20 m/s. In km/h = 20 * (18/5) = 72 km/h.",
+      "tip": "Speed = (150+250)/20 = 20 m/s * 18/5 = 72 km/h.",
+      "id": 15,
+      "options_hi": [
+        "60 किमी/h",
+        "72 किमी/h",
+        "80 किमी/h",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Distance = 150 + 250 = 400 m. Time = 20 s. Speed = 400 / 20 = 20 m/s. In किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "tip_hi": "Speed = (150+250)/20 = 20 m/s * 18/5 = 72 किमी/h."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the value of: (0.7 * 0.7 * 0.7 + 0.3 * 0.3 * 0.3) / (0.7 * 0.7 - 0.7 * 0.3 + 0.3 * 0.3)?(",
+      "hi": "मान ज्ञात कीजिए: (0.7 * 0.7 * 0.7 + 0.3 * 0.3 * 0.3) / (0.7 * 0.7 - 0.7 * 0.3 + 0.3 * 0.3))",
+      "options": [
+        "0.4",
+        "1.0",
+        "0.21",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1.0",
+      "explanation": "Algebraic identity: (a^3 + b^3) / (a^2 - ab + b^2) = a + b. Here a = 0.7 and b = 0.3. Value = 0.7 + 0.3 = 1.0.",
+      "tip": "Standard identity (a^3 + b^3)/(a^2 - ab + b^2) = a + b = 0.7 + 0.3 = 1.",
+      "id": 16,
+      "options_hi": [
+        "0.4",
+        "1.0",
+        "0.21",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Algebraic identity: (a^3 + b^3) / (a^2 - ab + b^2) = a + b. Here a = 0.7 and b = 0.3. Value = 0.7 + 0.3 = 1.0.",
+      "tip_hi": "Standard identity (a^3 + b^3)/(a^2 - ab + b^2) = a + b = 0.7 + 0.3 = 1."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In which year was the 'Bihar and Orissa Subordinate Civil Service' created following separation from the Bengal Presidency?",
+      "hi": "बंगाल प्रेसीडेंसी से अलग होने के बाद किस वर्ष 'बिहार और उड़ीसा प्रांतीय सिविल सेवा' का गठन हुआ था?",
+      "options": [
+        "1912",
+        "1914",
+        "1916",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "1912",
+      "explanation": "Consequent upon the inauguration of the new province on 1 April 1912, the separate cadre of Bihar and Orissa Civil Service was established to administer the 5 divisions (Patna, Tirhut, Bhagalpur, Chota Nagpur, Orissa).",
+      "tip": "Administration inception of Bihar cadre = 1912.",
+      "id": 17,
+      "options_hi": [
+        "1912",
+        "1914",
+        "1916",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Consequent upon the inauguration of the new province on 1 अप्रैल 1912, the separate cadre of Bihar and Orissa Civil Service was established to administer the 5 divisions (Patna, Tirhut, Bhagalpur, Chota Nagpur, Orissa).",
+      "tip_hi": "Administration inception of Bihar cadre = 1912."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Two inlet pipes A and B can fill a tank in 15 hours and 20 hours respectively, while an outlet pipe C can empty the full tank in 25 hours. If all three pipes are opened together, in how many hours will the empty tank be filled?",
+      "hi": "दो नल A और B किसी टंकी को क्रमशः 15 घंटे और 20 घंटे में भर सकते हैं, जबकि एक निकासी नल C पूरी भरी टंकी को 25 घंटे में खाली कर सकता है। यदि तीनों नलों को एक साथ खोल दिया जाए, तो खाली टंकी कितने घंटे में भर जाएगी?",
+      "options": [
+        "12 hours",
+        "300/23 hours (approx. 13 hours)",
+        "14 hours",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "300/23 hours (approx. 13 hours)",
+      "explanation": "LCM of 15, 20, 25 = 300 units capacity. Efficiency of A = +20, B = +15, C = -12 units/hr. Net inflow = 20 + 15 - 12 = 23 units/hr. Time required = 300 / 23 hours = 13.04 hours.",
+      "tip": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 hours.",
+      "id": 18,
+      "options_hi": [
+        "12 घंटे",
+        "300/23 घंटे (approx. 13 घंटे)",
+        "14 घंटे",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "LCM of 15, 20, 25 = 300 units capacity. Efficiency of A = +20, B = +15, C = -12 units/hr. Net inflow = 20 + 15 - 12 = 23 units/hr. Time required = 300 / 23 घंटे = 13.04 घंटे.",
+      "tip_hi": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 घंटे."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "For any geometric circle, what is the universal ratio of its circumference to its diameter?",
+      "hi": "किसी भी ज्यामितीय वृत्त के लिए, उसकी परिधि और उसके व्यास का सार्वभौमिक अनुपात क्या होता है?",
+      "options": [
+        "An integer 3",
+        "A constant irrational number π (approx. 22/7 or 3.14159)",
+        "A variable rational ratio",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "A constant irrational number π (approx. 22/7 or 3.14159)",
+      "explanation": "By definition, π = Circumference / Diameter (C / 2r). It is a transcendental irrational mathematical constant whose exact value cannot be expressed as a finite fraction.",
+      "tip": "Ratio of Circumference to Diameter = π (Pi); π is an irrational number.",
+      "id": 19,
+      "options_hi": [
+        "An integer 3",
+        "A constant irrational number π (approx. 22/7 or 3.14159)",
+        "A variable rational ratio",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "By definition, π = Circumference / Diameter (C / 2r). It is a transcendental irrational mathematical constant whose exact value cannot be expressed as a finite fraction.",
+      "tip_hi": "Ratio of Circumference to Diameter = π (Pi); π is an irrational number."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the focal length and optical power of an ordinary flat plane mirror?(",
+      "hi": "एक साधारण समतल दर्पण की फोकस दूरी और प्रकाशिक शक्ति (Power) क्या होती है?)",
+      "options": [
+        "Focal length is zero; Power is infinite",
+        "Focal length is infinite (∞); Power is zero (0 D)",
+        "Focal length is 1 metre; Power is 1 Dioptre",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Focal length is infinite (∞); Power is zero (0 D)",
+      "explanation": "A plane mirror has no curvature (radius of curvature R = ∞), so its focal length f = R/2 = ∞. Optical power P = 1/f = 1/∞ = 0 Dioptres.",
+      "tip": "Plane mirror: Focal length = Infinite (∞); Power = 0 D; Magnification = +1.",
+      "id": 20,
+      "options_hi": [
+        "Focal length is zero; Power is infinite",
+        "Focal length is infinite (∞); Power is zero (0 D)",
+        "Focal length is 1 metre; Power is 1 Dioptre",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A समतल दर्पण has no curvature (radius of curvature R = ∞), so its focal length f = R/2 = ∞. Optical power P = 1/f = 1/∞ = 0 Dioptres.",
+      "tip_hi": "समतल दर्पण: Focal length = Infinite (∞); Power = 0 D; Magnification = +1."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "When the Prince of Wales visited Patna on 22 December 1921 during the Non-Cooperation Movement, how was he received by the citizens of Patna?",
+      "hi": "असहयोग आंदोलन के दौरान 22 दिसंबर 1921 को जब प्रिंस ऑफ वेल्स पटना पहुंचे, तो पटना के नागरिकों द्वारा उनका स्वागत कैसे किया गया था?",
+      "options": [
+        "With grand civic reception",
+        "With a complete citywide hartal and deserted streets (पूर्ण हड़ताल और वीरान सड़कें)",
+        "With black flags and slogans only at the station",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "With a complete citywide hartal and deserted streets (पूर्ण हड़ताल और वीरान सड़कें)",
+      "explanation": "On 22-23 December 1921, Patna observed a historic and total hartal against the Prince of Wales' visit called by the Congress. Markets and schools closed, and streets were completely deserted, delivering a stinging boycott to the colonial administration.",
+      "tip": "Prince of Wales visit to Patna (22 Dec 1921) = Met with total hartal and deserted streets.",
+      "id": 21,
+      "options_hi": [
+        "With grand civic reception",
+        "With a complete citywide hartal and deserted streets (पूर्ण हड़ताल और वीरान सड़कें)",
+        "With black flags and slogans only at the station",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 22-23 दिसम्बर 1921, Patna observed a historic and total hartal against the Prince of Wales' visit called by the Congress. Markets and schools closed, and streets were completely deserted, delivering a stinging boycott to the colonial administration.",
+      "tip_hi": "Prince of Wales visit to Patna (22 Dec 1921) = Met with total hartal and deserted streets."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "'Operation Kaveri' was a high-risk humanitarian military rescue operation conducted by India in April 2023 to evacuate Indian citizens from which conflict-ridden nation?",
+      "hi": "'ऑपरेशन कावेरी' अप्रैल 2023 में किस युद्धग्रस्त देश से भारतीय नागरिकों को सुरक्षित निकालने के लिए भारत द्वारा चलाया गया राहत अभियान था?",
+      "options": [
+        "Ukraine",
+        "Sudan (सूडान)",
+        "Israel",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sudan (सूडान)",
+      "explanation": "Operation Kaveri evacuated over 3,800 Indian citizens stranded in Sudan during violent armed clashes between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF), using IAF C-130J aircraft and INS Sumedha from Port Sudan.",
+      "tip": "Operation Kaveri = Sudan (2023); Operation Ajay = Israel-Gaza (2023); Operation Ganga = Ukraine (2022).",
+      "id": 22,
+      "options_hi": [
+        "Ukraine",
+        "Sudan (सूडान)",
+        "Israel",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Operation Kaveri evacuated over 3,800 Indian citizens stranded in Sudan के दौरान violent armed clashes between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF), using IAF C-130J aircraft and INS Sumedha from Port Sudan.",
+      "tip_hi": "Operation Kaveri = Sudan (2023); Operation Ajay = Israel-Gaza (2023); Operation गंगा नदी = Ukraine (2022)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "The cost of 5 bats and 18 balls is ₹6,500 and the cost of 2 bats and 20 balls is ₹4,200. What are the costs of one bat and one ball respectively?",
+      "hi": "5 बल्लों और 18 गेंदों की कीमत ₹6,500 है तथा 2 बल्लों और 20 गेंदों की कीमत ₹4,200 है। एक बल्ला और एक गेंद की कीमतें हैं, क्रमशः",
+      "options": [
+        "₹1,000 and ₹110",
+        "₹900 and ₹110",
+        "₹800 and ₹120",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Solving the system 5x + 18y = 6500 and 2x + 20y = 4200 (x + 10y = 2100): substituting x = 2100 - 10y gives y = ₹125 and x = ₹850. Since ₹850 and ₹125 are not among (A), (B), or (C), Option (E) is correct.",
+      "tip": "Always solve linear systems directly: test the derived solution against choices before checking (E).",
+      "id": 23,
+      "options_hi": [
+        "₹1,000 and ₹110",
+        "₹900 and ₹110",
+        "₹800 and ₹120",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Solving the system 5x + 18y = 6500 and 2x + 20y = 4200 (x + 10y = 2100): substituting x = 2100 - 10y gives y = ₹125 and x = ₹850. Since ₹850 and ₹125 are not among (A), (B), or (C), Option (E) is correct.",
+      "tip_hi": "Always solve linear systems directly: test the derived solution against choices before checking (E)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "The lengths of two sides of a triangle are 8 cm and 9 cm, and its area is 12√5 cm². What is the length of the third side?",
+      "hi": "किसी त्रिभुज की दो भुजाओं की लम्बाई 8 से० मी० और 9 से० मी० है तथा इसका क्षेत्रफल 12√5 से० मी०² है। तीसरी भुजा की लम्बाई क्या है?",
+      "options": [
+        "7 cm",
+        "√241 cm",
+        "13 cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Area = (1/2)*8*9*sin C = 36 sin C = 12√5 -> sin C = √5/3. Thus cos C = ±2/3. By the Law of Cosines, c² = 8² + 9² - 2*8*9*(±2/3), yielding c = 7 cm or c = √241 cm. Since two values are valid, Option (D) is the answer.",
+      "tip": "When the sine of an angle is determined, both acute and obtuse angles yield valid triangles, giving two distinct third sides.",
+      "id": 24,
+      "options_hi": [
+        "7 सेमी",
+        "√241 सेमी",
+        "13 सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Area = (1/2)*8*9*sin C = 36 sin C = 12√5 -> sin C = √5/3. Thus cos C = ±2/3. By the Law of Cosines, c² = 8² + 9² - 2*8*9*(±2/3), yielding c = 7 सेमी or c = √241 सेमी. Since two values are valid, Option (D) is the answer.",
+      "tip_hi": "When the sine of an angle is determined, both acute and obtuse angles yield valid triangles, giving two distinct third sides."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "There are 50 numbers. Each number is subtracted from 53, and the mean of the numbers so obtained is found to be -3.5. The mean of the given numbers is",
+      "hi": "50 संख्याएँ दी हुई हैं। प्रत्येक संख्या को 53 से घटाया गया और इस तरह प्राप्त संख्याओं का माध्य -3.5 पाया गया। दी गई संख्याओं का माध्य है",
+      "options": [
+        "56.5",
+        "53.5",
+        "49.5",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "56.5",
+      "explanation": "Mean of (53 - x_i) = 53 - Mean(x) = -3.5. Therefore, Mean(x) = 53 - (-3.5) = 53 + 3.5 = 56.5.",
+      "tip": "Linear property of arithmetic mean: E[a - X] = a - E[X]. Rearrange directly to find E[X] = a - mean.",
+      "id": 25,
+      "options_hi": [
+        "56.5",
+        "53.5",
+        "49.5",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mean of (53 - x_i) = 53 - Mean(x) = -3.5. Therefore, Mean(x) = 53 - (-3.5) = 53 + 3.5 = 56.5.",
+      "tip_hi": "Linear property of arithmetic mean: E[a - X] = a - E[X]. Rearrange directly to find E[X] = a - mean."
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "id": "bpsc-tre4-gkgs-geography-set2",
+  "title": "Geography & Environment Set 2 (21Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Geography & Environment",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 21,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "How many latitudes are there on the globe drawn at 1 degree interval?",
+      "hi": "1 डिग्री के अंतराल पर खींचे जाने पर ग्लोब पर कुल कितने अक्षांश वृत्त होते हैं?",
+      "options": [
+        "179",
+        "180",
+        "181",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "181",
+      "explanation": "There are 90 degrees North, 90 degrees South, and 1 Equator (0 degree): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
+      "tip": "Total parallels of latitude = 181 (including 0° and two 90° poles); Latitude circles = 179.",
+      "id": 1,
+      "options_hi": [
+        "179",
+        "180",
+        "181",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "There are 90 डिग्री उत्तर, 90 डिग्री दक्षिण, and 1 Equator (0 डिग्री): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
+      "tip_hi": "Total parallels of latitude = 181 (including 0° and two 90° poles); Latitude circles = 179."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary History",
+      "en": "In which year was the Bihar Provincial Kisan Sabha (BPKS) formally established?(",
+      "hi": "बिहार प्रांतीय किसान सभा (BPKS) की औपचारिक स्थापना किस वर्ष हुई थी?)",
+      "options": [
+        "1928",
+        "1929",
+        "1936",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1929",
+      "explanation": "Swami Sahajanand Saraswati formally founded the Bihar Provincial Kisan Sabha in November 1929 at the Sonepur Fair, with Shri Krishna Singh as its Secretary.",
+      "tip": "Key years: 1929 = Bihar Provincial Kisan Sabha (Sonepur); 1936 = All India Kisan Sabha (Lucknow under Swami Sahajanand).",
+      "id": 2,
+      "options_hi": [
+        "1928",
+        "1929",
+        "1936",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "स्वामी सहजानंद सरस्वती formally founded the Bihar Provincial Kisan Sabha in नवम्बर 1929 at the Sonepur Fair, with Shri Krishna Singh as its Secretary.",
+      "tip_hi": "Key वर्ष: 1929 = Bihar Provincial Kisan Sabha (Sonepur); 1936 = All India Kisan Sabha (Lucknow under Swami Sahajanand)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science",
+      "en": "Guru Shikhar, the highest mountain peak of the Aravalli Range, is located in which State?",
+      "hi": "अरावली पर्वतमाला की सर्वोच्च चोटी 'गुरु शिखर' किस राज्य में स्थित है?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajasthan",
+      "explanation": "Guru Shikhar (elevation 1,722 metres) is the highest peak of the ancient fold Aravalli Range, situated at Mount Abu in the Sirohi district of southern Rajasthan.",
+      "tip": "Aravallis are the oldest fold mountains in India; Guru Shikhar is its culminating summit.",
+      "id": 3,
+      "options_hi": [
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Guru Shikhar (elevation 1,722 metres) is the highest peak of the ancient fold Aravalli Range, situated at Mount Abu in the Sirohi district of southern Rajasthan.",
+      "tip_hi": "Aravallis are the oldest fold mountains in India; Guru Shikhar is its culminating summit."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "Majuli, recognized as the world's largest inhabited river island, is located on which river in Assam?",
+      "hi": "विश्व का सबसे बड़ा आबाद नदी द्वीप 'माजुली' असम में किस नदी पर स्थित है?",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Barak",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Brahmaputra",
+      "explanation": "Majuli is a fluvial river island formed by the Brahmaputra River and its anabranch the Kherkutia Xuti, joined by the Subansiri River in Upper Assam.",
+      "tip": "Majuli is also India's first island district (declared in 2016) and a prominent hub of Neo-Vaishnavite culture.",
+      "id": 4,
+      "options_hi": [
+        "गंगा नदी",
+        "Brahmaputra",
+        "Barak",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Majuli is a fluvial river island formed by the Brahmaputra River and its anabranch the Kherkutia Xuti, joined by the Subansiri River in Upper Assam.",
+      "tip_hi": "Majuli is also India's first island district (declared in 2016) and a prominent hub of Neo-Vaishnavite culture."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "As per the Census of 2011, which district of Bihar has the highest population density?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले का जनसंख्या घनत्व सर्वाधिक है?",
+      "options": [
+        "Patna",
+        "Sheohar",
+        "Darbhanga",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sheohar",
+      "explanation": "Sheohar has the highest population density in Bihar with 1,880 persons per sq km, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq km.",
+      "tip": "Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488).",
+      "id": 5,
+      "options_hi": [
+        "Patna",
+        "Sheohar",
+        "Darbhanga",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sheohar has the highest जनसंख्या घनत्व in Bihar with 1,880 persons per sq किमी, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq किमी.",
+      "tip_hi": "Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which mountain peak is the highest point in South India and the Western Ghats?",
+      "hi": "दक्षिण भारत और पश्चिमी घाट की सबसे ऊँची पर्वत चोटी कौन-सी है?",
+      "options": [
+        "Doddabetta",
+        "Anamudi",
+        "Mahendragiri",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Anamudi",
+      "explanation": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.",
+      "tip": "Highest peak of South India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m).",
+      "id": 6,
+      "options_hi": [
+        "Doddabetta",
+        "Anamudi",
+        "Mahendragiri",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.",
+      "tip_hi": "Highest peak of दक्षिण India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The famous ancient rock-cut caves of 'Barabar Hills' in Jehanabad district of Bihar were excavated during the Mauryan period for which ascetic sect?",
+      "hi": "बिहार के जहानाबाद जिले की प्रसिद्ध प्राचीन 'बराबर की गुफाएं' मौर्य काल में किस संप्रदाय के तपस्वियों के लिए उत्कीर्ण की गई थीं?",
+      "options": [
+        "Buddhism",
+        "Ajivika Sect",
+        "Jainism",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ajivika Sect",
+      "explanation": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.",
+      "tip": "Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala).",
+      "id": 7,
+      "options_hi": [
+        "Buddhism",
+        "Ajivika Sect",
+        "Jainism",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.",
+      "tip_hi": "Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "What is the southern-most point of the sovereign territory of the Republic of India?(",
+      "hi": "भारतीय गणराज्य के संप्रभु क्षेत्र का सुदूर दक्षिणतम बिंदु (Southern-most point) कौन-सा है?)",
+      "options": [
+        "Kanyakumari (Cape Comorin)",
+        "Indira Point (Pygmalion Point)",
+        "Rameswaram",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Indira Point (Pygmalion Point)",
+      "explanation": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.",
+      "tip": "Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari.",
+      "id": 8,
+      "options_hi": [
+        "Kanyakumari (Cape Comorin)",
+        "Indira Point (Pygmalion Point)",
+        "Rameswaram",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.",
+      "tip_hi": "Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The River Son, an important right-bank tributary originating in Amarkantak, joins the River Ganga near which location in Bihar?",
+      "hi": "अमरकंटक से निकलने वाली गंगा की प्रमुख दाहिनी सहायक नदी 'सोन' बिहार में किस स्थल के निकट गंगा में मिलती है?",
+      "options": [
+        "Fatuha",
+        "Danapur (Maner / Patna)",
+        "Mokama",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Danapur (Maner / Patna)",
+      "explanation": "The Son river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the Ganga just west of Danapur / Maner in Patna district. Punpun joins Ganga at Fatuha.",
+      "tip": "Son meets Ganga at Danapur/Maner; Punpun meets Ganga at Fatuha; Gandak meets Ganga at Sonpur/Hajipur.",
+      "id": 9,
+      "options_hi": [
+        "Fatuha",
+        "Danapur (Maner / Patna)",
+        "Mokama",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The सोन नदी river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the गंगा नदी just पश्चिम of Danapur / Maner in Patna district. Punpun joins गंगा नदी at Fatuha.",
+      "tip_hi": "सोन नदी meets गंगा नदी at Danapur/Maner; Punpun meets गंगा नदी at Fatuha; गंडक नदी meets गंगा नदी at Sonpur/Hajipur."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who is the ex-officio Chairperson of the NITI Aayog (National Institution for Transforming India)?(",
+      "hi": "नीति आयोग (NITI Aayog) का पदेन अध्यक्ष कौन होता है?)",
+      "options": [
+        "President of India",
+        "Prime Minister of India",
+        "Union Minister of Finance",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Prime Minister of India",
+      "explanation": "Established on 1 January 2015 replacing the Planning Commission, the Prime Minister serves as the ex-officio Chairperson of NITI Aayog.",
+      "tip": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = Prime Minister.",
+      "id": 10,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "प्रधानमंत्री of India",
+        "Union Minister of Finance",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established on 1 जनवरी 2015 replacing the योजना आयोग, the प्रधानमंत्री serves as the ex-officio Chairperson of NITI Aayog.",
+      "tip_hi": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = प्रधानमंत्री."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "National Highway 19 (formerly NH 2), which traverses Sasaram, Aurangabad, and Dobhi in Bihar, is historically part of the ancient road network known as(",
+      "hi": "राष्ट्रीय राजमार्ग 19 (पूर्व NH 2), जो बिहार में सासाराम, औरंगाबाद और डोभी से होकर गुजरता है, ऐतिहासिक रूप से किस मार्ग का भाग है?)",
+      "options": [
+        "Silk Route",
+        "Grand Trunk Road (Sher Shah Suri Marg)",
+        "Dakshinapatha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Grand Trunk Road (Sher Shah Suri Marg)",
+      "explanation": "Built along the ancient Uttarapatha and reconstructed by Sher Shah Suri (Sadak-e-Azam), the Grand Trunk Road connected Sonargaon (Bangladesh) to Peshawar. In Bihar, it traverses the southern plains through Kaimur, Rohtas, Aurangabad, and Gaya.",
+      "tip": "Sadak-e-Azam / Grand Trunk Road = Built by Sher Shah Suri (tomb at Sasaram).",
+      "id": 11,
+      "options_hi": [
+        "Silk Route",
+        "Grand Trunk Road (Sher Shah Suri Marg)",
+        "Dakshinapatha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Built along the ancient Uttarapatha and reconstructed by Sher Shah Suri (Sadak-e-Azam), the Grand Trunk Road connected Sonargaon (Bangladesh) to Peshawar. In Bihar, it traverses the southern plains through Kaimur, Rohtas, Aurangabad, and Gaya.",
+      "tip_hi": "Sadak-e-Azam / Grand Trunk Road = Built by Sher Shah Suri (tomb at Sasaram)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who is appointed under Article 76 of the Constitution of India as the highest legal officer of the Government of India?",
+      "hi": "भारतीय संविधान के अनुच्छेद 76 के तहत भारत सरकार के सर्वोच्च विधि अधिकारी के रूप में किसे नियुक्त किया जाता है?",
+      "options": [
+        "Solicitor General of India",
+        "Attorney General for India",
+        "Advocate General of the State",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Attorney General for India",
+      "explanation": "Article 76 provides that the President shall appoint a person qualified to be a Judge of the Supreme Court to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in Parliament without voting rights.",
+      "tip": "Attorney General for India = Article 76 (Union highest law officer); Advocate General = Article 165 (State).",
+      "id": 12,
+      "options_hi": [
+        "Solicitor General of India",
+        "Attorney General for India",
+        "Advocate General of the State",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 76 provides that the राष्ट्रपति shall appoint a person qualified to be a Judge of the सर्वोच्च न्यायालय to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in संसद without voting rights.",
+      "tip_hi": "Attorney General for India = अनुच्छेद 76 (Union highest law officer); Advocate General = अनुच्छेद 165 (State)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which district in Bihar is the leading producer of jute, situated in the northeastern humid floodplains?(",
+      "hi": "बिहार के उत्तर-पूर्वी आर्द्र मैदान में स्थित कौन-सा जिला जूट (पटसन) का प्रमुख उत्पादक है?)",
+      "options": [
+        "Purnia",
+        "Katihar",
+        "Kishanganj",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "The northeastern floodplain districts—Purnia, Katihar, and Kishanganj—form the primary jute-producing belt of Bihar due to alluvial soils and high rainfall (>140 cm). Purnia is the largest single producer, but Katihar and Kishanganj are also major producers, making (D) the official key.",
+      "tip": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) More than one of the above is correct.",
+      "id": 13,
+      "options_hi": [
+        "Purnia",
+        "Katihar",
+        "Kishanganj",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The northeastern floodplain districts—Purnia, Katihar, and Kishanganj—form the primary jute-producing belt of Bihar due to alluvial soils and high rainfall (>140 सेमी). Purnia is the largest single producer, but Katihar and Kishanganj are also major producers, making (D) the official key.",
+      "tip_hi": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) उपर्युक्त में से एक से अधिक is correct."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "What is the name of India's first dedicated space observatory mission launched by ISRO in September 2023 to study the Sun from the Sun-Earth L1 point?",
+      "hi": "सूर्य-पृथ्वी L1 बिंदु से सूर्य का अध्ययन करने के लिए सितंबर 2023 में इसरो द्वारा प्रक्षेपित भारत के पहले सौर मिशन का नाम क्या है?",
+      "options": [
+        "Aditya-L1",
+        "Surya-1",
+        "Helios-India",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Aditya-L1",
+      "explanation": "Aditya-L1 was launched on 2 September 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million km from Earth, to study solar coronal heating and solar wind flares.",
+      "tip": "India's solar mission = Aditya-L1 (PSLV-C57); Destination = Lagrange point 1 (L1).",
+      "id": 14,
+      "options_hi": [
+        "Aditya-L1",
+        "Surya-1",
+        "Helios-India",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Aditya-L1 was launched on 2 सितम्बर 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million किमी from Earth, to study solar coronal heating and solar wind flares.",
+      "tip_hi": "India's solar mission = Aditya-L1 (PSLV-C57); Destination = Lagrange point 1 (L1)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which wildlife sanctuary in Bihar is recognized as the largest wildlife sanctuary in the State by territorial area?",
+      "hi": "क्षेत्रफल की दृष्टि से बिहार का सबसे बड़ा वन्यजीव अभयारण्य कौन-सा है?",
+      "options": [
+        "Valmiki Wildlife Sanctuary",
+        "Kaimur Wildlife Sanctuary",
+        "Bhimbandh Wildlife Sanctuary",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kaimur Wildlife Sanctuary",
+      "explanation": "Kaimur Wildlife Sanctuary, situated in Kaimur and Rohtas districts over the Vindhyan plateau, covers an area of approx. 1,504.96 sq km, making it the largest wildlife sanctuary in Bihar.",
+      "tip": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq km); Only National Park = Valmiki National Park.",
+      "id": 15,
+      "options_hi": [
+        "Valmiki Wildlife Sanctuary",
+        "Kaimur Wildlife Sanctuary",
+        "Bhimbandh Wildlife Sanctuary",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kaimur Wildlife Sanctuary, situated in Kaimur and Rohtas districts over the Vindhyan plateau, covers an area of approx. 1,504.96 sq किमी, making it the largest wildlife sanctuary in Bihar.",
+      "tip_hi": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq किमी); Only National Park = वाल्मीकि राष्ट्रीय उद्यान."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The River Ghaghra (Sarayu) enters Bihar from Uttar Pradesh and merges into the River Ganga near which town?(",
+      "hi": "घाघरा (सरयू) नदी उत्तर प्रदेश से बिहार में प्रवेश करती है और किस नगर के समीप गंगा नदी में मिलती है?)",
+      "options": [
+        "Chhapra (near Revelganj)",
+        "Buxar",
+        "Hajipur",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Chhapra (near Revelganj)",
+      "explanation": "The Ghaghra originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the Ganga at Revelganj near Chhapra in Saran district.",
+      "tip": "Ghaghra joins Ganga at Revelganj (Chhapra); Gandak joins at Sonpur; Kosi joins at Kursela (Katihar).",
+      "id": 16,
+      "options_hi": [
+        "Chhapra (near Revelganj)",
+        "Buxar",
+        "Hajipur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The घाघरा नदी originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the गंगा नदी at Revelganj near Chhapra in Saran district.",
+      "tip_hi": "घाघरा नदी joins गंगा नदी at Revelganj (Chhapra); गंडक नदी joins at Sonpur; कोसी नदी joins at Kursela (Katihar)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "According to Köppen's climatic classification, the climate of northern Bihar is designated as",
+      "hi": "कोपेन के जलवायु वर्गीकरण के अनुसार, उत्तरी बिहार की जलवायु को किस रूप में वर्गीकृत किया गया है?",
+      "options": [
+        "Aw (Tropical Savanna)",
+        "Cwg (Monsoon with dry winter)",
+        "BSh (Semi-arid steppe)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Cwg (Monsoon with dry winter)",
+      "explanation": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest month before the solstice, which accurately characterizes the Gangetic plains of North Bihar.",
+      "tip": "Bihar climate in Köppen classification = Cwg (Gangetic plain type).",
+      "id": 17,
+      "options_hi": [
+        "Aw (Tropical Savanna)",
+        "Cwg (Monsoon with dry winter)",
+        "BSh (Semi-arid steppe)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest माह before the solstice, which accurately characterizes the Gangetic plains of उत्तर Bihar.",
+      "tip_hi": "Bihar climate in Köppen classification = Cwg (Gangetic plain type)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The famous 'Bhimbandh Wildlife Sanctuary', known for its natural geothermal hot water springs (Sita Kund, Rishi Kund), is situated in which district of Bihar?(",
+      "hi": "प्राकृतिक गर्म जल स्रोतों (सीता कुंड, ऋषि कुंड) के लिए प्रसिद्ध 'भीमबांध वन्यजीव अभयारण्य' बिहार के किस जिले में स्थित है?)",
+      "options": [
+        "Nalanda (Rajgir)",
+        "Munger",
+        "Gaya",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Munger",
+      "explanation": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq km, famous for dense sal forests and thermal mineral springs.",
+      "tip": "Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya.",
+      "id": 18,
+      "options_hi": [
+        "Nalanda (Rajgir)",
+        "Munger",
+        "Gaya",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq किमी, famous for dense sal forests and thermal mineral springs.",
+      "tip_hi": "Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which mountain pass in the Greater Himalayas connects the Kashmir Valley (Srinagar) with Ladakh (Leh)?(",
+      "hi": "महान हिमालय का कौन-सा दर्रा कश्मीर घाटी (श्रीनगर) को लद्दाख (लेह) से जोड़ता है?)",
+      "options": [
+        "Banihal Pass",
+        "Zoji La Pass",
+        "Shipki La Pass",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Zoji La Pass",
+      "explanation": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.",
+      "tip": "Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La.",
+      "id": 19,
+      "options_hi": [
+        "Banihal Pass",
+        "Zoji La Pass",
+        "Shipki La Pass",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.",
+      "tip_hi": "Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the minimum constitutional age required to be appointed as the Governor of a State in India?",
+      "hi": "भारत में किसी राज्य का राज्यपाल नियुक्त होने के लिए न्यूनतम संवैधानिक आयु क्या आवश्यक है?",
+      "options": [
+        "30 years",
+        "35 years",
+        "40 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "35 years",
+      "explanation": "Article 157 prescribes that no person shall be eligible for appointment as Governor unless he is a citizen of India and has completed the age of 35 years.",
+      "tip": "Minimum age for President, Vice-President, and Governor is 35 years.",
+      "id": 20,
+      "options_hi": [
+        "30 वर्ष",
+        "35 वर्ष",
+        "40 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 157 prescribes that no person shall be eligible for appointment as राज्यपाल unless he is a citizen of India and has completed the age of 35 वर्ष.",
+      "tip_hi": "Minimum age for राष्ट्रपति, Vice-राष्ट्रपति, and राज्यपाल is 35 वर्ष."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Bihar's first official state bird festival, 'Kalrav' (कलरव), was celebrated in January 2021 at which bird sanctuary?",
+      "hi": "बिहार का पहला आधिकारिक राज्य पक्षी महोत्सव 'कलरव' जनवरी 2021 में किस पक्षी अभयारण्य में आयोजित किया गया था?",
+      "options": [
+        "Kanwar Lake Bird Sanctuary (Begusarai)",
+        "Nagi-Nakti Bird Sanctuary (Jamui)",
+        "Kusheshwar Asthan (Darbhanga)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nagi-Nakti Bird Sanctuary (Jamui)",
+      "explanation": "Inaugurated by Chief Minister Nitish Kumar on 15-17 January 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "tip": "First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui).",
+      "id": 21,
+      "options_hi": [
+        "कांवर झील (बेगूसराय) Bird Sanctuary (Begusarai)",
+        "Nagi-Nakti Bird Sanctuary (Jamui)",
+        "Kusheshwar Asthan (Darbhanga)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Inaugurated by मुख्यमंत्री Nitish Kumar on 15-17 जनवरी 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "tip_hi": "First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui)."
+    }
+  ]
+}

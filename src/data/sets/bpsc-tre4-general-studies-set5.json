@@ -3,7 +3,7 @@
   "title": "General Studies Practice Set 5 (40Q)",
   "section": "gk_gs",
   "section_name": "Part-II General Studies (40 Marks)",
-  "subject": "General Studies",
+  "subject": "Full 40Q Mock Papers",
   "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
   "question_count": 40,
   "questions": [
@@ -23,7 +23,16 @@
       "answer_text": "56.25%",
       "explanation": "Cost price of 1 article = 20/25 = ₹0.80. Selling price of 1 article = 25/20 = ₹1.25. Profit per article = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
       "tip": "Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "50%",
+        "56.25%",
+        "60%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Cost price of 1 अनुच्छेद = 20/25 = ₹0.80. Selling price of 1 अनुच्छेद = 25/20 = ₹1.25. Profit per अनुच्छेद = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
+      "tip_hi": "Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -41,7 +50,16 @@
       "answer_text": "₹6,500",
       "explanation": "For 2 years, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.",
       "tip": "Standard 2-year difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "₹6,000",
+        "₹6,500",
+        "₹7,000",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "For 2 वर्ष, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.",
+      "tip_hi": "Standard 2-वर्ष difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -59,7 +77,16 @@
       "answer_text": "45",
       "explanation": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.",
       "tip": "Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "45",
+        "60",
+        "36",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.",
+      "tip_hi": "Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -77,7 +104,16 @@
       "answer_text": "8",
       "explanation": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.",
       "tip": "For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "8",
+        "10",
+        "12",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.",
+      "tip_hi": "For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -95,7 +131,16 @@
       "answer_text": "EJKNFTGP",
       "explanation": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.",
       "tip": "Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "EJKNFTGP",
+        "EJKNFPEQ",
+        "EJKNEGTO",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.",
+      "tip_hi": "Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -113,7 +158,16 @@
       "answer_text": "Husband",
       "explanation": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only son of mother-in-law is the woman's husband.",
       "tip": "'Only son of my husband's mother/father' always refers directly to the husband.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "Brother-in-law",
+        "Husband",
+        "Father-in-law",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only सोन नदी of mother-in-law is the woman's husband.",
+      "tip_hi": "'Only सोन नदी of my husband's mother/father' always refers directly to the husband."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -131,7 +185,16 @@
       "answer_text": "East",
       "explanation": "Initial direction = East. Turning right from East turns him to face South. Turning left from South turns him back to face East.",
       "tip": "Right turn (+90 deg) followed by Left turn (-90 deg) cancels out; facing direction remains East.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "उत्तर",
+        "पूर्व",
+        "दक्षिण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Initial direction = पूर्व. Turning right from पूर्व turns him to face दक्षिण. Turning left from दक्षिण turns him back to face पूर्व.",
+      "tip_hi": "Right turn (+90 deg) followed by Left turn (-90 deg) cancels out; facing direction remains पूर्व."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -149,7 +212,16 @@
       "answer_text": "N32T",
       "explanation": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.",
       "tip": "Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "N32T",
+        "M32T",
+        "N32S",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.",
+      "tip_hi": "Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -167,7 +239,16 @@
       "answer_text": "Formic acid (Methanoic acid)",
       "explanation": "Ant stings inject methanoic acid (common name formic acid, HCOOH). It is neutralized by applying mild basic substances such as baking soda (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
       "tip": "Formic acid = Ant sting; Vinegar = Acetic acid; Tomato = Oxalic acid; Tamarind = Tartaric acid.",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "ऑक्सालिक अम्ल",
+        "फॉर्मिक अम्ल (Methanoic acid)",
+        "टार्टरिक अम्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ant stings inject methanoic acid (common name फॉर्मिक अम्ल, HCOOH). It is neutralized by applying mild क्षारीय substances such as बेकिंग सोडा (NaHCO3) (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
+      "tip_hi": "फॉर्मिक अम्ल = Ant sting; Vinegar = एसिटिक अम्ल; Tomato = ऑक्सालिक अम्ल; Tamarind = टार्टरिक अम्ल."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -185,7 +266,16 @@
       "answer_text": "Synthesized in Liver, stored in Gallbladder",
       "explanation": "Bile juice is synthesized continuously by hepatic cells of the liver and concentrated/stored in the gallbladder. It contains no digestive enzymes but contains bile salts that emulsify dietary fats.",
       "tip": "Classic trap: Liver produces bile; Gallbladder only stores and concentrates it.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "Synthesized in अग्न्याशय, stored in यकृत (लीवर)",
+        "Synthesized in यकृत (लीवर), stored in Gallbladder",
+        "Synthesized in आमाशय (पेट), stored in छोटी आंत",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bile juice is synthesized continuously by hepatic cells of the यकृत (लीवर) and concentrated/stored in the gallbladder. It contains no digestive enzymes but contains bile salts that emulsify dietary fats.",
+      "tip_hi": "Classic trap: यकृत (लीवर) produces bile; Gallbladder only stores and concentrates it."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -203,7 +293,16 @@
       "answer_text": "Refraction, Dispersion, and Internal Reflection",
       "explanation": "Rainbow formation involves refraction and dispersion of sunlight as it enters water droplets, followed by total internal reflection at the back of the droplet, and refraction again as it exits.",
       "tip": "Three-stage optical process: Refraction -> Dispersion -> Total Internal Reflection.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "अपवर्तन and वर्ण विक्षेपण only",
+        "पूर्ण आंतरिक परावर्तन only",
+        "अपवर्तन, वर्ण विक्षेपण, and Internal परावर्तन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rainbow formation involves अपवर्तन and वर्ण विक्षेपण of sunlight as it enters water droplets, followed by पूर्ण आंतरिक परावर्तन at the back of the droplet, and अपवर्तन again as it exits.",
+      "tip_hi": "Three-stage optical process: अपवर्तन -> वर्ण विक्षेपण -> पूर्ण आंतरिक परावर्तन."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -221,7 +320,16 @@
       "answer_text": "CaSO4 · 1/2H2O",
       "explanation": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating gypsum (CaSO4 · 2H2O) at 373 K (100°C).",
       "tip": "Gypsum = dihydrate (2H2O); Plaster of Paris = hemihydrate (1/2 H2O).",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "CaSO4 · 2H2O",
+        "CaSO4 · आधा (आधा (आधा (1/2)))H2O",
+        "CaSO4 · H2O",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्लास्टर ऑफ पेरिस is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating जिप्सम (CaSO4 · 2H2O) at 373 K (100°C).",
+      "tip_hi": "जिप्सम = dihydrate (2H2O); प्लास्टर ऑफ पेरिस = hemihydrate (1/2 H2O)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -239,7 +347,16 @@
       "answer_text": "Between the Focus and Pole",
       "explanation": "A concave mirror forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).",
       "tip": "Only position for virtual image in concave mirror = Object between Focus and Pole.",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "At the Centre of Curvature",
+        "Between the Focus and Pole",
+        "At the Principal Focus",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A अवतल दर्पण forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).",
+      "tip_hi": "Only position for virtual image in अवतल दर्पण = Object between Focus and Pole."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -257,7 +374,16 @@
       "answer_text": "Pituitary Gland",
       "explanation": "The pituitary gland (hypophysis) is called the master gland because its tropic hormones regulate the secretion of thyroid, adrenal cortex, and gonads, under hypothalamus control.",
       "tip": "Master Gland = Pituitary; Master of Master Gland = Hypothalamus.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "थायरॉयड ग्रंथि Gland",
+        "पीयूष ग्रंथि Gland",
+        "अधिवृक्क ग्रंथि Gland",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The पीयूष ग्रंथि gland (hypophysis) is called the master gland क्योंकि its tropic hormones regulate the secretion of थायरॉयड ग्रंथि, अधिवृक्क ग्रंथि cortex, and gonads, under hypothalamus control.",
+      "tip_hi": "Master Gland = पीयूष ग्रंथि; Master of Master Gland = Hypothalamus."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -275,7 +401,16 @@
       "answer_text": "Zinc",
       "explanation": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode because it oxidizes preferentially over iron.",
       "tip": "Galvanization = Zinc (Zn) coating on Iron (Fe).",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "Copper",
+        "Zinc",
+        "Tin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode क्योंकि it oxidizes preferentially over iron.",
+      "tip_hi": "Galvanization = Zinc (Zn) coating on Iron (Fe)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -293,7 +428,16 @@
       "answer_text": "Vacuum",
       "explanation": "Sound waves are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through vacuum, whereas electromagnetic waves (light) can.",
       "tip": "Speed of sound: Solids > Liquids > Gases > Vacuum (zero).",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "ठोस",
+        "द्रव",
+        "निर्वात",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ध्वनि तरंगें are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through निर्वात, जबकि electromagnetic waves (light) can.",
+      "tip_hi": "Speed of sound: ठोस > द्रव > गैस > निर्वात (zero)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -311,7 +455,16 @@
       "answer_text": "1929 Lahore Session",
       "explanation": "Under the presidency of Jawaharlal Nehru at the Lahore Session in December 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 January 1930 as Independence Day.",
       "tip": "1929 Lahore = Purna Swaraj + Tri-colour hoisted on the banks of Ravi.",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "1920 Nagpur Session",
+        "1929 Lahore Session",
+        "1931 Karachi Session",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under the presidency of जवाहरलाल नेहरू at the Lahore Session in दिसम्बर 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 जनवरी 1930 as Independence दिन.",
+      "tip_hi": "1929 Lahore = Purna Swaraj + Tri-colour hoisted on the banks of Ravi."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -329,7 +482,16 @@
       "answer_text": "1912",
       "explanation": "Announced at the Delhi Durbar in December 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 April 1912. Orissa was subsequently separated from Bihar on 1 April 1936.",
       "tip": "1912 = Bihar & Orissa separated from Bengal; 1936 = Orissa separated from Bihar; 2000 = Jharkhand separated from Bihar.",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "1905",
+        "1912",
+        "1936",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Announced at the Delhi Durbar in दिसम्बर 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 अप्रैल 1912. Orissa was subsequently separated from Bihar on 1 अप्रैल 1936.",
+      "tip_hi": "1912 = Bihar & Orissa separated from Bengal; 1936 = Orissa separated from Bihar; 2000 = Jharkhand separated from Bihar."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -347,7 +509,16 @@
       "answer_text": "Sidhu and Kanhu",
       "explanation": "The Santhal Hool (Rebellion) was led by four brothers—Sidhu, Kanhu, Chand, and Bhairav—in Damin-i-Koh against oppressive British revenue collectors, police, and mahajans (moneylenders).",
       "tip": "Santhal Rebellion (1855-56) = Sidhu & Kanhu; Munda Ulgulan (1899-1900) = Birsa Munda.",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "Birsa Munda and Gaya Munda",
+        "Sidhu and Kanhu",
+        "Jatra Bhagat and Tana Bhagat",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Santhal Hool (Rebellion) was led by four brothers—Sidhu, Kanhu, Chand, and Bhairav—in Damin-i-Koh against oppressive British revenue collectors, police, and mahajans (moneylenders).",
+      "tip_hi": "Santhal Rebellion (1855-56) = Sidhu & Kanhu; Munda Ulgulan (1899-1900) = Birsa Munda."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -365,7 +536,16 @@
       "answer_text": "Sachindra Nath Sanyal",
       "explanation": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.",
       "tip": "'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay.",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "भगत सिंह",
+        "Sachindra Nath Sanyal",
+        "Barindra Kumar Ghosh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.",
+      "tip_hi": "'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -383,7 +563,16 @@
       "answer_text": "Nawada",
       "explanation": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.",
       "tip": "Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas).",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "Rohtas",
+        "Nawada",
+        "Kaimur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.",
+      "tip_hi": "Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -401,7 +590,16 @@
       "answer_text": "Sheohar",
       "explanation": "Sheohar has the highest population density in Bihar with 1,880 persons per sq km, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq km.",
       "tip": "Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488).",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "Patna",
+        "Sheohar",
+        "Darbhanga",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sheohar has the highest जनसंख्या घनत्व in Bihar with 1,880 persons per sq किमी, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq किमी.",
+      "tip_hi": "Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -419,7 +617,16 @@
       "answer_text": "61st Constitutional Amendment Act",
       "explanation": "The 61st Constitutional Amendment Act of 1988 amended Article 326 of the Constitution, lowering the voting age from 21 to 18 years. It came into force on 28 March 1989 under Rajiv Gandhi's government.",
       "tip": "Voting age reduction (21 to 18) = 61st Amendment 1988 (Article 326).",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "44वां संविधान संशोधन अधिनियम",
+        "61st संविधान संशोधन अधिनियम",
+        "73rd संविधान संशोधन अधिनियम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 61st संविधान संशोधन अधिनियम of 1988 amended अनुच्छेद 326 of the Constitution, lowering the voting age from 21 to 18 वर्ष. It came into force on 28 मार्च 1989 under Rajiv Gandhi's government.",
+      "tip_hi": "Voting age reduction (21 to 18) = 61st संशोधन 1988 (अनुच्छेद 326)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -437,7 +644,16 @@
       "answer_text": "Bharat Mandapam (Pragati Maidan)",
       "explanation": "The 18th G20 Heads of State and Government Summit was held on 9-10 September 2023 at the newly renovated Bharat Mandapam International Exhibition-Convention Centre at Pragati Maidan, New Delhi.",
       "tip": "G20 Summit venue = Bharat Mandapam (Pragati Maidan); Theme: Vasudhaiva Kutumbakam.",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "Yashobhoomi Convention Centre",
+        "Bharat Mandapam (Pragati Maidan)",
+        "Vigyan Bhawan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 18th G20 Heads of State and Government Summit was held on 9-10 सितम्बर 2023 at the newly renovated Bharat Mandapam International Exhibition-Convention Centre at Pragati Maidan, New Delhi.",
+      "tip_hi": "G20 Summit venue = Bharat Mandapam (Pragati Maidan); Theme: Vasudhaiva Kutumbakam."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -455,7 +671,16 @@
       "answer_text": "72 km/h",
       "explanation": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 seconds. Speed = 500 / 25 = 20 m/s. Converting to km/h = 20 * (18/5) = 72 km/h.",
       "tip": "Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 km/h.",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "64 किमी/h",
+        "72 किमी/h",
+        "80 किमी/h",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 सेकंड. Speed = 500 / 25 = 20 m/s. Converting to किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "tip_hi": "Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 किमी/h."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -473,7 +698,16 @@
       "answer_text": "15 years",
       "explanation": "Let principal = P. Doubling means SI = P in 5 years. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 years.",
       "tip": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 years.",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "10 वर्ष",
+        "15 वर्ष",
+        "20 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let principal = P. Doubling means SI = P in 5 वर्ष. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 वर्ष.",
+      "tip_hi": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -491,7 +725,16 @@
       "answer_text": "4/9",
       "explanation": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/day, B's efficiency = 2 units/day. Together in 4 days = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.",
       "tip": "1-day combined work = 1/12 + 1/18 = 5/36. In 4 days = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9.",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "4/9",
+        "5/9",
+        "1/3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/दिन, B's efficiency = 2 units/दिन. Together in 4 दिन = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.",
+      "tip_hi": "1-दिन combined work = 1/12 + 1/18 = 5/36. In 4 दिन = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -509,7 +752,16 @@
       "answer_text": "384 sq metres",
       "explanation": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.",
       "tip": "L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m.",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "364 sq metres",
+        "384 sq metres",
+        "400 sq metres",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.",
+      "tip_hi": "L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -527,7 +779,16 @@
       "answer_text": "Bromine",
       "explanation": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.",
       "tip": "Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br).",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "Mercury",
+        "Bromine",
+        "Chlorine",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.",
+      "tip_hi": "Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -545,7 +806,16 @@
       "answer_text": "Pulmonary Veins",
       "explanation": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to lungs, while pulmonary veins carry oxygenated blood from lungs to left atrium.",
       "tip": "Exception to vein rule: Pulmonary veins carry oxygen-rich blood.",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "Pulmonary Artery",
+        "Pulmonary Veins",
+        "Vena Cava",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to फेफड़े, while pulmonary veins carry oxygenated blood from फेफड़े to left atrium.",
+      "tip_hi": "Exception to vein rule: Pulmonary veins carry oxygen-rich blood."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -563,7 +833,16 @@
       "answer_text": "Atmospheric Refraction of starlight through air layers of varying optical density",
       "explanation": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.",
       "tip": "Star twinkling = Atmospheric Refraction; Advanced sunrise & delayed sunset = Atmospheric Refraction.",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "पूर्ण आंतरिक परावर्तन of starlight",
+        "Atmospheric अपवर्तन of starlight through air layers of varying optical density",
+        "Periodic वर्ण विक्षेपण of starlight by cloud moisture",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.",
+      "tip_hi": "Star twinkling = Atmospheric अपवर्तन; Advanced sunrise & delayed sunset = Atmospheric अपवर्तन."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -581,7 +860,16 @@
       "answer_text": "7",
       "explanation": "Pure neutral water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are acidic, and pH > 7 are alkaline.",
       "tip": "Neutral pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6.",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "0",
+        "7",
+        "14",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pure उदासीन water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are अम्लीय, and pH > 7 are alkaline.",
+      "tip_hi": "उदासीन pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -599,7 +887,16 @@
       "answer_text": "Shyamji Krishna Varma",
       "explanation": "Shyamji Krishna Varma founded the Indian Home Rule Society and India House in London in 1905. He also published the monthly journal 'The Indian Sociologist'. V.D. Savarkar and Madan Lal Dhingra were associated with India House.",
       "tip": "India House (London, 1905) = Shyamji Krishna Varma; Ghadar Party (San Francisco, 1913) = Lala Har Dayal.",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "Lala Har Dayal",
+        "Shyamji Krishna Varma",
+        "Madam Bhikaji Cama",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Shyamji Krishna Varma founded the Indian Home Rule Society and India House in London in 1905. He also published the monthly journal 'The Indian Sociologist'. V.D. Savarkar and Madan Lal Dhingra were associated with India House.",
+      "tip_hi": "India House (London, 1905) = Shyamji Krishna Varma; Ghadar Party (San Francisco, 1913) = Lala Har Dayal."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -617,7 +914,16 @@
       "answer_text": "Nakhas Pond (नखास पिंड)",
       "explanation": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 April 1930 to manufacture salt and inaugurate the civil disobedience movement.",
       "tip": "Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha.",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "Gandhi Maidan",
+        "Nakhas Pond (नखास पिंड)",
+        "Sadaqat Ashram",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 अप्रैल 1930 to manufacture salt and inaugurate the civil disobedience movement.",
+      "tip_hi": "Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -635,7 +941,16 @@
       "answer_text": "Anamudi",
       "explanation": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.",
       "tip": "Highest peak of South India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m).",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "Doddabetta",
+        "Anamudi",
+        "Mahendragiri",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.",
+      "tip_hi": "Highest peak of दक्षिण India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -653,7 +968,16 @@
       "answer_text": "Kosi River",
       "explanation": "The Kosi River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 km over 250 years, causing repeated disasters.",
       "tip": "Sorrow of Bihar = Kosi; Sorrow of Bengal = Damodar.",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "गंडक नदी River",
+        "कोसी नदी River",
+        "Bagmati River",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The कोसी नदी River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 किमी over 250 वर्ष, causing repeated disasters.",
+      "tip_hi": "Sorrow of Bihar = कोसी नदी; Sorrow of Bengal = Damodar."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -671,7 +995,16 @@
       "answer_text": "Rohtas",
       "explanation": "Rohtas district recorded the highest overall literacy rate in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is second with 70.68%.",
       "tip": "Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%).",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "Patna",
+        "Rohtas",
+        "Bhojpur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rohtas district recorded the highest overall साक्षरता दर in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is सेकंड with 70.68%.",
+      "tip_hi": "Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -689,7 +1022,16 @@
       "answer_text": "10%",
       "explanation": "Formulated by Raymond Lindeman in 1942, during energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and respiration, leaving only ~10% stored as flesh for the next trophic level.",
       "tip": "Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links.",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "1%",
+        "10%",
+        "50%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Formulated by Raymond Lindeman in 1942, के दौरान energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and श्वसन, leaving only ~10% stored as flesh for the next trophic level.",
+      "tip_hi": "Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -707,7 +1049,16 @@
       "answer_text": "Operation Ganga",
       "explanation": "Operation Ganga was launched in late February 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
       "tip": "Operation Ganga = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023).",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "Operation Devi Shakti",
+        "Operation गंगा नदी",
+        "Operation Kaveri",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Operation गंगा नदी was launched in late फरवरी 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
+      "tip_hi": "Operation गंगा नदी = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -725,7 +1076,16 @@
       "answer_text": "Article 32",
       "explanation": "Article 32 guarantees the Right to Constitutional Remedies, empowering the Supreme Court to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under Article 226.",
       "tip": "Supreme Court Writs = Article 32 (Heart & Soul of Constitution by Ambedkar); High Court Writs = Article 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "id": 40
+      "id": 40,
+      "options_hi": [
+        "अनुच्छेद 32",
+        "अनुच्छेद 131",
+        "अनुच्छेद 226",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 32 guarantees the Right to Constitutional Remedies, empowering the सर्वोच्च न्यायालय to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under अनुच्छेद 226.",
+      "tip_hi": "सर्वोच्च न्यायालय Writs = अनुच्छेद 32 (हृदय & Soul of Constitution by Ambedkar); उच्च न्यायालय Writs = अनुच्छेद 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
     }
   ]
 }

@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-gkgs-history-set1",
+  "title": "Indian National Movement & History Set 1 (25Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Indian National Movement & History",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Who led the 1857 Revolt in Bihar?",
+      "hi": "1857 के विद्रोह के नेता बिहार में कौन थे?",
+      "options": [
+        "Mir Bakhsh",
+        "Babu Kunwar Singh",
+        "Birbhan Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Babu Kunwar Singh",
+      "explanation": "Babu Kunwar Singh of Jagdishpur (Bhojpur) led the armed rebellion across Arrah, Patna, and Azamgarh until his death in April 1858. His brother Amar Singh continued guerrilla warfare in Kaimur hills.",
+      "tip": "BPSC tests Kunwar Singh extensively; remember his historic defeat of Captain Le Grand on 23 April 1858.",
+      "id": 1,
+      "options_hi": [
+        "मीर बख्श",
+        "बाबू कुंवर सिंह",
+        "बीरभान सिंह",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बाबू कुंवर सिंह of Jagdishpur (Bhojpur) led the armed rebellion across Arrah, Patna, and Azamgarh until his death in अप्रैल 1858. His brother Amar Singh continued guerrilla warfare in Kaimur hills.",
+      "tip_hi": "BPSC tests Kunwar Singh extensively; remember his historic defeat of Captain Le Grand on 23 अप्रैल 1858."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which important event took place on 5th March, 1931?",
+      "hi": "5 मार्च, 1931 को कौन-सी महत्त्वपूर्ण घटना घटी?",
+      "options": [
+        "Gandhi-Irwin Pact",
+        "Gandhi attended the Round Table Conference",
+        "Karachi Congress",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Gandhi-Irwin Pact",
+      "explanation": "The Gandhi-Irwin Pact (Delhi Pact) was signed on 5th March 1931 between Mahatma Gandhi and Viceroy Lord Irwin, resulting in suspension of the Civil Disobedience Movement.",
+      "tip": "1931 Sequence: 5 March (Gandhi-Irwin Pact) -> 23 March (Bhagat Singh execution) -> 29 March (Karachi Session).",
+      "id": 2,
+      "options_hi": [
+        "गांधी-इरविन समझौता (5 मार्च 1931)",
+        "गांधीजी का गोलमेज सम्मेलन में भाग लेना",
+        "कराची कांग्रेस अधिवेशन (1931)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The गांधी-इरविन समझौता (5 मार्च 1931) (Delhi Pact) हस्ताक्षरित हुआ था 5th मार्च 1931 between महात्मा गांधी and Viceroy Lord Irwin, resulting in suspension of the Civil Disobedience Movement.",
+      "tip_hi": "1931 Sequence: 5 मार्च (गांधी-इरविन समझौता (5 मार्च 1931)) -> 23 मार्च (भगत सिंह execution) -> 29 मार्च (Karachi Session)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "When was the Poona Pact signed?",
+      "hi": "पूना समझौता कब हस्ताक्षरित हुआ था?",
+      "options": [
+        "24th September, 1932",
+        "24th September, 1930",
+        "26th September, 1930",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "24th September, 1932",
+      "explanation": "The Poona Pact was signed on 24th September 1932 at Yerwada Jail between Dr. B.R. Ambedkar and Madan Mohan Malaviya, replacing separate electorates with reserved seats.",
+      "tip": "Memorize the year 1932: Communal Award (August) -> Fast unto death -> Poona Pact (24 September 1932).",
+      "id": 3,
+      "options_hi": [
+        "24 सितम्बर, 1932",
+        "24 सितम्बर, 1930",
+        "26 सितम्बर, 1930",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Poona Pact हस्ताक्षरित हुआ था 24th सितम्बर 1932 at Yerwada Jail between डॉ. बी.आर. अम्बेडकर and मदन मोहन मालवीय, replacing separate electorates with reserved seats.",
+      "tip_hi": "Memorize the वर्ष 1932: Communal Award (अगस्त) -> Fast unto death -> Poona Pact (24 सितम्बर 1932)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Who gave the famous slogan 'Inquilab Zindabad'?",
+      "hi": "'इंकलाब ज़िन्दाबाद' का प्रसिद्ध नारा किसने दिया था?",
+      "options": [
+        "Hakim Ajmal Khan",
+        "Chandra Shekhar Azad",
+        "Hasrat Mohani",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Hasrat Mohani",
+      "explanation": "The slogan 'Inquilab Zindabad' was coined in 1921 by Urdu poet and freedom fighter Maulana Hasrat Mohani, and later popularized across India by Bhagat Singh.",
+      "tip": "BPSC official key consistently attributes the creation/coining of this slogan to Maulana Hasrat Mohani.",
+      "id": 4,
+      "options_hi": [
+        "हकीम अजमल खान",
+        "चंद्रशेखर आज़ाद",
+        "मौलाना हसरत मोहानी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The slogan 'Inquilab Zindabad' was coined in 1921 by Urdu poet and freedom fighter Maulana मौलाना हसरत मोहानी, and later popularized across India by भगत सिंह.",
+      "tip_hi": "BPSC official key consistently attributes the creation/coining of this slogan to Maulana मौलाना हसरत मोहानी."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Who wrote the book 'India Divided'?",
+      "hi": "'इंडिया डिवाइडेड' नामक पुस्तक किसने लिखी थी?",
+      "options": [
+        "B. G. Tilak",
+        "Rajendra Prasad",
+        "Penderel Moon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rajendra Prasad",
+      "explanation": "Dr. Rajendra Prasad authored 'India Divided' in 1946 while detained at Bankipore Jail during Quit India, presenting a rigorous analysis opposing partition.",
+      "tip": "Major books by Dr. Rajendra Prasad: 'India Divided', 'Atmakatha', and 'Champaran Mein Mahatma Gandhi'.",
+      "id": 5,
+      "options_hi": [
+        "B. G. Tilak",
+        "Rajendra Prasad",
+        "Penderel Moon",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "डॉ. राजेंद्र प्रसाद authored 'India Divided' in 1946 while detained at Bankipore Jail के दौरान Quit India, presenting a rigorous analysis opposing partition.",
+      "tip_hi": "Major books by डॉ. राजेंद्र प्रसाद: 'India Divided', 'Atmakatha', and 'Champaran Mein महात्मा गांधी'."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Gaya Session of Indian National Congress was held in which year?",
+      "hi": "भारतीय राष्ट्रीय काँग्रेस का गया अधिवेशन किस वर्ष आयोजित हुआ था?",
+      "options": [
+        "1922",
+        "1933",
+        "1946",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "1922",
+      "explanation": "The 37th Session of the Indian National Congress met at Gaya (Bihar) in December 1922 under the presidency of Deshbandhu Chittaranjan Das.",
+      "tip": "INC Sessions in undivided Bihar: 1912 Bankipore (R.N. Mudholkar), 1922 Gaya (C.R. Das), 1940 Ramgarh (Abul Kalam Azad).",
+      "id": 6,
+      "options_hi": [
+        "1922",
+        "1933",
+        "1946",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 37th Session of the Indian National Congress met at Gaya (Bihar) in दिसम्बर 1922 under the presidency of Deshbandhu Chittaranjan Das.",
+      "tip_hi": "INC Sessions in undivided Bihar: 1912 Bankipore (R.N. Mudholkar), 1922 Gaya (C.R. Das), 1940 Ramgarh (Abul Kalam Azad)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "Who described the Government of India Act, 1935 as a 'Charter of Slavery'?",
+      "hi": "भारत शासन अधिनियम, 1935 को किसने 'गुलामी का अधिकार-पत्र' कहा था?",
+      "options": [
+        "Mahatma Gandhi",
+        "Netaji Subhas Chandra Bose",
+        "Maulana Hasrat Mohani",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Pandit Jawaharlal Nehru described the 1935 Act as a 'new charter of slavery' and a machine with 'all brakes, but no engine.' His name is missing, so (E) is correct.",
+      "tip": "Famous quotes whose author is absent from choices (A), (B), and (C) are classic BPSC Option (E) triggers.",
+      "id": 7,
+      "options_hi": [
+        "महात्मा गांधी",
+        "Netaji सुभाष चंद्र बोस",
+        "Maulana मौलाना हसरत मोहानी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pandit जवाहरलाल नेहरू described the 1935 Act as a 'new charter of slavery' and a machine with 'all brakes, but no engine.' His name is missing, so (E) is correct.",
+      "tip_hi": "Famous quotes whose author is absent from choices (A), (B), and (C) are classic BPSC Option (E) triggers."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Who was the founder of 'Indian National Army (INA)'?\n('",
+      "hi": "इंडियन नेशनल आर्मी (INA)' के संस्थापक कौन थे?)",
+      "options": [
+        "Subhash Chandra Bose",
+        "Mohan Singh",
+        "Lala Lajpat Rai",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mohan Singh",
+      "explanation": "Captain Mohan Singh founded the First Indian National Army in Malaya in 1942. Subhash Chandra Bose later reorganized and commanded it in 1943.",
+      "tip": "Founder = Captain Mohan Singh; Supreme Commander & Reorganizer = Netaji Subhas Chandra Bose.",
+      "id": 8,
+      "options_hi": [
+        "Subhash Chandra Bose",
+        "Mohan Singh",
+        "Lala Lajpat Rai",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Captain Mohan Singh founded the First Indian National Army in Malaya in 1942. Subhash Chandra Bose later reorganized and commanded it in 1943.",
+      "tip_hi": "Founder = Captain Mohan Singh; Supreme Commander & Reorganizer = Netaji सुभाष चंद्र बोस."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Which revolt is mentioned in Bankim Chandra Chatterjee's novel, 'Anandamath'?",
+      "hi": "बंकिम चन्द्र चटर्जी के उपन्यास 'आनंदमठ' में किस विद्रोह का उल्लेख है?",
+      "options": [
+        "Sannyasi",
+        "Pagalpanthi",
+        "Indigo",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Sannyasi",
+      "explanation": "Bankim Chandra Chatterjee's novel 'Anandamath' (1882) is set during the Bengal famine of 1770 and depicts the Sannyasi and Fakir Rebellion (1763-1800).",
+      "tip": "India's national song 'Vande Mataram' was originally written by Bankim Chandra Chatterjee in 'Anandamath'.",
+      "id": 9,
+      "options_hi": [
+        "Sannyasi",
+        "Pagalpanthi",
+        "Indigo",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बंकिम चंद्र चटर्जी's novel 'Anandamath' (1882) is set के दौरान the Bengal famine of 1770 and depicts the Sannyasi and Fakir Rebellion (1763-1800).",
+      "tip_hi": "India's national song 'Vande Mataram' was originally written by बंकिम चंद्र चटर्जी in 'Anandamath'."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "When were 'Swadeshi' and 'Boycott' first adopted as forms of struggle in India?",
+      "hi": "प्रथम बार संघर्ष के तरीकों के रूप में 'स्वदेशी' एवं 'बहिष्कार' भारत में कब अपनाया गया?",
+      "options": [
+        "Partition of Bengal",
+        "Home Rule Movement",
+        "Non-Cooperation Movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Partition of Bengal",
+      "explanation": "Swadeshi and Boycott were first adopted as mass agitation methods during the anti-partition agitation of Bengal in 1905.",
+      "tip": "Boycott resolution was passed at the Calcutta Town Hall meeting on 7th August 1905.",
+      "id": 10,
+      "options_hi": [
+        "Partition of Bengal",
+        "Home Rule Movement",
+        "Non-Cooperation Movement",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Swadeshi and Boycott were first adopted as mass agitation methods के दौरान the anti-partition agitation of Bengal in 1905.",
+      "tip_hi": "Boycott resolution was passed at the Calcutta Town Hall meeting on 7th अगस्त 1905."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Who founded Hindu College at Calcutta in 1817?",
+      "hi": "1817 में कलकत्ता में हिन्दू कॉलेज की स्थापना किसने की थी?",
+      "options": [
+        "Henry Vivian Derozio",
+        "David Hare",
+        "Jonathan Duncan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "David Hare",
+      "explanation": "Scottish watchmaker David Hare, along with Raja Ram Mohan Roy and Radhakanta Deb, founded Hindu College in Calcutta in 1817.",
+      "tip": "Jonathan Duncan founded Sanskrit College at Varanasi in 1791; Derozio taught at Hindu College.",
+      "id": 11,
+      "options_hi": [
+        "हेनरी Vivian Derozio",
+        "David Hare",
+        "Jonathan Duncan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Scottish watchmaker David Hare, along with राजा राममोहन राय and Radhakanta Deb, founded Hindu College in Calcutta in 1817.",
+      "tip_hi": "Jonathan Duncan founded Sanskrit College at Varanasi in 1791; Derozio taught at Hindu College."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Who among the following said that 'Congress is tottering to its fall and one of my great ambitions while in India is to assist it to a peaceful demise'?",
+      "hi": "इनमें से किसने कहा था कि 'काँग्रेस का महल लड़खड़ा रहा है और भारत में रहते हुए मेरी एक बड़ी महत्त्वाकांक्षा यह है कि मैं शान्ति के साथ इसे मरने में सहयोग दे सकूँ'?",
+      "options": [
+        "Dufferin",
+        "Minto",
+        "Curzon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Curzon",
+      "explanation": "Viceroy Lord Curzon wrote this statement in 1900 in a confidential letter to the Secretary of State Lord George Hamilton.",
+      "tip": "Dufferin called Congress a 'microscopic minority'; Curzon desired its 'peaceful demise'.",
+      "id": 12,
+      "options_hi": [
+        "Dufferin",
+        "Minto",
+        "Curzon",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Viceroy Lord Curzon wrote this statement in 1900 in a confidential letter to the Secretary of State Lord George Hamilton.",
+      "tip_hi": "Dufferin called Congress a 'microscopic minority'; Curzon desired its 'peaceful demise'."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the patriotic bookseller in Patna who organized and led the armed 1857 insurrection in Patna city and was publicly hanged by British Commissioner William Tayler?",
+      "hi": "पटना नगर में 1857 के सशस्त्र विद्रोह का नेतृत्व करने वाले देशभक्त पुस्तक विक्रेता कौन थे जिन्हें ब्रिटिश कमिश्नर विलियम टेलर ने सार्वजनिक रूप से फांसी दी थी?",
+      "options": [
+        "Waris Ali",
+        "Pir Ali Khan",
+        "Lutf Ali Khan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pir Ali Khan",
+      "explanation": "On 3 July 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 July 1857.",
+      "tip": "1857 Patna city rebellion leader = Pir Ali Khan (Hanged by Commissioner William Tayler).",
+      "id": 13,
+      "options_hi": [
+        "Waris Ali",
+        "Pir Ali Khan",
+        "Lutf Ali Khan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 3 जुलाई 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 जुलाई 1857.",
+      "tip_hi": "1857 Patna city rebellion leader = Pir Ali Khan (Hanged by Commissioner William Tayler)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In February 1923, a provincial branch of the 'Swaraj Dal' was formed in Bihar under the leadership of which prominent national leader?",
+      "hi": "फरवरी 1923 में बिहार में 'स्वराज दल' की प्रांतीय शाखा का गठन किस प्रमुख नेता के नेतृत्व में किया गया था?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Sri Krishna Singh",
+        "Anugrah Narayan Sinha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sri Krishna Singh",
+      "explanation": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in February 1923 with Narayan Prasad as President and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.",
+      "tip": "Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first Chief Minister of Bihar).",
+      "id": 14,
+      "options_hi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "Sri Krishna Singh",
+        "Anugrah Narayan Sinha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in फरवरी 1923 with Narayan Prasad as राष्ट्रपति and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.",
+      "tip_hi": "Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first मुख्यमंत्री of Bihar)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who presided over the 53rd Annual Session of the Indian National Congress held at Ramgarh (in undivided Bihar) in March 1940?(",
+      "hi": "मार्च 1940 में रामगढ़ (अविभाजित बिहार) में आयोजित भारतीय राष्ट्रीय कांग्रेस के 53वें वार्षिक अधिवेशन की अध्यक्षता किसने की थी?)",
+      "options": [
+        "Jawaharlal Nehru",
+        "Maulana Abul Kalam Azad",
+        "Subhas Chandra Bose",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulana Abul Kalam Azad",
+      "explanation": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress President continuously from 1940 to 1946 during World War II.",
+      "tip": "1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (President continuously 1940-46).",
+      "id": 15,
+      "options_hi": [
+        "जवाहरलाल नेहरू",
+        "Maulana Abul Kalam Azad",
+        "सुभाष चंद्र बोस",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress राष्ट्रपति continuously from 1940 to 1946 के दौरान World War II.",
+      "tip_hi": "1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (राष्ट्रपति continuously 1940-46)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under the Permanent Settlement of 1793 in Bengal and Bihar, the draconian legal provision that led to the forfeiture and auction of zamindari estates if dues were not paid by sunset on a fixed date was known as",
+      "hi": "1793 के स्थायी बंदोबस्त के तहत वह कठोर कानूनी प्रावधान क्या कहलाता था जिसके तहत निश्चित तिथि को सूर्यास्त तक लगान जमा न करने पर जमींदारी नीलाम कर दी जाती थी?",
+      "options": [
+        "Ryotwari Rule",
+        "Sunset Law (सूर्यास्त कानून)",
+        "Mahalwari Code",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sunset Law (सूर्यास्त कानून)",
+      "explanation": "Under the Sunset Law of the Permanent Settlement, if a zamindar failed to remit the fixed government revenue before sunset on the appointed date, his zamindari estate was immediately confiscated and auctioned off to the highest bidder.",
+      "tip": "Sunset Law = Associated with Lord Cornwallis's Permanent Settlement (1793).",
+      "id": 16,
+      "options_hi": [
+        "Ryotwari Rule",
+        "Sunset Law (सूर्यास्त कानून)",
+        "Mahalwari Code",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under the Sunset Law of the Permanent Settlement, if a zamindar failed to remit the fixed government revenue before sunset on the appointed date, his zamindari estate was immediately confiscated and auctioned off to the highest bidder.",
+      "tip_hi": "Sunset Law = Associated with Lord Cornwallis's Permanent Settlement (1793)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A man travels 10 km North, turns left and travels 6 km, then turns left again and travels 10 km. How far and in which direction is he from his starting point?",
+      "hi": "एक व्यक्ति उत्तर दिशा में 10 किमी चलता है, बायें मुड़कर 6 किमी चलता है, फिर बायें मुड़कर 10 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूरी और किस दिशा में है?",
+      "options": [
+        "6 km East",
+        "6 km West",
+        "10 km South",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "6 km West",
+      "explanation": "North 10 km (+10y) -> West 6 km (-6x) -> South 10 km (-10y). Net displacement = -6x = 6 km due West of starting position.",
+      "tip": "Vertical movements (+10 km North and -10 km South) cancel out; leaves 6 km West.",
+      "id": 17,
+      "options_hi": [
+        "6 किमी पूर्व",
+        "6 किमी पश्चिम",
+        "10 किमी दक्षिण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "उत्तर 10 किमी (+10y) -> पश्चिम 6 किमी (-6x) -> दक्षिण 10 किमी (-10y). Net displacement = -6x = 6 किमी due पश्चिम of starting position.",
+      "tip_hi": "Vertical movements (+10 किमी उत्तर and -10 किमी दक्षिण) cancel out; leaves 6 किमी पश्चिम."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "When Mahatma Gandhi arrived at Patna railway station on 10 April 1917 on his way to Champaran, at whose residence was he hosted?",
+      "hi": "10 अप्रैल 1917 को जब महात्मा गांधी चंपारण जाते समय पटना रेलवे स्टेशन पहुंचे, तो वे किसके आवास पर ठहरे थे?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Maulana Mazharul Haque",
+        "Brajkishore Prasad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Dr. Rajendra Prasad",
+      "explanation": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 April 1917 and went to the residence of Dr. Rajendra Prasad (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.",
+      "tip": "Gandhi in Patna (10 April 1917) visited Dr. Rajendra Prasad's residence first with Raj Kumar Shukla.",
+      "id": 18,
+      "options_hi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "Maulana Mazharul Haque",
+        "Brajkishore Prasad",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 अप्रैल 1917 and went to the residence of डॉ. राजेंद्र प्रसाद (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.",
+      "tip_hi": "Gandhi in Patna (10 अप्रैल 1917) visited डॉ. राजेंद्र प्रसाद's residence first with Raj Kumar Shukla."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "During the Quit India Movement in 1942, who operated the underground clandestine 'Congress Radio' broadcasting nationalist messages across the country?",
+      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान देशभर में राष्ट्रवादी संदेश प्रसारित करने वाले भूमिगत 'कांग्रेस रेडियो' का संचालन किसने किया था?",
+      "options": [
+        "Aruna Asaf Ali",
+        "Usha Mehta",
+        "Sucheta Kripalani",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Usha Mehta",
+      "explanation": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. Ram Manohar Lohia) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in November 1942.",
+      "tip": "Underground Congress Radio (1942) = Usha Mehta and Dr. Ram Manohar Lohia.",
+      "id": 19,
+      "options_hi": [
+        "Aruna Asaf Ali",
+        "Usha Mehta",
+        "Sucheta Kripalani",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. राम मनोहर लोहिया) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in नवम्बर 1942.",
+      "tip_hi": "Underground Congress Radio (1942) = Usha Mehta and Dr. राम मनोहर लोहिया."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "At which Annual Session of the Indian National Congress did Raj Kumar Shukla meet Mahatma Gandhi and persuade him to visit Champaran?",
+      "hi": "भारतीय राष्ट्रीय कांग्रेस के किस वार्षिक अधिवेशन में राजकुमार शुक्ल ने महात्मा गांधी से मुलाकात की और उन्हें चंपारण आने के लिए राजी किया?",
+      "options": [
+        "1915 Bombay Session",
+        "1916 Lucknow Session",
+        "1917 Calcutta Session",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1916 Lucknow Session",
+      "explanation": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in December 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.",
+      "tip": "1916 Lucknow Session = Raj Kumar Shukla invited Mahatma Gandhi to Champaran.",
+      "id": 20,
+      "options_hi": [
+        "1915 Bombay Session",
+        "1916 Lucknow Session",
+        "1917 Calcutta Session",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in दिसम्बर 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.",
+      "tip_hi": "1916 Lucknow Session = Raj Kumar Shukla invited महात्मा गांधी to Champaran."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which district in Bihar receives the highest average annual rainfall from the Bay of Bengal branch of the Southwest Monsoon?",
+      "hi": "दक्षिण-पश्चिम मानसून की बंगाल की खाड़ी शाखा से बिहार के किस जिले में सर्वाधिक औसत वार्षिक वर्षा होती है?",
+      "options": [
+        "Purnia",
+        "Kishanganj",
+        "West Champaran",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kishanganj",
+      "explanation": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan West Bengal hills, receives the highest annual rainfall in the State (>180 cm to 200 cm).",
+      "tip": "Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal.",
+      "id": 21,
+      "options_hi": [
+        "Purnia",
+        "Kishanganj",
+        "पश्चिम Champaran",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan पश्चिम Bengal hills, receives the highest annual rainfall in the State (>180 सेमी to 200 सेमी).",
+      "tip_hi": "Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "If 12 men can complete a construction project in 24 days working 8 hours a day, in how many days can 16 men complete the same project working 9 hours a day?",
+      "hi": "यदि 12 पुरुष प्रतिदिन 8 घंटे कार्य करके किसी निर्माण कार्य को 24 दिनों में पूरा कर सकते हैं, तो 16 पुरुष प्रतिदिन 9 घंटे कार्य करके उसी कार्य को कितने दिनों में पूरा करेंगे?",
+      "options": [
+        "14 days",
+        "16 days",
+        "18 days",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16 days",
+      "explanation": "M1 * D1 * H1 = M2 * D2 * H2 => 12 * 24 * 8 = 16 * D2 * 9 => 2304 = 144 * D2 => D2 = 2304 / 144 = 16 days.",
+      "tip": "D2 = (12 * 24 * 8) / (16 * 9) = 16 days.",
+      "id": 22,
+      "options_hi": [
+        "14 दिन",
+        "16 दिन",
+        "18 दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "M1 * D1 * H1 = M2 * D2 * H2 => 12 * 24 * 8 = 16 * D2 * 9 => 2304 = 144 * D2 => D2 = 2304 / 144 = 16 दिन.",
+      "tip_hi": "D2 = (12 * 24 * 8) / (16 * 9) = 16 दिन."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the Chota Nagpur plateau of undivided Bihar, who were the foremost leaders of the armed rebellion of 1857?",
+      "hi": "अविभाजित बिहार के छोटानागपुर पठार में 1857 के सशस्त्र विद्रोह के प्रमुख नेता कौन थे?",
+      "options": [
+        "Thakur Bishwanath Shahdeo and Pandey Ganpat Rai",
+        "Nilamber and Pitamber",
+        "Raja Arjun Singh of Porahat",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In Chota Nagpur, the 1857 movement was multi-faceted: Thakur Bishwanath Shahdeo and Pandey Ganpat Rai led the Ranchi Muktivahini; Nilamber and Pitamber led the Chero-Bhokta rebellion in Palamu; and Raja Arjun Singh led the revolt in Singhbhum. Because all of these were paramount leaders, (D) is the official key.",
+      "tip": "1857 leaders in Chota Nagpur: Ranchi = Thakur Bishwanath Shahdeo & Pandey Ganpat Rai; Palamu = Nilamber & Pitamber. Triggers Option (D).",
+      "id": 23,
+      "options_hi": [
+        "Thakur Bishwanath Shahdeo and Pandey Ganpat Rai",
+        "Nilamber and Pitamber",
+        "Raja Arjun Singh of Porahat",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Chota Nagpur, the 1857 movement was multi-faceted: Thakur Bishwanath Shahdeo and Pandey Ganpat Rai led the Ranchi Muktivahini; Nilamber and Pitamber led the Chero-Bhokta rebellion in Palamu; and Raja Arjun Singh led the revolt in Singhbhum. क्योंकि all of these were paramount leaders, (D) is the official key.",
+      "tip_hi": "1857 leaders in Chota Nagpur: Ranchi = Thakur Bishwanath Shahdeo & Pandey Ganpat Rai; Palamu = Nilamber & Pitamber. Triggers Option (D)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "During the Champaran Satyagraha in 1917, Mahatma Gandhi established his first experimental rural school on 14 November 1917 at which village in Bihar?",
+      "hi": "1917 के चंपारण सत्याग्रह के दौरान महात्मा गांधी ने 14 नवंबर 1917 को बिहार के किस गाँव में अपना पहला ग्रामीण बुनियादी विद्यालय स्थापित किया था?",
+      "options": [
+        "Bhitiharwa",
+        "Barharwa Lakhansen (बरहरवा लखनसेन)",
+        "Madhuban",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Barharwa Lakhansen (बरहरवा लखनसेन)",
+      "explanation": "Gandhi opened his first primary school on 14 November 1917 at Barharwa Lakhansen (20 miles east of Motihari) with teachers Babasaheb Soman and Sadashiv Lakshman Purohit. His second school was opened on 20 November 1917 at Bhitiharwa.",
+      "tip": "First school by Gandhi in Champaran = Barharwa Lakhansen (14 Nov 1917); Second school = Bhitiharwa.",
+      "id": 24,
+      "options_hi": [
+        "Bhitiharwa",
+        "Barharwa Lakhansen (बरहरवा लखनसेन)",
+        "Madhuban",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gandhi opened his first primary school on 14 नवम्बर 1917 at Barharwa Lakhansen (20 miles पूर्व of Motihari) with teachers Babasaheb Soman and Sadashiv Lakshman Purohit. His सेकंड school was opened on 20 नवम्बर 1917 at Bhitiharwa.",
+      "tip_hi": "First school by Gandhi in Champaran = Barharwa Lakhansen (14 Nov 1917); सेकंड school = Bhitiharwa."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The River Bagmati, originating in the Shivapuri hills near Kathmandu in Nepal, enters Bihar in which district?",
+      "hi": "नेपाल में काठमांडू के निकट शिवपुरी पहाड़ियों से निकलने वाली बागमती नदी बिहार के किस जिले में प्रवेश करती है?",
+      "options": [
+        "West Champaran",
+        "Sitamarhi (Shorwat)",
+        "Madhubani",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sitamarhi (Shorwat)",
+      "explanation": "The Bagmati River enters Bihar near Shorwat in Sitamarhi district and flows through Sheohar, Muzaffarpur, and Darbhanga before joining the Kosi/Kamla river system.",
+      "tip": "Bagmati enters Bihar at Sitamarhi; Gandak enters at West Champaran; Kamla enters at Madhubani (Jayanagar).",
+      "id": 25,
+      "options_hi": [
+        "पश्चिम Champaran",
+        "Sitamarhi (Shorwat)",
+        "Madhubani",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Bagmati River enters Bihar near Shorwat in Sitamarhi district and flows through Sheohar, Muzaffarpur, and Darbhanga before joining the कोसी नदी/Kamla river system.",
+      "tip_hi": "Bagmati enters Bihar at Sitamarhi; गंडक नदी enters at पश्चिम Champaran; Kamla enters at Madhubani (Jayanagar)."
+    }
+  ]
+}

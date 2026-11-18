@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-gkgs-chemistry-set1",
+  "title": "General Science: Chemistry Set 1 (25Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Chemistry",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Al2O3 · 2SiO2 · 2H2O is the chemical formula for",
+      "hi": "Al2O3 · 2SiO2 · 2H2O रासायनिक सूत्र है",
+      "options": [
+        "monazite",
+        "china clay",
+        "sand",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "china clay",
+      "explanation": "Hydrated aluminium silicate (Al2O3 · 2SiO2 · 2H2O) corresponds to the mineral kaolinite, commercially known as china clay.",
+      "tip": "Sand = SiO2; Bauxite = Al2O3 · 2H2O; China Clay (Kaolin) includes the silicate unit 2SiO2.",
+      "id": 1,
+      "options_hi": [
+        "monazite",
+        "china clay",
+        "sand",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Hydrated aluminium silicate (Al2O3 · 2SiO2 · 2H2O) corresponds to the mineral kaolinite, commercially के रूप में जाना जाता है china clay.",
+      "tip_hi": "Sand = SiO2; बॉक्साइट = Al2O3 · 2H2O; China Clay (Kaolin) includes the silicate unit 2SiO2."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "Who among the following became India's unofficial Ambassador to England?",
+      "hi": "निम्नलिखित में से कौन इंग्लैंड में भारत के अनौपचारिक राजदूत बने थे?",
+      "options": [
+        "Surendranath Banerjee",
+        "Dadabhai Naoroji",
+        "Swami Vivekananda",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dadabhai Naoroji",
+      "explanation": "Dadabhai Naoroji founded the East India Association (1866) and served as MP in the British House of Commons, championing Indian rights in Britain.",
+      "tip": "Dadabhai Naoroji formulated the 'Drain of Wealth' theory in 'Poverty and Un-British Rule in India'.",
+      "id": 2,
+      "options_hi": [
+        "सुरेंद्रनाथ बनर्जी",
+        "दादाभाई नौरोजी",
+        "स्वामी विवेकानंद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "दादाभाई नौरोजी founded the पूर्व India Association (1866) and served as MP in the British House of Commons, championing Indian rights in Britain.",
+      "tip_hi": "दादाभाई नौरोजी formulated the 'Drain of Wealth' theory in 'Poverty and Un-British Rule in India'."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following gases is considered as atmospheric pollutant?",
+      "hi": "निम्नलिखित में से कौन-सी गैस वायुमण्डलीय प्रदूषक मानी जाती है?",
+      "options": [
+        "Argon",
+        "Oxygen",
+        "Sulpher dioxide",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Sulpher dioxide",
+      "explanation": "Sulphur dioxide (SO2), produced from burning fossil fuels and smelting ores, is a harmful primary atmospheric pollutant responsible for acid rain.",
+      "tip": "Normal air: N2 (78%), O2 (21%), Ar (0.93%); Pollutant gases: SO2, NO2, CO, O3 (tropospheric).",
+      "id": 3,
+      "options_hi": [
+        "Argon",
+        "Oxygen",
+        "Sulpher dioxide",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sulphur dioxide (SO2), produced from burning fossil fuels and smelting ores, is a harmful primary atmospheric pollutant responsible for acid rain.",
+      "tip_hi": "Normal air: N2 (78%), O2 (21%), Ar (0.93%); Pollutant गैस: SO2, NO2, CO, O3 (tropospheric)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following is not electromagnetic?",
+      "hi": "निम्नलिखित में से कौन-सा विद्युत्-चुम्बकीय नहीं है?",
+      "options": [
+        "Gamma rays",
+        "Alpha rays",
+        "X-rays",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Alpha rays",
+      "explanation": "Alpha rays are streams of particulate helium nuclei (4_2 He 2+) carrying mass and charge, whereas Gamma rays and X-rays are electromagnetic waves.",
+      "tip": "Electromagnetic: Radio, Micro, IR, Visible, UV, X-rays, Gamma rays. Particulate: Alpha, Beta, Cathode rays.",
+      "id": 4,
+      "options_hi": [
+        "Gamma rays",
+        "Alpha rays",
+        "X-rays",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Alpha rays are streams of particulate helium nuclei (4_2 He 2+) carrying mass and charge, जबकि Gamma rays and X-rays are electromagnetic waves.",
+      "tip_hi": "Electromagnetic: Radio, Micro, IR, Visible, UV, X-rays, Gamma rays. Particulate: Alpha, Beta, Cathode rays."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
+      "en": "The electric fuse works on the",
+      "hi": "विद्युत फ्यूज कार्य करता है",
+      "options": [
+        "Chemical effect of current",
+        "Magnetic effect of current",
+        "Heating effect of current",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Heating effect of current",
+      "explanation": "An electric fuse operates on Joule's heating effect (H = I^2 * R * t); high currents generate heat that melts the fuse wire, breaking the circuit.",
+      "tip": "Fuse wire characteristics: High resistance and low melting point (typically tin-lead alloy).",
+      "id": 5,
+      "options_hi": [
+        "Chemical effect of current",
+        "Magnetic effect of current",
+        "Heating effect of current",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "An electric fuse operates on जूल's heating effect (H = I^2 * R * t); high currents generate heat that melts the fuse wire, breaking the circuit.",
+      "tip_hi": "Fuse wire characteristics: High resistance and low melting point (typically tin-lead alloy)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the normal audible frequency range of sound waves for a healthy human ear?(",
+      "hi": "सामान्य स्वस्थ मानव कर्ण के लिए ध्वनि तरंगों की श्रव्य आवृत्ति परास (Audible frequency range) क्या होती है?)",
+      "options": [
+        "2 Hz to 200 Hz",
+        "20 Hz to 20,000 Hz (20 kHz)",
+        "200 Hz to 200,000 Hz",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "20 Hz to 20,000 Hz (20 kHz)",
+      "explanation": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed infrasonic (produced by earthquakes, elephants), and frequencies above 20 kHz are termed ultrasonic (utilized by bats, dolphins, and medical ultrasound).",
+      "tip": "Audible range = 20 Hz – 20 kHz; Infrasonic < 20 Hz; Ultrasonic > 20 kHz.",
+      "id": 6,
+      "options_hi": [
+        "2 Hz to 200 Hz",
+        "20 Hz to 20,000 Hz (20 kHz)",
+        "200 Hz to 200,000 Hz",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed अवश्रव्य (इन्फ्रासोनिक) (produced by earthquakes, elephants), and frequencies above 20 kHz are termed पराध्वनि (अल्ट्रासोनिक) (utilized by bats, dolphins, and medical ultrasound).",
+      "tip_hi": "श्रव्य range = 20 Hz – 20 kHz; अवश्रव्य (इन्फ्रासोनिक) < 20 Hz; पराध्वनि (अल्ट्रासोनिक) > 20 kHz."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In the Modern Periodic Table discovered by Henry Moseley in 1913, the physical and chemical properties of elements are periodic functions of their",
+      "hi": "1913 में हेनरी मोजले द्वारा विकसित आधुनिक आवर्त सारणी में तत्वों के भौतिक और रासायनिक गुणधर्म किसके आवर्ती फलन होते हैं?",
+      "options": [
+        "Atomic Mass",
+        "Atomic Number (परमाणु क्रमांक)",
+        "Mass Number",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Atomic Number (परमाणु क्रमांक)",
+      "explanation": "Moseley demonstrated that X-ray frequency (√ν) is linearly related to atomic number (Z). The Modern Periodic Law states that properties of elements are periodic functions of their atomic numbers (number of nuclear protons), resolving anomalies in Mendeleev's atomic mass arrangement.",
+      "tip": "Mendeleev = Atomic Mass; Modern Periodic Table (Moseley) = Atomic Number (Z).",
+      "id": 7,
+      "options_hi": [
+        "Atomic Mass",
+        "Atomic Number (परमाणु क्रमांक)",
+        "Mass Number",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Moseley demonstrated that X-ray frequency (√ν) is linearly related to atomic number (Z). The Modern Periodic Law states that properties of elements are periodic functions of their atomic numbers (number of nuclear protons), resolving anomalies in Mendeleev's atomic mass arrangement.",
+      "tip_hi": "Mendeleev = Atomic Mass; Modern Periodic Table (Moseley) = Atomic Number (Z)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the primary combustible chemical constituent present in Compressed Natural Gas (CNG) and Biogas?(",
+      "hi": "संपीड़ित प्राकृतिक गैस (CNG) और बायोगैस में उपस्थित मुख्य ज्वलनशील रासायनिक घटक क्या है?)",
+      "options": [
+        "Propane",
+        "Methane (CH4)",
+        "Butane",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Methane (CH4)",
+      "explanation": "Methane constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (LPG) consists primarily of butane and propane.",
+      "tip": "CNG & Biogas = Methane (CH4); LPG = Butane + Propane.",
+      "id": 8,
+      "options_hi": [
+        "प्रोपेन",
+        "मीथेन (CH4)",
+        "ब्यूटेन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मीथेन constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) consists primarily of ब्यूटेन and प्रोपेन.",
+      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the first English traveler and merchant to visit Patna and write a detailed account of its commerce during the reign of Mughal Emperor Akbar?",
+      "hi": "मुगल बादशाह अकबर के शासनकाल में पटना का दौरा करने वाले और इसके व्यापार का विस्तृत विवरण लिखने वाले पहले अंग्रेज यात्री कौन थे?",
+      "options": [
+        "Thomas Roe",
+        "Ralph Fitch",
+        "Peter Mundy",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ralph Fitch",
+      "explanation": "Ralph Fitch visited Patna in 1586 during Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the Ganga.",
+      "tip": "First English traveler to visit Bihar/Patna = Ralph Fitch (1586, reign of Akbar).",
+      "id": 9,
+      "options_hi": [
+        "Thomas Roe",
+        "Ralph Fitch",
+        "Peter Mundy",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ralph Fitch visited Patna in 1586 के दौरान Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the गंगा नदी.",
+      "tip_hi": "First English traveler to visit Bihar/Patna = Ralph Fitch (1586, reign of Akbar)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Bihar possesses over 95% of India's total reserves of which mineral ore, mined primarily at Amjhor in Rohtas district?",
+      "hi": "बिहार के पास किस खनिज अयस्क का भारत के कुल भंडार का 95% से अधिक हिस्सा है, जिसका खनन मुख्य रूप से रोहतास जिले के अमझोर में किया जाता है?",
+      "options": [
+        "Bauxite",
+        "Pyrite (आयरन पाइराइट्स)",
+        "Magnetite",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pyrite (आयरन पाइराइट्स)",
+      "explanation": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture sulfuric acid.",
+      "tip": "Pyrite in Bihar = Amjhor (Rohtas) - 95% of India's reserves; Fools' Gold.",
+      "id": 10,
+      "options_hi": [
+        "बॉक्साइट",
+        "Pyrite (आयरन पाइराइट्स)",
+        "Magnetite",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture सल्फ्यूरिक अम्ल (H2SO4).",
+      "tip_hi": "Pyrite in Bihar = Amjhor (Rohtas) - 95% of India's reserves; Fools' Gold."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The Standard Meridian of India (82°30' E longitude) passes through which of the following cities near Prayagraj in Uttar Pradesh?(",
+      "hi": "भारत की मानक याम्योत्तर (82°30' पूर्वी देशांतर) उत्तर प्रदेश में प्रयागराज के निकट किस नगर से होकर गुजरती है?)",
+      "options": [
+        "Mirzapur",
+        "Varanasi",
+        "Kanpur",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Mirzapur",
+      "explanation": "Indian Standard Time (IST) is calculated based on 82°30' E longitude passing through Shankargarh fort / Mirzapur near Prayagraj. It passes through 5 States: UP, MP, Chhattisgarh, Odisha, and Andhra Pradesh, exactly 5 hours 30 minutes ahead of GMT.",
+      "tip": "Standard Meridian = 82°30' E (Mirzapur); Passes through 5 States (UP, MP, CG, Odisha, AP); IST = GMT + 5:30.",
+      "id": 11,
+      "options_hi": [
+        "Mirzapur",
+        "Varanasi",
+        "Kanpur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Indian Standard Time (IST) is calculated based on 82°30' E longitude passing through Shankargarh fort / Mirzapur near Prayagraj. It passes through 5 States: UP, MP, Chhattisgarh, Odisha, and Andhra Pradesh, exactly 5 घंटे 30 मिनट ahead of GMT.",
+      "tip_hi": "Standard Meridian = 82°30' E (Mirzapur); Passes through 5 States (UP, MP, CG, Odisha, AP); IST = GMT + 5:30."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Temporary hardness of water is caused by the presence of dissolved bicarbonates of which metals, and can be removed simply by boiling?",
+      "hi": "जल की अस्थायी कठोरता किन धातुओं के घुलनशील बाइकार्बोनेट की उपस्थिति के कारण होती है, जिसे केवल उबालकर दूर किया जा सकता है?",
+      "options": [
+        "Sodium and Potassium",
+        "Calcium and Magnesium",
+        "Iron and Aluminium",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Calcium and Magnesium",
+      "explanation": "Temporary hardness is due to calcium bicarbonate Ca(HCO3)2 and magnesium bicarbonate Mg(HCO3)2. Boiling decomposes them into insoluble carbonates: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2. Permanent hardness is due to chlorides and sulphates of Ca and Mg.",
+      "tip": "Temporary hardness = Bicarbonates of Ca & Mg (removed by boiling); Permanent hardness = Chlorides & Sulphates of Ca & Mg.",
+      "id": 12,
+      "options_hi": [
+        "Sodium and Potassium",
+        "Calcium and Magnesium",
+        "Iron and Aluminium",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Temporary hardness is due to calcium bicarbonate Ca(HCO3)2 and magnesium bicarbonate Mg(HCO3)2. Boiling decomposes them into insoluble carbonates: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2. Permanent hardness is due to chlorides and sulphates of Ca and Mg.",
+      "tip_hi": "Temporary hardness = Bicarbonates of Ca & Mg (removed by boiling); Permanent hardness = Chlorides & Sulphates of Ca & Mg."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which chemical element is used in the galvanization process to coat iron and protect it from atmospheric corrosion?(",
+      "hi": "लोहे को जंग से बचाने के लिए गैल्वनीकरण (यशदलेपन) प्रक्रिया में किस रासायनिक तत्व की परत चढ़ाई जाती है?)",
+      "options": [
+        "Copper",
+        "Zinc (जस्ता)",
+        "Lead",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Zinc (जस्ता)",
+      "explanation": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of basic zinc carbonate and acts as a sacrificial sacrificial anode because its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
+      "tip": "Galvanization = Coating of Zinc (Zn) on Iron (Fe).",
+      "id": 13,
+      "options_hi": [
+        "Copper",
+        "Zinc (जस्ता)",
+        "Lead",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of क्षारीय zinc carbonate and acts as a sacrificial sacrificial anode क्योंकि its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
+      "tip_hi": "Galvanization = Coating of Zinc (Zn) on Iron (Fe)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which district of Bihar did the Salt Satyagraha of 1930 commence under the pioneering leadership of Bipin Bihari Varma at Goad?",
+      "hi": "1930 में बिहार के किस जिले में विपिन बिहारी वर्मा के नेतृत्व में गोआड में नमक सत्याग्रह का शुभारंभ हुआ था?",
+      "options": [
+        "Saran",
+        "Champaran",
+        "Patna",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Champaran",
+      "explanation": "In Champaran district, Salt Satyagraha began on 15 April 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt march.",
+      "tip": "Salt Satyagraha in Champaran = Led by Bipin Bihari Varma; In Patna = Ambika Kant Sinha (Nakhas Pind).",
+      "id": 14,
+      "options_hi": [
+        "Saran",
+        "Champaran",
+        "Patna",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Champaran district, Salt Satyagraha began on 15 अप्रैल 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt मार्च.",
+      "tip_hi": "Salt Satyagraha in Champaran = Led by Bipin Bihari Varma; In Patna = Ambika Kant Sinha (Nakhas Pind)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The River Burhi Gandak, an active northern tributary of the Ganga, originates from which physical feature in Bihar?",
+      "hi": "गंगा की उत्तरी सहायक नदी 'बूढ़ी गंडक' का उद्गम बिहार में किस भौगोलिक स्थल से होता है?",
+      "options": [
+        "Chautarwa Chaur in Someshwar Range",
+        "Mahabharat Range",
+        "Kaimur Plateau",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Chautarwa Chaur in Someshwar Range",
+      "explanation": "The Burhi Gandak originates from Chautarwa Chaur near the Someshwar hills in West Champaran. It flows southeast through East Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the Ganga near Khagaria.",
+      "tip": "Burhi Gandak origin = Someshwar Range (Chautarwa Chaur, West Champaran); joins Ganga at Khagaria.",
+      "id": 15,
+      "options_hi": [
+        "Chautarwa Chaur in Someshwar Range",
+        "Mahabharat Range",
+        "Kaimur Plateau",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Burhi गंडक नदी originates from Chautarwa Chaur near the Someshwar hills in पश्चिम Champaran. It flows southeast through पूर्व Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the गंगा नदी near Khagaria.",
+      "tip_hi": "Burhi गंडक नदी origin = Someshwar Range (Chautarwa Chaur, पश्चिम Champaran); joins गंगा नदी at Khagaria."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What type of soil, locally known as 'Balther Soil' (बलथर मिट्टी), occurs in a narrow transition belt between the southern alluvial plain and the Chota Nagpur plateau in Bihar?",
+      "hi": "बिहार में दक्षिणी जलोढ़ मैदान और छोटानागपुर पठार के बीच संकीर्ण संक्रमण पेटी में पाई जाने वाली मिट्टी को स्थानीय रूप से क्या कहा जाता है?",
+      "options": [
+        "Khadar Soil",
+        "Balther Soil (Red and Yellow sandy-clayey soil)",
+        "Karail-Kewal Soil",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Balther Soil (Red and Yellow sandy-clayey soil)",
+      "explanation": "Balther soil is an acidic, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of South Bihar.",
+      "tip": "Balther soil = Sandy, acidic foothills soil of South Bihar; Karail-Kewal = Heavy clayey alluvium.",
+      "id": 16,
+      "options_hi": [
+        "Khadar Soil",
+        "Balther Soil (Red and Yellow sandy-clayey soil)",
+        "Karail-Kewal Soil",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Balther soil is an अम्लीय, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of दक्षिण Bihar.",
+      "tip_hi": "Balther soil = Sandy, अम्लीय foothills soil of दक्षिण Bihar; Karail-Kewal = Heavy clayey alluvium."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The Luni River, an ephemeral river of the Thar Desert, originates in the Aravalli Range near Pushkar and terminates in",
+      "hi": "थार मरुस्थल की मौसमी नदी 'लूनी' पुष्कर के निकट अरावली श्रेणी से निकलती है और कहाँ समाप्त होती है?",
+      "options": [
+        "Arabian Sea (Gulf of Khambhat)",
+        "Rann of Kutch (Inland drainage)",
+        "Sambhar Salt Lake",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rann of Kutch (Inland drainage)",
+      "explanation": "The Luni flows southwest through Rajasthan and Gujarat for ~495 km and is lost in the marshy saline sands of the Rann of Kutch without reaching the sea, representing an inland drainage system.",
+      "tip": "Luni River = Inland drainage, terminates in the Rann of Kutch.",
+      "id": 17,
+      "options_hi": [
+        "Arabian Sea (Gulf of Khambhat)",
+        "Rann of Kutch (Inland drainage)",
+        "Sambhar Salt Lake",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Luni flows southwest through Rajasthan and Gujarat for ~495 किमी and is lost in the marshy saline sands of the Rann of Kutch without reaching the sea, representing an inland drainage system.",
+      "tip_hi": "Luni River = Inland drainage, terminates in the Rann of Kutch."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Under Article 243D of the Constitution of India, what proportion of total seats in Panchayats is constitutionally reserved for women?",
+      "hi": "भारतीय संविधान के अनुच्छेद 243D के तहत पंचायतों में महिलाओं के लिए कुल सीटों का कितना अनुपात संवैधानिक रूप से आरक्षित है?",
+      "options": [
+        "Not less than one-fourth",
+        "Not less than one-third (33.3%)",
+        "Exactly one-half (50%)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Not less than one-third (33.3%)",
+      "explanation": "Article 243D(3) mandates that not less than one-third of total seats shall be reserved for women in all Panchayats. (Note: States like Bihar have increased this reservation to 50% under state law, but the baseline constitutional requirement is 1/3rd).",
+      "tip": "Constitutional minimum (Art. 243D) = Not less than 1/3rd; Bihar State Law = 50% reservation.",
+      "id": 18,
+      "options_hi": [
+        "Not less than one-fourth",
+        "Not less than one-third (33.3%)",
+        "Exactly one-half (50%)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 243D(3) mandates that not less than one-third of total seats shall be reserved for women in all Panchayats. (Note: States like Bihar have increased this reservation to 50% under state law, but the baseline constitutional requirement is 1/3rd).",
+      "tip_hi": "Constitutional minimum (Art. 243D) = Not less than 1/3rd; Bihar State Law = 50% reservation."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What was the official state theme of 'Bihar Diwas' celebrated on 22 March 2023 across the State?(22",
+      "hi": "मार्च 2023 को राज्यभर में मनाए गए 'बिहार दिवस' का आधिकारिक राज्य विषय (Theme) क्या था?)",
+      "options": [
+        "Jal Jeevan Hariyali",
+        "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+        "Samriddh Bihar, Swachh Bihar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+      "explanation": "Bihar Diwas 2023 marked the 111th anniversary of the State's creation, organized under the focal theme 'Yuva Shakti - Bihar Ki Pragati', emphasizing youth empowerment and self-employment initiatives.",
+      "tip": "Bihar Diwas 2023 Theme = 'Yuva Shakti - Bihar Ki Pragati'.",
+      "id": 19,
+      "options_hi": [
+        "Jal Jeevan Hariyali",
+        "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+        "Samriddh Bihar, Swachh Bihar",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bihar Diwas 2023 marked the 111th anniversary of the State's creation, organized under the focal theme 'Yuva Shakti - Bihar Ki Pragati', emphasizing youth empowerment and self-employment initiatives.",
+      "tip_hi": "Bihar Diwas 2023 Theme = 'Yuva Shakti - Bihar Ki Pragati'."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "How many mobility wheels were equipped on ISRO's Chandrayaan-3 lunar rover named 'Pragyan' for roving on the Moon's surface?",
+      "hi": "चंद्रमा की सतह पर चलने के लिए इसरो के चंद्रयान-3 के चंद्र रोवर 'प्रज्ञान' में कितने पहिए लगाए गए थे?",
+      "options": [
+        "4 wheels",
+        "6 wheels",
+        "8 wheels",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "6 wheels",
+      "explanation": "Pragyan rover is a 26 kg, 6-wheeled robotic vehicle equipped with rocker-bogie suspension and two scientific payloads (APXS and LIBS) to conduct in-situ chemical and elemental analysis of lunar soil.",
+      "tip": "Pragyan rover has 6 wheels, weighed 26 kg, deployed from Vikram lander.",
+      "id": 20,
+      "options_hi": [
+        "4 wheels",
+        "6 wheels",
+        "8 wheels",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pragyan rover is a 26 किग्रा, 6-wheeled robotic vehicle equipped with rocker-bogie suspension and two scientific payloads (APXS and LIBS) to conduct in-situ chemical and elemental analysis of lunar soil.",
+      "tip_hi": "Pragyan rover has 6 wheels, weighed 26 किग्रा, deployed from Vikram lander."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Find the missing letters in the letter pattern: a _ b a _ b _ b _ a _ b",
+      "hi": "अक्षर श्रृंखला में रिक्त स्थानों की पूर्ति कीजिए: a _ b a _ b _ b _ a _ b",
+      "options": [
+        "b a a b a",
+        "b b a b a",
+        "a b a b a",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "b b a b a",
+      "explanation": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.",
+      "tip": "Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'.",
+      "id": 21,
+      "options_hi": [
+        "b a a b a",
+        "b b a b a",
+        "a b a b a",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.",
+      "tip_hi": "Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Bronze is an ancient metallic alloy composed primarily of which two elements?(",
+      "hi": "कांसा (Bronze) मुख्य रूप से किन दो तत्वों से मिलकर बनी एक मिश्रधातु है?)",
+      "options": [
+        "Copper and Zinc",
+        "Copper and Tin",
+        "Lead and Tin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Copper and Tin",
+      "explanation": "Bronze is an alloy of Copper (~88-90%) and Tin (~10-12%). Brass is an alloy of Copper and Zinc. Solder is an alloy of Lead and Tin.",
+      "tip": "Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn); Solder = Lead + Tin (Pb + Sn).",
+      "id": 22,
+      "options_hi": [
+        "Copper and Zinc",
+        "Copper and Tin",
+        "Lead and Tin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कांस्य (तांबा + टिन) is an alloy of Copper (~88-90%) and Tin (~10-12%). पीतल (तांबा + जस्ता) is an alloy of Copper and Zinc. सोल्डर (सीसा + टिन) is an alloy of Lead and Tin.",
+      "tip_hi": "कांस्य (तांबा + टिन) = Copper + Tin (Cu + Sn); पीतल (तांबा + जस्ता) = Copper + Zinc (Cu + Zn); सोल्डर (सीसा + टिन) = Lead + Tin (Pb + Sn)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the normal physiological core temperature of a healthy human body on the Celsius and Fahrenheit scales?",
+      "hi": "सेल्सियस और फारेनहाइट पैमाने पर स्वस्थ मानव शरीर का सामान्य शारीरिक तापमान क्या होता है?",
+      "options": [
+        "35°C / 95.0°F",
+        "37°C / 98.6°F",
+        "39°C / 102.2°F",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "37°C / 98.6°F",
+      "explanation": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.",
+      "tip": "Normal body temperature = 37°C = 98.6°F = 310.15 K.",
+      "id": 23,
+      "options_hi": [
+        "35°C / 95.0°F",
+        "37°C / 98.6°F",
+        "39°C / 102.2°F",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.",
+      "tip_hi": "Normal body temperature = 37°C = 98.6°F = 310.15 K."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the base SI unit of luminous intensity in physics?(",
+      "hi": "भौतिकी में ज्योति तीव्रता (Luminous Intensity) का मूल SI मात्रक क्या है?)",
+      "options": [
+        "Lumen",
+        "Candela (cd)",
+        "Lux",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Candela (cd)",
+      "explanation": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.",
+      "tip": "Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux.",
+      "id": 24,
+      "options_hi": [
+        "Lumen",
+        "Candela (cd)",
+        "Lux",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.",
+      "tip_hi": "Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which English natural philosopher first demonstrated that white sunlight is composed of seven constituent colours by passing it through a glass prism in 1665?",
+      "hi": "1665 में कांच के प्रिज्म से गुजारकर सबसे पहले यह किसने प्रदर्शित किया था कि सूर्य का श्वेत प्रकाश सात संघटक रंगों से मिलकर बना है?",
+      "options": [
+        "Thomas Young",
+        "Sir Isaac Newton",
+        "Christiaan Huygens",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sir Isaac Newton",
+      "explanation": "Sir Isaac Newton demonstrated spectrum dispersion using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).",
+      "tip": "Discovery of light spectrum through prism = Sir Isaac Newton.",
+      "id": 25,
+      "options_hi": [
+        "Thomas Young",
+        "Sir Isaac Newton",
+        "Christiaan Huygens",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sir Isaac Newton demonstrated spectrum वर्ण विक्षेपण using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).",
+      "tip_hi": "Discovery of light spectrum through prism = Sir Isaac Newton."
+    }
+  ]
+}

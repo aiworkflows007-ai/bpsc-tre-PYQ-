@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-gkgs-math-set5",
+  "title": "Elementary Mathematics Set 5 (25Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Elementary Mathematics",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The lengths of the diagonals of a rhombus are 16 cm and 12 cm respectively. What is the area of the rhombus?",
+      "hi": "एक समचतुर्भुज के विकर्णों की लंबाई क्रमशः 16 सेमी और 12 सेमी है। समचतुर्भुज का क्षेत्रफल क्या है?",
+      "options": [
+        "84 sq cm",
+        "96 sq cm",
+        "192 sq cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "96 sq cm",
+      "explanation": "Area of a rhombus = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 sq cm.",
+      "tip": "Area of rhombus = 1/2 * product of diagonals = 1/2 * 16 * 12 = 96 cm².",
+      "id": 1,
+      "options_hi": [
+        "84 sq सेमी",
+        "96 sq सेमी",
+        "192 sq सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Area of a rhombus = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 sq सेमी.",
+      "tip_hi": "Area of rhombus = 1/2 * product of diagonals = 1/2 * 16 * 12 = 96 cm²."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The average of 6 numbers is 30. If the average of the first four numbers is 25 and that of the last three numbers is 35, what is the fourth number?",
+      "hi": "6 संख्याओं का औसत 30 है। यदि प्रथम चार संख्याओं का औसत 25 है और अंतिम तीन संख्याओं का औसत 35 है, तो चौथी संख्या क्या है?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "25",
+      "explanation": "Total of 6 numbers = 6 * 30 = 180. Sum of first four = 4 * 25 = 100. Sum of last three = 3 * 35 = 105. Sum of (first 4 + last 3) = 100 + 105 = 205 (includes 4th number twice). Fourth number = 205 - 180 = 25.",
+      "tip": "Overlapping number = (Sum of 1st set + Sum of 2nd set) - Total Sum = (100 + 105) - 180 = 25.",
+      "id": 2,
+      "options_hi": [
+        "20",
+        "25",
+        "30",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total of 6 numbers = 6 * 30 = 180. Sum of first four = 4 * 25 = 100. Sum of last three = 3 * 35 = 105. Sum of (first 4 + last 3) = 100 + 105 = 205 (includes 4th number twice). Fourth number = 205 - 180 = 25.",
+      "tip_hi": "Overlapping number = (Sum of 1st set + Sum of 2nd set) - Total Sum = (100 + 105) - 180 = 25."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Two trains 140 m and 160 m long are running towards each other on parallel tracks at speeds of 60 km/h and 48 km/h respectively. In how many seconds will they completely cross each other?",
+      "hi": "140 मीटर और 160 मीटर लंबी दो रेलगाड़ियाँ समानांतर पटरियों पर विपरीत दिशाओं में क्रमशः 60 किमी/घंटा और 48 किमी/घंटा की गति से चल रही हैं। वे एक दूसरे को कितने सेकंड में पूरी तरह पार कर लेंगी?",
+      "options": [
+        "8 seconds",
+        "10 seconds",
+        "12 seconds",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10 seconds",
+      "explanation": "Total distance = 140 + 160 = 300 m. Relative speed in opposite direction = 60 + 48 = 108 km/h = 108 * (5/18) = 30 m/s. Crossing time = 300 / 30 = 10 seconds.",
+      "tip": "Distance = L1 + L2 = 300 m; Relative speed = 60 + 48 = 108 km/h = 30 m/s. Time = 300/30 = 10 s.",
+      "id": 3,
+      "options_hi": [
+        "8 सेकंड",
+        "10 सेकंड",
+        "12 सेकंड",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total distance = 140 + 160 = 300 m. Relative speed in opposite direction = 60 + 48 = 108 किमी/h = 108 * (5/18) = 30 m/s. Crossing time = 300 / 30 = 10 सेकंड.",
+      "tip_hi": "Distance = L1 + L2 = 300 m; Relative speed = 60 + 48 = 108 किमी/h = 30 m/s. Time = 300/30 = 10 s."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which part of the human brain is primarily responsible for maintaining posture, equilibrium, and precision of voluntary muscle movements?",
+      "hi": "मानव मस्तिष्क का कौन-सा भाग शारीरिक संतुलन, मुद्रा और ऐच्छिक पेशियों की परिशुद्धता को बनाए रखने के लिए मुख्य रूप से उत्तरदायी है?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum (अनुमस्तिष्क)",
+        "Medulla Oblongata",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Cerebellum (अनुमस्तिष्क)",
+      "explanation": "The cerebellum (hindbrain) coordinates motor activities, precision of voluntary movements, and equilibrium. The cerebrum controls conscious thought and memory, while the medulla oblongata controls involuntary vitals (heartbeat, respiration).",
+      "tip": "Balance & posture = Cerebellum; Memory & intelligence = Cerebrum; Heartbeat & breathing = Medulla Oblongata.",
+      "id": 4,
+      "options_hi": [
+        "Cerebrum",
+        "Cerebellum (अनुमस्तिष्क)",
+        "Medulla Oblongata",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The cerebellum (hindbrain) coordinates motor activities, precision of voluntary movements, and equilibrium. The cerebrum controls conscious thought and memory, while the medulla oblongata controls involuntary vitals (heartbeat, श्वसन).",
+      "tip_hi": "Balance & posture = Cerebellum; Memory & intelligence = Cerebrum; Heartbeat & breathing = Medulla Oblongata."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Light year is a physical unit used to measure(",
+      "hi": "प्रकाश वर्ष (Light Year) किस भौतिक राशि को मापने का मात्रक है?)",
+      "options": [
+        "Stellar Distance",
+        "Time duration",
+        "Intensity of light",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Stellar Distance",
+      "explanation": "A light year is the astronomical distance that light travels in vacuum in one Julian year (approx. 9.46 * 10^12 km or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
+      "tip": "Light Year & Parsec = Units of astronomical distance; 1 Parsec ≈ 3.26 Light Years.",
+      "id": 5,
+      "options_hi": [
+        "Stellar Distance",
+        "Time duration",
+        "Intensity of light",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A light वर्ष is the astronomical distance that light travels in निर्वात in one Julian वर्ष (approx. 9.46 * 10^12 किमी or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
+      "tip_hi": "Light वर्ष & Parsec = Units of astronomical distance; 1 Parsec ≈ 3.26 Light वर्ष."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Under Article 280 of the Constitution of India, the Finance Commission is constituted by the President of India at the expiration of every",
+      "hi": "भारतीय संविधान के अनुच्छेद 280 के तहत वित्त आयोग का गठन भारत के राष्ट्रपति द्वारा प्रत्येक कितने वर्ष की समाप्ति पर किया जाता है?",
+      "options": [
+        "3 years",
+        "5 years",
+        "6 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "5 years",
+      "explanation": "Article 280 mandates that the President shall constitute a Finance Commission every fifth year (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.",
+      "tip": "Finance Commission = Article 280, appointed every 5 years by the President. 16th FC Chairman = Dr. Arvind Panagariya.",
+      "id": 6,
+      "options_hi": [
+        "3 वर्ष",
+        "5 वर्ष",
+        "6 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 280 mandates that the राष्ट्रपति shall constitute a वित्त आयोग every fifth वर्ष (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.",
+      "tip_hi": "वित्त आयोग = अनुच्छेद 280, appointed every 5 वर्ष by the राष्ट्रपति. 16th FC Chairman = Dr. Arvind Panagariya."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "A man buys a cycle for ₹1,400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+      "hi": "एक व्यक्ति ₹1,400 में एक साइकिल खरीदता है और उसे 15% की हानि पर बेचता है। साइकिल का विक्रय मूल्य क्या है?",
+      "options": [
+        "₹1,160",
+        "₹1,190",
+        "₹1,210",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹1,190",
+      "explanation": "SP = CP * (100 - Loss%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190.",
+      "tip": "15% of 1400 = 210. SP = 1400 - 210 = ₹1,190.",
+      "id": 7,
+      "options_hi": [
+        "₹1,160",
+        "₹1,190",
+        "₹1,210",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "SP = CP * (100 - Loss%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190.",
+      "tip_hi": "15% of 1400 = 210. SP = 1400 - 210 = ₹1,190."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "If the volume of two spheres are in the ratio 64 : 27, what is the ratio of their surface areas?",
+      "hi": "यदि दो गोलों के आयतनों का अनुपात 64 : 27 है, तो उनके पृष्ठीय क्षेत्रफलों का अनुपात क्या होगा?",
+      "options": [
+        "8 : 3",
+        "16 : 9",
+        "4 : 3",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16 : 9",
+      "explanation": "Volume ratio = (r1/r2)^3 = 64/27 => r1/r2 = 4/3. Surface area ratio = (r1/r2)^2 = (4/3)^2 = 16/9.",
+      "tip": "Volume ratio = a^3 : b^3 = 64 : 27 => Radius ratio = 4 : 3 => Area ratio = 4^2 : 3^2 = 16 : 9.",
+      "id": 8,
+      "options_hi": [
+        "8 : 3",
+        "16 : 9",
+        "4 : 3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Volume ratio = (r1/r2)^3 = 64/27 => r1/r2 = 4/3. Surface area ratio = (r1/r2)^2 = (4/3)^2 = 16/9.",
+      "tip_hi": "Volume ratio = a^3 : b^3 = 64 : 27 => Radius ratio = 4 : 3 => Area ratio = 4^2 : 3^2 = 16 : 9."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "A pipe can fill a water tank in 8 hours, but due to a leakage in the bottom it takes 10 hours to fill it. If the tank is completely full, in how many hours will the leakage empty the full tank?",
+      "hi": "एक नल किसी पानी की टंकी को 8 घंटे में भर सकता है, परन्तु तली में रिसाव के कारण इसे भरने में 10 घंटे लगते हैं। यदि टंकी पूरी भरी हो, तो वह रिसाव पूरी टंकी को कितने घंटे में खाली कर देगा?",
+      "options": [
+        "30 hours",
+        "40 hours",
+        "50 hours",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "40 hours",
+      "explanation": "Inflow rate = 1/8 tank/hr. Net inflow with leak = 1/10 tank/hr. Leakage rate = 1/8 - 1/10 = (5 - 4)/40 = 1/40 tank/hr. Time to empty full tank = 40 hours.",
+      "tip": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 hours.",
+      "id": 9,
+      "options_hi": [
+        "30 घंटे",
+        "40 घंटे",
+        "50 घंटे",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Inflow rate = 1/8 tank/hr. Net inflow with leak = 1/10 tank/hr. Leakage rate = 1/8 - 1/10 = (5 - 4)/40 = 1/40 tank/hr. Time to empty full tank = 40 घंटे.",
+      "tip_hi": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 घंटे."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Why does the clear sky appear blue during daytime?",
+      "hi": "दिन के समय स्वच्छ आकाश का रंग नीला क्यों दिखाई देता है?",
+      "options": [
+        "Total internal reflection of sunlight",
+        "Rayleigh scattering of shorter blue wavelengths of light by air molecules",
+        "Absorption of red light by water vapor",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rayleigh scattering of shorter blue wavelengths of light by air molecules",
+      "explanation": "According to Rayleigh scattering law, intensity of scattered light varies inversely as the fourth power of wavelength (I ∝ 1/λ^4). Because blue light has a shorter wavelength than red light, it is scattered much more strongly by fine gas molecules in the upper atmosphere.",
+      "tip": "Blue sky = Rayleigh Scattering (I ∝ 1/λ^4); Red sunrise/sunset = Scattering of longer wavelengths; Clouds appear white = Mie scattering.",
+      "id": 10,
+      "options_hi": [
+        "पूर्ण आंतरिक परावर्तन of sunlight",
+        "Rayleigh scattering of shorter blue wavelengths of light by air molecules",
+        "Absorption of red light by water vapor",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "According to Rayleigh scattering law, intensity of scattered light varies inversely as the fourth power of wavelength (I ∝ 1/λ^4). क्योंकि blue light has a shorter wavelength than red light, it is scattered much more strongly by fine gas molecules in the upper atmosphere.",
+      "tip_hi": "Blue sky = Rayleigh Scattering (I ∝ 1/λ^4); Red sunrise/sunset = Scattering of longer wavelengths; Clouds appear white = Mie scattering."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Following the martyrdom of Babu Kunwar Singh in April 1858, who led the guerrilla resistance against the British in the dense forests of the Kaimur hills?",
+      "hi": "अप्रैल 1858 में बाबू कुंवर सिंह के बलिदान के बाद कैमूर की पहाड़ियों के घने जंगलों में अंग्रेजों के विरुद्ध छापामार युद्ध का नेतृत्व किसने किया था?",
+      "options": [
+        "Hare Krishna Singh",
+        "Amar Singh",
+        "Nishan Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Amar Singh",
+      "explanation": "Babu Amar Singh, younger brother of Kunwar Singh, established a parallel revolutionary administration in the Kaimur hills and Shahabad forests, maintaining fierce guerrilla resistance against British columns until late 1859.",
+      "tip": "Guerrilla resistance in Kaimur after Kunwar Singh = Amar Singh.",
+      "id": 11,
+      "options_hi": [
+        "Hare Krishna Singh",
+        "Amar Singh",
+        "Nishan Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Babu Amar Singh, younger brother of Kunwar Singh, established a parallel revolutionary administration in the Kaimur hills and Shahabad forests, maintaining fierce guerrilla resistance against British columns until late 1859.",
+      "tip_hi": "Guerrilla resistance in Kaimur after Kunwar Singh = Amar Singh."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "In response to the Birsa Munda Ulgulan (Rebellion), which protective agrarian tenancy legislation was enacted by the British administration in 1908?(",
+      "hi": "बिरसा मुंडा के उलगुलान (विद्रोह) के परिणामस्वरूप 1908 में ब्रिटिश प्रशासन द्वारा कौन-सा सुरक्षात्मक कृषि काश्तकारी कानून पारित किया गया था?)",
+      "options": [
+        "Santhal Pargana Tenancy Act",
+        "Chhotanagpur Tenancy Act (CNT Act 1908)",
+        "Bengal Tenancy Act",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Chhotanagpur Tenancy Act (CNT Act 1908)",
+      "explanation": "Enacted on 11 November 1908, the Chhotanagpur Tenancy Act (CNT Act) legally recognized the Khuntkatti (joint tribal ownership) rights of Mundas, banned beth-begari (forced unpaid labour), and strictly prohibited the transfer of tribal land to non-tribals.",
+      "tip": "Chhotanagpur Tenancy Act passed = 1908 (Direct result of Birsa Munda's revolt).",
+      "id": 12,
+      "options_hi": [
+        "Santhal Pargana Tenancy Act",
+        "Chhotanagpur Tenancy Act (CNT Act 1908)",
+        "Bengal Tenancy Act",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Enacted on 11 नवम्बर 1908, the Chhotanagpur Tenancy Act (CNT Act) legally recognized the Khuntkatti (joint tribal ownership) rights of Mundas, banned beth-begari (forced unpaid labour), and strictly prohibited the transfer of tribal land to non-tribals.",
+      "tip_hi": "Chhotanagpur Tenancy Act passed = 1908 (Direct result of Birsa Munda's revolt)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "'Bihar Diwas' (बिहार दिवस) is officially celebrated every year on which date to commemorate the creation of the State of Bihar?",
+      "hi": "बिहार राज्य के गठन की स्मृति में प्रतिवर्ष किस तिथि को आधिकारिक रूप से 'बिहार दिवस' मनाया जाता है?",
+      "options": [
+        "22 March",
+        "1 April",
+        "15 November",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "22 March",
+      "explanation": "Bihar Diwas is celebrated annually on 22 March to mark the day in 1912 when the British government issued the official notification carving the Province of Bihar and Orissa out of the Bengal Presidency.",
+      "tip": "Bihar Diwas = 22 March (Notification of 1912 separation from Bengal).",
+      "id": 13,
+      "options_hi": [
+        "22 मार्च",
+        "1 अप्रैल",
+        "15 नवम्बर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bihar Diwas is celebrated annually on 22 मार्च to mark the दिन in 1912 when the British government issued the official notification carving the Province of Bihar and Orissa out of the Bengal Presidency.",
+      "tip_hi": "Bihar Diwas = 22 मार्च (Notification of 1912 separation from Bengal)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "The product of two positive integers is 2,028 and their HCF is 13. How many such pairs of numbers are possible?(",
+      "hi": "दो धनात्मक पूर्णांकों का गुणनफल 2,028 है और उनका म०स० (HCF) 13 है। ऐसी संख्याओं के कितने युग्म (Pairs) संभव हैं?)",
+      "options": [
+        "1 pair",
+        "2 pairs",
+        "3 pairs",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2 pairs",
+      "explanation": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime pairs whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 pairs are possible: (13, 156) and (39, 52).",
+      "tip": "ab = 2028 / 13^2 = 12. Co-prime factor pairs of 12 = (1, 12) and (3, 4) => exactly 2 pairs.",
+      "id": 14,
+      "options_hi": [
+        "1 जोड़ी",
+        "2 जोड़े",
+        "3 जोड़े",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime जोड़े whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 जोड़े are possible: (13, 156) and (39, 52).",
+      "tip_hi": "ab = 2028 / 13^2 = 12. Co-prime factor जोड़े of 12 = (1, 12) and (3, 4) => exactly 2 जोड़े."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which chemical property makes Plaster of Paris set into a hard solid mass within minutes of mixing with water?",
+      "hi": "पानी मिलाने पर प्लास्टर ऑफ पेरिस किस रासायनिक अभिक्रिया के कारण कुछ ही मिनटों में एक कठोर ठोस पिंड में बदल जाता है?",
+      "options": [
+        "Dehydration",
+        "Rehydration to form crystalline Gypsum",
+        "Carbonation reaction with atmospheric CO2",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rehydration to form crystalline Gypsum",
+      "explanation": "On mixing with water, Plaster of Paris (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform gypsum (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
+      "tip": "POP setting = Rehydration back to Gypsum (CaSO4 · 2H2O).",
+      "id": 15,
+      "options_hi": [
+        "Dehydration",
+        "Rehydration to form crystalline जिप्सम",
+        "Carbonation reaction with atmospheric CO2",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On mixing with water, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform जिप्सम (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
+      "tip_hi": "POP setting = Rehydration back to जिप्सम (CaSO4 · 2H2O)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Who among the following was the founder-leader of the 'Azad Dasta' (आजाद दस्ता) guerrilla organization formed in the jungles of Nepal during the Quit India Movement 1942?",
+      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान नेपाल के जंगलों में 'आजाद दस्ता' नामक छापामार संगठन का गठन किसने किया था?",
+      "options": [
+        "Ram Manohar Lohia",
+        "Jayaprakash Narayan",
+        "Suraj Narayan Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jayaprakash Narayan",
+      "explanation": "After escaping from Hazaribagh Central Jail on Diwali night in November 1942, Jayaprakash Narayan established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.",
+      "tip": "Azad Dasta (Nepal, 1942) = Jayaprakash Narayan (JP); Escaped from Hazaribagh Jail.",
+      "id": 16,
+      "options_hi": [
+        "राम मनोहर लोहिया",
+        "जयप्रकाश नारायण",
+        "Suraj Narayan Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in नवम्बर 1942, जयप्रकाश नारायण established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.",
+      "tip_hi": "Azad Dasta (Nepal, 1942) = जयप्रकाश नारायण (JP); Escaped from Hazaribagh Jail."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "If the perimeter of a circular garden is equal to the perimeter of a square garden, then what is the ratio of their respective areas?",
+      "hi": "यदि किसी वृत्ताकार बगीचे का परिमाप एक वर्गाकार बगीचे के परिमाप के बराबर है, तो उनके क्षेत्रफलों का अनुपात क्या होगा?",
+      "options": [
+        "11 : 14",
+        "14 : 11",
+        "7 : 4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "14 : 11",
+      "explanation": "Perimeter of circle = 2πr. Perimeter of square = 4a. Given 2πr = 4a => a = (πr)/2. Area of circle = πr^2. Area of square = a^2 = (π^2 r^2)/4. Ratio = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11.",
+      "tip": "Ratio of Area(Circle) to Area(Square) when perimeters are equal is always 14 : 11.",
+      "id": 17,
+      "options_hi": [
+        "11 : 14",
+        "14 : 11",
+        "7 : 4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Perimeter of circle = 2πr. Perimeter of square = 4a. Given 2πr = 4a => a = (πr)/2. Area of circle = πr^2. Area of square = a^2 = (π^2 r^2)/4. Ratio = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11.",
+      "tip_hi": "Ratio of Area(Circle) to Area(Square) when perimeters are equal is always 14 : 11."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which fundamental law of inheritance discovered by Gregor Mendel states that allele pairs separate independently during gamete formation?",
+      "hi": "ग्रेगर मेंडल द्वारा खोजा गया आनुवंशिकता का कौन-सा नियम बताता है कि युग्मक निर्माण के दौरान एलील के जोड़े एक-दूसरे से स्वतंत्र रूप से अलग होते हैं?",
+      "options": [
+        "Law of Segregation",
+        "Law of Independent Assortment",
+        "Law of Dominance",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Law of Independent Assortment",
+      "explanation": "Mendel's Law of Independent Assortment states that alleles of two or more different genes get sorted into gametes independently of one another, demonstrated by the classic 9:3:3:1 dihybrid phenotypic ratio.",
+      "tip": "Monohybrid phenotypic ratio = 3:1 (Law of Segregation); Dihybrid phenotypic ratio = 9:3:3:1 (Law of Independent Assortment).",
+      "id": 18,
+      "options_hi": [
+        "Law of Segregation",
+        "Law of Independent Assortment",
+        "Law of Dominance",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mendel's Law of Independent Assortment states that alleles of two or more different genes get sorted into gametes independently of one another, demonstrated by the classic 9:3:3:1 dihybrid phenotypic ratio.",
+      "tip_hi": "Monohybrid phenotypic ratio = 3:1 (Law of Segregation); Dihybrid phenotypic ratio = 9:3:3:1 (Law of Independent Assortment)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "What is the name of the comprehensive welfare mission initiated by the Government of Bihar providing tap water connections to every rural household?",
+      "hi": "बिहार सरकार द्वारा ग्रामीण क्षेत्रों के प्रत्येक घर में नल का स्वच्छ जल उपलब्ध कराने हेतु शुरू किए गए महत्वाकांक्षी निश्चय का क्या नाम है?",
+      "options": [
+        "Jal Jeevan Hariyali",
+        "Har Ghar Nal Ka Jal (हर घर नल का जल)",
+        "Swachh Gaon Abhiyan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Har Ghar Nal Ka Jal (हर घर नल का जल)",
+      "explanation": "Launched in 2016 under Saat Nischay-1 and continued under Saat Nischay-2, 'Har Ghar Nal Ka Jal' aims to provide piped potable drinking water to all households in Bihar without discrimination.",
+      "tip": "Piped tap water scheme in Bihar = Har Ghar Nal Ka Jal (Saat Nischay).",
+      "id": 19,
+      "options_hi": [
+        "Jal Jeevan Hariyali",
+        "Har Ghar Nal Ka Jal (हर घर नल का जल)",
+        "Swachh Gaon Abhiyan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Launched in 2016 under Saat Nischay-1 and continued under Saat Nischay-2, 'Har Ghar Nal Ka Jal' aims to provide piped potable drinking water to all households in Bihar without discrimination.",
+      "tip_hi": "Piped tap water scheme in Bihar = Har Ghar Nal Ka Jal (Saat Nischay)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Who among the following was the founder-leader of the 'Wahhabi Movement' in India during the early 19th century, making Patna its premier organizational centre?",
+      "hi": "19वीं शताब्दी के पूर्वार्ध में भारत में 'वहाबी आंदोलन' के संस्थापक-नेता कौन थे, जिन्होंने पटना को इसका प्रमुख संगठनात्मक केंद्र बनाया?",
+      "options": [
+        "Syed Ahmad Barelvi",
+        "Maulvi Wilayat Ali",
+        "Maulvi Inayat Ali",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Syed Ahmad of Rae Bareli founded the movement in India. When he visited Patna in 1821, he appointed Maulvi Wilayat Ali and Maulvi Inayat Ali as his chief khalifas (deputies), who organized Sadikpur (Patna) as the vital logistical and financial headquarters of the Wahhabi movement. Because all three were paramount leaders, (D) is the official key.",
+      "tip": "Wahhabi Movement in Patna: Founder in India = Syed Ahmad Barelvi; Patna operational leaders = Wilayat Ali & Inayat Ali. Triggers Option (D).",
+      "id": 20,
+      "options_hi": [
+        "Syed Ahmad Barelvi",
+        "Maulvi Wilayat Ali",
+        "Maulvi Inayat Ali",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Syed Ahmad of Rae Bareli founded the movement in India. When he visited Patna in 1821, he appointed Maulvi Wilayat Ali and Maulvi Inayat Ali as his chief khalifas (deputies), who organized Sadikpur (Patna) as the vital logistical and financial headquarters of the Wahhabi movement. क्योंकि all three were paramount leaders, (D) is the official key.",
+      "tip_hi": "Wahhabi Movement in Patna: Founder in India = Syed Ahmad Barelvi; Patna operational leaders = Wilayat Ali & Inayat Ali. Triggers Option (D)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A sum of money invested at compound interest doubles itself in 3 years. In how many years will it become 16 times of itself at the same annual rate?",
+      "hi": "कोई धनराशि चक्रवृद्धि ब्याज पर 3 वर्ष में दोगुनी हो जाती है। समान वार्षिक दर पर वह कितने वर्षों में 16 गुनी हो जाएगी?",
+      "options": [
+        "9 years",
+        "12 years",
+        "15 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "12 years",
+      "explanation": "At compound interest, if P becomes 2P in 3 years, then 16P = (2^4)P will take 4 * 3 = 12 years.",
+      "tip": "In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 years.",
+      "id": 21,
+      "options_hi": [
+        "9 वर्ष",
+        "12 वर्ष",
+        "15 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "At compound interest, if P becomes 2P in 3 वर्ष, then 16P = (2^4)P will take 4 * 3 = 12 वर्ष.",
+      "tip_hi": "In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 वर्ष."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Two unbiased dice are rolled simultaneously. What is the probability that the sum of the numbers appearing on top is 8?",
+      "hi": "दो निष्पक्ष पासे एक साथ फेंके जाते हैं। शीर्ष पर आने वाली संख्याओं का योग 8 होने की प्रायिकता क्या है?",
+      "options": [
+        "5/36",
+        "1/6",
+        "7/36",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "5/36",
+      "explanation": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.",
+      "tip": "Pairs summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 pairs out of 36 => 5/36.",
+      "id": 22,
+      "options_hi": [
+        "5/36",
+        "1/6",
+        "7/36",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.",
+      "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A train 180 metres long is moving at a uniform speed of 72 km/h. How much time will it take to pass a stationary man standing on the platform?",
+      "hi": "180 मीटर लंबी एक रेलगाड़ी 72 किमी/घंटा की समान गति से चल रही है। प्लेटफॉर्म पर खड़े एक व्यक्ति को पार करने में इसे कितना समय लगेगा?",
+      "options": [
+        "8 seconds",
+        "9 seconds",
+        "10 seconds",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "9 seconds",
+      "explanation": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 seconds.",
+      "tip": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 seconds.",
+      "id": 23,
+      "options_hi": [
+        "8 सेकंड",
+        "9 सेकंड",
+        "10 सेकंड",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 सेकंड.",
+      "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A, B, and C can complete a piece of work individually in 10, 12, and 15 days respectively. Working together, in how many days will they finish the entire work?",
+      "hi": "A, B और C अकेले किसी कार्य को क्रमशः 10, 12 और 15 दिनों में पूरा कर सकते हैं। एक साथ मिलकर कार्य करते हुए वे पूरे कार्य को कितने दिनों में समाप्त करेंगे?",
+      "options": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "4 days",
+      "explanation": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/day. Total efficiency = 6 + 5 + 4 = 15 units/day. Time required = 60 / 15 = 4 days.",
+      "tip": "Combined 1-day work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 days.",
+      "id": 24,
+      "options_hi": [
+        "3 दिन",
+        "4 दिन",
+        "5 दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/दिन. Total efficiency = 6 + 5 + 4 = 15 units/दिन. Time required = 60 / 15 = 4 दिन.",
+      "tip_hi": "Combined 1-दिन work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 दिन."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the volume of a right circular cylinder having a base radius of 7 cm and a vertical height of 10 cm? (Use π = 22/7)",
+      "hi": "7 सेमी आधार त्रिज्या और 10 सेमी ऊँचाई वाले एक लंबवृत्तीय बेलन का आयतन क्या होगा?",
+      "options": [
+        "1,440 cu cm",
+        "1,540 cu cm",
+        "1,640 cu cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1,540 cu cm",
+      "explanation": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu cm.",
+      "tip": "V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³.",
+      "id": 25,
+      "options_hi": [
+        "1,440 cu सेमी",
+        "1,540 cu सेमी",
+        "1,640 cu सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu सेमी.",
+      "tip_hi": "V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³."
+    }
+  ]
+}

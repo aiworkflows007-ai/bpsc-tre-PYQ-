@@ -1,0 +1,821 @@
+{
+  "id": "bpsc-tre4-gkgs-biology-set2",
+  "title": "General Science: Biology Set 2 (30Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Biology",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 30,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The natural pH indicator 'Litmus' is extracted from which symbiotic plant organism belonging to division Thallophyta?",
+      "hi": "प्राकृतिक pH सूचक 'लिटमस' थैलॉफाइटा वर्ग के किस सहजीवी पादप जीव से निष्कर्षित किया जाता है?",
+      "options": [
+        "Fungi",
+        "Lichen (लाइकेन)",
+        "Moss",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lichen (लाइकेन)",
+      "explanation": "Litmus is a water-soluble dye mixture extracted from lichens (predominantly Roccella tinctoria). Lichens represent a mutualistic symbiotic association between an alga (phycobiont) and a fungus (mycobiont).",
+      "tip": "Litmus is extracted from Lichens; Lichens are sensitive bioindicators of SO2 air pollution.",
+      "id": 1,
+      "options_hi": [
+        "Fungi",
+        "Lichen (लाइकेन)",
+        "Moss",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Litmus is a water-soluble dye mixture extracted from lichens (predominantly Roccella tinctoria). Lichens represent a mutualistic symbiotic association between an alga (phycobiont) and a fungus (mycobiont).",
+      "tip_hi": "Litmus is extracted from Lichens; Lichens are sensitive bioindicators of SO2 air pollution."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which cellular organelle is universally designated as the 'Powerhouse of the Cell' because it synthesizes cellular energy in the form of ATP molecules?(",
+      "hi": "किस कोशिकीय अंगक को 'कोशिका का ऊर्जाघर' (Powerhouse of the Cell) कहा जाता है क्योंकि यह ATP अणुओं के रूप में कोशिकीय ऊर्जा उत्पन्न करता है?)",
+      "options": [
+        "Ribosome",
+        "Mitochondria (सूत्रकणिका)",
+        "Golgi Apparatus",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mitochondria (सूत्रकणिका)",
+      "explanation": "Mitochondria carry out the Krebs cycle and oxidative phosphorylation via inner membrane cristae to generate adenosine triphosphate (ATP), the universal chemical energy currency of eukaryotic cells.",
+      "tip": "Powerhouse of Cell = Mitochondria; Protein Factory = Ribosomes; Suicidal Bags = Lysosomes.",
+      "id": 2,
+      "options_hi": [
+        "राइबोसोम (प्रोटीन फैक्ट्री)",
+        "माइटोकॉन्ड्रिया (सूत्रकणिका)",
+        "Golgi Apparatus",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "माइटोकॉन्ड्रिया carry out the Krebs cycle and oxidative phosphorylation via inner membrane cristae to generate adenosine triphosphate (ATP), the universal chemical energy currency of eukaryotic cells.",
+      "tip_hi": "Powerhouse of Cell = माइटोकॉन्ड्रिया; Protein Factory = Ribosomes; Suicidal Bags = Lysosomes."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which membrane-bound organelles containing powerful hydrolytic enzymes are known as the 'Suicidal Bags of the Cell'?(",
+      "hi": "शक्तिशाली पाचक हाइड्रोलाइटिक एंजाइमों से युक्त कौन-से झिल्लीदार अंगक 'कोशिका की आत्मघाती थैली' (Suicidal Bags) कहलाते हैं?)",
+      "options": [
+        "Centrosomes",
+        "Lysosomes (लाइसोसोम)",
+        "Peroxisomes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lysosomes (लाइसोसोम)",
+      "explanation": "Discovered by Christian de Duve, lysosomes contain acidic hydrolytic enzymes that break down cellular debris. Under extreme metabolic stress or injury, lysosomes rupture, autolyzing and destroying the damaged cell.",
+      "tip": "Suicidal Bags = Lysosomes; Discovered by Christian de Duve.",
+      "id": 3,
+      "options_hi": [
+        "Centrosomes",
+        "Lysosomes (लाइसोसोम)",
+        "Peroxisomes",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Discovered by Christian de Duve, lysosomes contain अम्लीय hydrolytic enzymes that break down cellular debris. Under extreme metabolic stress or injury, lysosomes rupture, autolyzing and destroying the damaged cell.",
+      "tip_hi": "Suicidal Bags = Lysosomes; Discovered by Christian de Duve."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the standard resting arterial blood pressure reading for a healthy adult human being measured in mm of Mercury (Hg)?(",
+      "hi": "पारे के मिमी (mm Hg) में मापा जाने वाला एक स्वस्थ वयस्क मनुष्य का मानक विश्राम रक्तचाप मान क्या होता है?)",
+      "options": [
+        "100/60 mm Hg",
+        "120/80 mm Hg",
+        "140/90 mm Hg",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "120/80 mm Hg",
+      "explanation": "Normal adult blood pressure is 120/80 mm Hg, representing systolic pressure of 120 mm Hg during ventricular contraction and diastolic pressure of 80 mm Hg during ventricular relaxation, measured using a sphygmomanometer.",
+      "tip": "Normal BP = 120/80 mm Hg (Systolic = 120, Diastolic = 80); Instrument = Sphygmomanometer.",
+      "id": 4,
+      "options_hi": [
+        "100/60 मिमी Hg",
+        "120/80 मिमी Hg",
+        "140/90 मिमी Hg",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Normal adult blood pressure is 120/80 मिमी Hg, representing systolic pressure of 120 मिमी Hg के दौरान ventricular contraction and diastolic pressure of 80 मिमी Hg के दौरान ventricular relaxation, measured using a sphygmomanometer.",
+      "tip_hi": "Normal BP = 120/80 मिमी Hg (Systolic = 120, Diastolic = 80); Instrument = Sphygmomanometer."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Human saliva contains which digestive enzyme that initiates the chemical digestion of dietary starch into maltose sugars in the mouth?(",
+      "hi": "मानव लार में कौन-सा पाचक एंजाइम पाया जाता है जो मुखगुहा में स्टार्च (मंड) को माल्टोज शर्करा में तोड़ना प्रारंभ करता है?)",
+      "options": [
+        "Pepsin",
+        "Salivary Amylase (Ptyalin)",
+        "Trypsin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Salivary Amylase (Ptyalin)",
+      "explanation": "Salivary amylase (ptyalin, pH ~6.8) is secreted by salivary glands and hydrolyzes about 30% of dietary starch into maltose disaccharides in the oral cavity before swallowing.",
+      "tip": "Starch digesting enzyme in mouth = Salivary Amylase (Ptyalin).",
+      "id": 5,
+      "options_hi": [
+        "पेप्सिन",
+        "लार एमाइलेज (टायलिन) (Ptyalin)",
+        "ट्रिप्सिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin, pH ~6.8) is secreted by salivary glands and hydrolyzes about 30% of dietary starch into maltose disaccharides in the oral cavity before swallowing.",
+      "tip_hi": "Starch digesting enzyme in mouth = लार एमाइलेज (टायलिन) (Ptyalin)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the Supreme Court of India, which Article of the Constitution guarantees the right of citizens to move the court by appropriate proceedings for the enforcement of Fundamental Rights?",
+      "hi": "भारतीय संविधान का कौन-सा अनुच्छेद नागरिकों को मौलिक अधिकारों के प्रवर्तन के लिए सीधे सर्वोच्च न्यायालय में जाने के अधिकार की गारंटी देता है?",
+      "options": [
+        "Article 19",
+        "Article 32",
+        "Article 226",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 32",
+      "explanation": "Article 32 itself is a Fundamental Right (Right to Constitutional Remedies) described by Dr. Ambedkar as the 'heart and soul of the Constitution'. Under it, the Supreme Court issues prerogative writs.",
+      "tip": "Article 32 = Supreme Court writ jurisdiction (Fundamental Right); Article 226 = High Court writ jurisdiction.",
+      "id": 6,
+      "options_hi": [
+        "अनुच्छेद 19",
+        "अनुच्छेद 32",
+        "अनुच्छेद 226",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 32 itself is a मौलिक अधिकार (Right to Constitutional Remedies) described by Dr. Ambedkar as the 'हृदय and soul of the Constitution'. Under it, the सर्वोच्च न्यायालय issues prerogative writs.",
+      "tip_hi": "अनुच्छेद 32 = सर्वोच्च न्यायालय writ jurisdiction (मौलिक अधिकार); अनुच्छेद 226 = उच्च न्यायालय writ jurisdiction."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which blood vessels possess one-way internal valves to prevent backflow of blood against gravity towards the heart?(",
+      "hi": "गुरुत्वाकर्षण के विपरीत रक्त के पीछे बहने को रोकने के लिए किन रक्त वाहिकाओं में आंतरिक कपाट (Valves) पाए जाते हैं?)",
+      "options": [
+        "Arteries",
+        "Veins (शिराएं)",
+        "Capillaries",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Veins (शिराएं)",
+      "explanation": "Veins carry deoxygenated blood under low hydrostatic pressure towards the heart. Semilunar valves in veins prevent backflow of venous blood caused by gravity, assisted by skeletal muscle pumping.",
+      "tip": "Blood vessels with valves = Veins; Thick muscular elastic walls without valves = Arteries.",
+      "id": 7,
+      "options_hi": [
+        "Arteries",
+        "Veins (शिराएं)",
+        "Capillaries",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Veins carry deoxygenated blood under low hydrostatic pressure towards the हृदय. Semilunar valves in veins prevent backflow of venous blood caused by gravity, assisted by skeletal muscle pumping.",
+      "tip_hi": "Blood vessels with valves = Veins; Thick muscular elastic walls without valves = Arteries."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the chemical name and composition of 'Bordeaux Mixture' widely used by farmers as an agricultural fungicide?(",
+      "hi": "किसानों द्वारा कृषि कवकनाशी (Fungicide) के रूप में व्यापक रूप से उपयोग किए जाने वाले 'बोर्डो मिश्रण' (Bordeaux mixture) का रासायनिक संघटन क्या है?)",
+      "options": [
+        "Copper Sulphate and Slaked Lime (CuSO4 + Ca(OH)2)",
+        "Zinc Sulphate and Lime",
+        "Ferrous Sulphate and Urea",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Copper Sulphate and Slaked Lime (CuSO4 + Ca(OH)2)",
+      "explanation": "Discovered by P. M. A. Millardet in Bordeaux (France) in 1882, Bordeaux mixture is a suspension of copper sulfate (CuSO4) and slaked lime (Ca(OH)2) in water, highly effective against downy mildew of grapevine and potato blight.",
+      "tip": "Bordeaux Mixture = Copper Sulphate + Slaked Lime (CuSO4 + Ca(OH)2).",
+      "id": 8,
+      "options_hi": [
+        "Copper Sulphate and Slaked Lime (CuSO4 + Ca(OH)2)",
+        "Zinc Sulphate and Lime",
+        "Ferrous Sulphate and Urea",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Discovered by P. M. A. Millardet in Bordeaux (France) in 1882, Bordeaux mixture is a suspension of कॉपर सल्फेट (नीला थोथा) (CuSO4) and slaked lime (Ca(OH)2) in water, highly effective against downy mildew of grapevine and potato blight.",
+      "tip_hi": "Bordeaux Mixture = Copper Sulphate + Slaked Lime (CuSO4 + Ca(OH)2)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the human female reproductive system, fertilization of the ovum by a sperm normally takes place in which anatomical part?",
+      "hi": "मानव मादा प्रजनन प्रणाली में अंडाणु का शुक्राणु द्वारा निषेचन सामान्यतः किस शारीरिक भाग में होता है?",
+      "options": [
+        "Uterus",
+        "Fallopian Tube (Ampullary-isthmic junction)",
+        "Ovary",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Fallopian Tube (Ampullary-isthmic junction)",
+      "explanation": "The released secondary oocyte travels into the fallopian tube (oviduct), where fertilization by sperm occurs in the ampullary region. The resulting zygote then moves to implant in the uterine endometrium.",
+      "tip": "Site of fertilization = Fallopian Tube (Oviduct); Site of embryo implantation = Uterus.",
+      "id": 9,
+      "options_hi": [
+        "Uterus",
+        "Fallopian Tube (Ampullary-isthmic junction)",
+        "Ovary",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The released secondary oocyte travels into the fallopian tube (oviduct), where fertilization by sperm occurs in the ampullary region. The resulting zygote then moves to implant in the uterine endometrium.",
+      "tip_hi": "Site of fertilization = Fallopian Tube (Oviduct); Site of embryo implantation = Uterus."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which plasma protein, synthesized in the liver, is primarily responsible for maintaining the colloidal osmotic (oncotic) pressure of human blood?(",
+      "hi": "यकृत में संश्लेषित कौन-सा प्लाज्मा प्रोटीन मानव रक्त के कोलॉइडी परासरणी (ऑन्कोटिक) दाब को बनाए रखने के लिए मुख्य रूप से उत्तरदायी है?)",
+      "options": [
+        "Fibrinogen",
+        "Albumin (एल्ब्यूमिन)",
+        "Globulin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Albumin (एल्ब्यूमिन)",
+      "explanation": "Albumin accounts for ~60% of total plasma proteins and generates ~80% of the blood colloidal oncotic pressure, preventing excess fluid leakage from capillaries into interstitial tissues. Fibrinogen is for clotting, and Globulin is for immunity.",
+      "tip": "Blood osmotic pressure = Albumin; Blood clotting = Fibrinogen; Antibodies = Globulin.",
+      "id": 10,
+      "options_hi": [
+        "Fibrinogen",
+        "Albumin (एल्ब्यूमिन)",
+        "Globulin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Albumin accounts for ~60% of total plasma proteins and generates ~80% of the blood colloidal oncotic pressure, preventing excess fluid leakage from capillaries into interstitial tissues. Fibrinogen is for clotting, and Globulin is for immunity.",
+      "tip_hi": "Blood osmotic pressure = Albumin; Blood clotting = Fibrinogen; Antibodies = Globulin."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which cell organelles, discovered by George Palade, are known as the 'Protein Factories of the Cell'?",
+      "hi": "जॉर्ज पैलेड द्वारा खोजे गए किन कोशिकीय अंगकों को 'कोशिका की प्रोटीन फैक्ट्री' कहा जाता है?",
+      "options": [
+        "Lysosomes",
+        "Ribosomes (राइबोसोम)",
+        "Vacuoles",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ribosomes (राइबोसोम)",
+      "explanation": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in cytoplasm or bound to rough endoplasmic reticulum.",
+      "tip": "Protein factory = Ribosomes; Powerhouse = Mitochondria; Packaging centre = Golgi apparatus.",
+      "id": 11,
+      "options_hi": [
+        "Lysosomes",
+        "Ribosomes (राइबोसोम)",
+        "Vacuoles",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in कोशिकाद्रव्य or bound to rough endoplasmic reticulum.",
+      "tip_hi": "Protein factory = Ribosomes; Powerhouse = माइटोकॉन्ड्रिया; Packaging centre = Golgi apparatus."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The optical illusion of a shimmering water body on hot desert roads during summer afternoons (Mirage) is caused by(",
+      "hi": "गर्मियों की दोपहर में रेगिस्तान की सड़कों पर चमकते जल का प्रकाशीय भ्रम (मरीचिका / Mirage) किसके कारण उत्पन्न होता है?)",
+      "options": [
+        "Pure optical dispersion",
+        "Total Internal Reflection of light through layers of heated air",
+        "Selective wave polarization",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Total Internal Reflection of light through layers of heated air",
+      "explanation": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing total internal reflection.",
+      "tip": "Mirage in deserts = Total Internal Reflection (TIR) + Atmospheric Refraction.",
+      "id": 12,
+      "options_hi": [
+        "Pure optical वर्ण विक्षेपण",
+        "पूर्ण आंतरिक परावर्तन of light through layers of heated air",
+        "Selective wave polarization",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing पूर्ण आंतरिक परावर्तन.",
+      "tip_hi": "Mirage in deserts = पूर्ण आंतरिक परावर्तन (TIR) + Atmospheric अपवर्तन."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "The 44th Constitutional Amendment Act 1978 substituted which term in place of 'internal disturbance' as a ground for proclaiming National Emergency under Article 352?",
+      "hi": "44वें संविधान संशोधन अधिनियम 1978 द्वारा अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल की घोषणा के आधार के रूप में 'आंतरिक अशांति' के स्थान पर कौन-सा शब्द प्रतिस्थापित किया गया?",
+      "options": [
+        "External Aggression",
+        "Armed Rebellion (सशस्त्र विद्रोह)",
+        "Civil War",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Armed Rebellion (सशस्त्र विद्रोह)",
+      "explanation": "To prevent the misuse of emergency powers (as occurred in 1975 under the pretext of 'internal disturbance'), the 44th Amendment restricted National Emergency grounds to War, External Aggression, or 'Armed Rebellion', requiring written recommendation of the Union Cabinet.",
+      "tip": "44th Amendment substituted 'Armed Rebellion' for 'Internal Disturbance' in Article 352.",
+      "id": 13,
+      "options_hi": [
+        "External Aggression",
+        "Armed Rebellion (सशस्त्र विद्रोह)",
+        "Civil War",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "To prevent the misuse of emergency powers (as occurred in 1975 under the pretext of 'internal disturbance'), the 44th संशोधन restricted National Emergency grounds to War, External Aggression, or 'Armed Rebellion', requiring written recommendation of the Union Cabinet.",
+      "tip_hi": "44th संशोधन substituted 'Armed Rebellion' for 'Internal Disturbance' in अनुच्छेद 352."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the sum of all internal angles of a regular hexagon?",
+      "hi": "एक सम षट्भुज के सभी अंतःकोणों का योग क्या होता है?",
+      "options": [
+        "540°",
+        "720°",
+        "900°",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "720°",
+      "explanation": "Sum of interior angles = (n - 2) * 180°. For a hexagon (n = 6): Sum = (6 - 2) * 180° = 4 * 180° = 720°.",
+      "tip": "(n - 2) * 180°: Hexagon = 4 * 180° = 720°; Pentagon = 540°; Octagon = 1080°.",
+      "id": 14,
+      "options_hi": [
+        "540°",
+        "720°",
+        "900°",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sum of interior angles = (n - 2) * 180°. For a hexagon (n = 6): Sum = (6 - 2) * 180° = 4 * 180° = 720°.",
+      "tip_hi": "(n - 2) * 180°: Hexagon = 4 * 180° = 720°; Pentagon = 540°; Octagon = 1080°."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In an aquatic pond ecosystem, what is the typical shape of the ecological 'Pyramid of Biomass'?(",
+      "hi": "एक जलीय तालाब पारिस्थितिकी तंत्र में, पारिस्थितिक 'जैवभार का पिरामिड' (Pyramid of Biomass) सामान्यतः किस आकार का होता है?)",
+      "options": [
+        "Always upright",
+        "Inverted (उल्टा)",
+        "Linear horizontal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Inverted (उल्टा)",
+      "explanation": "In open water and ponds, the biomass of primary producers (phytoplankton) at any instant is small due to short lifespans and rapid turnover, whereas the standing biomass of consumers (fishes) is substantially larger, producing an inverted pyramid of biomass.",
+      "tip": "Biomass pyramid in aquatic pond ecosystem = Inverted; Energy pyramid = Always upright.",
+      "id": 15,
+      "options_hi": [
+        "Always upright",
+        "Inverted (उल्टा)",
+        "Linear horizontal",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In open water and ponds, the biomass of primary producers (phytoplankton) at any instant is small due to short lifespans and rapid turnover, जबकि the standing biomass of consumers (fishes) is substantially larger, producing an inverted pyramid of biomass.",
+      "tip_hi": "Biomass pyramid in aquatic pond ecosystem = Inverted; Energy pyramid = Always upright."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which river basin in Bihar is famous for extensive maize (मक्का) cultivation and has recorded the highest per-hectare maize productivity in India?",
+      "hi": "बिहार का कौन-सा नदी बेसिन मक्का की सघन खेती के लिए प्रसिद्ध है और भारत में मक्का की प्रति हेक्टेयर उच्चतम उत्पादकता दर्ज कर चुका है?",
+      "options": [
+        "Kosi and Burhi Gandak plains (Khagaria, Begusarai, Samas",
+        "Son basin",
+        "Kiul basin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Kosi and Burhi Gandak plains (Khagaria, Begusarai, Samastipur)",
+      "explanation": "The well-drained alluvial tract along the Burhi Gandak and Kosi rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.",
+      "tip": "Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi Gandak & Kosi plains).",
+      "id": 16,
+      "options_hi": [
+        "कोसी नदी and Burhi गंडक नदी plains (Khagaria, Begusarai, Samas",
+        "सोन नदी basin",
+        "Kiul basin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The well-drained alluvial tract along the Burhi गंडक नदी and कोसी नदी rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.",
+      "tip_hi": "Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi गंडक नदी & कोसी नदी plains)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "In which of the following states is black soil found?",
+      "hi": "निम्नलिखित में से किस राज्य में काली मिट्टी पाई जाती है?",
+      "options": [
+        "Karnataka",
+        "Gujarat",
+        "Uttarakhand",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Black soil (Regur soil) is widespread across the Deccan lava trap, predominantly found in Maharashtra, Gujarat, Madhya Pradesh, and parts of Karnataka. As both Gujarat and Karnataka have it, (D) is correct.",
+      "tip": "Regur/Black cotton soil spans multiple peninsular states; when Gujarat and Karnataka appear together, pick Option (D).",
+      "id": 17,
+      "options_hi": [
+        "Karnataka",
+        "Gujarat",
+        "Uttarakhand",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "काली मिट्टी (रेगुर मिट्टी) (Regur soil) is widespread across the Deccan lava trap, predominantly found in Maharashtra, Gujarat, Madhya Pradesh, and parts of Karnataka. As both Gujarat and Karnataka have it, (D) is correct.",
+      "tip_hi": "Regur/Black cotton soil spans multiple peninsular states; when Gujarat and Karnataka appear together, pick Option (D)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Which one of the following is a leguminous crop?",
+      "hi": "निम्नलिखित में से कौन-सी एक फलीदार फसल है?",
+      "options": [
+        "Pulse",
+        "Jowar",
+        "Millet",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Pulse",
+      "explanation": "Pulses (beans, gram, lentils, peas) belong to the Leguminosae family and fix atmospheric nitrogen through root nodules, whereas Jowar and Millets are coarse cereals (Poaceae family).",
+      "tip": "Leguminous crops = Pulses (Gram, Arhar, Moong); Coarse grains (Jowar, Bajra, Ragi) = Cereals.",
+      "id": 18,
+      "options_hi": [
+        "Pulse",
+        "Jowar",
+        "Millet",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pulses (beans, ग्राम, lentils, peas) belong to the Leguminosae family and fix atmospheric nitrogen through root nodules, जबकि Jowar and Millets are coarse cereals (Poaceae family).",
+      "tip_hi": "Leguminous crops = Pulses (ग्राम, Arhar, Moong); Coarse grains (Jowar, Bajra, Ragi) = Cereals."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which State of India is the highest producer of Millets?\n(",
+      "hi": "भारत का कौन-सा राज्य मोटे अनाज (मिलेट्स) का सबसे बड़ा उत्पादक है?)",
+      "options": [
+        "Rajasthan",
+        "Maharashtra",
+        "Tamil Nadu",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Rajasthan",
+      "explanation": "Rajasthan is India's leading producer of nutri-cereals / millets, especially pearl millet (bajra), accounting for over 27% of India's total millet output.",
+      "tip": "Rajasthan leads in Bajra and total Millets; Karnataka leads in Ragi; Maharashtra leads in Jowar.",
+      "id": 19,
+      "options_hi": [
+        "Rajasthan",
+        "Maharashtra",
+        "Tamil Nadu",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rajasthan is India's leading producer of nutri-cereals / millets, especially pearl millet (bajra), accounting for over 27% of India's total millet output.",
+      "tip_hi": "Rajasthan leads in Bajra and total Millets; Karnataka leads in Ragi; Maharashtra leads in Jowar."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "'Leaching' process is related to\n('",
+      "hi": "निक्षालन (Leaching)' प्रक्रिया संबंधित है)",
+      "options": [
+        "regions of heavy rainfall",
+        "minerals and soil",
+        "roots of plants",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Leaching is the pedological process where soluble plant nutrients and silica are washed downward through the soil profile in regions of heavy tropical rainfall, forming Laterite soil.",
+      "tip": "Leaching directly involves both soil minerals and heavy rainfall conditions, prompting BPSC's official key (D).",
+      "id": 20,
+      "options_hi": [
+        "regions of heavy rainfall",
+        "minerals and soil",
+        "roots of plants",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Leaching is the pedological process where soluble plant nutrients and silica are washed downward through the soil profile in regions of heavy tropical rainfall, forming लेटराइट मिट्टी.",
+      "tip_hi": "Leaching directly involves both soil minerals and heavy rainfall conditions, prompting BPSC's official key (D)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following terms is used for primitive form of cultivation in India?\n(",
+      "hi": "भारत में आदिम रूप की कृषि (झूम कृषि) के लिए निम्नलिखित में से किस शब्द का प्रयोग किया जाता है?)",
+      "options": [
+        "Bewar",
+        "Pama Dabi",
+        "Milpa",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In India, primitive slash-and-burn shifting agriculture is called 'Bewar' or 'Dahiya' in Madhya Pradesh and 'Pama Dabi' or 'Koman' in Odisha. 'Milpa' is practiced in Mexico/Central America.",
+      "tip": "Local names in India: Bewar (MP), Podu (Andhra), Pama Dabi (Odisha), Jhum (North-East). Milpa is Mexico.",
+      "id": 21,
+      "options_hi": [
+        "Bewar",
+        "Pama Dabi",
+        "Milpa",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In India, primitive slash-and-burn shifting agriculture is called 'Bewar' or 'Dahiya' in Madhya Pradesh and 'Pama Dabi' or 'Koman' in Odisha. 'Milpa' is practiced in Mexico/Central America.",
+      "tip_hi": "Local names in India: Bewar (MP), Podu (Andhra), Pama Dabi (Odisha), Jhum (उत्तर-पूर्व). Milpa is Mexico."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following is the lowest level of rural local government in India?",
+      "hi": "निम्नलिखित में से भारत में ग्रामीण स्थानीय सरकार का सबसे निचला स्तर कौन-सा है?",
+      "options": [
+        "Cantonment Board",
+        "Panchayats",
+        "Municipal Corporation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Panchayats",
+      "explanation": "Under the 73rd Constitutional Amendment Act, the 3-tier Panchayati Raj structure comprises Zila Parishad (district level), Panchayat Samiti (block level), and Gram Panchayat (village level).",
+      "tip": "Lowest level in rural governance = Gram Panchayat; Intermediate = Block/Panchayat Samiti; Apex = Zila Parishad.",
+      "id": 22,
+      "options_hi": [
+        "Cantonment Board",
+        "Panchayats",
+        "Municipal Corporation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under the 73rd संविधान संशोधन अधिनियम, the 3-tier पंचायती राज structure comprises Zila Parishad (district level), Panchayat Samiti (block level), and ग्राम पंचायत (village level).",
+      "tip_hi": "Lowest level in rural governance = ग्राम पंचायत; Intermediate = Block/Panchayat Samiti; Apex = Zila Parishad."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following is warm-blooded animal?\n(",
+      "hi": "निम्न में से कौन-सा समतापी (warm-blooded) प्राणी है?)",
+      "options": [
+        "Toad",
+        "Crocodile",
+        "Fish",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "Toads (Amphibians), Crocodiles (Reptiles), and Fish (Pisces) are poikilothermic (cold-blooded) ectotherms. Only birds (Aves) and mammals are homeothermic (warm-blooded).",
+      "tip": "Warm-blooded = Birds & Mammals only. Reptiles, amphibians, and fish are cold-blooded; hence Option (E) is correct.",
+      "id": 23,
+      "options_hi": [
+        "Toad",
+        "Crocodile",
+        "Fish",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Toads (Amphibians), Crocodiles (Reptiles), and Fish (Pisces) are poikilothermic (असमतापी (शीत-रक्त वाले)) ectotherms. Only birds (Aves) and mammals are homeothermic (समतापी (उष्ण-रक्त वाले)).",
+      "tip_hi": "समतापी (उष्ण-रक्त वाले) = Birds & Mammals only. Reptiles, amphibians, and fish are असमतापी (शीत-रक्त वाले); hence Option (E) is correct."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "In a national park, protection is provided to",
+      "hi": "राष्ट्रीय उद्यान में सुरक्षा दी जाती है",
+      "options": [
+        "Fauna only",
+        "Entire ecosystem",
+        "Flora only",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Entire ecosystem",
+      "explanation": "A National Park (IUCN Category II) is legally constituted to conserve the complete natural ecosystem, protecting flora, fauna, historical objects, and abiotic landscapes.",
+      "tip": "Wildlife Sanctuary = Protection to specific species (fauna); National Park = Protection to entire ecosystem.",
+      "id": 24,
+      "options_hi": [
+        "Fauna only",
+        "Entire ecosystem",
+        "Flora only",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A National Park (IUCN Category II) is legally constituted to conserve the complete natural ecosystem, protecting flora, fauna, historical objects, and abiotic landscapes.",
+      "tip_hi": "Wildlife Sanctuary = Protection to specific species (fauna); National Park = Protection to entire ecosystem."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "In a food chain, insectivorous plants' trophic level is",
+      "hi": "एक खाद्य श्रृंखला में कीटभक्षी पौधों का पोषण स्तर होता है",
+      "options": [
+        "Primary consumer",
+        "Secondary consumer",
+        "Producer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Insectivorous plants (Pitcher plant, Venus flytrap) photosynthesize as primary producers (T1) and consume herbivorous insects as secondary consumers (T3).",
+      "tip": "Because insectivorous plants hold two trophic identities (Autotroph/Producer and Carnivore/Secondary Consumer), Option (D) applies.",
+      "id": 25,
+      "options_hi": [
+        "Primary consumer",
+        "Secondary consumer",
+        "Producer",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Insectivorous plants (Pitcher plant, Venus flytrap) photosynthesize as primary producers (T1) and consume herbivorous insects as secondary consumers (T3).",
+      "tip_hi": "क्योंकि insectivorous plants hold two trophic identities (Autotroph/Producer and Carnivore/Secondary Consumer), Option (D) applies."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The animals found in desert are called",
+      "hi": "रेगिस्तान / मरुस्थल में पाए जाने वाले जन्तु कहलाते हैं",
+      "options": [
+        "Deserticolous",
+        "Desertimalia",
+        "Desertimals",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Deserticolous",
+      "explanation": "Organisms that inhabit arid desert environments and exhibit specific xerocolous morphological adaptations are termed deserticolous.",
+      "tip": "Arboreal = trees; Fossorial = underground burrows; Deserticolous / Xerocolous = deserts.",
+      "id": 26,
+      "options_hi": [
+        "Deserticolous",
+        "Desertimalia",
+        "Desertimals",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Organisms that inhabit arid desert environments and exhibit specific xerocolous morphological adaptations are termed deserticolous.",
+      "tip_hi": "Arboreal = trees; Fossorial = underground burrows; Deserticolous / Xerocolous = deserts."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following constitutes a food chain?",
+      "hi": "निम्नलिखित में से कौन-सा एक खाद्य श्रृंखला का सही निर्माण करता है?",
+      "options": [
+        "Grass, deer and tiger",
+        "Grass, fish and cow",
+        "Grass, rabbit and elephant",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Grass, deer and tiger",
+      "explanation": "In a terrestrial grazing food chain, Grass is the primary producer, Deer is the herbivorous primary consumer, and Tiger is the apex carnivorous secondary consumer.",
+      "tip": "Food chain must represent realistic trophic feeding links: Producer -> Herbivore -> Carnivore (Grass -> Deer -> Tiger).",
+      "id": 27,
+      "options_hi": [
+        "Grass, deer and tiger",
+        "Grass, fish and cow",
+        "Grass, rabbit and elephant",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In a terrestrial grazing food chain, Grass is the primary producer, Deer is the herbivorous primary consumer, and Tiger is the apex carnivorous secondary consumer.",
+      "tip_hi": "Food chain must represent realistic trophic feeding links: Producer -> Herbivore -> Carnivore (Grass -> Deer -> Tiger)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "The country India shares longest international boundary with",
+      "hi": "भारत सबसे लम्बी अंतर्राष्ट्रीय सीमा किस देश के साथ साझा करता है?",
+      "options": [
+        "Pakistan",
+        "Nepal",
+        "Bangladesh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Bangladesh",
+      "explanation": "India shares its longest land border of 4,096.7 km with Bangladesh, spanning West Bengal, Meghalaya, Mizoram, Assam, and Tripura.",
+      "tip": "Border lengths mnemonic: Bangladesh (4,096.7 km) > China (3,488 km) > Pakistan (3,323 km) > Nepal (1,751 km).",
+      "id": 28,
+      "options_hi": [
+        "Pakistan",
+        "Nepal",
+        "Bangladesh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "India shares its longest land border of 4,096.7 किमी with Bangladesh, spanning पश्चिम Bengal, Meghalaya, Mizoram, Assam, and Tripura.",
+      "tip_hi": "Border lengths mnemonic: Bangladesh (4,096.7 किमी) > China (3,488 किमी) > Pakistan (3,323 किमी) > Nepal (1,751 किमी)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the ecological pyramids show both upright and inverted types?\n(",
+      "hi": "कौन-से पारिस्थितिक पिरामिड सीधे (upright) और उल्टे (inverted) दोनों प्रकार के हो सकते हैं?)",
+      "options": [
+        "Pyramid of number",
+        "Pyramid of biomass",
+        "Pyramid of energy",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Pyramid of number can be inverted (e.g., single tree ecosystem supporting parasites), and Pyramid of biomass can be inverted (e.g., aquatic ecosystem). Both (A) and (B) qualify.",
+      "tip": "Pyramid of energy is ALWAYS upright (10% law). Both Pyramid of Number and Pyramid of Biomass can be inverted; choose (D).",
+      "id": 29,
+      "options_hi": [
+        "Pyramid of number",
+        "Pyramid of biomass",
+        "Pyramid of energy",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pyramid of number can be inverted (e.g., single tree ecosystem supporting parasites), and Pyramid of biomass can be inverted (e.g., aquatic ecosystem). Both (A) and (B) qualify.",
+      "tip_hi": "Pyramid of energy is ALWAYS upright (10% law). Both Pyramid of Number and Pyramid of Biomass can be inverted; choose (D)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "Which of the following is used in metal extraction?",
+      "hi": "निम्नलिखित में से किसका उपयोग धातु निष्कर्षण में किया जाता है?",
+      "options": [
+        "Coke",
+        "Petroleum",
+        "Coal tar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Coke",
+      "explanation": "Coke is nearly pure carbon, used as a primary reducing agent in blast furnaces to extract metals like iron from their oxide ores.",
+      "tip": "Coke reduces metal oxides (Fe2O3 + 3C -> 2Fe + 3CO); coal tar is used for surfacing roads and dyes.",
+      "id": 30,
+      "options_hi": [
+        "Coke",
+        "Petroleum",
+        "Coal tar",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Coke is nearly pure carbon, used as a primary reducing agent in blast furnaces to extract metals like iron from their oxide ores.",
+      "tip_hi": "Coke reduces metal oxides (Fe2O3 + 3C -> 2Fe + 3CO); coal tar is used for surfacing roads and dyes."
+    }
+  ]
+}

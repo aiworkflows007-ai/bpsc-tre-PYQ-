@@ -10,8 +10,9 @@ echo "=================================================="
 echo "📁 Scanning: incoming_questions/"
 echo ""
 
-# 1. Run Python auto-ingest
-python3 scripts/auto_ingest.py
+# 1. Run Python auto-ingest & subject subsets pipeline
+python3 scripts/build_gkgs_subsets.py
+python3 scripts/translate_gkgs_full.py
 
 # 2. Build production bundle with TypeScript & Vite
 echo ""

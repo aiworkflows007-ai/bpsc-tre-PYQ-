@@ -3,7 +3,7 @@
   "title": "General Studies Practice Set 12 (40Q)",
   "section": "gk_gs",
   "section_name": "Part-II General Studies (40 Marks)",
-  "subject": "General Studies",
+  "subject": "Full 40Q Mock Papers",
   "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
   "question_count": 40,
   "questions": [
@@ -23,7 +23,16 @@
       "answer_text": "1,080°",
       "explanation": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.",
       "tip": "Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "900°",
+        "1,080°",
+        "1,260°",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.",
+      "tip_hi": "Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -41,7 +50,16 @@
       "answer_text": "3 and 4",
       "explanation": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.",
       "tip": "Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "2 and 6",
+        "3 and 4",
+        "-3 and -4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.",
+      "tip_hi": "Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -59,7 +77,16 @@
       "answer_text": "99",
       "explanation": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.",
       "tip": "N2 = (11 * 693) / 77 = 693 / 7 = 99.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "88",
+        "99",
+        "110",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.",
+      "tip_hi": "N2 = (11 * 693) / 77 = 693 / 7 = 99."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -77,7 +104,16 @@
       "answer_text": "72 km/h",
       "explanation": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in km/h = 20 * (18/5) = 72 km/h.",
       "tip": "Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 km/h.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "64 किमी/h",
+        "72 किमी/h",
+        "80 किमी/h",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "tip_hi": "Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 किमी/h."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -95,7 +131,16 @@
       "answer_text": "b b a b a",
       "explanation": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.",
       "tip": "Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "b a a b a",
+        "b b a b a",
+        "a b a b a",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.",
+      "tip_hi": "Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -113,7 +158,16 @@
       "answer_text": "Uncle (चाचा)",
       "explanation": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).",
       "tip": "Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "Grandfather",
+        "Uncle (चाचा)",
+        "Father",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).",
+      "tip_hi": "Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -131,7 +185,16 @@
       "answer_text": "19th",
       "explanation": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.",
       "tip": "Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "18वां",
+        "19वां",
+        "20वां",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.",
+      "tip_hi": "Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -149,7 +212,16 @@
       "answer_text": "8251896",
       "explanation": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.",
       "tip": "Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "8251896",
+        "8251869",
+        "8251968",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.",
+      "tip_hi": "Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -167,7 +239,16 @@
       "answer_text": "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)",
       "explanation": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.",
       "tip": "Optical Fibre = Total Internal Reflection (TIR); Core refractive index > Cladding refractive index.",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "Continuous optical scattering",
+        "पूर्ण आंतरिक परावर्तन (पूर्ण आंतरिक परावर्तन)",
+        "Optical polarization",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.",
+      "tip_hi": "ऑप्टिकल फाइबर = पूर्ण आंतरिक परावर्तन (TIR); Core refractive index > Cladding refractive index."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -185,7 +266,16 @@
       "answer_text": "Galvanometer (गैल्वेनोमीटर)",
       "explanation": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.",
       "tip": "Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "Ammeter",
+        "Galvanometer (गैल्वेनोमीटर)",
+        "Voltmeter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.",
+      "tip_hi": "Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -203,7 +293,16 @@
       "answer_text": "Butane and Propane",
       "explanation": "Domestic LPG consists primarily of n-butane and isobutane (~60%) along with propane (~40%). A minute quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
       "tip": "LPG = Butane + Propane; Odorant for leak detection = Ethyl Mercaptan.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "मीथेन and Ethane",
+        "ब्यूटेन and प्रोपेन",
+        "Ethylene and Acetylene",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Domestic एलपीजी (द्रवीभूत पेट्रोलियम गैस) consists primarily of n-ब्यूटेन and isobutane (~60%) along with प्रोपेन (~40%). A मिनट quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
+      "tip_hi": "एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन; Odorant for leak detection = Ethyl Mercaptan."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -221,7 +320,16 @@
       "answer_text": "Copper and Tin",
       "explanation": "Bronze is an alloy of Copper (~88-90%) and Tin (~10-12%). Brass is an alloy of Copper and Zinc. Solder is an alloy of Lead and Tin.",
       "tip": "Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn); Solder = Lead + Tin (Pb + Sn).",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "Copper and Zinc",
+        "Copper and Tin",
+        "Lead and Tin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कांस्य (तांबा + टिन) is an alloy of Copper (~88-90%) and Tin (~10-12%). पीतल (तांबा + जस्ता) is an alloy of Copper and Zinc. सोल्डर (सीसा + टिन) is an alloy of Lead and Tin.",
+      "tip_hi": "कांस्य (तांबा + टिन) = Copper + Tin (Cu + Sn); पीतल (तांबा + जस्ता) = Copper + Zinc (Cu + Zn); सोल्डर (सीसा + टिन) = Lead + Tin (Pb + Sn)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -239,7 +347,16 @@
       "answer_text": "Vitamin C (Ascorbic Acid)",
       "explanation": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the liver and adipose tissue.",
       "tip": "Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K.",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "Vitamin A",
+        "Vitamin C (Ascorbic Acid)",
+        "Vitamin D",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the यकृत (लीवर) and adipose tissue.",
+      "tip_hi": "Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -257,7 +374,16 @@
       "answer_text": "37°C / 98.6°F",
       "explanation": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.",
       "tip": "Normal body temperature = 37°C = 98.6°F = 310.15 K.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "35°C / 95.0°F",
+        "37°C / 98.6°F",
+        "39°C / 102.2°F",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.",
+      "tip_hi": "Normal body temperature = 37°C = 98.6°F = 310.15 K."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -275,7 +401,16 @@
       "answer_text": "Candela (cd)",
       "explanation": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.",
       "tip": "Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux.",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "Lumen",
+        "Candela (cd)",
+        "Lux",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.",
+      "tip_hi": "Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -293,7 +428,16 @@
       "answer_text": "Hare Krishna Singh (हरे कृष्ण सिंह)",
       "explanation": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.",
       "tip": "Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh.",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "Nishan Singh",
+        "Hare Krishna Singh (हरे कृष्ण सिंह)",
+        "Amar Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.",
+      "tip_hi": "Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -311,7 +455,16 @@
       "answer_text": "1916 Lucknow Session",
       "explanation": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in December 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.",
       "tip": "1916 Lucknow Session = Raj Kumar Shukla invited Mahatma Gandhi to Champaran.",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "1915 Bombay Session",
+        "1916 Lucknow Session",
+        "1917 Calcutta Session",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in दिसम्बर 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.",
+      "tip_hi": "1916 Lucknow Session = Raj Kumar Shukla invited महात्मा गांधी to Champaran."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -329,7 +482,16 @@
       "answer_text": "Dr. Sri Krishna Singh",
       "explanation": "On 27 November 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the second individual satyagrahi of Bihar.",
       "tip": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = Jawaharlal Nehru. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha.",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh",
+        "Gauri Shankar Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 27 नवम्बर 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the सेकंड individual satyagrahi of Bihar.",
+      "tip_hi": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = जवाहरलाल नेहरू. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -347,7 +509,16 @@
       "answer_text": "3 February 1916",
       "explanation": "Established under Letters Patent issued by King George V, Patna High Court was formally opened by Viceroy Lord Hardinge on 3 February 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
       "tip": "Patna High Court inaugurated = 3 February 1916 (1st Chief Justice: Sir Edward Chamier).",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "22 मार्च 1912",
+        "3 फरवरी 1916",
+        "1 अप्रैल 1916",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established under Letters Patent issued by King George V, Patna उच्च न्यायालय was formally opened by Viceroy Lord Hardinge on 3 फरवरी 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
+      "tip_hi": "Patna उच्च न्यायालय inaugurated = 3 फरवरी 1916 (1st Chief Justice: Sir Edward Chamier)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -365,7 +536,16 @@
       "answer_text": "Fatuha (फतुहा)",
       "explanation": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the Ganga at Fatuha, approximately 25 km downstream of Patna.",
       "tip": "Punpun joins Ganga at Fatuha; Son joins Ganga at Danapur/Maner; Gandak joins at Sonpur.",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "Maner",
+        "Fatuha (फतुहा)",
+        "Barh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the गंगा नदी at Fatuha, approximately 25 किमी downstream of Patna.",
+      "tip_hi": "Punpun joins गंगा नदी at Fatuha; सोन नदी joins गंगा नदी at Danapur/Maner; गंडक नदी joins at Sonpur."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -383,7 +563,16 @@
       "answer_text": "Kishanganj",
       "explanation": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan West Bengal hills, receives the highest annual rainfall in the State (>180 cm to 200 cm).",
       "tip": "Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal.",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "Purnia",
+        "Kishanganj",
+        "पश्चिम Champaran",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan पश्चिम Bengal hills, receives the highest annual rainfall in the State (>180 सेमी to 200 सेमी).",
+      "tip_hi": "Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -401,7 +590,16 @@
       "answer_text": "Aurangabad",
       "explanation": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 cm to 100 cm annual average).",
       "tip": "Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj.",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "Kishanganj",
+        "Aurangabad",
+        "Rohtas",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 सेमी to 100 सेमी annual average).",
+      "tip_hi": "Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -419,7 +617,16 @@
       "answer_text": "1874",
       "explanation": "The Son Canal System was completed in 1874 by constructing an anicut weir across the Son River at Dehri (Rohtas). It bifurcates into the Western Son Canal (irrigating Rohtas, Bhojpur) and Eastern Son Canal (Aurangabad, Gaya, Patna).",
       "tip": "Oldest canal system in Bihar = Son Canal System (1874, Dehri-on-Son).",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "1857",
+        "1874",
+        "1905",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The सोन नदी Canal System was completed in 1874 by constructing an anicut weir across the सोन नदी River at Dehri (Rohtas). It bifurcates into the Western सोन नदी Canal (irrigating Rohtas, Bhojpur) and Eastern सोन नदी Canal (Aurangabad, Gaya, Patna).",
+      "tip_hi": "Oldest canal system in Bihar = सोन नदी Canal System (1874, Dehri-on-सोन नदी)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -437,7 +644,16 @@
       "answer_text": "Deputy Speaker of the Lok Sabha",
       "explanation": "Under Article 94(b) of the Constitution of India, a member holding office as Speaker may at any time resign his office by writing under his hand addressed to the Deputy Speaker.",
       "tip": "Speaker resigns to Deputy Speaker; Deputy Speaker resigns to Speaker; President resigns to Vice-President.",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "Deputy अध्यक्ष (स्पीकर) of the लोकसभा",
+        "प्रधानमंत्री of India",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 94(b) of the Constitution of India, a member holding office as अध्यक्ष (स्पीकर) मई at any time resign his office by writing under his hand addressed to the Deputy अध्यक्ष (स्पीकर).",
+      "tip_hi": "अध्यक्ष (स्पीकर) resigns to Deputy अध्यक्ष (स्पीकर); Deputy अध्यक्ष (स्पीकर) resigns to अध्यक्ष (स्पीकर); राष्ट्रपति resigns to Vice-राष्ट्रपति."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -455,7 +671,16 @@
       "answer_text": "Separate the Judiciary from the Executive in the public services of the State",
       "explanation": "Article 50 obligates the State to take steps to separate the judiciary from the executive in public services. Article 40 deals with village panchayats, and Article 51 deals with international peace.",
       "tip": "Article 50 = Separation of Judiciary from Executive; Article 40 = Panchayats; Article 44 = Uniform Civil Code.",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "Promote international peace and security",
+        "Separate the Judiciary from the Executive in the public services of the State",
+        "Organize village panchayats as units of self-government",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 50 obligates the State to take steps to separate the judiciary from the executive in public services. अनुच्छेद 40 deals with village panchayats, and अनुच्छेद 51 deals with international peace.",
+      "tip_hi": "अनुच्छेद 50 = Separation of Judiciary from Executive; अनुच्छेद 40 = Panchayats; अनुच्छेद 44 = Uniform Civil Code."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -473,7 +698,16 @@
       "answer_text": "Desi Magur (Clarias batrachus)",
       "explanation": "On 10 July 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.",
       "tip": "State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya).",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "Rohu (Labeo rohita)",
+        "Desi Magur (Clarias batrachus)",
+        "Katla (Gibelion catla)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 10 जुलाई 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.",
+      "tip_hi": "State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -491,7 +725,16 @@
       "answer_text": "मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहार",
       "explanation": "The State Song of Bihar 'Mere Bharat Ke Kanthhar, Tujhko Shat-Shat Vandan Bihar' was composed by poet Satya Narayan with music composed by Pt. Hari Prasad Chaurasia and Pt. Shivkumar Sharma.",
       "tip": "State Song of Bihar = 'Mere Bharat Ke Kanthhar' (Lyrics: Satya Narayan; Music: Chaurasia & Sharma).",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "जय जय बिहार, जय जय भारत",
+        "मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहार",
+        "हमर प्यारा बिहार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The State Song of Bihar 'Mere Bharat Ke Kanthhar, Tujhko Shat-Shat Vandan Bihar' was composed by poet Satya Narayan with music composed by Pt. Hari Prasad Chaurasia and Pt. Shivkumar Sharma.",
+      "tip_hi": "State Song of Bihar = 'Mere Bharat Ke Kanthhar' (Lyrics: Satya Narayan; Music: Chaurasia & Sharma)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -509,7 +752,16 @@
       "answer_text": "3,167 tigers",
       "explanation": "Prime Minister Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 years of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
       "tip": "5th Tiger Census (April 2023) = 3,167 tigers (up from 2,967 in 2018).",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "2,967 tigers",
+        "3,167 tigers",
+        "3,682 tigers",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 वर्ष of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
+      "tip_hi": "5th Tiger जनगणना (अप्रैल 2023) = 3,167 tigers (up from 2,967 in 2018)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -527,7 +779,16 @@
       "answer_text": "16 days",
       "explanation": "M1 * D1 * H1 = M2 * D2 * H2 => 12 * 24 * 8 = 16 * D2 * 9 => 2304 = 144 * D2 => D2 = 2304 / 144 = 16 days.",
       "tip": "D2 = (12 * 24 * 8) / (16 * 9) = 16 days.",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "14 दिन",
+        "16 दिन",
+        "18 दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "M1 * D1 * H1 = M2 * D2 * H2 => 12 * 24 * 8 = 16 * D2 * 9 => 2304 = 144 * D2 => D2 = 2304 / 144 = 16 दिन.",
+      "tip_hi": "D2 = (12 * 24 * 8) / (16 * 9) = 16 दिन."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -545,7 +806,16 @@
       "answer_text": "Ozone (O3)",
       "explanation": "The ozone layer in the stratosphere (15 to 35 km altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.",
       "tip": "UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU).",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "Nitrogen dioxide",
+        "Ozone (O3)",
+        "Carbon dioxide",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The ozone layer in the stratosphere (15 to 35 किमी altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.",
+      "tip_hi": "UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -563,7 +833,16 @@
       "answer_text": "Gaur / Ox (बैल)",
       "explanation": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).",
       "tip": "Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda).",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "Royal Bengal Tiger",
+        "Gaur / Ox (बैल)",
+        "One-horned Rhino",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).",
+      "tip_hi": "Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -581,7 +860,16 @@
       "answer_text": "House Sparrow (गौरैया)",
       "explanation": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.",
       "tip": "State Bird of Bihar = House Sparrow (गौरैया); 20 March = World Sparrow Day.",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "Indian Roller (Neelkanth)",
+        "House Sparrow (गौरैया)",
+        "Great Indian Bustard",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.",
+      "tip_hi": "State Bird of Bihar = House Sparrow (गौरैया); 20 मार्च = World Sparrow दिन."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -599,7 +887,16 @@
       "answer_text": "Peepal Tree (Ficus religiosa)",
       "explanation": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).",
       "tip": "State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa).",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "Banyan Tree (वट वृक्ष)",
+        "Peepal Tree (Ficus religiosa)",
+        "Sal Tree",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).",
+      "tip_hi": "State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -617,7 +914,16 @@
       "answer_text": "Marigold (गेंदा)",
       "explanation": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.",
       "tip": "State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus.",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "Lotus (कमल)",
+        "Marigold (गेंदा)",
+        "Palash (पलाश)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.",
+      "tip_hi": "State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -635,7 +941,16 @@
       "answer_text": "Bhagalpur (Antichak)",
       "explanation": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.",
       "tip": "Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I).",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "Nalanda",
+        "Bhagalpur (Antichak)",
+        "Banka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.",
+      "tip_hi": "Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I)."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -653,7 +968,16 @@
       "answer_text": "Kumaragupta I (Mahendraditya)",
       "explanation": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.",
       "tip": "Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang during reign of Harshavardhana.",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "Chandragupta II (Vikramaditya)",
+        "Kumaragupta I (Mahendraditya)",
+        "Samudragupta",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.",
+      "tip_hi": "Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang के दौरान reign of Harshavardhana."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -671,7 +995,16 @@
       "answer_text": "President of India",
       "explanation": "Article 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.",
       "tip": "Supreme Commander of Armed Forces = President of India (Article 53(2)).",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "प्रधानमंत्री of India",
+        "राष्ट्रपति of India",
+        "Chief of Defence Staff (CDS)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the राष्ट्रपति and the exercise thereof shall be regulated by law.",
+      "tip_hi": "Supreme Commander of Armed Forces = राष्ट्रपति of India (अनुच्छेद 53(2))."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -689,7 +1022,16 @@
       "answer_text": "Article 72",
       "explanation": "Article 72 grants pardoning powers to the President for offences against Union laws, court-martial sentences, and all death sentences. The Governor has corresponding pardoning powers under Article 161 (except court martial and death sentence pardon).",
       "tip": "Pardoning Power: President = Article 72; Governor = Article 161.",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "अनुच्छेद 61",
+        "अनुच्छेद 72",
+        "अनुच्छेद 161",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 72 grants pardoning powers to the राष्ट्रपति for offences against Union laws, court-martial sentences, and all death sentences. The राज्यपाल has corresponding pardoning powers under अनुच्छेद 161 (except court martial and death sentence pardon).",
+      "tip_hi": "Pardoning Power: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -707,7 +1049,16 @@
       "answer_text": "243 seats",
       "explanation": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).",
       "tip": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; Lok Sabha = 40 seats; Rajya Sabha = 16 seats.",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "240 seats",
+        "243 seats",
+        "250 seats",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).",
+      "tip_hi": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; लोकसभा = 40 seats; राज्यसभा = 16 seats."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -725,7 +1076,16 @@
       "answer_text": "40 seats",
       "explanation": "Bihar has 40 seats in the Lok Sabha (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the Rajya Sabha.",
       "tip": "Parliamentary representation of Bihar: Lok Sabha = 40 seats; Rajya Sabha = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "id": 40
+      "id": 40,
+      "options_hi": [
+        "36 seats",
+        "40 seats",
+        "44 seats",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bihar has 40 seats in the लोकसभा (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the राज्यसभा.",
+      "tip_hi": "Parliamentary representation of Bihar: लोकसभा = 40 seats; राज्यसभा = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
     }
   ]
 }

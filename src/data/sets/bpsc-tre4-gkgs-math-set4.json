@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-gkgs-math-set4",
+  "title": "Elementary Mathematics Set 4 (25Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Elementary Mathematics",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A trader buys 25 articles for ₹20 and sells 20 articles for ₹25. What is the profit percentage?",
+      "hi": "एक व्यापारी 25 वस्तुएं ₹20 में खरीदता है और 20 वस्तुएं ₹25 में बेचता है। उसका लाभ प्रतिशत क्या है?",
+      "options": [
+        "50%",
+        "56.25%",
+        "60%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "56.25%",
+      "explanation": "Cost price of 1 article = 20/25 = ₹0.80. Selling price of 1 article = 25/20 = ₹1.25. Profit per article = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
+      "tip": "Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%.",
+      "id": 1,
+      "options_hi": [
+        "50%",
+        "56.25%",
+        "60%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Cost price of 1 अनुच्छेद = 20/25 = ₹0.80. Selling price of 1 अनुच्छेद = 25/20 = ₹1.25. Profit per अनुच्छेद = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
+      "tip_hi": "Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The difference between compound interest and simple interest on a sum of money for 2 years at 10% per annum is ₹65. What is the principal sum?",
+      "hi": "किसी धनराशि पर 10% वार्षिक दर से 2 वर्ष के चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ₹65 है। वह धनराशि क्या है?",
+      "options": [
+        "₹6,000",
+        "₹6,500",
+        "₹7,000",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹6,500",
+      "explanation": "For 2 years, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.",
+      "tip": "Standard 2-year difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500.",
+      "id": 2,
+      "options_hi": [
+        "₹6,000",
+        "₹6,500",
+        "₹7,000",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "For 2 वर्ष, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.",
+      "tip_hi": "Standard 2-वर्ष difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Two numbers are in the ratio 3 : 4 and their Least Common Multiple (LCM) is 180. The smaller of the two numbers is(",
+      "hi": "दो संख्याएं 3 : 4 के अनुपात में हैं और उनका लघुत्तम समापवर्त्य (LCM) 180 है। उनमें छोटी संख्या है)",
+      "options": [
+        "45",
+        "60",
+        "36",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "45",
+      "explanation": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.",
+      "tip": "Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45.",
+      "id": 3,
+      "options_hi": [
+        "45",
+        "60",
+        "36",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.",
+      "tip_hi": "Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The average of five consecutive odd numbers is 61. What is the difference between the highest and lowest numbers?",
+      "hi": "पाँच क्रमागत विषम संख्याओं का औसत 61 है। उच्चतम और निम्नतम संख्याओं के बीच का अंतर क्या है?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8",
+      "explanation": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.",
+      "tip": "For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8.",
+      "id": 4,
+      "options_hi": [
+        "8",
+        "10",
+        "12",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.",
+      "tip_hi": "For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Sound waves cannot propagate through which of the following media?",
+      "hi": "ध्वनि तरंगें निम्नलिखित में से किस माध्यम में संचरण नहीं कर सकती हैं?",
+      "options": [
+        "Solids",
+        "Liquids",
+        "Vacuum",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Vacuum",
+      "explanation": "Sound waves are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through vacuum, whereas electromagnetic waves (light) can.",
+      "tip": "Speed of sound: Solids > Liquids > Gases > Vacuum (zero).",
+      "id": 5,
+      "options_hi": [
+        "ठोस",
+        "द्रव",
+        "निर्वात",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ध्वनि तरंगें are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through निर्वात, जबकि electromagnetic waves (light) can.",
+      "tip_hi": "Speed of sound: ठोस > द्रव > गैस > निर्वात (zero)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A train 240 metres long crosses a platform of length 260 metres in 25 seconds. What is the speed of the train in km/h?",
+      "hi": "240 मीटर लंबी एक रेलगाड़ी 260 मीटर लंबे प्लेटफॉर्म को 25 सेकंड में पार करती है। रेलगाड़ी की गति किमी/घंटा में क्या है?",
+      "options": [
+        "64 km/h",
+        "72 km/h",
+        "80 km/h",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "72 km/h",
+      "explanation": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 seconds. Speed = 500 / 25 = 20 m/s. Converting to km/h = 20 * (18/5) = 72 km/h.",
+      "tip": "Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 km/h.",
+      "id": 6,
+      "options_hi": [
+        "64 किमी/h",
+        "72 किमी/h",
+        "80 किमी/h",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 सेकंड. Speed = 500 / 25 = 20 m/s. Converting to किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "tip_hi": "Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 किमी/h."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "If a sum of money doubles itself in 5 years at simple interest, in how many years will it become 4 times of itself at the same rate?",
+      "hi": "यदि कोई धनराशि साधारण ब्याज पर 5 वर्ष में दोगुनी हो जाती है, तो उसी दर पर वह कितने वर्षों में 4 गुनी हो जाएगी?",
+      "options": [
+        "10 years",
+        "15 years",
+        "20 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "15 years",
+      "explanation": "Let principal = P. Doubling means SI = P in 5 years. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 years.",
+      "tip": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 years.",
+      "id": 7,
+      "options_hi": [
+        "10 वर्ष",
+        "15 वर्ष",
+        "20 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let principal = P. Doubling means SI = P in 5 वर्ष. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 वर्ष.",
+      "tip_hi": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A can do a piece of work in 12 days and B can do it in 18 days. If they work together for 4 days, what fraction of work remains to be finished?",
+      "hi": "A किसी कार्य को 12 दिनों में और B उसे 18 दिनों में कर सकता है। यदि वे 4 दिनों तक एक साथ कार्य करते हैं, तो कार्य का कितना भाग शेष रह जाएगा?",
+      "options": [
+        "4/9",
+        "5/9",
+        "1/3",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "4/9",
+      "explanation": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/day, B's efficiency = 2 units/day. Together in 4 days = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.",
+      "tip": "1-day combined work = 1/12 + 1/18 = 5/36. In 4 days = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9.",
+      "id": 8,
+      "options_hi": [
+        "4/9",
+        "5/9",
+        "1/3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/दिन, B's efficiency = 2 units/दिन. Together in 4 दिन = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.",
+      "tip_hi": "1-दिन combined work = 1/12 + 1/18 = 5/36. In 4 दिन = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The perimeter of a rectangular field is 80 metres and its length is 8 metres more than its breadth. What is the area of the field?",
+      "hi": "एक आयताकार मैदान का परिमाप 80 मीटर है और उसकी लंबाई उसकी चौड़ाई से 8 मीटर अधिक है। मैदान का क्षेत्रफल क्या है?",
+      "options": [
+        "364 sq metres",
+        "384 sq metres",
+        "400 sq metres",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "384 sq metres",
+      "explanation": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.",
+      "tip": "L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m.",
+      "id": 9,
+      "options_hi": [
+        "364 sq metres",
+        "384 sq metres",
+        "400 sq metres",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.",
+      "tip_hi": "L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "The twinkling of stars in the night sky is an optical manifestation of",
+      "hi": "रात्रि के समय तारों का टिमटिमाना किस प्रकाशिक घटना का परिणाम है?",
+      "options": [
+        "Total Internal Reflection of starlight",
+        "Atmospheric Refraction of starlight through air layers of varying optical density",
+        "Periodic Dispersion of starlight by cloud moisture",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Atmospheric Refraction of starlight through air layers of varying optical density",
+      "explanation": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.",
+      "tip": "Star twinkling = Atmospheric Refraction; Advanced sunrise & delayed sunset = Atmospheric Refraction.",
+      "id": 10,
+      "options_hi": [
+        "पूर्ण आंतरिक परावर्तन of starlight",
+        "Atmospheric अपवर्तन of starlight through air layers of varying optical density",
+        "Periodic वर्ण विक्षेपण of starlight by cloud moisture",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.",
+      "tip_hi": "Star twinkling = Atmospheric अपवर्तन; Advanced sunrise & delayed sunset = Atmospheric अपवर्तन."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "What is the pH value of pure water at 25°C?",
+      "hi": "25°C पर शुद्ध जल का pH मान क्या होता है?",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7",
+      "explanation": "Pure neutral water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are acidic, and pH > 7 are alkaline.",
+      "tip": "Neutral pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6.",
+      "id": 11,
+      "options_hi": [
+        "0",
+        "7",
+        "14",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pure उदासीन water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are अम्लीय, and pH > 7 are alkaline.",
+      "tip_hi": "उदासीन pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "According to Lindeman's 10% Ecological Law, how much energy is transferred from one trophic level to the next higher trophic level?",
+      "hi": "लिंडमैन के 10% पारिस्थितिक नियम के अनुसार, एक पोषी स्तर से अगले उच्च पोषी स्तर तक कितनी ऊर्जा स्थानांतरित होती है?",
+      "options": [
+        "1%",
+        "10%",
+        "50%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10%",
+      "explanation": "Formulated by Raymond Lindeman in 1942, during energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and respiration, leaving only ~10% stored as flesh for the next trophic level.",
+      "tip": "Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links.",
+      "id": 12,
+      "options_hi": [
+        "1%",
+        "10%",
+        "50%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Formulated by Raymond Lindeman in 1942, के दौरान energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and श्वसन, leaving only ~10% stored as flesh for the next trophic level.",
+      "tip_hi": "Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which emergency evacuation mission was executed by the Government of India in 2022 to evacuate Indian citizens stranded during the conflict in Ukraine?",
+      "hi": "2022 में यूक्रेन युद्ध के दौरान फंसे भारतीय नागरिकों को सुरक्षित निकालने के लिए भारत सरकार द्वारा कौन-सा राहत अभियान चलाया गया था?",
+      "options": [
+        "Operation Devi Shakti",
+        "Operation Ganga",
+        "Operation Kaveri",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Operation Ganga",
+      "explanation": "Operation Ganga was launched in late February 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
+      "tip": "Operation Ganga = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023).",
+      "id": 13,
+      "options_hi": [
+        "Operation Devi Shakti",
+        "Operation गंगा नदी",
+        "Operation Kaveri",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Operation गंगा नदी was launched in late फरवरी 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
+      "tip_hi": "Operation गंगा नदी = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "A car travels at a speed of 54 km/h. How many metres does it travel in 20 seconds?",
+      "hi": "एक कार 54 किमी/घंटा की गति से चल रही है। वह 20 सेकंड में कितने मीटर की दूरी तय करेगी?",
+      "options": [
+        "250 metres",
+        "300 metres",
+        "350 metres",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "300 metres",
+      "explanation": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.",
+      "tip": "Multiply km/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m.",
+      "id": 14,
+      "options_hi": [
+        "250 metres",
+        "300 metres",
+        "350 metres",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.",
+      "tip_hi": "Multiply किमी/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "If the radius of a circle is decreased by 50%, by what percentage does its area decrease?",
+      "hi": "यदि किसी वृत्त की त्रिज्या 50% घटा दी जाए, तो उसके क्षेत्रफल में कितने प्रतिशत की कमी होगी?",
+      "options": [
+        "50%",
+        "75%",
+        "100%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "75%",
+      "explanation": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. Percentage reduction = (1 - 0.25) * 100 = 75%.",
+      "tip": "Successive percentage formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%.",
+      "id": 15,
+      "options_hi": [
+        "50%",
+        "75%",
+        "100%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. प्रतिशत reduction = (1 - 0.25) * 100 = 75%.",
+      "tip_hi": "Successive प्रतिशत formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "In an election between two candidates, the winner received 58% of the total valid votes and won by a majority of 1,600 votes. What was the total number of valid votes polled?",
+      "hi": "दो उम्मीदवारों के बीच एक चुनाव में, विजेता को कुल वैध मतों का 58% प्राप्त हुआ और वह 1,600 मतों के बहुमत से जीता। कुल वैध मतों की संख्या क्या थी?",
+      "options": [
+        "8,000",
+        "10,000",
+        "12,000",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10,000",
+      "explanation": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.",
+      "tip": "Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes.",
+      "id": 16,
+      "options_hi": [
+        "8,000",
+        "10,000",
+        "12,000",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.",
+      "tip_hi": "Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "If x + 1/x = 4, then what is the value of x^2 + 1/x^2?",
+      "hi": "यदि x + 1/x = 4 है, तो x^2 + 1/x^2 का मान क्या होगा?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "14",
+      "explanation": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.",
+      "tip": "Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14.",
+      "id": 17,
+      "options_hi": [
+        "14",
+        "16",
+        "18",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.",
+      "tip_hi": "Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Two pipes A and B can fill a cistern in 20 minutes and 30 minutes respectively. If both pipes are opened simultaneously, in how much time will the cistern be completely filled?",
+      "hi": "दो नल A और B किसी टंकी को क्रमशः 20 मिनट और 30 मिनट में भर सकते हैं। यदि दोनों नलों को एक साथ खोल दिया जाए, तो टंकी कितने समय में पूरी भर जाएगी?",
+      "options": [
+        "10 minutes",
+        "12 minutes",
+        "15 minutes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "12 minutes",
+      "explanation": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per minute. Time required = 12 minutes.",
+      "tip": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 minutes.",
+      "id": 18,
+      "options_hi": [
+        "10 मिनट",
+        "12 मिनट",
+        "15 मिनट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per मिनट. Time required = 12 मिनट.",
+      "tip_hi": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "At constant temperature, the volume of a given mass of dry gas is inversely proportional to its pressure. This fundamental gas law is known as",
+      "hi": "नियत तापमान पर, किसी गैस के निश्चित द्रव्यमान का आयतन उसके दाब के व्युत्क्रमानुपाती होता है। यह नियम कहलाता है",
+      "options": [
+        "Charles's Law",
+        "Boyle's Law",
+        "Gay-Lussac's Law",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Boyle's Law",
+      "explanation": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.",
+      "tip": "Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T).",
+      "id": 19,
+      "options_hi": [
+        "Charles's Law",
+        "Boyle's Law",
+        "Gay-Lussac's Law",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.",
+      "tip_hi": "Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The historic peasant agitation known as the 'Bakhasht Movement' was organized in the Barahiya Tal area of Munger under the leadership of",
+      "hi": "मुंगेर के बड़हिया टाल क्षेत्र में ऐतिहासिक 'बकाश्त आंदोलन' का नेतृत्व किसने किया था?",
+      "options": [
+        "Swami Sahajanand Saraswati",
+        "Karyanand Sharma",
+        "Yadunandan Sharma",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Karyanand Sharma",
+      "explanation": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement during 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.",
+      "tip": "Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma.",
+      "id": 20,
+      "options_hi": [
+        "स्वामी सहजानंद सरस्वती",
+        "Karyanand Sharma",
+        "Yadunandan Sharma",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement के दौरान 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.",
+      "tip_hi": "Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "If a train runs at 40 km/h, it reaches its destination late by 11 minutes, but if it runs at 50 km/h, it is late by only 5 minutes. The correct journey distance is",
+      "hi": "यदि एक रेलगाड़ी 40 किमी/घंटा की गति से चले तो 11 मिनट की देरी से पहुँचती है, परन्तु यदि 50 किमी/घंटा की गति से चले तो केवल 5 मिनट की देरी होती है। यात्रा की सही दूरी क्या है?",
+      "options": [
+        "18 km",
+        "20 km",
+        "22 km",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "20 km",
+      "explanation": "Time difference = 11 - 5 = 6 minutes = 6/60 hour = 1/10 hour. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 km.",
+      "tip": "Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 km.",
+      "id": 21,
+      "options_hi": [
+        "18 किमी",
+        "20 किमी",
+        "22 किमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Time difference = 11 - 5 = 6 मिनट = 6/60 घंटे = 1/10 घंटे. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 किमी.",
+      "tip_hi": "Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The ratio of ages of father and son at present is 7 : 2. After 10 years, the ratio of their ages will be 9 : 4. What is the present age of the father?",
+      "hi": "वर्तमान में पिता और पुत्र की आयु का अनुपात 7 : 2 है। 10 वर्ष बाद उनकी आयु का अनुपात 9 : 4 होगा। पिता की वर्तमान आयु क्या है?",
+      "options": [
+        "35 years",
+        "40 years",
+        "45 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "35 years",
+      "explanation": "Let present ages be 7x and 2x. In 10 years: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 years.",
+      "tip": "Ratio units: (9-7)=2 units in 10 years => 1 unit = 5 years. Father = 7 units = 35 years.",
+      "id": 22,
+      "options_hi": [
+        "35 वर्ष",
+        "40 वर्ष",
+        "45 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let present ages be 7x and 2x. In 10 वर्ष: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 वर्ष.",
+      "tip_hi": "Ratio units: (9-7)=2 units in 10 वर्ष => 1 unit = 5 वर्ष. Father = 7 units = 35 वर्ष."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "In a mixture of 60 litres, the ratio of milk and water is 2 : 1. How much water must be added to make the ratio of milk to water 1 : 2?",
+      "hi": "60 लीटर के मिश्रण में दूध और पानी का अनुपात 2 : 1 है। इस अनुपात को 1 : 2 करने के लिए इसमें कितना पानी मिलाना होगा?",
+      "options": [
+        "40 litres",
+        "50 litres",
+        "60 litres",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "60 litres",
+      "explanation": "In 60 litres: Milk = 40 L, Water = 20 L. Let 'x' litres of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 litres.",
+      "tip": "Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L.",
+      "id": 23,
+      "options_hi": [
+        "40 लीटर",
+        "50 लीटर",
+        "60 लीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 60 लीटर: Milk = 40 L, Water = 20 L. Let 'x' लीटर of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर.",
+      "tip_hi": "Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who founded the 'All India Depressed Classes League' in 1935 and served as a veteran freedom fighter and Deputy Prime Minister of India?",
+      "hi": "1935 में 'ऑल इंडिया डिप्रेस्ड क्लासेज लीग' की स्थापना किसने की थी जो वरिष्ठ स्वतंत्रता सेनानी और भारत के उप-प्रधानमंत्री भी रहे?",
+      "options": [
+        "Dr. B. R. Ambedkar",
+        "Babu Jagjivan Ram",
+        "Mahatma Jyotirao Phule",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Babu Jagjivan Ram",
+      "explanation": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.",
+      "tip": "All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar.",
+      "id": 24,
+      "options_hi": [
+        "Dr. B. R. Ambedkar",
+        "Babu Jagjivan Ram",
+        "Mahatma Jyotirao Phule",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.",
+      "tip_hi": "All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "A sum of money invested at simple interest triples itself in 8 years. In how many years will it become 9 times of itself at the same annual rate of interest?",
+      "hi": "कोई धनराशि साधारण ब्याज पर 8 वर्षों में तीन गुनी हो जाती है। समान वार्षिक ब्याज दर पर वह कितने वर्षों में 9 गुनी हो जाएगी?",
+      "options": [
+        "24 years",
+        "32 years",
+        "40 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "32 years",
+      "explanation": "For tripling, SI = 2P in 8 years, so interest rate = 2P/(P * 8) = 25%. For becoming 9 times, SI = 8P. Time = 8P / (P * 0.25) = 32 years.",
+      "tip": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 years.",
+      "id": 25,
+      "options_hi": [
+        "24 वर्ष",
+        "32 वर्ष",
+        "40 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "For tripling, SI = 2P in 8 वर्ष, so interest rate = 2P/(P * 8) = 25%. For becoming 9 times, SI = 8P. Time = 8P / (P * 0.25) = 32 वर्ष.",
+      "tip_hi": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष."
+    }
+  ]
+}

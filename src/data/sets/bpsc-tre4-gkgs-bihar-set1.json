@@ -1,0 +1,551 @@
+{
+  "id": "bpsc-tre4-gkgs-bihar-set1",
+  "title": "Bihar Special & Current Affairs Set 1 (20Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Bihar Special & Current Affairs",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 20,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
+      "en": "Who was the militant peasant leader of Bihar?",
+      "hi": "बिहार के जुझारू किसान नेता कौन थे?",
+      "options": [
+        "Raj Kumar Shukla",
+        "Swami Sahajanand Saraswati",
+        "Rajendra Prasad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swami Sahajanand Saraswati",
+      "explanation": "Swami Sahajanand Saraswati founded the Bihar Provincial Kisan Sabha (1929) and led militant agrarian agitations across Bihar with the slogan 'Dharm Yuddh'.",
+      "tip": "Swami Sahajanand's ashram was at Bihta (Patna); his famous mouthpiece was 'Hunkar'.",
+      "id": 1,
+      "options_hi": [
+        "Raj Kumar Shukla",
+        "स्वामी सहजानंद सरस्वती",
+        "Rajendra Prasad",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "स्वामी सहजानंद सरस्वती founded the Bihar Provincial Kisan Sabha (1929) and led militant agrarian agitations across Bihar with the slogan 'Dharm Yuddh'.",
+      "tip_hi": "Swami Sahajanand's ashram was at Bihta (Patna); his famous mouthpiece was 'Hunkar'."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "On 11 August 1942, how many student martyrs were killed in police firing while attempting to hoist the national flag at the Patna Secretariat?",
+      "hi": "11 अगस्त 1942 को पटना सचिवालय पर तिरंगा फहराने के प्रयास में पुलिस गोलीबारी में कितने छात्र शहीद हुए थे?",
+      "options": [
+        "5 martyrs",
+        "7 martyrs (सात शहीद)",
+        "9 martyrs",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7 martyrs (सात शहीद)",
+      "explanation": "Seven young students (Devipat Choudhary, Umakant Prasad Sinha, Ramanand Singh, Satish Prasad Jha, Jagpati Kumar, Rajendra Singh, and Ramgovind Singh) were martyred when District Magistrate W. G. Archer ordered Gurkha military police to fire on them.",
+      "tip": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 August 1942 (DM W.G. Archer).",
+      "id": 2,
+      "options_hi": [
+        "5 martyrs",
+        "7 martyrs (सात शहीद)",
+        "9 martyrs",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Seven young students (Devipat Choudhary, Umakant Prasad Sinha, Ramanand Singh, Satish Prasad Jha, Jagpati Kumar, Rajendra Singh, and Ramgovind Singh) were martyred when District Magistrate W. G. Archer ordered Gurkha military police to fire on them.",
+      "tip_hi": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 अगस्त 1942 (DM W.G. Archer)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "According to the Census of 2011, which district of Bihar recorded the lowest female literacy rate in the State?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले में महिला साक्षरता दर सबसे कम दर्ज की गई?",
+      "options": [
+        "Purnia",
+        "Saharsa",
+        "Madhepura",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Saharsa",
+      "explanation": "Saharsa recorded the lowest female literacy rate in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
+      "tip": "Important Census Trap: Lowest overall literacy = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%).",
+      "id": 3,
+      "options_hi": [
+        "Purnia",
+        "Saharsa",
+        "Madhepura",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Saharsa recorded the lowest female साक्षरता दर in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
+      "tip_hi": "Important जनगणना Trap: Lowest overall literacy = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under the 'Mukhya Mantri Kanya Utthan Yojana' of the Government of Bihar, financial assistance is provided to girls from birth up to which educational level?",
+      "hi": "बिहार सरकार की 'मुख्यमंत्री कन्या उत्थान योजना' के तहत बालिकाओं को उनके जन्म से लेकर किस स्तर की शिक्षा पूरी करने तक वित्तीय सहायता प्रदान की जाती है?",
+      "options": [
+        "Matriculation (Class 10)",
+        "Graduation (स्नातक)",
+        "Post-Graduation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Graduation (स्नातक)",
+      "explanation": "The scheme provides staggered cash incentives amounting to up to ₹54,100 from the birth of a girl child through intermediate and graduation (₹50,000 for unmarried graduate girls) to promote higher education and curb child marriage.",
+      "tip": "Mukhya Mantri Kanya Utthan Yojana = Birth up to Graduation (₹50,000 for female graduates).",
+      "id": 4,
+      "options_hi": [
+        "Matriculation (Class 10)",
+        "Graduation (स्नातक)",
+        "Post-Graduation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The scheme provides staggered cash incentives amounting to up to ₹54,100 from the birth of a girl child through intermediate and graduation (₹50,000 for unmarried graduate girls) to promote higher education and curb child marriage.",
+      "tip_hi": "Mukhya Mantri Kanya Utthan Yojana = Birth up to Graduation (₹50,000 for female graduates)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which district of Bihar is the historical 'Shershah Suri's Tomb' (शेरशाह का मकबरा) situated, built in the middle of an artificial lake?",
+      "hi": "एक कृत्रिम झील के बीच निर्मित ऐतिहासिक 'शेरशाह सूरी का मकबरा' बिहार के किस जिले में स्थित है?",
+      "options": [
+        "Gaya",
+        "Rohtas (Sasaram)",
+        "Aurangabad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rohtas (Sasaram)",
+      "explanation": "Built in red sandstone between 1540 and 1545 by architect Mir Muhammad Aliwal Khan, Sher Shah Suri's tomb stands on an octagonal stone plinth in an artificial lake at Sasaram in Rohtas district.",
+      "tip": "Tomb of Sher Shah Suri = Sasaram (Rohtas district); Architect = Aliwal Khan.",
+      "id": 5,
+      "options_hi": [
+        "Gaya",
+        "Rohtas (Sasaram)",
+        "Aurangabad",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Built in red sandstone between 1540 and 1545 by architect Mir Muhammad Aliwal Khan, Sher Shah Suri's tomb stands on an octagonal stone plinth in an artificial lake at Sasaram in Rohtas district.",
+      "tip_hi": "Tomb of Sher Shah Suri = Sasaram (Rohtas district); Architect = Aliwal Khan."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which Indian space scientist served as the Chairman of the Drafting Committee for the National Education Policy (NEP) 2020?(",
+      "hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 की प्रारूप समिति के अध्यक्ष के रूप में किस भारतीय अंतरिक्ष वैज्ञानिक ने कार्य किया था?)",
+      "options": [
+        "Dr. K. Sivan",
+        "Dr. K. Kasturirangan",
+        "Prof. Yash Pal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. K. Kasturirangan",
+      "explanation": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of Planning Commission) chaired the 9-member committee that submitted the Draft National Education Policy in May 2019, which formed the basis of NEP 2020.",
+      "tip": "NEP 2020 Drafting Committee Chairman = Dr. K. Kasturirangan.\nAnswer Key Summary Table — Set 11 (Questions 401 to 440)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 6,
+      "options_hi": [
+        "Dr. K. Sivan",
+        "Dr. K. Kasturirangan",
+        "Prof. Yash Pal",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of योजना आयोग) chaired the 9-member committee that submitted the Draft National Education Policy in मई 2019, which formed the basis of NEP 2020.",
+      "tip_hi": "NEP 2020 Drafting Committee Chairman = Dr. K. Kasturirangan.\nAnswer Key Summary Table — Set 11 (Questions 401 to 440)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which district in Bihar is situated in the rain-shadow belt of the South Bihar plains and consistently records the lowest average annual rainfall?",
+      "hi": "दक्षिण बिहार के वृष्टि-छाया क्षेत्र में स्थित कौन-सा जिला राज्य में सबसे कम औसत वार्षिक वर्षा दर्ज करता है?",
+      "options": [
+        "Kishanganj",
+        "Aurangabad",
+        "Rohtas",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Aurangabad",
+      "explanation": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 cm to 100 cm annual average).",
+      "tip": "Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj.",
+      "id": 7,
+      "options_hi": [
+        "Kishanganj",
+        "Aurangabad",
+        "Rohtas",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 सेमी to 100 सेमी annual average).",
+      "tip_hi": "Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "According to the All India Tiger Estimation 2022 (5th cycle released in April 2023), what was the minimum tiger count recorded in India?(",
+      "hi": "अखिल भारतीय बाघ अनुमान 2022 (अप्रैल 2023 में जारी 5वां चक्र) के अनुसार, भारत में बाघों की न्यूनतम दर्ज संख्या क्या थी?)",
+      "options": [
+        "2,967 tigers",
+        "3,167 tigers",
+        "3,682 tigers",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3,167 tigers",
+      "explanation": "Prime Minister Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 years of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
+      "tip": "5th Tiger Census (April 2023) = 3,167 tigers (up from 2,967 in 2018).",
+      "id": 8,
+      "options_hi": [
+        "2,967 tigers",
+        "3,167 tigers",
+        "3,682 tigers",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 वर्ष of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
+      "tip_hi": "5th Tiger जनगणना (अप्रैल 2023) = 3,167 tigers (up from 2,967 in 2018)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the official State Flower (राजकीय पुष्प) of Bihar?",
+      "hi": "बिहार का राजकीय पुष्प कौन-सा है?",
+      "options": [
+        "Lotus (कमल)",
+        "Marigold (गेंदा)",
+        "Palash (पलाश)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Marigold (गेंदा)",
+      "explanation": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.",
+      "tip": "State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus.",
+      "id": 9,
+      "options_hi": [
+        "Lotus (कमल)",
+        "Marigold (गेंदा)",
+        "Palash (पलाश)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.",
+      "tip_hi": "State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was the founder-king of the ancient 'Nalanda Mahavihara' in the 5th century CE during the golden age of the Gupta Empire?",
+      "hi": "गुप्त साम्राज्य के स्वर्ण युग के दौरान 5वीं शताब्दी ईस्वी में प्राचीन 'नालंदा महाविहार' के संस्थापक राजा कौन थे?",
+      "options": [
+        "Chandragupta II (Vikramaditya)",
+        "Kumaragupta I (Mahendraditya)",
+        "Samudragupta",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kumaragupta I (Mahendraditya)",
+      "explanation": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.",
+      "tip": "Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang during reign of Harshavardhana.",
+      "id": 10,
+      "options_hi": [
+        "Chandragupta II (Vikramaditya)",
+        "Kumaragupta I (Mahendraditya)",
+        "Samudragupta",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.",
+      "tip_hi": "Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang के दौरान reign of Harshavardhana."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What is the name of the prestigious educational residential school established in 1954 in Netarhat (undivided Bihar) by the Government of Bihar?(",
+      "hi": "बिहार सरकार द्वारा 1954 में नेतरहाट (अविभाजित बिहार) में स्थापित प्रतिष्ठित आवासीय विद्यालय का क्या नाम है?)",
+      "options": [
+        "Sainik School Tilaiya",
+        "Netarhat Vidyalaya (नेतरहाट विद्यालय)",
+        "Navodaya Vidyalaya",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Netarhat Vidyalaya (नेतरहाट विद्यालय)",
+      "explanation": "Established on 15 November 1954 under the vision of Chief Minister Dr. Sri Krishna Singh and principal Charles Napier, Netarhat Vidyalaya was conceived on Gurukul lines and produced outstanding civil servants, scientists, and academics.",
+      "tip": "Netarhat Vidyalaya established in 1954 by Bihar Government (Founder Principal: Charles Napier).",
+      "id": 11,
+      "options_hi": [
+        "Sainik School Tilaiya",
+        "Netarhat Vidyalaya (नेतरहाट विद्यालय)",
+        "Navodaya Vidyalaya",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established on 15 नवम्बर 1954 under the vision of मुख्यमंत्री Dr. Sri Krishna Singh and principal Charles Napier, Netarhat Vidyalaya was conceived on Gurukul lines and produced outstanding civil servants, scientists, and academics.",
+      "tip_hi": "Netarhat Vidyalaya established in 1954 by Bihar Government (Founder Principal: Charles Napier)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "What was the capital of the ancient Licchavi Republic, considered the world's earliest republic, located in modern Bihar?",
+      "hi": "आधुनिक बिहार में स्थित विश्व का पहला गणतंत्र माने जाने वाले प्राचीन लिच्छवि गणराज्य की राजधानी क्या थी?",
+      "options": [
+        "Champa",
+        "Vaishali (वैशाली)",
+        "Mithila",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vaishali (वैशाली)",
+      "explanation": "Vaishali was the capital of the Licchavis and the Vajji confederacy, governed by an elected assembly of 7,707 rajas in the Santhagara. It is recognized by historians as the world's first democratic republic.",
+      "tip": "World's earliest republic = Vaishali (Licchavis / Vajji confederacy).\nAnswer Key Summary Table — Set 13 (Questions 481 to 520)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 12,
+      "options_hi": [
+        "Champa",
+        "Vaishali (वैशाली)",
+        "Mithila",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vaishali was the capital of the Licchavis and the Vajji confederacy, governed by an elected assembly of 7,707 rajas in the Santhagara. It is recognized by historians as the world's first democratic republic.",
+      "tip_hi": "World's earliest republic = Vaishali (Licchavis / Vajji confederacy).\nAnswer Key Summary Table — Set 13 (Questions 481 to 520)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who served as the first Chief Minister (Premier) of Bihar in independent India from 1947 to 1961, revered as 'Bihar Kesari'?",
+      "hi": "1947 से 1961 तक स्वतंत्र भारत में बिहार के पहले मुख्यमंत्री के रूप में किसने सेवा की, जिन्हें 'बिहार केसरी' कहा जाता है?",
+      "options": [
+        "Dr. Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh (बिहार केसरी)",
+        "Pandit Karyanand Sharma",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Sri Krishna Singh (बिहार केसरी)",
+      "explanation": "Dr. Sri Krishna Singh (known as 'Sri Babu' and 'Bihar Kesari') served as the premier/Chief Minister of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy Chief Minister and Finance Minister.",
+      "tip": "'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = Jayaprakash Narayan.",
+      "id": 13,
+      "options_hi": [
+        "Dr. Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh (बिहार केसरी)",
+        "Pandit Karyanand Sharma",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Sri Krishna Singh (के रूप में जाना जाता है 'Sri Babu' and 'Bihar Kesari') served as the premier/मुख्यमंत्री of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy मुख्यमंत्री and Finance Minister.",
+      "tip_hi": "'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = जयप्रकाश नारायण."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "As per Census 2011, which of the following districts has maximum rural literacy rate in Bihar?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार में निम्नलिखित में से किस जिले में ग्रामीण साक्षरता दर सबसे अधिक है?",
+      "options": [
+        "Rohtas",
+        "Siwan",
+        "Purnea",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Rohtas",
+      "explanation": "According to Census 2011, Rohtas district recorded the highest overall literacy rate (73.37%) as well as the highest rural literacy rate in Bihar.",
+      "tip": "Bihar Literacy: Highest overall and rural literacy = Rohtas; Lowest overall and rural literacy = Purnea.",
+      "id": 14,
+      "options_hi": [
+        "Rohtas",
+        "Siwan",
+        "Purnea",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "According to जनगणना 2011, Rohtas district recorded the highest overall साक्षरता दर (73.37%) as well as the highest rural साक्षरता दर in Bihar.",
+      "tip_hi": "Bihar Literacy: Highest overall and rural literacy = Rohtas; Lowest overall and rural literacy = Purnea."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which was the main centre of activities of Wahabis in Bihar?",
+      "hi": "बिहार में वहाबियों की गतिविधियों का मुख्य केंद्र कौन-सा था?",
+      "options": [
+        "Jagdishpur",
+        "Champaran",
+        "Patna",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Patna",
+      "explanation": "Patna was the premier headquarters of the Wahabi Movement in India from the 1820s to the 1860s, organized by leaders Maulvi Wilayat Ali and Inayat Ali.",
+      "tip": "Patna served as the pan-Indian organizational hub for propaganda and soldiers for the Wahabis on the North-West Frontier.",
+      "id": 15,
+      "options_hi": [
+        "Jagdishpur",
+        "Champaran",
+        "Patna",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Patna was the premier headquarters of the Wahabi Movement in India from the 1820s to the 1860s, organized by leaders Maulvi Wilayat Ali and Inayat Ali.",
+      "tip_hi": "Patna served as the pan-Indian organizational hub for propaganda and soldiers for the Wahabis on the उत्तर-पश्चिम Frontier."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "How many kilometers is the total length of Atal Setu connecting Mumbai and Navi Mumbai?",
+      "hi": "मुम्बई और नवी मुम्बई को जोड़ने वाले अटल सेतु की कुल लम्बाई कितने किलोमीटर है?",
+      "options": [
+        "21.5 kilometers",
+        "21.8 kilometers",
+        "21.3 kilometers",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "21.8 kilometers",
+      "explanation": "The Mumbai Trans Harbour Link (MTHL / Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu) is India's longest sea bridge, measuring 21.8 km (16.5 km over sea).",
+      "tip": "Atal Setu = 21.8 km total length; longest sea bridge in India, inaugurated in early 2024.",
+      "id": 16,
+      "options_hi": [
+        "21.5 kilometers",
+        "21.8 kilometers",
+        "21.3 kilometers",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Mumbai Trans Harbour Link (MTHL / Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu) is India's longest sea bridge, measuring 21.8 किमी (16.5 किमी over sea).",
+      "tip_hi": "Atal Setu = 21.8 किमी total length; longest sea bridge in India, inaugurated in early 2024."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "As per 5th Tiger Census in 2022, the number of tigers in India is",
+      "hi": "2022 में 5वीं बाघ गणना के अनुसार, भारत में बाघों की संख्या है",
+      "options": [
+        "3167",
+        "3267",
+        "3067",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "3167",
+      "explanation": "Prime Minister Narendra Modi released the summary of the 5th cycle of Management Effectiveness Evaluation of Tiger Reserves in April 2023, declaring 3,167 tigers in India.",
+      "tip": "Tiger population grew from 2,967 (2018) to 3,167 (2022 census released in 2023).",
+      "id": 17,
+      "options_hi": [
+        "3167",
+        "3267",
+        "3067",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary of the 5th cycle of Management Effectiveness Evaluation of Tiger Reserves in अप्रैल 2023, declaring 3,167 tigers in India.",
+      "tip_hi": "Tiger population grew from 2,967 (2018) to 3,167 (2022 जनगणना released in 2023)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
+      "en": "In which district of Bihar silk textile production is maximum?",
+      "hi": "बिहार के किस जिले में रेशमी वस्त्र का उत्पादन सर्वाधिक होता है?",
+      "options": [
+        "Madhubani",
+        "Bhagalpur",
+        "Aurangabad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bhagalpur",
+      "explanation": "Bhagalpur is globally renowned as the 'Silk City' (रेशमी शहर) of Bihar, producing Tussar silk, Eri silk, and famous Bhagalpuri silk sarees.",
+      "tip": "Silk City of Bihar = Bhagalpur; Cotton handlooms = Gaya & Madhubani; Jute = Purnea & Katihar.",
+      "id": 18,
+      "options_hi": [
+        "Madhubani",
+        "Bhagalpur",
+        "Aurangabad",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bhagalpur is globally renowned as the 'Silk City' (रेशमी शहर) of Bihar, producing Tussar silk, Eri silk, and famous Bhagalpuri silk sarees.",
+      "tip_hi": "Silk City of Bihar = Bhagalpur; Cotton handlooms = Gaya & Madhubani; Jute = Purnea & Katihar."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Geography",
+      "en": "As per the Census 2011, which district of Bihar recorded the lowest overall literacy rate?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले में समग्र साक्षरता दर सबसे कम दर्ज की गई थी?",
+      "options": [
+        "Kishanganj",
+        "Purnia",
+        "Sitamarhi",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Purnia",
+      "explanation": "According to Census 2011, Purnia district had the lowest overall literacy rate in Bihar (51.08%). Rohtas district recorded the highest overall literacy rate (73.37%).",
+      "tip": "Literacy extremes in Bihar: Lowest overall = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%); Highest literacy (overall, male, female) = Rohtas.",
+      "id": 19,
+      "options_hi": [
+        "Kishanganj",
+        "Purnia",
+        "Sitamarhi",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "According to जनगणना 2011, Purnia district had the lowest overall साक्षरता दर in Bihar (51.08%). Rohtas district recorded the highest overall साक्षरता दर (73.37%).",
+      "tip_hi": "Literacy extremes in Bihar: Lowest overall = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%); Highest literacy (overall, male, female) = Rohtas."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Who authored the celebrated revolutionary book 'Bandi Jiwan', which served as a textbook for Indian freedom fighters?",
+      "hi": "प्रसिद्ध क्रांतिकारी पुस्तक 'बंदी जीवन' के लेखक कौन थे, जिसे क्रांतिकारियों की पाठ्यपुस्तक कहा जाता था?",
+      "options": [
+        "Bhagat Singh",
+        "Sachindra Nath Sanyal",
+        "Barindra Kumar Ghosh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sachindra Nath Sanyal",
+      "explanation": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.",
+      "tip": "'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay.",
+      "id": 20,
+      "options_hi": [
+        "भगत सिंह",
+        "Sachindra Nath Sanyal",
+        "Barindra Kumar Ghosh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.",
+      "tip_hi": "'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay."
+    }
+  ]
+}

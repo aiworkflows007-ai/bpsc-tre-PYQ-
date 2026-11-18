@@ -3,7 +3,7 @@
   "title": "General Studies Practice Set 10 (39Q)",
   "section": "gk_gs",
   "section_name": "Part-II General Studies (40 Marks)",
-  "subject": "General Studies",
+  "subject": "Full 40Q Mock Papers",
   "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
   "question_count": 39,
   "questions": [
@@ -23,7 +23,16 @@
       "answer_text": "₹576",
       "explanation": "Net multiplier = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72. Selling Price = 800 * 0.72 = ₹576. (Single equivalent discount = 20 + 10 - (20*10)/100 = 28%).",
       "tip": "SP = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "₹560",
+        "₹576",
+        "₹600",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Net multiplier = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72. Selling Price = 800 * 0.72 = ₹576. (Single equivalent discount = 20 + 10 - (20*10)/100 = 28%).",
+      "tip_hi": "SP = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -41,7 +50,16 @@
       "answer_text": "36√3 sq cm",
       "explanation": "Area of equilateral triangle = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 sq cm.",
       "tip": "Area = (√3 / 4) * 144 = 36√3 cm².",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "24√3 sq सेमी",
+        "36√3 sq सेमी",
+        "48√3 sq सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Area of equilateral triangle = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 sq सेमी.",
+      "tip_hi": "Area = (√3 / 4) * 144 = 36√3 cm²."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -59,7 +77,16 @@
       "answer_text": "2 : 3",
       "explanation": "a/c = (a/b) * (b/c) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3. Therefore, a : c = 2 : 3.",
       "tip": "a/c = (3/4) * (8/9) = 2/3 => 2 : 3.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "a/c = (a/b) * (b/c) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3. Therefore, a : c = 2 : 3.",
+      "tip_hi": "a/c = (3/4) * (8/9) = 2/3 => 2 : 3."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -77,7 +104,16 @@
       "answer_text": "45",
       "explanation": "If every observation in a statistical distribution is multiplied by a constant 'k', the new mean is also multiplied by 'k'. New mean = 15 * 3 = 45.",
       "tip": "Property of Mean: If all observations are multiplied by k, New Mean = Old Mean * k = 15 * 3 = 45.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "15",
+        "45",
+        "75",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "If every observation in a statistical distribution is multiplied by a constant 'k', the new mean is also multiplied by 'k'. New mean = 15 * 3 = 45.",
+      "tip_hi": "Property of Mean: If all observations are multiplied by k, New Mean = Old Mean * k = 15 * 3 = 45."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -95,7 +131,16 @@
       "answer_text": "HSBQFT",
       "explanation": "Each letter is shifted by +1: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (wait: G->H, E->F). Applying +1 to GRAPES: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT.",
       "tip": "Pattern: +1 to each letter. G->H, R->S, A->B, P->Q, E->F, S->T.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "HSBQFT",
+        "HSCQFT",
+        "HSBQFS",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Each letter is shifted by +1: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (wait: G->H, E->F). Applying +1 to GRAPES: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT.",
+      "tip_hi": "Pattern: +1 to each letter. G->H, R->S, A->B, P->Q, E->F, S->T."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -113,7 +158,16 @@
       "answer_text": "South-West",
       "explanation": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from West leads to South-West.",
       "tip": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from West is South-West.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "दक्षिण-पूर्व",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from पश्चिम leads to दक्षिण-पश्चिम.",
+      "tip_hi": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from पश्चिम is दक्षिण-पश्चिम."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -131,7 +185,16 @@
       "answer_text": "South-East",
       "explanation": "South-East (135°) becomes North (0°/360°), which is an anti-clockwise rotation of 135°. Rotating West (270°) by 135° anti-clockwise: 270° - 135° = 135° = South-East.",
       "tip": "Rotation = 135° anti-clockwise. West rotated 135° ACW becomes South-East.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "दक्षिण-पश्चिम",
+        "दक्षिण-पूर्व",
+        "उत्तर-पूर्व",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "दक्षिण-पूर्व (135°) becomes उत्तर (0°/360°), जो कि an anti-clockwise rotation of 135°. Rotating पश्चिम (270°) by 135° anti-clockwise: 270° - 135° = 135° = दक्षिण-पूर्व.",
+      "tip_hi": "Rotation = 135° anti-clockwise. पश्चिम rotated 135° ACW becomes दक्षिण-पूर्व."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -149,7 +212,16 @@
       "answer_text": "Both conclusions I and II follow",
       "explanation": "Since the set of Bats is entirely contained within Mammals (Bats ⊂ Mammals), and Mammals are completely disjoint from Birds (Mammals ∩ Birds = ∅), it follows that Bats ∩ Birds = ∅. Thus, neither can any bat be a bird nor any bird be a bat.",
       "tip": "Complete separation between Birds and Mammals implies both I and II definitely hold.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Since the set of Bats is entirely contained within Mammals (Bats ⊂ Mammals), and Mammals are completely disjoint from Birds (Mammals ∩ Birds = ∅), it follows that Bats ∩ Birds = ∅. Thus, neither can any bat be a bird nor any bird be a bat.",
+      "tip_hi": "Complete separation between Birds and Mammals implies both I and II definitely hold."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -167,7 +239,16 @@
       "answer_text": "Law of Inertia (जड़त्व का नियम)",
       "explanation": "First formulated conceptually by Galileo Galilei and formalized by Isaac Newton, the first law describes the inherent property of matter called inertia—the resistance of any physical object to any change in its velocity.",
       "tip": "Newton's 1st Law = Law of Inertia; Defines force qualitatively.",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "Law of Conservation of Momentum",
+        "Law of Inertia (जड़त्व का नियम)",
+        "Law of Gravitation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "First formulated conceptually by Galileo Galilei and formalized by Isaac Newton, the first law describes the inherent property of matter called inertia—the resistance of any physical object to any change in its velocity.",
+      "tip_hi": "Newton's 1st Law = Law of Inertia; Defines force qualitatively."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -185,7 +266,16 @@
       "answer_text": "At the Poles",
       "explanation": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 km (g = GM/R^2). Furthermore, centrifugal force due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
       "tip": "Value of 'g': Maximum at Poles, Minimum at Equator, Zero at the Centre of the Earth.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "At the Equator",
+        "At the Poles",
+        "At 45° latitude",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 किमी (g = GM/R^2). Furthermore, अपकेंद्रीय बल due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
+      "tip_hi": "Value of 'g': Maximum at Poles, Minimum at Equator, Zero at the Centre of the Earth."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -203,7 +293,16 @@
       "answer_text": "20 Hz to 20,000 Hz (20 kHz)",
       "explanation": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed infrasonic (produced by earthquakes, elephants), and frequencies above 20 kHz are termed ultrasonic (utilized by bats, dolphins, and medical ultrasound).",
       "tip": "Audible range = 20 Hz – 20 kHz; Infrasonic < 20 Hz; Ultrasonic > 20 kHz.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "2 Hz to 200 Hz",
+        "20 Hz to 20,000 Hz (20 kHz)",
+        "200 Hz to 200,000 Hz",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed अवश्रव्य (इन्फ्रासोनिक) (produced by earthquakes, elephants), and frequencies above 20 kHz are termed पराध्वनि (अल्ट्रासोनिक) (utilized by bats, dolphins, and medical ultrasound).",
+      "tip_hi": "श्रव्य range = 20 Hz – 20 kHz; अवश्रव्य (इन्फ्रासोनिक) < 20 Hz; पराध्वनि (अल्ट्रासोनिक) > 20 kHz."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -221,7 +320,16 @@
       "answer_text": "Atomic Number (परमाणु क्रमांक)",
       "explanation": "Moseley demonstrated that X-ray frequency (√ν) is linearly related to atomic number (Z). The Modern Periodic Law states that properties of elements are periodic functions of their atomic numbers (number of nuclear protons), resolving anomalies in Mendeleev's atomic mass arrangement.",
       "tip": "Mendeleev = Atomic Mass; Modern Periodic Table (Moseley) = Atomic Number (Z).",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "Atomic Mass",
+        "Atomic Number (परमाणु क्रमांक)",
+        "Mass Number",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Moseley demonstrated that X-ray frequency (√ν) is linearly related to atomic number (Z). The Modern Periodic Law states that properties of elements are periodic functions of their atomic numbers (number of nuclear protons), resolving anomalies in Mendeleev's atomic mass arrangement.",
+      "tip_hi": "Mendeleev = Atomic Mass; Modern Periodic Table (Moseley) = Atomic Number (Z)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -239,7 +347,16 @@
       "answer_text": "Ciliary Muscles (पक्ष्माभी पेशियां)",
       "explanation": "Ciliary muscles contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.",
       "tip": "Power of accommodation = Ciliary muscles; Regulates pupil size and light entry = Iris.",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "आईरिस",
+        "सिलियरी मांसपेशियां (पक्ष्माभी पेशियां)",
+        "कॉर्निया",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सिलियरी मांसपेशियां contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.",
+      "tip_hi": "Power of accommodation = सिलियरी मांसपेशियां; Regulates पुतली size and light entry = आईरिस."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -257,7 +374,16 @@
       "answer_text": "Hemoglobin",
       "explanation": "Hemoglobin is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
       "tip": "Iron deficiency = Hemoglobin reduction => Nutritional Anaemia.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "Myoglobin",
+        "हीमोग्लोबिन",
+        "Albumin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "हीमोग्लोबिन is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
+      "tip_hi": "Iron deficiency = हीमोग्लोबिन reduction => Nutritional Anaemia."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -275,7 +401,16 @@
       "answer_text": "Ethylene",
       "explanation": "Ethylene (C2H4) is the only gaseous plant hormone. It stimulates climacteric fruit ripening, leaf abscission, and senescence. In artificial ripening, calcium carbide reacts with moisture to produce acetylene, an analogue of ethylene.",
       "tip": "Gaseous fruit-ripening hormone = Ethylene (C2H4); Plant growth promoter = Auxin / Gibberellin.",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "Auxin",
+        "Ethylene",
+        "Gibberellin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ethylene (C2H4) is the only gaseous plant hormone. It stimulates climacteric fruit ripening, leaf abscission, and senescence. In artificial ripening, calcium carbide reacts with moisture to produce acetylene, an analogue of ethylene.",
+      "tip_hi": "Gaseous fruit-ripening hormone = Ethylene (C2H4); Plant growth promoter = Auxin / Gibberellin."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -293,7 +428,16 @@
       "answer_text": "Methane (CH4)",
       "explanation": "Methane constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (LPG) consists primarily of butane and propane.",
       "tip": "CNG & Biogas = Methane (CH4); LPG = Butane + Propane.",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "प्रोपेन",
+        "मीथेन (CH4)",
+        "ब्यूटेन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मीथेन constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) consists primarily of ब्यूटेन and प्रोपेन.",
+      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -311,7 +455,16 @@
       "answer_text": "Pir Ali Khan",
       "explanation": "On 3 July 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 July 1857.",
       "tip": "1857 Patna city rebellion leader = Pir Ali Khan (Hanged by Commissioner William Tayler).",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "Waris Ali",
+        "Pir Ali Khan",
+        "Lutf Ali Khan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 3 जुलाई 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 जुलाई 1857.",
+      "tip_hi": "1857 Patna city rebellion leader = Pir Ali Khan (Hanged by Commissioner William Tayler)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -329,7 +482,16 @@
       "answer_text": "Batak Mian (बतक मियां)",
       "explanation": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted Dr. Rajendra Prasad and Gandhi, exposing the assassination plot.",
       "tip": "Saved Gandhi's life in Champaran (1917) = Batak Mian (Bettiah/Motihari).",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "Raj Kumar Shukla",
+        "Batak Mian (बतक मियां)",
+        "Sant Raut",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted डॉ. राजेंद्र प्रसाद and Gandhi, exposing the assassination plot.",
+      "tip_hi": "Saved Gandhi's life in Champaran (1917) = Batak Mian (Bettiah/Motihari)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -347,7 +509,16 @@
       "answer_text": "Khairun Mian (मियां खैरुद्दीन)",
       "explanation": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the Ganga in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of Dr. Rajendra Prasad.",
       "tip": "Sadaqat Ashram founded by Mazharul Haque; Land donated by Khairun Mian.",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "Maulana Mazharul Haque",
+        "Khairun Mian (मियां खैरुद्दीन)",
+        "Hasan Imam",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the गंगा नदी in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of डॉ. राजेंद्र प्रसाद.",
+      "tip_hi": "Sadaqat Ashram founded by Mazharul Haque; Land donated by Khairun Mian."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -365,7 +536,16 @@
       "answer_text": "Sri Krishna Singh",
       "explanation": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in February 1923 with Narayan Prasad as President and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.",
       "tip": "Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first Chief Minister of Bihar).",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "Sri Krishna Singh",
+        "Anugrah Narayan Sinha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in फरवरी 1923 with Narayan Prasad as राष्ट्रपति and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.",
+      "tip_hi": "Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first मुख्यमंत्री of Bihar)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -383,7 +563,16 @@
       "answer_text": "Maulana Abul Kalam Azad",
       "explanation": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress President continuously from 1940 to 1946 during World War II.",
       "tip": "1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (President continuously 1940-46).",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "जवाहरलाल नेहरू",
+        "Maulana Abul Kalam Azad",
+        "सुभाष चंद्र बोस",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress राष्ट्रपति continuously from 1940 to 1946 के दौरान World War II.",
+      "tip_hi": "1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (राष्ट्रपति continuously 1940-46)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -401,7 +590,16 @@
       "answer_text": "7 martyrs (सात शहीद)",
       "explanation": "Seven young students (Devipat Choudhary, Umakant Prasad Sinha, Ramanand Singh, Satish Prasad Jha, Jagpati Kumar, Rajendra Singh, and Ramgovind Singh) were martyred when District Magistrate W. G. Archer ordered Gurkha military police to fire on them.",
       "tip": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 August 1942 (DM W.G. Archer).",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "5 martyrs",
+        "7 martyrs (सात शहीद)",
+        "9 martyrs",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Seven young students (Devipat Choudhary, Umakant Prasad Sinha, Ramanand Singh, Satish Prasad Jha, Jagpati Kumar, Rajendra Singh, and Ramgovind Singh) were martyred when District Magistrate W. G. Archer ordered Gurkha military police to fire on them.",
+      "tip_hi": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 अगस्त 1942 (DM W.G. Archer)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -419,7 +617,16 @@
       "answer_text": "Sunset Law (सूर्यास्त कानून)",
       "explanation": "Under the Sunset Law of the Permanent Settlement, if a zamindar failed to remit the fixed government revenue before sunset on the appointed date, his zamindari estate was immediately confiscated and auctioned off to the highest bidder.",
       "tip": "Sunset Law = Associated with Lord Cornwallis's Permanent Settlement (1793).",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "Ryotwari Rule",
+        "Sunset Law (सूर्यास्त कानून)",
+        "Mahalwari Code",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under the Sunset Law of the Permanent Settlement, if a zamindar failed to remit the fixed government revenue before sunset on the appointed date, his zamindari estate was immediately confiscated and auctioned off to the highest bidder.",
+      "tip_hi": "Sunset Law = Associated with Lord Cornwallis's Permanent Settlement (1793)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -437,7 +644,16 @@
       "answer_text": "Ralph Fitch",
       "explanation": "Ralph Fitch visited Patna in 1586 during Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the Ganga.",
       "tip": "First English traveler to visit Bihar/Patna = Ralph Fitch (1586, reign of Akbar).",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "Thomas Roe",
+        "Ralph Fitch",
+        "Peter Mundy",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ralph Fitch visited Patna in 1586 के दौरान Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the गंगा नदी.",
+      "tip_hi": "First English traveler to visit Bihar/Patna = Ralph Fitch (1586, reign of Akbar)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -455,7 +671,16 @@
       "answer_text": "Sonpur (Hajipur)",
       "explanation": "The Gandak merges into the left bank of the Ganga at Sonpur (Saran) opposite Hajipur (Vaishali), the site of the world-famous Harihar Kshetra Sonepur Mela, Asia's largest cattle fair held on Kartik Purnima.",
       "tip": "Gandak meets Ganga at Sonpur/Hajipur; Son meets Ganga at Maner/Danapur; Punpun meets Ganga at Fatuha.",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "Maner",
+        "Sonpur (Hajipur)",
+        "Fatuha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The गंडक नदी merges into the left bank of the गंगा नदी at Sonpur (Saran) opposite Hajipur (Vaishali), the site of the world-famous Harihar Kshetra Sonepur Mela, Asia's largest cattle fair held on Kartik Purnima.",
+      "tip_hi": "गंडक नदी meets गंगा नदी at Sonpur/Hajipur; सोन नदी meets गंगा नदी at Maner/Danapur; Punpun meets गंगा नदी at Fatuha."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -473,7 +698,16 @@
       "answer_text": "Khadar Soil (नवीन जलोढ़)",
       "explanation": "Khadar is new alluvium deposited annually by monsoon floodwaters in low-lying river plains (Gandak, Kosi, Bagmati), highly fertile and rich in fine silt. Bangar represents older alluvium situated in upland terraces above flood level.",
       "tip": "New flood alluvium = Khadar (highly fertile); Older upland alluvium = Bangar (contains kankar nodules).",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "Bangar Soil",
+        "Khadar Soil (नवीन जलोढ़)",
+        "Terai Soil",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Khadar is new alluvium deposited annually by monsoon floodwaters in low-lying river plains (गंडक नदी, कोसी नदी, Bagmati), highly fertile and rich in fine silt. Bangar represents older alluvium situated in upland terraces above flood level.",
+      "tip_hi": "New flood alluvium = Khadar (highly fertile); Older upland alluvium = Bangar (contains kankar nodules)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -491,7 +725,16 @@
       "answer_text": "Pyrite (आयरन पाइराइट्स)",
       "explanation": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture sulfuric acid.",
       "tip": "Pyrite in Bihar = Amjhor (Rohtas) - 95% of India's reserves; Fools' Gold.",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "बॉक्साइट",
+        "Pyrite (आयरन पाइराइट्स)",
+        "Magnetite",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture सल्फ्यूरिक अम्ल (H2SO4).",
+      "tip_hi": "Pyrite in Bihar = Amjhor (Rohtas) - 95% of India's reserves; Fools' Gold."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -509,7 +752,16 @@
       "answer_text": "Begusarai",
       "explanation": "Barauni Refinery of Indian Oil Corporation Limited (IOCL) is situated in Begusarai district, commissioned in 1964. It processes crude oil transported via pipeline from Naharkatiya in Assam.",
       "tip": "Barauni Oil Refinery = Begusarai (1964, built with USSR and Romanian collaboration).",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "Bhagalpur",
+        "Begusarai",
+        "Munger",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Barauni Refinery of Indian Oil Corporation Limited (IOCL) is situated in Begusarai district, commissioned in 1964. It processes crude oil transported via pipeline from Naharkatiya in Assam.",
+      "tip_hi": "Barauni Oil Refinery = Begusarai (1964, built with USSR and Romanian collaboration)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -527,7 +779,16 @@
       "answer_text": "Saharsa",
       "explanation": "Saharsa recorded the lowest female literacy rate in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
       "tip": "Important Census Trap: Lowest overall literacy = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%).",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "Purnia",
+        "Saharsa",
+        "Madhepura",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Saharsa recorded the lowest female साक्षरता दर in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
+      "tip_hi": "Important जनगणना Trap: Lowest overall literacy = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -545,7 +806,16 @@
       "answer_text": "Aravalli Range",
       "explanation": "Guru Shikhar (1,722 m) in the Arbuda Mountains of Rajasthan is the highest peak of the Aravalli Range, one of the oldest residual fold mountain systems in the world.",
       "tip": "Aravalli highest peak = Guru Shikhar (1,722 m); Satpura highest peak = Dhupgarh (1,350 m).",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "Vindhyan Range",
+        "Aravalli Range",
+        "Satpura Range",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Guru Shikhar (1,722 m) in the Arbuda Mountains of Rajasthan is the highest peak of the Aravalli Range, one of the oldest residual fold mountain systems in the world.",
+      "tip_hi": "Aravalli highest peak = Guru Shikhar (1,722 m); Satpura highest peak = Dhupgarh (1,350 m)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -563,7 +833,16 @@
       "answer_text": "Majuli Island",
       "explanation": "Majuli island, formed by the Brahmaputra River and its anabranch Kherkutia Xuti joined by the Subansiri River, is a designated district of Assam and the world's largest river island according to Guinness World Records.",
       "tip": "Largest river island = Majuli (Brahmaputra, Assam); Smallest inhabited river island = Umananda (Peacock Island, Guwahati).",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "Umananda Island",
+        "Majuli Island",
+        "Bhavani Island",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Majuli island, formed by the Brahmaputra River and its anabranch Kherkutia Xuti joined by the Subansiri River, is a designated district of Assam and the world's largest river island according to Guinness World Records.",
+      "tip_hi": "Largest river island = Majuli (Brahmaputra, Assam); Smallest inhabited river island = Umananda (Peacock Island, Guwahati)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -581,7 +860,16 @@
       "answer_text": "Mirzapur",
       "explanation": "Indian Standard Time (IST) is calculated based on 82°30' E longitude passing through Shankargarh fort / Mirzapur near Prayagraj. It passes through 5 States: UP, MP, Chhattisgarh, Odisha, and Andhra Pradesh, exactly 5 hours 30 minutes ahead of GMT.",
       "tip": "Standard Meridian = 82°30' E (Mirzapur); Passes through 5 States (UP, MP, CG, Odisha, AP); IST = GMT + 5:30.",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "Mirzapur",
+        "Varanasi",
+        "Kanpur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Indian Standard Time (IST) is calculated based on 82°30' E longitude passing through Shankargarh fort / Mirzapur near Prayagraj. It passes through 5 States: UP, MP, Chhattisgarh, Odisha, and Andhra Pradesh, exactly 5 घंटे 30 मिनट ahead of GMT.",
+      "tip_hi": "Standard Meridian = 82°30' E (Mirzapur); Passes through 5 States (UP, MP, CG, Odisha, AP); IST = GMT + 5:30."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -599,7 +887,16 @@
       "answer_text": "Speaker of the Lok Sabha",
       "explanation": "Under Article 118(4), the Speaker of the Lok Sabha presides over a joint sitting. In his absence, the Deputy Speaker presides, and if both are absent, the Deputy Chairman of the Rajya Sabha presides. The Chairman of Rajya Sabha (Vice-President) never presides.",
       "tip": "Joint sitting: Summoned by President (Art. 108); Presided by Lok Sabha Speaker (Art. 118(4)).",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "अध्यक्ष (स्पीकर) of the लोकसभा",
+        "Chairman of the राज्यसभा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 118(4), the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting. In his absence, the Deputy अध्यक्ष (स्पीकर) presides, and if both are absent, the Deputy Chairman of the राज्यसभा presides. The Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides.",
+      "tip_hi": "Joint sitting: Summoned by राष्ट्रपति (Art. 108); Presided by लोकसभा अध्यक्ष (स्पीकर) (Art. 118(4))."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -617,7 +914,16 @@
       "answer_text": "Swaran Singh Committee",
       "explanation": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd Amendment added 10 duties in Article 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th Amendment 2002.",
       "tip": "Fundamental Duties = Swaran Singh Committee (1976), 42nd Amendment, borrowed from USSR.",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "Sarkaria Commission",
+        "Swaran Singh Committee",
+        "Verma Committee",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd संशोधन added 10 duties in अनुच्छेद 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th संशोधन 2002.",
+      "tip_hi": "Fundamental Duties = Swaran Singh Committee (1976), 42nd संशोधन, borrowed from USSR."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -635,7 +941,16 @@
       "answer_text": "Andhra State",
       "explanation": "Following the 56-day hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 October 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
       "tip": "First linguistic state = Andhra State (1 October 1953); Fast-unto-death = Potti Sreeramulu.",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "Gujarat",
+        "Andhra State",
+        "Kerala",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Following the 56-दिन hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 अक्टूबर 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
+      "tip_hi": "First linguistic state = Andhra State (1 अक्टूबर 1953); Fast-unto-death = Potti Sreeramulu."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -653,7 +968,16 @@
       "answer_text": "Begusarai",
       "explanation": "Kanwar Lake (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi Gandak River. It was designated as India's 39th Ramsar site in July 2020.",
       "tip": "Bihar's 1st Ramsar Site = Kanwar Lake / Kabartal (Begusarai, 2020; Oxbow lake of Burhi Gandak).",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "Begusarai",
+        "Khagaria",
+        "Samas",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कांवर झील (बेगूसराय) (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River. It was designated as India's 39th Ramsar site in जुलाई 2020.",
+      "tip_hi": "Bihar's 1st Ramsar Site = कांवर झील (बेगूसराय) / Kabartal (Begusarai, 2020; Oxbow lake of Burhi गंडक नदी)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -671,7 +995,16 @@
       "answer_text": "Reduction of greenhouse gas emissions to combat global climate change",
       "explanation": "Adopted in Kyoto, Japan under the UNFCCC, the Kyoto Protocol committed industrialized Annex I countries to legally binding targets for reducing greenhouse gases (CO2, CH4, N2O, HFCs, PFCs, SF6).",
       "tip": "Kyoto Protocol (1997) = Greenhouse Gas reduction; Montreal Protocol (1987) = Ozone layer.",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "Conservation of endangered migratory bird species",
+        "Reduction of greenhouse gas emissions to combat global climate change",
+        "Eradication of hazardous chemical pesticides",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Adopted in Kyoto, Japan under the UNFCCC, the Kyoto Protocol committed industrialized Annex I countries to legally binding targets for reducing greenhouse गैस (CO2, CH4, N2O, HFCs, PFCs, SF6).",
+      "tip_hi": "Kyoto Protocol (1997) = Greenhouse Gas reduction; Montreal Protocol (1987) = Ozone layer."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -689,7 +1022,16 @@
       "answer_text": "Graduation (स्नातक)",
       "explanation": "The scheme provides staggered cash incentives amounting to up to ₹54,100 from the birth of a girl child through intermediate and graduation (₹50,000 for unmarried graduate girls) to promote higher education and curb child marriage.",
       "tip": "Mukhya Mantri Kanya Utthan Yojana = Birth up to Graduation (₹50,000 for female graduates).",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "Matriculation (Class 10)",
+        "Graduation (स्नातक)",
+        "Post-Graduation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The scheme provides staggered cash incentives amounting to up to ₹54,100 from the birth of a girl child through intermediate and graduation (₹50,000 for unmarried graduate girls) to promote higher education and curb child marriage.",
+      "tip_hi": "Mukhya Mantri Kanya Utthan Yojana = Birth up to Graduation (₹50,000 for female graduates)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -707,7 +1049,16 @@
       "answer_text": "Elephant of Betla National Park",
       "explanation": "The mascot 'Juhi' was inspired by the beloved female elephant of Betla National Park in Palamu, Jharkhand. The Indian women's hockey team defeated Japan to win the title.",
       "tip": "Women's Asian Champions Trophy 2023 Mascot = 'Juhi' (Elephant of Betla National Park).\nAnswer Key Summary Table — Set 10 (Questions 361 to 400)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "Royal Bengal Tiger",
+        "Elephant of Betla National Park",
+        "One-horned Rhinoceros",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The mascot 'Juhi' was inspired by the beloved female elephant of Betla National Park in Palamu, Jharkhand. The Indian women's hockey team defeated Japan to win the title.",
+      "tip_hi": "Women's Asian Champions Trophy 2023 Mascot = 'Juhi' (Elephant of Betla National Park).\nAnswer Key Summary Table — Set 10 (Questions 361 to 400)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
     }
   ]
 }

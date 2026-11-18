@@ -3,7 +3,7 @@
   "title": "General Studies Practice Set 9 (40Q)",
   "section": "gk_gs",
   "section_name": "Part-II General Studies (40 Marks)",
-  "subject": "General Studies",
+  "subject": "Full 40Q Mock Papers",
   "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
   "question_count": 40,
   "questions": [
@@ -23,7 +23,16 @@
       "answer_text": "12 years",
       "explanation": "At compound interest, if P becomes 2P in 3 years, then 16P = (2^4)P will take 4 * 3 = 12 years.",
       "tip": "In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 years.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "9 वर्ष",
+        "12 वर्ष",
+        "15 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "At compound interest, if P becomes 2P in 3 वर्ष, then 16P = (2^4)P will take 4 * 3 = 12 वर्ष.",
+      "tip_hi": "In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 वर्ष."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -41,7 +50,16 @@
       "answer_text": "5/36",
       "explanation": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.",
       "tip": "Pairs summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 pairs out of 36 => 5/36.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "5/36",
+        "1/6",
+        "7/36",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.",
+      "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -59,7 +77,16 @@
       "answer_text": "9 seconds",
       "explanation": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 seconds.",
       "tip": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 seconds.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "8 सेकंड",
+        "9 सेकंड",
+        "10 सेकंड",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 सेकंड.",
+      "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -77,7 +104,16 @@
       "answer_text": "4 days",
       "explanation": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/day. Total efficiency = 6 + 5 + 4 = 15 units/day. Time required = 60 / 15 = 4 days.",
       "tip": "Combined 1-day work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 days.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "3 दिन",
+        "4 दिन",
+        "5 दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/दिन. Total efficiency = 6 + 5 + 4 = 15 units/दिन. Time required = 60 / 15 = 4 दिन.",
+      "tip_hi": "Combined 1-दिन work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 दिन."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -95,7 +131,16 @@
       "answer_text": "1,540 cu cm",
       "explanation": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu cm.",
       "tip": "V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "1,440 cu सेमी",
+        "1,540 cu सेमी",
+        "1,640 cu सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu सेमी.",
+      "tip_hi": "V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -113,7 +158,16 @@
       "answer_text": "214673",
       "explanation": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.",
       "tip": "Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "214673",
+        "214763",
+        "241673",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.",
+      "tip_hi": "Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -131,7 +185,16 @@
       "answer_text": "A",
       "explanation": "E is daughter of B, and D is brother of E, so D is the son of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.",
       "tip": "Brother of parent (B) is A, so A is the uncle of D.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "A",
+        "B",
+        "C",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "E is daughter of B, and D is brother of E, so D is the सोन नदी of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.",
+      "tip_hi": "Brother of parent (B) is A, so A is the uncle of D."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -149,7 +212,16 @@
       "answer_text": "56",
       "explanation": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).",
       "tip": "Formula: n*(n+1). For n=7, 7*8 = 56.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "54",
+        "56",
+        "58",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).",
+      "tip_hi": "Formula: n*(n+1). For n=7, 7*8 = 56."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -167,7 +239,16 @@
       "answer_text": "3 × 10^8 m/s",
       "explanation": "In vacuum, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 km/s).",
       "tip": "Speed of light c = 3 × 10^8 m/s = 3 × 10^5 km/s.",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "3 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^10 m/s",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In निर्वात, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 किमी/s).",
+      "tip_hi": "Speed of light c = 3 × 10^8 m/s = 3 × 10^5 किमी/s."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -185,7 +266,16 @@
       "answer_text": "Archimedes' Principle",
       "explanation": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.",
       "tip": "Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "Pascal's Principle",
+        "Archimedes' Principle",
+        "Bernoulli's Principle",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.",
+      "tip_hi": "Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -203,7 +293,16 @@
       "answer_text": "Nephron",
       "explanation": "Each human kidney contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
       "tip": "Kidney unit = Nephron; Nervous system unit = Neuron; Lungs unit = Alveolus.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "Neuron",
+        "नेफ्रॉन (वृक्काणु)",
+        "Alveolus",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
+      "tip_hi": "वृक्क (गुर्दा) unit = नेफ्रॉन (वृक्काणु); Nervous system unit = Neuron; फेफड़े unit = Alveolus."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -221,7 +320,16 @@
       "answer_text": "Insulin",
       "explanation": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the liver. In contrast, alpha cells secrete glucagon to raise blood glucose.",
       "tip": "Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar).",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "Glucagon",
+        "Insulin",
+        "Somatostatin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the यकृत (लीवर). In contrast, alpha cells secrete glucagon to raise blood glucose.",
+      "tip_hi": "Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -239,7 +347,16 @@
       "answer_text": "Acidic; pH < 7",
       "explanation": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.",
       "tip": "Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7).",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "क्षारीय; pH > 7",
+        "अम्लीय; pH < 7",
+        "उदासीन; pH = 7",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.",
+      "tip_hi": "Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -257,7 +374,16 @@
       "answer_text": "Zero",
       "explanation": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its nucleus.",
       "tip": "Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "Zero",
+        "One",
+        "Two",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its केंद्रक (नाभिक).",
+      "tip_hi": "Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -275,7 +401,16 @@
       "answer_text": "H = I^2 · R · t",
       "explanation": "Joule's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.",
       "tip": "Joule's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t.",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "H = I · R · t",
+        "H = I^2 · R · t",
+        "H = I · R^2 · t",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जूल's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.",
+      "tip_hi": "जूल's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -293,7 +428,16 @@
       "answer_text": "Methyl Isocyanate (MIC)",
       "explanation": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.",
       "tip": "Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO).",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "Phosgene",
+        "Methyl Isocyanate (MIC)",
+        "Hydrogen Cyanide",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.",
+      "tip_hi": "Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -311,7 +455,16 @@
       "answer_text": "Maulvi Ahmadullah Shah",
       "explanation": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir Henry Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.",
       "tip": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = Babu Kunwar Singh.",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "Bakht Khan",
+        "Maulvi Ahmadullah Shah",
+        "Khan Bahadur Khan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir हेनरी Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.",
+      "tip_hi": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = बाबू कुंवर सिंह."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -329,7 +482,16 @@
       "answer_text": "3/20th part (3 kathas per bigha)",
       "explanation": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).",
       "tip": "Tinkathia = 3 kathas per bigha = 3/20th of land holding.",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "आधा (आधा (आधा (1/2)))0वां part",
+        "3/20वां part (3 kathas per bigha)",
+        "5/20वां part",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).",
+      "tip_hi": "Tinkathia = 3 kathas per bigha = 3/20th of land holding."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -347,7 +509,16 @@
       "answer_text": "Bihar National College and Bihar Vidyapeeth",
       "explanation": "During the Non-Cooperation movement, Mahatma Gandhi opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 February 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
       "tip": "Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor).",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "Patna College",
+        "Bihar National College and Bihar Vidyapeeth",
+        "Sadaqat College",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "के दौरान the Non-Cooperation movement, महात्मा गांधी opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 फरवरी 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
+      "tip_hi": "Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -365,7 +536,16 @@
       "answer_text": "Deshbandhu Chittaranjan Das (C. R. Das)",
       "explanation": "C. R. Das presided over the 1922 Gaya Session. After his proposal for council entry was defeated by the 'No-Changers' (Rajendra Prasad, C. Rajagopalachari), he resigned and founded the Swaraj Party with Motilal Nehru.",
       "tip": "Congress Sessions in Bihar: 1912 Bankipore (R. N. Mudholkar); 1922 Gaya (C. R. Das); 1940 Ramgarh (Abul Kalam Azad).",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "Motilal Nehru",
+        "Deshbandhu Chittaranjan Das (C. R. Das)",
+        "हकीम अजमल खान",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "C. R. Das presided over the 1922 Gaya Session. After his proposal for council entry was defeated by the 'No-Changers' (Rajendra Prasad, C. Rajagopalachari), he resigned and founded the Swaraj Party with Motilal Nehru.",
+      "tip_hi": "Congress Sessions in Bihar: 1912 Bankipore (R. N. Mudholkar); 1922 Gaya (C. R. Das); 1940 Ramgarh (Abul Kalam Azad)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -383,7 +563,16 @@
       "answer_text": "Dr. Rajendra Prasad",
       "explanation": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), Dr. Rajendra Prasad formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
       "tip": "Bihar Central Relief Committee (1934 Earthquake) = Dr. Rajendra Prasad.",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "महात्मा गांधी",
+        "डॉ. राजेंद्र प्रसाद",
+        "Sri Krishna Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), डॉ. राजेंद्र प्रसाद formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
+      "tip_hi": "Bihar Central Relief Committee (1934 Earthquake) = डॉ. राजेंद्र प्रसाद."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -401,7 +590,16 @@
       "answer_text": "Jaglal Choudhary",
       "explanation": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.",
       "tip": "Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava.",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "Phulena Prasad Srivastava",
+        "Jaglal Choudhary",
+        "Ram Nandan Mishra",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.",
+      "tip_hi": "Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -419,7 +617,16 @@
       "answer_text": "Sachindra Nath Sanyal",
       "explanation": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.",
       "tip": "Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal.",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "Bupendra Nath Datta",
+        "Sachindra Nath Sanyal",
+        "Khudiram Bose",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.",
+      "tip_hi": "Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -437,7 +644,16 @@
       "answer_text": "Mahesh Narayan",
       "explanation": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.",
       "tip": "Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee').",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "Sachchidananda Sinha",
+        "Mahesh Narayan",
+        "Krishna Sahay",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.",
+      "tip_hi": "Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee')."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -455,7 +671,16 @@
       "answer_text": "Chhapra (near Revelganj)",
       "explanation": "The Ghaghra originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the Ganga at Revelganj near Chhapra in Saran district.",
       "tip": "Ghaghra joins Ganga at Revelganj (Chhapra); Gandak joins at Sonpur; Kosi joins at Kursela (Katihar).",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "Chhapra (near Revelganj)",
+        "Buxar",
+        "Hajipur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The घाघरा नदी originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the गंगा नदी at Revelganj near Chhapra in Saran district.",
+      "tip_hi": "घाघरा नदी joins गंगा नदी at Revelganj (Chhapra); गंडक नदी joins at Sonpur; कोसी नदी joins at Kursela (Katihar)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -473,7 +698,16 @@
       "answer_text": "Cwg (Monsoon with dry winter)",
       "explanation": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest month before the solstice, which accurately characterizes the Gangetic plains of North Bihar.",
       "tip": "Bihar climate in Köppen classification = Cwg (Gangetic plain type).",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "Aw (Tropical Savanna)",
+        "Cwg (Monsoon with dry winter)",
+        "BSh (Semi-arid steppe)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest माह before the solstice, which accurately characterizes the Gangetic plains of उत्तर Bihar.",
+      "tip_hi": "Bihar climate in Köppen classification = Cwg (Gangetic plain type)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -491,7 +725,16 @@
       "answer_text": "West Champaran",
       "explanation": "Valmiki National Park covers an area of approx. 335.65 sq km (and sanctuary area of 898 sq km) in the Terai region of West Champaran along the Gandak River and Nepal border, forming Project Tiger Reserve No. 18.",
       "tip": "Only National Park of Bihar = Valmiki National Park (West Champaran).",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "पूर्व Champaran",
+        "पश्चिम Champaran",
+        "Kaimur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वाल्मीकि राष्ट्रीय उद्यान covers an area of approx. 335.65 sq किमी (and sanctuary area of 898 sq किमी) in the Terai region of पश्चिम Champaran along the गंडक नदी River and Nepal border, forming Project Tiger Reserve No. 18.",
+      "tip_hi": "Only National Park of Bihar = वाल्मीकि राष्ट्रीय उद्यान (पश्चिम Champaran)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -509,7 +752,16 @@
       "answer_text": "Munger",
       "explanation": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq km, famous for dense sal forests and thermal mineral springs.",
       "tip": "Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya.",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "Nalanda (Rajgir)",
+        "Munger",
+        "Gaya",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq किमी, famous for dense sal forests and thermal mineral springs.",
+      "tip_hi": "Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -527,7 +779,16 @@
       "answer_text": "Bhagalpur",
       "explanation": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.",
       "tip": "Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC).",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "Begusarai",
+        "Bhagalpur",
+        "Banka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.",
+      "tip_hi": "Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -545,7 +806,16 @@
       "answer_text": "Zoji La Pass",
       "explanation": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.",
       "tip": "Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La.",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "Banihal Pass",
+        "Zoji La Pass",
+        "Shipki La Pass",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.",
+      "tip_hi": "Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -563,7 +833,16 @@
       "answer_text": "Odisha",
       "explanation": "Odisha accounts for over 50% of India's total bauxite production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).",
       "tip": "Leading mineral producers: Bauxite = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh.",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Odisha accounts for over 50% of India's total बॉक्साइट production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).",
+      "tip_hi": "Leading mineral producers: बॉक्साइट = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -581,7 +860,16 @@
       "answer_text": "Speaker of the Lok Sabha",
       "explanation": "Article 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha thereon shall be final. The Rajya Sabha has only 14 days to recommend changes.",
       "tip": "Certification of Money Bill = Speaker of Lok Sabha (Article 110). Final and cannot be questioned in court.",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "अध्यक्ष (स्पीकर) of the लोकसभा",
+        "Chairman of the राज्यसभा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the अध्यक्ष (स्पीकर) of the लोकसभा thereon shall be final. The राज्यसभा has only 14 दिन to recommend changes.",
+      "tip_hi": "Certification of Money Bill = अध्यक्ष (स्पीकर) of लोकसभा (अनुच्छेद 110). Final and cannot be questioned in court."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -599,7 +887,16 @@
       "answer_text": "Article 352",
       "explanation": "Article 352 governs National Emergency. (Article 356 provides for President's Rule in States due to constitutional failure, and Article 360 provides for Financial Emergency).",
       "tip": "Emergency provisions: Article 352 = National; Article 356 = State (President's Rule); Article 360 = Financial.",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 352 governs National Emergency. (अनुच्छेद 356 provides for राष्ट्रपति's Rule in States due to constitutional failure, and अनुच्छेद 360 provides for Financial Emergency).",
+      "tip_hi": "Emergency provisions: अनुच्छेद 352 = National; अनुच्छेद 356 = State (राष्ट्रपति's Rule); अनुच्छेद 360 = Financial."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -617,7 +914,16 @@
       "answer_text": "11th Schedule",
       "explanation": "The 73rd Amendment added Part IX and the 11th Schedule (29 functional subjects for Panchayats). The 74th Amendment added Part IX-A and the 12th Schedule (18 functional subjects for Municipalities).",
       "tip": "11th Schedule = Panchayats (29 items); 12th Schedule = Municipalities (18 items); 10th Schedule = Anti-Defection.",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "10वां अनुसूची",
+        "11वां अनुसूची",
+        "12वां अनुसूची",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 73rd संशोधन added Part IX and the 11th अनुसूची (29 functional subjects for Panchayats). The 74th संशोधन added Part IX-A and the 12th अनुसूची (18 functional subjects for Municipalities).",
+      "tip_hi": "11th अनुसूची = Panchayats (29 items); 12th अनुसूची = Municipalities (18 items); 10th अनुसूची = Anti-Defection."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -635,7 +941,16 @@
       "answer_text": "25 years",
       "explanation": "Under Article 173, the minimum age for election to the Legislative Assembly (and Lok Sabha) is 25 years. For Legislative Council (and Rajya Sabha), it is 30 years. For Panchayat elections, it is 21 years.",
       "tip": "Age limits: Panchayats = 21; Lok Sabha & Vidhan Sabha = 25; Rajya Sabha & Vidhan Parishad = 30; President & Governor = 35.",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "21 वर्ष",
+        "25 वर्ष",
+        "30 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 173, the minimum age for election to the Legislative Assembly (and लोकसभा) is 25 वर्ष. For Legislative Council (and राज्यसभा), it is 30 वर्ष. For Panchayat elections, it is 21 वर्ष.",
+      "tip_hi": "Age limits: Panchayats = 21; लोकसभा & Vidhan Sabha = 25; राज्यसभा & Vidhan Parishad = 30; राष्ट्रपति & राज्यपाल = 35."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -653,7 +968,16 @@
       "answer_text": "35 years",
       "explanation": "Article 157 prescribes that no person shall be eligible for appointment as Governor unless he is a citizen of India and has completed the age of 35 years.",
       "tip": "Minimum age for President, Vice-President, and Governor is 35 years.",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "30 वर्ष",
+        "35 वर्ष",
+        "40 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 157 prescribes that no person shall be eligible for appointment as राज्यपाल unless he is a citizen of India and has completed the age of 35 वर्ष.",
+      "tip_hi": "Minimum age for राष्ट्रपति, Vice-राष्ट्रपति, and राज्यपाल is 35 वर्ष."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -671,7 +995,16 @@
       "answer_text": "2019",
       "explanation": "Launched on 2 October 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.",
       "tip": "Jal-Jeevan-Hariyali launched = 2 October 2019 (Focus: Water conservation & tree plantation).",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "2017",
+        "2019",
+        "2021",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Launched on 2 अक्टूबर 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.",
+      "tip_hi": "Jal-Jeevan-Hariyali launched = 2 अक्टूबर 2019 (Focus: Water conservation & tree plantation)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -689,7 +1022,16 @@
       "answer_text": "Nagi-Nakti Bird Sanctuary (Jamui)",
       "explanation": "Inaugurated by Chief Minister Nitish Kumar on 15-17 January 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
       "tip": "First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui).",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "कांवर झील (बेगूसराय) Bird Sanctuary (Begusarai)",
+        "Nagi-Nakti Bird Sanctuary (Jamui)",
+        "Kusheshwar Asthan (Darbhanga)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Inaugurated by मुख्यमंत्री Nitish Kumar on 15-17 जनवरी 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "tip_hi": "First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -707,7 +1049,16 @@
       "answer_text": "Dr. Bimal Patel",
       "explanation": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new Parliament building, featuring the Lok Sabha chamber styled on the National Bird Peacock and Rajya Sabha on the National Flower Lotus.",
       "tip": "New Parliament Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad).",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "Hafeez Contractor",
+        "Dr. Bimal Patel",
+        "Raj Rewal",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new संसद building, featuring the लोकसभा chamber styled on the National Bird Peacock and राज्यसभा on the National Flower Lotus.",
+      "tip_hi": "New संसद Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad)."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -725,7 +1076,16 @@
       "answer_text": "5 + 3 + 3 + 4",
       "explanation": "NEP 2020 restructured school curriculum into four stages: 5 years Foundational stage (ages 3-8), 3 years Preparatory stage (ages 8-11), 3 years Middle stage (ages 11-14), and 4 years Secondary stage (ages 14-18).",
       "tip": "NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "id": 40
+      "id": 40,
+      "options_hi": [
+        "10 + 2 + 3",
+        "5 + 3 + 3 + 4",
+        "5 + 4 + 3 + 2",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "NEP 2020 restructured school curriculum into four stages: 5 वर्ष Foundational stage (ages 3-8), 3 वर्ष Preparatory stage (ages 8-11), 3 वर्ष Middle stage (ages 11-14), and 4 वर्ष Secondary stage (ages 14-18).",
+      "tip_hi": "NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
     }
   ]
 }

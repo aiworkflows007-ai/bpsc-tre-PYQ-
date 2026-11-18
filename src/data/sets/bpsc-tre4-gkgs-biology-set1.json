@@ -1,0 +1,821 @@
+{
+  "id": "bpsc-tre4-gkgs-biology-set1",
+  "title": "General Science: Biology Set 1 (30Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Biology",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 30,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Lacteals are concerned with",
+      "hi": "लैक्टियल्स संबंधित हैं",
+      "options": [
+        "production of milk",
+        "secretion of lactic acid",
+        "absorption of fats",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "absorption of fats",
+      "explanation": "Lacteals are specialized lymphatic capillaries situated in the intestinal villi that absorb dietary emulsified fats (chylomicrons) into the lymphatic system.",
+      "tip": "Do not get confused by 'lact-'; in human digestion, lacteals absorb fats, while blood capillaries absorb sugars and amino acids.",
+      "id": 1,
+      "options_hi": [
+        "दूध का उत्पादन",
+        "लैक्टिक अम्ल का स्राव",
+        "वसा का अवशोषण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लैक्टियल्स (दूधिया नलिकाएं) are specialized लसिका कोशिकाएं situated in the आंत्र रसांकुर (विली) that absorb dietary emulsified fats (chylomicrons) into the लसिका तंत्र.",
+      "tip_hi": "Do not get confused by 'lact-'; in human पाचन, लैक्टियल्स (दूधिया नलिकाएं) absorb fats, while blood capillaries absorb sugars and amino acids."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The enzyme which is mixed with food in our mouth is",
+      "hi": "वह एंजाइम, जो हमारे मुँह में भोजन के साथ मिलता है, है",
+      "options": [
+        "pepsin",
+        "peroxidase",
+        "amylase",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "amylase",
+      "explanation": "Salivary amylase (ptyalin) is secreted by salivary glands in the mouth, breaking down complex dietary starch into maltose and dextrin.",
+      "tip": "Amylase operates at pH 6.8 in the mouth; Pepsin breaks down proteins in the stomach in acidic pH (1.5-2.0).",
+      "id": 2,
+      "options_hi": [
+        "पेप्सिन",
+        "peroxidase",
+        "amylase",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin) is secreted by salivary glands in the mouth, breaking down complex dietary starch into maltose and dextrin.",
+      "tip_hi": "Amylase operates at pH 6.8 in the mouth; पेप्सिन breaks down proteins in the आमाशय (पेट) in अम्लीय pH (1.5-2.0)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which pigment is essential for nitrogen fixation by leguminous plants?",
+      "hi": "दलहनी पौधों में नाइट्रोजन स्थिरीकरण के लिए कौन-सा वर्णक आवश्यक है?",
+      "options": [
+        "Anthocyanin",
+        "Leghaemoglobin",
+        "Phycocyanin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Leghaemoglobin",
+      "explanation": "Leghaemoglobin is an oxygen-scavenging pigment in legume root nodules that protects the oxygen-sensitive nitrogenase enzyme, enabling anaerobic nitrogen fixation.",
+      "tip": "Nitrogenase is inactivated by oxygen; leghaemoglobin scavenges oxygen to maintain anaerobic conditions in nodules.",
+      "id": 3,
+      "options_hi": [
+        "Anthocyanin",
+        "Leghaemoglobin",
+        "Phycocyanin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Leghaemoglobin is an oxygen-scavenging pigment in legume root nodules that protects the oxygen-sensitive nitrogenase enzyme, enabling anaerobic nitrogen fixation.",
+      "tip_hi": "Nitrogenase is inactivated by oxygen; leghaemoglobin scavenges oxygen to maintain anaerobic conditions in nodules."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Who wrote the play 'Neel Darpan' describing the plight of the Indigo cultivators of Bengal and Bihar?",
+      "hi": "बंगाल एवं बिहार के नील उत्पादक किसानों की दुर्दशा दर्शाने वाले नाटक 'नील दर्पण' के लेखक कौन हैं?",
+      "options": [
+        "Mahatma Gandhi",
+        "Acharya Kripalani",
+        "Dinabandhu Mitra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Dinabandhu Mitra",
+      "explanation": "Dinabandhu Mitra authored the Bengali drama 'Neel Darpan' (1858-59), depicting the severe exploitation of indigo ryots by British planters.",
+      "tip": "Neel Darpan was translated into English by Michael Madhusudan Dutt and published by Rev. James Long.",
+      "id": 4,
+      "options_hi": [
+        "महात्मा गांधी",
+        "Acharya Kripalani",
+        "Dinabandhu Mitra",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dinabandhu Mitra authored the Bengali drama 'Neel Darpan' (1858-59), depicting the severe exploitation of indigo ryots by British planters.",
+      "tip_hi": "Neel Darpan was translated into English by Michael Madhusudan Dutt and published by Rev. James Long."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "The process in which atmospheric carbon dioxide is converted into carbohydrates during photosynthesis is",
+      "hi": "वह प्रक्रिया, जिसमें प्रकाश-संश्लेषण के दौरान वायुमण्डलीय कार्बन डाइऑक्साइड को कार्बोहाइड्रेट में परिवर्तित किया जाता है, है",
+      "options": [
+        "oxidation",
+        "reduction",
+        "hydrolysis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "reduction",
+      "explanation": "During the Calvin Cycle (dark reaction), carbon dioxide accepts electrons and hydrogen ions to synthesize glucose, representing chemical reduction.",
+      "tip": "In photosynthesis: Water is oxidized to Oxygen, while CO2 is reduced to Carbohydrates.",
+      "id": 5,
+      "options_hi": [
+        "oxidation",
+        "reduction",
+        "hydrolysis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "के दौरान the Calvin Cycle (dark reaction), carbon dioxide accepts electrons and hydrogen ions to synthesize glucose, representing chemical reduction.",
+      "tip_hi": "In प्रकाश संश्लेषण: Water is oxidized to Oxygen, while CO2 is reduced to Carbohydrates."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "Trachoma disease is related to",
+      "hi": "ट्रैकोमा रोग का सम्बन्ध है",
+      "options": [
+        "lungs",
+        "ears",
+        "eyes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "eyes",
+      "explanation": "Trachoma is a contagious bacterial eye infection caused by Chlamydia trachomatis, leading to roughening of the inner eyelids and potential blindness.",
+      "tip": "Common eye disorders in BPSC: Trachoma, Cataract, Glaucoma, Astigmatism, and Myopia.",
+      "id": 6,
+      "options_hi": [
+        "फेफड़े",
+        "ears",
+        "eyes",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Trachoma is a contagious bacterial eye infection caused by Chlamydia trachomatis, leading to roughening of the inner eyelids and potential blindness.",
+      "tip_hi": "Common eye disorders in BPSC: Trachoma, Cataract, Glaucoma, अबिंदुकता (एस्टिग्मैटिज्म), and निकट दृष्टि दोष (मायोपिया)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "Queen Victoria's Proclamation was issued on which of the following dates?",
+      "hi": "महारानी विक्टोरिया की उद्घोषणा निम्नलिखित में से किस तिथि को जारी की गई थी?",
+      "options": [
+        "1 November, 1857",
+        "27 March, 1858",
+        "1 November, 1858",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "1 November, 1858",
+      "explanation": "Lord Canning read Queen Victoria's Proclamation at Allahabad Darbar on 1st November 1858, transferring governance from Company to British Crown.",
+      "tip": "On 1 November 1858, Lord Canning became the first Viceroy of India under the Crown.",
+      "id": 7,
+      "options_hi": [
+        "1 नवम्बर, 1857",
+        "27 मार्च, 1858",
+        "1 नवम्बर, 1858",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Lord Canning read Queen Victoria's Proclamation at Allahabad Darbar on 1st नवम्बर 1858, transferring governance from Company to British Crown.",
+      "tip_hi": "On 1 नवम्बर 1858, Lord Canning became the first Viceroy of India under the Crown."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
+      "en": "Which one of the following is a plant hormone?",
+      "hi": "निम्नलिखित में से कौन-सा एक पादप हॉर्मोन है?",
+      "options": [
+        "Cytokinin",
+        "Insulin",
+        "Oestrogen",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Cytokinin",
+      "explanation": "Cytokinin is a plant growth hormone (phytohormone) that stimulates cell division and morphogenesis. Insulin and Oestrogen are animal hormones.",
+      "tip": "Major Phytohormones: Auxin, Gibberellin, Cytokinin, Abscisic acid (stress hormone), Ethylene (fruit ripening).",
+      "id": 8,
+      "options_hi": [
+        "Cytokinin",
+        "Insulin",
+        "Oestrogen",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Cytokinin is a plant growth hormone (phytohormone) that stimulates cell division and morphogenesis. Insulin and Oestrogen are animal hormones.",
+      "tip_hi": "Major Phytohormones: Auxin, Gibberellin, Cytokinin, Abscisic acid (stress hormone), Ethylene (fruit ripening)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
+      "en": "Who first raised the National Flag outside India?",
+      "hi": "भारत के बाहर सर्वप्रथम राष्ट्रीय ध्वज किसने फहराया था?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Madam Bhikaji Cama",
+        "Rash Behari Bose",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Madam Bhikaji Cama",
+      "explanation": "Madam Bhikaji Cama hoisted the Indian National Flag at the International Socialist Conference in Stuttgart, Germany, on 22nd August 1907.",
+      "tip": "Madam Bhikaji Cama is known as the 'Mother of Indian Revolution'; she published 'Bande Mataram' from Paris.",
+      "id": 9,
+      "options_hi": [
+        "Lala Lajpat Rai",
+        "Madam Bhikaji Cama",
+        "Rash Behari Bose",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Madam Bhikaji Cama hoisted the Indian National Flag at the International Socialist Conference in Stuttgart, Germany, on 22nd अगस्त 1907.",
+      "tip_hi": "Madam Bhikaji Cama is के रूप में जाना जाता है the 'Mother of Indian Revolution'; she published 'Bande Mataram' from Paris."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Newton's First Law of Motion, which asserts that an object continues in its state of rest or uniform motion unless acted upon by an external unbalanced force, is also famously known as",
+      "hi": "न्यूटन का गति का प्रथम नियम, जो यह प्रतिपादित करता है कि कोई वस्तु अपनी विरामावस्था या सरल रेखा में एकसमान गति की अवस्था में बनी रहती है जब तक कि उस पर कोई बाह्य असंतुलित बल न लगे, कहलाता है",
+      "options": [
+        "Law of Conservation of Momentum",
+        "Law of Inertia (जड़त्व का नियम)",
+        "Law of Gravitation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Law of Inertia (जड़त्व का नियम)",
+      "explanation": "First formulated conceptually by Galileo Galilei and formalized by Isaac Newton, the first law describes the inherent property of matter called inertia—the resistance of any physical object to any change in its velocity.",
+      "tip": "Newton's 1st Law = Law of Inertia; Defines force qualitatively.",
+      "id": 10,
+      "options_hi": [
+        "Law of Conservation of Momentum",
+        "Law of Inertia (जड़त्व का नियम)",
+        "Law of Gravitation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "First formulated conceptually by Galileo Galilei and formalized by Isaac Newton, the first law describes the inherent property of matter called inertia—the resistance of any physical object to any change in its velocity.",
+      "tip_hi": "Newton's 1st Law = Law of Inertia; Defines force qualitatively."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Deficiency of iron (Fe) in human nutrition directly impairs the synthesis of which oxygen-carrying protein in red blood cells, resulting in anaemia?(",
+      "hi": "मानव आहार में आयरन (लोहा) की कमी से लाल रक्त कोशिकाओं में किस ऑक्सीजन-वाहक प्रोटीन का निर्माण बाधित होता है, जिसके परिणामस्वरूप रक्ताल्पता (एनीमिया) होता है?)",
+      "options": [
+        "Myoglobin",
+        "Hemoglobin",
+        "Albumin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hemoglobin",
+      "explanation": "Hemoglobin is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
+      "tip": "Iron deficiency = Hemoglobin reduction => Nutritional Anaemia.",
+      "id": 11,
+      "options_hi": [
+        "Myoglobin",
+        "हीमोग्लोबिन",
+        "Albumin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "हीमोग्लोबिन is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
+      "tip_hi": "Iron deficiency = हीमोग्लोबिन reduction => Nutritional Anaemia."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which gaseous phytohormone naturally regulates the ripening of fleshy fruits in plants and is applied commercially in agriculture?",
+      "hi": "पौधों में कौन-सा गैसीय पादप हार्मोन प्राकृतिक रूप से फलों के पकने को नियंत्रित करता है?",
+      "options": [
+        "Auxin",
+        "Ethylene",
+        "Gibberellin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ethylene",
+      "explanation": "Ethylene (C2H4) is the only gaseous plant hormone. It stimulates climacteric fruit ripening, leaf abscission, and senescence. In artificial ripening, calcium carbide reacts with moisture to produce acetylene, an analogue of ethylene.",
+      "tip": "Gaseous fruit-ripening hormone = Ethylene (C2H4); Plant growth promoter = Auxin / Gibberellin.",
+      "id": 12,
+      "options_hi": [
+        "Auxin",
+        "Ethylene",
+        "Gibberellin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ethylene (C2H4) is the only gaseous plant hormone. It stimulates climacteric fruit ripening, leaf abscission, and senescence. In artificial ripening, calcium carbide reacts with moisture to produce acetylene, an analogue of ethylene.",
+      "tip_hi": "Gaseous fruit-ripening hormone = Ethylene (C2H4); Plant growth promoter = Auxin / Gibberellin."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "During the Champaran Satyagraha in 1917, who saved Mahatma Gandhi's life by refusing an order from a British plantation manager to serve poisoned milk to him?",
+      "hi": "1917 के चंपारण सत्याग्रह के दौरान एक ब्रिटिश बगान प्रबंधक द्वारा दिए गए आदेश को नकारते हुए दूध में जहर देकर महात्मा गांधी की हत्या की साजिश को किसने विफल किया था?",
+      "options": [
+        "Raj Kumar Shukla",
+        "Batak Mian (बतक मियां)",
+        "Sant Raut",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Batak Mian (बतक मियां)",
+      "explanation": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted Dr. Rajendra Prasad and Gandhi, exposing the assassination plot.",
+      "tip": "Saved Gandhi's life in Champaran (1917) = Batak Mian (Bettiah/Motihari).",
+      "id": 13,
+      "options_hi": [
+        "Raj Kumar Shukla",
+        "Batak Mian (बतक मियां)",
+        "Sant Raut",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted डॉ. राजेंद्र प्रसाद and Gandhi, exposing the assassination plot.",
+      "tip_hi": "Saved Gandhi's life in Champaran (1917) = Batak Mian (Bettiah/Motihari)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The Kyoto Protocol, adopted internationally in 1997, is an international environmental treaty primarily focused on",
+      "hi": "1997 में अंतर्राष्ट्रीय स्तर पर अपनाया गया क्योटो प्रोटोकॉल मुख्य रूप से किससे संबंधित है?",
+      "options": [
+        "Conservation of endangered migratory bird species",
+        "Reduction of greenhouse gas emissions to combat global climate change",
+        "Eradication of hazardous chemical pesticides",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Reduction of greenhouse gas emissions to combat global climate change",
+      "explanation": "Adopted in Kyoto, Japan under the UNFCCC, the Kyoto Protocol committed industrialized Annex I countries to legally binding targets for reducing greenhouse gases (CO2, CH4, N2O, HFCs, PFCs, SF6).",
+      "tip": "Kyoto Protocol (1997) = Greenhouse Gas reduction; Montreal Protocol (1987) = Ozone layer.",
+      "id": 14,
+      "options_hi": [
+        "Conservation of endangered migratory bird species",
+        "Reduction of greenhouse gas emissions to combat global climate change",
+        "Eradication of hazardous chemical pesticides",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Adopted in Kyoto, Japan under the UNFCCC, the Kyoto Protocol committed industrialized Annex I countries to legally binding targets for reducing greenhouse गैस (CO2, CH4, N2O, HFCs, PFCs, SF6).",
+      "tip_hi": "Kyoto Protocol (1997) = Greenhouse Gas reduction; Montreal Protocol (1987) = Ozone layer."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The official mascot of the Women's Asian Champions Trophy 2023 hockey tournament held in Jharkhand was named 'Juhi', inspired by which iconic animal?",
+      "hi": "झारखंड में आयोजित महिला एशियाई चैंपियंस ट्रॉफी 2023 हॉकी टूर्नामेंट के आधिकारिक शुभंकर का नाम 'जूही' था, जो किस प्रतिष्ठित प्राणी से प्रेरित था?",
+      "options": [
+        "Royal Bengal Tiger",
+        "Elephant of Betla National Park",
+        "One-horned Rhinoceros",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Elephant of Betla National Park",
+      "explanation": "The mascot 'Juhi' was inspired by the beloved female elephant of Betla National Park in Palamu, Jharkhand. The Indian women's hockey team defeated Japan to win the title.",
+      "tip": "Women's Asian Champions Trophy 2023 Mascot = 'Juhi' (Elephant of Betla National Park).\nAnswer Key Summary Table — Set 10 (Questions 361 to 400)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 15,
+      "options_hi": [
+        "Royal Bengal Tiger",
+        "Elephant of Betla National Park",
+        "One-horned Rhinoceros",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The mascot 'Juhi' was inspired by the beloved female elephant of Betla National Park in Palamu, Jharkhand. The Indian women's hockey team defeated Japan to win the title.",
+      "tip_hi": "Women's Asian Champions Trophy 2023 Mascot = 'Juhi' (Elephant of Betla National Park).\nAnswer Key Summary Table — Set 10 (Questions 361 to 400)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "An electrical transformer is a static device designed to step-up or step-down alternating voltage based on the principle of",
+      "hi": "एक विद्युत ट्रांसफॉर्मर किस सिद्धांत पर प्रत्यावर्ती वोल्टेज को बढ़ाने या घटाने के लिए कार्य करता है?",
+      "options": [
+        "Self-induction",
+        "Mutual Induction",
+        "Photoelectric effect",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mutual Induction",
+      "explanation": "A transformer operates on Faraday's law of mutual electromagnetic induction between two magnetically coupled primary and secondary coils wound on a laminated iron core. It cannot step-up or step-down direct current (DC).",
+      "tip": "Transformer works on Mutual Induction and operates only on Alternating Current (AC).",
+      "id": 16,
+      "options_hi": [
+        "Self-induction",
+        "Mutual Induction",
+        "Photoelectric effect",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A transformer operates on Faraday's law of mutual electromagnetic induction between two magnetically coupled primary and secondary coils wound on a laminated iron core. It cannot step-up or step-down direct current (DC).",
+      "tip_hi": "Transformer works on Mutual Induction and operates only on Alternating Current (AC)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Bilirubin and biliverdin are yellow-green waste bile pigments produced primarily by the metabolic degradation of which molecule in the liver?",
+      "hi": "बिलीरुबिन और बिलिवर्डिन मुख्य रूप से यकृत में किस अणु के उपापचयी विघटन से उत्पन्न होने वाले अपशिष्ट पित्त वर्णक हैं?",
+      "options": [
+        "Cholesterol",
+        "Hemoglobin (Heme group)",
+        "Albumin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hemoglobin (Heme group)",
+      "explanation": "Senescent red blood cells are engulfed by macrophages in the spleen and liver. The heme ring of hemoglobin is catabolized by heme oxygenase into biliverdin, which is reduced to bilirubin and excreted via bile into the intestine.",
+      "tip": "Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of Hemoglobin.",
+      "id": 17,
+      "options_hi": [
+        "Cholesterol",
+        "हीमोग्लोबिन (Heme group)",
+        "Albumin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Senescent लाल रक्त कणिकाएं (RBC) are engulfed by macrophages in the spleen and यकृत (लीवर). The heme ring of हीमोग्लोबिन is catabolized by heme oxygenase into biliverdin, जो कि reduced to bilirubin and excreted via bile into the intestine.",
+      "tip_hi": "Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of हीमोग्लोबिन."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Severe nutritional deficiency of Vitamin D in growing children leads to which skeletal disorder characterized by soft, weakened, and deformed bones?",
+      "hi": "बढ़ते बच्चों में विटामिन D की गंभीर पोषण संबंधी कमी से कौन-सा अस्थि रोग होता है जिसमें हड्डियां कमजोर और मुड़ जाती हैं?",
+      "options": [
+        "Scurvy",
+        "Rickets (सूखा रोग)",
+        "Beriberi",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rickets (सूखा रोग)",
+      "explanation": "Vitamin D (cholecalciferol) is required for intestinal absorption of calcium and phosphorus. Deficiency in children impairs bone mineralization, causing rickets (bowlegs, knock-knees, pigeon chest). In adults, it causes osteomalacia.",
+      "tip": "Vitamin D deficiency = Rickets (in children) / Osteomalacia (in adults); Vitamin C = Scurvy; Vitamin B1 = Beriberi.",
+      "id": 18,
+      "options_hi": [
+        "Scurvy",
+        "Rickets (सूखा रोग)",
+        "Beriberi",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vitamin D (cholecalciferol) is required for intestinal absorption of calcium and phosphorus. Deficiency in children impairs bone mineralization, causing rickets (bowlegs, knock-knees, pigeon chest). In adults, it causes osteomalacia.",
+      "tip_hi": "Vitamin D deficiency = Rickets (in children) / Osteomalacia (in adults); Vitamin C = Scurvy; Vitamin B1 = Beriberi."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which blood group in the ABO system is designated as the 'Universal Recipient' because its plasma contains neither anti-A nor anti-B antibodies?(ABO",
+      "hi": "प्रणाली में किस रक्त समूह को 'सर्वग्राही' (Universal Recipient) कहा जाता है क्योंकि इसके प्लाज्मा में न तो एंटी-A और न ही एंटी-B एंटीबॉडी होते हैं?)",
+      "options": [
+        "O Positive",
+        "AB Positive",
+        "A Positive",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "AB Positive",
+      "explanation": "Blood group AB Positive possesses both A and B antigens on RBC surfaces and lacks anti-A, anti-B, and anti-Rh antibodies in plasma. Hence, it can receive blood cells from all ABO and Rh types without agglutination.",
+      "tip": "Universal Recipient = AB Positive; Universal Donor = O Negative.",
+      "id": 19,
+      "options_hi": [
+        "O Positive",
+        "AB Positive",
+        "A Positive",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Blood group AB Positive possesses both A and B antigens on RBC surfaces and lacks anti-A, anti-B, and anti-Rh antibodies in plasma. Hence, it can receive blood cells from all ABO and Rh types without agglutination.",
+      "tip_hi": "Universal Recipient = AB Positive; Universal Donor = O Negative."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was awarded the prestigious Nobel Prize in Literature 2023 'for his innovative plays and prose which give voice to the unsayable'?",
+      "hi": "'उनके अभिनव नाटकों और गद्य के लिए जो अनकहे को आवाज देते हैं' 2023 का साहित्य का नोबेल पुरस्कार किसे प्रदान किया गया?",
+      "options": [
+        "Annie Ernaux",
+        "Jon Fosse (योन फॉसे)",
+        "Abdulrazak Gurnah",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jon Fosse (योन फॉसे)",
+      "explanation": "The Swedish Academy awarded the 2023 Nobel Prize in Literature to Norwegian playwright and novelist Jon Fosse, written in Norwegian Nynorsk.",
+      "tip": "Nobel Prize Literature 2023 = Jon Fosse (Norway); 2022 = Annie Ernaux (France).",
+      "id": 20,
+      "options_hi": [
+        "Annie Ernaux",
+        "Jon Fosse (योन फॉसे)",
+        "Abdulrazak Gurnah",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Swedish Academy awarded the 2023 Nobel Prize in Literature to Norwegian playwright and novelist Jon Fosse, written in Norwegian Nynorsk.",
+      "tip_hi": "Nobel Prize Literature 2023 = Jon Fosse (Norway); 2022 = Annie Ernaux (France)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which gas is released during photosynthesis when water molecules (H2O) are split by light in the thylakoid membrane (photolysis)?(",
+      "hi": "थाइलेकोइड झिल्ली में प्रकाश द्वारा जल के अणुओं (H2O) के विखंडन (फोटोलाइसिस) से प्रकाश संश्लेषण के दौरान कौन-सी गैस मुक्त होती है?)",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen (O2)",
+        "Hydrogen",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Oxygen (O2)",
+      "explanation": "In light-dependent reactions of photosynthesis, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.",
+      "tip": "Evolved Oxygen in photosynthesis comes from Water (H2O), not from Carbon Dioxide.",
+      "id": 21,
+      "options_hi": [
+        "Carbon dioxide",
+        "Oxygen (O2)",
+        "Hydrogen",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In light-dependent reactions of प्रकाश संश्लेषण, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.",
+      "tip_hi": "Evolved Oxygen in प्रकाश संश्लेषण comes from Water (H2O), not from Carbon Dioxide."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Pointing to a photograph of a gentleman, Deepak said, 'His only brother is the father of my daughter's father.' How is the gentleman related to Deepak?",
+      "hi": "एक सज्जन की तस्वीर की ओर इशारा करते हुए दीपक ने कहा, 'इनका एकमात्र भाई मेरी पुत्री के पिता का पिता है।' वह सज्जन दीपक से किस प्रकार संबंधित हैं?",
+      "options": [
+        "Grandfather",
+        "Uncle (चाचा)",
+        "Father",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Uncle (चाचा)",
+      "explanation": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).",
+      "tip": "Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle.",
+      "id": 22,
+      "options_hi": [
+        "Grandfather",
+        "Uncle (चाचा)",
+        "Father",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).",
+      "tip_hi": "Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Optical fibres utilized in telecommunication and endoscopic medical probes transmit light signals along their core by virtue of",
+      "hi": "दूरसंचार और एंडोस्कोपी में उपयोग किए जाने वाले ऑप्टिकल फाइबर किस सिद्धांत पर प्रकाश संकेतों को संचरित करते हैं?",
+      "options": [
+        "Continuous optical scattering",
+        "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)",
+        "Optical polarization",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)",
+      "explanation": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.",
+      "tip": "Optical Fibre = Total Internal Reflection (TIR); Core refractive index > Cladding refractive index.",
+      "id": 23,
+      "options_hi": [
+        "Continuous optical scattering",
+        "पूर्ण आंतरिक परावर्तन (पूर्ण आंतरिक परावर्तन)",
+        "Optical polarization",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.",
+      "tip_hi": "ऑप्टिकल फाइबर = पूर्ण आंतरिक परावर्तन (TIR); Core refractive index > Cladding refractive index."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which of the following vitamins is water-soluble and must be regularly replenished in the human diet because excess amounts are excreted in urine?",
+      "hi": "निम्नलिखित में से कौन-सा विटामिन जल में घुलनशील है और इसे मानव आहार में नियमित रूप से लेना आवश्यक है क्योंकि अतिरिक्त मात्रा मूत्र के साथ उत्सर्जित हो जाती है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin C (Ascorbic Acid)",
+        "Vitamin D",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Vitamin C (Ascorbic Acid)",
+      "explanation": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the liver and adipose tissue.",
+      "tip": "Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K.",
+      "id": 24,
+      "options_hi": [
+        "Vitamin A",
+        "Vitamin C (Ascorbic Acid)",
+        "Vitamin D",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the यकृत (लीवर) and adipose tissue.",
+      "tip_hi": "Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was chosen as the first Individual Satyagrahi in Bihar when Mahatma Gandhi launched the Individual Civil Disobedience movement in 1940?",
+      "hi": "1940 में महात्मा गांधी द्वारा व्यक्तिगत सत्याग्रह आंदोलन शुरू किए जाने पर बिहार में प्रथम व्यक्तिगत सत्याग्रही किसे चुना गया था?",
+      "options": [
+        "Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh",
+        "Gauri Shankar Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Sri Krishna Singh",
+      "explanation": "On 27 November 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the second individual satyagrahi of Bihar.",
+      "tip": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = Jawaharlal Nehru. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha.",
+      "id": 25,
+      "options_hi": [
+        "Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh",
+        "Gauri Shankar Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 27 नवम्बर 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the सेकंड individual satyagrahi of Bihar.",
+      "tip_hi": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = जवाहरलाल नेहरू. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which freshwater fish species was officially declared as the 'State Fish of Bihar' by the State Government in 2008?",
+      "hi": "2008 में राज्य सरकार द्वारा किस मीठे पानी की मछली को 'बिहार की राज्य मछली' घोषित किया गया था?",
+      "options": [
+        "Rohu (Labeo rohita)",
+        "Desi Magur (Clarias batrachus)",
+        "Katla (Gibelion catla)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Desi Magur (Clarias batrachus)",
+      "explanation": "On 10 July 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.",
+      "tip": "State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya).",
+      "id": 26,
+      "options_hi": [
+        "Rohu (Labeo rohita)",
+        "Desi Magur (Clarias batrachus)",
+        "Katla (Gibelion catla)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 10 जुलाई 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.",
+      "tip_hi": "State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the name of the state animal (राजकीय पशु) of Bihar?",
+      "hi": "बिहार का राजकीय पशु कौन-सा है?",
+      "options": [
+        "Royal Bengal Tiger",
+        "Gaur / Ox (बैल)",
+        "One-horned Rhino",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Gaur / Ox (बैल)",
+      "explanation": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).",
+      "tip": "Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda).",
+      "id": 27,
+      "options_hi": [
+        "Royal Bengal Tiger",
+        "Gaur / Ox (बैल)",
+        "One-horned Rhino",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).",
+      "tip_hi": "Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the official State Bird (राजकीय पक्षी) of Bihar, celebrated annually on 20 March on World Sparrow Day?",
+      "hi": "बिहार का राजकीय पक्षी कौन-सा है, जिसकी स्मृति में प्रतिवर्ष 20 मार्च को विश्व गौरैया दिवस मनाया जाता है?",
+      "options": [
+        "Indian Roller (Neelkanth)",
+        "House Sparrow (गौरैया)",
+        "Great Indian Bustard",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "House Sparrow (गौरैया)",
+      "explanation": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.",
+      "tip": "State Bird of Bihar = House Sparrow (गौरैया); 20 March = World Sparrow Day.",
+      "id": 28,
+      "options_hi": [
+        "Indian Roller (Neelkanth)",
+        "House Sparrow (गौरैया)",
+        "Great Indian Bustard",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.",
+      "tip_hi": "State Bird of Bihar = House Sparrow (गौरैया); 20 मार्च = World Sparrow दिन."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In which district of Bihar was the historic 'Vikramashila Mahavihara', a premier international Buddhist university founded by King Dharmapala of the Pala dynasty, situated?",
+      "hi": "पाल वंश के राजा धर्मपाल द्वारा स्थापित अंतरराष्ट्रीय बौद्ध विश्वविद्यालय 'विक्रमशिला महाविहार' बिहार के किस जिले में स्थित था?",
+      "options": [
+        "Nalanda",
+        "Bhagalpur (Antichak)",
+        "Banka",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bhagalpur (Antichak)",
+      "explanation": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.",
+      "tip": "Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I).",
+      "id": 29,
+      "options_hi": [
+        "Nalanda",
+        "Bhagalpur (Antichak)",
+        "Banka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.",
+      "tip_hi": "Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Household vinegar is an aqueous solution containing approximately 5% to 8% of which organic chemical acid?(",
+      "hi": "घरेलू सिरका (Vinegar) में लगभग 5% से 8% किस कार्बनिक अम्ल का जलीय घोल होता है?)",
+      "options": [
+        "Formic Acid",
+        "Acetic Acid (Ethanoic Acid, CH3COOH)",
+        "Lactic Acid",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Acetic Acid (Ethanoic Acid, CH3COOH)",
+      "explanation": "Vinegar is produced by bacterial fermentation of ethanol by Acetobacter into dilute acetic acid (CH3COOH, 5-8% v/v), widely used as a food preservative and flavoring.",
+      "tip": "Vinegar = Acetic Acid (CH3COOH); Curd = Lactic Acid; Sour milk = Lactic Acid.",
+      "id": 30,
+      "options_hi": [
+        "फॉर्मिक अम्ल",
+        "एसिटिक अम्ल (Ethanoic Acid, CH3COOH)",
+        "लैक्टिक अम्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vinegar is produced by bacterial fermentation of ethanol by Acetobacter into dilute एसिटिक अम्ल (CH3COOH, 5-8% v/v), widely used as a food preservative and flavoring.",
+      "tip_hi": "Vinegar = एसिटिक अम्ल (CH3COOH); Curd = लैक्टिक अम्ल; Sour milk = लैक्टिक अम्ल."
+    }
+  ]
+}

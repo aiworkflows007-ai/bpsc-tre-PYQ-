@@ -1,0 +1,119 @@
+{
+  "id": "bpsc-tre4-gkgs-chemistry-set4",
+  "title": "General Science: Chemistry Set 4 (4Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Chemistry",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 4,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "According to Joule's law of heating, the heat produced in a resistor of resistance R carrying a current I for time t is given by",
+      "hi": "जूल के तापीय नियम के अनुसार, t समय के लिए I धारा प्रवाहित होने पर R प्रतिरोध वाले चालक में उत्पन्न ऊष्मा का मान होता है",
+      "options": [
+        "H = I · R · t",
+        "H = I^2 · R · t",
+        "H = I · R^2 · t",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "H = I^2 · R · t",
+      "explanation": "Joule's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.",
+      "tip": "Joule's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t.",
+      "id": 1,
+      "options_hi": [
+        "H = I · R · t",
+        "H = I^2 · R · t",
+        "H = I · R^2 · t",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जूल's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.",
+      "tip_hi": "जूल's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In the catastrophic Bihar-Nepal Earthquake of 15 January 1934, who established the 'Bihar Central Relief Committee' to organize non-official relief and rehabilitation work?",
+      "hi": "15 जनवरी 1934 के विनाशकारी बिहार-नेपाल भूकंप के बाद गैर-सरकारी राहत और पुनर्वास कार्यों के संचालन हेतु 'बिहार सेंट्रल रिलीफ कमेटी' का गठन किसने किया था?",
+      "options": [
+        "Mahatma Gandhi",
+        "Dr. Rajendra Prasad",
+        "Sri Krishna Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Rajendra Prasad",
+      "explanation": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), Dr. Rajendra Prasad formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
+      "tip": "Bihar Central Relief Committee (1934 Earthquake) = Dr. Rajendra Prasad.",
+      "id": 2,
+      "options_hi": [
+        "महात्मा गांधी",
+        "डॉ. राजेंद्र प्रसाद",
+        "Sri Krishna Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), डॉ. राजेंद्र प्रसाद formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
+      "tip_hi": "Bihar Central Relief Committee (1934 Earthquake) = डॉ. राजेंद्र प्रसाद."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which State in India is the largest producer of bauxite ore, with major deposits located in the Panchpatmali hills of Koraput district?",
+      "hi": "भारत का कौन-सा राज्य बॉक्साइट अयस्क का सबसे बड़ा उत्पादक है, जिसके प्रमुख भंडार कोरापुट जिले की पंचपतमली पहाड़ियों में स्थित हैं?",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Odisha",
+      "explanation": "Odisha accounts for over 50% of India's total bauxite production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).",
+      "tip": "Leading mineral producers: Bauxite = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh.",
+      "id": 3,
+      "options_hi": [
+        "Jharkhand",
+        "Odisha",
+        "Chhattisgarh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Odisha accounts for over 50% of India's total बॉक्साइट production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).",
+      "tip_hi": "Leading mineral producers: बॉक्साइट = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the chief architect of the new Parliament House of India inaugurated in New Delhi in May 2023 under the Central Vista Redevelopment Project?",
+      "hi": "मई 2023 में सेंट्रल विस्टा पुनर्विकास परियोजना के तहत नई दिल्ली में उद्घाटित भारत के नए संसद भवन के मुख्य वास्तुकार कौन थे?",
+      "options": [
+        "Hafeez Contractor",
+        "Dr. Bimal Patel",
+        "Raj Rewal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Bimal Patel",
+      "explanation": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new Parliament building, featuring the Lok Sabha chamber styled on the National Bird Peacock and Rajya Sabha on the National Flower Lotus.",
+      "tip": "New Parliament Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad).",
+      "id": 4,
+      "options_hi": [
+        "Hafeez Contractor",
+        "Dr. Bimal Patel",
+        "Raj Rewal",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new संसद building, featuring the लोकसभा chamber styled on the National Bird Peacock and राज्यसभा on the National Flower Lotus.",
+      "tip_hi": "New संसद Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad)."
+    }
+  ]
+}

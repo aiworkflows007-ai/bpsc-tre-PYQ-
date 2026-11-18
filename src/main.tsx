@@ -97,6 +97,26 @@ export function formatOptionLabel(opt: string, index: number, lang: 'en' | 'hi')
   return opt
 }
 
+export function getOptionText(q: QuestionItem, i: number, lang: 'en' | 'hi'): string {
+  if (lang === 'hi') {
+    if (q.options_hi && q.options_hi[i]) {
+      return formatOptionLabel(q.options_hi[i], i, 'hi')
+    }
+    return formatOptionLabel(q.options[i] || '', i, 'hi')
+  }
+  return formatOptionLabel(q.options[i] || '', i, 'en')
+}
+
+export function getAnswerText(q: QuestionItem, lang: 'en' | 'hi'): string {
+  if (lang === 'hi') {
+    if (q.options_hi && q.options_hi[q.answer]) {
+      return formatOptionLabel(q.options_hi[q.answer], q.answer, 'hi')
+    }
+    return formatOptionLabel(q.answer_text || q.options[q.answer] || '', q.answer, 'hi')
+  }
+  return formatOptionLabel(q.answer_text || q.options[q.answer] || '', q.answer, 'en')
+}
+
 const copy = {
   en: {
     start: 'Start your preparation',
@@ -356,6 +376,109 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
   )
 }
 
+export const GKGS_SUBJECT_CONFIG = [
+  {
+    key: 'biology',
+    subject: 'General Science: Biology',
+    nameEn: 'General Science: Biology',
+    nameHi: 'जीव विज्ञान (Biology)',
+    icon: '🧬',
+    descEn: 'Cell Biology, Human Physiology, Genetics, Botany, Nutrition & Diseases',
+    descHi: 'कोशिका, मानव शरीर क्रिया विज्ञान, आनुवंशिकी, पादप कार्यिकी, पोषण एवं रोग',
+    tag: '4 Sets · 102 Questions'
+  },
+  {
+    key: 'chemistry',
+    subject: 'General Science: Chemistry',
+    nameEn: 'General Science: Chemistry',
+    nameHi: 'रसायन विज्ञान (Chemistry)',
+    icon: '🧪',
+    descEn: 'Periodic Table, Acids, Bases & Salts, Carbon Compounds, Chemical Reactions',
+    descHi: 'आवर्त सारणी, अम्ल, क्षार एवं लवण, कार्बन यौगिक, रासायनिक अभिक्रियाएँ',
+    tag: '4 Sets · 79 Questions'
+  },
+  {
+    key: 'physics',
+    subject: 'General Science: Physics',
+    nameEn: 'General Science: Physics',
+    nameHi: 'भौतिक विज्ञान (Physics)',
+    icon: '⚡',
+    descEn: 'Optics, Mechanics, Electricity, Magnetism, Sound, Heat & Modern Physics',
+    descHi: 'प्रकाशिकी, यांत्रिकी, विद्युत, चुंबकत्व, ध्वनि, ऊष्मा एवं आधुनिक भौतिकी',
+    tag: '2 Sets · 37 Questions'
+  },
+  {
+    key: 'math',
+    subject: 'Elementary Mathematics',
+    nameEn: 'Elementary Mathematics',
+    nameHi: 'प्रारंभिक गणित (Mathematics)',
+    icon: '📐',
+    descEn: 'Number System, Percentage, Profit & Loss, SI/CI, Algebra, Geometry, Mensuration',
+    descHi: 'संख्या पद्धति, प्रतिशत, लाभ-हानि, साधारण/चक्रवृद्धि ब्याज, बीजगणित, क्षेत्रमिति',
+    tag: '6 Sets · 131 Questions'
+  },
+  {
+    key: 'reasoning',
+    subject: 'Mental Ability & Reasoning',
+    nameEn: 'Mental Ability & Reasoning',
+    nameHi: 'तर्कशक्ति (Mental Ability & Reasoning)',
+    icon: '🧠',
+    descEn: 'Coding-Decoding, Series, Syllogism, Blood Relations, Analogy & Puzzle Solving',
+    descHi: 'कोडिंग-डिकोडिंग, श्रेणी, न्यायवाक्य, रक्त संबंध, सादृश्यता एवं पहेली परीक्षण',
+    tag: '2 Sets · 25 Questions'
+  },
+  {
+    key: 'history',
+    subject: 'Indian National Movement & History',
+    nameEn: 'Indian National Movement & History',
+    nameHi: 'भारतीय राष्ट्रीय आंदोलन एवं इतिहास',
+    icon: '🏛️',
+    descEn: '1857 Revolt, Freedom Struggle, Champaran Satyagraha, Quit India & Ancient/Medieval Bihar',
+    descHi: '1857 की क्रांति, स्वतंत्रता संग्राम, चंपारण सत्याग्रह, भारत छोड़ो आंदोलन एवं बिहार का इतिहास',
+    tag: '3 Sets · 70 Questions'
+  },
+  {
+    key: 'geography',
+    subject: 'Geography & Environment',
+    nameEn: 'Geography & Environment',
+    nameHi: 'भूगोल एवं पर्यावरण (Geography & Environment)',
+    icon: '🌍',
+    descEn: 'Physical Geography, Rivers of Bihar & India, Climate, Soil, Agriculture, Ecology',
+    descHi: 'भारत व बिहार की नदियाँ, जलवायु, मिट्टी, कृषि, खनिज, वन एवं पारिस्थितिकी',
+    tag: '2 Sets · 46 Questions'
+  },
+  {
+    key: 'polity',
+    subject: 'Indian Polity & Economy',
+    nameEn: 'Indian Polity & Economy',
+    nameHi: 'भारतीय संविधान एवं अर्थव्यवस्था',
+    icon: '⚖️',
+    descEn: 'Preamble, Fundamental Rights, Parliament, Panchayati Raj, Bihar Budget & Economic Survey',
+    descHi: 'प्रस्तावना, मौलिक अधिकार, संसद, पंचायती राज व्यवस्था, बिहार बजट व आर्थिक सर्वेक्षण',
+    tag: '2 Sets · 42 Questions'
+  },
+  {
+    key: 'bihar',
+    subject: 'Bihar Special & Current Affairs',
+    nameEn: 'Bihar Special & Current Affairs',
+    nameHi: 'बिहार विशेष एवं समसामयिकी',
+    icon: '📍',
+    descEn: 'Bihar Census 2011, State Schemes, National & International Current Affairs, Awards',
+    descHi: 'बिहार जनगणना 2011, राजकीय योजनाएँ, राष्ट्रीय व अंतर्राष्ट्रीय करंट अफेयर्स, पुरस्कार',
+    tag: '2 Sets · 28 Questions'
+  },
+  {
+    key: 'mock',
+    subject: 'Full 40Q Mock Papers',
+    nameEn: 'Full 40Q Mock Papers (All Subjects Mixed)',
+    nameHi: 'संपूर्ण 40-प्रश्नीय फुल मॉक टेस्ट (मिश्रित)',
+    icon: '📝',
+    descEn: 'Exact BPSC Exam Pattern: 14 Full Mock Tests of 40 Questions each simulating the real test',
+    descHi: 'हूबहू BPSC TRE 4.0 परीक्षा प्रारूप: प्रत्येक सेट में सभी विषयों से 40 प्रामाणिक प्रश्न (14 सेट)',
+    tag: '14 Full Sets · 560 Questions'
+  }
+]
+
 function AppHome({
   lang,
   setRoute,
@@ -374,6 +497,13 @@ function AppHome({
     if (initialSubject === 'hindi') return 'General Hindi'
     return null
   })
+  const [selectedGkGsSubject, setSelectedGkGsSubject] = useState<string | null>(() => {
+    if (initial === 'gk_gs' && initialSubject) {
+      const match = GKGS_SUBJECT_CONFIG.find(c => c.key === initialSubject)
+      if (match) return match.subject
+    }
+    return null
+  })
   const [selectedSet, setSelectedSet] = useState<SetMeta | null>(null)
   const [freeMode, setFreeMode] = useState<boolean>(() => prefs.get('free_mode_unlock_all', false))
 
@@ -382,12 +512,26 @@ function AppHome({
       setCategory(initial)
       setSelectedSet(null)
     }
-    if (initialSubject === 'english') {
-      setSelectedQualifyingSubject('English Language')
-    } else if (initialSubject === 'hindi') {
-      setSelectedQualifyingSubject('General Hindi')
-    } else if (!initialSubject && initial === 'qualifying') {
+    if (initial === 'qualifying') {
+      if (initialSubject === 'english') {
+        setSelectedQualifyingSubject('English Language')
+      } else if (initialSubject === 'hindi') {
+        setSelectedQualifyingSubject('General Hindi')
+      } else {
+        setSelectedQualifyingSubject(null)
+      }
+      setSelectedGkGsSubject(null)
+    } else if (initial === 'gk_gs') {
+      if (initialSubject) {
+        const match = GKGS_SUBJECT_CONFIG.find(c => c.key === initialSubject)
+        setSelectedGkGsSubject(match ? match.subject : null)
+      } else {
+        setSelectedGkGsSubject(null)
+      }
       setSelectedQualifyingSubject(null)
+    } else {
+      setSelectedQualifyingSubject(null)
+      setSelectedGkGsSubject(null)
     }
   }, [initial, initialSubject])
 
@@ -398,8 +542,12 @@ function AppHome({
       if (!selectedQualifyingSubject) return []
       return SETS_CATALOG.filter(s => s.section === 'qualifying' && s.subject === selectedQualifyingSubject)
     }
+    if (category === 'gk_gs') {
+      if (!selectedGkGsSubject) return []
+      return SETS_CATALOG.filter(s => s.section === 'gk_gs' && s.subject === selectedGkGsSubject)
+    }
     return SETS_CATALOG.filter(s => s.section === category)
-  }, [category, selectedQualifyingSubject])
+  }, [category, selectedQualifyingSubject, selectedGkGsSubject])
 
   return (
     <main className="app-shell">
@@ -410,6 +558,7 @@ function AppHome({
           onClick={() => {
             setCategory('')
             setSelectedQualifyingSubject(null)
+            setSelectedGkGsSubject(null)
             setSelectedSet(null)
             location.hash = '#/app'
           }}
@@ -425,6 +574,9 @@ function AppHome({
               setCategory(sec.id)
               if (sec.id === 'qualifying') {
                 setSelectedQualifyingSubject(null)
+              }
+              if (sec.id === 'gk_gs') {
+                setSelectedGkGsSubject(null)
               }
               setSelectedSet(null)
               location.hash = `#/app?category=${sec.id}`
@@ -459,6 +611,10 @@ function AppHome({
             ? (lang === 'hi' ? 'अर्हता परीक्षा: भाषा विषय का चयन करें' : 'Part-I Qualifying: Select Language Subject')
             : category === 'qualifying' && selectedQualifyingSubject
             ? (selectedQualifyingSubject === 'English Language' ? 'Part-I General English Sets (100% English)' : 'भाग-I सामान्य हिन्दी अभ्यास सेट (100% हिन्दी)')
+            : category === 'gk_gs' && !selectedGkGsSubject
+            ? (lang === 'hi' ? 'भाग-2 सामान्य अध्ययन: विषय का चयन करें' : 'Part-II General Studies: Select Subject Track')
+            : category === 'gk_gs' && selectedGkGsSubject
+            ? `${selectedGkGsSubject} (${SETS_CATALOG.filter(s => s.section === 'gk_gs' && s.subject === selectedGkGsSubject).length} Sets)`
             : !selectedSet
             ? activeSection ? (lang === 'hi' ? activeSection.hi : activeSection.name) : t.chooseSub
             : selectedSet.title}
@@ -477,6 +633,9 @@ function AppHome({
                     setCategory(sec.id)
                     if (sec.id === 'qualifying') {
                       setSelectedQualifyingSubject(null)
+                    }
+                    if (sec.id === 'gk_gs') {
+                      setSelectedGkGsSubject(null)
                     }
                     location.hash = `#/app?category=${sec.id}`
                   }}
@@ -574,8 +733,74 @@ function AppHome({
           </div>
         )}
 
+        {/* 2b. GK/GS Subject Chooser */}
+        {category === 'gk_gs' && !selectedGkGsSubject && !selectedSet && (
+          <div className="gkgs-subject-chooser">
+            <div style={{ marginBottom: '16px' }}>
+              <button
+                className="back"
+                onClick={() => {
+                  setCategory('')
+                  location.hash = '#/app'
+                }}
+              >
+                ← {lang === 'hi' ? 'सभी परीक्षा खंड देखें' : 'Change exam section'}
+              </button>
+            </div>
+
+            <div className="gkgs-banner-hero">
+              <span className="source-tag" style={{ background: '#0e5f59', color: '#fff', fontSize: '11px', fontWeight: 700 }}>
+                PART-II GENERAL STUDIES · 40 MARKS MERIT PAPER
+              </span>
+              <h2>{lang === 'hi' ? 'सामान्य अध्ययन विषय का चयन करें' : 'Select Your General Studies Subject Track'}</h2>
+              <p>
+                {lang === 'hi'
+                  ? 'BPSC TRE 4.0 के भाग-2 में 40 अंकों का सामान्य अध्ययन अनिवार्य है। अपनी विषयवार तैयारी को मजबूत करने के लिए नीचे दिए गए विषयों में से किसी एक को चुनें और 80% मास्टरी अनलॉक प्रणाली के साथ सेट-वाइज अभ्यास करें:'
+                  : 'BPSC TRE Part-II General Studies carries 40 marks across all teaching levels. Select a subject track below to practice authentic set-wise previous year questions with 80% mastery unlock progression:'}
+              </p>
+            </div>
+
+            <div className="gkgs-cards-grid">
+              {GKGS_SUBJECT_CONFIG.map(item => {
+                const count = SETS_CATALOG.filter(s => s.section === 'gk_gs' && s.subject === item.subject).length
+                const totalQ = SETS_CATALOG.filter(s => s.section === 'gk_gs' && s.subject === item.subject).reduce((acc, s) => acc + s.question_count, 0)
+                return (
+                  <div
+                    key={item.key}
+                    className="gkgs-choice-card"
+                    onClick={() => {
+                      setSelectedGkGsSubject(item.subject)
+                      location.hash = `#/app?category=gk_gs&subject=${item.key}`
+                    }}
+                  >
+                    <div>
+                      <div className="gkgs-card-top">
+                        <span className="gkgs-card-tag">{count} SETS · {totalQ} Qs</span>
+                        <div className="gkgs-card-icon">{item.icon}</div>
+                      </div>
+                      <h3>{lang === 'hi' ? item.nameHi : item.nameEn}</h3>
+                      <p>{lang === 'hi' ? item.descHi : item.descEn}</p>
+                      <div className="gkgs-card-features">
+                        <span>✓ {count} Set-Wise Tests ({totalQ} Authentic PYQs)</span>
+                        <span>✓ 80% Mastery Progression Unlock Rule</span>
+                        <span>✓ Bilingual (English / हिन्दी) with Detailed Solutions</span>
+                      </div>
+                    </div>
+                    <button className="gkgs-select-btn">
+                      {lang === 'hi' ? `${item.nameHi.split(' ')[0]} सेट अभ्यास शुरू करें →` : `Explore ${item.nameEn.split(':')[1]?.trim() || item.nameEn} Sets →`}
+                    </button>
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        )}
+
         {/* 3. Sets List in Selected Category with 80% Progression */}
-        {((category && category !== 'qualifying') || (category === 'qualifying' && selectedQualifyingSubject)) && !selectedSet && (
+        {((category && category !== 'qualifying' && category !== 'gk_gs') ||
+          (category === 'qualifying' && selectedQualifyingSubject) ||
+          (category === 'gk_gs' && selectedGkGsSubject)) &&
+          !selectedSet && (
           <>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px', flexWrap: 'wrap', gap: '10px' }}>
               {category === 'qualifying' ? (
@@ -587,6 +812,16 @@ function AppHome({
                   }}
                 >
                   ← {lang === 'hi' ? 'भाषा विषय बदलें (Change Language Subject)' : 'Change Language Subject'}
+                </button>
+              ) : category === 'gk_gs' ? (
+                <button
+                  className="back"
+                  onClick={() => {
+                    setSelectedGkGsSubject(null)
+                    location.hash = '#/app?category=gk_gs'
+                  }}
+                >
+                  ← {lang === 'hi' ? 'सामान्य अध्ययन विषय बदलें (Change GK/GS Subject)' : 'Change GK/GS Subject'}
                 </button>
               ) : (
                 <button
@@ -921,7 +1156,7 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
                   onClick={() => setAnswers(a => ({ ...a, [q.id]: i }))}
                 >
                   <b>{String.fromCharCode(65 + i)}</b>
-                  <span>{formatOptionLabel(o, i, qLang)}</span>
+                  <span>{getOptionText(q, i, qLang)}</span>
                 </button>
               ))}
             </div>
@@ -947,17 +1182,17 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
                 <p className="sol-answer">
                   <b>{qLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b>{' '}
                   <span className="ans-pill">
-                    ({q.answer_letter}) {formatOptionLabel(q.answer_text || q.options[q.answer], q.answer, qLang)}
+                    ({q.answer_letter}) {getAnswerText(q, qLang)}
                   </span>
                 </p>
                 <div className="sol-explanation">
                   <b>{qLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या:' : 'Official Explanation:'}</b>
-                  <p>{q.explanation}</p>
+                  <p>{qLang === 'hi' ? (q.explanation_hi || q.explanation) : q.explanation}</p>
                 </div>
-                {q.tip && (
+                {(q.tip || q.tip_hi) && (
                   <div className="tip-box">
                     <b>{qLang === 'hi' ? '💡 परीक्षा-संकेत एवं ट्रिक्स:' : "💡 Exam Setter's Tip & Quick Trick:"}</b>
-                    {q.tip}
+                    {qLang === 'hi' ? (q.tip_hi || q.tip) : q.tip}
                   </div>
                 )}
               </div>
@@ -1155,22 +1390,23 @@ function Results({
               <p>
                 <b>{resLang === 'hi' ? 'आपका उत्तर:' : 'Your choice:'}</b>{' '}
                 {answers[q.id] !== undefined
-                  ? `(${String.fromCharCode(65 + answers[q.id])}) ${formatOptionLabel(q.options[answers[q.id]], answers[q.id], resLang)}`
+                  ? `(${String.fromCharCode(65 + answers[q.id])}) ${getOptionText(q, answers[q.id], resLang)}`
                   : (resLang === 'hi' ? 'उत्तर नहीं दिया' : 'Not attempted')}
               </p>
               <p style={{ color: '#147d75' }}>
                 <b>{resLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b> ({q.answer_letter}){' '}
-                {formatOptionLabel(q.answer_text || q.options[q.answer], q.answer, resLang)}
+                {getAnswerText(q, resLang)}
               </p>
 
               <p>
-                <b>{resLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या / समाधान:' : 'Official Explanation:'}</b> {q.explanation}
+                <b>{resLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या / समाधान:' : 'Official Explanation:'}</b>{' '}
+                {resLang === 'hi' ? (q.explanation_hi || q.explanation) : q.explanation}
               </p>
 
-              {q.tip && (
+              {(q.tip || q.tip_hi) && (
                 <div className="tip-box">
                   <b>{resLang === 'hi' ? '💡 परीक्षा-संकेत एवं ट्रिक्स:' : "💡 Exam Setter's Tip / Trick:"}</b>
-                  {q.tip}
+                  {resLang === 'hi' ? (q.tip_hi || q.tip) : q.tip}
                 </div>
               )}
             </article>

@@ -1,0 +1,227 @@
+{
+  "id": "bpsc-tre4-gkgs-bihar-set2",
+  "title": "Bihar Special & Current Affairs Set 2 (8Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Bihar Special & Current Affairs",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 8,
+  "questions": [
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "In which district of Bihar is the picturesque 'Kakolat Waterfall' situated?",
+      "hi": "बिहार के किस जिले में प्रसिद्ध 'ककोलत जलप्रपात' स्थित है?",
+      "options": [
+        "Rohtas",
+        "Nawada",
+        "Kaimur",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nawada",
+      "explanation": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.",
+      "tip": "Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas).",
+      "id": 1,
+      "options_hi": [
+        "Rohtas",
+        "Nawada",
+        "Kaimur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.",
+      "tip_hi": "Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "As per Census 2011, which district in Bihar recorded the highest overall literacy rate?",
+      "hi": "2011 की जनगणना के अनुसार, बिहार के किस जिले में समग्र साक्षरता दर सर्वाधिक दर्ज की गई?",
+      "options": [
+        "Patna",
+        "Rohtas",
+        "Bhojpur",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Rohtas",
+      "explanation": "Rohtas district recorded the highest overall literacy rate in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is second with 70.68%.",
+      "tip": "Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%).",
+      "id": 2,
+      "options_hi": [
+        "Patna",
+        "Rohtas",
+        "Bhojpur",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rohtas district recorded the highest overall साक्षरता दर in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is सेकंड with 70.68%.",
+      "tip_hi": "Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The lunar landing site of ISRO's Chandrayaan-3 lander (Vikram) on the south polar region of the Moon was officially named as(",
+      "hi": "चंद्रमा के दक्षिणी ध्रुव पर इसरो के चंद्रयान-3 के लैंडर (विक्रम) के उतरने वाले स्थल को आधिकारिक रूप से क्या नाम दिया गया है?)",
+      "options": [
+        "Tiranga Point",
+        "Shiv Shakti Point",
+        "Jawahar Point",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Shiv Shakti Point",
+      "explanation": "Prime Minister Narendra Modi announced that the landing site of Vikram lander on 23 August 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 August declared 'National Space Day'.",
+      "tip": "Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 August = National Space Day.",
+      "id": 3,
+      "options_hi": [
+        "Tiranga Point",
+        "Shiv Shakti Point",
+        "Jawahar Point",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रधानमंत्री Narendra Modi announced that the landing site of Vikram lander on 23 अगस्त 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 अगस्त declared 'National Space दिन'.",
+      "tip_hi": "Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 अगस्त = National Space दिन."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who was appointed as the Chairman of the 16th Finance Commission of India constituted in December 2023?",
+      "hi": "दिसंबर 2023 में गठित भारत के 16वें वित्त आयोग का अध्यक्ष किसे नियुक्त किया गया?",
+      "options": [
+        "N. K. Singh",
+        "Dr. Arvind Panagariya",
+        "Dr. Y. V. Reddy",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Arvind Panagariya",
+      "explanation": "On 31 December 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th Finance Commission. N.K. Singh headed the 15th Finance Commission.",
+      "tip": "16th Finance Commission Chairman = Dr. Arvind Panagariya; 15th FC Chairman = N. K. Singh.",
+      "id": 4,
+      "options_hi": [
+        "N. K. Singh",
+        "Dr. Arvind Panagariya",
+        "Dr. Y. V. Reddy",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 31 दिसम्बर 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th वित्त आयोग. N.K. Singh headed the 15th वित्त आयोग.",
+      "tip_hi": "16th वित्त आयोग Chairman = Dr. Arvind Panagariya; 15th FC Chairman = N. K. Singh."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which national highway connects Delhi and Kolkata traversing through Sasaram and Aurangabad in Bihar?",
+      "hi": "बिहार के सासाराम और औरंगाबाद से होकर गुजरते हुए दिल्ली और कोलकाता को जोड़ने वाला राष्ट्रीय राजमार्ग कौन-सा है?",
+      "options": [
+        "NH 19 (Old NH 2)",
+        "NH 28",
+        "NH 31",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "NH 19 (Old NH 2)",
+      "explanation": "National Highway 19 (formerly NH 2) is part of the Golden Quadrilateral connecting Delhi and Kolkata via Mathura, Agra, Kanpur, Allahabad, Varanasi, Mohania, Sasaram, Aurangabad, Dobhi, Dhanbad, and Asansol.",
+      "tip": "Delhi-Kolkata corridor through Sasaram = NH 19 (old NH 2).",
+      "id": 5,
+      "options_hi": [
+        "NH 19 (Old NH 2)",
+        "NH 28",
+        "NH 31",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "National Highway 19 (formerly NH 2) is part of the Golden Quadrilateral connecting Delhi and Kolkata via Mathura, Agra, Kanpur, Allahabad, Varanasi, Mohania, Sasaram, Aurangabad, Dobhi, Dhanbad, and Asansol.",
+      "tip_hi": "Delhi-Kolkata corridor through Sasaram = NH 19 (old NH 2)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "In the flagship 'Saat Nischay-2' (2020-25) scheme of the Government of Bihar, which initiative is specifically aimed at promoting youth entrepreneurship and skill development?(",
+      "hi": "बिहार सरकार की महत्वाकांक्षी योजना 'सात निश्चय-2' (2020-25) के तहत कौन-सा निश्चय विशेष रूप से युवा उद्यमिता और कौशल विकास से संबंधित है?)",
+      "options": [
+        "Har Ghar Nal Ka Jal",
+        "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+        "Swachh Gaon - Samriddh Gaon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+      "explanation": "The first initiative under Saat Nischay-2 is 'Yuva Shakti - Bihar Ki Pragati', which provides ₹5 lakh grant + ₹5 lakh loan at 1% interest (0% for women) under the Mukhya Mantri Udyami Yojana.",
+      "tip": "Saat Nischay-2 components: 1. Yuva Shakti, 2. Sashakt Mahila, 3. Har Khet Ko Pani, 4. Swachh Gaon, 5. Swachh Shahar, 6. Sulabh Samparkata, 7. Sabke Liye Swasthya Suvidha.",
+      "id": 6,
+      "options_hi": [
+        "Har Ghar Nal Ka Jal",
+        "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+        "Swachh Gaon - Samriddh Gaon",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The first initiative under Saat Nischay-2 is 'Yuva Shakti - Bihar Ki Pragati', which provides ₹5 lakh grant + ₹5 lakh loan at 1% interest (0% for women) under the Mukhya Mantri Udyami Yojana.",
+      "tip_hi": "Saat Nischay-2 components: 1. Yuva Shakti, 2. Sashakt Mahila, 3. Har Khet Ko Pani, 4. Swachh Gaon, 5. Swachh Shahar, 6. Sulabh Samparkata, 7. Sabke Liye Swasthya Suvidha."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which national highway connects Purnia, Saharsa, and Muzaffarpur across northern Bihar, serving as the East-West corridor arterial highway?(",
+      "hi": "उत्तर बिहार में पूर्णिया, सहरसा और मुजफ्फरपुर को जोड़ने वाला कौन-सा राष्ट्रीय राजमार्ग पूर्व-पश्चिम गलियारे (East-West Corridor) का मुख्य मार्ग है?)",
+      "options": [
+        "NH 27 (Old NH 28 / NH 31)",
+        "NH 19",
+        "NH 33",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "NH 27 (Old NH 28 / NH 31)",
+      "explanation": "National Highway 27 is the second longest national highway in India, connecting Porbandar in Gujarat to Silchar in Assam. In Bihar, it traverses Gopalganj, Motihari, Muzaffarpur, Darbhanga, Jhanjharpur, Supaul, and Purnia as the 4-lane East-West Corridor.",
+      "tip": "East-West Corridor through North Bihar = NH 27 (Old NH 28 & 31).",
+      "id": 7,
+      "options_hi": [
+        "NH 27 (Old NH 28 / NH 31)",
+        "NH 19",
+        "NH 33",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "National Highway 27 is the सेकंड longest national highway in India, connecting Porbandar in Gujarat to Silchar in Assam. In Bihar, it traverses Gopalganj, Motihari, Muzaffarpur, Darbhanga, Jhanjharpur, Supaul, and Purnia as the 4-lane पूर्व-पश्चिम Corridor.",
+      "tip_hi": "पूर्व-पश्चिम Corridor through उत्तर Bihar = NH 27 (Old NH 28 & 31)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the new pedagogical curricular structure introduced in school education under the National Education Policy (NEP) 2020?(",
+      "hi": "राष्ट्रीय शिक्षा नीति (NEP) 2020 के तहत स्कूली शिक्षा में कौन-सी नई शैक्षणिक पाठ्यचर्या संरचना लागू की गई है?)",
+      "options": [
+        "10 + 2 + 3",
+        "5 + 3 + 3 + 4",
+        "5 + 4 + 3 + 2",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "5 + 3 + 3 + 4",
+      "explanation": "NEP 2020 restructured school curriculum into four stages: 5 years Foundational stage (ages 3-8), 3 years Preparatory stage (ages 8-11), 3 years Middle stage (ages 11-14), and 4 years Secondary stage (ages 14-18).",
+      "tip": "NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 8,
+      "options_hi": [
+        "10 + 2 + 3",
+        "5 + 3 + 3 + 4",
+        "5 + 4 + 3 + 2",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "NEP 2020 restructured school curriculum into four stages: 5 वर्ष Foundational stage (ages 3-8), 3 वर्ष Preparatory stage (ages 8-11), 3 वर्ष Middle stage (ages 11-14), and 4 वर्ष Secondary stage (ages 14-18).",
+      "tip_hi": "NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    }
+  ]
+}

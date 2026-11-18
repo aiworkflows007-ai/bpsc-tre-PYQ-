@@ -1,0 +1,173 @@
+{
+  "id": "bpsc-tre4-gkgs-math-set6",
+  "title": "Elementary Mathematics Set 6 (6Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Elementary Mathematics",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 6,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the speed of electromagnetic waves (including visible light) in free vacuum?(",
+      "hi": "निर्वात में विद्युत चुंबकीय तरंगों (दृश्य प्रकाश सहित) की चाल क्या होती है?)",
+      "options": [
+        "3 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^10 m/s",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 × 10^8 m/s",
+      "explanation": "In vacuum, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 km/s).",
+      "tip": "Speed of light c = 3 × 10^8 m/s = 3 × 10^5 km/s.",
+      "id": 1,
+      "options_hi": [
+        "3 × 10^6 m/s",
+        "3 × 10^8 m/s",
+        "3 × 10^10 m/s",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In निर्वात, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 किमी/s).",
+      "tip_hi": "Speed of light c = 3 × 10^8 m/s = 3 × 10^5 किमी/s."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "When a body is partially or fully immersed in a fluid at rest, it experiences an upward buoyant force equal to the weight of the fluid displaced by the body. This principle is credited to",
+      "hi": "जब कोई पिंड किसी स्थिर द्रव में पूर्णतः या आंशिक रूप से डुबोया जाता है, तो उस पर ऊपर की ओर एक उत्प्लावन बल कार्य करता है जो पिंड द्वारा विस्थापित द्रव के भार के बराबर होता है। यह सिद्धांत कहलाता है",
+      "options": [
+        "Pascal's Principle",
+        "Archimedes' Principle",
+        "Bernoulli's Principle",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Archimedes' Principle",
+      "explanation": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.",
+      "tip": "Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli.",
+      "id": 2,
+      "options_hi": [
+        "Pascal's Principle",
+        "Archimedes' Principle",
+        "Bernoulli's Principle",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.",
+      "tip_hi": "Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the basic microscopic structural and functional filtration unit of the human kidney?(",
+      "hi": "मानव गुर्दे (वृक्क) की मूल सूक्ष्म संरचनात्मक एवं कार्यात्मक निस्यंदन इकाई क्या है?)",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nephron",
+      "explanation": "Each human kidney contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
+      "tip": "Kidney unit = Nephron; Nervous system unit = Neuron; Lungs unit = Alveolus.",
+      "id": 3,
+      "options_hi": [
+        "Neuron",
+        "नेफ्रॉन (वृक्काणु)",
+        "Alveolus",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
+      "tip_hi": "वृक्क (गुर्दा) unit = नेफ्रॉन (वृक्काणु); Nervous system unit = Neuron; फेफड़े unit = Alveolus."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "On 6 February 1921, Mahatma Gandhi formally inaugurated which national educational institution in Patna to promote non-cooperation against colonial British universities?",
+      "hi": "6 फरवरी 1921 को महात्मा गांधी ने ब्रिटिश विश्वविद्यालयों के बहिष्कार के तहत पटना में किस राष्ट्रीय शिक्षण संस्थान का औपचारिक उद्घाटन किया था?",
+      "options": [
+        "Patna College",
+        "Bihar National College and Bihar Vidyapeeth",
+        "Sadaqat College",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bihar National College and Bihar Vidyapeeth",
+      "explanation": "During the Non-Cooperation movement, Mahatma Gandhi opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 February 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
+      "tip": "Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor).",
+      "id": 4,
+      "options_hi": [
+        "Patna College",
+        "Bihar National College and Bihar Vidyapeeth",
+        "Sadaqat College",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "के दौरान the Non-Cooperation movement, महात्मा गांधी opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 फरवरी 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
+      "tip_hi": "Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "During the Quit India Movement in 1942, which veteran national leader led the agitation in Siwan and captured the police station, sacrificing his son in police firing?",
+      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान सीवान में आंदोलन का नेतृत्व करने वाले और थाने पर कब्जा करने वाले कौन-से वरिष्ठ नेता थे, जिनके पुत्र पुलिस गोलीबारी में शहीद हुए थे?",
+      "options": [
+        "Phulena Prasad Srivastava",
+        "Jaglal Choudhary",
+        "Ram Nandan Mishra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jaglal Choudhary",
+      "explanation": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.",
+      "tip": "Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava.",
+      "id": 5,
+      "options_hi": [
+        "Phulena Prasad Srivastava",
+        "Jaglal Choudhary",
+        "Ram Nandan Mishra",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.",
+      "tip_hi": "Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was the pioneer journalist and editor of the newspaper 'The Biharee' who campaigned relentlessly for the creation of a separate Bihar province?",
+      "hi": "'द बिहारी' समाचार पत्र के अग्रणी पत्रकार और संपादक कौन थे जिन्होंने एक अलग बिहार प्रांत के निर्माण के लिए निरंतर अभियान चलाया?",
+      "options": [
+        "Sachchidananda Sinha",
+        "Mahesh Narayan",
+        "Krishna Sahay",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mahesh Narayan",
+      "explanation": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.",
+      "tip": "Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee').",
+      "id": 6,
+      "options_hi": [
+        "Sachchidananda Sinha",
+        "Mahesh Narayan",
+        "Krishna Sahay",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.",
+      "tip_hi": "Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee')."
+    }
+  ]
+}

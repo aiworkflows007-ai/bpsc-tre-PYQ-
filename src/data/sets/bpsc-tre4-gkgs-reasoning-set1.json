@@ -1,0 +1,416 @@
+{
+  "id": "bpsc-tre4-gkgs-reasoning-set1",
+  "title": "Mental Ability & Reasoning Set 1 (15Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Mental Ability & Reasoning",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 15,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "The cans in which food is packed are coated with tin and not zinc because",
+      "hi": "खाद्य पदार्थों के डिब्बों पर टिन की परत चढ़ाई जाती है, जिंक की नहीं, क्योंकि",
+      "options": [
+        "tin is more reactive than zinc",
+        "zinc is more reactive than tin",
+        "zinc is costlier than tin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "zinc is more reactive than tin",
+      "explanation": "Zinc is more reactive than tin in the electrochemical series. Zinc reacts with food organic acids to form toxic zinc salts, whereas tin is unreactive.",
+      "tip": "Reactivity Series: Zn > Fe > Sn > Pb. Tin's lower reactivity ensures safe food canning.",
+      "id": 1,
+      "options_hi": [
+        "tin is more reactive than zinc",
+        "zinc is more reactive than tin",
+        "zinc is costlier than tin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Zinc is more reactive than tin in the electrochemical series. Zinc reacts with food organic acids to form toxic zinc salts, जबकि tin is unreactive.",
+      "tip_hi": "Reactivity Series: Zn > Fe > Sn > Pb. Tin's lower reactivity ensures safe food canning."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A person facing West turns 45° in the clockwise direction, then 180° in the same direction, and then 270° in the anti-clockwise direction. Which direction is he facing now?",
+      "hi": "एक व्यक्ति का मुख पश्चिम की ओर है। वह घड़ी की दिशा में 45°, फिर उसी दिशा में 180° और फिर घड़ी की विपरीत दिशा में 270° मुड़ता है। अब उसका मुख किस दिशा में है?",
+      "options": [
+        "South-East",
+        "South-West",
+        "North-West",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "South-West",
+      "explanation": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from West leads to South-West.",
+      "tip": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from West is South-West.",
+      "id": 2,
+      "options_hi": [
+        "दक्षिण-पूर्व",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from पश्चिम leads to दक्षिण-पश्चिम.",
+      "tip_hi": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from पश्चिम is दक्षिण-पश्चिम."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "If South-East becomes North, and North-East becomes West, and so on, what will West become?",
+      "hi": "यदि दक्षिण-पूर्व उत्तर हो जाए, और उत्तर-पूर्व पश्चिम हो जाए, और इसी प्रकार क्रम जारी रहे, तो पश्चिम क्या बन जाएगा?",
+      "options": [
+        "South-West",
+        "South-East",
+        "North-East",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "South-East",
+      "explanation": "South-East (135°) becomes North (0°/360°), which is an anti-clockwise rotation of 135°. Rotating West (270°) by 135° anti-clockwise: 270° - 135° = 135° = South-East.",
+      "tip": "Rotation = 135° anti-clockwise. West rotated 135° ACW becomes South-East.",
+      "id": 3,
+      "options_hi": [
+        "दक्षिण-पश्चिम",
+        "दक्षिण-पूर्व",
+        "उत्तर-पूर्व",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "दक्षिण-पूर्व (135°) becomes उत्तर (0°/360°), जो कि an anti-clockwise rotation of 135°. Rotating पश्चिम (270°) by 135° anti-clockwise: 270° - 135° = 135° = दक्षिण-पूर्व.",
+      "tip_hi": "Rotation = 135° anti-clockwise. पश्चिम rotated 135° ACW becomes दक्षिण-पूर्व."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Statements: No bird is a mammal. All bats are mammals.Conclusions: I. No bat is a bird. II. No bird is a bat.",
+      "hi": "कथन: कोई पक्षी स्तनधारी नहीं है। सभी चमगादड़ स्तनधारी हैं।निष्कर्ष: I. कोई चमगादड़ पक्षी नहीं है। II. कोई पक्षी चमगादड़ नहीं है।",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Both conclusions I and II follow",
+      "explanation": "Since the set of Bats is entirely contained within Mammals (Bats ⊂ Mammals), and Mammals are completely disjoint from Birds (Mammals ∩ Birds = ∅), it follows that Bats ∩ Birds = ∅. Thus, neither can any bat be a bird nor any bird be a bat.",
+      "tip": "Complete separation between Birds and Mammals implies both I and II definitely hold.",
+      "id": 4,
+      "options_hi": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Since the set of Bats is entirely contained within Mammals (Bats ⊂ Mammals), and Mammals are completely disjoint from Birds (Mammals ∩ Birds = ∅), it follows that Bats ∩ Birds = ∅. Thus, neither can any bat be a bird nor any bird be a bat.",
+      "tip_hi": "Complete separation between Birds and Mammals implies both I and II definitely hold."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Statements: All pens are pencils. No pencil is an eraser.Conclusions: I. No pen is an eraser. II. Some pencils are pens.",
+      "hi": "कथन: सभी पेन पेंसिल हैं। कोई पेंसिल इरेज़र नहीं है।निष्कर्ष: I. कोई पेन इरेज़र नहीं है। II. कुछ पेंसिल पेन हैं।",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Both conclusions I and II follow",
+      "explanation": "Pens ⊂ Pencils, and Pencils ∩ Erasers = ∅. Since Pens are inside Pencils, Pens ∩ Erasers = ∅ (Conclusion I holds). Since All pens are pencils, some pencils are pens (Conclusion II holds).",
+      "tip": "Disjoint set property: Both conclusions I and II logically follow.",
+      "id": 5,
+      "options_hi": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions I and II follow",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pens ⊂ Pencils, and Pencils ∩ Erasers = ∅. Since Pens are inside Pencils, Pens ∩ Erasers = ∅ (Conclusion I holds). Since All pens are pencils, some pencils are pens (Conclusion II holds).",
+      "tip_hi": "Disjoint set property: Both conclusions I and II logically follow."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Find the next number in the numerical series: 3, 8, 18, 38, 78, ?",
+      "hi": "संख्यात्मक श्रृंखला में अगला पद ज्ञात कीजिए: 3, 8, 18, 38, 78, ?",
+      "options": [
+        "148",
+        "158",
+        "168",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "158",
+      "explanation": "Pattern is (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (Or differences double: 5, 10, 20, 40, 80; 78 + 80 = 158).",
+      "tip": "Multiply by 2 and add 2: 78 * 2 + 2 = 156 + 2 = 158.",
+      "id": 6,
+      "options_hi": [
+        "148",
+        "158",
+        "168",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pattern is (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (Or differences double: 5, 10, 20, 40, 80; 78 + 80 = 158).",
+      "tip_hi": "Multiply by 2 and add 2: 78 * 2 + 2 = 156 + 2 = 158."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In a straight row of 30 trees, a neem tree is 12th from the left end. What is its position from the right end of the row?",
+      "hi": "30 पेड़ों की एक सीधी पंक्ति में, नीम का पेड़ बाएं छोर से 12वें स्थान पर है। पंक्ति के दाएं छोर से उसका स्थान क्या होगा?",
+      "options": [
+        "18th",
+        "19th",
+        "20th",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "19th",
+      "explanation": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.",
+      "tip": "Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th.",
+      "id": 7,
+      "options_hi": [
+        "18वां",
+        "19वां",
+        "20वां",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.",
+      "tip_hi": "Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "If 'DELHI' is coded as 73541 and 'CALCUTTA' is coded as 82589662, how will 'CALICUT' be coded in that system?",
+      "hi": "यदि 'DELHI' को 73541 और 'CALCUTTA' को 82589662 लिखा जाता है, तो उसी कूट भाषा में 'CALICUT' को कैसे लिखा जाएगा?",
+      "options": [
+        "8251896",
+        "8251869",
+        "8251968",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "8251896",
+      "explanation": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.",
+      "tip": "Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896.",
+      "id": 8,
+      "options_hi": [
+        "8251896",
+        "8251869",
+        "8251968",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.",
+      "tip_hi": "Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Which sensitive electrical instrument is specifically employed to detect the presence and direction of minute electric currents in an electrical circuit?",
+      "hi": "विद्युत परिपथ में सूक्ष्म विद्युत धारा की उपस्थिति और उसकी दिशा का पता लगाने के लिए किस संवेदनशील उपकरण का उपयोग किया जाता है?",
+      "options": [
+        "Ammeter",
+        "Galvanometer (गैल्वेनोमीटर)",
+        "Voltmeter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Galvanometer (गैल्वेनोमीटर)",
+      "explanation": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.",
+      "tip": "Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter.",
+      "id": 9,
+      "options_hi": [
+        "Ammeter",
+        "Galvanometer (गैल्वेनोमीटर)",
+        "Voltmeter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.",
+      "tip_hi": "Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "How many times do the minute hand and the hour hand of a standard clock coincide (overlap) with each other in a complete 24-hour day?(",
+      "hi": "एक मानक घड़ी में 24 घंटे की पूरी अवधि में मिनट और घंटे की सुइयां कुल कितनी बार एक दूसरे के संपाती (Overlapping) होती हैं?)",
+      "options": [
+        "20 times",
+        "22 times",
+        "24 times",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "22 times",
+      "explanation": "In every 12-hour period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-hour day, they coincide 11 * 2 = 22 times.",
+      "tip": "Overlapping in 12 hours = 11 times; Overlapping in 24 hours = 22 times.",
+      "id": 10,
+      "options_hi": [
+        "20 times",
+        "22 times",
+        "24 times",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In every 12-घंटे period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-घंटे दिन, they coincide 11 * 2 = 22 times.",
+      "tip_hi": "Overlapping in 12 घंटे = 11 times; Overlapping in 24 घंटे = 22 times."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "India attained Independence on 15 August 1947, which was a Friday. What day of the week was India's first Republic Day on 26 January 1950?",
+      "hi": "भारत 15 अगस्त 1947 को स्वतंत्र हुआ जो शुक्रवार था। 26 जनवरी 1950 को जब पहला गणतंत्र दिवस मनाया गया, तो सप्ताह का कौन-सा दिन था?",
+      "options": [
+        "Wednesday",
+        "Thursday (बृहस्पतिवार)",
+        "Friday",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Thursday (बृहस्पतिवार)",
+      "explanation": "Total days from 15 Aug 1947 to 26 Jan 1950 = 895 days. Dividing 895 by 7 gives 127 weeks and 6 odd days. Friday + 6 days = Thursday.",
+      "tip": "15 August 1947 = Friday; 26 January 1950 = Thursday.",
+      "id": 11,
+      "options_hi": [
+        "Wednesday",
+        "Thursday (बृहस्पतिवार)",
+        "Friday",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Total दिन from 15 Aug 1947 to 26 Jan 1950 = 895 दिन. Dividing 895 by 7 gives 127 सप्ताह and 6 odd दिन. Friday + 6 दिन = Thursday.",
+      "tip_hi": "15 अगस्त 1947 = Friday; 26 जनवरी 1950 = Thursday."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Find the next number in the series: 5, 11, 23, 47, 95, ?",
+      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 5, 11, 23, 47, 95, ?",
+      "options": [
+        "189",
+        "191",
+        "195",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "191",
+      "explanation": "Pattern is (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
+      "tip": "Next term = 95 * 2 + 1 = 190 + 1 = 191.",
+      "id": 12,
+      "options_hi": [
+        "189",
+        "191",
+        "195",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pattern is (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
+      "tip_hi": "Next term = 95 * 2 + 1 = 190 + 1 = 191."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "At what time between 4 o'clock and 5 o'clock will the hands of a clock be together (coincide)?(4",
+      "hi": "बजे और 5 बजे के बीच किस समय घड़ी की दोनों सुइयां एक साथ (संपाती) होंगी?)",
+      "options": [
+        "4:20",
+        "21(9/11) minutes past 4",
+        "22(2/11) minutes past 4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "21(9/11) minutes past 4",
+      "explanation": "At 4:00, the hands are 20 minute spaces apart. To coincide, the minute hand must gain 20 spaces over the hour hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) minutes past 4.",
+      "tip": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) minutes past 4.",
+      "id": 13,
+      "options_hi": [
+        "4:20",
+        "21(9/11) मिनट past 4",
+        "22(2/11) मिनट past 4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "At 4:00, the hands are 20 मिनट spaces apart. To coincide, the मिनट hand must gain 20 spaces over the घंटे hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) मिनट past 4.",
+      "tip_hi": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) मिनट past 4."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "April 22 is celebrated as the",
+      "hi": "22 अप्रैल को मनाया जाता है",
+      "options": [
+        "World Earth Day",
+        "World Health Day",
+        "World Ozone Day",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "World Earth Day",
+      "explanation": "World Earth Day is celebrated annually on April 22 to mobilize global support for environmental protection. World Health Day is April 7 and World Ozone Day is September 16.",
+      "tip": "Calendar of environment days: 22 March = World Water Day; 22 April = World Earth Day; 22 May = International Biological Diversity Day.",
+      "id": 14,
+      "options_hi": [
+        "World Earth दिन",
+        "World Health दिन",
+        "World Ozone दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "World Earth दिन is celebrated annually on अप्रैल 22 to mobilize global support for environmental protection. World Health दिन is अप्रैल 7 and World Ozone दिन is सितम्बर 16.",
+      "tip_hi": "Calendar of environment दिन: 22 मार्च = World Water दिन; 22 अप्रैल = World Earth दिन; 22 मई = International Biological Diversity दिन."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "If in a code language, 'TEACHER' is coded as 'VGCEJGT', then how will 'CHILDREN' be coded in that language?",
+      "hi": "यदि किसी सांकेतिक भाषा में 'TEACHER' को 'VGCEJGT' लिखा जाता है, तो उसी भाषा में 'CHILDREN' को कैसे लिखा जाएगा?",
+      "options": [
+        "EJKNFTGP",
+        "EJKNFPEQ",
+        "EJKNEGTO",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "EJKNFTGP",
+      "explanation": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.",
+      "tip": "Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly.",
+      "id": 15,
+      "options_hi": [
+        "EJKNFTGP",
+        "EJKNFPEQ",
+        "EJKNEGTO",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.",
+      "tip_hi": "Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly."
+    }
+  ]
+}

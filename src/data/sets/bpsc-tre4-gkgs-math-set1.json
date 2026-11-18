@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-gkgs-math-set1",
+  "title": "Elementary Mathematics Set 1 (25Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Elementary Mathematics",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "In nuclear reactors, D2O is used as",
+      "hi": "नाभिकीय रिएक्टरों में D2O का उपयोग होता है",
+      "options": [
+        "fuel",
+        "source of deuterons",
+        "moderator",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "moderator",
+      "explanation": "Heavy water (D2O / Deuterium oxide) functions as a moderator in thermal nuclear reactors to slow down fast fission neutrons to thermal speeds without excessive neutron absorption.",
+      "tip": "Moderator = slows down neutrons (D2O, Graphite); Control Rods = absorbs neutrons (Cadmium, Boron).",
+      "id": 1,
+      "options_hi": [
+        "ईंधन",
+        "ड्यूटरॉन का स्रोत",
+        "मंदक (Moderator)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "भारी जल (D2O) (D2O / Deuterium oxide) functions as a मंदक (Moderator) in thermal nuclear reactors to slow down fast fission neutrons to thermal speeds without excessive neutron absorption.",
+      "tip_hi": "मंदक (Moderator) = slows down neutrons (D2O, Graphite); नियंत्रक छड़ें = absorbs neutrons (Cadmium, Boron)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The study of inheritance from one generation to another is known as",
+      "hi": "एक पीढ़ी से दूसरी पीढ़ी में वंशागति के अध्ययन को कहते हैं",
+      "options": [
+        "genetics",
+        "microbiology",
+        "cytology",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "genetics",
+      "explanation": "Genetics is the branch of biological science that investigates the mechanisms of heredity, gene transmission, and variation across generations.",
+      "tip": "Father of Genetics = Gregor Johann Mendel; Cytology = study of cells; Microbiology = study of microbes.",
+      "id": 2,
+      "options_hi": [
+        "genetics",
+        "microbiology",
+        "cytology",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Genetics is the branch of biological science that investigates the mechanisms of heredity, gene transmission, and variation across generations.",
+      "tip_hi": "Father of Genetics = Gregor Johann Mendel; Cytology = study of cells; Microbiology = study of microbes."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "How many prime numbers are there between 1 and 50?",
+      "hi": "1 और 50 के बीच कितनी अभाज्य संख्याएँ हैं?",
+      "options": [
+        "10",
+        "15",
+        "21",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "15",
+      "explanation": "Primes between 1 and 50: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 (total exactly 15 numbers).",
+      "tip": "Standard prime counts to memorize: 1 to 50 = 15 primes; 51 to 100 = 10 primes; total 1 to 100 = 25 primes.",
+      "id": 3,
+      "options_hi": [
+        "10",
+        "15",
+        "21",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Primes between 1 and 50: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 (total exactly 15 numbers).",
+      "tip_hi": "Standard prime counts to memorize: 1 to 50 = 15 primes; 51 to 100 = 10 primes; total 1 to 100 = 25 primes."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "In a shop, the cost of 2 pencils and 3 erasers is ₹9 and the cost of 4 pencils and 6 erasers is ₹18. What is the cost of each pencil and each eraser?",
+      "hi": "एक दुकान में 2 पेंसिल और 3 रबर की कीमत ₹9 तथा 4 पेंसिल और 6 रबर की कीमत ₹18 है। प्रत्येक पेंसिल और प्रत्येक रबर की कीमत क्या है?",
+      "options": [
+        "Cost of each pencil is ₹1 and each eraser is ₹2",
+        "Cost of each pencil is ₹2 and each eraser is ₹1",
+        "Cost of each pencil is ₹3 and each eraser is ₹1",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "The coefficients satisfy a1/a2 = b1/b2 = c1/c2 = 1/2 (coincident lines), meaning infinitely many solution pairs exist. Unique individual prices cannot be determined.",
+      "tip": "When the second equation is an exact scalar multiple of the first, unique values do not exist; select Option (E).",
+      "id": 4,
+      "options_hi": [
+        "Cost of each pencil is ₹1 and each eraser is ₹2",
+        "Cost of each pencil is ₹2 and each eraser is ₹1",
+        "Cost of each pencil is ₹3 and each eraser is ₹1",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The coefficients satisfy a1/a2 = b1/b2 = c1/c2 = 1/2 (coincident lines), meaning infinitely many solution जोड़े exist. Unique individual prices cannot be determined.",
+      "tip_hi": "When the सेकंड equation is an exact scalar multiple of the first, unique values do not exist; select Option (E)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
+      "en": "The Quit India Resolution was adopted by the Congress in Bombay on",
+      "hi": "काँग्रेस द्वारा बम्बई में भारत छोड़ो प्रस्ताव कब पारित किया गया था?",
+      "options": [
+        "7 August, 1942",
+        "8 August, 1942",
+        "9 August, 1942",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "8 August, 1942",
+      "explanation": "The All-India Congress Committee officially ratified the historic Quit India Resolution on 8th August 1942 at Gowalia Tank Maidan, Bombay.",
+      "tip": "8 August 1942 = Resolution passed ('Do or Die'); 9 August 1942 = Operation Zero Hour arrests launched.",
+      "id": 5,
+      "options_hi": [
+        "7 अगस्त, 1942",
+        "8 अगस्त, 1942",
+        "9 अगस्त, 1942",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The All-India Congress Committee officially ratified the historic Quit India Resolution on 8th अगस्त 1942 at Gowalia Tank Maidan, Bombay.",
+      "tip_hi": "8 अगस्त 1942 = Resolution passed ('Do or Die'); 9 अगस्त 1942 = Operation Zero घंटे arrests launched."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
+      "en": "Who led the peasants of Bihar during the Non-Cooperation Movement?",
+      "hi": "असहयोग आन्दोलन के दौरान किसने बिहार में किसानों की अगुवाई की?",
+      "options": [
+        "Raj Kumar Shukla",
+        "Swami Vidyanand",
+        "Rajendra Prasad",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swami Vidyanand",
+      "explanation": "Swami Vidyanand led peasant movements across North Bihar (particularly against the Darbhanga Raj) during the Non-Cooperation period (1919-1922).",
+      "tip": "Champaran 1917 = Raj Kumar Shukla; Non-Cooperation 1919-22 = Swami Vidyanand; Kisan Sabha 1929-36 = Swami Sahajanand.",
+      "id": 6,
+      "options_hi": [
+        "Raj Kumar Shukla",
+        "Swami Vidyanand",
+        "Rajendra Prasad",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Swami Vidyanand led peasant movements across उत्तर Bihar (particularly against the Darbhanga Raj) के दौरान the Non-Cooperation period (1919-1922).",
+      "tip_hi": "Champaran 1917 = Raj Kumar Shukla; Non-Cooperation 1919-22 = Swami Vidyanand; Kisan Sabha 1929-36 = Swami Sahajanand."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Science (Classes 9-10)",
+      "en": "Monochromatic light enters from one medium to the other. Which one of the following properties does not change?",
+      "hi": "एकवर्णी प्रकाश एक माध्यम से दूसरे माध्यम में प्रवेश करता है। निम्नलिखित में से कौन-सा गुण नहीं बदलता है?",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Velocity",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Frequency",
+      "explanation": "Wave frequency depends solely on the source producing the wave; upon entering a new medium, speed and wavelength change, but frequency remains constant.",
+      "tip": "v = f * lambda. In refraction: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change.",
+      "id": 7,
+      "options_hi": [
+        "Frequency",
+        "Amplitude",
+        "Velocity",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Wave frequency depends solely on the source producing the wave; upon entering a new medium, speed and wavelength change, but frequency remains constant.",
+      "tip_hi": "v = f * lambda. In अपवर्तन: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
+      "en": "The major and top source of oxygen in the atmosphere is",
+      "hi": "वायुमण्डल में ऑक्सीजन का सबसे प्रमुख और शीर्ष स्रोत है",
+      "options": [
+        "Photosynthesis by forest plants",
+        "Photosynthesis by oceanic plants",
+        "Photosynthesis by grassland ecosystem",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Photosynthesis by oceanic plants",
+      "explanation": "Marine phytoplankton, algae, and oceanic vegetation contribute over 50-70% of atmospheric oxygen production through global marine photosynthesis.",
+      "tip": "Do not default to terrestrial forests; ocean phytoplankton produces the majority of Earth's oxygen.",
+      "id": 8,
+      "options_hi": [
+        "प्रकाश संश्लेषण by forest plants",
+        "प्रकाश संश्लेषण by oceanic plants",
+        "प्रकाश संश्लेषण by grassland ecosystem",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Marine phytoplankton, algae, and oceanic vegetation contribute over 50-70% of atmospheric oxygen production through global marine प्रकाश संश्लेषण.",
+      "tip_hi": "Do not default to terrestrial forests; ocean phytoplankton produces the majority of Earth's oxygen."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
+      "en": "During which movement 'Bihar Vidyapeeth' was established?",
+      "hi": "किस आन्दोलन के दौरान 'बिहार विद्यापीठ' की स्थापना की गई थी?",
+      "options": [
+        "Swadeshi Movement",
+        "Non-Cooperation Movement",
+        "Civil Disobedience Movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Non-Cooperation Movement",
+      "explanation": "Mahatma Gandhi inaugurated Bihar Vidyapeeth at Patna on 6th February 1921 during the Non-Cooperation Movement to promote national education.",
+      "tip": "Mazharul Haque was the first Chancellor and Dr. Rajendra Prasad was the first Principal of Bihar Vidyapeeth.\nAnswer Key Summary Table — Set 1 (Q.1 to Q.40)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key",
+      "id": 9,
+      "options_hi": [
+        "Swadeshi Movement",
+        "Non-Cooperation Movement",
+        "Civil Disobedience Movement",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "महात्मा गांधी inaugurated Bihar Vidyapeeth at Patna on 6th फरवरी 1921 के दौरान the Non-Cooperation Movement to promote national education.",
+      "tip_hi": "Mazharul Haque was the first Chancellor and डॉ. राजेंद्र प्रसाद was the first Principal of Bihar Vidyapeeth.\nAnswer Key Summary Table — Set 1 (Q.1 to Q.40)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The marked price of an article is ₹800. A shopkeeper allows two successive discounts of 20% and 10%. What is the net selling price of the article?",
+      "hi": "किसी वस्तु का अंकित मूल्य ₹800 है। एक दुकानदार 20% और 10% की दो क्रमिक छूट देता है। वस्तु का शुद्ध विक्रय मूल्य क्या है?",
+      "options": [
+        "₹560",
+        "₹576",
+        "₹600",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹576",
+      "explanation": "Net multiplier = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72. Selling Price = 800 * 0.72 = ₹576. (Single equivalent discount = 20 + 10 - (20*10)/100 = 28%).",
+      "tip": "SP = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576.",
+      "id": 10,
+      "options_hi": [
+        "₹560",
+        "₹576",
+        "₹600",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Net multiplier = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72. Selling Price = 800 * 0.72 = ₹576. (Single equivalent discount = 20 + 10 - (20*10)/100 = 28%).",
+      "tip_hi": "SP = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the area of an equilateral triangle each of whose sides measures 12 cm?",
+      "hi": "एक समबाहु त्रिभुज का क्षेत्रफल क्या होगा जिसकी प्रत्येक भुजा 12 सेमी है?",
+      "options": [
+        "24√3 sq cm",
+        "36√3 sq cm",
+        "48√3 sq cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "36√3 sq cm",
+      "explanation": "Area of equilateral triangle = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 sq cm.",
+      "tip": "Area = (√3 / 4) * 144 = 36√3 cm².",
+      "id": 11,
+      "options_hi": [
+        "24√3 sq सेमी",
+        "36√3 sq सेमी",
+        "48√3 sq सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Area of equilateral triangle = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 sq सेमी.",
+      "tip_hi": "Area = (√3 / 4) * 144 = 36√3 cm²."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "If a : b = 3 : 4 and b : c = 8 : 9, what is the compound ratio a : c?",
+      "hi": "यदि a : b = 3 : 4 और b : c = 8 : 9 है, तो a : c का मान क्या होगा?",
+      "options": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2 : 3",
+      "explanation": "a/c = (a/b) * (b/c) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3. Therefore, a : c = 2 : 3.",
+      "tip": "a/c = (3/4) * (8/9) = 2/3 => 2 : 3.",
+      "id": 12,
+      "options_hi": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "a/c = (a/b) * (b/c) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3. Therefore, a : c = 2 : 3.",
+      "tip_hi": "a/c = (3/4) * (8/9) = 2/3 => 2 : 3."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The arithmetic mean of 5 observations is 15. If each observation is multiplied by 3, what will be the new arithmetic mean?",
+      "hi": "5 प्रेक्षणों का समांतर माध्य 15 है। यदि प्रत्येक प्रेक्षण को 3 से गुणा कर दिया जाए, तो नया समांतर माध्य क्या होगा?",
+      "options": [
+        "15",
+        "45",
+        "75",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "45",
+      "explanation": "If every observation in a statistical distribution is multiplied by a constant 'k', the new mean is also multiplied by 'k'. New mean = 15 * 3 = 45.",
+      "tip": "Property of Mean: If all observations are multiplied by k, New Mean = Old Mean * k = 15 * 3 = 45.",
+      "id": 13,
+      "options_hi": [
+        "15",
+        "45",
+        "75",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "If every observation in a statistical distribution is multiplied by a constant 'k', the new mean is also multiplied by 'k'. New mean = 15 * 3 = 45.",
+      "tip_hi": "Property of Mean: If all observations are multiplied by k, New Mean = Old Mean * k = 15 * 3 = 45."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "At which location on the Earth's surface is the acceleration due to gravity (g) at its maximum value?(",
+      "hi": "पृथ्वी की सतह पर किस स्थान पर गुरुत्वीय त्वरण (g) का मान अधिकतम होता है?)",
+      "options": [
+        "At the Equator",
+        "At the Poles",
+        "At 45° latitude",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "At the Poles",
+      "explanation": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 km (g = GM/R^2). Furthermore, centrifugal force due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
+      "tip": "Value of 'g': Maximum at Poles, Minimum at Equator, Zero at the Centre of the Earth.",
+      "id": 14,
+      "options_hi": [
+        "At the Equator",
+        "At the Poles",
+        "At 45° latitude",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 किमी (g = GM/R^2). Furthermore, अपकेंद्रीय बल due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
+      "tip_hi": "Value of 'g': Maximum at Poles, Minimum at Equator, Zero at the Centre of the Earth."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In Patna, the historic 'Sadaqat Ashram' was established during the Non-Cooperation Movement on a 16-bigha plot of land donated by which nationalist philanthropist?",
+      "hi": "असहयोग आंदोलन के दौरान पटना में ऐतिहासिक 'सदाकत आश्रम' की स्थापना 16 बीघे जमीन पर की गई थी, जिसे किस राष्ट्रवादी परोपकारी ने दान में दिया था?",
+      "options": [
+        "Maulana Mazharul Haque",
+        "Khairun Mian (मियां खैरुद्दीन)",
+        "Hasan Imam",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Khairun Mian (मियां खैरुद्दीन)",
+      "explanation": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the Ganga in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of Dr. Rajendra Prasad.",
+      "tip": "Sadaqat Ashram founded by Mazharul Haque; Land donated by Khairun Mian.",
+      "id": 15,
+      "options_hi": [
+        "Maulana Mazharul Haque",
+        "Khairun Mian (मियां खैरुद्दीन)",
+        "Hasan Imam",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the गंगा नदी in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of डॉ. राजेंद्र प्रसाद.",
+      "tip_hi": "Sadaqat Ashram founded by Mazharul Haque; Land donated by Khairun Mian."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In which district of Bihar was the 'Barauni Oil Refinery' established in 1964 with technical and financial collaboration of the Soviet Union (USSR) and Romania?(1964",
+      "hi": "में सोवियत संघ (USSR) और रोमानिया के तकनीकी व वित्तीय सहयोग से बिहार के किस जिले में 'बरौनी तेल शोधक कारखाना' स्थापित किया गया था?)",
+      "options": [
+        "Bhagalpur",
+        "Begusarai",
+        "Munger",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Begusarai",
+      "explanation": "Barauni Refinery of Indian Oil Corporation Limited (IOCL) is situated in Begusarai district, commissioned in 1964. It processes crude oil transported via pipeline from Naharkatiya in Assam.",
+      "tip": "Barauni Oil Refinery = Begusarai (1964, built with USSR and Romanian collaboration).",
+      "id": 16,
+      "options_hi": [
+        "Bhagalpur",
+        "Begusarai",
+        "Munger",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Barauni Refinery of Indian Oil Corporation Limited (IOCL) is situated in Begusarai district, commissioned in 1964. It processes crude oil transported via pipeline from Naharkatiya in Assam.",
+      "tip_hi": "Barauni Oil Refinery = Begusarai (1964, built with USSR and Romanian collaboration)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Kanwar Lake (Kabartal), designated as Bihar's first Ramsar site (Wetland of International Importance) in 2020, is situated in which district?(2020",
+      "hi": "में बिहार के पहले रामसर स्थल (अंतर्राष्ट्रीय महत्व की आर्द्रभूमि) के रूप में घोषित 'कांवर झील' (कबरताल) किस जिले में स्थित है?)",
+      "options": [
+        "Begusarai",
+        "Khagaria",
+        "Samas",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Begusarai",
+      "explanation": "Kanwar Lake (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi Gandak River. It was designated as India's 39th Ramsar site in July 2020.",
+      "tip": "Bihar's 1st Ramsar Site = Kanwar Lake / Kabartal (Begusarai, 2020; Oxbow lake of Burhi Gandak).",
+      "id": 17,
+      "options_hi": [
+        "Begusarai",
+        "Khagaria",
+        "Samas",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कांवर झील (बेगूसराय) (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River. It was designated as India's 39th Ramsar site in जुलाई 2020.",
+      "tip_hi": "Bihar's 1st Ramsar Site = कांवर झील (बेगूसराय) / Kabartal (Begusarai, 2020; Oxbow lake of Burhi गंडक नदी)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A boat travels 24 km upstream in 4 hours and 36 km downstream in 3 hours. What is the speed of the water current (stream)?",
+      "hi": "एक नाव धारा के प्रतिकूल 24 किमी की दूरी 4 घंटे में और धारा के अनुकूल 36 किमी की दूरी 3 घंटे में तय करती है। धारा की चाल क्या है?",
+      "options": [
+        "2 km/h",
+        "3 km/h",
+        "4 km/h",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 km/h",
+      "explanation": "Downstream speed (D) = 36 / 3 = 12 km/h. Upstream speed (U) = 24 / 4 = 6 km/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 km/h. (Speed of boat in still water = (12 + 6)/2 = 9 km/h).",
+      "tip": "Current speed = (Downstream - Upstream) / 2 = (12 - 6) / 2 = 3 km/h.",
+      "id": 18,
+      "options_hi": [
+        "2 किमी/h",
+        "3 किमी/h",
+        "4 किमी/h",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Downstream speed (D) = 36 / 3 = 12 किमी/h. Upstream speed (U) = 24 / 4 = 6 किमी/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/h. (Speed of boat in still water = (12 + 6)/2 = 9 किमी/h).",
+      "tip_hi": "Current speed = (Downstream - Upstream) / 2 = (12 - 6) / 2 = 3 किमी/h."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What will be the simple interest accrued on a principal sum of ₹5,000 at the rate of 8% per annum in 3 years?",
+      "hi": "₹5,000 की मूल धनराशि पर 8% वार्षिक दर से 3 वर्ष में कितना साधारण ब्याज अर्जित होगा?",
+      "options": [
+        "₹1,000",
+        "₹1,200",
+        "₹1,400",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹1,200",
+      "explanation": "Simple Interest = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200.",
+      "tip": "SI = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200.",
+      "id": 19,
+      "options_hi": [
+        "₹1,000",
+        "₹1,200",
+        "₹1,400",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Simple Interest = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200.",
+      "tip_hi": "SI = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "If the price of sugar increases by 25%, by what percentage must a household reduce its consumption so that total expenditure on sugar remains unchanged?",
+      "hi": "यदि चीनी के मूल्य में 25% की वृद्धि हो जाए, तो एक परिवार को अपनी चीनी की खपत में कितने प्रतिशत की कमी करनी होगी ताकि कुल खर्च अपरिवर्तित रहे?",
+      "options": [
+        "15%",
+        "20%",
+        "25%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "20%",
+      "explanation": "Percentage reduction in consumption = [R / (100 + R)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%.",
+      "tip": "Formula: R/(100 + R) * 100 = 25/125 * 100 = 20%.",
+      "id": 20,
+      "options_hi": [
+        "15%",
+        "20%",
+        "25%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रतिशत reduction in consumption = [R / (100 + R)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%.",
+      "tip_hi": "Formula: R/(100 + R) * 100 = 25/125 * 100 = 20%."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "A and B enter into a partnership investing capitals in the ratio 4 : 5. A invests for 10 months and B invests for 8 months. What is the ratio of their profits?",
+      "hi": "A और B, 4 : 5 के अनुपात में पूंजी निवेश करके एक साझेदारी करते हैं। A 10 महीने के लिए और B 8 महीने के लिए निवेश करता है। उनके लाभ का अनुपात क्या होगा?",
+      "options": [
+        "4 : 5",
+        "1 : 1",
+        "5 : 4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1 : 1",
+      "explanation": "Ratio of profit = (Capital A * Time A) : (Capital B * Time B) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.",
+      "tip": "Profit ratio = Investment * Time = 4*10 : 5*8 = 40 : 40 = 1 : 1.",
+      "id": 21,
+      "options_hi": [
+        "4 : 5",
+        "1 : 1",
+        "5 : 4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ratio of profit = (Capital A * Time A) : (Capital B * Time B) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.",
+      "tip_hi": "Profit ratio = Investment * Time = 4*10 : 5*8 = 40 : 40 = 1 : 1."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The lengths of the parallel sides of a trapezium are 14 cm and 10 cm, and the perpendicular distance between them is 8 cm. What is the area of the trapezium?",
+      "hi": "एक समलंब चतुर्भुज की समानांतर भुजाओं की लंबाई 14 सेमी और 10 सेमी है, तथा उनके बीच की लंबवत दूरी 8 सेमी है। समलंब का क्षेत्रफल क्या है?",
+      "options": [
+        "84 sq cm",
+        "96 sq cm",
+        "192 sq cm",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "96 sq cm",
+      "explanation": "Area of trapezium = (1/2) * (Sum of parallel sides) * Height = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 sq cm.",
+      "tip": "Area = 1/2 * (a + b) * h = 1/2 * 24 * 8 = 96 cm².",
+      "id": 22,
+      "options_hi": [
+        "84 sq सेमी",
+        "96 sq सेमी",
+        "192 sq सेमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Area of trapezium = (1/2) * (Sum of parallel sides) * Height = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 sq सेमी.",
+      "tip_hi": "Area = 1/2 * (a + b) * h = 1/2 * 24 * 8 = 96 cm²."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "In an ecological food chain, what approximate percentage of energy captured at any trophic level is lost as metabolic heat and respiration during transfer to the next level?",
+      "hi": "एक पारिस्थितिक खाद्य श्रृंखला में, किसी पोषी स्तर पर ग्रहण की गई ऊर्जा का लगभग कितना प्रतिशत अगले स्तर में स्थानांतरण के दौरान उपापचयी ऊष्मा के रूप में नष्ट हो जाता है?",
+      "options": [
+        "10%",
+        "50%",
+        "90%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "90%",
+      "explanation": "Under Lindeman's 10% law, only ~10% of chemical energy is transferred and incorporated into consumer biomass at the successive trophic level. Therefore, approximately 90% is dissipated as heat, cellular respiration, and unconsumed waste.",
+      "tip": "Energy Transferred = 10%; Energy Lost as heat/respiration = 90%.",
+      "id": 23,
+      "options_hi": [
+        "10%",
+        "50%",
+        "90%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under Lindeman's 10% law, only ~10% of chemical energy is transferred and incorporated into consumer biomass at the successive trophic level. Therefore, approximately 90% is dissipated as heat, cellular श्वसन, and unconsumed waste.",
+      "tip_hi": "Energy Transferred = 10%; Energy Lost as heat/श्वसन = 90%."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "Who was the founder-editor of the bilingual nationalist newspaper 'The Motherland' launched in September 1921 from Sadaqat Ashram in Patna?",
+      "hi": "सितंबर 1921 में पटना के सदाकत आश्रम से शुरू हुए द्विभाषी राष्ट्रवादी समाचार पत्र 'द मदरलैंड' के संस्थापक-संपादक कौन थे?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Maulana Mazharul Haque",
+        "Hasan Imam",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulana Mazharul Haque",
+      "explanation": "Maulana Mazharul Haque started 'The Motherland' on 30 September 1921 from Sadaqat Ashram to propagate Hindu-Muslim unity and the non-cooperation program, facing colonial censorship and imprisonment for his fiery editorials.",
+      "tip": "'The Motherland' (1921) = Founded by Maulana Mazharul Haque from Sadaqat Ashram.",
+      "id": 24,
+      "options_hi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "Maulana Mazharul Haque",
+        "Hasan Imam",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulana Mazharul Haque started 'The Motherland' on 30 सितम्बर 1921 from Sadaqat Ashram to propagate Hindu-Muslim unity and the non-cooperation program, facing colonial censorship and imprisonment for his fiery editorials.",
+      "tip_hi": "'The Motherland' (1921) = Founded by Maulana Mazharul Haque from Sadaqat Ashram."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The official royal notification creating the separate Province of Bihar and Orissa was promulgated on 22 March 1912, and the province formally commenced functioning on",
+      "hi": "अलग बिहार और उड़ीसा प्रांत के गठन की आधिकारिक अधिसूचना 22 मार्च 1912 को जारी हुई थी, तथा इस प्रांत ने औपचारिक रूप से कार्य करना कब प्रारंभ किया?",
+      "options": [
+        "22 March 1912",
+        "1 April 1912",
+        "1 April 1936",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1 April 1912",
+      "explanation": "While 22 March 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 April 1912 with Sir Charles Stuart Bayley as Lieutenant Governor.",
+      "tip": "Bihar Diwas = 22 March; Administrative inception = 1 April 1912.",
+      "id": 25,
+      "options_hi": [
+        "22 मार्च 1912",
+        "1 अप्रैल 1912",
+        "1 अप्रैल 1936",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "While 22 मार्च 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 अप्रैल 1912 with Sir Charles Stuart Bayley as Lieutenant राज्यपाल.",
+      "tip_hi": "Bihar Diwas = 22 मार्च; Administrative inception = 1 अप्रैल 1912."
+    }
+  ]
+}

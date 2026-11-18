@@ -1,0 +1,281 @@
+{
+  "id": "bpsc-tre4-gkgs-reasoning-set2",
+  "title": "Mental Ability & Reasoning Set 2 (10Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Mental Ability & Reasoning",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 10,
+  "questions": [
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Find the next term in the alphanumeric series: B2D, E4H, H8L, K16P, ?",
+      "hi": "वर्ण-अंकीय श्रृंखला में अगला पद ज्ञात कीजिए: B2D, E4H, H8L, K16P, ?",
+      "options": [
+        "N32T",
+        "M32T",
+        "N32S",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "N32T",
+      "explanation": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.",
+      "tip": "Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4.",
+      "id": 1,
+      "options_hi": [
+        "N32T",
+        "M32T",
+        "N32S",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.",
+      "tip_hi": "Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "What is the angle between the hour hand and minute hand of a clock at 3:30?",
+      "hi": "घड़ी में 3 बजकर 30 मिनट पर घंटे और मिनट की सुइयों के बीच कितने अंश का कोण होगा?",
+      "options": [
+        "70°",
+        "75°",
+        "80°",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "75°",
+      "explanation": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.",
+      "tip": "Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°.",
+      "id": 2,
+      "options_hi": [
+        "70°",
+        "75°",
+        "80°",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.",
+      "tip_hi": "Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "In a class of 45 students, Rohan ranks 18th from the top. What is his rank from the bottom?",
+      "hi": "45 छात्रों की एक कक्षा में रोहन का स्थान शीर्ष से 18वां है। नीचे से उसका स्थान क्या होगा?",
+      "options": [
+        "27th",
+        "28th",
+        "29th",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "28th",
+      "explanation": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.",
+      "tip": "Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th.",
+      "id": 3,
+      "options_hi": [
+        "27वां",
+        "28वां",
+        "29वां",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.",
+      "tip_hi": "Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Find the missing number in the sequence: 4, 9, 19, 39, 79, ?",
+      "hi": "अनुक्रम में लुप्त संख्या ज्ञात कीजिए: 4, 9, 19, 39, 79, ?",
+      "options": [
+        "149",
+        "159",
+        "169",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "159",
+      "explanation": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.",
+      "tip": "Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159.",
+      "id": 4,
+      "options_hi": [
+        "149",
+        "159",
+        "169",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.",
+      "tip_hi": "Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Find the odd one out among the following numbers: 27, 64, 125, 144, 216",
+      "hi": "निम्नलिखित संख्याओं में से विषम संख्या ज्ञात कीजिए: 27, 64, 125, 144, 216",
+      "options": [
+        "64",
+        "144",
+        "216",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "144",
+      "explanation": "27 = 3^3, 64 = 4^3, 125 = 5^3, 216 = 6^3 are all perfect cubes. 144 is a perfect square (12^2) but not a perfect cube.",
+      "tip": "All numbers except 144 are perfect cubes of consecutive integers (3, 4, 5, 6).",
+      "id": 5,
+      "options_hi": [
+        "64",
+        "144",
+        "216",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "27 = 3^3, 64 = 4^3, 125 = 5^3, 216 = 6^3 are all perfect cubes. 144 is a perfect square (12^2) but not a perfect cube.",
+      "tip_hi": "All numbers except 144 are perfect cubes of consecutive integers (3, 4, 5, 6)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "If 'A' denotes '+', 'B' denotes '-', 'C' denotes '×', and 'D' denotes '÷', then what is the value of: 18 C 14 A 16 D 4 B 10?",
+      "hi": "यदि 'A' का अर्थ '+', 'B' का अर्थ '-', 'C' का अर्थ '×', और 'D' का अर्थ '÷' है, तो 18 C 14 A 16 D 4 B 10 का मान क्या होगा?",
+      "options": [
+        "246",
+        "250",
+        "254",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "246",
+      "explanation": "Substituting operators: 18 * 14 + 16 / 4 - 10. Following BODMAS: 16 / 4 = 4; 18 * 14 = 252; 252 + 4 - 10 = 256 - 10 = 246.",
+      "tip": "BODMAS: 18*14 + 16/4 - 10 = 252 + 4 - 10 = 246.",
+      "id": 6,
+      "options_hi": [
+        "246",
+        "250",
+        "254",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Substituting operators: 18 * 14 + 16 / 4 - 10. Following BODMAS: 16 / 4 = 4; 18 * 14 = 252; 252 + 4 - 10 = 256 - 10 = 246.",
+      "tip_hi": "BODMAS: 18*14 + 16/4 - 10 = 252 + 4 - 10 = 246."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "If 1st January 2024 was Monday, what day of the week was 31st December 2024?",
+      "hi": "यदि 1 जनवरी 2024 को सोमवार था, तो 31 दिसंबर 2024 को सप्ताह का कौन-सा दिन था?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Tuesday",
+      "explanation": "2024 is a leap year (divisible by 4) containing 366 days (52 weeks + 2 odd days). In a leap year, the last day of the year (31 Dec) is one day ahead of the first day (1 Jan). Monday + 1 day = Tuesday.",
+      "tip": "Ordinary year: First day = Last day; Leap year: Last day = First day + 1 day = Monday + 1 = Tuesday.",
+      "id": 7,
+      "options_hi": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "2024 is a leap वर्ष (divisible by 4) containing 366 दिन (52 सप्ताह + 2 odd दिन). In a leap वर्ष, the last दिन of the वर्ष (31 Dec) is one दिन ahead of the first दिन (1 Jan). Monday + 1 दिन = Tuesday.",
+      "tip_hi": "Ordinary वर्ष: First दिन = Last दिन; Leap वर्ष: Last दिन = First दिन + 1 दिन = Monday + 1 = Tuesday."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "If a clock strikes once at 1 o'clock, twice at 2 o'clock, and so on, how many times will it strike in total in a 12-hour period?",
+      "hi": "यदि एक घड़ी 1 बजे 1 बार, 2 बजे 2 बार और इसी प्रकार बजती है, तो 12 घंटे की अवधि में वह कुल कितनी बार बजेगी?",
+      "options": [
+        "72 times",
+        "78 times",
+        "84 times",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "78 times",
+      "explanation": "Sum of first 12 natural numbers = n(n + 1)/2 = 12 * 13 / 2 = 78 strikes. In a full 24-hour day, it strikes 78 * 2 = 156 times.",
+      "tip": "Sum = 1 + 2 + ... + 12 = 12 * 13 / 2 = 78 times in 12 hours.",
+      "id": 8,
+      "options_hi": [
+        "72 times",
+        "78 times",
+        "84 times",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sum of first 12 natural numbers = n(n + 1)/2 = 12 * 13 / 2 = 78 strikes. In a full 24-घंटे दिन, it strikes 78 * 2 = 156 times.",
+      "tip_hi": "Sum = 1 + 2 + ... + 12 = 12 * 13 / 2 = 78 times in 12 घंटे."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "If 'ROSE' is coded as 6821, 'CHAIR' is coded as 73456, and 'PREACH' is coded as 961473, what will be the code for 'SEARCH'?",
+      "hi": "यदि 'ROSE' का कोड 6821 है, 'CHAIR' का कोड 73456 है, और 'PREACH' का कोड 961473 है, तो 'SEARCH' का कोड क्या होगा?",
+      "options": [
+        "214673",
+        "214763",
+        "241673",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "214673",
+      "explanation": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.",
+      "tip": "Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673.",
+      "id": 9,
+      "options_hi": [
+        "214673",
+        "214763",
+        "241673",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.",
+      "tip_hi": "Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Find the next number in the series: 2, 6, 12, 20, 30, 42, ?",
+      "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, 42, ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "56",
+      "explanation": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).",
+      "tip": "Formula: n*(n+1). For n=7, 7*8 = 56.",
+      "id": 10,
+      "options_hi": [
+        "54",
+        "56",
+        "58",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).",
+      "tip_hi": "Formula: n*(n+1). For n=7, 7*8 = 56."
+    }
+  ]
+}

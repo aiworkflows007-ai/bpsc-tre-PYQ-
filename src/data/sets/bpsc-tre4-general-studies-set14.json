@@ -3,7 +3,7 @@
   "title": "General Studies Practice Set 14 (41Q)",
   "section": "gk_gs",
   "section_name": "Part-II General Studies (40 Marks)",
-  "subject": "General Studies",
+  "subject": "Full 40Q Mock Papers",
   "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
   "question_count": 41,
   "questions": [
@@ -23,7 +23,16 @@
       "answer_text": "300/23 hours (approx. 13 hours)",
       "explanation": "LCM of 15, 20, 25 = 300 units capacity. Efficiency of A = +20, B = +15, C = -12 units/hr. Net inflow = 20 + 15 - 12 = 23 units/hr. Time required = 300 / 23 hours = 13.04 hours.",
       "tip": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 hours.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "12 घंटे",
+        "300/23 घंटे (approx. 13 घंटे)",
+        "14 घंटे",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "LCM of 15, 20, 25 = 300 units capacity. Efficiency of A = +20, B = +15, C = -12 units/hr. Net inflow = 20 + 15 - 12 = 23 units/hr. Time required = 300 / 23 घंटे = 13.04 घंटे.",
+      "tip_hi": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 घंटे."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -41,7 +50,16 @@
       "answer_text": "A constant irrational number π (approx. 22/7 or 3.14159)",
       "explanation": "By definition, π = Circumference / Diameter (C / 2r). It is a transcendental irrational mathematical constant whose exact value cannot be expressed as a finite fraction.",
       "tip": "Ratio of Circumference to Diameter = π (Pi); π is an irrational number.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "An integer 3",
+        "A constant irrational number π (approx. 22/7 or 3.14159)",
+        "A variable rational ratio",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "By definition, π = Circumference / Diameter (C / 2r). It is a transcendental irrational mathematical constant whose exact value cannot be expressed as a finite fraction.",
+      "tip_hi": "Ratio of Circumference to Diameter = π (Pi); π is an irrational number."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -59,7 +77,16 @@
       "answer_text": "4 days",
       "explanation": "(6M + 8B) * 10 = (26M + 48B) * 2 => 60M + 80B = 52M + 96B => 8M = 16B => 1 Man = 2 Boys. Total work in boy units = (6*2 + 8) * 10 = 20 * 10 = 200 boy-days. 15 men and 20 boys = 15*2 + 20 = 50 boys. Days required = 200 / 50 = 4 days.",
       "tip": "15M + 20B is exactly 2.5 times (6M + 8B). Since team strength is multiplied by 2.5, time is divided by 2.5: 10 / 2.5 = 4 days.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "4 दिन",
+        "5 दिन",
+        "6 दिन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "(6M + 8B) * 10 = (26M + 48B) * 2 => 60M + 80B = 52M + 96B => 8M = 16B => 1 Man = 2 Boys. Total work in boy units = (6*2 + 8) * 10 = 20 * 10 = 200 boy-दिन. 15 men and 20 boys = 15*2 + 20 = 50 boys. दिन required = 200 / 50 = 4 दिन.",
+      "tip_hi": "15M + 20B is exactly 2.5 times (6M + 8B). Since team strength is multiplied by 2.5, time is divided by 2.5: 10 / 2.5 = 4 दिन."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -77,7 +104,16 @@
       "answer_text": "15",
       "explanation": "n(T ∪ C) = n(T) + n(C) - n(T ∩ C) = 35 + 25 - 15 = 45 persons like at least one beverage. Number of persons liking neither = Total - n(T ∪ C) = 60 - 45 = 15.",
       "tip": "Union = 35 + 25 - 15 = 45. Neither = 60 - 45 = 15.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "10",
+        "15",
+        "20",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "n(T ∪ C) = n(T) + n(C) - n(T ∩ C) = 35 + 25 - 15 = 45 persons like at least one beverage. Number of persons liking neither = Total - n(T ∪ C) = 60 - 45 = 15.",
+      "tip_hi": "Union = 35 + 25 - 15 = 45. Neither = 60 - 45 = 15."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -95,7 +131,16 @@
       "answer_text": "HKTG",
       "explanation": "Pattern is +2 to each letter: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. Applying +2 to FIRE: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG.",
       "tip": "Shift +2: F->H, I->K, R->T, E->G = HKTG.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "HKTG",
+        "GJSF",
+        "HKTH",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pattern is +2 to each letter: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. Applying +2 to FIRE: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG.",
+      "tip_hi": "Shift +2: F->H, I->K, R->T, E->G = HKTG."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -113,7 +158,16 @@
       "answer_text": "191",
       "explanation": "Pattern is (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
       "tip": "Next term = 95 * 2 + 1 = 190 + 1 = 191.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "189",
+        "191",
+        "195",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pattern is (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
+      "tip_hi": "Next term = 95 * 2 + 1 = 190 + 1 = 191."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -131,7 +185,16 @@
       "answer_text": "Sister (बहन)",
       "explanation": "'Her mother's only son' is the woman's brother. If the woman's brother is the man's brother, then the woman is the man's sister.",
       "tip": "Mother's only son = Brother. Woman's brother is man's brother, so the woman is his sister.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "Mother",
+        "Sister (बहन)",
+        "Aunt",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Her mother's only सोन नदी' is the woman's brother. If the woman's brother is the man's brother, then the woman is the man's sister.",
+      "tip_hi": "Mother's only सोन नदी = Brother. Woman's brother is man's brother, so the woman is his sister."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -149,7 +212,16 @@
       "answer_text": "21(9/11) minutes past 4",
       "explanation": "At 4:00, the hands are 20 minute spaces apart. To coincide, the minute hand must gain 20 spaces over the hour hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) minutes past 4.",
       "tip": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) minutes past 4.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "4:20",
+        "21(9/11) मिनट past 4",
+        "22(2/11) मिनट past 4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "At 4:00, the hands are 20 मिनट spaces apart. To coincide, the मिनट hand must gain 20 spaces over the घंटे hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) मिनट past 4.",
+      "tip_hi": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) मिनट past 4."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -167,7 +239,16 @@
       "answer_text": "3.6 × 10^6 J",
       "explanation": "1 kWh = 1,000 Watts * 3,600 seconds = 3,600,000 Watt-seconds = 3.6 × 10^6 Joules.",
       "tip": "1 commercial electrical unit = 1 kWh = 3.6 * 10^6 J.",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "3.6 × 10^5 J",
+        "3.6 × 10^6 J",
+        "3.6 × 10^7 J",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "1 kWh = 1,000 Watts * 3,600 सेकंड = 3,600,000 वाट-सेकंड = 3.6 × 10^6 Joules.",
+      "tip_hi": "1 commercial electrical unit = 1 kWh = 3.6 * 10^6 J."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -185,7 +266,16 @@
       "answer_text": "Focal length is infinite (∞); Power is zero (0 D)",
       "explanation": "A plane mirror has no curvature (radius of curvature R = ∞), so its focal length f = R/2 = ∞. Optical power P = 1/f = 1/∞ = 0 Dioptres.",
       "tip": "Plane mirror: Focal length = Infinite (∞); Power = 0 D; Magnification = +1.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "Focal length is zero; Power is infinite",
+        "Focal length is infinite (∞); Power is zero (0 D)",
+        "Focal length is 1 metre; Power is 1 Dioptre",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A समतल दर्पण has no curvature (radius of curvature R = ∞), so its focal length f = R/2 = ∞. Optical power P = 1/f = 1/∞ = 0 Dioptres.",
+      "tip_hi": "समतल दर्पण: Focal length = Infinite (∞); Power = 0 D; Magnification = +1."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -203,7 +293,16 @@
       "answer_text": "Hydrogen (H2)",
       "explanation": "Hydrogen gas is highly combustible. When mixed with atmospheric oxygen and ignited, it burns explosively with a distinctive 'pop' sound, forming water vapour: 2H2 + O2 -> 2H2O.",
       "tip": "Pop sound test = Hydrogen (H2); Extinguishes burning matchstick = CO2; Rekindles glowing splint = Oxygen.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "Oxygen",
+        "Hydrogen (H2)",
+        "Carbon dioxide",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Hydrogen gas is highly combustible. When mixed with atmospheric oxygen and ignited, it burns explosively with a distinctive 'pop' sound, forming water vapour: 2H2 + O2 -> 2H2O.",
+      "tip_hi": "Pop sound test = Hydrogen (H2); Extinguishes burning matchstick = CO2; Rekindles glowing splint = Oxygen."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -221,7 +320,16 @@
       "answer_text": "Mercury (पारा, Hg)",
       "explanation": "Cinnabar is mercuric sulphide (HgS). When roasted in air, HgS decomposes into sulfur dioxide and metallic mercury vapour, which condenses into liquid mercury: HgS + O2 -> Hg + SO2.",
       "tip": "Cinnabar = Mercury (Hg); Galena = Lead (Pb); Chalcopyrite = Copper (Cu).",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "Lead",
+        "Mercury (पारा, Hg)",
+        "Copper",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सिनाबार (HgS) is mercuric sulphide (HgS). When roasted in air, HgS decomposes into sulfur dioxide and metallic mercury vapour, which condenses into liquid mercury: HgS + O2 -> Hg + SO2.",
+      "tip_hi": "सिनाबार (HgS) = Mercury (Hg); Galena = Lead (Pb); Chalcopyrite = Copper (Cu)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -239,7 +347,16 @@
       "answer_text": "Fallopian Tube (Ampullary-isthmic junction)",
       "explanation": "The released secondary oocyte travels into the fallopian tube (oviduct), where fertilization by sperm occurs in the ampullary region. The resulting zygote then moves to implant in the uterine endometrium.",
       "tip": "Site of fertilization = Fallopian Tube (Oviduct); Site of embryo implantation = Uterus.",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "Uterus",
+        "Fallopian Tube (Ampullary-isthmic junction)",
+        "Ovary",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The released secondary oocyte travels into the fallopian tube (oviduct), where fertilization by sperm occurs in the ampullary region. The resulting zygote then moves to implant in the uterine endometrium.",
+      "tip_hi": "Site of fertilization = Fallopian Tube (Oviduct); Site of embryo implantation = Uterus."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -257,7 +374,16 @@
       "answer_text": "Albumin (एल्ब्यूमिन)",
       "explanation": "Albumin accounts for ~60% of total plasma proteins and generates ~80% of the blood colloidal oncotic pressure, preventing excess fluid leakage from capillaries into interstitial tissues. Fibrinogen is for clotting, and Globulin is for immunity.",
       "tip": "Blood osmotic pressure = Albumin; Blood clotting = Fibrinogen; Antibodies = Globulin.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "Fibrinogen",
+        "Albumin (एल्ब्यूमिन)",
+        "Globulin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Albumin accounts for ~60% of total plasma proteins and generates ~80% of the blood colloidal oncotic pressure, preventing excess fluid leakage from capillaries into interstitial tissues. Fibrinogen is for clotting, and Globulin is for immunity.",
+      "tip_hi": "Blood osmotic pressure = Albumin; Blood clotting = Fibrinogen; Antibodies = Globulin."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -275,7 +401,16 @@
       "answer_text": "Ribosomes (राइबोसोम)",
       "explanation": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in cytoplasm or bound to rough endoplasmic reticulum.",
       "tip": "Protein factory = Ribosomes; Powerhouse = Mitochondria; Packaging centre = Golgi apparatus.",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "Lysosomes",
+        "Ribosomes (राइबोसोम)",
+        "Vacuoles",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in कोशिकाद्रव्य or bound to rough endoplasmic reticulum.",
+      "tip_hi": "Protein factory = Ribosomes; Powerhouse = माइटोकॉन्ड्रिया; Packaging centre = Golgi apparatus."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -293,7 +428,16 @@
       "answer_text": "Total Internal Reflection of light through layers of heated air",
       "explanation": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing total internal reflection.",
       "tip": "Mirage in deserts = Total Internal Reflection (TIR) + Atmospheric Refraction.",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "Pure optical वर्ण विक्षेपण",
+        "पूर्ण आंतरिक परावर्तन of light through layers of heated air",
+        "Selective wave polarization",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing पूर्ण आंतरिक परावर्तन.",
+      "tip_hi": "Mirage in deserts = पूर्ण आंतरिक परावर्तन (TIR) + Atmospheric अपवर्तन."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -311,7 +455,16 @@
       "answer_text": "William Tayler (विलियम टेलर)",
       "explanation": "William Tayler served as Commissioner of Patna during 1857. He invited three prominent Wahhabi leaders (Muhammad Hussain, Ahmadullah, Waizul Haque) to his house for talks and arrested them treacherous, and publicly hanged Pir Ali Khan.",
       "tip": "Patna Commissioner in 1857 = William Tayler; Chota Nagpur Commissioner = Major Dalton.",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "Major Dalton",
+        "William Tayler (विलियम टेलर)",
+        "E. A. Samuells",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "William Tayler served as Commissioner of Patna के दौरान 1857. He invited three prominent Wahhabi leaders (Muhammad Hussain, Ahmadullah, Waizul Haque) to his house for talks and arrested them treacherous, and publicly hanged Pir Ali Khan.",
+      "tip_hi": "Patna Commissioner in 1857 = William Tayler; Chota Nagpur Commissioner = Major Dalton."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -329,7 +482,16 @@
       "answer_text": "With a complete citywide hartal and deserted streets (पूर्ण हड़ताल और वीरान सड़कें)",
       "explanation": "On 22-23 December 1921, Patna observed a historic and total hartal against the Prince of Wales' visit called by the Congress. Markets and schools closed, and streets were completely deserted, delivering a stinging boycott to the colonial administration.",
       "tip": "Prince of Wales visit to Patna (22 Dec 1921) = Met with total hartal and deserted streets.",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "With grand civic reception",
+        "With a complete citywide hartal and deserted streets (पूर्ण हड़ताल और वीरान सड़कें)",
+        "With black flags and slogans only at the station",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "On 22-23 दिसम्बर 1921, Patna observed a historic and total hartal against the Prince of Wales' visit called by the Congress. Markets and schools closed, and streets were completely deserted, delivering a stinging boycott to the colonial administration.",
+      "tip_hi": "Prince of Wales visit to Patna (22 Dec 1921) = Met with total hartal and deserted streets."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -347,7 +509,16 @@
       "answer_text": "Bankipur Central Jail, Patna (बांकीपुर जेल)",
       "explanation": "Due to ill health, Dr. Rajendra Prasad had not traveled to Bombay. Patna District Magistrate W. G. Archer arrested him from Sadaqat Ashram on 9 August 1942 and detained him in Bankipur Central Jail, where he wrote his autobiography 'Atmakatha'.",
       "tip": "Dr. Rajendra Prasad detained in 1942 = Bankipur Jail (Patna); Jayaprakash Narayan = Hazaribagh Jail.",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "Hazaribagh Central Jail",
+        "Bankipur Central Jail, Patna (बांकीपुर जेल)",
+        "Gaya Central Jail",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Due to ill health, डॉ. राजेंद्र प्रसाद had not traveled to Bombay. Patna District Magistrate W. G. Archer arrested him from Sadaqat Ashram on 9 अगस्त 1942 and detained him in Bankipur Central Jail, where he wrote his autobiography 'Atmakatha'.",
+      "tip_hi": "डॉ. राजेंद्र प्रसाद detained in 1942 = Bankipur Jail (Patna); जयप्रकाश नारायण = Hazaribagh Jail."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -365,7 +536,16 @@
       "answer_text": "Dr. Sri Krishna Singh (बिहार केसरी)",
       "explanation": "Dr. Sri Krishna Singh (known as 'Sri Babu' and 'Bihar Kesari') served as the premier/Chief Minister of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy Chief Minister and Finance Minister.",
       "tip": "'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = Jayaprakash Narayan.",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "Dr. Anugrah Narayan Sinha",
+        "Dr. Sri Krishna Singh (बिहार केसरी)",
+        "Pandit Karyanand Sharma",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Sri Krishna Singh (के रूप में जाना जाता है 'Sri Babu' and 'Bihar Kesari') served as the premier/मुख्यमंत्री of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy मुख्यमंत्री and Finance Minister.",
+      "tip_hi": "'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = जयप्रकाश नारायण."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -383,7 +563,16 @@
       "answer_text": "Jairamdas Daulatram (जयरामदास दौलतराम)",
       "explanation": "Jairamdas Daulatram served as the first Governor of Bihar in independent India from 15 August 1947 to 11 January 1948. (Sir James David Sifton was the first Governor of Bihar when Orissa separated in 1936).",
       "tip": "First Governor of Bihar in Independent India = Jairamdas Daulatram (15 Aug 1947).",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "R. R. Diwakar",
+        "Jairamdas Daulatram (जयरामदास दौलतराम)",
+        "Madhav Shrihari Aney",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jairamdas Daulatram served as the first राज्यपाल of Bihar in independent India from 15 अगस्त 1947 to 11 जनवरी 1948. (Sir James David Sifton was the first राज्यपाल of Bihar when Orissa separated in 1936).",
+      "tip_hi": "First राज्यपाल of Bihar in Independent India = Jairamdas Daulatram (15 Aug 1947)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -401,7 +590,16 @@
       "answer_text": "Lilajan (Nilanjana) and Mohana",
       "explanation": "The Falgu River is formed by the meeting of the Lilajan (ancient Niranjana, on whose banks Buddha meditated) and the Mohana River near Bodh Gaya. It flows past the Vishnupad Temple in Gaya city.",
       "tip": "Falgu River formed by = Lilajan (Niranjana) + Mohana; Buddha attained enlightenment on banks of Niranjana.",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "सोन नदी and उत्तर Koel",
+        "Lilajan (Nilanjana) and Mohana",
+        "Punpun and Dardha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Falgu River is formed by the meeting of the Lilajan (ancient Niranjana, on whose banks Buddha meditated) and the Mohana River near Bodh Gaya. It flows past the Vishnupad Temple in Gaya city.",
+      "tip_hi": "Falgu River formed by = Lilajan (Niranjana) + Mohana; Buddha attained enlightenment on banks of Niranjana."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -419,7 +617,16 @@
       "answer_text": "Gaya (गया)",
       "explanation": "Chief Minister Nitish Kumar inaugurated the 411-metre-long and 3-metre-high 'Gayaji Dam' on the Falgu River near Vishnupad Temple on 8 September 2022 to maintain round-the-year water depth for pilgrims.",
       "tip": "India's largest rubber dam = Gayaji Dam on Falgu River (Gaya, 411 m long).",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "Rajgir",
+        "Gaya (गया)",
+        "Bodh Gaya",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मुख्यमंत्री Nitish Kumar inaugurated the 411-metre-long and 3-metre-high 'Gayaji Dam' on the Falgu River near Vishnupad Temple on 8 सितम्बर 2022 to maintain round-the-वर्ष water depth for pilgrims.",
+      "tip_hi": "India's largest rubber dam = Gayaji Dam on Falgu River (Gaya, 411 m long)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -437,7 +644,16 @@
       "answer_text": "Jamui (सोनो, जमुई)",
       "explanation": "The GSI estimated that Jamui district possesses approximately 222.88 million tonnes of gold ore containing ~37.6 tonnes of metal, accounting for ~44% of India's total primary gold mineral resources.",
       "tip": "Largest gold ore deposit in India = Sono (Jamui district, Bihar).",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "Rohtas",
+        "Jamui (सोनो, जमुई)",
+        "Banka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The GSI estimated that Jamui district possesses approximately 222.88 million tonnes of gold ore containing ~37.6 tonnes of metal, accounting for ~44% of India's total primary gold mineral resources.",
+      "tip_hi": "Largest gold ore deposit in India = Sono (Jamui district, Bihar)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -455,7 +671,16 @@
       "answer_text": "Rajgir (राजगीर, नालंदा)",
       "explanation": "Brahmakund is the hottest natural spring (temperature ~45°C) located at the foot of Vaibhargiri hill in Rajgir (Nalanda district). Saptadhara springs also emerge here.",
       "tip": "Brahmakund & Saptadhara = Rajgir (Nalanda); Bhimbandh, Sita Kund = Munger.",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "Kharagpur Hills, Munger",
+        "Rajgir (राजगीर, नालंदा)",
+        "Kaimur Hills",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Brahmakund is the hottest natural spring (temperature ~45°C) located at the foot of Vaibhargiri hill in Rajgir (Nalanda district). Saptadhara springs also emerge here.",
+      "tip_hi": "Brahmakund & Saptadhara = Rajgir (Nalanda); Bhimbandh, Sita Kund = Munger."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -473,7 +698,16 @@
       "answer_text": "Hyper-velocity Meteorite Impact (उल्कापिंड प्रभाव)",
       "explanation": "Lonar Lake is a hypersaline and alkaline crater lake formed by a high-velocity extraterrestrial meteorite impact into Deccan basalt rock during the Pleistocene epoch (~50,000 years ago).",
       "tip": "Meteorite impact crater lake in India = Lonar Lake (Maharashtra, Ramsar site).",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "Volcanic caldera eruption",
+        "Hyper-velocity Meteorite Impact (उल्कापिंड प्रभाव)",
+        "Tectonic subsidence",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Lonar Lake is a hypersaline and alkaline crater lake formed by a high-velocity extraterrestrial meteorite impact into Deccan basalt rock के दौरान the Pleistocene epoch (~50,000 वर्ष ago).",
+      "tip_hi": "Meteorite impact crater lake in India = Lonar Lake (Maharashtra, Ramsar site)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -491,7 +725,16 @@
       "answer_text": "Narmada and Tapi (तापी)",
       "explanation": "Narmada and Tapi (Tapti) flow westward through linear graben rift valleys flanked by the Vindhya and Satpura ranges, emptying into the Gulf of Khambhat (Arabian Sea) without forming extensive deltas.",
       "tip": "West-flowing rift valley rivers = Narmada & Tapi; Form estuaries, not deltas.",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "Godavari and Krishna",
+        "Narmada and Tapi (तापी)",
+        "Mahanadi and Cauvery",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Narmada and Tapi (Tapti) flow westward through linear graben rift valleys flanked by the Vindhya and Satpura ranges, emptying into the Gulf of Khambhat (Arabian Sea) without forming extensive deltas.",
+      "tip_hi": "पश्चिम-flowing rift valley rivers = Narmada & Tapi; Form estuaries, not deltas."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -509,7 +752,16 @@
       "answer_text": "President of India",
       "explanation": "Article 123 empowers the President to promulgate Ordinances when either House of Parliament is not in session, having the same force and effect as an Act of Parliament. An Ordinance must be approved by Parliament within 6 weeks of reassembly.",
       "tip": "Ordinance promulgation: President = Article 123; Governor = Article 213.",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "प्रधानमंत्री of India",
+        "राष्ट्रपति of India",
+        "Chief Justice of India",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 123 empowers the राष्ट्रपति to promulgate Ordinances when either House of संसद is not in session, having the same force and effect as an Act of संसद. An अध्यादेश must be approved by संसद within 6 सप्ताह of reassembly.",
+      "tip_hi": "अध्यादेश promulgation: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -527,7 +779,16 @@
       "answer_text": "Rajya Sabha (राज्य सभा)",
       "explanation": "Article 312 provides that if the Rajya Sabha declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, Parliament may by law create new All-India Services.",
       "tip": "Exclusive special powers of Rajya Sabha: Article 249 (State list legislation) and Article 312 (New All-India Services).",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "लोकसभा",
+        "राज्यसभा (राज्य सभा)",
+        "Union Cabinet",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 312 provides that if the राज्यसभा declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, संसद मई by law create new All-India Services.",
+      "tip_hi": "Exclusive special powers of राज्यसभा: अनुच्छेद 249 (State list legislation) and अनुच्छेद 312 (New All-India Services)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -545,7 +806,16 @@
       "answer_text": "Armed Rebellion (सशस्त्र विद्रोह)",
       "explanation": "To prevent the misuse of emergency powers (as occurred in 1975 under the pretext of 'internal disturbance'), the 44th Amendment restricted National Emergency grounds to War, External Aggression, or 'Armed Rebellion', requiring written recommendation of the Union Cabinet.",
       "tip": "44th Amendment substituted 'Armed Rebellion' for 'Internal Disturbance' in Article 352.",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "External Aggression",
+        "Armed Rebellion (सशस्त्र विद्रोह)",
+        "Civil War",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "To prevent the misuse of emergency powers (as occurred in 1975 under the pretext of 'internal disturbance'), the 44th संशोधन restricted National Emergency grounds to War, External Aggression, or 'Armed Rebellion', requiring written recommendation of the Union Cabinet.",
+      "tip_hi": "44th संशोधन substituted 'Armed Rebellion' for 'Internal Disturbance' in अनुच्छेद 352."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -563,7 +833,16 @@
       "answer_text": "13,07,25,310 (लगभग 13.07 करोड़)",
       "explanation": "The Bihar Caste Survey enumerated a total population of 13,07,25,310 individuals across 2.83 crore families. Extremely Backward Classes (EBCs) formed 36.01%, Other Backward Classes (OBCs) 27.13%, Scheduled Castes (SCs) 19.65%, and Scheduled Tribes (STs) 1.68%.",
       "tip": "Bihar Population: Census 2011 = 10.41 crore; Caste Survey 2023 = 13.07 crore (13,07,25,310).",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "10,40,99,452",
+        "13,07,25,310 (लगभग 13.07 करोड़)",
+        "14,25,50,000",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Bihar Caste Survey enumerated a total population of 13,07,25,310 individuals across 2.83 crore families. Extremely Backward Classes (EBCs) formed 36.01%, Other Backward Classes (OBCs) 27.13%, Scheduled Castes (SCs) 19.65%, and Scheduled Tribes (STs) 1.68%.",
+      "tip_hi": "Bihar Population: जनगणना 2011 = 10.41 crore; Caste Survey 2023 = 13.07 crore (13,07,25,310)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -581,7 +860,16 @@
       "answer_text": "Sudan (सूडान)",
       "explanation": "Operation Kaveri evacuated over 3,800 Indian citizens stranded in Sudan during violent armed clashes between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF), using IAF C-130J aircraft and INS Sumedha from Port Sudan.",
       "tip": "Operation Kaveri = Sudan (2023); Operation Ajay = Israel-Gaza (2023); Operation Ganga = Ukraine (2022).",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "Ukraine",
+        "Sudan (सूडान)",
+        "Israel",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Operation Kaveri evacuated over 3,800 Indian citizens stranded in Sudan के दौरान violent armed clashes between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF), using IAF C-130J aircraft and INS Sumedha from Port Sudan.",
+      "tip_hi": "Operation Kaveri = Sudan (2023); Operation Ajay = Israel-Gaza (2023); Operation गंगा नदी = Ukraine (2022)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -599,7 +887,16 @@
       "answer_text": "106th Constitutional Amendment Act 2023",
       "explanation": "The 106th Constitutional Amendment Act 2023 (128th Amendment Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the Lok Sabha, State Legislative Assemblies, and Delhi Assembly for 15 years, to be implemented after delimitation following the next census.",
       "tip": "Women's Reservation in Parliament (33%) = 106th Amendment Act 2023 (Nari Shakti Vandan Adhiniyam).",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "103rd संशोधन अधिनियम",
+        "106वां संविधान संशोधन अधिनियम 2023",
+        "105वां संशोधन अधिनियम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 106th संविधान संशोधन अधिनियम 2023 (128th संशोधन Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the लोकसभा, State Legislative Assemblies, and Delhi Assembly for 15 वर्ष, to be implemented after delimitation following the next जनगणना.",
+      "tip_hi": "Women's Reservation in संसद (33%) = 106th संशोधन अधिनियम 2023 (Nari Shakti Vandan Adhiniyam)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -617,7 +914,16 @@
       "answer_text": "720°",
       "explanation": "Sum of interior angles = (n - 2) * 180°. For a hexagon (n = 6): Sum = (6 - 2) * 180° = 4 * 180° = 720°.",
       "tip": "(n - 2) * 180°: Hexagon = 4 * 180° = 720°; Pentagon = 540°; Octagon = 1080°.",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "540°",
+        "720°",
+        "900°",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sum of interior angles = (n - 2) * 180°. For a hexagon (n = 6): Sum = (6 - 2) * 180° = 4 * 180° = 720°.",
+      "tip_hi": "(n - 2) * 180°: Hexagon = 4 * 180° = 720°; Pentagon = 540°; Octagon = 1080°."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -635,7 +941,16 @@
       "answer_text": "Inverted (उल्टा)",
       "explanation": "In open water and ponds, the biomass of primary producers (phytoplankton) at any instant is small due to short lifespans and rapid turnover, whereas the standing biomass of consumers (fishes) is substantially larger, producing an inverted pyramid of biomass.",
       "tip": "Biomass pyramid in aquatic pond ecosystem = Inverted; Energy pyramid = Always upright.",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "Always upright",
+        "Inverted (उल्टा)",
+        "Linear horizontal",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In open water and ponds, the biomass of primary producers (phytoplankton) at any instant is small due to short lifespans and rapid turnover, जबकि the standing biomass of consumers (fishes) is substantially larger, producing an inverted pyramid of biomass.",
+      "tip_hi": "Biomass pyramid in aquatic pond ecosystem = Inverted; Energy pyramid = Always upright."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -653,7 +968,16 @@
       "answer_text": "Aryabhata (आर्यभट्ट)",
       "explanation": "Aryabhata, born in 476 CE at Kusumapura (modern Patna, Bihar), authored 'Aryabhatiya'. He introduced place-value decimal system, calculated solar year as 365.258 days, and explained lunar and solar eclipses scientifically.",
       "tip": "Aryabhata = Born at Kusumapura (Patna); Author of 'Aryabhatiya'; Earth's rotation on axis & eclipse science.",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "Varahamihira",
+        "Aryabhata (आर्यभट्ट)",
+        "Brahmagupta",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Aryabhata, born in 476 CE at Kusumapura (modern Patna, Bihar), authored 'Aryabhatiya'. He introduced place-value decimal system, calculated solar वर्ष as 365.258 दिन, and explained lunar and solar eclipses scientifically.",
+      "tip_hi": "Aryabhata = Born at Kusumapura (Patna); Author of 'Aryabhatiya'; Earth's rotation on axis & eclipse science."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -671,7 +995,16 @@
       "answer_text": "Treaty of Allahabad (इलाहाबाद की संधि)",
       "explanation": "Concluded after the Battle of Buxar on 12 August 1765, the Treaty of Allahabad granted the Company the right to collect land revenue (Diwani) from Bengal, Bihar, and Orissa in exchange for an annual payment of ₹26 lakh to the Mughal Emperor.",
       "tip": "Treaty of Allahabad = August 1765 (Robert Clive & Shah Alam II); Granted Diwani of Bengal, Bihar & Orissa.",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "Treaty of Buxar",
+        "Treaty of Allahabad (इलाहाबाद की संधि)",
+        "Treaty of Alinagar",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Concluded after the Battle of Buxar on 12 अगस्त 1765, the Treaty of Allahabad granted the Company the right to collect land revenue (Diwani) from Bengal, Bihar, and Orissa in exchange for an annual payment of ₹26 lakh to the Mughal Emperor.",
+      "tip_hi": "Treaty of Allahabad = अगस्त 1765 (Robert Clive & Shah Alam II); Granted Diwani of Bengal, Bihar & Orissa."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -689,7 +1022,16 @@
       "answer_text": "Kosi and Burhi Gandak plains (Khagaria, Begusarai, Samastipur)",
       "explanation": "The well-drained alluvial tract along the Burhi Gandak and Kosi rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.",
       "tip": "Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi Gandak & Kosi plains).",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "कोसी नदी and Burhi गंडक नदी plains (Khagaria, Begusarai, Samas",
+        "सोन नदी basin",
+        "Kiul basin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The well-drained alluvial tract along the Burhi गंडक नदी and कोसी नदी rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.",
+      "tip_hi": "Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi गंडक नदी & कोसी नदी plains)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -707,7 +1049,16 @@
       "answer_text": "Article 143 (सलाहकारी क्षेत्राधिकार)",
       "explanation": "Article 143 confers Advisory Jurisdiction on the Supreme Court. The President may refer a question of public importance to the Supreme Court for opinion. The opinion rendered is purely advisory and not binding on the President.",
       "tip": "Advisory Jurisdiction of Supreme Court = Article 143; Original Jurisdiction = Article 131; Special Leave Petition = Article 136.",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "अनुच्छेद 131",
+        "अनुच्छेद 143 (सलाहकारी क्षेत्राधिकार)",
+        "अनुच्छेद 136",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 143 confers Advisory Jurisdiction on the सर्वोच्च न्यायालय. The राष्ट्रपति मई refer a question of public importance to the सर्वोच्च न्यायालय for opinion. The opinion rendered is purely advisory and not binding on the राष्ट्रपति.",
+      "tip_hi": "Advisory Jurisdiction of सर्वोच्च न्यायालय = अनुच्छेद 143; Original Jurisdiction = अनुच्छेद 131; Special Leave Petition = अनुच्छेद 136."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -725,7 +1076,16 @@
       "answer_text": "Gaganyaan (गगनयान)",
       "explanation": "Gaganyaan is India's human spaceflight program aiming to demonstrate human spaceflight capability by launching a crew of three members to a 400 km low Earth orbit for a 3-day mission and returning them safely to Earth.",
       "tip": "India's manned space mission = Gaganyaan (4 IAF astronaut designates selected); Test humanoid robot = Vyommitra.\nAnswer Key Summary Table — Set 14 (Questions 521 to 560)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "id": 40
+      "id": 40,
+      "options_hi": [
+        "Chandrayaan",
+        "Gaganyaan (गगनयान)",
+        "Mangalyaan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gaganyaan is India's human spaceflight program aiming to demonstrate human spaceflight capability by launching a crew of three members to a 400 किमी low Earth orbit for a 3-दिन mission and returning them safely to Earth.",
+      "tip_hi": "India's manned space mission = Gaganyaan (4 IAF astronaut designates selected); Test humanoid robot = Vyommitra.\nAnswer Key Summary Table — Set 14 (Questions 521 to 560)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
     },
     {
       "source": "BPSC Official Exam Booklet",
@@ -743,7 +1103,16 @@
       "answer_text": "('More than one of the above') and Option",
       "explanation": "",
       "tip": "",
-      "id": 41
+      "id": 41,
+      "options_hi": [
+        "BPSC TRE 4.0:",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "",
+      "tip_hi": ""
     }
   ]
 }

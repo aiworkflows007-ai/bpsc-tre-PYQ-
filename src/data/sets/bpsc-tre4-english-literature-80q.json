@@ -23,7 +23,16 @@
       "answer_text": "Geoffrey Chaucer",
       "explanation": "Geoffrey Chaucer (c. 1340s–1400) is heralded as the 'Father of English Poetry' and 'Father of English Literature' for establishing the East Midland Middle English dialect as the primary standard national literary language in works like The Canterbury Tales.",
       "tip": "John Dryden praised Chaucer as 'the father of English poetry', while Matthew Arnold criticized him for lacking 'high seriousness'.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "William Shakespeare",
+        "Geoffrey Chaucer",
+        "Edmund Spenser",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Geoffrey Chaucer (c. 1340s–1400) is heralded as the 'Father of English Poetry' and 'Father of English Literature' for establishing the East Midland Middle English dialect as the primary standard national literary language in works like The Canterbury Tales.",
+      "tip_hi": "John Dryden praised Chaucer as 'the father of English poetry', while Matthew Arnold criticized him for lacking 'high seriousness'."
     },
     {
       "source": "Middle English Literature",
@@ -41,7 +50,16 @@
       "answer_text": "29",
       "explanation": "Chaucer explicitly states at the Tabard Inn in Southwark that there were 'wel nyne and twenty in a compaignye' (29 pilgrims). Including Chaucer himself makes 30, and the Host (Harry Bailly) makes 31.",
       "tip": "Carefully read whether the question excludes or includes the narrator (Chaucer) and Harry Bailly. Only the pilgrims = 29; total party riding to Canterbury = 31.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "29",
+        "30",
+        "31",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Chaucer explicitly states at the Tabard Inn in Southwark that there were 'wel nyne and twenty in a compaignye' (29 pilgrims). Including Chaucer himself makes 30, and the Host (Harry Bailly) makes 31.",
+      "tip_hi": "Carefully read whether the question excludes or includes the narrator (Chaucer) and Harry Bailly. Only the pilgrims = 29; total party riding to Canterbury = 31."
     },
     {
       "source": "Elizabethan Poetry",
@@ -59,7 +77,16 @@
       "answer_text": "ababbcbcc",
       "explanation": "Edmund Spenser invented the Spenserian stanza for The Faerie Queene. It consists of 9 lines: eight lines of iambic pentameter followed by a final twelve-syllable iambic hexameter (alexandrine), rhyming ababbcbcc.",
       "tip": "Spenserian stanza formula: 9 lines, rhyme scheme ababbcbcc, 9th line = Alexandrine (6 feet / 12 syllables). Adopted later by Keats (The Eve of St. Agnes) and Shelley (Adonais).",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "ababbcbcc",
+        "ababcdcd",
+        "aabbccdde",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Edmund Spenser invented the Spenserian stanza for The Faerie Queene. It consists of 9 lines: eight lines of iambic pentameter followed by a final twelve-syllable iambic hexameter (alexandrine), rhyming ababbcbcc.",
+      "tip_hi": "Spenserian stanza formula: 9 lines, rhyme scheme ababbcbcc, 9th line = Alexandrine (6 feet / 12 syllables). Adopted later by Keats (The Eve of St. Agnes) and Shelley (Adonais)."
     },
     {
       "source": "Shakespearean Tragedy",
@@ -77,7 +104,16 @@
       "answer_text": "Macbeth",
       "explanation": "This celebrated soliloquy is uttered by Macbeth in Act V, Scene 5 upon hearing of the death of Lady Macbeth, expressing the existential nihilism of human life as 'a tale told by an idiot, full of sound and fury, signifying nothing.'",
       "tip": "Famous soliloquies: 'To be or not to be' = Hamlet; 'Tomorrow, and tomorrow, and tomorrow' = Macbeth; 'Blow, winds, and crack your cheeks' = King Lear.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "Hamlet",
+        "King Lear",
+        "Macbeth",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This celebrated soliloquy is uttered by Macbeth in Act V, Scene 5 upon hearing of the death of Lady Macbeth, expressing the existential nihilism of human life as 'a tale told by an idiot, full of sound and fury, signifying nothing.'",
+      "tip_hi": "Famous soliloquies: 'To be or not to be' = Hamlet; 'Tomorrow, and tomorrow, and tomorrow' = Macbeth; 'Blow, winds, and crack your cheeks' = King Lear."
     },
     {
       "source": "Shakespearean Sonnets",
@@ -95,7 +131,16 @@
       "answer_text": "154 sonnets; Fair Youth",
       "explanation": "Shakespeare published a collection of 154 sonnets in 1609 (by Thomas Thorpe). Sonnets 1 to 126 are addressed to a handsome young nobleman (the 'Fair Youth'), 127 to 152 to the 'Dark Lady', and 153–154 to Cupid.",
       "tip": "Shakespearean Sonnet division: 1–126 = Fair Youth; 127–152 = Dark Lady; 153–154 = Allegorical/Cupid. Form: 3 quatrains + 1 rhyming couplet (abab cdcd efef gg).",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "154 sonnets; Fair Youth",
+        "154 sonnets; Dark Lady",
+        "152 sonnets; Earl of Southampton",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Shakespeare published a collection of 154 sonnets in 1609 (by Thomas Thorpe). Sonnets 1 to 126 are addressed to a handsome young nobleman (the 'Fair Youth'), 127 to 152 to the 'Dark Lady', and 153–154 to Cupid.",
+      "tip_hi": "Shakespearean Sonnet division: 1–126 = Fair Youth; 127–152 = Dark Lady; 153–154 = Allegorical/Cupid. Form: 3 quatrains + 1 rhyming couplet (abab cdcd efef gg)."
     },
     {
       "source": "17th Century Poetry",
@@ -113,7 +158,16 @@
       "answer_text": "Samuel Johnson",
       "explanation": "Dr. Samuel Johnson coined the critical term in his essay on Abraham Cowley in Lives of the Poets (1779), noting that 'the metaphysical poets were men of learning... their wit was a kind of discordia concors.'",
       "tip": "Dryden first used 'metaphysics' regarding Donne in satire ('he affects the metaphysics'), but Dr. Samuel Johnson established 'Metaphysical School/Poets' as a literary classification.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "John Dryden",
+        "Samuel Johnson",
+        "Alexander Pope",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Samuel Johnson coined the critical term in his essay on Abraham Cowley in Lives of the Poets (1779), noting that 'the metaphysical poets were men of learning... their wit was a kind of discordia concors.'",
+      "tip_hi": "Dryden first used 'metaphysics' regarding Donne in satire ('he affects the metaphysics'), but Dr. Samuel Johnson established 'Metaphysical School/Poets' as a literary classification."
     },
     {
       "source": "Metaphysical Conceits",
@@ -131,7 +185,16 @@
       "answer_text": "the twin compasses of a draughtsman",
       "explanation": "Donne uses a classic metaphysical conceit comparing the souls of separated lovers to the stiff twin legs of a drawing compass: 'If they be two, they are two so / As stiff twin compasses are two.'",
       "tip": "A 'Metaphysical Conceit' is an extended, startling, highly intellectualized comparison between two drastically dissimilar things (e.g., lovers' souls and a geometric compass).",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "two ships passing in the dark",
+        "the twin compasses of a draughtsman",
+        "two tears reflecting the globe",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Donne uses a classic metaphysical conceit comparing the souls of separated lovers to the stiff twin legs of a drawing compass: 'If they be two, they are two so / As stiff twin compasses are two.'",
+      "tip_hi": "A 'Metaphysical Conceit' is an extended, startling, highly intellectualized comparison between two drastically dissimilar things (e.g., lovers' souls and a geometric compass)."
     },
     {
       "source": "Puritan Age & Epic",
@@ -149,7 +212,16 @@
       "answer_text": "10 books",
       "explanation": "The first edition of John Milton's epic Paradise Lost was published in 1667 in 10 books. The second edition of 1674 was reorganized into 12 books (by dividing Books 7 and 10) to match Virgil's Aeneid.",
       "tip": "First edition (1667) = 10 books; Second definitive edition (1674) = 12 books. Verse form = unrhymed iambic pentameter (blank verse).",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "12 books",
+        "10 books",
+        "24 books",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The first edition of John Milton's epic Paradise Lost was published in 1667 in 10 books. The second edition of 1674 was reorganized into 12 books (by dividing Books 7 and 10) to match Virgil's Aeneid.",
+      "tip_hi": "First edition (1667) = 10 books; Second definitive edition (1674) = 12 books. Verse form = unrhymed iambic pentameter (blank verse)."
     },
     {
       "source": "Milton's Poetry",
@@ -167,7 +239,16 @@
       "answer_text": "To justify the ways of God to men",
       "explanation": "In Book I (lines 25–26), Milton declares his epic invocation: 'That to the heighth of this great argument / I may assert Eternal Providence, / And justify the ways of God to men.'",
       "tip": "Remember Milton's exact phrasing: 'justify the ways of God to men', contrasting with Alexander Pope's aim in An Essay on Man: 'vindicate the ways of God to man.'",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "To narrate the fall of Lucifer and his angels",
+        "To justify the ways of God to men",
+        "To defend the Puritan Revolution",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Book I (lines 25–26), Milton declares his epic invocation: 'That to the heighth of this great argument / I may assert Eternal Providence, / And justify the ways of God to men.'",
+      "tip_hi": "Remember Milton's exact phrasing: 'justify the ways of God to men', contrasting with Alexander Pope's aim in An Essay on Man: 'vindicate the ways of God to man.'"
     },
     {
       "source": "Restoration Drama",
@@ -185,7 +266,16 @@
       "answer_text": "William Congreve",
       "explanation": "William Congreve's masterpiece The Way of the World (featuring lovers Mirabell and Millamant and their famous 'proviso scene') represents the pinnacle of Restoration Comedy of Manners.",
       "tip": "The Country Wife = William Wycherley; The Man of Mode = George Etherege; The Way of the World = William Congreve.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "William Wycherley",
+        "William Congreve",
+        "George Etherege",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "William Congreve's masterpiece The Way of the World (featuring lovers Mirabell and Millamant and their famous 'proviso scene') represents the pinnacle of Restoration Comedy of Manners.",
+      "tip_hi": "The Country Wife = William Wycherley; The Man of Mode = George Etherege; The Way of the World = William Congreve."
     },
     {
       "source": "Augustan Age & Satire",
@@ -203,7 +293,16 @@
       "answer_text": "Arabella Fermor",
       "explanation": "Lord Petre clipped a lock of hair from Miss Arabella Fermor (represented as Belinda in the poem) without her permission, precipitating a bitter feud between two prominent Catholic families.",
       "tip": "The Rape of the Lock: Mock-epic machinery includes Sylphs (Ariel - air), Gnomes (Umbriel - earth), Nymphs (water), Salamanders (fire), and the game of Ombre.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "Arabella Fermor",
+        "Martha Blount",
+        "Lady Mary Wortley Montagu",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Lord Petre clipped a lock of hair from Miss Arabella Fermor (represented as Belinda in the poem) without her permission, precipitating a bitter feud between two prominent Catholic families.",
+      "tip_hi": "The Rape of the Lock: Mock-epic machinery includes Sylphs (Ariel - air), Gnomes (Umbriel - earth), Nymphs (water), Salamanders (fire), and the game of Ombre."
     },
     {
       "source": "Augustan Prose",
@@ -221,7 +320,16 @@
       "answer_text": "4 voyages",
       "explanation": "Gulliver undertakes 4 voyages: Part 1 - Lilliput (tiny people); Part 2 - Brobdingnag (giants); Part 3 - Laputa, Balnibarbi, Glubbdubdrib, Luggnagg, and Japan; Part 4 - Country of the Houyhnhnms (rational horses vs. Yahoos).",
       "tip": "Sequence of Gulliver's Travels: 1. Lilliput (6 inches high) -> 2. Brobdingnag (60 feet high) -> 3. Laputa (flying island) -> 4. Houyhnhnms (virtuous horses).",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "3 voyages",
+        "4 voyages",
+        "5 voyages",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gulliver undertakes 4 voyages: Part 1 - Lilliput (tiny people); Part 2 - Brobdingnag (giants); Part 3 - Laputa, Balnibarbi, Glubbdubdrib, Luggnagg, and Japan; Part 4 - Country of the Houyhnhnms (rational horses vs. Yahoos).",
+      "tip_hi": "Sequence of Gulliver's Travels: 1. Lilliput (6 inches high) -> 2. Brobdingnag (60 feet high) -> 3. Laputa (flying island) -> 4. Houyhnhnms (virtuous horses)."
     },
     {
       "source": "18th Century Prose",
@@ -239,7 +347,16 @@
       "answer_text": "Samuel Johnson",
       "explanation": "Dr. Samuel Johnson single-handedly compiled A Dictionary of the English Language over nearly nine years, publishing it in two folio volumes on 15 April 1755, defining over 40,000 words with literary quotations.",
       "tip": "Johnson's famous definition of lexicographer: 'a writer of dictionaries; a harmless drudge.' His life was chronicled by James Boswell in The Life of Samuel Johnson (1791).",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "James Boswell",
+        "Samuel Johnson",
+        "Oliver Goldsmith",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Samuel Johnson single-handedly compiled A Dictionary of the English Language over nearly nine years, publishing it in two folio volumes on 15 April 1755, defining over 40,000 words with literary quotations.",
+      "tip_hi": "Johnson's famous definition of lexicographer: 'a writer of dictionaries; a harmless drudge.' His life was chronicled by James Boswell in The Life of Samuel Johnson (1791)."
     },
     {
       "source": "Romantic Movement",
@@ -257,7 +374,16 @@
       "answer_text": "Lyrical Ballads by Wordsworth and Coleridge",
       "explanation": "The joint, anonymous publication of Lyrical Ballads in 1798 by William Wordsworth and Samuel Taylor Coleridge launched English Romanticism. The celebrated 'Preface' explaining its revolutionary poetic theory was added in the 1800 edition.",
       "tip": "Lyrical Ballads (1798) opens with Coleridge's 'The Rime of the Ancient Mariner' and concludes with Wordsworth's 'Lines Composed a Few Miles above Tintern Abbey'.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "Songs of Innocence and Experience by William Blake",
+        "Lyrical Ballads by Wordsworth and Coleridge",
+        "Preface to Shakespeare by Samuel Johnson",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The joint, anonymous publication of Lyrical Ballads in 1798 by William Wordsworth and Samuel Taylor Coleridge launched English Romanticism. The celebrated 'Preface' explaining its revolutionary poetic theory was added in the 1800 edition.",
+      "tip_hi": "Lyrical Ballads (1798) opens with Coleridge's 'The Rime of the Ancient Mariner' and concludes with Wordsworth's 'Lines Composed a Few Miles above Tintern Abbey'."
     },
     {
       "source": "Romantic Literary Criticism",
@@ -275,7 +401,16 @@
       "answer_text": "The spontaneous overflow of powerful feelings recollected in tranquillity",
       "explanation": "Wordsworth defined poetry as 'the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity.' Coleridge defined prose as 'words in their best order' and poetry as 'the best words in the best order.'",
       "tip": "Definitions to memorize: Wordsworth = 'spontaneous overflow of powerful feelings'; Coleridge = 'the best words in the best order'; Matthew Arnold = 'criticism of life'.",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "The spontaneous overflow of powerful feelings recollected in tranquillity",
+        "The best words in the best order",
+        "Criticism of life governed by the laws of poetic truth and beauty",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Wordsworth defined poetry as 'the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity.' Coleridge defined prose as 'words in their best order' and poetry as 'the best words in the best order.'",
+      "tip_hi": "Definitions to memorize: Wordsworth = 'spontaneous overflow of powerful feelings'; Coleridge = 'the best words in the best order'; Matthew Arnold = 'criticism of life'."
     },
     {
       "source": "Keats & Romantic Poetry",
@@ -293,7 +428,16 @@
       "answer_text": "John Keats",
       "explanation": "These famous concluding lines appear in John Keats's 'Ode on a Grecian Urn' (1819), encapsulating his aesthetic philosophy equating timeless art, truth, and supreme beauty.",
       "tip": "Keats's major 1819 Odes: 'Ode to a Nightingale', 'Ode on a Grecian Urn', 'Ode on Melancholy', 'Ode to Psyche', 'To Autumn'. Concept of 'Negative Capability' = Keats.",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "P. B. Shelley",
+        "John Keats",
+        "Lord Byron",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "These famous concluding lines appear in John Keats's 'Ode on a Grecian Urn' (1819), encapsulating his aesthetic philosophy equating timeless art, truth, and supreme beauty.",
+      "tip_hi": "Keats's major 1819 Odes: 'Ode to a Nightingale', 'Ode on a Grecian Urn', 'Ode on Melancholy', 'Ode to Psyche', 'To Autumn'. Concept of 'Negative Capability' = Keats."
     },
     {
       "source": "Pastoral Elegy",
@@ -311,7 +455,16 @@
       "answer_text": "John Keats",
       "explanation": "Shelley composed the pastoral elegy Adonais in 55 Spenserian stanzas following the tragic death of John Keats in Rome from tuberculosis at age 25 in February 1821.",
       "tip": "Famous English Elegies: Lycidas (Milton for Edward King); Adonais (Shelley for John Keats); In Memoriam (Tennyson for Arthur Henry Hallam); Thyrsis (Arnold for A.H. Clough).",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "Lord Byron",
+        "John Keats",
+        "Robert Southey",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Shelley composed the pastoral elegy Adonais in 55 Spenserian stanzas following the tragic death of John Keats in Rome from tuberculosis at age 25 in February 1821.",
+      "tip_hi": "Famous English Elegies: Lycidas (Milton for Edward King); Adonais (Shelley for John Keats); In Memoriam (Tennyson for Arthur हेनरी Hallam); Thyrsis (Arnold for A.H. Clough)."
     },
     {
       "source": "19th Century Novel",
@@ -329,7 +482,16 @@
       "answer_text": "Jane Austen",
       "explanation": "Jane Austen (1775–1817) masterfully depicted English landed gentry in domestic novels of manners, including Sense and Sensibility (1811), Pride and Prejudice (1813), and Emma (1815).",
       "tip": "Austen described her art as working on 'the little bit (two inches wide) of ivory on which I work with so fine a brush.'",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Mary Shelley",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jane Austen (1775–1817) masterfully depicted English landed gentry in domestic novels of manners, including Sense and Sensibility (1811), Pride and Prejudice (1813), and Emma (1815).",
+      "tip_hi": "Austen described her art as working on 'the little bit (two inches wide) of ivory on which I work with so fine a brush.'"
     },
     {
       "source": "Victorian Poetry",
@@ -347,7 +509,16 @@
       "answer_text": "Alfred, Lord Tennyson",
       "explanation": "Alfred, Lord Tennyson spent 17 years writing In Memoriam to grieve the sudden death of his Cambridge friend Arthur Henry Hallam. Published in 1850, it led to his appointment as Poet Laureate succeeding Wordsworth.",
       "tip": "In Memoriam Stanza: iambic tetrameter rhyming abba. Contains the famous line: ''Tis better to have loved and lost / Than never to have loved at all.'",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "Robert Browning",
+        "Alfred, Lord Tennyson",
+        "Matthew Arnold",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Alfred, Lord Tennyson spent 17 years writing In Memoriam to grieve the sudden death of his Cambridge friend Arthur हेनरी Hallam. Published in 1850, it led to his appointment as Poet Laureate succeeding Wordsworth.",
+      "tip_hi": "In Memoriam Stanza: iambic tetrameter rhyming abba. Contains the famous line: ''Tis better to have loved and lost / Than never to have loved at all.'"
     },
     {
       "source": "Victorian Poetry",
@@ -365,7 +536,16 @@
       "answer_text": "Robert Browning",
       "explanation": "Robert Browning perfected the dramatic monologue in poems like 'My Last Duchess', 'Fra Lippo Lippi', 'Andrea del Sarto', and 'Porphyria's Lover', revealing the speaker's hidden psyche through uninhibited speech to a silent auditor.",
       "tip": "Dramatic Monologue components: Single speaker (not the poet), specific dramatic crisis, presence of a silent listener, and unwitting revelation of the speaker's true character.",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "Alfred Tennyson",
+        "Robert Browning",
+        "D. G. Rossetti",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Robert Browning perfected the dramatic monologue in poems like 'My Last Duchess', 'Fra Lippo Lippi', 'Andrea del Sarto', and 'Porphyria's Lover', revealing the speaker's hidden psyche through uninhibited speech to a silent auditor.",
+      "tip_hi": "Dramatic Monologue components: Single speaker (not the poet), specific dramatic crisis, presence of a silent listener, and unwitting revelation of the speaker's true character."
     },
     {
       "source": "Victorian Fiction",
@@ -383,7 +563,16 @@
       "answer_text": "London and Paris",
       "explanation": "The novel opens with the celebrated line 'It was the best of times, it was the worst of times' and alternates its historical plot between London (England) and Paris (France) during the Reign of Terror.",
       "tip": "Protagonist Sydney Carton sacrifices his life on the guillotine for Charles Darnay: 'It is a far, far better thing that I do, than I have ever done.'",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "London and Rome",
+        "London and Paris",
+        "Paris and Vienna",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The novel opens with the celebrated line 'It was the best of times, it was the worst of times' and alternates its historical plot between London (England) and Paris (France) during the Reign of Terror.",
+      "tip_hi": "Protagonist Sydney Carton sacrifices his life on the guillotine for Charles Darnay: 'It is a far, far better thing that I do, than I have ever done.'"
     },
     {
       "source": "Victorian Realism",
@@ -401,7 +590,16 @@
       "answer_text": "George Eliot",
       "explanation": "Mary Ann Evans adopted the pen name 'George Eliot' to ensure her serious realist fiction would be judged on its merits rather than dismissed as light domestic female romance. Middlemarch (1871–72) is subtitled 'A Study of Provincial Life'.",
       "tip": "Victorian Pseudonyms: Mary Ann Evans = George Eliot; Charlotte Brontë = Currer Bell; Emily Brontë = Ellis Bell; Anne Brontë = Acton Bell.",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "Currer Bell",
+        "George Eliot",
+        "Acton Bell",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mary Ann Evans adopted the pen name 'George Eliot' to ensure her serious realist fiction would be judged on its merits rather than dismissed as light domestic female romance. Middlemarch (1871–72) is subtitled 'A Study of Provincial Life'.",
+      "tip_hi": "Victorian Pseudonyms: Mary Ann Evans = George Eliot; Charlotte Brontë = Currer Bell; Emily Brontë = Ellis Bell; Anne Brontë = Acton Bell."
     },
     {
       "source": "Hardy & Regional Novel",
@@ -419,7 +617,16 @@
       "answer_text": "Wessex",
       "explanation": "Thomas Hardy revived the ancient Anglo-Saxon kingdom name 'Wessex' to designate the regional fictional landscape of south and south-west England where his fatalistic rural tragedies unfold.",
       "tip": "Literary Geographies: Wessex = Thomas Hardy; Barsetshire = Anthony Trollope; Lake District = Wordsworth; Malgudi = R. K. Narayan; Yoknapatawpha = William Faulkner.",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "Malgudi",
+        "Barsetshire",
+        "Wessex",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Thomas Hardy revived the ancient Anglo-Saxon kingdom name 'Wessex' to designate the regional fictional landscape of south and south-west England where his fatalistic rural tragedies unfold.",
+      "tip_hi": "Literary Geographies: Wessex = Thomas Hardy; Barsetshire = Anthony Trollope; Lake District = Wordsworth; Malgudi = R. K. Narayan; Yoknapatawpha = William Faulkner."
     },
     {
       "source": "Late Victorian Drama",
@@ -437,7 +644,16 @@
       "answer_text": "Oscar Wilde",
       "explanation": "Oscar Wilde's farcical comedy of manners The Importance of Being Earnest, subtitled 'A Trivial Comedy for Serious People', satirizes Victorian earnestness, hypocrisy, and social propriety through characters like Jack Worthing, Algernon, and Lady Bracknell.",
       "tip": "Wilde was the central figure of the Aesthetic Movement ('Art for Art's Sake' / l'art pour l'art). Famous character: Lady Bracknell and her interrogation about the handbag.",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "J. M. Synge",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Oscar Wilde's farcical comedy of manners The Importance of Being Earnest, subtitled 'A Trivial Comedy for Serious People', satirizes Victorian earnestness, hypocrisy, and social propriety through characters like Jack Worthing, Algernon, and Lady Bracknell.",
+      "tip_hi": "Wilde was the central figure of the Aesthetic Movement ('Art for Art's Sake' / l'art pour l'art). Famous character: Lady Bracknell and her interrogation about the handbag."
     },
     {
       "source": "Victorian Critical Poetry",
@@ -455,7 +671,16 @@
       "answer_text": "Dover Beach",
       "explanation": "In 'Dover Beach' (1867), Arnold uses the pebble-strewn beach of Dover at night to symbolize the retreat of religious faith, concluding that humanity is stranded 'as on a darkling plain / Swept with confused alarms of struggle and flight.'",
       "tip": "'Sea of Faith' receding + 'melancholy, long, withdrawing roar' = Matthew Arnold's 'Dover Beach'.",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "The Scholar-Gipsy",
+        "Thyrsis",
+        "Dover Beach",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 'Dover Beach' (1867), Arnold uses the pebble-strewn beach of Dover at night to symbolize the retreat of religious faith, concluding that humanity is stranded 'as on a darkling plain / Swept with confused alarms of struggle and flight.'",
+      "tip_hi": "'Sea of Faith' receding + 'melancholy, long, withdrawing roar' = Matthew Arnold's 'Dover Beach'."
     },
     {
       "source": "Modernist Poetry",
@@ -473,7 +698,16 @@
       "answer_text": "April is the cruellest month",
       "explanation": "Section I of The Waste Land ('The Burial of the Dead') begins: 'April is the cruellest month, breeding / Lilacs out of the dead land, mixing / Memory and desire', inverting Chaucer's joyful spring opening in the Canterbury Tales.",
       "tip": "The Waste Land has 5 sections: 1. The Burial of the Dead; 2. A Game of Chess; 3. The Fire Sermon; 4. Death by Water; 5. What the Thunder Said. Dedicated to Ezra Pound ('il miglior fabbro').",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "April is the cruellest month",
+        "Let us go then, you and I",
+        "In my beginning is my end",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Section I of The Waste Land ('The Burial of the Dead') begins: 'April is the cruellest month, breeding / Lilacs out of the dead land, mixing / Memory and desire', inverting Chaucer's joyful spring opening in the Canterbury Tales.",
+      "tip_hi": "The Waste Land has 5 sections: 1. The Burial of the Dead; 2. A Game of Chess; 3. The Fire Sermon; 4. Death by Water; 5. What the Thunder Said. Dedicated to Ezra Pound ('il miglior fabbro')."
     },
     {
       "source": "Modernist Fiction",
@@ -491,7 +725,16 @@
       "answer_text": "Ulysses",
       "explanation": "James Joyce's monumental novel Ulysses (1922) chronicles the encounters of Leopold Bloom, Stephen Dedalus, and Molly Bloom in Dublin over the course of Thursday, 16 June 1904 (now celebrated internationally as 'Bloomsday').",
       "tip": "Ulysses parallels Homer's Odyssey across 18 episodes and concludes with Molly Bloom's unpunctuated 8-sentence stream-of-consciousness soliloquy ending in 'yes I said yes I will Yes.'",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "A Portrait of the Artist as a Young Man",
+        "Ulysses",
+        "Finnegans Wake",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "James Joyce's monumental novel Ulysses (1922) chronicles the encounters of Leopold Bloom, Stephen Dedalus, and Molly Bloom in Dublin over the course of Thursday, 16 June 1904 (now celebrated internationally as 'Bloomsday').",
+      "tip_hi": "Ulysses parallels Homer's Odyssey across 18 episodes and concludes with Molly Bloom's unpunctuated 8-sentence stream-of-consciousness soliloquy ending in 'yes I said yes I will Yes.'"
     },
     {
       "source": "20th Century Drama",
@@ -509,7 +752,16 @@
       "answer_text": "Samuel Beckett",
       "explanation": "Irish playwright Samuel Beckett wrote Waiting for Godot (originally in French as En attendant Godot), where two tramps, Vladimir and Estragon, endlessly wait by a solitary tree for a mysterious figure named Godot who never arrives.",
       "tip": "Critic Vivian Mercier famously summarized Waiting for Godot: 'a play where nothing happens, twice.' Key term: Theatre of the Absurd (coined by Martin Esslin).\nSECTION 2: LITERARY CRITICISM, THEORY, INDIAN WRITING IN ENGLISH & AMERICAN LITERATURE (Q.29 to Q.55)",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "Harold Pinter",
+        "Samuel Beckett",
+        "Eugene Ionesco",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Irish playwright Samuel Beckett wrote Waiting for Godot (originally in French as En attendant Godot), where two tramps, Vladimir and Estragon, endlessly wait by a solitary tree for a mysterious figure named Godot who never arrives.",
+      "tip_hi": "Critic Vivian Mercier famously summarized Waiting for Godot: 'a play where nothing happens, twice.' Key term: Theatre of the Absurd (coined by Martin Esslin).\nSECTION 2: LITERARY CRITICISM, THEORY, INDIAN WRITING IN ENGLISH & AMERICAN LITERATURE (Q.29 to Q.55)"
     },
     {
       "source": "Classical Criticism (Aristotle)",
@@ -527,7 +779,16 @@
       "answer_text": "Catharsis",
       "explanation": "Aristotle uses the Greek medical/ritual term 'Catharsis' (katharsis) to designate the therapeutic emotional purgation or purification of pity (eleos) and fear (phobos) experienced by the tragic audience.",
       "tip": "Aristotelian Tragedy terms: Catharsis = emotional purgation; Hamartia = tragic error of judgment; Anagnorisis = recognition/discovery; Peripeteia = reversal of fortune; Hubris = insolent pride.",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "Hamartia",
+        "Catharsis",
+        "Anagnorisis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Aristotle uses the Greek medical/ritual term 'Catharsis' (katharsis) to designate the therapeutic emotional purgation or purification of pity (eleos) and fear (phobos) experienced by the tragic audience.",
+      "tip_hi": "Aristotelian Tragedy terms: Catharsis = emotional purgation; Hamartia = tragic error of judgment; Anagnorisis = recognition/discovery; Peripeteia = reversal of fortune; Hubris = insolent pride."
     },
     {
       "source": "Classical Poetics",
@@ -545,7 +806,16 @@
       "answer_text": "Hamartia",
       "explanation": "Hamartia (derived from Greek for 'missing the mark' in archery) denotes the tragic flaw, miscalculation, or moral blindness that brings about the tragic protagonist's ruin.",
       "tip": "Othello's credulous jealousy, Hamlet's procrastination, and Macbeth's vaulting ambition are classic Shakespearean examples of Hamartia.",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "Peripeteia",
+        "Hamartia",
+        "Nemesis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Hamartia (derived from Greek for 'missing the mark' in archery) denotes the tragic flaw, miscalculation, or moral blindness that brings about the tragic protagonist's ruin.",
+      "tip_hi": "Othello's credulous jealousy, Hamlet's procrastination, and Macbeth's vaulting ambition are classic Shakespearean examples of Hamartia."
     },
     {
       "source": "Coleridge's Literary Theory",
@@ -563,7 +833,16 @@
       "answer_text": "More than one of the above",
       "explanation": "In Chapter XIII of Biographia Literaria, Coleridge introduces both distinctions: first, between Fancy (a mechanical, aggregating mode of memory) and Imagination (creative, synthetic power); and second, subdividing Imagination into 'Primary' (universal perception) and 'Secondary' (conscious artistic creation).",
       "tip": "Because Coleridge formulates BOTH the Fancy vs. Imagination distinction and the Primary vs. Secondary Imagination division, BPSC Option (D) is triggered.",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "Primary Imagination and Secondary Imagination",
+        "Fancy and Imagination",
+        "Wit and Judgement",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Chapter XIII of Biographia Literaria, Coleridge introduces both distinctions: first, between Fancy (a mechanical, aggregating mode of memory) and Imagination (creative, synthetic power); and second, subdividing Imagination into 'Primary' (universal perception) and 'Secondary' (conscious artistic creation).",
+      "tip_hi": "Because Coleridge formulates BOTH the Fancy vs. Imagination distinction and the Primary vs. Secondary Imagination division, BPSC Option (D) is triggered."
     },
     {
       "source": "Romantic Criticism",
@@ -581,7 +860,16 @@
       "answer_text": "Willing suspension of disbelief",
       "explanation": "In Chapter XIV of Biographia Literaria, Coleridge explains that in his contributions to Lyrical Ballads (such as 'The Ancient Mariner'), his endeavor was to transfer human interest to supernatural incidents, procuring 'that willing suspension of disbelief for the moment, which constitutes poetic faith.'",
       "tip": "Match critical concepts to authors: Willing suspension of disbelief = Coleridge; Negative Capability = Keats; Objective Correlative = T. S. Eliot; Touchstone Method = Matthew Arnold.",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "Negative Capability",
+        "Objective Correlative",
+        "Willing suspension of disbelief",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Chapter XIV of Biographia Literaria, Coleridge explains that in his contributions to Lyrical Ballads (such as 'The Ancient Mariner'), his endeavor was to transfer human interest to supernatural incidents, procuring 'that willing suspension of disbelief for the moment, which constitutes poetic faith.'",
+      "tip_hi": "Match critical concepts to authors: Willing suspension of disbelief = Coleridge; Negative Capability = Keats; Objective Correlative = T. S. Eliot; Touchstone Method = Matthew Arnold."
     },
     {
       "source": "T. S. Eliot's Criticism",
@@ -599,7 +887,16 @@
       "answer_text": "Hamlet and His Problems",
       "explanation": "In 'Hamlet and His Problems' (1919), Eliot defined the 'objective correlative' as 'a set of objects, a situation, a chain of events which shall be the formula of that particular emotion', infamously declaring Shakespeare's Hamlet 'an artistic failure' because Hamlet's emotion exceeded the facts.",
       "tip": "Eliot's landmark essays: 'Hamlet and His Problems' (Objective Correlative); 'The Metaphysical Poets' (Dissociation of Sensibility); 'Tradition and the Individual Talent' (Impersonal theory of poetry).",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "Tradition and the Individual Talent",
+        "Hamlet and His Problems",
+        "The Metaphysical Poets",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 'Hamlet and His Problems' (1919), Eliot defined the 'objective correlative' as 'a set of objects, a situation, a chain of events which shall be the formula of that particular emotion', infamously declaring Shakespeare's Hamlet 'an artistic failure' because Hamlet's emotion exceeded the facts.",
+      "tip_hi": "Eliot's landmark essays: 'Hamlet and His Problems' (Objective Correlative); 'The Metaphysical Poets' (Dissociation of Sensibility); 'Tradition and the Individual Talent' (Impersonal theory of poetry)."
     },
     {
       "source": "Modernist Criticism",
@@ -617,7 +914,16 @@
       "answer_text": "T. S. Eliot",
       "explanation": "In 'The Metaphysical Poets' (1921), Eliot argued that poets like Donne possessed a mechanism of sensibility that could devour any kind of experience ('they felt their thought as immediately as the odour of a rose'), but in the 17th century a 'dissociation of sensibility' set in from Milton and Dryden onward.",
       "tip": "Unified Sensibility = Metaphysical poets (thought and feeling fused); Dissociation of Sensibility = Post-Restoration poetry (intellect and emotion split).",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "I. A. Richards",
+        "T. S. Eliot",
+        "F. R. Leavis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 'The Metaphysical Poets' (1921), Eliot argued that poets like Donne possessed a mechanism of sensibility that could devour any kind of experience ('they felt their thought as immediately as the odour of a rose'), but in the 17th century a 'dissociation of sensibility' set in from Milton and Dryden onward.",
+      "tip_hi": "Unified Sensibility = Metaphysical poets (thought and feeling fused); Dissociation of Sensibility = Post-Restoration poetry (intellect and emotion split)."
     },
     {
       "source": "New Criticism",
@@ -635,7 +941,16 @@
       "answer_text": "The Intentional Fallacy",
       "explanation": "In 'The Intentional Fallacy' (1946), Wimsatt and Beardsley argued that an author's design or intention is neither available nor desirable as a standard for judging the success of a work of literary art. In 'The Affective Fallacy' (1949), they argued against judging poetry by its psychological emotional effect on the reader.",
       "tip": "Wimsatt & Beardsley's two fallacies: Intentional Fallacy = confusing the poem with its author's intent; Affective Fallacy = confusing the poem with its emotional effect on the reader.",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "The Affective Fallacy",
+        "The Intentional Fallacy",
+        "Seven Types of Ambiguity",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 'The Intentional Fallacy' (1946), Wimsatt and Beardsley argued that an author's design or intention is neither available nor desirable as a standard for judging the success of a work of literary art. In 'The Affective Fallacy' (1949), they argued against judging poetry by its psychological emotional effect on the reader.",
+      "tip_hi": "Wimsatt & Beardsley's two fallacies: Intentional Fallacy = confusing the poem with its author's intent; Affective Fallacy = confusing the poem with its emotional effect on the reader."
     },
     {
       "source": "Postcolonial Theory",
@@ -653,7 +968,16 @@
       "answer_text": "Edward W. Said",
       "explanation": "Palestinian-American scholar Edward Said published Orientalism in 1978, drawing upon Michel Foucault's concepts of discourse and power to demonstrate how Western colonial scholarship systematically produced an ideologically biased representation of the Orient.",
       "tip": "Postcolonial Trinity: Edward Said (Orientalism); Homi Bhabha (Hybridity, Mimicry, Third Space); Gayatri Spivak ('Can the Subaltern Speak?', Strategic Essentialism).",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "Homi K. Bhabha",
+        "Gayatri Chakravorty Spivak",
+        "Edward W. Said",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Palestinian-American scholar Edward Said published Orientalism in 1978, drawing upon Michel Foucault's concepts of discourse and power to demonstrate how Western colonial scholarship systematically produced an ideologically biased representation of the Orient.",
+      "tip_hi": "Postcolonial Trinity: Edward Said (Orientalism); Homi Bhabha (Hybridity, Mimicry, Third Space); Gayatri Spivak ('Can the Subaltern Speak?', Strategic Essentialism)."
     },
     {
       "source": "Subaltern Studies & Theory",
@@ -671,7 +995,16 @@
       "answer_text": "Gayatri Chakravorty Spivak",
       "explanation": "Gayatri Chakravorty Spivak's influential essay examines how colonial archives and indigenous patriarchal structures mutually silence the subaltern woman, illustrated through the historical prohibition of Sati in colonial India.",
       "tip": "The term 'Subaltern' was originally borrowed from Marxist theorist Antonio Gramsci's Prison Notebooks to denote socially subordinated, disenfranchised groups.",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "Gayatri Chakravorty Spivak",
+        "Edward Said",
+        "Frantz Fanon",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gayatri Chakravorty Spivak's influential essay examines how colonial archives and indigenous patriarchal structures mutually silence the subaltern woman, illustrated through the historical prohibition of Sati in colonial India.",
+      "tip_hi": "The term 'Subaltern' was originally borrowed from Marxist theorist Antonio Gramsci's Prison Notebooks to denote socially subordinated, disenfranchised groups."
     },
     {
       "source": "Deconstruction & Theory",
@@ -689,7 +1022,16 @@
       "answer_text": "Jacques Derrida",
       "explanation": "Jacques Derrida's lecture challenged structuralism's belief in a fixed, transcendent center or origin in linguistic structures, introducing key deconstructive concepts such as 'decentering', 'play', and later 'différance'.",
       "tip": "Derrida coined 'Différance' (combining differing and deferring of meaning) and wrote Of Grammatology (1967). Famous quote: 'There is nothing outside the text' (Il n'y a pas de hors-texte).",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "Roland Barthes",
+        "Jacques Derrida",
+        "Michel Foucault",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jacques Derrida's lecture challenged structuralism's belief in a fixed, transcendent center or origin in linguistic structures, introducing key deconstructive concepts such as 'decentering', 'play', and later 'différance'.",
+      "tip_hi": "Derrida coined 'Différance' (combining differing and deferring of meaning) and wrote Of Grammatology (1967). Famous quote: 'There is nothing outside the text' (Il n'y a pas de hors-texte)."
     },
     {
       "source": "Indian Writing in English",
@@ -707,7 +1049,16 @@
       "answer_text": "Gitanjali (Song Offerings)",
       "explanation": "Rabindranath Tagore became the first non-European Nobel laureate in Literature in 1913 for Gitanjali (Song Offerings), published in English translation in 1912 with an introduction by W. B. Yeats.",
       "tip": "Gitanjali contains 103 English prose poems translated by Tagore himself from his Bengali collections (Gitanjali, Gitimalya, Naivedya). Opens with 'Thou hast made me endless, such is thy pleasure.'",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "The Post Office",
+        "Gora",
+        "Gitanjali (Song Offerings)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "रवींद्रनाथ टैगोर became the first non-European Nobel laureate in Literature in 1913 for Gitanjali (Song Offerings), published in English translation in 1912 with an introduction by W. B. Yeats.",
+      "tip_hi": "Gitanjali contains 103 English prose poems translated by Tagore himself from his Bengali collections (Gitanjali, Gitimalya, Naivedya). Opens with 'Thou hast made me endless, such is thy pleasure.'"
     },
     {
       "source": "Indian English Novel",
@@ -725,7 +1076,16 @@
       "answer_text": "Mulk Raj Anand",
       "explanation": "Mulk Raj Anand, one of the foundational 'Big Three' of Indian English fiction, wrote Untouchable (depicting a single day in the life of Bakha, a latrine cleaner) with a preface by E. M. Forster, and Coolie (chronicling Munoo's tragic exploitation).",
       "tip": "The 'Big Three' of Indian English Novel: Mulk Raj Anand (social realism & protest), R. K. Narayan (gentle irony in Malgudi), and Raja Rao (philosophical & metaphysical prose).",
-      "id": 40
+      "id": 40,
+      "options_hi": [
+        "R. K. Narayan",
+        "Mulk Raj Anand",
+        "Raja Rao",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mulk Raj Anand, one of the foundational 'Big Three' of Indian English fiction, wrote Untouchable (depicting a single day in the life of Bakha, a latrine cleaner) with a preface by E. M. Forster, and Coolie (chronicling Munoo's tragic exploitation).",
+      "tip_hi": "The 'Big Three' of Indian English Novel: Mulk Raj Anand (social realism & protest), R. K. Narayan (gentle irony in Malgudi), and Raja Rao (philosophical & metaphysical prose)."
     },
     {
       "source": "R. K. Narayan & Malgudi",
@@ -743,7 +1103,16 @@
       "answer_text": "R. K. Narayan",
       "explanation": "R. K. Narayan introduced the idyllic, microcosmic fictional town of Malgudi in his debut novel Swami and Friends (1935), subsequently setting almost all his novels and short stories (The Guide, The Bachelor of Arts, The English Teacher) there.",
       "tip": "R. K. Narayan won the Sahitya Akademi Award in 1960 for The Guide (adapted into the iconic 1965 film starring Dev Anand).",
-      "id": 41
+      "id": 41,
+      "options_hi": [
+        "Raja Rao",
+        "R. K. Narayan",
+        "Bhabani Bhattacharya",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "R. K. Narayan introduced the idyllic, microcosmic fictional town of Malgudi in his debut novel Swami and Friends (1935), subsequently setting almost all his novels and short stories (The Guide, The Bachelor of Arts, The English Teacher) there.",
+      "tip_hi": "R. K. Narayan won the Sahitya Akademi Award in 1960 for The Guide (adapted into the iconic 1965 film starring Dev Anand)."
     },
     {
       "source": "Raja Rao & Gandhian Novel",
@@ -761,7 +1130,16 @@
       "answer_text": "Achakka",
       "explanation": "Kanthapura is narrated in the oral Sthala-purana style of traditional Harikatha by the grandmotherly narrator Achakka, chronicling young Moorthy's mobilization of the villagers under Mahatma Gandhi's call.",
       "tip": "Raja Rao's famous Foreword to Kanthapura: 'We cannot write like the English. We should not. We cannot write only as Indians... Our method of expression has to be a dialect which will some day prove to be as distinctive and colorful as the Irish or the American.'",
-      "id": 42
+      "id": 42,
+      "options_hi": [
+        "Ratna",
+        "Rangamma",
+        "Achakka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kanthapura is narrated in the oral Sthala-purana style of traditional Harikatha by the grandmotherly narrator Achakka, chronicling young Moorthy's mobilization of the villagers under महात्मा गांधी's call.",
+      "tip_hi": "Raja Rao's famous Foreword to Kanthapura: 'We cannot write like the English. We should not. We cannot write only as Indians... Our method of expression has to be a dialect which will some day prove to be as distinctive and colorful as the Irish or the American.'"
     },
     {
       "source": "Indian English Poetry",
@@ -779,7 +1157,16 @@
       "answer_text": "'Night of the Scorpion'",
       "explanation": "'Night of the Scorpion' (from The Exact Name, 1965) dramatizes a mother being stung by a scorpion on a rainy night, contrasting peasant folk rituals ('May the sins of your previous birth be burned away tonight') with the skeptical father's rationalist remedies, ending with the mother's selfless blessing.",
       "tip": "Ezekiel's poetic volumes: A Time to Change (1952), The Unfinished Man (1960), The Exact Name (1965), Hymns in Darkness (1976).",
-      "id": 43
+      "id": 43,
+      "options_hi": [
+        "'Enterprise'",
+        "'Night of the Scorpion'",
+        "'Background, Casually'",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Night of the Scorpion' (from The Exact Name, 1965) dramatizes a mother being stung by a scorpion on a rainy night, contrasting peasant folk rituals ('May the sins of your previous birth be burned away tonight') with the skeptical father's rationalist remedies, ending with the mother's selfless blessing.",
+      "tip_hi": "Ezekiel's poetic volumes: A Time to Change (1952), The Unfinished Man (1960), The Exact Name (1965), Hymns in Darkness (1976)."
     },
     {
       "source": "Confessional Poetry",
@@ -797,7 +1184,16 @@
       "answer_text": "Kamala Das",
       "explanation": "Kamala Das (also known as Kamala Surayya / Madhavikutty) revolutionized Indian confessional poetry by boldly expressing female sexuality, personal identity, and emotional rebellion against patriarchal domesticity in 'An Introduction' ('I am Indian, very brown, born in Malabar...').",
       "tip": "Key line from 'An Introduction': 'The language I speak / Becomes mine, its distortions, its queernesses / All mine, mine alone.' Confessional poets: Kamala Das, Sylvia Plath, Anne Sexton, Robert Lowell.",
-      "id": 44
+      "id": 44,
+      "options_hi": [
+        "Toru Dutt",
+        "Sarojini Naidu",
+        "Kamala Das",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kamala Das (also known as Kamala Surayya / Madhavikutty) revolutionized Indian confessional poetry by boldly expressing female sexuality, personal identity, and emotional rebellion against patriarchal domesticity in 'An Introduction' ('I am Indian, very brown, born in Malabar...').",
+      "tip_hi": "Key line from 'An Introduction': 'The language I speak / Becomes mine, its distortions, its queernesses / All mine, mine alone.' Confessional poets: Kamala Das, Sylvia Plath, Anne Sexton, Robert Lowell."
     },
     {
       "source": "Contemporary Postcolonial Fiction",
@@ -815,7 +1211,16 @@
       "answer_text": "Saleem Sinai",
       "explanation": "Saleem Sinai, born at the stroke of midnight on 15 August 1947, possesses telepathic powers connecting him to all 1,001 children born during India's first hour of independence, making his personal biography an allegory of the nation's political history.",
       "tip": "Midnight's Children popularized Magic Realism in Indian English literature, won the Booker Prize in 1981, and received the 25th and 40th anniversary 'Booker of Bookers' awards.",
-      "id": 45
+      "id": 45,
+      "options_hi": [
+        "Omar Khayyam Shakil",
+        "Saleem Sinai",
+        "Shiva",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Saleem Sinai, born at the stroke of midnight on 15 August 1947, possesses telepathic powers connecting him to all 1,001 children born during India's first hour of independence, making his personal biography an allegory of the nation's political history.",
+      "tip_hi": "Midnight's Children popularized Magic Realism in Indian English literature, won the Booker Prize in 1981, and received the 25th and 40th anniversary 'Booker of Bookers' awards."
     },
     {
       "source": "Contemporary Indian Fiction",
@@ -833,7 +1238,16 @@
       "answer_text": "The God of Small Things",
       "explanation": "Arundhati Roy's semi-autobiographical lyrical novel The God of Small Things (1997) tells the tragic story of two dizygotic twins, Rahel and Estha, and their mother Ammu's forbidden inter-caste love with Velutha ('The God of Small Things').",
       "tip": "The novel explores the transgressions of 'Love Laws' that dictate 'who should be loved, and how, and how much.' Roy was the first resident Indian citizen to win the Booker Prize.",
-      "id": 46
+      "id": 46,
+      "options_hi": [
+        "The Ministry of Utmost Happiness",
+        "The God of Small Things",
+        "The Inheritance of Loss",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Arundhati Roy's semi-autobiographical lyrical novel The God of Small Things (1997) tells the tragic story of two dizygotic twins, Rahel and Estha, and their mother Ammu's forbidden inter-caste love with Velutha ('The God of Small Things').",
+      "tip_hi": "The novel explores the transgressions of 'Love Laws' that dictate 'who should be loved, and how, and how much.' Roy was the first resident Indian citizen to win the Booker Prize."
     },
     {
       "source": "Early Indian English Poetry",
@@ -851,7 +1265,16 @@
       "answer_text": "Sarojini Naidu",
       "explanation": "Sarojini Naidu was given the sobriquet 'Bharat Kokila' by Mahatma Gandhi for the musical and rhythmic quality of her poems on Indian folk life ('Palanquin Bearers', 'In the Bazaars of Hyderabad', 'Coromandel Fishers').",
       "tip": "Sarojini Naidu was the first Indian woman to become President of the Indian National Congress (Kanpur Session, 1925) and the first woman Governor of Uttar Pradesh.",
-      "id": 47
+      "id": 47,
+      "options_hi": [
+        "Toru Dutt",
+        "Sarojini Naidu",
+        "Kamala Das",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sarojini Naidu was given the sobriquet 'Bharat Kokila' by महात्मा गांधी for the musical and rhythmic quality of her poems on Indian folk life ('Palanquin Bearers', 'In the Bazaars of Hyderabad', 'Coromandel Fishers').",
+      "tip_hi": "Sarojini Naidu was the first Indian woman to become President of the Indian National Congress (Kanpur Session, 1925) and the first woman Governor of Uttar Pradesh."
     },
     {
       "source": "19th-Century Indian English Poetry",
@@ -869,7 +1292,16 @@
       "answer_text": "Toru Dutt",
       "explanation": "Toru Dutt (1856–1877), writing in both English and French, authored 'Our Casuarina Tree', immortalizing the tree in her garden at Baugmaree as a symbol of nostalgic childhood memory and lost siblings (Abju and Aru).",
       "tip": "'Our Casuarina Tree' blends the Romantic Keatsian ode style with Indian devotional and nature imagery, ending with a prayer that the tree be spared from oblivion.",
-      "id": 48
+      "id": 48,
+      "options_hi": [
+        "Sarojini Naidu",
+        "Toru Dutt",
+        "Aru Dutt",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Toru Dutt (1856–1877), writing in both English and French, authored 'Our Casuarina Tree', immortalizing the tree in her garden at Baugmaree as a symbol of nostalgic childhood memory and lost siblings (Abju and Aru).",
+      "tip_hi": "'Our Casuarina Tree' blends the Romantic Keatsian ode style with Indian devotional and nature imagery, ending with a prayer that the tree be spared from oblivion."
     },
     {
       "source": "American Transcendentalism",
@@ -887,7 +1319,16 @@
       "answer_text": "Ralph Waldo Emerson",
       "explanation": "Ralph Waldo Emerson led the Transcendentalist movement in 19th-century New England, emphasizing self-reliance, the divine presence in nature, and the 'Over-Soul' in his 1836 book Nature and 1841 essay 'Self-Reliance'.",
       "tip": "Famous quote from Emerson's 'Self-Reliance': 'Whoso would be a man, must be a nonconformist.' Thoreau put Emerson's philosophy into practice at Walden Pond.",
-      "id": 49
+      "id": 49,
+      "options_hi": [
+        "हेनरी David Thoreau",
+        "Ralph Waldo Emerson",
+        "Walt Whitman",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ralph Waldo Emerson led the Transcendentalist movement in 19th-century New England, emphasizing self-reliance, the divine presence in nature, and the 'Over-Soul' in his 1836 book Nature and 1841 essay 'Self-Reliance'.",
+      "tip_hi": "Famous quote from Emerson's 'Self-Reliance': 'Whoso would be a man, must be a nonconformist.' Thoreau put Emerson's philosophy into practice at Walden Pond."
     },
     {
       "source": "American Romanticism",
@@ -905,7 +1346,16 @@
       "answer_text": "The Scarlet Letter",
       "explanation": "The Scarlet Letter (1850) is set in 17th-century Puritan Boston. Hester Prynne is forced to wear the scarlet letter 'A' on her bosom for adultery, while her secret lover, Reverend Arthur Dimmesdale, dies tormented by unconfessed guilt.",
       "tip": "The letter 'A' shifts symbolic meaning throughout the novel: Adultery -> Able -> Angel. Major characters: Hester Prynne, Arthur Dimmesdale, Roger Chillingworth, Pearl.",
-      "id": 50
+      "id": 50,
+      "options_hi": [
+        "The House of the Seven Gables",
+        "The Blithedale Romance",
+        "The Scarlet Letter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Scarlet Letter (1850) is set in 17th-century Puritan Boston. Hester Prynne is forced to wear the scarlet letter 'A' on her bosom for adultery, while her secret lover, Reverend Arthur Dimmesdale, dies tormented by unconfessed guilt.",
+      "tip_hi": "The letter 'A' shifts symbolic meaning throughout the novel: Adultery -> Able -> Angel. Major characters: Hester Prynne, Arthur Dimmesdale, Roger Chillingworth, Pearl."
     },
     {
       "source": "19th Century American Fiction",
@@ -923,7 +1373,16 @@
       "answer_text": "Nathaniel Hawthorne",
       "explanation": "Melville's dedication reads: 'In token of my admiration for his genius, this book is inscribed to Nathaniel Hawthorne.' The novel chronicles Captain Ahab's obsessive pursuit of the white whale, Moby Dick, aboard the ship Pequod.",
       "tip": "Moby-Dick opens with one of the most famous first lines in world literature: 'Call me Ishmael.'",
-      "id": 51
+      "id": 51,
+      "options_hi": [
+        "Ralph Waldo Emerson",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Melville's dedication reads: 'In token of my admiration for his genius, this book is inscribed to Nathaniel Hawthorne.' The novel chronicles Captain Ahab's obsessive pursuit of the white whale, Moby Dick, aboard the ship Pequod.",
+      "tip_hi": "Moby-Dick opens with one of the most famous first lines in world literature: 'Call me Ishmael.'"
     },
     {
       "source": "American Poetry",
@@ -941,7 +1400,16 @@
       "answer_text": "1855",
       "explanation": "Walt Whitman self-published the first edition of Leaves of Grass in 1855 containing 12 untitled poems (including 'Song of Myself'). He spent the rest of his life revising and expanding it through nine successive editions until the 1892 'Deathbed Edition'.",
       "tip": "Whitman is the 'Father of Free Verse' in American poetry. His celebrated elegies on Abraham Lincoln: 'O Captain! My Captain!' (rhymed) and 'When Lilacs Last in the Dooryard Bloom'd' (free verse).",
-      "id": 52
+      "id": 52,
+      "options_hi": [
+        "1850",
+        "1855",
+        "1865",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Walt Whitman self-published the first edition of Leaves of Grass in 1855 containing 12 untitled poems (including 'Song of Myself'). He spent the rest of his life revising and expanding it through nine successive editions until the 1892 'Deathbed Edition'.",
+      "tip_hi": "Whitman is the 'Father of Free Verse' in American poetry. His celebrated elegies on Abraham Lincoln: 'O Captain! My Captain!' (rhymed) and 'When Lilacs Last in the Dooryard Bloom'd' (free verse)."
     },
     {
       "source": "The Lost Generation & 1920s",
@@ -959,7 +1427,16 @@
       "answer_text": "The Great Gatsby",
       "explanation": "The Great Gatsby (1925), narrated by Nick Carraway, depicts the tragic romantic obsession of self-made millionaire Jay Gatsby with Daisy Buchanan on Long Island during the Roaring Twenties.",
       "tip": "Key symbols: The green light at the end of Daisy's dock (yearning/American Dream), the Eyes of Dr. T. J. Eckleburg (indifferent divine judgment), the Valley of Ashes.",
-      "id": 53
+      "id": 53,
+      "options_hi": [
+        "This Side of Paradise",
+        "Tender Is the Night",
+        "The Great Gatsby",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Great Gatsby (1925), narrated by Nick Carraway, depicts the tragic romantic obsession of self-made millionaire Jay Gatsby with Daisy Buchanan on Long Island during the Roaring Twenties.",
+      "tip_hi": "Key symbols: The green light at the end of Daisy's dock (yearning/American Dream), the Eyes of Dr. T. J. Eckleburg (indifferent divine judgment), the Valley of Ashes."
     },
     {
       "source": "American Modernist Prose",
@@ -977,7 +1454,16 @@
       "answer_text": "Ernest Hemingway",
       "explanation": "Ernest Hemingway practiced the 'Iceberg Theory'—a minimalist, journalistic style where background emotion and profound thematic depth remain unstated beneath terse, declarative surface prose. He won the 1954 Nobel Prize after publishing The Old Man and the Sea (1952).",
       "tip": "Hemingway Hero code: 'A man can be destroyed but not defeated' (uttered by Santiago in The Old Man and the Sea).",
-      "id": 54
+      "id": 54,
+      "options_hi": [
+        "William Faulkner",
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ernest Hemingway practiced the 'Iceberg Theory'—a minimalist, journalistic style where background emotion and profound thematic depth remain unstated beneath terse, declarative surface prose. He won the 1954 Nobel Prize after publishing The Old Man and the Sea (1952).",
+      "tip_hi": "Hemingway Hero code: 'A man can be destroyed but not defeated' (uttered by Santiago in The Old Man and the Sea)."
     },
     {
       "source": "Modern American Drama",
@@ -995,7 +1481,16 @@
       "answer_text": "Willy Loman",
       "explanation": "Willy Loman, an aging traveling salesman, is destroyed by his hollow belief that superficial charm and 'being well-liked' guarantee prosperity, ultimately committing suicide so his son Biff can collect his $20,000 life insurance policy.",
       "tip": "Arthur Miller defined modern common tragedy in his companion essay 'Tragedy and the Common Man' (1949), arguing that the common man is as apt a subject for tragedy as kings.\nSECTION 3: RHETORIC, PROSODY, ADVANCED GRAMMAR, PHONETICS & ELT PEDAGOGY (Q.56 to Q.80)",
-      "id": 55
+      "id": 55,
+      "options_hi": [
+        "Biff Loman",
+        "Willy Loman",
+        "Happy Loman",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Willy Loman, an aging traveling salesman, is destroyed by his hollow belief that superficial charm and 'being well-liked' guarantee prosperity, ultimately committing suicide so his सोन नदी Biff can collect his $20,000 life insurance policy.",
+      "tip_hi": "Arthur Miller defined modern common tragedy in his companion essay 'Tragedy and the Common Man' (1949), arguing that the common man is as apt a subject for tragedy as kings.\nSECTION 3: RHETORIC, PROSODY, ADVANCED GRAMMAR, PHONETICS & ELT PEDAGOGY (Q.56 to Q.80)"
     },
     {
       "source": "Figures of Speech",
@@ -1013,7 +1508,16 @@
       "answer_text": "Simile",
       "explanation": "A Simile is a figure of speech in which an explicit comparison is stated between two different entities using 'as' or 'like' (e.g., 'O my Luve is like a red, red rose' - Robert Burns).",
       "tip": "Explicit comparison with 'as' or 'like' = Simile; Implicit/condensed comparison without 'as/like' = Metaphor ('Life is a dream').",
-      "id": 56
+      "id": 56,
+      "options_hi": [
+        "Metaphor",
+        "Simile",
+        "Personification",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A Simile is a figure of speech in which an explicit comparison is stated between two different entities using 'as' or 'like' (e.g., 'O my Luve is like a red, red rose' - Robert Burns).",
+      "tip_hi": "Explicit comparison with 'as' or 'like' = Simile; Implicit/condensed comparison without 'as/like' = Metaphor ('Life is a dream')."
     },
     {
       "source": "Figures of Speech",
@@ -1031,7 +1535,16 @@
       "answer_text": "Metonymy",
       "explanation": "Metonymy (Greek for 'change of name') substitutes the name of an attribute or closely associated object for the thing meant. Here, 'the pen' stands for the written word / press, and 'the sword' stands for military force.",
       "tip": "Metonymy = associated object substitutes the concept ('the Crown' = monarchy, 'the White House' = US President); Synecdoche = part for the whole or whole for the part ('all hands on deck' = sailors).",
-      "id": 57
+      "id": 57,
+      "options_hi": [
+        "Synecdoche",
+        "Metonymy",
+        "Hyperbole",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Metonymy (Greek for 'change of name') substitutes the name of an attribute or closely associated object for the thing meant. Here, 'the pen' stands for the written word / press, and 'the sword' stands for military force.",
+      "tip_hi": "Metonymy = associated object substitutes the concept ('the Crown' = monarchy, 'the White House' = US President); Synecdoche = part for the whole or whole for the part ('all hands on deck' = sailors)."
     },
     {
       "source": "Rhetoric & Prosody",
@@ -1049,7 +1562,16 @@
       "answer_text": "Hyperbole and Personification",
       "explanation": "In 'Daffodils', 'Ten thousand saw I at a glance' is an obvious poetic exaggeration (Hyperbole), while 'Tossing their heads in sprightly dance' endows flowers with human emotional agency (Personification).",
       "tip": "Exaggeration for poetic emphasis = Hyperbole; Endowing inanimate nature with human physical traits/feelings = Personification (or Pathetic Fallacy if nature sympathizes with human sorrow).",
-      "id": 58
+      "id": 58,
+      "options_hi": [
+        "Hyperbole and Personification",
+        "Metaphor and Simile",
+        "Oxymoron and Paradox",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 'Daffodils', 'Ten thousand saw I at a glance' is an obvious poetic exaggeration (Hyperbole), while 'Tossing their heads in sprightly dance' endows flowers with human emotional agency (Personification).",
+      "tip_hi": "Exaggeration for poetic emphasis = Hyperbole; Endowing inanimate nature with human physical traits/feelings = Personification (or Pathetic Fallacy if nature sympathizes with human sorrow)."
     },
     {
       "source": "Figures of Speech",
@@ -1067,7 +1589,16 @@
       "answer_text": "Oxymoron",
       "explanation": "An Oxymoron is a compact verbal figure where two sharply contradictory terms are joined in a single phrase (e.g., 'cruel kindness', 'parting is such sweet sorrow'). A Paradox is an entire statement that appears self-contradictory but expresses a profound underlying truth.",
       "tip": "Phrase-level contradictory words joined = Oxymoron; Sentence-level self-contradictory statement = Paradox ('The child is father of the man').",
-      "id": 59
+      "id": 59,
+      "options_hi": [
+        "Paradox",
+        "Oxymoron",
+        "Antithesis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "An Oxymoron is a compact verbal figure where two sharply contradictory terms are joined in a single phrase (e.g., 'cruel kindness', 'parting is such sweet sorrow'). A Paradox is an entire statement that appears self-contradictory but expresses a profound underlying truth.",
+      "tip_hi": "Phrase-level contradictory words joined = Oxymoron; Sentence-level self-contradictory statement = Paradox ('The child is father of the man')."
     },
     {
       "source": "English Prosody & Metre",
@@ -1085,7 +1616,16 @@
       "answer_text": "one unstressed syllable followed by one stressed syllable",
       "explanation": "An iamb (iambic foot) consists of an unstressed syllable followed by a stressed syllable (da-DUM / \\(\\cup\\) \\(-\\)). Trochee is the exact reverse: stressed followed by unstressed (DUM-da).",
       "tip": "Poetic feet cheat sheet: Iamb = Unstressed + Stressed (\\(\\cup\\) \\(-\\)); Trochee = Stressed + Unstressed (\\(-\\) \\(\\cup\\)); Anapest = Two unstressed + Stressed (\\(\\cup\\) \\(\\cup\\) \\(-\\)); Dactyl = Stressed + Two unstressed (\\(-\\) \\(\\cup\\) \\(\\cup\\)).",
-      "id": 60
+      "id": 60,
+      "options_hi": [
+        "one stressed syllable followed by one unstressed syllable",
+        "one unstressed syllable followed by one stressed syllable",
+        "two unstressed syllables followed by one stressed syllable",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "An iamb (iambic foot) consists of an unstressed syllable followed by a stressed syllable (da-DUM / \\(\\cup\\) \\(-\\)). Trochee is the exact reverse: stressed followed by unstressed (DUM-da).",
+      "tip_hi": "Poetic feet cheat sheet: Iamb = Unstressed + Stressed (\\(\\cup\\) \\(-\\)); Trochee = Stressed + Unstressed (\\(-\\) \\(\\cup\\)); Anapest = Two unstressed + Stressed (\\(\\cup\\) \\(\\cup\\) \\(-\\)); Dactyl = Stressed + Two unstressed (\\(-\\) \\(\\cup\\) \\(\\cup\\))."
     },
     {
       "source": "Voice Transformation",
@@ -1103,7 +1643,16 @@
       "answer_text": "By whom was this famous novel written?",
       "explanation": "In interrogative passive transformations starting with 'Who': 'Who' changes to 'By whom', followed immediately by the auxiliary verb 'was', the subject 'this famous novel', and the past participle 'written?'.",
       "tip": "Word order in interrogative passive: By whom + Auxiliary Verb + Subject + V3? Note that Option (A) incorrectly places the subject before the auxiliary verb.",
-      "id": 61
+      "id": 61,
+      "options_hi": [
+        "By whom this famous novel was written?",
+        "By whom was this famous novel written?",
+        "Whom was written this famous novel by?",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In interrogative passive transformations starting with 'Who': 'Who' changes to 'By whom', followed immediately by the auxiliary verb 'was', the subject 'this famous novel', and the past participle 'written?'.",
+      "tip_hi": "Word order in interrogative passive: By whom + Auxiliary Verb + Subject + V3? Note that Option (A) incorrectly places the subject before the auxiliary verb."
     },
     {
       "source": "Direct & Indirect Speech",
@@ -1121,7 +1670,16 @@
       "answer_text": "He asked me where I was going for my vacation.",
       "explanation": "In indirect reporting of Wh-questions: reporting verb becomes 'asked', no conjunction 'that' is used, and the inverted interrogative word order ('where are you going') reverts to assertive statement word order ('where I was going').",
       "tip": "Never use 'that' before Wh-question words (where, what, why) in indirect speech. The word order must be assertive: Wh-word + Subject + Verb.",
-      "id": 62
+      "id": 62,
+      "options_hi": [
+        "He asked me where was I going for my vacation.",
+        "He asked me that where I was going for my vacation.",
+        "He asked me where I was going for my vacation.",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In indirect reporting of Wh-questions: reporting verb becomes 'asked', no conjunction 'that' is used, and the inverted interrogative word order ('where are you going') reverts to assertive statement word order ('where I was going').",
+      "tip_hi": "Never use 'that' before Wh-question words (where, what, why) in indirect speech. The word order must be assertive: Wh-word + Subject + Verb."
     },
     {
       "source": "Conditionals & Tenses",
@@ -1139,7 +1697,16 @@
       "answer_text": "If it rains, we will cancel the match.",
       "explanation": "In the First Conditional (real/probable future possibility), the conditional 'if-clause' takes the Simple Present tense ('If it rains'), while the main consequence clause takes the Simple Future tense ('we will cancel').",
       "tip": "Rule: Future tense modals ('will', 'shall') are never used inside the conditional 'if-clause' or time clauses ('when', 'as soon as').",
-      "id": 63
+      "id": 63,
+      "options_hi": [
+        "If it will rain, we will cancel the match.",
+        "If it rains, we will cancel the match.",
+        "If it would rain, we will cancel the match.",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In the First Conditional (real/probable future possibility), the conditional 'if-clause' takes the Simple Present tense ('If it rains'), while the main consequence clause takes the Simple Future tense ('we will cancel').",
+      "tip_hi": "Rule: Future tense modals ('will', 'shall') are never used inside the conditional 'if-clause' or time clauses ('when', 'as soon as')."
     },
     {
       "source": "Prepositions & Tenses",
@@ -1157,7 +1724,16 @@
       "answer_text": "since",
       "explanation": "In Present Perfect Continuous tense, 'since' is used before a specific, definite point in time (e.g., 'Monday last', '7 o'clock', '1995'), whereas 'for' denotes an unanchored period/duration of time (e.g., 'for three days').",
       "tip": "Point in time = 'since' (since morning, since childhood, since Monday); Period/duration of time = 'for' (for two hours, for five days).",
-      "id": 64
+      "id": 64,
+      "options_hi": [
+        "for",
+        "since",
+        "from",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Present Perfect Continuous tense, 'since' is used before a specific, definite point in time (e.g., 'Monday last', '7 o'clock', '1995'), whereas 'for' denotes an unanchored period/duration of time (e.g., 'for three days').",
+      "tip_hi": "Point in time = 'since' (since morning, since childhood, since Monday); Period/duration of time = 'for' (for two hours, for five days)."
     },
     {
       "source": "Subject-Verb Agreement",
@@ -1175,7 +1751,16 @@
       "answer_text": "were",
       "explanation": "Under the Rule of Proximity for correlative conjunctions ('either...or', 'neither...nor', 'not only...but also'), the verb must agree in number and person with the closest subject. Here, the plural noun 'students' is nearest to the verb, requiring 'were'.",
       "tip": "Correlative conjunction verb agreement rule: Verb agrees with the subject closest to it. If the order were reversed ('Neither the students nor the teacher'), the verb would be singular ('was').",
-      "id": 65
+      "id": 65,
+      "options_hi": [
+        "was",
+        "were",
+        "is",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under the Rule of Proximity for correlative conjunctions ('either...or', 'neither...nor', 'not only...but also'), the verb must agree in number and person with the closest subject. Here, the plural noun 'students' is nearest to the verb, requiring 'were'.",
+      "tip_hi": "Correlative conjunction verb agreement rule: Verb agrees with the subject closest to it. If the order were reversed ('Neither the students nor the teacher'), the verb would be singular ('was')."
     },
     {
       "source": "Clause Analysis",
@@ -1193,7 +1778,16 @@
       "answer_text": "Adjective (Relative) Clause",
       "explanation": "The subordinate clause 'who won the first prize in debate' immediately qualifies and describes the antecedent noun 'The girl', functioning as an Adjective Clause (or Defining Relative Clause).",
       "tip": "Clause identification: Answers 'who/what' = Noun Clause; Qualifies a preceding noun/pronoun = Adjective Clause; Modifies verb/tells time, reason, condition = Adverb Clause.",
-      "id": 66
+      "id": 66,
+      "options_hi": [
+        "Noun Clause",
+        "Adjective (Relative) Clause",
+        "Adverb Clause of Reason",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The subordinate clause 'who won the first prize in debate' immediately qualifies and describes the antecedent noun 'The girl', functioning as an Adjective Clause (or Defining Relative Clause).",
+      "tip_hi": "Clause identification: Answers 'who/what' = Noun Clause; Qualifies a preceding noun/pronoun = Adjective Clause; Modifies verb/tells time, reason, condition = Adverb Clause."
     },
     {
       "source": "Vocabulary (Antonyms)",
@@ -1211,7 +1805,16 @@
       "answer_text": "Permanent",
       "explanation": "'Ephemeral' means lasting for a very short time, transient, or fleeting. Its direct antonym is 'Permanent' (everlasting or enduring).",
       "tip": "Watch out for synonym traps! 'Transient' and 'Fleeting' are synonyms of ephemeral; 'Permanent' and 'Eternal' are antonyms.",
-      "id": 67
+      "id": 67,
+      "options_hi": [
+        "Transient",
+        "Fleeting",
+        "Permanent",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Ephemeral' means lasting for a very short time, transient, or fleeting. Its direct antonym is 'Permanent' (everlasting or enduring).",
+      "tip_hi": "Watch out for synonym traps! 'Transient' and 'Fleeting' are synonyms of ephemeral; 'Permanent' and 'Eternal' are antonyms."
     },
     {
       "source": "Idioms & Phrases",
@@ -1229,7 +1832,16 @@
       "answer_text": "To work or study late into the night",
       "explanation": "The idiom 'to burn the midnight oil' historically refers to staying awake and working or studying late into the night by the light of an oil lamp.",
       "tip": "Idioms related to study & labor: 'Burn the midnight oil' = study late; 'Hit the books' = begin studying; 'Leave no stone unturned' = make every possible effort.",
-      "id": 68
+      "id": 68,
+      "options_hi": [
+        "To waste precious natural resources",
+        "To work or study late into the night",
+        "To create unnecessary trouble",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The idiom 'to burn the midnight oil' historically refers to staying awake and working or studying late into the night by the light of an oil lamp.",
+      "tip_hi": "Idioms related to study & labor: 'Burn the midnight oil' = study late; 'Hit the books' = begin studying; 'Leave no stone unturned' = make every possible effort."
     },
     {
       "source": "One-Word Substitution",
@@ -1247,7 +1859,16 @@
       "answer_text": "Misanthrope",
       "explanation": "A 'Misanthrope' (or misanthropist) is one who hates humanity. A 'Philanthropist' is a lover of mankind; a 'Misogynist' is a hater of women.",
       "tip": "Root words: Mis/Misein = to hate; Anthropos = mankind; Gyne = woman; Gamos = marriage (misogamist). Phil = to love (philanthropist).",
-      "id": 69
+      "id": 69,
+      "options_hi": [
+        "Philanthropist",
+        "Misogynist",
+        "Misanthrope",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A 'Misanthrope' (or misanthropist) is one who hates humanity. A 'Philanthropist' is a lover of mankind; a 'Misogynist' is a hater of women.",
+      "tip_hi": "Root words: Mis/Misein = to hate; Anthropos = mankind; Gyne = woman; Gamos = marriage (misogamist). Phil = to love (philanthropist)."
     },
     {
       "source": "Spelling Rules",
@@ -1265,7 +1886,16 @@
       "answer_text": "Accommodation",
       "explanation": "The correct orthographic spelling is 'Accommodation', featuring a double 'c' and a double 'm' (A-C-C-O-M-M-O-D-A-T-I-O-N).",
       "tip": "BPSC frequently tests double-consonant spelling words: Accommodation (double c, double m), Embarrassment (double r, double s), Committee (double m, double t, double e).",
-      "id": 70
+      "id": 70,
+      "options_hi": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The correct orthographic spelling is 'Accommodation', featuring a double 'c' and a double 'm' (A-C-C-O-M-M-O-D-A-T-I-O-N).",
+      "tip_hi": "BPSC frequently tests double-consonant spelling words: Accommodation (double c, double m), Embarrassment (double r, double s), Committee (double m, double t, double e)."
     },
     {
       "source": "English Phonetics",
@@ -1283,7 +1913,16 @@
       "answer_text": "44 phonemes",
       "explanation": "Standard British English (RP) contains 44 phonemes produced by the 26 letters of the alphabet, consisting of 24 consonant sounds and 20 vowel sounds (12 pure monophthongs and 8 diphthongs).",
       "tip": "IPA Chart for English: 44 sounds total = 24 Consonants + 20 Vowels (12 Monophthongs/pure vowels + 8 Diphthongs/gliding vowels).",
-      "id": 71
+      "id": 71,
+      "options_hi": [
+        "26 phonemes",
+        "44 phonemes",
+        "48 phonemes",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Standard British English (RP) contains 44 phonemes produced by the 26 letters of the alphabet, consisting of 24 consonant sounds and 20 vowel sounds (12 pure monophthongs and 8 diphthongs).",
+      "tip_hi": "IPA Chart for English: 44 sounds total = 24 Consonants + 20 Vowels (12 Monophthongs/pure vowels + 8 Diphthongs/gliding vowels)."
     },
     {
       "source": "Phonetics & Phonology",
@@ -1301,7 +1940,16 @@
       "answer_text": "12 pure vowels and 8 diphthongs",
       "explanation": "The 20 English vowel phonemes are divided into 12 monophthongs (single, unchanging vowel sounds like /iː/, /ɪ/, /e/, /æ/, etc.) and 8 diphthongs (gliding sounds like /eɪ/, /aɪ/, /ɔɪ/, /aʊ/, /əʊ/, /ɪə/, /eə/, /ʊə/).",
       "tip": "Pure vowel = Monophthong (12); Gliding vowel = Diphthong (8); Combined vowel system = 20 vowel phonemes.",
-      "id": 72
+      "id": 72,
+      "options_hi": [
+        "12 pure vowels and 8 diphthongs",
+        "10 pure vowels and 10 diphthongs",
+        "14 pure vowels and 6 diphthongs",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 20 English vowel phonemes are divided into 12 monophthongs (single, unchanging vowel sounds like /iː/, /ɪ/, /e/, /æ/, etc.) and 8 diphthongs (gliding sounds like /eɪ/, /aɪ/, /ɔɪ/, /aʊ/, /əʊ/, /ɪə/, /eə/, /ʊə/).",
+      "tip_hi": "Pure vowel = Monophthong (12); Gliding vowel = Diphthong (8); Combined vowel system = 20 vowel phonemes."
     },
     {
       "source": "Linguistics & Morphology",
@@ -1319,7 +1967,16 @@
       "answer_text": "Morpheme",
       "explanation": "A Morpheme is the smallest unit of language that carries grammatical meaning or function (e.g., 'un-', 'break', '-able' in 'unbreakable'). Phoneme is the smallest unit of sound, and Grapheme is the smallest unit of writing/letter.",
       "tip": "Linguistic units: Smallest unit of sound = Phoneme; Smallest unit of meaning = Morpheme; Smallest unit of written script = Grapheme.",
-      "id": 73
+      "id": 73,
+      "options_hi": [
+        "Phoneme",
+        "Morpheme",
+        "Grapheme",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A Morpheme is the smallest unit of language that carries grammatical meaning or function (e.g., 'un-', 'break', '-able' in 'unbreakable'). Phoneme is the smallest unit of sound, and Grapheme is the smallest unit of writing/letter.",
+      "tip_hi": "Linguistic units: Smallest unit of sound = Phoneme; Smallest unit of meaning = Morpheme; Smallest unit of written script = Grapheme."
     },
     {
       "source": "Linguistics & Syntax",
@@ -1337,7 +1994,16 @@
       "answer_text": "Noam Chomsky",
       "explanation": "Noam Chomsky in Syntactic Structures (1957) and Aspects of the Theory of Syntax (1965) challenged Skinner's behaviorist theory, positing that human children possess an innate biological Language Acquisition Device (LAD) programmed with Universal Grammar.",
       "tip": "Chomsky = Nativist theory (innate LAD, Universal Grammar, Competence vs. Performance); Saussure = Structuralism (Langue vs. Parole, Signifier vs. Signified).",
-      "id": 74
+      "id": 74,
+      "options_hi": [
+        "Ferdinand de Saussure",
+        "Noam Chomsky",
+        "B. F. Skinner",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Noam Chomsky in Syntactic Structures (1957) and Aspects of the Theory of Syntax (1965) challenged Skinner's behaviorist theory, positing that human children possess an innate biological Language Acquisition Device (LAD) programmed with Universal Grammar.",
+      "tip_hi": "Chomsky = Nativist theory (innate LAD, Universal Grammar, Competence vs. Performance); Saussure = Structuralism (Langue vs. Parole, Signifier vs. Signified)."
     },
     {
       "source": "English Language Teaching (ELT)",
@@ -1355,7 +2021,16 @@
       "answer_text": "Grammar-Translation Method (GTM)",
       "explanation": "The Grammar-Translation Method (GTM), historically known as the Prussian or Classical Method, emphasizes reading and writing skills through deductive teaching of grammar rules and word-for-word translation into the learner's L1, with little to no oral practice.",
       "tip": "ELT Methods: GTM = mother tongue translation & deductive grammar; Direct Method = target language only, no translation; Audio-Lingual = habit formation & drills; CLT = communicative competence.",
-      "id": 75
+      "id": 75,
+      "options_hi": [
+        "Direct Method",
+        "Grammar-Translation Method (GTM)",
+        "Audio-Lingual Method (ALM)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Grammar-Translation Method (GTM), historically known as the Prussian or Classical Method, emphasizes reading and writing skills through deductive teaching of grammar rules and word-for-word translation into the learner's L1, with little to no oral practice.",
+      "tip_hi": "ELT Methods: GTM = mother tongue translation & deductive grammar; Direct Method = target language only, no translation; Audio-Lingual = habit formation & drills; CLT = communicative competence."
     },
     {
       "source": "ELT Methodologies",
@@ -1373,7 +2048,16 @@
       "answer_text": "Grammar-Translation Method",
       "explanation": "The Direct Method (or Natural Method) arose in the late 19th century in reaction against GTM's neglect of spoken communication. It strictly bans the use of the native language (L1), teaching meaning through direct association, visual demonstration, and immersion in English.",
       "tip": "Direct Method rule: Never translate, never use mother tongue, demonstrate and act out meaning directly in the target language.",
-      "id": 76
+      "id": 76,
+      "options_hi": [
+        "Audio-Lingual Method",
+        "Grammar-Translation Method",
+        "Bilingual Method",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Direct Method (or Natural Method) arose in the late 19th century in reaction against GTM's neglect of spoken communication. It strictly bans the use of the native language (L1), teaching meaning through direct association, visual demonstration, and immersion in English.",
+      "tip_hi": "Direct Method rule: Never translate, never use mother tongue, demonstrate and act out meaning directly in the target language."
     },
     {
       "source": "Language Pedagogy",
@@ -1391,7 +2075,16 @@
       "answer_text": "C. J. Dodson",
       "explanation": "C. J. Dodson of the University of Wales formulated the Bilingual Method in the 1960s. It allows the teacher (and only the teacher) to use the mother tongue (L1) sparingly to explain difficult concepts, eliminating the rigidity of the Direct Method while ensuring maximum communicative practice.",
       "tip": "Bilingual Method key rule: Only the teacher is permitted to use the mother tongue to convey meaning; students practice strictly in the target language (L2).",
-      "id": 77
+      "id": 77,
+      "options_hi": [
+        "H. E. Palmer",
+        "C. J. Dodson",
+        "Michael West",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "C. J. Dodson of the University of Wales formulated the Bilingual Method in the 1960s. It allows the teacher (and only the teacher) to use the mother tongue (L1) sparingly to explain difficult concepts, eliminating the rigidity of the Direct Method while ensuring maximum communicative practice.",
+      "tip_hi": "Bilingual Method key rule: Only the teacher is permitted to use the mother tongue to convey meaning; students practice strictly in the target language (L2)."
     },
     {
       "source": "Modern ELT Approaches",
@@ -1409,7 +2102,16 @@
       "answer_text": "Communicative Language Teaching",
       "explanation": "CLT stands for Communicative Language Teaching, an approach that focuses on developing learners' 'communicative competence' (Dell Hymes) through meaningful real-world interaction, task-based communication, and fluency, rather than grammatical accuracy alone.",
       "tip": "CLT core principles: Learner-centered, authentic materials, role-plays, fluency over mechanical accuracy, communicative competence as the ultimate goal.",
-      "id": 78
+      "id": 78,
+      "options_hi": [
+        "Cognitive Language Training",
+        "Communicative Language Teaching",
+        "Comprehensive Literacy Testing",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "CLT stands for Communicative Language Teaching, an approach that focuses on developing learners' 'communicative competence' (Dell Hymes) through meaningful real-world interaction, task-based communication, and fluency, rather than grammatical accuracy alone.",
+      "tip_hi": "CLT core principles: Learner-centered, authentic materials, role-plays, fluency over mechanical accuracy, communicative competence as the ultimate goal."
     },
     {
       "source": "Assessment & Evaluation",
@@ -1427,7 +2129,16 @@
       "answer_text": "produces consistent, stable results upon repeated administrations under identical conditions",
       "explanation": "Reliability in testing denotes consistency and stability of scores across repeated test administrations. In contrast, 'Validity' means measuring what the test intends to measure, and 'Usability/Practicability' refers to ease of administration and scoring.",
       "tip": "Testing standards: Measures what it claims to measure = Validity; Yields consistent scores across occasions = Reliability; Feasible in time/money = Usability.",
-      "id": 79
+      "id": 79,
+      "options_hi": [
+        "measures precisely what it purports to measure",
+        "produces consistent, stable results upon repeated administrations under identical conditions",
+        "is easy, cost-effective, and practical to administer and score",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Reliability in testing denotes consistency and stability of scores across repeated test administrations. In contrast, 'Validity' means measuring what the test intends to measure, and 'Usability/Practicability' refers to ease of administration and scoring.",
+      "tip_hi": "Testing standards: Measures what it claims to measure = Validity; Yields consistent scores across occasions = Reliability; Feasible in time/money = Usability."
     },
     {
       "source": "Four Language Skills (LSRW)",
@@ -1445,7 +2156,16 @@
       "answer_text": "Listening and Reading",
       "explanation": "The four fundamental language skills (LSRW) are grouped into Receptive (or Input/Passive) skills: Listening and Reading (where learners receive and decode language); and Productive (or Output/Active) skills: Speaking and Writing.",
       "tip": "Four Skills Matrix: Receptive/Input = Listening & Reading; Productive/Output = Speaking & Writing. Natural acquisition order: L -> S -> R -> W.\nMASTER ANSWER KEY SUMMARY — PART-III ENGLISH (Q.1 TO Q.80)\nQ. No.\nDomain / Subject Area\nCore Literary / Linguistic Concept\nOfficial Key",
-      "id": 80
+      "id": 80,
+      "options_hi": [
+        "Speaking and Writing",
+        "Listening and Reading",
+        "Listening and Speaking",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The four fundamental language skills (LSRW) are grouped into Receptive (or Input/Passive) skills: Listening and Reading (where learners receive and decode language); and Productive (or Output/Active) skills: Speaking and Writing.",
+      "tip_hi": "Four Skills Matrix: Receptive/Input = Listening & Reading; Productive/Output = Speaking & Writing. Natural acquisition order: L -> S -> R -> W.\nMASTER ANSWER KEY SUMMARY — PART-III ENGLISH (Q.1 TO Q.80)\nQ. No.\nDomain / Subject Area\nCore Literary / Linguistic Concept\nOfficial Key"
     }
   ]
 }

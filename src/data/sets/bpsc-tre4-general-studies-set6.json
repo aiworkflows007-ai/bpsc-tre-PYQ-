@@ -3,7 +3,7 @@
   "title": "General Studies Practice Set 6 (40Q)",
   "section": "gk_gs",
   "section_name": "Part-II General Studies (40 Marks)",
-  "subject": "General Studies",
+  "subject": "Full 40Q Mock Papers",
   "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
   "question_count": 40,
   "questions": [
@@ -23,7 +23,16 @@
       "answer_text": "300 metres",
       "explanation": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.",
       "tip": "Multiply km/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m.",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "250 metres",
+        "300 metres",
+        "350 metres",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.",
+      "tip_hi": "Multiply किमी/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -41,7 +50,16 @@
       "answer_text": "75%",
       "explanation": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. Percentage reduction = (1 - 0.25) * 100 = 75%.",
       "tip": "Successive percentage formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%.",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "50%",
+        "75%",
+        "100%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. प्रतिशत reduction = (1 - 0.25) * 100 = 75%.",
+      "tip_hi": "Successive प्रतिशत formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -59,7 +77,16 @@
       "answer_text": "10,000",
       "explanation": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.",
       "tip": "Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "8,000",
+        "10,000",
+        "12,000",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.",
+      "tip_hi": "Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -77,7 +104,16 @@
       "answer_text": "14",
       "explanation": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.",
       "tip": "Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14.",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "14",
+        "16",
+        "18",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.",
+      "tip_hi": "Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -95,7 +131,16 @@
       "answer_text": "12 minutes",
       "explanation": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per minute. Time required = 12 minutes.",
       "tip": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 minutes.",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "10 मिनट",
+        "12 मिनट",
+        "15 मिनट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per मिनट. Time required = 12 मिनट.",
+      "tip_hi": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -113,7 +158,16 @@
       "answer_text": "75°",
       "explanation": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.",
       "tip": "Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°.",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "70°",
+        "75°",
+        "80°",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.",
+      "tip_hi": "Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -131,7 +185,16 @@
       "answer_text": "28th",
       "explanation": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.",
       "tip": "Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "27वां",
+        "28वां",
+        "29वां",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.",
+      "tip_hi": "Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -149,7 +212,16 @@
       "answer_text": "159",
       "explanation": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.",
       "tip": "Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "149",
+        "159",
+        "169",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.",
+      "tip_hi": "Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -167,7 +239,16 @@
       "answer_text": "Total Internal Reflection with a very small critical angle",
       "explanation": "Diamond has a very high refractive index (2.42), which results in an exceptionally small critical angle of approximately 24.4°. Light entering a properly cut diamond undergoes multiple total internal reflections before emerging.",
       "tip": "Diamond brilliance = Total Internal Reflection (TIR) + high refractive index (2.42).",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "High optical वर्ण विक्षेपण",
+        "पूर्ण आंतरिक परावर्तन with a very small critical angle",
+        "External प्रकाश का प्रकीर्णन rays",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Diamond has a very high refractive index (2.42), which results in an exceptionally small critical angle of approximately 24.4°. Light entering a properly cut diamond undergoes multiple total internal reflections before emerging.",
+      "tip_hi": "Diamond brilliance = पूर्ण आंतरिक परावर्तन (TIR) + high refractive index (2.42)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -185,7 +266,16 @@
       "answer_text": "Sodium Hydrogen Carbonate, NaHCO3",
       "explanation": "Baking soda is sodium bicarbonate / sodium hydrogen carbonate, NaHCO3. When heated during baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
       "tip": "Baking Soda = NaHCO3 (Bicarbonate); Washing Soda = Na2CO3 · 10H2O.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "सोडियम कार्बोनेट, Na2CO3",
+        "Sodium Hydrogen Carbonate, NaHCO3",
+        "कैल्शियम कार्बोनेट (CaCO3), CaCO3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बेकिंग सोडा (NaHCO3) is सोडियम बाइकार्बोनेट / sodium hydrogen carbonate, NaHCO3. When heated के दौरान baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
+      "tip_hi": "बेकिंग सोडा (NaHCO3) = NaHCO3 (Bicarbonate); धावन सोडा (Na2CO3·10H2O) = Na2CO3 · 10H2O."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -203,7 +293,16 @@
       "answer_text": "Thrombocytes (Blood Platelets)",
       "explanation": "Blood platelets (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.",
       "tip": "Clotting cells = Platelets (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "Erythrocytes (RBCs)",
+        "Thrombocytes (Blood प्लेटलेट्स (रक्त बिम्बाणु))",
+        "Leucocytes (WBCs)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Blood प्लेटलेट्स (रक्त बिम्बाणु) (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.",
+      "tip_hi": "Clotting cells = प्लेटलेट्स (रक्त बिम्बाणु) (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -221,7 +320,16 @@
       "answer_text": "Concave Lens",
       "explanation": "In myopia, light rays converge in front of the retina. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the retina.",
       "tip": "Myopia (Near-sighted) = Concave Lens; Hypermetropia (Far-sighted) = Convex Lens; Astigmatism = Cylindrical Lens.",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "उत्तल लेंस",
+        "अवतल लेंस",
+        "Cylindrical Lens",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In निकट दृष्टि दोष (मायोपिया), light rays converge in front of the रेटिना. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the रेटिना.",
+      "tip_hi": "निकट दृष्टि दोष (मायोपिया) (Near-sighted) = अवतल लेंस; दूर दृष्टि दोष (हाइपरमेट्रोपिया) (Far-sighted) = उत्तल लेंस; अबिंदुकता (एस्टिग्मैटिज्म) = Cylindrical Lens."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -239,7 +347,16 @@
       "answer_text": "Rayon",
       "explanation": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and sodium hydroxide. It possesses a lustrous silk-like appearance and soft texture.",
       "tip": "Artificial Silk = Rayon (from wood pulp); First fully synthetic fibre = Nylon.",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "Nylon",
+        "Rayon",
+        "Polyester",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and सोडियम हाइड्रॉक्साइड (NaOH). It possesses a lustrous silk-like appearance and soft texture.",
+      "tip_hi": "Artificial Silk = Rayon (from wood pulp); First fully synthetic fibre = Nylon."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -257,7 +374,16 @@
       "answer_text": "O Negative",
       "explanation": "Blood group O Negative has neither A nor B antigens, and also lacks the Rh(D) factor. Consequently, it can be transfused safely to recipients of any ABO and Rh blood group without triggering acute hemolytic agglutination.",
       "tip": "Universal Donor = O Negative (O-); Universal Recipient = AB Positive (AB+).",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "AB Positive",
+        "O Negative",
+        "B Positive",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Blood group O Negative has neither A nor B antigens, and also lacks the Rh(D) factor. Consequently, it can be transfused safely to recipients of any ABO and Rh blood group without triggering acute hemolytic agglutination.",
+      "tip_hi": "Universal Donor = O Negative (O-); Universal Recipient = AB Positive (AB+)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -275,7 +401,16 @@
       "answer_text": "Boyle's Law",
       "explanation": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.",
       "tip": "Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T).",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "Charles's Law",
+        "Boyle's Law",
+        "Gay-Lussac's Law",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.",
+      "tip_hi": "Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -293,7 +428,16 @@
       "answer_text": "Montreal Protocol",
       "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 September 1987 (commemorated globally as World Ozone Day) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.",
       "tip": "Ozone Layer protection = Montreal Protocol (1987); Greenhouse Gas reduction = Kyoto Protocol (1997).",
-      "id": 16
+      "id": 16,
+      "options_hi": [
+        "Kyoto Protocol",
+        "Montreal Protocol",
+        "Basel Convention",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 सितम्बर 1987 (commemorated globally as World Ozone दिन) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.",
+      "tip_hi": "Ozone Layer protection = Montreal Protocol (1987); Greenhouse Gas reduction = Kyoto Protocol (1997)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -311,7 +455,16 @@
       "answer_text": "San Francisco (Yugantar Ashram)",
       "explanation": "The Ghadar Party was founded in 1913 by Lala Har Dayal, Sohan Singh Bhakna (President), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
       "tip": "Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna.",
-      "id": 17
+      "id": 17,
+      "options_hi": [
+        "New York",
+        "San Francisco (Yugantar Ashram)",
+        "Vancouver",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Ghadar Party में स्थापित किया गया था 1913 by Lala Har Dayal, Sohan Singh Bhakna (राष्ट्रपति), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
+      "tip_hi": "Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -329,7 +482,16 @@
       "answer_text": "Karyanand Sharma",
       "explanation": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement during 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.",
       "tip": "Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma.",
-      "id": 18
+      "id": 18,
+      "options_hi": [
+        "स्वामी सहजानंद सरस्वती",
+        "Karyanand Sharma",
+        "Yadunandan Sharma",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement के दौरान 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.",
+      "tip_hi": "Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -347,7 +509,16 @@
       "answer_text": "Mohammad Yunus",
       "explanation": "When the Congress initially declined to form a government over the Governor's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 April 1937, serving until Sri Krishna Singh took oath on 20 July 1937.",
       "tip": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress Chief Minister = Sri Krishna Singh.",
-      "id": 19
+      "id": 19,
+      "options_hi": [
+        "Dr. Sri Krishna Singh",
+        "Mohammad Yunus",
+        "Sachchidananda Sinha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "When the Congress initially declined to form a government over the राज्यपाल's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 अप्रैल 1937, serving until Sri Krishna Singh took oath on 20 जुलाई 1937.",
+      "tip_hi": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress मुख्यमंत्री = Sri Krishna Singh."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -365,7 +536,16 @@
       "answer_text": "Ajivika Sect",
       "explanation": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.",
       "tip": "Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala).",
-      "id": 20
+      "id": 20,
+      "options_hi": [
+        "Buddhism",
+        "Ajivika Sect",
+        "Jainism",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.",
+      "tip_hi": "Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -383,7 +563,16 @@
       "answer_text": "Indira Point (Pygmalion Point)",
       "explanation": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.",
       "tip": "Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari.",
-      "id": 21
+      "id": 21,
+      "options_hi": [
+        "Kanyakumari (Cape Comorin)",
+        "Indira Point (Pygmalion Point)",
+        "Rameswaram",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.",
+      "tip_hi": "Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -401,7 +590,16 @@
       "answer_text": "Danapur (Maner / Patna)",
       "explanation": "The Son river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the Ganga just west of Danapur / Maner in Patna district. Punpun joins Ganga at Fatuha.",
       "tip": "Son meets Ganga at Danapur/Maner; Punpun meets Ganga at Fatuha; Gandak meets Ganga at Sonpur/Hajipur.",
-      "id": 22
+      "id": 22,
+      "options_hi": [
+        "Fatuha",
+        "Danapur (Maner / Patna)",
+        "Mokama",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The सोन नदी river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the गंगा नदी just पश्चिम of Danapur / Maner in Patna district. Punpun joins गंगा नदी at Fatuha.",
+      "tip_hi": "सोन नदी meets गंगा नदी at Danapur/Maner; Punpun meets गंगा नदी at Fatuha; गंडक नदी meets गंगा नदी at Sonpur/Hajipur."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -419,7 +617,16 @@
       "answer_text": "Rohtas and Kaimur",
       "explanation": "High-grade limestone belonging to the Vindhyan geological system occurs along the Kaimur plateau in Rohtas (Banjari, Rohtasgarh) and Kaimur districts, supporting major cement plants at Dalmianagar and Banjari.",
       "tip": "Limestone & Pyrite = Rohtas / Kaimur (Vindhyan rocks); Mica = Nawada / Gaya / Jamui.",
-      "id": 23
+      "id": 23,
+      "options_hi": [
+        "Gaya",
+        "Rohtas and Kaimur",
+        "Munger",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "High-grade limestone belonging to the Vindhyan geological system occurs along the Kaimur plateau in Rohtas (Banjari, Rohtasgarh) and Kaimur districts, supporting major cement plants at Dalmianagar and Banjari.",
+      "tip_hi": "Limestone & Pyrite = Rohtas / Kaimur (Vindhyan rocks); Mica = Nawada / Gaya / Jamui."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -437,7 +644,16 @@
       "answer_text": "Baikunth Shukla",
       "explanation": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in November 1932 to avenge the martyrdom of Bhagat Singh, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 May 1934.",
       "tip": "Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934).",
-      "id": 24
+      "id": 24,
+      "options_hi": [
+        "Batukeshwar Dutt",
+        "Baikunth Shukla",
+        "Jogendra Shukla",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in नवम्बर 1932 to avenge the martyrdom of भगत सिंह, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 मई 1934.",
+      "tip_hi": "Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -455,7 +671,16 @@
       "answer_text": "8 States",
       "explanation": "The Tropic of Cancer passes through 8 Indian States from West to East: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
       "tip": "Mnemonic: 'मित्र पर गमछा झार' (Mizoram, Tripura, W.Bengal, Rajasthan, Gujarat, MP, Chhattisgarh, Jharkhand).",
-      "id": 25
+      "id": 25,
+      "options_hi": [
+        "7 States",
+        "8 States",
+        "9 States",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Tropic of Cancer passes through 8 Indian States from पश्चिम to पूर्व: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, and Mizoram.",
+      "tip_hi": "Mnemonic: 'मित्र पर गमछा झार' (Mizoram, Tripura, W.Bengal, Rajasthan, Gujarat, MP, Chhattisgarh, Jharkhand)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -473,7 +698,16 @@
       "answer_text": "Palk Strait",
       "explanation": "Palk Strait, situated between the Tamil Nadu coast of India and the Jaffna peninsula of Sri Lanka, connects the Bay of Bengal with Palk Bay and the Gulf of Mannar.",
       "tip": "India and Sri Lanka = Palk Strait & Gulf of Mannar; Andaman and Nicobar = 10 Degree Channel.",
-      "id": 26
+      "id": 26,
+      "options_hi": [
+        "Malacca Strait",
+        "Palk Strait",
+        "Ten डिग्री Channel",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Palk Strait, situated between the Tamil Nadu coast of India and the Jaffna peninsula of Sri Lanka, connects the Bay of Bengal with Palk Bay and the Gulf of Mannar.",
+      "tip_hi": "India and Sri Lanka = Palk Strait & Gulf of Mannar; Andaman and Nicobar = 10 डिग्री Channel."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -491,7 +725,16 @@
       "answer_text": "Wular Lake",
       "explanation": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.",
       "tip": "Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha).",
-      "id": 27
+      "id": 27,
+      "options_hi": [
+        "Dal Lake",
+        "Wular Lake",
+        "Pangong Tso",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.",
+      "tip_hi": "Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -509,7 +752,16 @@
       "answer_text": "Prime Minister of India",
       "explanation": "Established on 1 January 2015 replacing the Planning Commission, the Prime Minister serves as the ex-officio Chairperson of NITI Aayog.",
       "tip": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = Prime Minister.",
-      "id": 28
+      "id": 28,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "प्रधानमंत्री of India",
+        "Union Minister of Finance",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established on 1 जनवरी 2015 replacing the योजना आयोग, the प्रधानमंत्री serves as the ex-officio Chairperson of NITI Aayog.",
+      "tip_hi": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = प्रधानमंत्री."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -527,7 +779,16 @@
       "answer_text": "86th Amendment Act 2002",
       "explanation": "The 86th Constitutional Amendment Act 2002 inserted Article 21A into Part III, making elementary education a fundamental right. It also updated Article 45 in DPSP and added 11th fundamental duty in Article 51A(k).",
       "tip": "Right to Education (RTE) = 86th Constitutional Amendment 2002 (Article 21A).",
-      "id": 29
+      "id": 29,
+      "options_hi": [
+        "42nd संशोधन अधिनियम 1976",
+        "86वां संशोधन अधिनियम 2002",
+        "91st संशोधन अधिनियम 2003",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 86th संविधान संशोधन अधिनियम 2002 inserted अनुच्छेद 21A into Part III, making elementary education a मौलिक अधिकार. It also updated अनुच्छेद 45 in DPSP and added 11th fundamental duty in अनुच्छेद 51A(k).",
+      "tip_hi": "Right to Education (RTE) = 86th Constitutional संशोधन 2002 (अनुच्छेद 21A)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -545,7 +806,16 @@
       "answer_text": "Shiv Shakti Point",
       "explanation": "Prime Minister Narendra Modi announced that the landing site of Vikram lander on 23 August 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 August declared 'National Space Day'.",
       "tip": "Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 August = National Space Day.",
-      "id": 30
+      "id": 30,
+      "options_hi": [
+        "Tiranga Point",
+        "Shiv Shakti Point",
+        "Jawahar Point",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रधानमंत्री Narendra Modi announced that the landing site of Vikram lander on 23 अगस्त 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 अगस्त declared 'National Space दिन'.",
+      "tip_hi": "Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 अगस्त = National Space दिन."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -563,7 +833,16 @@
       "answer_text": "20 km",
       "explanation": "Time difference = 11 - 5 = 6 minutes = 6/60 hour = 1/10 hour. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 km.",
       "tip": "Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 km.",
-      "id": 31
+      "id": 31,
+      "options_hi": [
+        "18 किमी",
+        "20 किमी",
+        "22 किमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Time difference = 11 - 5 = 6 मिनट = 6/60 घंटे = 1/10 घंटे. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 किमी.",
+      "tip_hi": "Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -581,7 +860,16 @@
       "answer_text": "35 years",
       "explanation": "Let present ages be 7x and 2x. In 10 years: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 years.",
       "tip": "Ratio units: (9-7)=2 units in 10 years => 1 unit = 5 years. Father = 7 units = 35 years.",
-      "id": 32
+      "id": 32,
+      "options_hi": [
+        "35 वर्ष",
+        "40 वर्ष",
+        "45 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let present ages be 7x and 2x. In 10 वर्ष: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 वर्ष.",
+      "tip_hi": "Ratio units: (9-7)=2 units in 10 वर्ष => 1 unit = 5 वर्ष. Father = 7 units = 35 वर्ष."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -599,7 +887,16 @@
       "answer_text": "₹160",
       "explanation": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.",
       "tip": "115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160.",
-      "id": 33
+      "id": 33,
+      "options_hi": [
+        "₹150",
+        "₹160",
+        "₹180",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.",
+      "tip_hi": "115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -617,7 +914,16 @@
       "answer_text": "60 litres",
       "explanation": "In 60 litres: Milk = 40 L, Water = 20 L. Let 'x' litres of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 litres.",
       "tip": "Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L.",
-      "id": 34
+      "id": 34,
+      "options_hi": [
+        "40 लीटर",
+        "50 लीटर",
+        "60 लीटर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In 60 लीटर: Milk = 40 L, Water = 20 L. Let 'x' लीटर of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर.",
+      "tip_hi": "Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -635,7 +941,16 @@
       "answer_text": "Vitamin C",
       "explanation": "Vitamin C (ascorbic acid) is a water-soluble antioxidant vitamin found abundantly in citrus fruits and amla. Its severe deficiency leads to scurvy, characterized by spongy bleeding gums and delayed wound healing.",
       "tip": "Ascorbic acid = Vitamin C (Scurvy); Retinol = Vitamin A; Calciferol = Vitamin D; Tocopherol = Vitamin E.",
-      "id": 35
+      "id": 35,
+      "options_hi": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vitamin C (ascorbic acid) is a water-soluble antioxidant vitamin found abundantly in citrus fruits and amla. Its severe deficiency leads to scurvy, characterized by spongy bleeding gums and delayed wound healing.",
+      "tip_hi": "Ascorbic acid = Vitamin C (Scurvy); Retinol = Vitamin A; Calciferol = Vitamin D; Tocopherol = Vitamin E."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -653,7 +968,16 @@
       "answer_text": "Bauxite",
       "explanation": "Bauxite (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, bauxite is digested in hot sodium hydroxide to produce pure alumina, which is then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.",
       "tip": "Aluminium ore = Bauxite; Iron ore = Haematite / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite.",
-      "id": 36
+      "id": 36,
+      "options_hi": [
+        "हेमेटाइट",
+        "बॉक्साइट",
+        "Galena",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बॉक्साइट (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, बॉक्साइट is digested in hot सोडियम हाइड्रॉक्साइड (NaOH) to produce pure alumina, जो कि then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.",
+      "tip_hi": "Aluminium ore = बॉक्साइट; Iron ore = हेमेटाइट / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -671,7 +995,16 @@
       "answer_text": "Chlorophyll",
       "explanation": "Chlorophyll (predominantly Chlorophyll a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.",
       "tip": "Photosynthetic green pigment = Chlorophyll (central metal atom = Magnesium, Mg).",
-      "id": 37
+      "id": 37,
+      "options_hi": [
+        "Carotenoid",
+        "पर्णहरिम (क्लोरोफिल)",
+        "Anthocyanin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पर्णहरिम (क्लोरोफिल) (predominantly पर्णहरिम (क्लोरोफिल) a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.",
+      "tip_hi": "Photosynthetic green pigment = पर्णहरिम (क्लोरोफिल) (central metal atom = Magnesium, Mg)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -689,7 +1022,16 @@
       "answer_text": "Babu Jagjivan Ram",
       "explanation": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.",
       "tip": "All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar.",
-      "id": 38
+      "id": 38,
+      "options_hi": [
+        "Dr. B. R. Ambedkar",
+        "Babu Jagjivan Ram",
+        "Mahatma Jyotirao Phule",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.",
+      "tip_hi": "All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -707,7 +1049,16 @@
       "answer_text": "1934",
       "explanation": "While an informal group formed in 1931, the formal founding convention of the Bihar Socialist Party (and foundation of Congress Socialist Party) took place at Anjuman Islamia Hall, Patna on 17 May 1934 under Acharya Narendra Deva.",
       "tip": "Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (President) & JP (Secretary).",
-      "id": 39
+      "id": 39,
+      "options_hi": [
+        "1931",
+        "1934",
+        "1939",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "While an informal group formed in 1931, the formal founding convention of the Bihar Socialist Party (and foundation of Congress Socialist Party) took place at Anjuman Islamia Hall, Patna on 17 मई 1934 under Acharya Narendra Deva.",
+      "tip_hi": "Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (राष्ट्रपति) & JP (Secretary)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -725,7 +1076,16 @@
       "answer_text": "Vikramshila Gangetic Dolphin Sanctuary",
       "explanation": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-km stretch of the Ganga from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.",
       "tip": "Gangetic Dolphin Sanctuary = Vikramshila (Bhagalpur); National Aquatic Animal = Gangetic Dolphin (Platanista gangetica).\nAnswer Key Summary Table — Set 6 (Questions 201 to 240)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "id": 40
+      "id": 40,
+      "options_hi": [
+        "Valmiki Tiger Reserve",
+        "Vikramshila Gangetic Dolphin Sanctuary",
+        "कांवर झील (बेगूसराय) Bird Sanctuary",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-किमी stretch of the गंगा नदी from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.",
+      "tip_hi": "Gangetic Dolphin Sanctuary = Vikramshila (Bhagalpur); National Aquatic Animal = Gangetic Dolphin (Platanista gangetica).\nAnswer Key Summary Table — Set 6 (Questions 201 to 240)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
     }
   ]
 }

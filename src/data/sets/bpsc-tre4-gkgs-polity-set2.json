@@ -1,0 +1,551 @@
+{
+  "id": "bpsc-tre4-gkgs-polity-set2",
+  "title": "Indian Polity & Economy Set 2 (20Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Indian Polity & Economy",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 20,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Political Science",
+      "en": "Who among the following presides over the joint sitting of both Houses of Parliament in India?",
+      "hi": "भारत में संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता निम्नलिखित में से कौन करता है?",
+      "options": [
+        "President of India",
+        "Speaker of the Lok Sabha",
+        "Chairman of the Rajya Sabha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Speaker of the Lok Sabha",
+      "explanation": "Under Article 118(4) of the Indian Constitution, the Speaker of the Lok Sabha presides over a joint sitting of Parliament. The President summons the joint sitting under Article 108.",
+      "tip": "Chairman of Rajya Sabha (Vice-President) never presides over a joint sitting as he is not a member of either House.",
+      "id": 1,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "अध्यक्ष (स्पीकर) of the लोकसभा",
+        "Chairman of the राज्यसभा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 118(4) of the Indian Constitution, the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting of संसद. The राष्ट्रपति summons the joint sitting under अनुच्छेद 108.",
+      "tip_hi": "Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides over a joint sitting as he is not a member of either House."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "What is the minimum age prescribed by the Constitution of India to become a member of the Rajya Sabha?",
+      "hi": "भारत के संविधान के अनुसार राज्य सभा का सदस्य बनने के लिए न्यूनतम निर्धारित आयु क्या है?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "30 years",
+      "explanation": "Article 84(b) stipulates that a candidate must be not less than 30 years of age for the Rajya Sabha and not less than 25 years for the Lok Sabha.",
+      "tip": "Constitutional Age Floor: Panchayat/Municipality = 21 years; Lok Sabha/Vidhan Sabha = 25 years; Rajya Sabha/Vidhan Parishad = 30 years; President/Governor = 35 years.",
+      "id": 2,
+      "options_hi": [
+        "25 वर्ष",
+        "30 वर्ष",
+        "35 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 84(b) stipulates that a candidate must be not less than 30 वर्ष of age for the राज्यसभा and not less than 25 वर्ष for the लोकसभा.",
+      "tip_hi": "Constitutional Age Floor: Panchayat/Municipality = 21 वर्ष; लोकसभा/Vidhan Sabha = 25 वर्ष; राज्यसभा/Vidhan Parishad = 30 वर्ष; राष्ट्रपति/राज्यपाल = 35 वर्ष."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "The revolutionary 'Ghadar Party' was established in 1913 in the United States with its headquarters at which city?",
+      "hi": "1913 में संयुक्त राज्य अमेरिका में क्रांतिकारी 'गदर पार्टी' की स्थापना किस शहर में मुख्यालय बनाकर की गई थी?",
+      "options": [
+        "New York",
+        "San Francisco (Yugantar Ashram)",
+        "Vancouver",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "San Francisco (Yugantar Ashram)",
+      "explanation": "The Ghadar Party was founded in 1913 by Lala Har Dayal, Sohan Singh Bhakna (President), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
+      "tip": "Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna.",
+      "id": 3,
+      "options_hi": [
+        "New York",
+        "San Francisco (Yugantar Ashram)",
+        "Vancouver",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Ghadar Party में स्थापित किया गया था 1913 by Lala Har Dayal, Sohan Singh Bhakna (राष्ट्रपति), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
+      "tip_hi": "Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which Constitutional Amendment incorporated the fundamental right to free and compulsory education for children aged 6 to 14 years under Article 21A?",
+      "hi": "किस संविधान संशोधन द्वारा 6 से 14 वर्ष की आयु के बच्चों के लिए मुफ्त और अनिवार्य शिक्षा को अनुच्छेद 21A के तहत मौलिक अधिकार बनाया गया?",
+      "options": [
+        "42nd Amendment Act 1976",
+        "86th Amendment Act 2002",
+        "91st Amendment Act 2003",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "86th Amendment Act 2002",
+      "explanation": "The 86th Constitutional Amendment Act 2002 inserted Article 21A into Part III, making elementary education a fundamental right. It also updated Article 45 in DPSP and added 11th fundamental duty in Article 51A(k).",
+      "tip": "Right to Education (RTE) = 86th Constitutional Amendment 2002 (Article 21A).",
+      "id": 4,
+      "options_hi": [
+        "42nd संशोधन अधिनियम 1976",
+        "86वां संशोधन अधिनियम 2002",
+        "91st संशोधन अधिनियम 2003",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 86th संविधान संशोधन अधिनियम 2002 inserted अनुच्छेद 21A into Part III, making elementary education a मौलिक अधिकार. It also updated अनुच्छेद 45 in DPSP and added 11th fundamental duty in अनुच्छेद 51A(k).",
+      "tip_hi": "Right to Education (RTE) = 86th Constitutional संशोधन 2002 (अनुच्छेद 21A)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "A man sells an article at a gain of 15%. If he had bought it at 10% less and sold it for ₹4 less, he would have gained 25%. What is the cost price of the article?",
+      "hi": "एक व्यक्ति एक वस्तु को 15% लाभ पर बेचता है। यदि उसने इसे 10% कम पर खरीदा होता और ₹4 कम में बेचा होता, तो उसे 25% का लाभ होता। वस्तु का क्रय मूल्य क्या है?",
+      "options": [
+        "₹150",
+        "₹160",
+        "₹180",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "₹160",
+      "explanation": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.",
+      "tip": "115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160.",
+      "id": 5,
+      "options_hi": [
+        "₹150",
+        "₹160",
+        "₹180",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.",
+      "tip_hi": "115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The three-tier Panchayati Raj system (Gram Panchayat, Panchayat Samiti, Zilla Parishad) was first recommended by which landmark committee in 1957?(",
+      "hi": "त्रिस्तरीय पंचायती राज प्रणाली (ग्राम पंचायत, पंचायत समिति, जिला परिषद) की सर्वप्रथम सिफारिश 1957 में किस ऐतिहासिक समिति ने की थी?)",
+      "options": [
+        "Ashok Mehta Committee",
+        "Balwant Rai Mehta Committee",
+        "L. M. Singhvi Committee",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Balwant Rai Mehta Committee",
+      "explanation": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate Panchayati Raj on 2 October 1959 at Nagaur, followed by Andhra Pradesh.",
+      "tip": "3-tier Panchayati Raj = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986).",
+      "id": 6,
+      "options_hi": [
+        "Ashok Mehta Committee",
+        "Balwant Rai Mehta Committee",
+        "L. M. Singhvi Committee",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate पंचायती राज on 2 अक्टूबर 1959 at Nagaur, followed by Andhra Pradesh.",
+      "tip_hi": "3-tier पंचायती राज = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "In the Indian Constitution, the concept of 'Single Citizenship' is borrowed from the constitutional system of which country?(",
+      "hi": "भारतीय संविधान में 'एकल नागरिकता' (Single Citizenship) की अवधारणा किस देश की संवैधानिक प्रणाली से ग्रहण की गई है?)",
+      "options": [
+        "United States of America",
+        "United Kingdom (Britain)",
+        "Canada",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "United Kingdom (Britain)",
+      "explanation": "Unlike the USA which features dual citizenship (Federal and State), India adopted a single uniform citizenship for the entire nation, borrowed directly from the British parliamentary and constitutional model.",
+      "tip": "UK borrowings: Parliamentary system, Rule of Law, Single Citizenship, Bicameralism, Cabinet system.",
+      "id": 7,
+      "options_hi": [
+        "United States of America",
+        "United Kingdom (Britain)",
+        "Canada",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Unlike the USA which features dual citizenship (Federal and State), India adopted a single uniform citizenship for the entire nation, borrowed directly from the British parliamentary and constitutional model.",
+      "tip_hi": "UK borrowings: Parliamentary system, Rule of Law, Single Citizenship, Bicameralism, Cabinet system."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Who served as the Chairman of the Drafting Committee of the Constituent Assembly of India?",
+      "hi": "भारत की संविधान सभा की प्रारूप समिति के अध्यक्ष कौन थे?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. B. R. Ambedkar",
+        "Jawaharlal Nehru",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. B. R. Ambedkar",
+      "explanation": "The Drafting Committee was set up on 29 August 1947 with Dr. B. R. Ambedkar as its Chairman. Dr. Rajendra Prasad was the permanent President of the Constituent Assembly.",
+      "tip": "Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly President = Dr. Rajendra Prasad.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 8,
+      "options_hi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "Dr. B. R. Ambedkar",
+        "जवाहरलाल नेहरू",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Drafting Committee was set up on 29 अगस्त 1947 with Dr. B. R. Ambedkar as its Chairman. डॉ. राजेंद्र प्रसाद was the permanent राष्ट्रपति of the Constituent Assembly.",
+      "tip_hi": "Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly राष्ट्रपति = डॉ. राजेंद्र प्रसाद.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Who was elected as the permanent President of the Constituent Assembly of India on 11 December 1946?",
+      "hi": "11 दिसंबर 1946 को भारत की संविधान सभा का स्थायी अध्यक्ष किसे चुना गया था?",
+      "options": [
+        "Dr. Sachchidananda Sinha",
+        "Dr. Rajendra Prasad",
+        "Dr. B. R. Ambedkar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Dr. Rajendra Prasad",
+      "explanation": "Dr. Sachchidananda Sinha served as the temporary interim chairman on 9 December 1946. On 11 December 1946, Dr. Rajendra Prasad was unanimously elected permanent President of the Constituent Assembly.",
+      "tip": "Temporary Chairman (9 Dec 1946) = Dr. Sachchidananda Sinha; Permanent President (11 Dec 1946) = Dr. Rajendra Prasad.",
+      "id": 9,
+      "options_hi": [
+        "Dr. Sachchidananda Sinha",
+        "डॉ. राजेंद्र प्रसाद",
+        "Dr. B. R. Ambedkar",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Sachchidananda Sinha served as the temporary interim chairman on 9 दिसम्बर 1946. On 11 दिसम्बर 1946, डॉ. राजेंद्र प्रसाद was unanimously elected permanent राष्ट्रपति of the Constituent Assembly.",
+      "tip_hi": "Temporary Chairman (9 Dec 1946) = Dr. Sachchidananda Sinha; Permanent राष्ट्रपति (11 Dec 1946) = डॉ. राजेंद्र प्रसाद."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Under which Article of the Constitution of India can the Parliament abolish an existing State Legislative Council or create one if the Legislative Assembly of the State passes a resolution to that effect?(",
+      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत यदि राज्य की विधानसभा संकल्प पारित करे, तो संसद किसी राज्य में विधान परिषद का सृजन या उत्सादन (समाप्ति) कर सकती है?)",
+      "options": [
+        "Article 168",
+        "Article 169",
+        "Article 171",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 169",
+      "explanation": "Article 169 deals with the abolition or creation of Legislative Councils in States. The Legislative Assembly must pass a resolution by a special majority (majority of total membership and not less than 2/3rds present and voting), following which Parliament may enact a simple law.",
+      "tip": "Creation or Abolition of Legislative Council = Article 169; Composition of Council = Article 171.",
+      "id": 10,
+      "options_hi": [
+        "अनुच्छेद 168",
+        "अनुच्छेद 169",
+        "अनुच्छेद 171",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 169 deals with the abolition or creation of Legislative Councils in States. The Legislative Assembly must pass a resolution by a special majority (majority of total membership and not less than 2/3rds present and voting), following which संसद मई enact a simple law.",
+      "tip_hi": "Creation or Abolition of Legislative Council = अनुच्छेद 169; Composition of Council = अनुच्छेद 171."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which three words were added to the Preamble of the Constitution of India by the 42nd Constitutional Amendment Act of 1976?",
+      "hi": "1976 के 42वें संविधान संशोधन अधिनियम द्वारा भारतीय संविधान की प्रस्तावना में कौन-से तीन शब्द जोड़े गए थे?",
+      "options": [
+        "Sovereign, Democratic, Republic",
+        "Socialist, Secular, and Integrity",
+        "Liberty, Equality, Fraternity",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Socialist, Secular, and Integrity",
+      "explanation": "The 42nd Amendment amended the opening description from 'Sovereign Democratic Republic' to 'Sovereign Socialist Secular Democratic Republic', and changed 'unity of the Nation' to 'unity and integrity of the Nation'.",
+      "tip": "42nd Amendment 1976 added 3 words: Socialist, Secular, Integrity. (Preamble amended only once).",
+      "id": 11,
+      "options_hi": [
+        "Sovereign, Democratic, Republic",
+        "Socialist, Secular, and Integrity",
+        "Liberty, Equality, Fraternity",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 42nd संशोधन amended the opening description from 'Sovereign Democratic Republic' to 'Sovereign Socialist Secular Democratic Republic', and changed 'unity of the Nation' to 'unity and integrity of the Nation'.",
+      "tip_hi": "42nd संशोधन 1976 added 3 words: Socialist, Secular, Integrity. (प्रस्तावना amended only once)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which Constitutional Article mandates that there shall be an independent Election Commission of India for superintendence, direction, and control of elections?",
+      "hi": "संविधान का कौन-सा अनुच्छेद यह अनिवार्य करता है कि चुनावों के अधीक्षण, निर्देशन और नियंत्रण के लिए भारत का एक स्वतंत्र निर्वाचन आयोग होगा?",
+      "options": [
+        "Article 320",
+        "Article 324",
+        "Article 326",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 324",
+      "explanation": "Article 324 provides for the establishment of the Election Commission of India to conduct elections to Parliament, State Legislatures, and the offices of President and Vice-President. Elections to Panchayats are conducted by State Election Commissions under Article 243K.",
+      "tip": "Election Commission of India = Article 324; Adult Suffrage = Article 326; State Election Commission (Panchayats) = Article 243K.",
+      "id": 12,
+      "options_hi": [
+        "अनुच्छेद 320",
+        "अनुच्छेद 324",
+        "अनुच्छेद 326",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 324 provides for the establishment of the चुनाव आयोग of India to conduct elections to संसद, State Legislatures, and the offices of राष्ट्रपति and Vice-राष्ट्रपति. Elections to Panchayats are conducted by State Election Commissions under अनुच्छेद 243K.",
+      "tip_hi": "चुनाव आयोग of India = अनुच्छेद 324; Adult Suffrage = अनुच्छेद 326; State चुनाव आयोग (Panchayats) = अनुच्छेद 243K."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "In which year was the 'National Education Policy (NEP) 2020' approved by the Union Cabinet of India, replacing the 1986 education policy?(1986",
+      "hi": "की शिक्षा नीति को प्रतिस्थापित करते हुए भारत के केंद्रीय मंत्रिमंडल द्वारा 'राष्ट्रीय शिक्षा नीति (NEP) 2020' को किस वर्ष मंजूरी दी गई थी?)",
+      "options": [
+        "2019",
+        "2020",
+        "2021",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2020",
+      "explanation": "Drafted by a committee headed by Dr. K. Kasturirangan, NEP 2020 was approved on 29 July 2020. It replaced the previous 10+2 system with a new 5+3+3+4 pedagogical structure covering foundational to secondary school stages.",
+      "tip": "NEP 2020: Committee Chairman = Dr. K. Kasturirangan; Structure = 5+3+3+4; Approved = 29 July 2020.",
+      "id": 13,
+      "options_hi": [
+        "2019",
+        "2020",
+        "2021",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Drafted by a committee headed by Dr. K. Kasturirangan, NEP 2020 was approved on 29 जुलाई 2020. It replaced the previous 10+2 system with a new 5+3+3+4 pedagogical structure covering foundational to secondary school stages.",
+      "tip_hi": "NEP 2020: Committee Chairman = Dr. K. Kasturirangan; Structure = 5+3+3+4; Approved = 29 जुलाई 2020."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which Article of the Constitution of India provides for the appointment of the Comptroller and Auditor General (CAG) of India, designated as the guardian of the public purse?(",
+      "hi": "भारतीय संविधान का कौन-सा अनुच्छेद भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) की नियुक्ति का प्रावधान करता है, जिसे सार्वजनिक धन का संरक्षक कहा जाता है?)",
+      "options": [
+        "Article 110",
+        "Article 148",
+        "Article 280",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 148",
+      "explanation": "Article 148 establishes an independent CAG of India appointed by the President. Under Article 149 and 151, the CAG audits all accounts related to expenditure from the Consolidated Fund of India and submits reports to Parliament and State Legislatures.",
+      "tip": "CAG of India = Article 148; Term = 6 years or 65 years of age; Guardian of Public Purse.",
+      "id": 14,
+      "options_hi": [
+        "अनुच्छेद 110",
+        "अनुच्छेद 148",
+        "अनुच्छेद 280",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 148 establishes an independent CAG of India appointed by the राष्ट्रपति. Under अनुच्छेद 149 and 151, the CAG audits all accounts related to expenditure from the Consolidated Fund of India and submits reports to संसद and State Legislatures.",
+      "tip_hi": "CAG of India = अनुच्छेद 148; Term = 6 वर्ष or 65 वर्ष of age; Guardian of Public Purse."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "In which year was the 'Bihar Panchayati Raj Act' enacted, making Bihar the first State in India to provide 50% reservation for women in all tiers of Panchayati Raj institutions?",
+      "hi": "किस वर्ष 'बिहार पंचायती राज अधिनियम' लागू किया गया, जिसके तहत पंचायती राज संस्थाओं के सभी स्तरों पर महिलाओं को 50% आरक्षण देने वाला बिहार भारत का पहला राज्य बना?",
+      "options": [
+        "2001",
+        "2006",
+        "2011",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2006",
+      "explanation": "Under the leadership of Chief Minister Nitish Kumar, the Bihar Panchayati Raj Act 2006 was enacted, reserving 50% of all elected seats and office-bearer positions for women in Gram Panchayats, Panchayat Samitis, and Zilla Parishads.",
+      "tip": "50% Women Reservation in Panchayats = Bihar Panchayati Raj Act 2006 (First state in India).",
+      "id": 15,
+      "options_hi": [
+        "2001",
+        "2006",
+        "2011",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under the leadership of मुख्यमंत्री Nitish Kumar, the Bihar पंचायती राज Act 2006 was enacted, reserving 50% of all elected seats and office-bearer positions for women in ग्राम Panchayats, Panchayat Samitis, and Zilla Parishads.",
+      "tip_hi": "50% Women Reservation in Panchayats = Bihar पंचायती राज Act 2006 (First state in India)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which constitutional amendment act abolished the 'Right to Property' as a Fundamental Right and relocated it as a legal right under Article 300A?",
+      "hi": "किस संविधान संशोधन अधिनियम द्वारा 'संपत्ति के अधिकार' को मौलिक अधिकारों की सूची से हटाकर अनुच्छेद 300A के तहत एक कानूनी अधिकार बना दिया गया?",
+      "options": [
+        "42nd Constitutional Amendment Act 1976",
+        "44th Constitutional Amendment Act 1978",
+        "52nd Constitutional Amendment Act 1985",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "44th Constitutional Amendment Act 1978",
+      "explanation": "The 44th Constitutional Amendment Act 1978 enacted by the Janata Party government under Morarji Desai deleted Article 19(1)(f) and Article 31 from Part III and inserted Article 300A in Part XII, converting property into a non-fundamental legal/constitutional right.",
+      "tip": "Right to Property deleted from Fundamental Rights = 44th Amendment 1978 (now Article 300A).",
+      "id": 16,
+      "options_hi": [
+        "42nd संविधान संशोधन अधिनियम 1976",
+        "44वां संविधान संशोधन अधिनियम 1978",
+        "52nd संविधान संशोधन अधिनियम 1985",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 44th संविधान संशोधन अधिनियम 1978 enacted by the Janata Party government under Morarji Desai deleted अनुच्छेद 19(1)(f) and अनुच्छेद 31 from Part III and inserted अनुच्छेद 300A in Part XII, converting property into a non-fundamental legal/constitutional right.",
+      "tip_hi": "Right to Property deleted from मौलिक अधिकार = 44th संशोधन 1978 (now अनुच्छेद 300A)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who founded the Patna branch of the revolutionary secret society 'Anushilan Samiti' in 1913?",
+      "hi": "1913 में क्रांतिकारी गुप्त संगठन 'अनुशीलन समिति' की पटना शाखा की स्थापना किसने की थी?",
+      "options": [
+        "Bupendra Nath Datta",
+        "Sachindra Nath Sanyal",
+        "Khudiram Bose",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sachindra Nath Sanyal",
+      "explanation": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.",
+      "tip": "Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal.",
+      "id": 17,
+      "options_hi": [
+        "Bupendra Nath Datta",
+        "Sachindra Nath Sanyal",
+        "Khudiram Bose",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.",
+      "tip_hi": "Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under Article 110 of the Constitution of India, who possesses the exclusive authority to certify whether a legislative bill is a 'Money Bill' or not?",
+      "hi": "भारतीय संविधान के अनुच्छेद 110 के तहत कोई विधेयक 'धन विधेयक' है या नहीं, इसे प्रमाणित करने का अंतिम और अनन्य अधिकार किसे प्राप्त है?",
+      "options": [
+        "President of India",
+        "Speaker of the Lok Sabha",
+        "Chairman of the Rajya Sabha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Speaker of the Lok Sabha",
+      "explanation": "Article 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha thereon shall be final. The Rajya Sabha has only 14 days to recommend changes.",
+      "tip": "Certification of Money Bill = Speaker of Lok Sabha (Article 110). Final and cannot be questioned in court.",
+      "id": 18,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "अध्यक्ष (स्पीकर) of the लोकसभा",
+        "Chairman of the राज्यसभा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the अध्यक्ष (स्पीकर) of the लोकसभा thereon shall be final. The राज्यसभा has only 14 दिन to recommend changes.",
+      "tip_hi": "Certification of Money Bill = अध्यक्ष (स्पीकर) of लोकसभा (अनुच्छेद 110). Final and cannot be questioned in court."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The 73rd Constitutional Amendment Act 1992 added which Schedule to the Constitution of India containing a list of 29 functional items for Panchayats?",
+      "hi": "73वें संविधान संशोधन अधिनियम 1992 द्वारा भारतीय संविधान में कौन-सी अनुसूची जोड़ी गई जिसमें पंचायतों के लिए 29 कार्यात्मक विषयों की सूची है?",
+      "options": [
+        "10th Schedule",
+        "11th Schedule",
+        "12th Schedule",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "11th Schedule",
+      "explanation": "The 73rd Amendment added Part IX and the 11th Schedule (29 functional subjects for Panchayats). The 74th Amendment added Part IX-A and the 12th Schedule (18 functional subjects for Municipalities).",
+      "tip": "11th Schedule = Panchayats (29 items); 12th Schedule = Municipalities (18 items); 10th Schedule = Anti-Defection.",
+      "id": 19,
+      "options_hi": [
+        "10वां अनुसूची",
+        "11वां अनुसूची",
+        "12वां अनुसूची",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 73rd संशोधन added Part IX and the 11th अनुसूची (29 functional subjects for Panchayats). The 74th संशोधन added Part IX-A and the 12th अनुसूची (18 functional subjects for Municipalities).",
+      "tip_hi": "11th अनुसूची = Panchayats (29 items); 12th अनुसूची = Municipalities (18 items); 10th अनुसूची = Anti-Defection."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "What is the minimum age prescribed by the Constitution of India for a citizen to be eligible for election as a Member of the Legislative Assembly (MLA)?(",
+      "hi": "भारत के संविधान द्वारा किसी नागरिक के विधानसभा सदस्य (MLA) के रूप में निर्वाचित होने के लिए न्यूनतम आयु क्या निर्धारित की गई है?)",
+      "options": [
+        "21 years",
+        "25 years",
+        "30 years",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "25 years",
+      "explanation": "Under Article 173, the minimum age for election to the Legislative Assembly (and Lok Sabha) is 25 years. For Legislative Council (and Rajya Sabha), it is 30 years. For Panchayat elections, it is 21 years.",
+      "tip": "Age limits: Panchayats = 21; Lok Sabha & Vidhan Sabha = 25; Rajya Sabha & Vidhan Parishad = 30; President & Governor = 35.",
+      "id": 20,
+      "options_hi": [
+        "21 वर्ष",
+        "25 वर्ष",
+        "30 वर्ष",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 173, the minimum age for election to the Legislative Assembly (and लोकसभा) is 25 वर्ष. For Legislative Council (and राज्यसभा), it is 30 वर्ष. For Panchayat elections, it is 21 वर्ष.",
+      "tip_hi": "Age limits: Panchayats = 21; लोकसभा & Vidhan Sabha = 25; राज्यसभा & Vidhan Parishad = 30; राष्ट्रपति & राज्यपाल = 35."
+    }
+  ]
+}

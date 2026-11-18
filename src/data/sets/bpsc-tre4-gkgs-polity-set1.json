@@ -1,0 +1,605 @@
+{
+  "id": "bpsc-tre4-gkgs-polity-set1",
+  "title": "Indian Polity & Economy Set 1 (22Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "Indian Polity & Economy",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 22,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Who established the branch of Anushilan Samiti at Patna in 1913?",
+      "hi": "1913 में पटना में अनुशीलन समिति की एक शाखा किसने स्थापित की थी?",
+      "options": [
+        "Sachindra Nath Sanyal",
+        "Bankim Chandra Mitra",
+        "Raghubir Singh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Sachindra Nath Sanyal",
+      "explanation": "Sachindra Nath Sanyal established the Patna branch of the revolutionary organization Anushilan Samiti in 1913. Bankim Chandra Mitra assisted him.",
+      "tip": "Sachindra Nath Sanyal authored 'Bandi Jeevan' and was a co-founder of Hindustan Republican Association (HRA).",
+      "id": 1,
+      "options_hi": [
+        "Sachindra Nath Sanyal",
+        "Bankim Chandra Mitra",
+        "Raghubir Singh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sachindra Nath Sanyal established the Patna branch of the revolutionary organization Anushilan Samiti in 1913. Bankim Chandra Mitra assisted him.",
+      "tip_hi": "Sachindra Nath Sanyal authored 'Bandi Jeevan' and was a co-founder of Hindustan Republican Association (HRA)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In a certain code, 'ORANGE' is written as 'PQBOFH'. How is 'GRAPES' written in that code language?",
+      "hi": "एक निश्चित कूट भाषा में 'ORANGE' को 'PQBOFH' लिखा जाता है। उसी कूट भाषा में 'GRAPES' को कैसे लिखा जाएगा?",
+      "options": [
+        "HSBQFT",
+        "HSCQFT",
+        "HSBQFS",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "HSBQFT",
+      "explanation": "Each letter is shifted by +1: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (wait: G->H, E->F). Applying +1 to GRAPES: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT.",
+      "tip": "Pattern: +1 to each letter. G->H, R->S, A->B, P->Q, E->F, S->T.",
+      "id": 2,
+      "options_hi": [
+        "HSBQFT",
+        "HSCQFT",
+        "HSBQFS",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Each letter is shifted by +1: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (wait: G->H, E->F). Applying +1 to GRAPES: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT.",
+      "tip_hi": "Pattern: +1 to each letter. G->H, R->S, A->B, P->Q, E->F, S->T."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who among the following presides over a joint sitting of both Houses of Parliament summoned by the President under Article 108?",
+      "hi": "अनुच्छेद 108 के तहत राष्ट्रपति द्वारा बुलाए गए संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता निम्नलिखित में से कौन करता है?",
+      "options": [
+        "President of India",
+        "Speaker of the Lok Sabha",
+        "Chairman of the Rajya Sabha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Speaker of the Lok Sabha",
+      "explanation": "Under Article 118(4), the Speaker of the Lok Sabha presides over a joint sitting. In his absence, the Deputy Speaker presides, and if both are absent, the Deputy Chairman of the Rajya Sabha presides. The Chairman of Rajya Sabha (Vice-President) never presides.",
+      "tip": "Joint sitting: Summoned by President (Art. 108); Presided by Lok Sabha Speaker (Art. 118(4)).",
+      "id": 3,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "अध्यक्ष (स्पीकर) of the लोकसभा",
+        "Chairman of the राज्यसभा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 118(4), the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting. In his absence, the Deputy अध्यक्ष (स्पीकर) presides, and if both are absent, the Deputy Chairman of the राज्यसभा presides. The Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides.",
+      "tip_hi": "Joint sitting: Summoned by राष्ट्रपति (Art. 108); Presided by लोकसभा अध्यक्ष (स्पीकर) (Art. 118(4))."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "The concept of 'Fundamental Duties' was incorporated into Part IV-A (Article 51A) of the Indian Constitution on the recommendation of which committee?('",
+      "hi": "मौलिक कर्तव्यों' की अवधारणा को किस समिति की सिफारिश पर भारतीय संविधान के भाग IV-A (अनुच्छेद 51A) में शामिल किया गया था?)",
+      "options": [
+        "Sarkaria Commission",
+        "Swaran Singh Committee",
+        "Verma Committee",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Swaran Singh Committee",
+      "explanation": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd Amendment added 10 duties in Article 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th Amendment 2002.",
+      "tip": "Fundamental Duties = Swaran Singh Committee (1976), 42nd Amendment, borrowed from USSR.",
+      "id": 4,
+      "options_hi": [
+        "Sarkaria Commission",
+        "Swaran Singh Committee",
+        "Verma Committee",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd संशोधन added 10 duties in अनुच्छेद 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th संशोधन 2002.",
+      "tip_hi": "Fundamental Duties = Swaran Singh Committee (1976), 42nd संशोधन, borrowed from USSR."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which was the first State in independent India to be created on a linguistic basis in October 1953?",
+      "hi": "अक्टूबर 1953 में भाषाई आधार पर गठित होने वाला स्वतंत्र भारत का पहला राज्य कौन-सा था?",
+      "options": [
+        "Gujarat",
+        "Andhra State",
+        "Kerala",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Andhra State",
+      "explanation": "Following the 56-day hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 October 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
+      "tip": "First linguistic state = Andhra State (1 October 1953); Fast-unto-death = Potti Sreeramulu.",
+      "id": 5,
+      "options_hi": [
+        "Gujarat",
+        "Andhra State",
+        "Kerala",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Following the 56-दिन hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 अक्टूबर 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
+      "tip_hi": "First linguistic state = Andhra State (1 अक्टूबर 1953); Fast-unto-death = Potti Sreeramulu."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "The High Court of Judicature at Patna was formally inaugurated on which date by the Viceroy of India, Lord Hardinge?",
+      "hi": "पटना उच्च न्यायालय का औपचारिक उद्घाटन भारत के वायसराय लॉर्ड हार्डिंग द्वारा किस तिथि को किया गया था?",
+      "options": [
+        "22 March 1912",
+        "3 February 1916",
+        "1 April 1916",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3 February 1916",
+      "explanation": "Established under Letters Patent issued by King George V, Patna High Court was formally opened by Viceroy Lord Hardinge on 3 February 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
+      "tip": "Patna High Court inaugurated = 3 February 1916 (1st Chief Justice: Sir Edward Chamier).",
+      "id": 6,
+      "options_hi": [
+        "22 मार्च 1912",
+        "3 फरवरी 1916",
+        "1 अप्रैल 1916",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established under Letters Patent issued by King George V, Patna उच्च न्यायालय was formally opened by Viceroy Lord Hardinge on 3 फरवरी 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
+      "tip_hi": "Patna उच्च न्यायालय inaugurated = 3 फरवरी 1916 (1st Chief Justice: Sir Edward Chamier)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "To whom does the Speaker of the Lok Sabha address his letter of resignation when resigning from his constitutional office?",
+      "hi": "लोकसभा अध्यक्ष अपने संवैधानिक पद से इस्तीफा देते समय अपना त्यागपत्र किसे संबोधित करते हैं?",
+      "options": [
+        "President of India",
+        "Deputy Speaker of the Lok Sabha",
+        "Prime Minister of India",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Deputy Speaker of the Lok Sabha",
+      "explanation": "Under Article 94(b) of the Constitution of India, a member holding office as Speaker may at any time resign his office by writing under his hand addressed to the Deputy Speaker.",
+      "tip": "Speaker resigns to Deputy Speaker; Deputy Speaker resigns to Speaker; President resigns to Vice-President.",
+      "id": 7,
+      "options_hi": [
+        "राष्ट्रपति of India",
+        "Deputy अध्यक्ष (स्पीकर) of the लोकसभा",
+        "प्रधानमंत्री of India",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Under अनुच्छेद 94(b) of the Constitution of India, a member holding office as अध्यक्ष (स्पीकर) मई at any time resign his office by writing under his hand addressed to the Deputy अध्यक्ष (स्पीकर).",
+      "tip_hi": "अध्यक्ष (स्पीकर) resigns to Deputy अध्यक्ष (स्पीकर); Deputy अध्यक्ष (स्पीकर) resigns to अध्यक्ष (स्पीकर); राष्ट्रपति resigns to Vice-राष्ट्रपति."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "What is the maximum strength (number of members) of the Legislative Assembly (Vidhan Sabha) of Bihar?",
+      "hi": "बिहार विधानसभा के सदस्यों की कुल निर्धारित संख्या कितनी है?",
+      "options": [
+        "240 seats",
+        "243 seats",
+        "250 seats",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "243 seats",
+      "explanation": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).",
+      "tip": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; Lok Sabha = 40 seats; Rajya Sabha = 16 seats.",
+      "id": 8,
+      "options_hi": [
+        "240 seats",
+        "243 seats",
+        "250 seats",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).",
+      "tip_hi": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; लोकसभा = 40 seats; राज्यसभा = 16 seats."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
+      "en": "How many seats are allocated to the State of Bihar in the Lok Sabha (Lower House of Indian Parliament)?(",
+      "hi": "भारतीय संसद के निचले सदन (लोकसभा) में बिहार राज्य को कितनी सीटें आवंटित हैं?)",
+      "options": [
+        "36 seats",
+        "40 seats",
+        "44 seats",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "40 seats",
+      "explanation": "Bihar has 40 seats in the Lok Sabha (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the Rajya Sabha.",
+      "tip": "Parliamentary representation of Bihar: Lok Sabha = 40 seats; Rajya Sabha = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 9,
+      "options_hi": [
+        "36 seats",
+        "40 seats",
+        "44 seats",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bihar has 40 seats in the लोकसभा (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the राज्यसभा.",
+      "tip_hi": "Parliamentary representation of Bihar: लोकसभा = 40 seats; राज्यसभा = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In which year was Patna University, the premier and seventh oldest university of modern India, established by an Act of the Imperial Legislative Council?",
+      "hi": "इंपीरियल लेजिस्लेटिव काउंसिल के एक अधिनियम द्वारा भारत के 7वें सबसे पुराने विश्वविद्यालय 'पटना विश्वविद्यालय' की स्थापना किस वर्ष की गई थी?",
+      "options": [
+        "1912",
+        "1916",
+        "1917",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "1917",
+      "explanation": "Established under the Patna University Act in October 1917, it initially had jurisdiction over all educational colleges across Bihar, Orissa, and Nepal. (Patna High Court was opened in 1916).",
+      "tip": "Patna High Court = 1916; Patna University = 1917; PMCH (Prince of Wales Medical College) = 1925.",
+      "id": 10,
+      "options_hi": [
+        "1912",
+        "1916",
+        "1917",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established under the Patna University Act in अक्टूबर 1917, it initially had jurisdiction over all educational colleges across Bihar, Orissa, and Nepal. (Patna उच्च न्यायालय was opened in 1916).",
+      "tip_hi": "Patna उच्च न्यायालय = 1916; Patna University = 1917; PMCH (Prince of Wales Medical College) = 1925."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who served as the first President of the Bihar Legislative Council (बिहार विधान परिषद) when the bicameral legislature was inaugurated under the Government of India Act 1935 in 1937?",
+      "hi": "1937 में भारत शासन अधिनियम 1935 के तहत द्विसदनीय विधानमंडल के गठन पर बिहार विधान परिषद के प्रथम सभापति कौन बने थे?",
+      "options": [
+        "Sir Ganesh Dutt",
+        "Dr. Sachchidananda Sinha",
+        "Rajiv Ranjan Prasad Sinha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Rajiv Ranjan Prasad Sinha",
+      "explanation": "Following the 1937 provincial elections, Rajiv Ranjan Prasad Sinha was elected as the first President of the newly constituted Bihar Legislative Council on 22 July 1937. (Ramdayalu Singh was elected first Speaker of the Legislative Assembly).",
+      "tip": "1937 Bihar Legislature: Assembly Speaker = Ramdayalu Singh; Council President = Rajiv Ranjan Prasad Sinha.",
+      "id": 11,
+      "options_hi": [
+        "Sir Ganesh Dutt",
+        "Dr. Sachchidananda Sinha",
+        "Rajiv Ranjan Prasad Sinha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Following the 1937 provincial elections, Rajiv Ranjan Prasad Sinha was elected as the first राष्ट्रपति of the newly constituted Bihar Legislative Council on 22 जुलाई 1937. (Ramdayalu Singh was elected first अध्यक्ष (स्पीकर) of the Legislative Assembly).",
+      "tip_hi": "1937 Bihar Legislature: Assembly अध्यक्ष (स्पीकर) = Ramdayalu Singh; Council राष्ट्रपति = Rajiv Ranjan Prasad Sinha."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which Constitutional Amendment Act added the Tenth Schedule (Anti-Defection Law) to the Constitution of India in 1985?(1985",
+      "hi": "में किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान में दसवीं अनुसूची (दल-बदल विरोधी कानून) जोड़ी गई थी?)",
+      "options": [
+        "44th Amendment Act",
+        "52nd Amendment Act 1985",
+        "61st Amendment Act",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "52nd Amendment Act 1985",
+      "explanation": "The 52nd Constitutional Amendment Act 1985 inserted the Tenth Schedule, laying down disqualification of legislators on grounds of defection from their political party.",
+      "tip": "Anti-Defection Law = 52nd Amendment Act 1985 (Tenth Schedule); Strengthened by 91st Amendment 2003.",
+      "id": 12,
+      "options_hi": [
+        "44वां संशोधन अधिनियम",
+        "52nd संशोधन अधिनियम 1985",
+        "61st संशोधन अधिनियम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 52nd संविधान संशोधन अधिनियम 1985 inserted the Tenth अनुसूची, laying down disqualification of legislators on grounds of defection from their political party.",
+      "tip_hi": "Anti-Defection Law = 52nd संशोधन अधिनियम 1985 (Tenth अनुसूची); Strengthened by 91st संशोधन 2003."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In the Indian financial system, which apex bank acts as the 'Lender of Last Resort' and Banker to Banks?(",
+      "hi": "भारतीय वित्तीय प्रणाली में कौन-सा शीर्ष बैंक 'अंतिम ऋणदाता' (Lender of Last Resort) और बैंकों के बैंकर के रूप में कार्य करता है?)",
+      "options": [
+        "State Bank of India",
+        "Reserve Bank of India (RBI)",
+        "National Bank for Agriculture and Rural Development (NABARD)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Reserve Bank of India (RBI)",
+      "explanation": "Established on 1 April 1935 under the RBI Act 1934 on the recommendation of the Hilton Young Commission, the RBI regulates currency issue, monetary policy, and acts as the lender of last resort to commercial banks.",
+      "tip": "Central Bank / Lender of Last Resort = Reserve Bank of India (RBI, established 1935).",
+      "id": 13,
+      "options_hi": [
+        "State Bank of India",
+        "Reserve Bank of India (RBI)",
+        "National Bank for Agriculture and Rural Development (NABARD)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Established on 1 अप्रैल 1935 under the RBI Act 1934 on the recommendation of the Hilton Young Commission, the RBI regulates currency issue, monetary policy, and acts as the lender of last resort to commercial banks.",
+      "tip_hi": "Central Bank / Lender of Last Resort = Reserve Bank of India (RBI, established 1935)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "In a certain code language, 'WATER' is written as 'YCVGT'. How will 'FIRE' be written in that code language?",
+      "hi": "एक निश्चित कूट भाषा में 'WATER' को 'YCVGT' लिखा जाता है। उसी कूट भाषा में 'FIRE' को कैसे लिखा जाएगा?",
+      "options": [
+        "HKTG",
+        "GJSF",
+        "HKTH",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "HKTG",
+      "explanation": "Pattern is +2 to each letter: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. Applying +2 to FIRE: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG.",
+      "tip": "Shift +2: F->H, I->K, R->T, E->G = HKTG.",
+      "id": 14,
+      "options_hi": [
+        "HKTG",
+        "GJSF",
+        "HKTH",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pattern is +2 to each letter: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. Applying +2 to FIRE: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG.",
+      "tip_hi": "Shift +2: F->H, I->K, R->T, E->G = HKTG."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Who was appointed as the first Governor of the State of Bihar upon India attaining Independence on 15 August 1947?",
+      "hi": "15 अगस्त 1947 को भारत के स्वतंत्र होने पर बिहार राज्य के प्रथम राज्यपाल के रूप में किसे नियुक्त किया गया था?",
+      "options": [
+        "R. R. Diwakar",
+        "Jairamdas Daulatram (जयरामदास दौलतराम)",
+        "Madhav Shrihari Aney",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jairamdas Daulatram (जयरामदास दौलतराम)",
+      "explanation": "Jairamdas Daulatram served as the first Governor of Bihar in independent India from 15 August 1947 to 11 January 1948. (Sir James David Sifton was the first Governor of Bihar when Orissa separated in 1936).",
+      "tip": "First Governor of Bihar in Independent India = Jairamdas Daulatram (15 Aug 1947).",
+      "id": 15,
+      "options_hi": [
+        "R. R. Diwakar",
+        "Jairamdas Daulatram (जयरामदास दौलतराम)",
+        "Madhav Shrihari Aney",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jairamdas Daulatram served as the first राज्यपाल of Bihar in independent India from 15 अगस्त 1947 to 11 जनवरी 1948. (Sir James David Sifton was the first राज्यपाल of Bihar when Orissa separated in 1936).",
+      "tip_hi": "First राज्यपाल of Bihar in Independent India = Jairamdas Daulatram (15 Aug 1947)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Which Constitutional Amendment Act, popularly known as the 'Nari Shakti Vandan Adhiniyam', reserves 33% (one-third) of seats for women in the Lok Sabha and State Legislative Assemblies?",
+      "hi": "किस संविधान संशोधन अधिनियम, जिसे 'नारी शक्ति वंदन अधिनियम' के नाम से जाना जाता है, द्वारा लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए 33% सीटें आरक्षित की गई हैं?",
+      "options": [
+        "103rd Amendment Act",
+        "106th Constitutional Amendment Act 2023",
+        "105th Amendment Act",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "106th Constitutional Amendment Act 2023",
+      "explanation": "The 106th Constitutional Amendment Act 2023 (128th Amendment Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the Lok Sabha, State Legislative Assemblies, and Delhi Assembly for 15 years, to be implemented after delimitation following the next census.",
+      "tip": "Women's Reservation in Parliament (33%) = 106th Amendment Act 2023 (Nari Shakti Vandan Adhiniyam).",
+      "id": 16,
+      "options_hi": [
+        "103rd संशोधन अधिनियम",
+        "106वां संविधान संशोधन अधिनियम 2023",
+        "105वां संशोधन अधिनियम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 106th संविधान संशोधन अधिनियम 2023 (128th संशोधन Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the लोकसभा, State Legislative Assemblies, and Delhi Assembly for 15 वर्ष, to be implemented after delimitation following the next जनगणना.",
+      "tip_hi": "Women's Reservation in संसद (33%) = 106th संशोधन अधिनियम 2023 (Nari Shakti Vandan Adhiniyam)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
+      "en": "Under which Article of the Constitution of India can the President seek the advisory opinion of the Supreme Court on any question of law or fact of public importance?",
+      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राष्ट्रपति सार्वजनिक महत्व के किसी विधि या तथ्य के प्रश्न पर सर्वोच्च न्यायालय की सलाहकारी राय मांग सकते हैं?",
+      "options": [
+        "Article 131",
+        "Article 143 (सलाहकारी क्षेत्राधिकार)",
+        "Article 136",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 143 (सलाहकारी क्षेत्राधिकार)",
+      "explanation": "Article 143 confers Advisory Jurisdiction on the Supreme Court. The President may refer a question of public importance to the Supreme Court for opinion. The opinion rendered is purely advisory and not binding on the President.",
+      "tip": "Advisory Jurisdiction of Supreme Court = Article 143; Original Jurisdiction = Article 131; Special Leave Petition = Article 136.",
+      "id": 17,
+      "options_hi": [
+        "अनुच्छेद 131",
+        "अनुच्छेद 143 (सलाहकारी क्षेत्राधिकार)",
+        "अनुच्छेद 136",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 143 confers Advisory Jurisdiction on the सर्वोच्च न्यायालय. The राष्ट्रपति मई refer a question of public importance to the सर्वोच्च न्यायालय for opinion. The opinion rendered is purely advisory and not binding on the राष्ट्रपति.",
+      "tip_hi": "Advisory Jurisdiction of सर्वोच्च न्यायालय = अनुच्छेद 143; Original Jurisdiction = अनुच्छेद 131; Special Leave Petition = अनुच्छेद 136."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The Article 280 of Indian Constitution is related to",
+      "hi": "भारतीय संविधान का अनुच्छेद 280 किससे संबंधित है?",
+      "options": [
+        "the Union Public Service Commission",
+        "the Bihar Public Service Commission",
+        "the Finance Commission",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "the Finance Commission",
+      "explanation": "Article 280 mandates the President of India to constitute a Finance Commission every fifth year to recommend the devolution of tax revenues between the Union and the States.",
+      "tip": "Article 280 = Finance Commission; Article 315 = UPSC and State PSCs; Article 324 = Election Commission.",
+      "id": 18,
+      "options_hi": [
+        "the Union Public Service Commission",
+        "the Bihar Public Service Commission",
+        "the वित्त आयोग",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 280 mandates the राष्ट्रपति of India to constitute a वित्त आयोग every fifth वर्ष to recommend the devolution of tax revenues between the Union and the States.",
+      "tip_hi": "अनुच्छेद 280 = वित्त आयोग; अनुच्छेद 315 = UPSC and State PSCs; अनुच्छेद 324 = चुनाव आयोग."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following statements is true in the context of money supply in India?",
+      "hi": "भारत में मुद्रा आपूर्ति के संदर्भ में निम्नलिखित में से कौन-सा कथन सही है?",
+      "options": [
+        "M3 is the most liquid money supply measure.",
+        "M2 is the most liquid money supply measure.",
+        "M1 is the most liquid money supply measure.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "M1 is the most liquid money supply measure.",
+      "explanation": "M1 (currency with public + demand deposits + other deposits with RBI) is immediately spendable and has the highest liquidity. M4/M3 represents broad money with lower liquidity.",
+      "tip": "Liquidity hierarchy: M1 > M2 > M3 > M4. M1 is narrow money with maximum liquidity; M3 is broad money.\nAnswer Key Summary Table — Set 2 (Q.41 to Q.80)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key",
+      "id": 19,
+      "options_hi": [
+        "M3 is the most liquid money supply measure.",
+        "M2 is the most liquid money supply measure.",
+        "M1 is the most liquid money supply measure.",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "M1 (currency with public + demand deposits + other deposits with RBI) is immediately spendable and has the highest liquidity. M4/M3 represents broad money with lower liquidity.",
+      "tip_hi": "Liquidity hierarchy: M1 > M2 > M3 > M4. M1 is narrow money with maximum liquidity; M3 is broad money.\nAnswer Key Summary Table — Set 2 (Q.41 to Q.80)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Who among the following was/were Members of the State Re-organisation Commission (SRC) in 1953?\n(1953",
+      "hi": "में गठित राज्य पुनर्गठन आयोग (SRC) के सदस्य निम्नलिखित में से कौन थे?)",
+      "options": [
+        "K. M. Panikkar",
+        "Hriday Nath Kunzru",
+        "Fazal Ali",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "The State Re-organisation Commission appointed in December 1953 comprised Justice Fazal Ali (Chairman), K.M. Panikkar, and Hriday Nath Kunzru. All three served as members.",
+      "tip": "Commission members: Fazal Ali (Head) + K.M. Panikkar + H.N. Kunzru. Since all three appear, select Option (D).",
+      "id": 20,
+      "options_hi": [
+        "K. M. Panikkar",
+        "Hriday Nath Kunzru",
+        "Fazal Ali",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The State Re-organisation Commission appointed in दिसम्बर 1953 comprised Justice Fazal Ali (Chairman), K.M. Panikkar, and Hriday Nath Kunzru. All three served as members.",
+      "tip_hi": "Commission members: Fazal Ali (Head) + K.M. Panikkar + H.N. Kunzru. Since all three appear, select Option (D)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Social Science",
+      "en": "Who founded the 'Sadaqat Ashram' in Patna, which later became the headquarters of the freedom movement in Bihar?",
+      "hi": "पटना में 'सदाकत आश्रम' की स्थापना किसने की थी, जो बाद में बिहार में स्वतंत्रता संग्राम का प्रमुख केंद्र बना?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Maulana Mazharul Haque",
+        "Sachchidananda Sinha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulana Mazharul Haque",
+      "explanation": "Maulana Mazharul Haque founded Sadaqat Ashram in 1921 on land donated by his friend Khairun Miyan along the banks of the Ganges in Patna, and launched the weekly newspaper 'The Motherland' from here.",
+      "tip": "Sadaqat Ashram served as the residence of Dr. Rajendra Prasad after his retirement as the President of India until his death in 1963.",
+      "id": 21,
+      "options_hi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "Maulana Mazharul Haque",
+        "Sachchidananda Sinha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulana Mazharul Haque founded Sadaqat Ashram in 1921 on land donated by his friend Khairun Miyan along the banks of the Ganges in Patna, and launched the weekly newspaper 'The Motherland' from here.",
+      "tip_hi": "Sadaqat Ashram served as the residence of डॉ. राजेंद्र प्रसाद after his retirement as the राष्ट्रपति of India until his death in 1963."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science",
+      "en": "The concept of 'Fundamental Duties' in the Constitution of India was borrowed from the Constitution of which country?",
+      "hi": "भारतीय संविधान में 'मौलिक कर्तव्यों' की अवधारणा किस देश के संविधान से ली गई थी?",
+      "options": [
+        "USA",
+        "USSR (Soviet Union)",
+        "Ireland",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "USSR (Soviet Union)",
+      "explanation": "Fundamental Duties were incorporated into Part IV-A (Article 51A) by the 42nd Amendment Act, 1976 on the recommendations of the Swaran Singh Committee, inspired by the Constitution of the USSR.",
+      "tip": "Borrowing sources: Fundamental Duties = USSR; Fundamental Rights = USA; DPSP = Ireland; Parliamentary system = UK.",
+      "id": 22,
+      "options_hi": [
+        "USA",
+        "USSR (Soviet Union)",
+        "Ireland",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Fundamental Duties were incorporated into Part IV-A (अनुच्छेद 51A) by the 42nd संशोधन अधिनियम, 1976 on the recommendations of the Swaran Singh Committee, inspired by the Constitution of the USSR.",
+      "tip_hi": "Borrowing sources: Fundamental Duties = USSR; मौलिक अधिकार = USA; DPSP = Ireland; Parliamentary system = UK."
+    }
+  ]
+}

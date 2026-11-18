@@ -1,0 +1,470 @@
+{
+  "id": "bpsc-tre4-gkgs-physics-set2",
+  "title": "General Science: Physics Set 2 (17Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Physics",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 17,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "Which of the following statements relating to iron and steel industry is not correct?",
+      "hi": "लौह एवं इस्पात उद्योग के संबंध में निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+      "options": [
+        "It is called as basic industry.",
+        "It is called as light industry.",
+        "It is located in the areas of proximity of raw materials.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "It is called as light industry.",
+      "explanation": "Iron and steel is a heavy, weight-losing basic mineral industry because both its inputs (iron ore, coal, limestone) and finished outputs are heavy and bulky. Describing it as a light industry is false.",
+      "tip": "Heavy industries consume bulky raw materials (Iron & Steel); Light industries produce compact goods (Electronics, Watches).",
+      "id": 1,
+      "options_hi": [
+        "It is called as क्षारीय industry.",
+        "It is called as light industry.",
+        "It is located in the areas of proximity of raw materials.",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Iron and steel is a heavy, weight-losing क्षारीय mineral industry क्योंकि both its inputs (iron ore, coal, limestone) and finished outputs are heavy and bulky. Describing it as a light industry is false.",
+      "tip_hi": "Heavy industries consume bulky raw materials (Iron & Steel); Light industries produce compact goods (Electronics, Watches)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
+      "en": "The Concurrent List is mentioned in the",
+      "hi": "समवर्ती सूची का उल्लेख किस अनुसूची में है?",
+      "options": [
+        "5th Schedule",
+        "8th Schedule",
+        "7th Schedule",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "7th Schedule",
+      "explanation": "The Seventh Schedule (Article 246) defines legislative powers divided into three lists: List I (Union List), List II (State List), and List III (Concurrent List).",
+      "tip": "Schedules mnemonic: 7th = Division of Powers (Union, State, Concurrent Lists); 8th = Official Languages; 5th = Scheduled Areas.",
+      "id": 2,
+      "options_hi": [
+        "5वां अनुसूची",
+        "8वां अनुसूची",
+        "7वां अनुसूची",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Seventh अनुसूची (अनुच्छेद 246) defines legislative powers divided into three lists: List I (Union List), List II (State List), and List III (Concurrent List).",
+      "tip_hi": "Schedules mnemonic: 7th = Division of Powers (Union, State, Concurrent Lists); 8th = Official Languages; 5th = Scheduled Areas."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Who among the following was the Prime Minister of India when 73rd and 74th Amendments of the Constitution came into existence?",
+      "hi": "जब संविधान के 73वें एवं 74वें संशोधन लागू हुए, तब भारत के प्रधानमन्त्री कौन थे?",
+      "options": [
+        "P. V. Narasimha Rao",
+        "H. D. Deve Gowda",
+        "Chandra Shekhar",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "P. V. Narasimha Rao",
+      "explanation": "The 73rd and 74th Constitutional Amendment Acts were enacted by Parliament in 1992 and came into force in 1993 under the Prime Ministership of P. V. Narasimha Rao.",
+      "tip": "73rd Amendment (Panchayats) enforced 24 April 1993; 74th Amendment (Municipalities) enforced 1 June 1993 during Narasimha Rao's tenure.",
+      "id": 3,
+      "options_hi": [
+        "P. V. Narasimha Rao",
+        "H. D. Deve Gowda",
+        "Chandra Shekhar",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 73rd and 74th Constitutional संशोधन Acts were enacted by संसद in 1992 and came into force in 1993 under the Prime Ministership of P. V. Narasimha Rao.",
+      "tip_hi": "73rd संशोधन (Panchayats) enforced 24 अप्रैल 1993; 74th संशोधन (Municipalities) enforced 1 जून 1993 के दौरान Narasimha Rao's tenure."
+    },
+    {
+      "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
+      "en": "Which of the following Constitutional Amendments in India made judiciary subservient of Parliament?",
+      "hi": "भारत के किस संविधान संशोधन ने न्यायपालिका को संसद के अधीन कर दिया था?",
+      "options": [
+        "42nd Constitutional Amendment",
+        "43rd Constitutional Amendment",
+        "40th Constitutional Amendment",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "42nd Constitutional Amendment",
+      "explanation": "The 42nd Constitutional Amendment Act, 1976 curtailed judicial review powers of the Supreme Court and High Courts, declaring that constitutional amendments could not be questioned in court.",
+      "tip": "42nd Amendment (1976) is known as the 'Mini-Constitution'; judicial review powers were later restored by the 44th Amendment (1978).",
+      "id": 4,
+      "options_hi": [
+        "42nd Constitutional संशोधन",
+        "43rd Constitutional संशोधन",
+        "40वां Constitutional संशोधन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 42nd संविधान संशोधन अधिनियम, 1976 curtailed judicial review powers of the सर्वोच्च न्यायालय and High Courts, declaring that constitutional amendments could not be questioned in court.",
+      "tip_hi": "42nd संशोधन (1976) is के रूप में जाना जाता है the 'Mini-Constitution'; judicial review powers were later restored by the 44th संशोधन (1978)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School General Studies",
+      "en": "During the Quit India Movement (1942), who organized the underground revolutionary guerrilla force 'Azad Dasta' in the jungles of Nepal?(",
+      "hi": "भारत छोड़ो आंदोलन (1942) के दौरान नेपाल के जंगलों में 'आजाद दस्ता' नामक भूमिगत छापामार संगठन का गठन किसने किया था?)",
+      "options": [
+        "Ram Manohar Lohia",
+        "Jayaprakash Narayan",
+        "Aruna Asaf Ali",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jayaprakash Narayan",
+      "explanation": "After escaping from Hazaribagh Central Jail on Diwali night in 1942, Jayaprakash Narayan (JP) established the underground guerrilla force 'Azad Dasta' at Bakro ka Tapu in Nepal to disrupt British communications.",
+      "tip": "Radio transmitter broadcast was managed by Ram Manohar Lohia, but the overall founder and supreme leader of Azad Dasta was Jayaprakash Narayan.",
+      "id": 5,
+      "options_hi": [
+        "राम मनोहर लोहिया",
+        "जयप्रकाश नारायण",
+        "Aruna Asaf Ali",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in 1942, जयप्रकाश नारायण (JP) established the underground guerrilla force 'Azad Dasta' at Bakro ka Tapu in Nepal to disrupt British communications.",
+      "tip_hi": "Radio transmitter broadcast was managed by राम मनोहर लोहिया, but the overall founder and supreme leader of Azad Dasta was जयप्रकाश नारायण."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Social Science",
+      "en": "Which Article of the Constitution of India formally abolishes 'Untouchability' and forbids its practice in any form?",
+      "hi": "भारतीय संविधान का कौन-सा अनुच्छेद 'अस्पृश्यता' का उन्मूलन करता है और किसी भी रूप में इसके आचरण को निषिद्ध करता है?",
+      "options": [
+        "Article 14",
+        "Article 17",
+        "Article 21",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 17",
+      "explanation": "Article 17 declares that 'Untouchability' is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of untouchability is an offence punishable in accordance with law.",
+      "tip": "Enforced by Parliament through the Protection of Civil Rights Act, 1955.",
+      "id": 6,
+      "options_hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 17",
+        "अनुच्छेद 21",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 17 declares that 'Untouchability' is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of untouchability is an offence punishable in accordance with law.",
+      "tip_hi": "Enforced by संसद through the Protection of Civil Rights Act, 1955."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "A concave mirror produces a virtual, erect, and magnified image of an object when the object is placed",
+      "hi": "अवतल दर्पण किसी वस्तु का आभासी, सीधा और बड़ा प्रतिबिम्ब कब बनाता है?",
+      "options": [
+        "At the Centre of Curvature",
+        "Between the Focus and Pole",
+        "At the Principal Focus",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Between the Focus and Pole",
+      "explanation": "A concave mirror forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).",
+      "tip": "Only position for virtual image in concave mirror = Object between Focus and Pole.",
+      "id": 7,
+      "options_hi": [
+        "At the Centre of Curvature",
+        "Between the Focus and Pole",
+        "At the Principal Focus",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A अवतल दर्पण forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).",
+      "tip_hi": "Only position for virtual image in अवतल दर्पण = Object between Focus and Pole."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "A person suffering from myopia (near-sightedness) is prescribed spectacles containing which type of optical lens?(",
+      "hi": "निकट दृष्टि दोष (Myopia) से पीड़ित व्यक्ति के चश्मे में किस प्रकार के लेंस का प्रयोग किया जाता है?)",
+      "options": [
+        "Convex Lens",
+        "Concave Lens",
+        "Cylindrical Lens",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Concave Lens",
+      "explanation": "In myopia, light rays converge in front of the retina. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the retina.",
+      "tip": "Myopia (Near-sighted) = Concave Lens; Hypermetropia (Far-sighted) = Convex Lens; Astigmatism = Cylindrical Lens.",
+      "id": 8,
+      "options_hi": [
+        "उत्तल लेंस",
+        "अवतल लेंस",
+        "Cylindrical Lens",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In निकट दृष्टि दोष (मायोपिया), light rays converge in front of the रेटिना. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the रेटिना.",
+      "tip_hi": "निकट दृष्टि दोष (मायोपिया) (Near-sighted) = अवतल लेंस; दूर दृष्टि दोष (हाइपरमेट्रोपिया) (Far-sighted) = उत्तल लेंस; अबिंदुकता (एस्टिग्मैटिज्म) = Cylindrical Lens."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who served as the first Premier (Prime Minister) of Bihar Province under the Government of India Act 1935 prior to the assumption of office by the Congress Ministry in July 1937?(",
+      "hi": "जुलाई 1937 में कांग्रेस मंत्रिमंडल के पदभार ग्रहण करने से पूर्व भारत शासन अधिनियम 1935 के तहत बिहार प्रांत के प्रथम प्रीमियर (प्रधानमंत्री) कौन बने थे?)",
+      "options": [
+        "Dr. Sri Krishna Singh",
+        "Mohammad Yunus",
+        "Sachchidananda Sinha",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mohammad Yunus",
+      "explanation": "When the Congress initially declined to form a government over the Governor's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 April 1937, serving until Sri Krishna Singh took oath on 20 July 1937.",
+      "tip": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress Chief Minister = Sri Krishna Singh.",
+      "id": 9,
+      "options_hi": [
+        "Dr. Sri Krishna Singh",
+        "Mohammad Yunus",
+        "Sachchidananda Sinha",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "When the Congress initially declined to form a government over the राज्यपाल's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 अप्रैल 1937, serving until Sri Krishna Singh took oath on 20 जुलाई 1937.",
+      "tip_hi": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress मुख्यमंत्री = Sri Krishna Singh."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "The rate of change of momentum of a body is directly proportional to the applied unbalanced force and takes place in the direction of the force. This represents",
+      "hi": "किसी वस्तु के संवेग परिवर्तन की दर उस पर लगाए गए असंतुलित बल के समानुपाती होती है तथा बल की दिशा में होती है। यह कथन व्यक्त करता है",
+      "options": [
+        "Newton's First Law of Motion",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Newton's Second Law of Motion",
+      "explanation": "Newton's Second Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction pairs.",
+      "tip": "1st Law = Definition of Force & Inertia; 2nd Law = Measure of Force (F = ma); 3rd Law = Action-Reaction.",
+      "id": 10,
+      "options_hi": [
+        "Newton's First Law of Motion",
+        "Newton's सेकंड Law of Motion",
+        "Newton's Third Law of Motion",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Newton's सेकंड Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction जोड़े.",
+      "tip_hi": "1st Law = Definition of Force & Inertia; 2nd Law = Measure of Force (F = ma); 3rd Law = Action-Reaction."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "What is the SI unit of electric charge?",
+      "hi": "विद्युत आवेश का SI मात्रक क्या है?",
+      "options": [
+        "Ampere",
+        "Coulomb",
+        "Volt",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Coulomb",
+      "explanation": "The SI unit of electric charge is the Coulomb (C), defined as the quantity of electricity transferred by a current of 1 ampere in 1 second (1 C = 1 A·s). Ampere is current, and Volt is electric potential.",
+      "tip": "Charge = Coulomb (C); Current = Ampere (A); Potential = Volt (V); Resistance = Ohm (Ω).",
+      "id": 11,
+      "options_hi": [
+        "Ampere",
+        "Coulomb",
+        "Volt",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The SI unit of electric charge is the Coulomb (C), defined as the quantity of electricity transferred by a current of 1 ampere in 1 सेकंड (1 C = 1 A·s). Ampere is current, and Volt is electric potential.",
+      "tip_hi": "Charge = Coulomb (C); Current = Ampere (A); Potential = Volt (V); Resistance = Ohm (Ω)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Under which Article of the Constitution of India is the Governor of a State empowered to promulgate Ordinances during the recess of the State Legislature?",
+      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत राज्य के राज्यपाल को विधानमंडल के विश्रांतिकाल में अध्यादेश प्रख्यापित करने की शक्ति प्राप्त है?",
+      "options": [
+        "Article 123",
+        "Article 213",
+        "Article 217",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Article 213",
+      "explanation": "Article 213 empowers the Governor to promulgate an Ordinance when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. President's ordinance power is under Article 123.",
+      "tip": "Ordinance Powers: President = Article 123; Governor = Article 213.",
+      "id": 12,
+      "options_hi": [
+        "अनुच्छेद 123",
+        "अनुच्छेद 213",
+        "अनुच्छेद 217",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 213 empowers the राज्यपाल to promulgate an अध्यादेश when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. राष्ट्रपति's अध्यादेश power is under अनुच्छेद 123.",
+      "tip_hi": "अध्यादेश Powers: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "The electric power consumed by an incandescent lamp rated 220 V, 100 W when operated on an electric supply of 110 V is",
+      "hi": "220 V, 100 W अंकित एक विद्युत बल्ब को जब 110 V की विद्युत आपूर्ति पर चलाया जाता है, तो इसके द्वारा उपभुक्त विद्युत शक्ति क्या होगी?",
+      "options": [
+        "50 W",
+        "25 W",
+        "75 W",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "25 W",
+      "explanation": "Resistance of filament = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. When operated at V' = 110 V, Power P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W.",
+      "tip": "When voltage is halved (220V to 110V), power becomes (1/2)^2 = 1/4th of rated power = 100 / 4 = 25 W.",
+      "id": 13,
+      "options_hi": [
+        "50 W",
+        "25 W",
+        "75 W",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Resistance of filament = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. When operated at V' = 110 V, Power P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W.",
+      "tip_hi": "When voltage is halved (220V to 110V), power becomes (1/2)^2 = 1/4th of rated power = 100 / 4 = 25 W."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Who served as the prominent editor of the nationalist English daily newspaper 'The Searchlight' published from Patna during the freedom movement?",
+      "hi": "स्वतंत्रता आंदोलन के दौरान पटना से प्रकाशित राष्ट्रवादी अंग्रेजी दैनिक समाचार पत्र 'द सर्चलाइट' के प्रमुख संपादक कौन रहे?",
+      "options": [
+        "Syed Haider Hussain",
+        "Murli Manohar Prasad",
+        "Mahesh Narayan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Murli Manohar Prasad",
+      "explanation": "Founded in 1918 by Dr. Rajendra Prasad and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
+      "tip": "'The Searchlight' editor = Murli Manohar Prasad; 'The Motherland' founder = Mazharul Haque.",
+      "id": 14,
+      "options_hi": [
+        "Syed Haider Hussain",
+        "Murli Manohar Prasad",
+        "Mahesh Narayan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Founded in 1918 by डॉ. राजेंद्र प्रसाद and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
+      "tip_hi": "'The Searchlight' editor = Murli Manohar Prasad; 'The Motherland' founder = Mazharul Haque."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "In which decisive battle fought on 22 October 1764 did the British East India Company forces under Major Hector Munro defeat the combined armies of Mir Qasim, Shuja-ud-Daula, and Emperor Shah Alam II?",
+      "hi": "22 अक्टूबर 1764 को लड़े गए किस निर्णायक युद्ध में मेजर हेक्टर मुनरो के नेतृत्व में ईस्ट इंडिया कंपनी की सेना ने मीर कासिम, शुजाउद्दौला और शाह आलम द्वितीय की संयुक्त सेना को पराजित किया था?",
+      "options": [
+        "Battle of Plassey",
+        "Battle of Buxar",
+        "Battle of Wandiwash",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Battle of Buxar",
+      "explanation": "The Battle of Buxar established sovereign British administrative supremacy over northern India, leading directly to the Treaty of Allahabad (1765) granting Diwani rights of Bengal, Bihar, and Orissa to Robert Clive.",
+      "tip": "Battle of Buxar = 22 October 1764 (Major Hector Munro vs Mir Qasim + Shuja-ud-Daula + Shah Alam II).",
+      "id": 15,
+      "options_hi": [
+        "Battle of Plassey",
+        "Battle of Buxar",
+        "Battle of Wandiwash",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The Battle of Buxar established sovereign British administrative supremacy over northern India, leading directly to the Treaty of Allahabad (1765) granting Diwani rights of Bengal, Bihar, and Orissa to Robert Clive.",
+      "tip_hi": "Battle of Buxar = 22 अक्टूबर 1764 (Major Hector Munro vs Mir Qasim + Shuja-ud-Daula + Shah Alam II)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "In the Battle of Plassey (1757), Nawab Siraj-ud-Daulah was betrayed by which commander-in-chief of his armed forces?(",
+      "hi": "प्लासी के युद्ध (1757) में नवाब सिराजुद्दौला के साथ उसके किस प्रधान सेनापति ने विश्वासघात किया था?)",
+      "options": [
+        "Mir Madan",
+        "Mir Jafar",
+        "Mohan Lal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mir Jafar",
+      "explanation": "In the Battle of Plassey on 23 June 1757, Mir Jafar (Mir Bakshi) conspired with Robert Clive and kept the major portion of the Nawab's troops standing inactive on the battlefield, leading to Siraj-ud-Daulah's defeat.",
+      "tip": "Battle of Plassey (23 June 1757) = Robert Clive vs Siraj-ud-Daulah; Traitor = Mir Jafar.",
+      "id": 16,
+      "options_hi": [
+        "Mir Madan",
+        "Mir Jafar",
+        "Mohan Lal",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In the Battle of Plassey on 23 जून 1757, Mir Jafar (Mir Bakshi) conspired with Robert Clive and kept the major portion of the Nawab's troops standing inactive on the battlefield, leading to Siraj-ud-Daulah's defeat.",
+      "tip_hi": "Battle of Plassey (23 जून 1757) = Robert Clive vs Siraj-ud-Daulah; Traitor = Mir Jafar."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Who was hailed by British military commanders as the 'Lighthouse of Rebellion' during the 1857 Uprising for his fierce armed defence of Faizabad?",
+      "hi": "1857 के विद्रोह के दौरान फैजाबाद में अपने प्रबल प्रतिरोध के लिए ब्रिटिश सैन्य अधिकारियों द्वारा 'विद्रोह का प्रकाश स्तंभ' किसे कहा गया था?",
+      "options": [
+        "Bakht Khan",
+        "Maulvi Ahmadullah Shah",
+        "Khan Bahadur Khan",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Maulvi Ahmadullah Shah",
+      "explanation": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir Henry Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.",
+      "tip": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = Babu Kunwar Singh.",
+      "id": 17,
+      "options_hi": [
+        "Bakht Khan",
+        "Maulvi Ahmadullah Shah",
+        "Khan Bahadur Khan",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir हेनरी Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.",
+      "tip_hi": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = बाबू कुंवर सिंह."
+    }
+  ]
+}

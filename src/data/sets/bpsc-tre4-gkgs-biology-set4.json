@@ -1,0 +1,335 @@
+{
+  "id": "bpsc-tre4-gkgs-biology-set4",
+  "title": "General Science: Biology Set 4 (12Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Biology",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 12,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which hormone is secreted by the adrenal medulla during stress or fear, preparing the body for 'Fight or Flight' response?(",
+      "hi": "तनाव या भय की स्थिति में अधिवृक्क मज्जा (Adrenal Medulla) से कौन-सा हार्मोन स्रावित होता है जो शरीर को 'लड़ो या भागो' (Fight or Flight) प्रतिक्रिया के लिए तैयार करता है?)",
+      "options": [
+        "Thyroxine",
+        "Adrenaline (Epinephrine)",
+        "Insulin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Adrenaline (Epinephrine)",
+      "explanation": "Adrenaline (epinephrine) increases heart rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the liver to release glucose rapidly into the bloodstream during acute emergencies.",
+      "tip": "Emergency hormone / 3F hormone (Fight, Flight, Fright) = Adrenaline.",
+      "id": 1,
+      "options_hi": [
+        "Thyroxine",
+        "Adrenaline (Epinephrine)",
+        "Insulin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Adrenaline (epinephrine) increases हृदय rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the यकृत (लीवर) to release glucose rapidly into the bloodstream के दौरान acute emergencies.",
+      "tip_hi": "Emergency hormone / 3F hormone (Fight, Flight, Fright) = Adrenaline."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "What is the normal physiological pH range of arterial human blood?(",
+      "hi": "मानव धमनी रक्त का सामान्य शारीरिक pH परास (Range) क्या होता है?)",
+      "options": [
+        "6.5 to 6.8",
+        "7.35 to 7.45",
+        "7.8 to 8.2",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7.35 to 7.45",
+      "explanation": "Human blood is slightly alkaline, tightly regulated between pH 7.35 and 7.45 by the carbonic acid-bicarbonate buffer system (H2CO3 / HCO3-) and respiratory compensation by the lungs.",
+      "tip": "Human blood pH = 7.35 to 7.45 (slightly alkaline).",
+      "id": 2,
+      "options_hi": [
+        "6.5 to 6.8",
+        "7.35 to 7.45",
+        "7.8 to 8.2",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Human blood is slightly alkaline, tightly regulated between pH 7.35 and 7.45 by the carbonic acid-bicarbonate buffer system (H2CO3 / HCO3-) and respiratory compensation by the फेफड़े.",
+      "tip_hi": "Human blood pH = 7.35 to 7.45 (slightly alkaline)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Mahatma Gandhi presided over the annual session of the Indian National Congress only once. Where and in which year was this historic session held?",
+      "hi": "महात्मा गांधी ने केवल एक बार भारतीय राष्ट्रीय कांग्रेस के वार्षिक अधिवेशन की अध्यक्षता की थी। यह ऐतिहासिक अधिवेशन कहाँ और किस वर्ष आयोजित हुआ था?",
+      "options": [
+        "1920 Calcutta Session",
+        "1924 Belgaum Session",
+        "1931 Karachi Session",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1924 Belgaum Session",
+      "explanation": "Mahatma Gandhi presided over the 39th Session of the Indian National Congress at Belgaum (now Belagavi, Karnataka) in December 1924. This was the only INC session ever presided over by Gandhi.",
+      "tip": "Only Congress session presided by Mahatma Gandhi = 1924 Belgaum Session (Karnataka).",
+      "id": 3,
+      "options_hi": [
+        "1920 Calcutta Session",
+        "1924 Belgaum Session",
+        "1931 Karachi Session",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "महात्मा गांधी presided over the 39th Session of the Indian National Congress at Belgaum (now Belagavi, Karnataka) in दिसम्बर 1924. This was the only INC session ever presided over by Gandhi.",
+      "tip_hi": "Only Congress session presided by महात्मा गांधी = 1924 Belgaum Session (Karnataka)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which district in Bihar borders both the State of West Bengal and the international border of the country of Nepal?",
+      "hi": "बिहार का कौन-सा जिला पश्चिम बंगाल राज्य और नेपाल देश दोनों के साथ सीमा साझा करता है?",
+      "options": [
+        "Araria",
+        "Kishanganj",
+        "Supaul",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kishanganj",
+      "explanation": "Kishanganj, located at the eastern tip of Bihar (part of the Siliguri corridor area), borders Nepal to its north and West Bengal (Darjeeling and Uttar Dinajpur districts) to its east.",
+      "tip": "Borders both Nepal and West Bengal = Kishanganj; Borders both Nepal and UP = West Champaran.",
+      "id": 4,
+      "options_hi": [
+        "Araria",
+        "Kishanganj",
+        "Supaul",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kishanganj, located at the eastern tip of Bihar (part of the Siliguri corridor area), borders Nepal to its उत्तर and पश्चिम Bengal (Darjeeling and Uttar Dinajpur districts) to its पूर्व.",
+      "tip_hi": "Borders both Nepal and पश्चिम Bengal = Kishanganj; Borders both Nepal and UP = पश्चिम Champaran."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "What is the primary function of the enzyme 'Pepsin' secreted in the human stomach?",
+      "hi": "मानव आमाशय में स्रावित होने वाले एंजाइम 'पेप्सिन' का मुख्य कार्य क्या है?",
+      "options": [
+        "Emulsification of fats",
+        "Digestion of dietary proteins into peptones and proteoses in an acidic medium",
+        "Breakdown of starches into maltose",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Digestion of dietary proteins into peptones and proteoses in an acidic medium",
+      "explanation": "Gastric chief cells secrete pepsinogen, which is activated into pepsin by hydrochloric acid (HCl, pH ~1.5 to 2.0). Pepsin cleaves complex dietary proteins into shorter peptides (proteoses and peptones).",
+      "tip": "Protein digestion enzymes: Stomach (acidic) = Pepsin; Pancreas/Small intestine (alkaline) = Trypsin.",
+      "id": 5,
+      "options_hi": [
+        "Emulsification of fats",
+        "पाचन of dietary proteins into peptones and proteoses in an अम्लीय medium",
+        "Breakdown of starches into maltose",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gastric chief cells secrete pepsinogen, जो कि activated into पेप्सिन by हाइड्रोक्लोरिक अम्ल (HCl) (HCl, pH ~1.5 to 2.0). पेप्सिन cleaves complex dietary proteins into shorter peptides (proteoses and peptones).",
+      "tip_hi": "Protein पाचन enzymes: आमाशय (पेट) (अम्लीय) = पेप्सिन; अग्न्याशय/छोटी आंत (alkaline) = ट्रिप्सिन."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Who is the uncle of D?",
+      "hi": "A, B का भाई है। C, A का पिता है। D, E का भाई है। E, B की पुत्री है। D का चाचा/मामा कौन है?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "A",
+      "explanation": "E is daughter of B, and D is brother of E, so D is the son of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.",
+      "tip": "Brother of parent (B) is A, so A is the uncle of D.",
+      "id": 6,
+      "options_hi": [
+        "A",
+        "B",
+        "C",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "E is daughter of B, and D is brother of E, so D is the सोन नदी of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.",
+      "tip_hi": "Brother of parent (B) is A, so A is the uncle of D."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which endocrine hormone is secreted by the beta cells of the Islets of Langerhans in the pancreas to lower elevated blood glucose levels?(",
+      "hi": "रक्त में शर्करा (ग्लूकोज) के उच्च स्तर को कम करने के लिए अग्न्याशय के लैंगरहैंस के द्वीप की बीटा कोशिकाओं द्वारा कौन-सा हार्मोन स्रावित होता है?)",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Somatostatin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Insulin",
+      "explanation": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the liver. In contrast, alpha cells secrete glucagon to raise blood glucose.",
+      "tip": "Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar).",
+      "id": 7,
+      "options_hi": [
+        "Glucagon",
+        "Insulin",
+        "Somatostatin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the यकृत (लीवर). In contrast, alpha cells secrete glucagon to raise blood glucose.",
+      "tip_hi": "Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Which toxic chemical gas leaked from the Union Carbide pesticide plant causing the horrific Bhopal Gas Tragedy on the night of 2-3 December 1984?",
+      "hi": "2-3 दिसंबर 1984 की रात भोपाल गैस त्रासदी में यूनियन कार्बाइड कारखाने से कौन-सी अत्यधिक जहरीली गैस का रिसाव हुआ था?",
+      "options": [
+        "Phosgene",
+        "Methyl Isocyanate (MIC)",
+        "Hydrogen Cyanide",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Methyl Isocyanate (MIC)",
+      "explanation": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.",
+      "tip": "Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO).",
+      "id": 8,
+      "options_hi": [
+        "Phosgene",
+        "Methyl Isocyanate (MIC)",
+        "Hydrogen Cyanide",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.",
+      "tip_hi": "Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under the oppressive 'Tinkathia System' prevalent in Champaran prior to 1917, tenant farmers were legally compelled by European planters to cultivate indigo on what proportion of their holding?",
+      "hi": "1917 से पूर्व चंपारण में प्रचलित दमनकारी 'तिनकठिया प्रणाली' के तहत किसानों को अपनी कुल कृषि भूमि के कितने भाग पर नील की खेती करने के लिए कानूनी रूप से बाध्य किया जाता था?",
+      "options": [
+        "1/20th part",
+        "3/20th part (3 kathas per bigha)",
+        "5/20th part",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3/20th part (3 kathas per bigha)",
+      "explanation": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).",
+      "tip": "Tinkathia = 3 kathas per bigha = 3/20th of land holding.",
+      "id": 9,
+      "options_hi": [
+        "आधा (आधा (आधा (1/2)))0वां part",
+        "3/20वां part (3 kathas per bigha)",
+        "5/20वां part",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).",
+      "tip_hi": "Tinkathia = 3 kathas per bigha = 3/20th of land holding."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Kahalgaon Super Thermal Power Station (KhSTPP), a major coal-fired power station of NTPC, is located in which district of Bihar?",
+      "hi": "एनटीपीसी का प्रमुख कोयला आधारित विद्युत संयंत्र 'कहलगांव सुपर थर्मल पावर स्टेशन' बिहार के किस जिले में स्थित है?",
+      "options": [
+        "Begusarai",
+        "Bhagalpur",
+        "Banka",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bhagalpur",
+      "explanation": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.",
+      "tip": "Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC).",
+      "id": 10,
+      "options_hi": [
+        "Begusarai",
+        "Bhagalpur",
+        "Banka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.",
+      "tip_hi": "Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "Under which Article can the President of India proclaim a 'National Emergency' on the grounds of war, external aggression, or armed rebellion?",
+      "hi": "युद्ध, बाह्य आक्रमण या सशस्त्र विद्रोह के आधार पर भारत के राष्ट्रपति किस अनुच्छेद के तहत 'राष्ट्रीय आपातकाल' की घोषणा कर सकते हैं?",
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Article 352",
+      "explanation": "Article 352 governs National Emergency. (Article 356 provides for President's Rule in States due to constitutional failure, and Article 360 provides for Financial Emergency).",
+      "tip": "Emergency provisions: Article 352 = National; Article 356 = State (President's Rule); Article 360 = Financial.",
+      "id": 11,
+      "options_hi": [
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनुच्छेद 352 governs National Emergency. (अनुच्छेद 356 provides for राष्ट्रपति's Rule in States due to constitutional failure, and अनुच्छेद 360 provides for Financial Emergency).",
+      "tip_hi": "Emergency provisions: अनुच्छेद 352 = National; अनुच्छेद 356 = State (राष्ट्रपति's Rule); अनुच्छेद 360 = Financial."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "In which year was the comprehensive environmental mission 'Jal-Jeevan-Hariyali' officially launched by the Government of Bihar?",
+      "hi": "बिहार सरकार द्वारा पर्यावरण संरक्षण हेतु महत्वाकांक्षी अभियान 'जल-जीवन-हरियाली' किस वर्ष आधिकारिक रूप से शुरू किया गया था?",
+      "options": [
+        "2017",
+        "2019",
+        "2021",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2019",
+      "explanation": "Launched on 2 October 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.",
+      "tip": "Jal-Jeevan-Hariyali launched = 2 October 2019 (Focus: Water conservation & tree plantation).",
+      "id": 12,
+      "options_hi": [
+        "2017",
+        "2019",
+        "2021",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Launched on 2 अक्टूबर 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.",
+      "tip_hi": "Jal-Jeevan-Hariyali launched = 2 अक्टूबर 2019 (Focus: Water conservation & tree plantation)."
+    }
+  ]
+}

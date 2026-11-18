@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-gkgs-chemistry-set3",
+  "title": "General Science: Chemistry Set 3 (25Q)",
+  "section": "gk_gs",
+  "section_name": "Part-II General Studies (40 Marks)",
+  "subject": "General Science: Chemistry",
+  "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 - Middle School Science",
+      "en": "What is the chemical formula of bleaching powder?(",
+      "hi": "ब्लीचिंग पाउडर (विरंजक चूर्ण) का रासायनिक सूत्र क्या है?)",
+      "options": [
+        "CaSO4·2H2O",
+        "CaOCl2",
+        "NaHCO3",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "CaOCl2",
+      "explanation": "Bleaching powder is chemically calcium oxychloride (CaOCl2), manufactured by reacting dry slaked lime with chlorine gas: Ca(OH)2 + Cl2 -> CaOCl2 + H2O.",
+      "tip": "Plaster of Paris = CaSO4·1/2H2O; Gypsum = CaSO4·2H2O; Baking Soda = NaHCO3; Bleaching Powder = CaOCl2.",
+      "id": 1,
+      "options_hi": [
+        "CaSO4·2H2O",
+        "CaOCl2",
+        "NaHCO3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ब्लीचिंग पाउडर (CaOCl2) is chemically calcium oxychloride (CaOCl2), manufactured by reacting dry slaked lime with chlorine gas: Ca(OH)2 + Cl2 -> CaOCl2 + H2O.",
+      "tip_hi": "प्लास्टर ऑफ पेरिस = CaSO4·1/2H2O; जिप्सम = CaSO4·2H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; ब्लीचिंग पाउडर (CaOCl2) = CaOCl2."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Senior Secondary Chemistry",
+      "en": "The chemical formula of washing soda is(",
+      "hi": "धावन सोडा (वाशिंग सोडा) का रासायनिक सूत्र है)",
+      "options": [
+        "Na2CO3·10H2O",
+        "NaHCO3",
+        "NaOH",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Na2CO3·10H2O",
+      "explanation": "Washing soda is sodium carbonate decahydrate (Na2CO3·10H2O), containing 10 molecules of water of crystallization. Anhydrous sodium carbonate (Na2CO3) is termed soda ash.",
+      "tip": "Washing Soda = Na2CO3·10H2O; Baking Soda = NaHCO3; Caustic Soda = NaOH.",
+      "id": 2,
+      "options_hi": [
+        "Na2CO3·10H2O",
+        "NaHCO3",
+        "NaOH",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "धावन सोडा (Na2CO3·10H2O) is सोडियम कार्बोनेट decahydrate (Na2CO3·10H2O), containing 10 molecules of water of crystallization. Anhydrous सोडियम कार्बोनेट (Na2CO3) is termed soda ash.",
+      "tip_hi": "धावन सोडा (Na2CO3·10H2O) = Na2CO3·10H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; Caustic Soda = NaOH."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Middle School Science",
+      "en": "The image formed by the convex lens of the human eye on the retina is",
+      "hi": "मानव नेत्र के उत्तल लेंस द्वारा रेटिना पर बनने वाला प्रतिबिंब होता है",
+      "options": [
+        "Virtual and erect",
+        "Real and inverted",
+        "Real and erect",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Real and inverted",
+      "explanation": "The converging eye lens projects a real, inverted, and diminished image onto the photosensitive retina, which the brain's visual cortex perceives as upright.",
+      "tip": "The retinal optical image is always real and inverted; brain processing renders it upright.",
+      "id": 3,
+      "options_hi": [
+        "Virtual and erect",
+        "Real and inverted",
+        "Real and erect",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The converging eye lens projects a real, inverted, and diminished image onto the photosensitive रेटिना, which the brain's visual cortex perceives as upright.",
+      "tip_hi": "The retinal optical image is always real and inverted; brain processing renders it upright."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT Science",
+      "en": "Brass is an alloy composed of(",
+      "hi": "पीतल (Brass) एक मिश्रधातु है, जो बनी होती है)",
+      "options": [
+        "Copper and Tin",
+        "Copper and Zinc",
+        "Lead and Tin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Copper and Zinc",
+      "explanation": "Brass is a non-ferrous alloy of Copper (approx. 70%) and Zinc (approx. 30%). Bronze is an alloy of Copper and Tin.",
+      "tip": "Memory trick: Brass = Cu + Zn (पीतल); Bronze = Cu + Sn (कांसा); Solder = Pb + Sn (टांका).",
+      "id": 4,
+      "options_hi": [
+        "Copper and Tin",
+        "Copper and Zinc",
+        "Lead and Tin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पीतल (तांबा + जस्ता) is a non-ferrous alloy of Copper (approx. 70%) and Zinc (approx. 30%). कांस्य (तांबा + टिन) is an alloy of Copper and Tin.",
+      "tip_hi": "Memory trick: पीतल (तांबा + जस्ता) = Cu + Zn (पीतल); कांस्य (तांबा + टिन) = Cu + Sn (कांसा); सोल्डर (सीसा + टिन) = Pb + Sn (टांका)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Headmaster Examination",
+      "en": "What is the total geographical area of the State of Bihar?",
+      "hi": "बिहार राज्य का कुल भौगोलिक क्षेत्रफल कितना है?",
+      "options": [
+        "94,163 sq km",
+        "84,210 sq km",
+        "104,320 sq km",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "94,163 sq km",
+      "explanation": "The total area of Bihar is 94,163 square kilometres, which constitutes approximately 2.86% of India's total geographical area, ranking it 12th by land area in India.",
+      "tip": "Bihar area: 94,163 sq km; 2.86% of India; 3rd largest State by population (Census 2011).",
+      "id": 5,
+      "options_hi": [
+        "94,163 sq किमी",
+        "84,210 sq किमी",
+        "104,320 sq किमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The total area of Bihar is 94,163 square kilometres, which constitutes approximately 2.86% of India's total geographical area, ranking it 12th by land area in India.",
+      "tip_hi": "Bihar area: 94,163 sq किमी; 2.86% of India; 3rd largest State by population (जनगणना 2011)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Pointing to a photograph, a woman says, 'He is the only son of the wife of my husband's father.' How is the man related to the woman?",
+      "hi": "एक तस्वीर की ओर इशारा करते हुए एक महिला कहती है, 'वह मेरे पति के पिता की पत्नी का एकमात्र पुत्र है।' वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+      "options": [
+        "Brother-in-law",
+        "Husband",
+        "Father-in-law",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Husband",
+      "explanation": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only son of mother-in-law is the woman's husband.",
+      "tip": "'Only son of my husband's mother/father' always refers directly to the husband.",
+      "id": 6,
+      "options_hi": [
+        "Brother-in-law",
+        "Husband",
+        "Father-in-law",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only सोन नदी of mother-in-law is the woman's husband.",
+      "tip_hi": "'Only सोन नदी of my husband's mother/father' always refers directly to the husband."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which acid is injected into human skin during an ant sting causing acute burning pain and irritation?",
+      "hi": "चींटी के डंक में कौन-सा अम्ल पाया जाता है जो जलन और दर्द उत्पन्न करता है?",
+      "options": [
+        "Oxalic acid",
+        "Formic acid (Methanoic acid)",
+        "Tartaric acid",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Formic acid (Methanoic acid)",
+      "explanation": "Ant stings inject methanoic acid (common name formic acid, HCOOH). It is neutralized by applying mild basic substances such as baking soda (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
+      "tip": "Formic acid = Ant sting; Vinegar = Acetic acid; Tomato = Oxalic acid; Tamarind = Tartaric acid.",
+      "id": 7,
+      "options_hi": [
+        "ऑक्सालिक अम्ल",
+        "फॉर्मिक अम्ल (Methanoic acid)",
+        "टार्टरिक अम्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ant stings inject methanoic acid (common name फॉर्मिक अम्ल, HCOOH). It is neutralized by applying mild क्षारीय substances such as बेकिंग सोडा (NaHCO3) (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
+      "tip_hi": "फॉर्मिक अम्ल = Ant sting; Vinegar = एसिटिक अम्ल; Tomato = ऑक्सालिक अम्ल; Tamarind = टार्टरिक अम्ल."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "What is the chemical formula of Plaster of Paris?",
+      "hi": "प्लास्टर ऑफ पेरिस का रासायनिक सूत्र क्या है?",
+      "options": [
+        "CaSO4 · 2H2O",
+        "CaSO4 · 1/2H2O",
+        "CaSO4 · H2O",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "CaSO4 · 1/2H2O",
+      "explanation": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating gypsum (CaSO4 · 2H2O) at 373 K (100°C).",
+      "tip": "Gypsum = dihydrate (2H2O); Plaster of Paris = hemihydrate (1/2 H2O).",
+      "id": 8,
+      "options_hi": [
+        "CaSO4 · 2H2O",
+        "CaSO4 · आधा (आधा (आधा (1/2)))H2O",
+        "CaSO4 · H2O",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्लास्टर ऑफ पेरिस is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating जिप्सम (CaSO4 · 2H2O) at 373 K (100°C).",
+      "tip_hi": "जिप्सम = dihydrate (2H2O); प्लास्टर ऑफ पेरिस = hemihydrate (1/2 H2O)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Galvanization is the process of applying a protective coating of which metal onto iron or steel to prevent rusting?(",
+      "hi": "लोहे या इस्पात को जंग से बचाने के लिए उस पर किस धातु की परत चढ़ाने की प्रक्रिया को गैल्वनीकरण (यशदलेपन) कहते हैं?)",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Tin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Zinc",
+      "explanation": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode because it oxidizes preferentially over iron.",
+      "tip": "Galvanization = Zinc (Zn) coating on Iron (Fe).",
+      "id": 9,
+      "options_hi": [
+        "Copper",
+        "Zinc",
+        "Tin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode क्योंकि it oxidizes preferentially over iron.",
+      "tip_hi": "Galvanization = Zinc (Zn) coating on Iron (Fe)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which Constitutional Amendment Act reduced the voting age for citizens of India from 21 years to 18 years?",
+      "hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय नागरिकों के लिए मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी?",
+      "options": [
+        "44th Constitutional Amendment Act",
+        "61st Constitutional Amendment Act",
+        "73rd Constitutional Amendment Act",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "61st Constitutional Amendment Act",
+      "explanation": "The 61st Constitutional Amendment Act of 1988 amended Article 326 of the Constitution, lowering the voting age from 21 to 18 years. It came into force on 28 March 1989 under Rajiv Gandhi's government.",
+      "tip": "Voting age reduction (21 to 18) = 61st Amendment 1988 (Article 326).",
+      "id": 10,
+      "options_hi": [
+        "44वां संविधान संशोधन अधिनियम",
+        "61st संविधान संशोधन अधिनियम",
+        "73rd संविधान संशोधन अधिनियम",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The 61st संविधान संशोधन अधिनियम of 1988 amended अनुच्छेद 326 of the Constitution, lowering the voting age from 21 to 18 वर्ष. It came into force on 28 मार्च 1989 under Rajiv Gandhi's government.",
+      "tip_hi": "Voting age reduction (21 to 18) = 61st संशोधन 1988 (अनुच्छेद 326)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which non-metal is in liquid state at standard room temperature (25°C)?(",
+      "hi": "मानक कमरे के तापमान (25°C) पर कौन-सा अधातु द्रव अवस्था में रहता है?)",
+      "options": [
+        "Mercury",
+        "Bromine",
+        "Chlorine",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Bromine",
+      "explanation": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.",
+      "tip": "Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br).",
+      "id": 11,
+      "options_hi": [
+        "Mercury",
+        "Bromine",
+        "Chlorine",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.",
+      "tip_hi": "Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br)."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "During the Salt Satyagraha of 1930 in Patna, which historic location was chosen by the local leaders to manufacture salt and defy colonial law?",
+      "hi": "1930 के नमक सत्याग्रह के दौरान पटना में स्थानीय नेताओं द्वारा नमक बनाने और औपनिवेशिक कानून की अवज्ञा के लिए किस ऐतिहासिक स्थल को चुना गया था?",
+      "options": [
+        "Gandhi Maidan",
+        "Nakhas Pond (नखास पिंड)",
+        "Sadaqat Ashram",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nakhas Pond (नखास पिंड)",
+      "explanation": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 April 1930 to manufacture salt and inaugurate the civil disobedience movement.",
+      "tip": "Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha.",
+      "id": 12,
+      "options_hi": [
+        "Gandhi Maidan",
+        "Nakhas Pond (नखास पिंड)",
+        "Sadaqat Ashram",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 अप्रैल 1930 to manufacture salt and inaugurate the civil disobedience movement.",
+      "tip_hi": "Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha."
+    },
+    {
+      "source": "BPSC TRE 3.0 - PRT & Middle School GS",
+      "en": "Which river in Bihar is infamously referred to as the 'Sorrow of Bihar' due to its frequent avulsion and catastrophic floodings?",
+      "hi": "बिहार की किस नदी को उसके मार्ग परिवर्तन और विनाशकारी बाढ़ के कारण 'बिहार का शोक' कहा जाता है?",
+      "options": [
+        "Gandak River",
+        "Kosi River",
+        "Bagmati River",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Kosi River",
+      "explanation": "The Kosi River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 km over 250 years, causing repeated disasters.",
+      "tip": "Sorrow of Bihar = Kosi; Sorrow of Bengal = Damodar.",
+      "id": 13,
+      "options_hi": [
+        "गंडक नदी River",
+        "कोसी नदी River",
+        "Bagmati River",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The कोसी नदी River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 किमी over 250 वर्ष, causing repeated disasters.",
+      "tip_hi": "Sorrow of Bihar = कोसी नदी; Sorrow of Bengal = Damodar."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "What is the chemical name and formula of ordinary baking soda used in cooking?",
+      "hi": "रसोई में प्रयुक्त होने वाले साधारण बेकिंग सोडा का रासायनिक नाम और सूत्र क्या है?",
+      "options": [
+        "Sodium Carbonate, Na2CO3",
+        "Sodium Hydrogen Carbonate, NaHCO3",
+        "Calcium Carbonate, CaCO3",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sodium Hydrogen Carbonate, NaHCO3",
+      "explanation": "Baking soda is sodium bicarbonate / sodium hydrogen carbonate, NaHCO3. When heated during baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
+      "tip": "Baking Soda = NaHCO3 (Bicarbonate); Washing Soda = Na2CO3 · 10H2O.",
+      "id": 14,
+      "options_hi": [
+        "सोडियम कार्बोनेट, Na2CO3",
+        "Sodium Hydrogen Carbonate, NaHCO3",
+        "कैल्शियम कार्बोनेट (CaCO3), CaCO3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बेकिंग सोडा (NaHCO3) is सोडियम बाइकार्बोनेट / sodium hydrogen carbonate, NaHCO3. When heated के दौरान baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
+      "tip_hi": "बेकिंग सोडा (NaHCO3) = NaHCO3 (Bicarbonate); धावन सोडा (Na2CO3·10H2O) = Na2CO3 · 10H2O."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Who among the following was martyred by hanging for assassinating Phanindra Nath Ghosh, the government approver in the Lahore Conspiracy Case?",
+      "hi": "लाहौर षड्यंत्र केस के सरकारी गवाह फणीन्द्र नाथ घोष की हत्या करने के कारण निम्नलिखित में से किसे फांसी की सजा दी गई थी?",
+      "options": [
+        "Batukeshwar Dutt",
+        "Baikunth Shukla",
+        "Jogendra Shukla",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Baikunth Shukla",
+      "explanation": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in November 1932 to avenge the martyrdom of Bhagat Singh, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 May 1934.",
+      "tip": "Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934).",
+      "id": 15,
+      "options_hi": [
+        "Batukeshwar Dutt",
+        "Baikunth Shukla",
+        "Jogendra Shukla",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in नवम्बर 1932 to avenge the martyrdom of भगत सिंह, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 मई 1934.",
+      "tip_hi": "Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
+      "en": "Which famous freshwater lake in Jammu and Kashmir is celebrated as the largest natural freshwater lake in India?",
+      "hi": "जम्मू और कश्मीर में स्थित कौन-सी प्रसिद्ध झील भारत की सबसे बड़ी प्राकृतिक मीठे पानी की झील मानी जाती है?",
+      "options": [
+        "Dal Lake",
+        "Wular Lake",
+        "Pangong Tso",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Wular Lake",
+      "explanation": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.",
+      "tip": "Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha).",
+      "id": 16,
+      "options_hi": [
+        "Dal Lake",
+        "Wular Lake",
+        "Pangong Tso",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.",
+      "tip_hi": "Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Rusting of an iron nail in moist air is an example of which type of transformation?",
+      "hi": "नम वायु में लोहे की कील पर जंग लगना किस प्रकार के परिवर्तन का उदाहरण है?",
+      "options": [
+        "Physical change only",
+        "Chemical change involving oxidation",
+        "Reversible thermal change",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Chemical change involving oxidation",
+      "explanation": "Rusting is an irreversible chemical oxidation reaction where iron reacts with atmospheric oxygen in the presence of water to form hydrated ferric oxide: 4Fe + 3O2 + 2xH2O -> 2Fe2O3 · xH2O. It increases the mass of the iron object.",
+      "tip": "Rusting is a chemical change, oxidation reaction, and increases the weight of iron.",
+      "id": 17,
+      "options_hi": [
+        "Physical change only",
+        "Chemical change involving oxidation",
+        "Reversible thermal change",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rusting is an irreversible chemical oxidation reaction where iron reacts with atmospheric oxygen in the presence of water to form hydrated ferric oxide: 4Fe + 3O2 + 2xH2O -> 2Fe2O3 · xH2O. It increases the mass of the iron object.",
+      "tip_hi": "Rusting is a chemical change, oxidation reaction, and increases the weight of iron."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which chemical compound is commonly used in laboratory fire extinguishers and baked goods as a leavening agent?",
+      "hi": "अग्निशामक यंत्रों और बेकरी उत्पादों में खमीर उठाने के लिए आमतौर पर किस रासायनिक यौगिक का उपयोग किया जाता है?",
+      "options": [
+        "Calcium hydroxide",
+        "Sodium bicarbonate",
+        "Ammonium chloride",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sodium bicarbonate",
+      "explanation": "Sodium bicarbonate (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.",
+      "tip": "Sodium bicarbonate = Fire extinguishers + Baking soda.",
+      "id": 18,
+      "options_hi": [
+        "कैल्शियम हाइड्रॉक्साइड (बुझा हुआ चूना)",
+        "सोडियम बाइकार्बोनेट",
+        "Ammonium chloride",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.",
+      "tip_hi": "सोडियम बाइकार्बोनेट = Fire extinguishers + बेकिंग सोडा (NaHCO3)."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "Which law of physics explains the working principle of hydraulic brakes and hydraulic presses?",
+      "hi": "भौतिकी का कौन-सा नियम हाइड्रोलिक ब्रेक और हाइड्रोलिक प्रेस के कार्य सिद्धांत की व्याख्या करता है?",
+      "options": [
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Principle",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pascal's Law",
+      "explanation": "Pascal's Principle states that pressure applied to an enclosed, incompressible fluid is transmitted undiminished equally in all directions throughout the fluid and to the walls of its container.",
+      "tip": "Hydraulic lift / brakes = Pascal's Law; Aeroplane wing lift = Bernoulli's Principle; Buoyancy = Archimedes' Principle.",
+      "id": 19,
+      "options_hi": [
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Bernoulli's Principle",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pascal's Principle states that pressure applied to an enclosed, incompressible fluid is transmitted undiminished equally in all directions throughout the fluid and to the walls of its container.",
+      "tip_hi": "Hydraulic lift / brakes = Pascal's Law; Aeroplane wing lift = Bernoulli's Principle; Buoyancy = Archimedes' Principle."
+    },
+    {
+      "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
+      "en": "In which year was the 'Bihar Caste-based Survey 2022-23' (जाति आधारित गणना) formally notified and conducted by the Government of Bihar?",
+      "hi": "बिहार सरकार द्वारा 'बिहार जाति आधारित गणना 2022-23' किस वर्ष अधिसूचित और संपन्न की गई?",
+      "options": [
+        "2021",
+        "2023",
+        "2024",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2023",
+      "explanation": "Conducted in two phases during 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 October 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
+      "tip": "Bihar Caste Survey released on 2 October 2023: EBC (36%) + OBC (27%) = 63% total backward classes.",
+      "id": 20,
+      "options_hi": [
+        "2021",
+        "2023",
+        "2024",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Conducted in two phases के दौरान 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 अक्टूबर 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
+      "tip_hi": "Bihar Caste Survey released on 2 अक्टूबर 2023: EBC (36%) + OBC (27%) = 63% total backward classes."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "Which chemical element in the periodic table has the highest electronegativity value on the Pauling scale?(",
+      "hi": "आवर्त सारणी में पॉलिंग पैमाने पर किस रासायनिक तत्व की विद्युत ऋणात्मकता (Electronegativity) सर्वाधिक होती है?)",
+      "options": [
+        "Chlorine",
+        "Fluorine",
+        "Oxygen",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Fluorine",
+      "explanation": "Fluorine (F, atomic number 9) has the highest electronegativity of 4.0 on the Pauling scale due to its small atomic size and high effective nuclear charge. Oxygen (3.5) and Chlorine (3.0) are second and third.",
+      "tip": "Highest Electronegativity = Fluorine (4.0); Highest Electron Affinity = Chlorine.",
+      "id": 21,
+      "options_hi": [
+        "Chlorine",
+        "Fluorine",
+        "Oxygen",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Fluorine (F, atomic number 9) has the highest electronegativity of 4.0 on the Pauling scale due to its small atomic size and high effective nuclear charge. Oxygen (3.5) and Chlorine (3.0) are सेकंड and third.",
+      "tip_hi": "Highest Electronegativity = Fluorine (4.0); Highest Electron Affinity = Chlorine."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "What is the total geographical forest cover in the State of Bihar as per the India State of Forest Report (ISFR) 2021?(",
+      "hi": "भारत वन स्थिति रिपोर्ट (ISFR) 2021 के अनुसार, बिहार राज्य में कुल भौगोलिक वनावरण (Forest Cover) कितना है?)",
+      "options": [
+        "6.45%",
+        "7.84% (7,380.79 sq km)",
+        "9.12%",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7.84% (7,380.79 sq km)",
+      "explanation": "According to ISFR 2021, the recorded forest cover of Bihar is 7,380.79 sq km, which constitutes 7.84% of the State's total geographical area (94,163 sq km). Kaimur district has the highest forest cover (31.56%).",
+      "tip": "Forest Cover of Bihar = 7.84% (ISFR 2021); District with highest forest % = Kaimur (31.56%).",
+      "id": 22,
+      "options_hi": [
+        "6.45%",
+        "7.84% (7,380.79 sq किमी)",
+        "9.12%",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "According to ISFR 2021, the recorded forest cover of Bihar is 7,380.79 sq किमी, which constitutes 7.84% of the State's total geographical area (94,163 sq किमी). Kaimur district has the highest forest cover (31.56%).",
+      "tip_hi": "Forest Cover of Bihar = 7.84% (ISFR 2021); District with highest forest % = Kaimur (31.56%)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
+      "en": "What is the approximate total geographical area of the State of Bihar?",
+      "hi": "बिहार राज्य का कुल भौगोलिक क्षेत्रफल लगभग कितना है?",
+      "options": [
+        "84,163 sq km",
+        "94,163 sq km",
+        "104,163 sq km",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "94,163 sq km",
+      "explanation": "The total geographical area of Bihar is 94,163 sq km (approx. 2.86% of India's total geographical area), ranking it as the 12th largest State in India by territory.",
+      "tip": "Total Area of Bihar = 94,163 sq km (2.86% of India's land area; 12th in area, 3rd in population).\nAnswer Key Summary Table — Set 8 (Questions 281 to 320)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
+      "id": 23,
+      "options_hi": [
+        "84,163 sq किमी",
+        "94,163 sq किमी",
+        "104,163 sq किमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The total geographical area of Bihar is 94,163 sq किमी (approx. 2.86% of India's total geographical area), ranking it as the 12th largest State in India by territory.",
+      "tip_hi": "Total Area of Bihar = 94,163 sq किमी (2.86% of India's land area; 12th in area, 3rd in population).\nAnswer Key Summary Table — Set 8 (Questions 281 to 320)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "An aqueous solution turns blue litmus paper red. What is the probable nature of this solution and its pH value?",
+      "hi": "एक जलीय विलयन नीले लिटमस पत्र को लाल कर देता है। इस विलयन की संभावित प्रकृति और इसका pH मान क्या होगा?",
+      "options": [
+        "Basic; pH > 7",
+        "Acidic; pH < 7",
+        "Neutral; pH = 7",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Acidic; pH < 7",
+      "explanation": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.",
+      "tip": "Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7).",
+      "id": 24,
+      "options_hi": [
+        "क्षारीय; pH > 7",
+        "अम्लीय; pH < 7",
+        "उदासीन; pH = 7",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.",
+      "tip_hi": "Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7)."
+    },
+    {
+      "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
+      "en": "How many neutrons are present in the atomic nucleus of ordinary hydrogen (Protium, 1H1)?(",
+      "hi": "साधारण हाइड्रोजन (प्रोटियम, 1H1) के परमाणु नाभिक में कितने न्यूट्रॉन उपस्थित होते हैं?)",
+      "options": [
+        "Zero",
+        "One",
+        "Two",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Zero",
+      "explanation": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its nucleus.",
+      "tip": "Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons.",
+      "id": 25,
+      "options_hi": [
+        "Zero",
+        "One",
+        "Two",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its केंद्रक (नाभिक).",
+      "tip_hi": "Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons."
+    }
+  ]
+}

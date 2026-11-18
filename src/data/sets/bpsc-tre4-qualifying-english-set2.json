@@ -23,7 +23,16 @@
       "answer_text": "winter",
       "explanation": "According to the Indian seasonal cycle and calendar progression, the rainy (monsoon) season spans July to September and directly precedes the winter (autumn/winter) season.",
       "tip": "Chronological order of seasons in India: Summer (March–May) → Rainy/Monsoon (June–September) → Autumn/Winter (October–February) → Spring (February–March).",
-      "id": 1
+      "id": 1,
+      "options_hi": [
+        "winter",
+        "spring",
+        "summer",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "According to the Indian seasonal cycle and calendar progression, the rainy (monsoon) season spans July to September and directly precedes the winter (autumn/winter) season.",
+      "tip_hi": "Chronological order of seasons in India: Summer (March–May) → Rainy/Monsoon (June–September) → Autumn/Winter (October–February) → Spring (February–March)."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -41,7 +50,16 @@
       "answer_text": "None of the above",
       "explanation": "The eighth month in the Gregorian calendar is August. Since August is omitted from options (A), (B), and (C), Option (E) is the official correct choice.",
       "tip": "BPSC calendar trap: 7th = July, 8th = August, 9th = September, 10th = October. When the accurate month name is absent, confidently select Option (E).",
-      "id": 2
+      "id": 2,
+      "options_hi": [
+        "July",
+        "September",
+        "October",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The eighth month in the Gregorian calendar is August. Since August is omitted from options (A), (B), and (C), Option (E) is the official correct choice.",
+      "tip_hi": "BPSC calendar trap: 7th = July, 8th = August, 9th = September, 10th = October. When the accurate month name is absent, confidently select Option (E)."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -59,7 +77,16 @@
       "answer_text": "More than one of the above",
       "explanation": "In English kinship terminology, 'sister-in-law' denotes one's brother's wife (भाभी), one's husband's sister (ननद), or one's wife's sister (साली). Since all three options are valid, (D) is triggered.",
       "tip": "Whenever an English kinship relation encompasses multiple maternal/paternal or affine equivalents, expect Option (D) in BPSC examinations.",
-      "id": 3
+      "id": 3,
+      "options_hi": [
+        "husband's sister",
+        "wife's sister",
+        "brother's wife",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In English kinship terminology, 'sister-in-law' denotes one's brother's wife (भाभी), one's husband's sister (ननद), or one's wife's sister (साली). Since all three options are valid, (D) is triggered.",
+      "tip_hi": "Whenever an English kinship relation encompasses multiple maternal/paternal or affine equivalents, expect Option (D) in BPSC examinations."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -77,7 +104,16 @@
       "answer_text": "More than one of the above",
       "explanation": "A bedroom standardly contains pillows (for sleeping), table/bedside lamps (for reading/lighting), and wardrobes/closets. All choices represent valid bedroom furnishings.",
       "tip": "In household vocabulary questions, as soon as two independent items naturally belong to the specified room, choose Option (D).",
-      "id": 4
+      "id": 4,
+      "options_hi": [
+        "Pillow",
+        "Table lamp",
+        "Wardrobe",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A bedroom standardly contains pillows (for sleeping), table/bedside lamps (for reading/lighting), and wardrobes/closets. All choices represent valid bedroom furnishings.",
+      "tip_hi": "In household vocabulary questions, as soon as two independent items naturally belong to the specified room, choose Option (D)."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -95,7 +131,16 @@
       "answer_text": "Friday",
       "explanation": "If today is Sunday, then 'yesterday' was Saturday, and 'the day before yesterday' was Friday (Sunday minus 2 days = Friday).",
       "tip": "Time calculation formula: Today = Day 0; Yesterday = -1; Day before yesterday = -2. For Sunday: Sunday(0) → Saturday(-1) → Friday(-2).",
-      "id": 5
+      "id": 5,
+      "options_hi": [
+        "Tuesday",
+        "Friday",
+        "Saturday",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "If today is Sunday, then 'yesterday' was Saturday, and 'the day before yesterday' was Friday (Sunday minus 2 days = Friday).",
+      "tip_hi": "Time calculation formula: Today = Day 0; Yesterday = -1; Day before yesterday = -2. For Sunday: Sunday(0) → Saturday(-1) → Friday(-2)."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -113,7 +158,16 @@
       "answer_text": "More than one of the above",
       "explanation": "A washing machine belongs to the laundry room/utility area, and a kitchen chimney belongs to the kitchen. Since both are not drawing room items, Option (D) is the official key.",
       "tip": "Notice the negative phrasing 'not a part of': Having two non-drawing-room appliances (Washing machine + Chimney) automatically triggers Option (D).",
-      "id": 6
+      "id": 6,
+      "options_hi": [
+        "Washing machine",
+        "Chimney",
+        "Sofa set",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "A washing machine belongs to the laundry room/utility area, and a kitchen chimney belongs to the kitchen. Since both are not drawing room items, Option (D) is the official key.",
+      "tip_hi": "Notice the negative phrasing 'not a part of': Having two non-drawing-room appliances (Washing machine + Chimney) automatically triggers Option (D)."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -131,7 +185,16 @@
       "answer_text": "maternal grandparents",
       "explanation": "One's mother's parents (maternal grandfather and grandmother - नाना-नानी) are termed maternal grandparents. Father's parents (दादा-दादी) are paternal grandparents.",
       "tip": "Maternal = Mother's lineage/relations; Paternal = Father's lineage/relations.",
-      "id": 7
+      "id": 7,
+      "options_hi": [
+        "सोन नदी-in-laws",
+        "maternal grandparents",
+        "paternal grandparents",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "One's mother's parents (maternal grandfather and grandmother - नाना-नानी) are termed maternal grandparents. Father's parents (दादा-दादी) are paternal grandparents.",
+      "tip_hi": "Maternal = Mother's lineage/relations; Paternal = Father's lineage/relations."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -149,7 +212,16 @@
       "answer_text": "by",
       "explanation": "In standard English idiomatic usage, time indicated according to a timepiece or watch is expressed using the preposition 'by' ('What is the time by your watch?').",
       "tip": "Common error: Do not translate literally from Hindi ('घड़ी में' ≠ 'in your watch'). The standard English collocation is strictly 'by your watch'.",
-      "id": 8
+      "id": 8,
+      "options_hi": [
+        "in",
+        "by",
+        "at",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In standard English idiomatic usage, time indicated according to a timepiece or watch is expressed using the preposition 'by' ('What is the time by your watch?').",
+      "tip_hi": "Common error: Do not translate literally from Hindi ('घड़ी में' ≠ 'in your watch'). The standard English collocation is strictly 'by your watch'."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -167,7 +239,16 @@
       "answer_text": "of",
       "explanation": "The preposition 'of' is used here to denote specification or belonging of an intrinsic characteristic ('appealing of quality' / 'possessing the attribute of quality').",
       "tip": "Pay close attention to prepositional phrase idioms following adjectives like 'appealing of', 'worthy of', 'devoid of'.",
-      "id": 9
+      "id": 9,
+      "options_hi": [
+        "for",
+        "by",
+        "of",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The preposition 'of' is used here to denote specification or belonging of an intrinsic characteristic ('appealing of quality' / 'possessing the attribute of quality').",
+      "tip_hi": "Pay close attention to prepositional phrase idioms following adjectives like 'appealing of', 'worthy of', 'devoid of'."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -185,7 +266,16 @@
       "answer_text": "Pistol",
       "explanation": "Gears and accelerators are integral mechanical and control components of an automobile, whereas a pistol is a firearm and not a vehicular component.",
       "tip": "Eliminate normal vehicular mechanisms to isolate the extraneous weapon/item.",
-      "id": 10
+      "id": 10,
+      "options_hi": [
+        "Gear",
+        "Accelerator",
+        "Pistol",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gears and accelerators are integral mechanical and control components of an automobile, whereas a pistol is a firearm and not a vehicular component.",
+      "tip_hi": "Eliminate normal vehicular mechanisms to isolate the extraneous weapon/item."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -203,7 +293,16 @@
       "answer_text": "brother-in-law",
       "explanation": "One's sister's husband is designated as 'brother-in-law' in English kinship terminology. 'Jija' is a Hindi colloquial noun, not English.",
       "tip": "BPSC options often include Hindi phonetic spellings (like 'jija' or 'chacha') as traps; always select the formal English genealogical term.",
-      "id": 11
+      "id": 11,
+      "options_hi": [
+        "jija",
+        "brother-in-law",
+        "maternal brother",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "One's sister's husband is designated as 'brother-in-law' in English kinship terminology. 'Jija' is a Hindi colloquial noun, not English.",
+      "tip_hi": "BPSC options often include Hindi phonetic spellings (like 'jija' or 'chacha') as traps; always select the formal English genealogical term."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -221,7 +320,16 @@
       "answer_text": "None of the above",
       "explanation": "When an abstract noun ('beauty') is used in a general, universal philosophical sense, it takes zero article. Since zero article is not among (A), (B), or (C), (E) is correct.",
       "tip": "Abstract nouns (beauty, honesty, truth, wisdom) take NO article when used generally: 'Beauty is truth', 'Honesty is the best policy'.",
-      "id": 12
+      "id": 12,
+      "options_hi": [
+        "The",
+        "A",
+        "An",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "When an abstract noun ('beauty') is used in a general, universal philosophical sense, it takes zero article. Since zero article is not among (A), (B), or (C), (E) is correct.",
+      "tip_hi": "Abstract nouns (beauty, honesty, truth, wisdom) take NO article when used generally: 'Beauty is truth', 'Honesty is the best policy'."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -239,7 +347,16 @@
       "answer_text": "an",
       "explanation": "The abbreviation 'MBBS' is phonetically pronounced as /ˈem.biː.biː.es/, which begins with the vowel sound /e/. Therefore, the indefinite article 'an' is required.",
       "tip": "Phonetics rule: Abbreviations beginning with letters pronounced with an initial vowel sound (M = /em/, S = /es/, F = /ef/, H = /eɪtʃ/, L = /el/) take 'an' ('an MBBS', 'an SP', 'an FIR').",
-      "id": 13
+      "id": 13,
+      "options_hi": [
+        "the",
+        "a",
+        "an",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The abbreviation 'MBBS' is phonetically pronounced as /ˈem.biː.biː.es/, which begins with the vowel sound /e/. Therefore, the indefinite article 'an' is required.",
+      "tip_hi": "Phonetics rule: Abbreviations beginning with letters pronounced with an initial vowel sound (M = /em/, S = /es/, F = /ef/, H = /eɪtʃ/, L = /el/) take 'an' ('an MBBS', 'an SP', 'an FIR')."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -257,7 +374,16 @@
       "answer_text": "Leather",
       "explanation": "Grocery stores sell food provisions and household consumables like edible grains/cereals and cooking oil. Leather is a processed animal hide sold in footwear or fabric stores.",
       "tip": "Distinguish food/edible consumable groceries from heavy industrial/animal trade materials like leather and timber.",
-      "id": 14
+      "id": 14,
+      "options_hi": [
+        "Cereals",
+        "Oil",
+        "Leather",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Grocery stores sell food provisions and household consumables like edible grains/cereals and cooking oil. Leather is a processed animal hide sold in footwear or fabric stores.",
+      "tip_hi": "Distinguish food/edible consumable groceries from heavy industrial/animal trade materials like leather and timber."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -275,7 +401,16 @@
       "answer_text": "Arab",
       "explanation": "Asia and Australia are recognized world continents, whereas the Arabian Peninsula (Arab) is a geographical region/sub-region located within the continent of Asia.",
       "tip": "The 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Arab is a geopolitical peninsula, not a continent.",
-      "id": 15
+      "id": 15,
+      "options_hi": [
+        "Asia",
+        "Australia",
+        "Arab",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Asia and Australia are recognized world continents, whereas the Arabian Peninsula (Arab) is a geographical region/sub-region located within the continent of Asia.",
+      "tip_hi": "The 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Arab is a geopolitical peninsula, not a continent."
     }
   ]
 }
