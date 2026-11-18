@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react'
 import { createRoot } from 'react-dom/client'
 import './styles.css'
 import { SETS_CATALOG, SETS_DATA, type QuestionItem, type SetMeta } from './data/allSets'
+import { EducationalWatermarkBg } from './components/EducationalWatermarkBg'
 
 type Lang = 'en' | 'hi'
 type Attempt = {
@@ -119,12 +120,12 @@ export function getAnswerText(q: QuestionItem, lang: 'en' | 'hi'): string {
 
 const copy = {
   en: {
-    start: 'Start your preparation',
+    start: 'Practice Now',
     practice: 'Practice',
     analysis: 'Analysis',
     discussion: 'Discussions',
     subjects: 'Subjects',
-    pyq: 'Previous papers',
+    pyq: 'PYQ Papers',
     home: 'Home',
     hero: 'Prepare Smarter. Practice Better. Crack TRE 4.0.',
     sub: 'Targeted BPSC TRE 4.0 practice with 100% authentic past questions, bilingual toggle, and official 5-option format.',
@@ -152,7 +153,7 @@ const copy = {
     student: 'Student contribution'
   },
   hi: {
-    start: 'तैयारी शुरू करें',
+    start: 'अभ्यास शुरू करें',
     practice: 'अभ्यास',
     analysis: 'विश्लेषण',
     discussion: 'चर्चाएँ',
@@ -244,48 +245,49 @@ function Header({
 }) {
   const t = copy[lang]
   return (
-    <header>
-      <a className="brand" href="#/" onClick={() => setRoute('/')}>
-        <span>T</span>
-        <b>TRE Ready</b>
-        <small>BPSC 4.0</small>
-      </a>
-      <nav>
-        <button className={route === '/' ? 'active' : ''} onClick={() => setRoute('/')}>
-          {t.home}
-        </button>
-        <button className={route.startsWith('/app?category=qualifying') ? 'active' : ''} onClick={() => setRoute('/app?category=qualifying')}>
-          {lang === 'hi' ? 'अर्हता (Part-I)' : 'Qualifying (Part-I)'}
-        </button>
-        <button className={route.startsWith('/app?category=gk_gs') ? 'active' : ''} onClick={() => setRoute('/app?category=gk_gs')}>
-          {lang === 'hi' ? 'सामान्य अध्ययन (Part-II)' : 'GK / GS (Part-II)'}
-        </button>
-        <button className={route.startsWith('/app?category=subject') ? 'active' : ''} onClick={() => setRoute('/app?category=subject')}>
-          {lang === 'hi' ? 'विषय (Part-III)' : 'Subjects (Part-III)'}
-        </button>
-        <button className={route === '/pyq' ? 'active' : ''} onClick={() => setRoute('/pyq')}>
-          {t.pyq}
-        </button>
-        <button className="nav-app-btn" onClick={onOpenAppModal} style={{ color: '#059669', fontWeight: 700 }}>
-          📲 {lang === 'hi' ? 'ऐप इंस्टॉल' : 'Get App'}
-        </button>
-      </nav>
-      <div className="head-actions">
-        <button
-          className="btn-app-download"
-          onClick={onOpenAppModal}
-          style={{ padding: '8px 14px', fontSize: '12.5px' }}
-          title="Install offline mobile app"
-        >
-          📲 {lang === 'hi' ? 'ऐप डाउनलोड' : 'Download App'}
-          <span className="badge-micro">FREE</span>
-        </button>
-        <button className="language" onClick={() => setLang(lang === 'en' ? 'hi' : 'en')} aria-label="Change language">
-          {lang === 'en' ? 'हिन्दी' : 'English'}
-        </button>
-        <button className="nav-cta" onClick={() => setRoute('/app')}>
-          {t.start}
-        </button>
+    <header className="site-header">
+      <div className="header-inner">
+        <a className="brand" href="#/" onClick={() => setRoute('/')} title="TRE Ready Home">
+          <span className="brand-logo">T</span>
+          <b>TRE Ready</b>
+          <small>BPSC 4.0</small>
+        </a>
+
+        <nav className="header-nav">
+          <button className={route === '/' ? 'active' : ''} onClick={() => setRoute('/')}>
+            {t.home}
+          </button>
+          <button className={route.startsWith('/app?category=qualifying') ? 'active' : ''} onClick={() => setRoute('/app?category=qualifying')}>
+            {lang === 'hi' ? 'भाग-1 अर्हता' : 'Qualifying'}
+          </button>
+          <button className={route.startsWith('/app?category=gk_gs') ? 'active' : ''} onClick={() => setRoute('/app?category=gk_gs')}>
+            {lang === 'hi' ? 'भाग-2 सामान्य अध्ययन' : 'GK & GS'}
+          </button>
+          <button className={route.startsWith('/app?category=subject') ? 'active' : ''} onClick={() => setRoute('/app?category=subject')}>
+            {lang === 'hi' ? 'भाग-3 विषय' : 'Subjects'}
+          </button>
+          <button className={route === '/pyq' ? 'active' : ''} onClick={() => setRoute('/pyq')}>
+            {t.pyq}
+          </button>
+        </nav>
+
+        <div className="head-actions">
+          <button
+            className="btn-app-download"
+            onClick={onOpenAppModal}
+            title="Install offline mobile app"
+          >
+            <span>📲</span>
+            <span className="btn-app-text">{lang === 'hi' ? 'ऐप डाउनलोड' : 'Download App'}</span>
+            <span className="badge-micro">FREE</span>
+          </button>
+          <button className="language-toggle-chip" onClick={() => setLang(lang === 'en' ? 'hi' : 'en')} aria-label="Change language">
+            🌐 {lang === 'en' ? 'हिन्दी' : 'English'}
+          </button>
+          <button className="nav-cta" onClick={() => setRoute('/app')}>
+            {t.start} →
+          </button>
+        </div>
       </div>
     </header>
   )
@@ -2615,6 +2617,8 @@ function Root() {
 
   return (
     <>
+      <EducationalWatermarkBg isMuted={isPracticeMode} />
+
       {!isPracticeMode && (
         <>
           {/* Top Creator Ribbon */}
