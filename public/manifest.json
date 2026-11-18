@@ -2,20 +2,22 @@
   "name": "TRE Ready — BPSC TRE 4.0 PYQ Practice",
   "short_name": "TRE Ready",
   "description": "Authentic BPSC TRE Previous Year Papers Practice Platform with In-Question Bilingual Toggle, 5-Option Elimination Tricks, and 80% Mastery Unlock Ladder.",
-  "start_url": "./#/app",
+  "id": "/",
+  "start_url": "/?source=pwa#/app",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#102a43",
   "theme_color": "#102a43",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "./icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

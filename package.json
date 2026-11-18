@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "cp index.template.html index.html && vite",
-    "build": "tsc -b && cp index.template.html index.html && vite build && cp dist/index.html index.html && cp -r dist/assets .",
+    "build": "tsc -b && cp index.template.html index.html && vite build && cp dist/index.html index.html && cp dist/index.html dist/assets/index.html && cp -r dist/assets . && cp dist/manifest.json dist/assets/manifest.json && cp dist/icon-*.png dist/assets/ 2>/dev/null || true && cp dist/sw.js . 2>/dev/null || true",
     "lint": "tsc -b --pretty false",
     "preview": "vite preview",
     "ingest": "python3 scripts/auto_ingest.py",

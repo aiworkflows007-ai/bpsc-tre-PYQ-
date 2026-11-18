@@ -2585,6 +2585,14 @@ function Root() {
   }, [lang])
 
   useEffect(() => {
+    // If launched as installed standalone PWA on home, direct user straight into Practice Hub
+    const isPwa = window.matchMedia('(display-mode: standalone)').matches || window.location.search.includes('source=pwa')
+    if (isPwa && (location.hash === '' || location.hash === '#/')) {
+      setRoute('/app')
+    }
+  }, [])
+
+  useEffect(() => {
     const h = () => {
       const cur = location.hash.slice(1) || '/'
       setFullHash(cur)

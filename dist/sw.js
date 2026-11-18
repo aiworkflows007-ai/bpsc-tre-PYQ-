@@ -1,20 +1,27 @@
 // TRE Ready Service Worker - Offline PWA Support (Network-First for HTML/JSON, Cache-First for static assets)
-const CACHE_NAME = 'tre-ready-v2';
+const CACHE_NAME = 'tre-ready-v3';
 const CORE_ASSETS = [
-  './',
-  './index.html',
-  './manifest.json',
-  './icon-192.png',
-  './icon-512.png'
+  '/',
+  '/index.html',
+  '/manifest.json',
+  '/icon-192.png',
+  '/icon-512.png',
+  '/assets/index.css',
+  '/assets/index.js'
 ];
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(CORE_ASSETS).catch((err) => {
-        console.warn('Pre-caching core assets warning:', err);
-      });
+      // Use allSettled so one missing item never fails the entire SW install
+      return Promise.allSettled(
+        CORE_ASSETS.map((url) =>
+          cache.add(url).catch((err) => {
+            console.warn('Pre-cache skip:', url, err);
+          })
+        )
+      );
     })
   );
 });
@@ -52,13 +59,27 @@ self.addEventListener('fetch', (event) => {
             caches.open(CACHE_NAME).then((cache) => {
               cache.put(event.request, responseClone);
             });
+            return networkResponse;
           }
+
+          // CRITICAL: If server returned 404 on a navigation request (e.g. /assets/ or subroute),
+          // rescue it by returning cached index.html so installed app NEVER shows "Not Found"!
+          if (isNavigate && networkResponse && networkResponse.status === 404) {
+            return caches.match('/index.html')
+              .then((cached) => cached || caches.match('./index.html'))
+              .then((cached) => cached || fetch('/index.html'))
+              .catch(() => networkResponse);
+          }
+
           return networkResponse;
         })
         .catch(() => {
           return caches.match(event.request).then((cached) => {
             if (cached) return cached;
-            if (isNavigate) return caches.match('./index.html');
+            if (isNavigate || isHtml) {
+              return caches.match('/index.html')
+                .then((cachedIndex) => cachedIndex || caches.match('./index.html'));
+            }
             return new Response('{"error":"offline"}', {
               headers: { 'Content-Type': 'application/json' }
             });

@@ -8,9 +8,16 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="TRE Ready" />
     <meta name="description" content="Authentic BPSC TRE Previous Year Papers Practice Platform with In-Question Bilingual Toggle, 5-Option Elimination Tricks, and 80% Mastery Unlock Ladder." />
-    <link rel="manifest" href="./manifest.json" />
-    <link rel="icon" type="image/png" sizes="192x192" href="./icon-192.png" />
-    <link rel="apple-touch-icon" href="./icon-192.png" />
+    <script>
+      // Self-heal legacy PWA shortcut if launched into /assets/
+      if (window.location.pathname.startsWith('/assets')) {
+        var target = '/' + (window.location.search || '') + (window.location.hash || '#/app');
+        window.location.replace(target);
+      }
+    </script>
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
     <title>TRE Ready — BPSC TRE 4.0 PYQ Practice Platform</title>
   </head>
   <body>
@@ -19,7 +26,7 @@
     <script>
       if ('serviceWorker' in navigator && window.location.protocol.startsWith('http')) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('./sw.js').catch((err) => {
+          navigator.serviceWorker.register('/sw.js', { scope: '/' }).catch((err) => {
             console.log('SW registration skipped:', err);
           });
         });
