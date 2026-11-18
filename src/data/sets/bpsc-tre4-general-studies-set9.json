@@ -16,13 +16,13 @@
         "12 years",
         "15 years",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "12 yearsDetailed",
-      "explanation": "At compound interest, if P becomes 2P in 3 years, then 16P = (2^4)P will take 4 * 3 = 12 years.💡 Exam Setter's Tips & Quick Tricks: In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 years.",
-      "tip": "",
+      "answer_text": "12 years",
+      "explanation": "At compound interest, if P becomes 2P in 3 years, then 16P = (2^4)P will take 4 * 3 = 12 years.",
+      "tip": "In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 years.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "1/6",
         "7/36",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "5/36Detailed",
-      "explanation": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.💡 Exam Setter's Tips & Quick Tricks: Pairs summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 pairs out of 36 => 5/36.",
-      "tip": "",
+      "answer_text": "5/36",
+      "explanation": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.",
+      "tip": "Pairs summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 pairs out of 36 => 5/36.",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "9 seconds",
         "10 seconds",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "9 secondsDetailed",
-      "explanation": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 seconds.💡 Exam Setter's Tips & Quick Tricks: Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 seconds.",
-      "tip": "",
+      "answer_text": "9 seconds",
+      "explanation": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 seconds.",
+      "tip": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 seconds.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "4 days",
         "5 days",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "4 daysDetailed",
-      "explanation": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/day. Total efficiency = 6 + 5 + 4 = 15 units/day. Time required = 60 / 15 = 4 days.💡 Exam Setter's Tips & Quick Tricks: Combined 1-day work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 days.",
-      "tip": "",
+      "answer_text": "4 days",
+      "explanation": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/day. Total efficiency = 6 + 5 + 4 = 15 units/day. Time required = 60 / 15 = 4 days.",
+      "tip": "Combined 1-day work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 days.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "1,540 cu cm",
         "1,640 cu cm",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1,540 cu cmDetailed",
-      "explanation": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu cm.💡 Exam Setter's Tips & Quick Tricks: V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³.",
-      "tip": "",
+      "answer_text": "1,540 cu cm",
+      "explanation": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu cm.",
+      "tip": "V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³.",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "214763",
         "241673",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "214673Detailed",
-      "explanation": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.💡 Exam Setter's Tips & Quick Tricks: Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673.",
-      "tip": "",
+      "answer_text": "214673",
+      "explanation": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.",
+      "tip": "Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673.",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "B",
         "C",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "ADetailed",
-      "explanation": "E is daughter of B, and D is brother of E, so D is the son of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.💡 Exam Setter's Tips & Quick Tricks: Brother of parent (B) is A, so A is the uncle of D.",
-      "tip": "",
+      "answer_text": "A",
+      "explanation": "E is daughter of B, and D is brother of E, so D is the son of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.",
+      "tip": "Brother of parent (B) is A, so A is the uncle of D.",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "56",
         "58",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "56Detailed",
-      "explanation": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).💡 Exam Setter's Tips & Quick Tricks: Formula: n*(n+1). For n=7, 7*8 = 56.",
-      "tip": "",
+      "answer_text": "56",
+      "explanation": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).",
+      "tip": "Formula: n*(n+1). For n=7, 7*8 = 56.",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "3 × 10^8 m/s",
         "3 × 10^10 m/s",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "3 × 10^8 m/sDetailed",
-      "explanation": "In vacuum, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 km/s).💡 Exam Setter's Tips & Quick Tricks: Speed of light c = 3 × 10^8 m/s = 3 × 10^5 km/s.",
-      "tip": "",
+      "answer_text": "3 × 10^8 m/s",
+      "explanation": "In vacuum, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 km/s).",
+      "tip": "Speed of light c = 3 × 10^8 m/s = 3 × 10^5 km/s.",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "Archimedes' Principle",
         "Bernoulli's Principle",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Archimedes' PrincipleDetailed",
-      "explanation": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.💡 Exam Setter's Tips & Quick Tricks: Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli.",
-      "tip": "",
+      "answer_text": "Archimedes' Principle",
+      "explanation": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.",
+      "tip": "Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli.",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "Nephron",
         "Alveolus",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "NephronDetailed",
-      "explanation": "Each human kidney contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.💡 Exam Setter's Tips & Quick Tricks: Kidney unit = Nephron; Nervous system unit = Neuron; Lungs unit = Alveolus.",
-      "tip": "",
+      "answer_text": "Nephron",
+      "explanation": "Each human kidney contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
+      "tip": "Kidney unit = Nephron; Nervous system unit = Neuron; Lungs unit = Alveolus.",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "Insulin",
         "Somatostatin",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "InsulinDetailed",
-      "explanation": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the liver. In contrast, alpha cells secrete glucagon to raise blood glucose.💡 Exam Setter's Tips & Quick Tricks: Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar).",
-      "tip": "",
+      "answer_text": "Insulin",
+      "explanation": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the liver. In contrast, alpha cells secrete glucagon to raise blood glucose.",
+      "tip": "Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar).",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "Acidic; pH < 7",
         "Neutral; pH = 7",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Acidic; pH < 7Detailed",
-      "explanation": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.💡 Exam Setter's Tips & Quick Tricks: Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7).",
-      "tip": "",
+      "answer_text": "Acidic; pH < 7",
+      "explanation": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.",
+      "tip": "Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7).",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "One",
         "Two",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "ZeroDetailed",
-      "explanation": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its nucleus.💡 Exam Setter's Tips & Quick Tricks: Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons.",
-      "tip": "",
+      "answer_text": "Zero",
+      "explanation": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its nucleus.",
+      "tip": "Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons.",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "H = I^2 · R · t",
         "H = I · R^2 · t",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "H = I^2 · R · tDetailed",
-      "explanation": "Joule's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.💡 Exam Setter's Tips & Quick Tricks: Joule's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t.",
-      "tip": "",
+      "answer_text": "H = I^2 · R · t",
+      "explanation": "Joule's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.",
+      "tip": "Joule's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t.",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "Methyl Isocyanate (MIC)",
         "Hydrogen Cyanide",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Methyl Isocyanate (MIC)Detailed",
-      "explanation": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.💡 Exam Setter's Tips & Quick Tricks: Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO).",
-      "tip": "",
+      "answer_text": "Methyl Isocyanate (MIC)",
+      "explanation": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.",
+      "tip": "Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO).",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "Maulvi Ahmadullah Shah",
         "Khan Bahadur Khan",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Maulvi Ahmadullah ShahDetailed",
-      "explanation": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir Henry Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.💡 Exam Setter's Tips & Quick Tricks: 1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = Babu Kunwar Singh.",
-      "tip": "",
+      "answer_text": "Maulvi Ahmadullah Shah",
+      "explanation": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir Henry Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.",
+      "tip": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = Babu Kunwar Singh.",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "3/20th part (3 kathas per bigha)",
         "5/20th part",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "3/20th part (3 kathas per bigha)Detailed",
-      "explanation": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).💡 Exam Setter's Tips & Quick Tricks: Tinkathia = 3 kathas per bigha = 3/20th of land holding.",
-      "tip": "",
+      "answer_text": "3/20th part (3 kathas per bigha)",
+      "explanation": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).",
+      "tip": "Tinkathia = 3 kathas per bigha = 3/20th of land holding.",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "Bihar National College and Bihar Vidyapeeth",
         "Sadaqat College",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Bihar National College and Bihar VidyapeethDetailed",
-      "explanation": "During the Non-Cooperation movement, Mahatma Gandhi opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 February 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.💡 Exam Setter's Tips & Quick Tricks: Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor).",
-      "tip": "",
+      "answer_text": "Bihar National College and Bihar Vidyapeeth",
+      "explanation": "During the Non-Cooperation movement, Mahatma Gandhi opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 February 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
+      "tip": "Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor).",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "Deshbandhu Chittaranjan Das (C. R. Das)",
         "Hakim Ajmal Khan",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Deshbandhu Chittaranjan Das (C. R. Das)Detailed",
-      "explanation": "C. R. Das presided over the 1922 Gaya Session. After his proposal for council entry was defeated by the 'No-Changers' (Rajendra Prasad, C. Rajagopalachari), he resigned and founded the Swaraj Party with Motilal Nehru.💡 Exam Setter's Tips & Quick Tricks: Congress Sessions in Bihar: 1912 Bankipore (R. N. Mudholkar); 1922 Gaya (C. R. Das); 1940 Ramgarh (Abul Kalam Azad).",
-      "tip": "",
+      "answer_text": "Deshbandhu Chittaranjan Das (C. R. Das)",
+      "explanation": "C. R. Das presided over the 1922 Gaya Session. After his proposal for council entry was defeated by the 'No-Changers' (Rajendra Prasad, C. Rajagopalachari), he resigned and founded the Swaraj Party with Motilal Nehru.",
+      "tip": "Congress Sessions in Bihar: 1912 Bankipore (R. N. Mudholkar); 1922 Gaya (C. R. Das); 1940 Ramgarh (Abul Kalam Azad).",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "Dr. Rajendra Prasad",
         "Sri Krishna Singh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Dr. Rajendra PrasadDetailed",
-      "explanation": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), Dr. Rajendra Prasad formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.💡 Exam Setter's Tips & Quick Tricks: Bihar Central Relief Committee (1934 Earthquake) = Dr. Rajendra Prasad.",
-      "tip": "",
+      "answer_text": "Dr. Rajendra Prasad",
+      "explanation": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), Dr. Rajendra Prasad formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
+      "tip": "Bihar Central Relief Committee (1934 Earthquake) = Dr. Rajendra Prasad.",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "Jaglal Choudhary",
         "Ram Nandan Mishra",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Jaglal ChoudharyDetailed",
-      "explanation": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.💡 Exam Setter's Tips & Quick Tricks: Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava.",
-      "tip": "",
+      "answer_text": "Jaglal Choudhary",
+      "explanation": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.",
+      "tip": "Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava.",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "Sachindra Nath Sanyal",
         "Khudiram Bose",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Sachindra Nath SanyalDetailed",
-      "explanation": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.💡 Exam Setter's Tips & Quick Tricks: Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal.",
-      "tip": "",
+      "answer_text": "Sachindra Nath Sanyal",
+      "explanation": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.",
+      "tip": "Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal.",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "Mahesh Narayan",
         "Krishna Sahay",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Mahesh NarayanDetailed",
-      "explanation": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.💡 Exam Setter's Tips & Quick Tricks: Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee').",
-      "tip": "",
+      "answer_text": "Mahesh Narayan",
+      "explanation": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.",
+      "tip": "Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee').",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "Buxar",
         "Hajipur",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Chhapra (near Revelganj)Detailed",
-      "explanation": "The Ghaghra originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the Ganga at Revelganj near Chhapra in Saran district.💡 Exam Setter's Tips & Quick Tricks: Ghaghra joins Ganga at Revelganj (Chhapra); Gandak joins at Sonpur; Kosi joins at Kursela (Katihar).",
-      "tip": "",
+      "answer_text": "Chhapra (near Revelganj)",
+      "explanation": "The Ghaghra originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the Ganga at Revelganj near Chhapra in Saran district.",
+      "tip": "Ghaghra joins Ganga at Revelganj (Chhapra); Gandak joins at Sonpur; Kosi joins at Kursela (Katihar).",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "Cwg (Monsoon with dry winter)",
         "BSh (Semi-arid steppe)",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Cwg (Monsoon with dry winter)Detailed",
-      "explanation": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest month before the solstice, which accurately characterizes the Gangetic plains of North Bihar.💡 Exam Setter's Tips & Quick Tricks: Bihar climate in Köppen classification = Cwg (Gangetic plain type).",
-      "tip": "",
+      "answer_text": "Cwg (Monsoon with dry winter)",
+      "explanation": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest month before the solstice, which accurately characterizes the Gangetic plains of North Bihar.",
+      "tip": "Bihar climate in Köppen classification = Cwg (Gangetic plain type).",
       "id": 26
     },
     {
@@ -484,13 +484,13 @@
         "West Champaran",
         "Kaimur",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "West ChamparanDetailed",
-      "explanation": "Valmiki National Park covers an area of approx. 335.65 sq km (and sanctuary area of 898 sq km) in the Terai region of West Champaran along the Gandak River and Nepal border, forming Project Tiger Reserve No. 18.💡 Exam Setter's Tips & Quick Tricks: Only National Park of Bihar = Valmiki National Park (West Champaran).",
-      "tip": "",
+      "answer_text": "West Champaran",
+      "explanation": "Valmiki National Park covers an area of approx. 335.65 sq km (and sanctuary area of 898 sq km) in the Terai region of West Champaran along the Gandak River and Nepal border, forming Project Tiger Reserve No. 18.",
+      "tip": "Only National Park of Bihar = Valmiki National Park (West Champaran).",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "Munger",
         "Gaya",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "MungerDetailed",
-      "explanation": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq km, famous for dense sal forests and thermal mineral springs.💡 Exam Setter's Tips & Quick Tricks: Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya.",
-      "tip": "",
+      "answer_text": "Munger",
+      "explanation": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq km, famous for dense sal forests and thermal mineral springs.",
+      "tip": "Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya.",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "Bhagalpur",
         "Banka",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "BhagalpurDetailed",
-      "explanation": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.💡 Exam Setter's Tips & Quick Tricks: Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC).",
-      "tip": "",
+      "answer_text": "Bhagalpur",
+      "explanation": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.",
+      "tip": "Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC).",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "Zoji La Pass",
         "Shipki La Pass",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Zoji La PassDetailed",
-      "explanation": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.💡 Exam Setter's Tips & Quick Tricks: Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La.",
-      "tip": "",
+      "answer_text": "Zoji La Pass",
+      "explanation": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.",
+      "tip": "Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La.",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "Odisha",
         "Chhattisgarh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "OdishaDetailed",
-      "explanation": "Odisha accounts for over 50% of India's total bauxite production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).💡 Exam Setter's Tips & Quick Tricks: Leading mineral producers: Bauxite = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh.",
-      "tip": "",
+      "answer_text": "Odisha",
+      "explanation": "Odisha accounts for over 50% of India's total bauxite production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).",
+      "tip": "Leading mineral producers: Bauxite = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh.",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "Speaker of the Lok Sabha",
         "Chairman of the Rajya Sabha",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Speaker of the Lok SabhaDetailed",
-      "explanation": "Article 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha thereon shall be final. The Rajya Sabha has only 14 days to recommend changes.💡 Exam Setter's Tips & Quick Tricks: Certification of Money Bill = Speaker of Lok Sabha (Article 110). Final and cannot be questioned in court.",
-      "tip": "",
+      "answer_text": "Speaker of the Lok Sabha",
+      "explanation": "Article 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha thereon shall be final. The Rajya Sabha has only 14 days to recommend changes.",
+      "tip": "Certification of Money Bill = Speaker of Lok Sabha (Article 110). Final and cannot be questioned in court.",
       "id": 32
     },
     {
@@ -592,13 +592,13 @@
         "Article 356",
         "Article 360",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Article 352Detailed",
-      "explanation": "Article 352 governs National Emergency. (Article 356 provides for President's Rule in States due to constitutional failure, and Article 360 provides for Financial Emergency).💡 Exam Setter's Tips & Quick Tricks: Emergency provisions: Article 352 = National; Article 356 = State (President's Rule); Article 360 = Financial.",
-      "tip": "",
+      "answer_text": "Article 352",
+      "explanation": "Article 352 governs National Emergency. (Article 356 provides for President's Rule in States due to constitutional failure, and Article 360 provides for Financial Emergency).",
+      "tip": "Emergency provisions: Article 352 = National; Article 356 = State (President's Rule); Article 360 = Financial.",
       "id": 33
     },
     {
@@ -610,13 +610,13 @@
         "11th Schedule",
         "12th Schedule",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "11th ScheduleDetailed",
-      "explanation": "The 73rd Amendment added Part IX and the 11th Schedule (29 functional subjects for Panchayats). The 74th Amendment added Part IX-A and the 12th Schedule (18 functional subjects for Municipalities).💡 Exam Setter's Tips & Quick Tricks: 11th Schedule = Panchayats (29 items); 12th Schedule = Municipalities (18 items); 10th Schedule = Anti-Defection.",
-      "tip": "",
+      "answer_text": "11th Schedule",
+      "explanation": "The 73rd Amendment added Part IX and the 11th Schedule (29 functional subjects for Panchayats). The 74th Amendment added Part IX-A and the 12th Schedule (18 functional subjects for Municipalities).",
+      "tip": "11th Schedule = Panchayats (29 items); 12th Schedule = Municipalities (18 items); 10th Schedule = Anti-Defection.",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "25 years",
         "30 years",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "25 yearsDetailed",
-      "explanation": "Under Article 173, the minimum age for election to the Legislative Assembly (and Lok Sabha) is 25 years. For Legislative Council (and Rajya Sabha), it is 30 years. For Panchayat elections, it is 21 years.💡 Exam Setter's Tips & Quick Tricks: Age limits: Panchayats = 21; Lok Sabha & Vidhan Sabha = 25; Rajya Sabha & Vidhan Parishad = 30; President & Governor = 35.",
-      "tip": "",
+      "answer_text": "25 years",
+      "explanation": "Under Article 173, the minimum age for election to the Legislative Assembly (and Lok Sabha) is 25 years. For Legislative Council (and Rajya Sabha), it is 30 years. For Panchayat elections, it is 21 years.",
+      "tip": "Age limits: Panchayats = 21; Lok Sabha & Vidhan Sabha = 25; Rajya Sabha & Vidhan Parishad = 30; President & Governor = 35.",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "35 years",
         "40 years",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "35 yearsDetailed",
-      "explanation": "Article 157 prescribes that no person shall be eligible for appointment as Governor unless he is a citizen of India and has completed the age of 35 years.💡 Exam Setter's Tips & Quick Tricks: Minimum age for President, Vice-President, and Governor is 35 years.",
-      "tip": "",
+      "answer_text": "35 years",
+      "explanation": "Article 157 prescribes that no person shall be eligible for appointment as Governor unless he is a citizen of India and has completed the age of 35 years.",
+      "tip": "Minimum age for President, Vice-President, and Governor is 35 years.",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "2019",
         "2021",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "2019Detailed",
-      "explanation": "Launched on 2 October 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.💡 Exam Setter's Tips & Quick Tricks: Jal-Jeevan-Hariyali launched = 2 October 2019 (Focus: Water conservation & tree plantation).",
-      "tip": "",
+      "answer_text": "2019",
+      "explanation": "Launched on 2 October 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.",
+      "tip": "Jal-Jeevan-Hariyali launched = 2 October 2019 (Focus: Water conservation & tree plantation).",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "Nagi-Nakti Bird Sanctuary (Jamui)",
         "Kusheshwar Asthan (Darbhanga)",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Nagi-Nakti Bird Sanctuary (Jamui)Detailed",
-      "explanation": "Inaugurated by Chief Minister Nitish Kumar on 15-17 January 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.💡 Exam Setter's Tips & Quick Tricks: First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui).",
-      "tip": "",
+      "answer_text": "Nagi-Nakti Bird Sanctuary (Jamui)",
+      "explanation": "Inaugurated by Chief Minister Nitish Kumar on 15-17 January 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "tip": "First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui).",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "Dr. Bimal Patel",
         "Raj Rewal",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Dr. Bimal PatelDetailed",
-      "explanation": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new Parliament building, featuring the Lok Sabha chamber styled on the National Bird Peacock and Rajya Sabha on the National Flower Lotus.💡 Exam Setter's Tips & Quick Tricks: New Parliament Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad).",
-      "tip": "",
+      "answer_text": "Dr. Bimal Patel",
+      "explanation": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new Parliament building, featuring the Lok Sabha chamber styled on the National Bird Peacock and Rajya Sabha on the National Flower Lotus.",
+      "tip": "New Parliament Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad).",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "5 + 3 + 3 + 4",
         "5 + 4 + 3 + 2",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "5 + 3 + 3 + 4Detailed",
-      "explanation": "NEP 2020 restructured school curriculum into four stages: 5 years Foundational stage (ages 3-8), 3 years Preparatory stage (ages 8-11), 3 years Middle stage (ages 11-14), and 4 years Secondary stage (ages 14-18).💡 Exam Setter's Tips & Quick Tricks: NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "tip": "",
+      "answer_text": "5 + 3 + 3 + 4",
+      "explanation": "NEP 2020 restructured school curriculum into four stages: 5 years Foundational stage (ages 3-8), 3 years Preparatory stage (ages 8-11), 3 years Middle stage (ages 11-14), and 4 years Secondary stage (ages 14-18).",
+      "tip": "NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
       "id": 40
     }
   ]

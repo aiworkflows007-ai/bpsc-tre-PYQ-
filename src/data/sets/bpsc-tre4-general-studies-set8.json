@@ -16,13 +16,13 @@
         "40 hours",
         "50 hours",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "40 hoursDetailed",
-      "explanation": "Inflow rate = 1/8 tank/hr. Net inflow with leak = 1/10 tank/hr. Leakage rate = 1/8 - 1/10 = (5 - 4)/40 = 1/40 tank/hr. Time to empty full tank = 40 hours.💡 Exam Setter's Tips & Quick Tricks: Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 hours.",
-      "tip": "",
+      "answer_text": "40 hours",
+      "explanation": "Inflow rate = 1/8 tank/hr. Net inflow with leak = 1/10 tank/hr. Leakage rate = 1/8 - 1/10 = (5 - 4)/40 = 1/40 tank/hr. Time to empty full tank = 40 hours.",
+      "tip": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 hours.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "25 W",
         "75 W",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "25 WDetailed",
-      "explanation": "Resistance of filament = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. When operated at V' = 110 V, Power P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W.💡 Exam Setter's Tips & Quick Tricks: When voltage is halved (220V to 110V), power becomes (1/2)^2 = 1/4th of rated power = 100 / 4 = 25 W.",
-      "tip": "",
+      "answer_text": "25 W",
+      "explanation": "Resistance of filament = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. When operated at V' = 110 V, Power P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W.",
+      "tip": "When voltage is halved (220V to 110V), power becomes (1/2)^2 = 1/4th of rated power = 100 / 4 = 25 W.",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "Rayleigh scattering of shorter blue wavelengths of light by air molecules",
         "Absorption of red light by water vapor",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Rayleigh scattering of shorter blue wavelengths of light by air moleculesDetailed",
-      "explanation": "According to Rayleigh scattering law, intensity of scattered light varies inversely as the fourth power of wavelength (I ∝ 1/λ^4). Because blue light has a shorter wavelength than red light, it is scattered much more strongly by fine gas molecules in the upper atmosphere.💡 Exam Setter's Tips & Quick Tricks: Blue sky = Rayleigh Scattering (I ∝ 1/λ^4); Red sunrise/sunset = Scattering of longer wavelengths; Clouds appear white = Mie scattering.",
-      "tip": "",
+      "answer_text": "Rayleigh scattering of shorter blue wavelengths of light by air molecules",
+      "explanation": "According to Rayleigh scattering law, intensity of scattered light varies inversely as the fourth power of wavelength (I ∝ 1/λ^4). Because blue light has a shorter wavelength than red light, it is scattered much more strongly by fine gas molecules in the upper atmosphere.",
+      "tip": "Blue sky = Rayleigh Scattering (I ∝ 1/λ^4); Red sunrise/sunset = Scattering of longer wavelengths; Clouds appear white = Mie scattering.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "Fluorine",
         "Oxygen",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "FluorineDetailed",
-      "explanation": "Fluorine (F, atomic number 9) has the highest electronegativity of 4.0 on the Pauling scale due to its small atomic size and high effective nuclear charge. Oxygen (3.5) and Chlorine (3.0) are second and third.💡 Exam Setter's Tips & Quick Tricks: Highest Electronegativity = Fluorine (4.0); Highest Electron Affinity = Chlorine.",
-      "tip": "",
+      "answer_text": "Fluorine",
+      "explanation": "Fluorine (F, atomic number 9) has the highest electronegativity of 4.0 on the Pauling scale due to its small atomic size and high effective nuclear charge. Oxygen (3.5) and Chlorine (3.0) are second and third.",
+      "tip": "Highest Electronegativity = Fluorine (4.0); Highest Electron Affinity = Chlorine.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "Adrenaline (Epinephrine)",
         "Insulin",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Adrenaline (Epinephrine)Detailed",
-      "explanation": "Adrenaline (epinephrine) increases heart rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the liver to release glucose rapidly into the bloodstream during acute emergencies.💡 Exam Setter's Tips & Quick Tricks: Emergency hormone / 3F hormone (Fight, Flight, Fright) = Adrenaline.",
-      "tip": "",
+      "answer_text": "Adrenaline (Epinephrine)",
+      "explanation": "Adrenaline (epinephrine) increases heart rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the liver to release glucose rapidly into the bloodstream during acute emergencies.",
+      "tip": "Emergency hormone / 3F hormone (Fight, Flight, Fright) = Adrenaline.",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "7.35 to 7.45",
         "7.8 to 8.2",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "7.35 to 7.45Detailed",
-      "explanation": "Human blood is slightly alkaline, tightly regulated between pH 7.35 and 7.45 by the carbonic acid-bicarbonate buffer system (H2CO3 / HCO3-) and respiratory compensation by the lungs.💡 Exam Setter's Tips & Quick Tricks: Human blood pH = 7.35 to 7.45 (slightly alkaline).",
-      "tip": "",
+      "answer_text": "7.35 to 7.45",
+      "explanation": "Human blood is slightly alkaline, tightly regulated between pH 7.35 and 7.45 by the carbonic acid-bicarbonate buffer system (H2CO3 / HCO3-) and respiratory compensation by the lungs.",
+      "tip": "Human blood pH = 7.35 to 7.45 (slightly alkaline).",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "Amar Singh",
         "Nishan Singh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Amar SinghDetailed",
-      "explanation": "Babu Amar Singh, younger brother of Kunwar Singh, established a parallel revolutionary administration in the Kaimur hills and Shahabad forests, maintaining fierce guerrilla resistance against British columns until late 1859.💡 Exam Setter's Tips & Quick Tricks: Guerrilla resistance in Kaimur after Kunwar Singh = Amar Singh.",
-      "tip": "",
+      "answer_text": "Amar Singh",
+      "explanation": "Babu Amar Singh, younger brother of Kunwar Singh, established a parallel revolutionary administration in the Kaimur hills and Shahabad forests, maintaining fierce guerrilla resistance against British columns until late 1859.",
+      "tip": "Guerrilla resistance in Kaimur after Kunwar Singh = Amar Singh.",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "1924 Belgaum Session",
         "1931 Karachi Session",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1924 Belgaum SessionDetailed",
-      "explanation": "Mahatma Gandhi presided over the 39th Session of the Indian National Congress at Belgaum (now Belagavi, Karnataka) in December 1924. This was the only INC session ever presided over by Gandhi.💡 Exam Setter's Tips & Quick Tricks: Only Congress session presided by Mahatma Gandhi = 1924 Belgaum Session (Karnataka).",
-      "tip": "",
+      "answer_text": "1924 Belgaum Session",
+      "explanation": "Mahatma Gandhi presided over the 39th Session of the Indian National Congress at Belgaum (now Belagavi, Karnataka) in December 1924. This was the only INC session ever presided over by Gandhi.",
+      "tip": "Only Congress session presided by Mahatma Gandhi = 1924 Belgaum Session (Karnataka).",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "Dr. Rajendra Prasad",
         "Dr. B. R. Ambedkar",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Dr. Rajendra PrasadDetailed",
-      "explanation": "Dr. Sachchidananda Sinha served as the temporary interim chairman on 9 December 1946. On 11 December 1946, Dr. Rajendra Prasad was unanimously elected permanent President of the Constituent Assembly.💡 Exam Setter's Tips & Quick Tricks: Temporary Chairman (9 Dec 1946) = Dr. Sachchidananda Sinha; Permanent President (11 Dec 1946) = Dr. Rajendra Prasad.",
-      "tip": "",
+      "answer_text": "Dr. Rajendra Prasad",
+      "explanation": "Dr. Sachchidananda Sinha served as the temporary interim chairman on 9 December 1946. On 11 December 1946, Dr. Rajendra Prasad was unanimously elected permanent President of the Constituent Assembly.",
+      "tip": "Temporary Chairman (9 Dec 1946) = Dr. Sachchidananda Sinha; Permanent President (11 Dec 1946) = Dr. Rajendra Prasad.",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "Murli Manohar Prasad",
         "Mahesh Narayan",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Murli Manohar PrasadDetailed",
-      "explanation": "Founded in 1918 by Dr. Rajendra Prasad and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.💡 Exam Setter's Tips & Quick Tricks: 'The Searchlight' editor = Murli Manohar Prasad; 'The Motherland' founder = Mazharul Haque.",
-      "tip": "",
+      "answer_text": "Murli Manohar Prasad",
+      "explanation": "Founded in 1918 by Dr. Rajendra Prasad and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
+      "tip": "'The Searchlight' editor = Murli Manohar Prasad; 'The Motherland' founder = Mazharul Haque.",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "Chhotanagpur Tenancy Act (CNT Act 1908)",
         "Bengal Tenancy Act",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Chhotanagpur Tenancy Act (CNT Act 1908)Detailed",
-      "explanation": "Enacted on 11 November 1908, the Chhotanagpur Tenancy Act (CNT Act) legally recognized the Khuntkatti (joint tribal ownership) rights of Mundas, banned beth-begari (forced unpaid labour), and strictly prohibited the transfer of tribal land to non-tribals.💡 Exam Setter's Tips & Quick Tricks: Chhotanagpur Tenancy Act passed = 1908 (Direct result of Birsa Munda's revolt).",
-      "tip": "",
+      "answer_text": "Chhotanagpur Tenancy Act (CNT Act 1908)",
+      "explanation": "Enacted on 11 November 1908, the Chhotanagpur Tenancy Act (CNT Act) legally recognized the Khuntkatti (joint tribal ownership) rights of Mundas, banned beth-begari (forced unpaid labour), and strictly prohibited the transfer of tribal land to non-tribals.",
+      "tip": "Chhotanagpur Tenancy Act passed = 1908 (Direct result of Birsa Munda's revolt).",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "Battle of Buxar",
         "Battle of Wandiwash",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Battle of BuxarDetailed",
-      "explanation": "The Battle of Buxar established sovereign British administrative supremacy over northern India, leading directly to the Treaty of Allahabad (1765) granting Diwani rights of Bengal, Bihar, and Orissa to Robert Clive.💡 Exam Setter's Tips & Quick Tricks: Battle of Buxar = 22 October 1764 (Major Hector Munro vs Mir Qasim + Shuja-ud-Daula + Shah Alam II).",
-      "tip": "",
+      "answer_text": "Battle of Buxar",
+      "explanation": "The Battle of Buxar established sovereign British administrative supremacy over northern India, leading directly to the Treaty of Allahabad (1765) granting Diwani rights of Bengal, Bihar, and Orissa to Robert Clive.",
+      "tip": "Battle of Buxar = 22 October 1764 (Major Hector Munro vs Mir Qasim + Shuja-ud-Daula + Shah Alam II).",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "Article 169",
         "Article 171",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Article 169Detailed",
-      "explanation": "Article 169 deals with the abolition or creation of Legislative Councils in States. The Legislative Assembly must pass a resolution by a special majority (majority of total membership and not less than 2/3rds present and voting), following which Parliament may enact a simple law.💡 Exam Setter's Tips & Quick Tricks: Creation or Abolition of Legislative Council = Article 169; Composition of Council = Article 171.",
-      "tip": "",
+      "answer_text": "Article 169",
+      "explanation": "Article 169 deals with the abolition or creation of Legislative Councils in States. The Legislative Assembly must pass a resolution by a special majority (majority of total membership and not less than 2/3rds present and voting), following which Parliament may enact a simple law.",
+      "tip": "Creation or Abolition of Legislative Council = Article 169; Composition of Council = Article 171.",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "Socialist, Secular, and Integrity",
         "Liberty, Equality, Fraternity",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Socialist, Secular, and IntegrityDetailed",
-      "explanation": "The 42nd Amendment amended the opening description from 'Sovereign Democratic Republic' to 'Sovereign Socialist Secular Democratic Republic', and changed 'unity of the Nation' to 'unity and integrity of the Nation'.💡 Exam Setter's Tips & Quick Tricks: 42nd Amendment 1976 added 3 words: Socialist, Secular, Integrity. (Preamble amended only once).",
-      "tip": "",
+      "answer_text": "Socialist, Secular, and Integrity",
+      "explanation": "The 42nd Amendment amended the opening description from 'Sovereign Democratic Republic' to 'Sovereign Socialist Secular Democratic Republic', and changed 'unity of the Nation' to 'unity and integrity of the Nation'.",
+      "tip": "42nd Amendment 1976 added 3 words: Socialist, Secular, Integrity. (Preamble amended only once).",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "1 April",
         "15 November",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "22 MarchDetailed",
-      "explanation": "Bihar Diwas is celebrated annually on 22 March to mark the day in 1912 when the British government issued the official notification carving the Province of Bihar and Orissa out of the Bengal Presidency.💡 Exam Setter's Tips & Quick Tricks: Bihar Diwas = 22 March (Notification of 1912 separation from Bengal).",
-      "tip": "",
+      "answer_text": "22 March",
+      "explanation": "Bihar Diwas is celebrated annually on 22 March to mark the day in 1912 when the British government issued the official notification carving the Province of Bihar and Orissa out of the Bengal Presidency.",
+      "tip": "Bihar Diwas = 22 March (Notification of 1912 separation from Bengal).",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
         "Swachh Gaon - Samriddh Gaon",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)Detailed",
-      "explanation": "The first initiative under Saat Nischay-2 is 'Yuva Shakti - Bihar Ki Pragati', which provides ₹5 lakh grant + ₹5 lakh loan at 1% interest (0% for women) under the Mukhya Mantri Udyami Yojana.💡 Exam Setter's Tips & Quick Tricks: Saat Nischay-2 components: 1. Yuva Shakti, 2. Sashakt Mahila, 3. Har Khet Ko Pani, 4. Swachh Gaon, 5. Swachh Shahar, 6. Sulabh Samparkata, 7. Sabke Liye Swasthya Suvidha.",
-      "tip": "",
+      "answer_text": "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+      "explanation": "The first initiative under Saat Nischay-2 is 'Yuva Shakti - Bihar Ki Pragati', which provides ₹5 lakh grant + ₹5 lakh loan at 1% interest (0% for women) under the Mukhya Mantri Udyami Yojana.",
+      "tip": "Saat Nischay-2 components: 1. Yuva Shakti, 2. Sashakt Mahila, 3. Har Khet Ko Pani, 4. Swachh Gaon, 5. Swachh Shahar, 6. Sulabh Samparkata, 7. Sabke Liye Swasthya Suvidha.",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "78 times",
         "84 times",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "78 timesDetailed",
-      "explanation": "Sum of first 12 natural numbers = n(n + 1)/2 = 12 * 13 / 2 = 78 strikes. In a full 24-hour day, it strikes 78 * 2 = 156 times.💡 Exam Setter's Tips & Quick Tricks: Sum = 1 + 2 + ... + 12 = 12 * 13 / 2 = 78 times in 12 hours.",
-      "tip": "",
+      "answer_text": "78 times",
+      "explanation": "Sum of first 12 natural numbers = n(n + 1)/2 = 12 * 13 / 2 = 78 strikes. In a full 24-hour day, it strikes 78 * 2 = 156 times.",
+      "tip": "Sum = 1 + 2 + ... + 12 = 12 * 13 / 2 = 78 times in 12 hours.",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "2 pairs",
         "3 pairs",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "2 pairsDetailed",
-      "explanation": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime pairs whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 pairs are possible: (13, 156) and (39, 52).💡 Exam Setter's Tips & Quick Tricks: ab = 2028 / 13^2 = 12. Co-prime factor pairs of 12 = (1, 12) and (3, 4) => exactly 2 pairs.",
-      "tip": "",
+      "answer_text": "2 pairs",
+      "explanation": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime pairs whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 pairs are possible: (13, 156) and (39, 52).",
+      "tip": "ab = 2028 / 13^2 = 12. Co-prime factor pairs of 12 = (1, 12) and (3, 4) => exactly 2 pairs.",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "Rehydration to form crystalline Gypsum",
         "Carbonation reaction with atmospheric CO2",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Rehydration to form crystalline GypsumDetailed",
-      "explanation": "On mixing with water, Plaster of Paris (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform gypsum (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.💡 Exam Setter's Tips & Quick Tricks: POP setting = Rehydration back to Gypsum (CaSO4 · 2H2O).",
-      "tip": "",
+      "answer_text": "Rehydration to form crystalline Gypsum",
+      "explanation": "On mixing with water, Plaster of Paris (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform gypsum (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
+      "tip": "POP setting = Rehydration back to Gypsum (CaSO4 · 2H2O).",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "Jayaprakash Narayan",
         "Suraj Narayan Singh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Jayaprakash NarayanDetailed",
-      "explanation": "After escaping from Hazaribagh Central Jail on Diwali night in November 1942, Jayaprakash Narayan established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.💡 Exam Setter's Tips & Quick Tricks: Azad Dasta (Nepal, 1942) = Jayaprakash Narayan (JP); Escaped from Hazaribagh Jail.",
-      "tip": "",
+      "answer_text": "Jayaprakash Narayan",
+      "explanation": "After escaping from Hazaribagh Central Jail on Diwali night in November 1942, Jayaprakash Narayan established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.",
+      "tip": "Azad Dasta (Nepal, 1942) = Jayaprakash Narayan (JP); Escaped from Hazaribagh Jail.",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "Gandak River",
         "Ghaghra River",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Gandak RiverDetailed",
-      "explanation": "The Gandak River (known in Nepal as the Saligrami or Narayani) enters Bihar at Valmikinagar in West Champaran and forms the boundary between Bihar and UP before discharging into the Ganga at Sonpur/Hajipur.💡 Exam Setter's Tips & Quick Tricks: Gandak = Narayani / Saptagandaki; enters Bihar at Valmikinagar (West Champaran); famous for Saligram stones.",
-      "tip": "",
+      "answer_text": "Gandak River",
+      "explanation": "The Gandak River (known in Nepal as the Saligrami or Narayani) enters Bihar at Valmikinagar in West Champaran and forms the boundary between Bihar and UP before discharging into the Ganga at Sonpur/Hajipur.",
+      "tip": "Gandak = Narayani / Saptagandaki; enters Bihar at Valmikinagar (West Champaran); famous for Saligram stones.",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "7.84% (7,380.79 sq km)",
         "9.12%",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "7.84% (7,380.79 sq km)Detailed",
-      "explanation": "According to ISFR 2021, the recorded forest cover of Bihar is 7,380.79 sq km, which constitutes 7.84% of the State's total geographical area (94,163 sq km). Kaimur district has the highest forest cover (31.56%).💡 Exam Setter's Tips & Quick Tricks: Forest Cover of Bihar = 7.84% (ISFR 2021); District with highest forest % = Kaimur (31.56%).",
-      "tip": "",
+      "answer_text": "7.84% (7,380.79 sq km)",
+      "explanation": "According to ISFR 2021, the recorded forest cover of Bihar is 7,380.79 sq km, which constitutes 7.84% of the State's total geographical area (94,163 sq km). Kaimur district has the highest forest cover (31.56%).",
+      "tip": "Forest Cover of Bihar = 7.84% (ISFR 2021); District with highest forest % = Kaimur (31.56%).",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "Article 324",
         "Article 326",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Article 324Detailed",
-      "explanation": "Article 324 provides for the establishment of the Election Commission of India to conduct elections to Parliament, State Legislatures, and the offices of President and Vice-President. Elections to Panchayats are conducted by State Election Commissions under Article 243K.💡 Exam Setter's Tips & Quick Tricks: Election Commission of India = Article 324; Adult Suffrage = Article 326; State Election Commission (Panchayats) = Article 243K.",
-      "tip": "",
+      "answer_text": "Article 324",
+      "explanation": "Article 324 provides for the establishment of the Election Commission of India to conduct elections to Parliament, State Legislatures, and the offices of President and Vice-President. Elections to Panchayats are conducted by State Election Commissions under Article 243K.",
+      "tip": "Election Commission of India = Article 324; Adult Suffrage = Article 326; State Election Commission (Panchayats) = Article 243K.",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "2020",
         "2021",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "2020Detailed",
-      "explanation": "Drafted by a committee headed by Dr. K. Kasturirangan, NEP 2020 was approved on 29 July 2020. It replaced the previous 10+2 system with a new 5+3+3+4 pedagogical structure covering foundational to secondary school stages.💡 Exam Setter's Tips & Quick Tricks: NEP 2020: Committee Chairman = Dr. K. Kasturirangan; Structure = 5+3+3+4; Approved = 29 July 2020.",
-      "tip": "",
+      "answer_text": "2020",
+      "explanation": "Drafted by a committee headed by Dr. K. Kasturirangan, NEP 2020 was approved on 29 July 2020. It replaced the previous 10+2 system with a new 5+3+3+4 pedagogical structure covering foundational to secondary school stages.",
+      "tip": "NEP 2020: Committee Chairman = Dr. K. Kasturirangan; Structure = 5+3+3+4; Approved = 29 July 2020.",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "14 : 11",
         "7 : 4",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "14 : 11Detailed",
-      "explanation": "Perimeter of circle = 2πr. Perimeter of square = 4a. Given 2πr = 4a => a = (πr)/2. Area of circle = πr^2. Area of square = a^2 = (π^2 r^2)/4. Ratio = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11.💡 Exam Setter's Tips & Quick Tricks: Ratio of Area(Circle) to Area(Square) when perimeters are equal is always 14 : 11.",
-      "tip": "",
+      "answer_text": "14 : 11",
+      "explanation": "Perimeter of circle = 2πr. Perimeter of square = 4a. Given 2πr = 4a => a = (πr)/2. Area of circle = πr^2. Area of square = a^2 = (π^2 r^2)/4. Ratio = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11.",
+      "tip": "Ratio of Area(Circle) to Area(Square) when perimeters are equal is always 14 : 11.",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "1936",
         "1939",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1936Detailed",
-      "explanation": "The All India Kisan Sabha was established on 11 April 1936 at the Lucknow Congress session. Swami Sahajanand Saraswati was elected President and Prof. N. G. Ranga was appointed General Secretary.💡 Exam Setter's Tips & Quick Tricks: Bihar Provincial Kisan Sabha = 1929 (Sonepur); All India Kisan Sabha = 1936 (Lucknow).",
-      "tip": "",
+      "answer_text": "1936",
+      "explanation": "The All India Kisan Sabha was established on 11 April 1936 at the Lucknow Congress session. Swami Sahajanand Saraswati was elected President and Prof. N. G. Ranga was appointed General Secretary.",
+      "tip": "Bihar Provincial Kisan Sabha = 1929 (Sonepur); All India Kisan Sabha = 1936 (Lucknow).",
       "id": 26
     },
     {
@@ -484,13 +484,13 @@
         "Kishanganj",
         "Supaul",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "KishanganjDetailed",
-      "explanation": "Kishanganj, located at the eastern tip of Bihar (part of the Siliguri corridor area), borders Nepal to its north and West Bengal (Darjeeling and Uttar Dinajpur districts) to its east.💡 Exam Setter's Tips & Quick Tricks: Borders both Nepal and West Bengal = Kishanganj; Borders both Nepal and UP = West Champaran.",
-      "tip": "",
+      "answer_text": "Kishanganj",
+      "explanation": "Kishanganj, located at the eastern tip of Bihar (part of the Siliguri corridor area), borders Nepal to its north and West Bengal (Darjeeling and Uttar Dinajpur districts) to its east.",
+      "tip": "Borders both Nepal and West Bengal = Kishanganj; Borders both Nepal and UP = West Champaran.",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "Digestion of dietary proteins into peptones and proteoses in an acidic medium",
         "Breakdown of starches into maltose",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Digestion of dietary proteins into peptones and proteoses in an acidic mediumDetailed",
-      "explanation": "Gastric chief cells secrete pepsinogen, which is activated into pepsin by hydrochloric acid (HCl, pH ~1.5 to 2.0). Pepsin cleaves complex dietary proteins into shorter peptides (proteoses and peptones).💡 Exam Setter's Tips & Quick Tricks: Protein digestion enzymes: Stomach (acidic) = Pepsin; Pancreas/Small intestine (alkaline) = Trypsin.",
-      "tip": "",
+      "answer_text": "Digestion of dietary proteins into peptones and proteoses in an acidic medium",
+      "explanation": "Gastric chief cells secrete pepsinogen, which is activated into pepsin by hydrochloric acid (HCl, pH ~1.5 to 2.0). Pepsin cleaves complex dietary proteins into shorter peptides (proteoses and peptones).",
+      "tip": "Protein digestion enzymes: Stomach (acidic) = Pepsin; Pancreas/Small intestine (alkaline) = Trypsin.",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "Law of Independent Assortment",
         "Law of Dominance",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Law of Independent AssortmentDetailed",
-      "explanation": "Mendel's Law of Independent Assortment states that alleles of two or more different genes get sorted into gametes independently of one another, demonstrated by the classic 9:3:3:1 dihybrid phenotypic ratio.💡 Exam Setter's Tips & Quick Tricks: Monohybrid phenotypic ratio = 3:1 (Law of Segregation); Dihybrid phenotypic ratio = 9:3:3:1 (Law of Independent Assortment).",
-      "tip": "",
+      "answer_text": "Law of Independent Assortment",
+      "explanation": "Mendel's Law of Independent Assortment states that alleles of two or more different genes get sorted into gametes independently of one another, demonstrated by the classic 9:3:3:1 dihybrid phenotypic ratio.",
+      "tip": "Monohybrid phenotypic ratio = 3:1 (Law of Segregation); Dihybrid phenotypic ratio = 9:3:3:1 (Law of Independent Assortment).",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "10th, 20th, and 30th Regiments",
         "1st, 2nd, and 3rd Bengal Light Cavalry",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "7th, 8th, and 40th Regiments of Native InfantryDetailed",
-      "explanation": "On 25 July 1857, the sepoy soldiers of the 7th, 8th, and 40th Native Infantry regiments at Danapur revolted against General Lloyd, crossed the Son River, and joined Babu Kunwar Singh at Jagdishpur/Arrah.💡 Exam Setter's Tips & Quick Tricks: Danapur mutiny regiments = 7th, 8th, and 40th Native Infantry (25 July 1857).",
-      "tip": "",
+      "answer_text": "7th, 8th, and 40th Regiments of Native Infantry",
+      "explanation": "On 25 July 1857, the sepoy soldiers of the 7th, 8th, and 40th Native Infantry regiments at Danapur revolted against General Lloyd, crossed the Son River, and joined Babu Kunwar Singh at Jagdishpur/Arrah.",
+      "tip": "Danapur mutiny regiments = 7th, 8th, and 40th Native Infantry (25 July 1857).",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "Mir Jafar",
         "Mohan Lal",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Mir JafarDetailed",
-      "explanation": "In the Battle of Plassey on 23 June 1757, Mir Jafar (Mir Bakshi) conspired with Robert Clive and kept the major portion of the Nawab's troops standing inactive on the battlefield, leading to Siraj-ud-Daulah's defeat.💡 Exam Setter's Tips & Quick Tricks: Battle of Plassey (23 June 1757) = Robert Clive vs Siraj-ud-Daulah; Traitor = Mir Jafar.",
-      "tip": "",
+      "answer_text": "Mir Jafar",
+      "explanation": "In the Battle of Plassey on 23 June 1757, Mir Jafar (Mir Bakshi) conspired with Robert Clive and kept the major portion of the Nawab's troops standing inactive on the battlefield, leading to Siraj-ud-Daulah's defeat.",
+      "tip": "Battle of Plassey (23 June 1757) = Robert Clive vs Siraj-ud-Daulah; Traitor = Mir Jafar.",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "Lord Cornwallis",
         "Lord Wellesley",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Lord CornwallisDetailed",
-      "explanation": "Lord Cornwallis enacted the Permanent Settlement in 1793 in Bengal and Bihar with John Shore. Zamindars were recognized as owners of the land with fixed revenue dues (10/11th to British Company, 1/11th to Zamindar).💡 Exam Setter's Tips & Quick Tricks: Permanent Settlement (1793) = Lord Cornwallis (Bengal, Bihar, Orissa); Ryotwari = Thomas Munro; Mahalwari = Holt Mackenzie.",
-      "tip": "",
+      "answer_text": "Lord Cornwallis",
+      "explanation": "Lord Cornwallis enacted the Permanent Settlement in 1793 in Bengal and Bihar with John Shore. Zamindars were recognized as owners of the land with fixed revenue dues (10/11th to British Company, 1/11th to Zamindar).",
+      "tip": "Permanent Settlement (1793) = Lord Cornwallis (Bengal, Bihar, Orissa); Ryotwari = Thomas Munro; Mahalwari = Holt Mackenzie.",
       "id": 32
     },
     {
@@ -592,13 +592,13 @@
         "Article 148",
         "Article 280",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Article 148Detailed",
-      "explanation": "Article 148 establishes an independent CAG of India appointed by the President. Under Article 149 and 151, the CAG audits all accounts related to expenditure from the Consolidated Fund of India and submits reports to Parliament and State Legislatures.💡 Exam Setter's Tips & Quick Tricks: CAG of India = Article 148; Term = 6 years or 65 years of age; Guardian of Public Purse.",
-      "tip": "",
+      "answer_text": "Article 148",
+      "explanation": "Article 148 establishes an independent CAG of India appointed by the President. Under Article 149 and 151, the CAG audits all accounts related to expenditure from the Consolidated Fund of India and submits reports to Parliament and State Legislatures.",
+      "tip": "CAG of India = Article 148; Term = 6 years or 65 years of age; Guardian of Public Purse.",
       "id": 33
     },
     {
@@ -610,13 +610,13 @@
         "2006",
         "2011",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "2006Detailed",
-      "explanation": "Under the leadership of Chief Minister Nitish Kumar, the Bihar Panchayati Raj Act 2006 was enacted, reserving 50% of all elected seats and office-bearer positions for women in Gram Panchayats, Panchayat Samitis, and Zilla Parishads.💡 Exam Setter's Tips & Quick Tricks: 50% Women Reservation in Panchayats = Bihar Panchayati Raj Act 2006 (First state in India).",
-      "tip": "",
+      "answer_text": "2006",
+      "explanation": "Under the leadership of Chief Minister Nitish Kumar, the Bihar Panchayati Raj Act 2006 was enacted, reserving 50% of all elected seats and office-bearer positions for women in Gram Panchayats, Panchayat Samitis, and Zilla Parishads.",
+      "tip": "50% Women Reservation in Panchayats = Bihar Panchayati Raj Act 2006 (First state in India).",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "NH 19",
         "NH 33",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "NH 27 (Old NH 28 / NH 31)Detailed",
-      "explanation": "National Highway 27 is the second longest national highway in India, connecting Porbandar in Gujarat to Silchar in Assam. In Bihar, it traverses Gopalganj, Motihari, Muzaffarpur, Darbhanga, Jhanjharpur, Supaul, and Purnia as the 4-lane East-West Corridor.💡 Exam Setter's Tips & Quick Tricks: East-West Corridor through North Bihar = NH 27 (Old NH 28 & 31).",
-      "tip": "",
+      "answer_text": "NH 27 (Old NH 28 / NH 31)",
+      "explanation": "National Highway 27 is the second longest national highway in India, connecting Porbandar in Gujarat to Silchar in Assam. In Bihar, it traverses Gopalganj, Motihari, Muzaffarpur, Darbhanga, Jhanjharpur, Supaul, and Purnia as the 4-lane East-West Corridor.",
+      "tip": "East-West Corridor through North Bihar = NH 27 (Old NH 28 & 31).",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "Har Ghar Nal Ka Jal (हर घर नल का जल)",
         "Swachh Gaon Abhiyan",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Har Ghar Nal Ka Jal (हर घर नल का जल)Detailed",
-      "explanation": "Launched in 2016 under Saat Nischay-1 and continued under Saat Nischay-2, 'Har Ghar Nal Ka Jal' aims to provide piped potable drinking water to all households in Bihar without discrimination.💡 Exam Setter's Tips & Quick Tricks: Piped tap water scheme in Bihar = Har Ghar Nal Ka Jal (Saat Nischay).",
-      "tip": "",
+      "answer_text": "Har Ghar Nal Ka Jal (हर घर नल का जल)",
+      "explanation": "Launched in 2016 under Saat Nischay-1 and continued under Saat Nischay-2, 'Har Ghar Nal Ka Jal' aims to provide piped potable drinking water to all households in Bihar without discrimination.",
+      "tip": "Piped tap water scheme in Bihar = Har Ghar Nal Ka Jal (Saat Nischay).",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "Kaimur Wildlife Sanctuary",
         "Bhimbandh Wildlife Sanctuary",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Kaimur Wildlife SanctuaryDetailed",
-      "explanation": "Kaimur Wildlife Sanctuary, situated in Kaimur and Rohtas districts over the Vindhyan plateau, covers an area of approx. 1,504.96 sq km, making it the largest wildlife sanctuary in Bihar.💡 Exam Setter's Tips & Quick Tricks: Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq km); Only National Park = Valmiki National Park.",
-      "tip": "",
+      "answer_text": "Kaimur Wildlife Sanctuary",
+      "explanation": "Kaimur Wildlife Sanctuary, situated in Kaimur and Rohtas districts over the Vindhyan plateau, covers an area of approx. 1,504.96 sq km, making it the largest wildlife sanctuary in Bihar.",
+      "tip": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq km); Only National Park = Valmiki National Park.",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "Maulvi Wilayat Ali",
         "Maulvi Inayat Ali",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 3,
       "answer_letter": "D",
-      "answer_text": "More than one of the aboveDetailed",
-      "explanation": "Syed Ahmad of Rae Bareli founded the movement in India. When he visited Patna in 1821, he appointed Maulvi Wilayat Ali and Maulvi Inayat Ali as his chief khalifas (deputies), who organized Sadikpur (Patna) as the vital logistical and financial headquarters of the Wahhabi movement. Because all three were paramount leaders, (D) is the official key.💡 Exam Setter's Tips & Quick Tricks: Wahhabi Movement in Patna: Founder in India = Syed Ahmad Barelvi; Patna operational leaders = Wilayat Ali & Inayat Ali. Triggers Option (D).",
-      "tip": "",
+      "answer_text": "More than one of the above",
+      "explanation": "Syed Ahmad of Rae Bareli founded the movement in India. When he visited Patna in 1821, he appointed Maulvi Wilayat Ali and Maulvi Inayat Ali as his chief khalifas (deputies), who organized Sadikpur (Patna) as the vital logistical and financial headquarters of the Wahhabi movement. Because all three were paramount leaders, (D) is the official key.",
+      "tip": "Wahhabi Movement in Patna: Founder in India = Syed Ahmad Barelvi; Patna operational leaders = Wilayat Ali & Inayat Ali. Triggers Option (D).",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "44th Constitutional Amendment Act 1978",
         "52nd Constitutional Amendment Act 1985",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "44th Constitutional Amendment Act 1978Detailed",
-      "explanation": "The 44th Constitutional Amendment Act 1978 enacted by the Janata Party government under Morarji Desai deleted Article 19(1)(f) and Article 31 from Part III and inserted Article 300A in Part XII, converting property into a non-fundamental legal/constitutional right.💡 Exam Setter's Tips & Quick Tricks: Right to Property deleted from Fundamental Rights = 44th Amendment 1978 (now Article 300A).",
-      "tip": "",
+      "answer_text": "44th Constitutional Amendment Act 1978",
+      "explanation": "The 44th Constitutional Amendment Act 1978 enacted by the Janata Party government under Morarji Desai deleted Article 19(1)(f) and Article 31 from Part III and inserted Article 300A in Part XII, converting property into a non-fundamental legal/constitutional right.",
+      "tip": "Right to Property deleted from Fundamental Rights = 44th Amendment 1978 (now Article 300A).",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "94,163 sq km",
         "104,163 sq km",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "94,163 sq kmDetailed",
-      "explanation": "The total geographical area of Bihar is 94,163 sq km (approx. 2.86% of India's total geographical area), ranking it as the 12th largest State in India by territory.💡 Exam Setter's Tips & Quick Tricks: Total Area of Bihar = 94,163 sq km (2.86% of India's land area; 12th in area, 3rd in population).\nAnswer Key Summary Table — Set 8 (Questions 281 to 320)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "tip": "",
+      "answer_text": "94,163 sq km",
+      "explanation": "The total geographical area of Bihar is 94,163 sq km (approx. 2.86% of India's total geographical area), ranking it as the 12th largest State in India by territory.",
+      "tip": "Total Area of Bihar = 94,163 sq km (2.86% of India's land area; 12th in area, 3rd in population).\nAnswer Key Summary Table — Set 8 (Questions 281 to 320)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
       "id": 40
     }
   ]

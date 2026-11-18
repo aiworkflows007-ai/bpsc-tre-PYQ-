@@ -16,13 +16,13 @@
         "memory",
         "I/O device",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "CPU",
-      "explanation": "",
-      "tip": "",
+      "explanation": "CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory.",
+      "tip": "CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "second",
         "third",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "first",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "second",
+      "explanation": "Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386).",
+      "tip": "Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386).",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "16 MB",
         "16 GB",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "4 GB",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16 MB",
+      "explanation": "Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB.",
+      "tip": "Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "microcontroller",
         "solid-state device",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "microprocessor",
-      "explanation": "",
-      "tip": "",
+      "explanation": "CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller.",
+      "tip": "CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "microprocessor",
         "assembler",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "microcontroller",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller.",
+      "tip": "Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller.",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "Trackball",
         "Joystick",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Mouse",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Joystick",
+      "explanation": "Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR).",
+      "tip": "Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR).",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "DRAM",
         "ROM",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "SRAM",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "ROM",
+      "explanation": "Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh).",
+      "tip": "Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh).",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "RAM",
         "Hard Disk Drive",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "CD Drive",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape.",
+      "tip": "Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape.",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "assembler",
         "linker",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "compiler",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "assembler",
+      "explanation": "Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter.",
+      "tip": "Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter.",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "compiler",
         "loader",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "assembler",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "compiler",
+      "explanation": "Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions.",
+      "tip": "Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions.",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "loader",
         "interpreter",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "compiler",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "interpreter",
+      "explanation": "Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**.",
+      "tip": "Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**.",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "Windows",
         "Oracle",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Linux",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Oracle",
+      "explanation": "Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2).",
+      "tip": "Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2).",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "operating system",
         "application software",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "system software",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "operating system",
+      "explanation": "Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software.",
+      "tip": "Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software.",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "Format",
         "Folder",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Scandisk",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Folder",
+      "explanation": "System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects.",
+      "tip": "System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects.",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "Shift + Delete",
         "Ctrl + Delete",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Delete",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Shift + Delete",
+      "explanation": "Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion.",
+      "tip": "Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion.",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "ALU, CPU, memory",
         "memory, CPU, I/O",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "memory, I/O, DMA",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "memory, CPU, I/O",
+      "explanation": "System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers.",
+      "tip": "System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers.",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "32K",
         "64K",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "16K",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "64K",
+      "explanation": "Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K.",
+      "tip": "Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K.",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "register",
         "magnetic tape",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "cache",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "magnetic tape",
+      "explanation": "Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access).",
+      "tip": "Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access).",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "2^40",
         "2^30",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "2^20",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2^40",
+      "explanation": "Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB.",
+      "tip": "Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB.",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "Linker",
         "Assembler",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "Loader",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler.",
+      "tip": "Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler.",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "abcd+-*",
         "ab+cd*-",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "ab+cd-*",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*.",
+      "tip": "Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*.",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "Queue",
         "Tree",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "Stack",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure.",
+      "tip": "Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure.",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "queue",
         "linked list",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "stack",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "queue",
+      "explanation": "Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO).",
+      "tip": "Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO).",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "LIFO",
         "LILO",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out)."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "FIFO",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out).",
+      "tip": "Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out).",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "LIFO",
         "LILO",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "FIFO",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "LIFO",
+      "explanation": "Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off.",
+      "tip": "Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off.",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "a class is created",
         "a class is declared",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Declaring a class creates no object memory; object instantiation automatically triggers constructor execution."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "an object is created",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Declaring a class creates no object memory; object instantiation automatically triggers constructor execution.",
+      "tip": "Declaring a class creates no object memory; object instantiation automatically triggers constructor execution.",
       "id": 26
     },
     {
@@ -484,13 +484,13 @@
         "private",
         "protected",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Fundamental C++ interview rule: `struct` = public by default; `class` = private by default."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "public",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Fundamental C++ interview rule: `struct` = public by default; `class` = private by default.",
+      "tip": "Fundamental C++ interview rule: `struct` = public by default; `class` = private by default.",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "private",
         "protected",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Structure vs Class access defaults is one of BPSC's most frequently repeated questions."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "public",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "private",
+      "explanation": "Structure vs Class access defaults is one of BPSC's most frequently repeated questions.",
+      "tip": "Structure vs Class access defaults is one of BPSC's most frequently repeated questions.",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "Data",
         "Data and functions",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Array",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Data and functions",
+      "explanation": "Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods).",
+      "tip": "Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods).",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "3",
         "4",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Remember the three C++ access specifiers: Public, Private, and Protected."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "2",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3",
+      "explanation": "Remember the three C++ access specifiers: Public, Private, and Protected.",
+      "tip": "Remember the three C++ access specifiers: Public, Private, and Protected.",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "::",
         "#",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": ":",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "::",
+      "explanation": "Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator.",
+      "tip": "Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator.",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "Inheritance",
         "Encapsulation",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Polymorphism",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Inheritance",
+      "explanation": "Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism.",
+      "tip": "Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism.",
       "id": 32
     },
     {
@@ -592,13 +592,13 @@
         "30, 20",
         "20, 30",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "30, 10",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable.",
+      "tip": "Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable.",
       "id": 33
     },
     {
@@ -610,13 +610,13 @@
         "It slows down the execution.",
         "It decreases the code size.",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "It speeds up the execution.",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead.",
+      "tip": "Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead.",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "FIRST 20 SECOND",
         "SECOND 25 FIRST",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "FIRST 52 SECOND",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "FIRST 20 SECOND",
+      "explanation": "Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20.",
+      "tip": "Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20.",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "character output",
         "common output",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "class output",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "character output",
+      "explanation": "Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error.",
+      "tip": "Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error.",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "storage",
         "program",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "memory",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "program",
+      "explanation": "Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software.",
+      "tip": "Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software.",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "program flowchart",
         "algorithms written in computer language",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "system flowchart",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "algorithms written in computer language",
+      "explanation": "Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language.",
+      "tip": "Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language.",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "ring",
         "mesh",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "star",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "mesh",
+      "explanation": "Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus.",
+      "tip": "Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus.",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "transport layer",
         "session layer",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "network layer",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "transport layer",
+      "explanation": "Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer.",
+      "tip": "Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer.",
       "id": 40
     },
     {
@@ -736,13 +736,13 @@
         "bit rate",
         "baud rate",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER)."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "error rate",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER).",
+      "tip": "Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER).",
       "id": 41
     },
     {
@@ -754,13 +754,13 @@
         "Twisted-pair cable",
         "Fiber-optic cable",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Coaxial cable",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Fiber-optic cable",
+      "explanation": "Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP).",
+      "tip": "Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP).",
       "id": 42
     },
     {
@@ -772,13 +772,13 @@
         "Star",
         "Ring",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "Bus",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring.",
+      "tip": "Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring.",
       "id": 43
     },
     {
@@ -790,13 +790,13 @@
         "LAN",
         "MAN",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "WAN",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN.",
+      "tip": "Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN.",
       "id": 44
     },
     {
@@ -808,13 +808,13 @@
         "16 bits",
         "32 bits",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "8 bits",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "32 bits",
+      "explanation": "Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits.",
+      "tip": "Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits.",
       "id": 45
     },
     {
@@ -826,13 +826,13 @@
         "16 bits",
         "48 bits",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "32 bits",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "48 bits",
+      "explanation": "MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer).",
+      "tip": "MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer).",
       "id": 46
     },
     {
@@ -844,13 +844,13 @@
         "Decoding",
         "Beating the system",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "Hacking",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing.",
+      "tip": "Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing.",
       "id": 47
     },
     {
@@ -862,13 +862,13 @@
         "damage program",
         "clone itself",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Since virus definition includes both self-replication (cloning) and payload destruction, select Option"
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "damage data",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "clone itself",
+      "explanation": "Since virus definition includes both self-replication (cloning) and payload destruction, select Option (D).",
+      "tip": "Since virus definition includes both self-replication (cloning) and payload destruction, select Option (D).",
       "id": 48
     },
     {
@@ -880,13 +880,13 @@
         "software piracy",
         "highway robbery",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "larceny",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "software piracy",
+      "explanation": "Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking.",
+      "tip": "Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking.",
       "id": 49
     },
     {
@@ -898,13 +898,13 @@
         "file allocation table",
         "root directory",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option"
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "partition table",
-      "explanation": "",
-      "tip": "",
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option (D).",
+      "tip": "In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option (D).",
       "id": 50
     },
     {
@@ -912,17 +912,17 @@
       "en": "An attribute of one table matching the primary key of another table is called as",
       "hi": "एक टेबल का ऐट्रिब्यूट, जो दूसरे टेबल की प्राइमरी की से मैच करता हो, कहलाता है",
       "options": [
-        "foreign key",
-        "secondary key",
-        "candidate key",
+        "foreign",
+        "secondary",
+        "candidate",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "foreign key",
-      "explanation": "",
-      "tip": "",
+      "answer_text": "foreign",
+      "explanation": "Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key.",
+      "tip": "Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key.",
       "id": 51
     },
     {
@@ -934,13 +934,13 @@
         "Second Normal Form (2NF)",
         "Third Normal Form (3NF)",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "First Normal Form (1NF)",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Second Normal Form (2NF)",
+      "explanation": "Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency.",
+      "tip": "Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency.",
       "id": 52
     },
     {
@@ -952,13 +952,13 @@
         "domain",
         "relation",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "attribute",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "domain",
+      "explanation": "Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation.",
+      "tip": "Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation.",
       "id": 53
     },
     {
@@ -970,13 +970,13 @@
         "degree",
         "cardinality",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Count of Columns = Degree; Count of Rows = Cardinality."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "domain",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "degree",
+      "explanation": "Count of Columns = Degree; Count of Rows = Cardinality.",
+      "tip": "Count of Columns = Degree; Count of Rows = Cardinality.",
       "id": 54
     },
     {
@@ -988,13 +988,13 @@
         "Insert",
         "Alter",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows)."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "Update",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows).",
+      "tip": "Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows).",
       "id": 55
     },
     {
@@ -1006,13 +1006,13 @@
         "Show",
         "Select",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Display",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Select",
+      "explanation": "Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`.",
+      "tip": "Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`.",
       "id": 56
     },
     {
@@ -1024,13 +1024,13 @@
         "Modify",
         "Update",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: `ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML)."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "Alter",
-      "explanation": "",
-      "tip": "",
+      "explanation": "`ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML).",
+      "tip": "`ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML).",
       "id": 57
     },
     {
@@ -1042,13 +1042,13 @@
         "LIKE",
         "BETWEEN",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "IN",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "LIKE",
+      "explanation": "Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`.",
+      "tip": "Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`.",
       "id": 58
     },
     {
@@ -1060,13 +1060,13 @@
         "7, 7",
         "8, 6",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "7, 6",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7, 7",
+      "explanation": "Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7.",
+      "tip": "Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7.",
       "id": 59
     },
     {
@@ -1078,13 +1078,13 @@
         "DROP",
         "ERASE",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "DELETE",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "DROP",
+      "explanation": "Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`.",
+      "tip": "Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`.",
       "id": 60
     },
     {
@@ -1096,13 +1096,13 @@
         "instruction register",
         "accumulator",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR)."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "program counter",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR).",
+      "tip": "Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR).",
       "id": 61
     },
     {
@@ -1114,13 +1114,13 @@
         "program counter",
         "instruction register",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "accumulator",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "instruction register",
+      "explanation": "Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR).",
+      "tip": "Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR).",
       "id": 62
     },
     {
@@ -1132,13 +1132,13 @@
         "memory address register",
         "memory buffer register",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "index register",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "memory address register",
+      "explanation": "Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register).",
+      "tip": "Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register).",
       "id": 63
     },
     {
@@ -1150,13 +1150,13 @@
         "auxiliary memory",
         "buffer",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "main memory",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "buffer",
+      "explanation": "Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory.",
+      "tip": "Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory.",
       "id": 64
     },
     {
@@ -1168,13 +1168,13 @@
         "Random Access Memory",
         "Secondary Memory",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "Sequential Access Memory",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Random Access Memory",
+      "explanation": "Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape.",
+      "tip": "Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape.",
       "id": 65
     },
     {
@@ -1186,13 +1186,13 @@
         "3, 3",
         "4, 4",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "4, 3",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4.",
+      "tip": "Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4.",
       "id": 66
     },
     {
@@ -1204,13 +1204,13 @@
         "-127 to +127",
         "-128 to +127",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: 2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "-128 to +128",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "-128 to +127",
+      "explanation": "2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767.",
+      "tip": "2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767.",
       "id": 67
     },
     {
@@ -1222,13 +1222,13 @@
         "5, 7",
         "3, 1",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "5, 1",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "3, 1",
+      "explanation": "Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left.",
+      "tip": "Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left.",
       "id": 68
     },
     {
@@ -1240,13 +1240,13 @@
         "0101",
         "1000",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "1010",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "1000",
+      "explanation": "The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement.",
+      "tip": "The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement.",
       "id": 69
     },
     {
@@ -1258,13 +1258,13 @@
         "9",
         "12",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "15",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "9",
+      "explanation": "Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9.",
+      "tip": "Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9.",
       "id": 70
     },
     {
@@ -1276,13 +1276,13 @@
         "x + xy",
         "y + yx",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Absorption & Redundancy rule: `A + A'B = A + B`."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "x + y",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Absorption & Redundancy rule: `A + A'B = A + B`.",
+      "tip": "Absorption & Redundancy rule: `A + A'B = A + B`.",
       "id": 71
     },
     {
@@ -1294,13 +1294,13 @@
         "B",
         "C",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "A",
-      "explanation": "",
-      "tip": "",
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B.",
+      "tip": "Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B.",
       "id": 72
     },
     {
@@ -1312,13 +1312,13 @@
         "(A + B)(A' + C)",
         "(A + B)(A + C)",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C)."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "(A' + B)(A' + C)",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "(A + B)(A + C)",
+      "explanation": "Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C).",
+      "tip": "Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C).",
       "id": 73
     },
     {
@@ -1330,13 +1330,13 @@
         "y",
         "x + y",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Boolean Absorption Law: `x + xy = x`."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "x",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Boolean Absorption Law: `x + xy = x`.",
+      "tip": "Boolean Absorption Law: `x + xy = x`.",
       "id": 74
     },
     {
@@ -1348,13 +1348,13 @@
         "y",
         "xy",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Dual Absorption Law: `x(x + y) = x`."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "x",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Dual Absorption Law: `x(x + y) = x`.",
+      "tip": "Dual Absorption Law: `x(x + y) = x`.",
       "id": 75
     },
     {
@@ -1366,13 +1366,13 @@
         "x",
         "x + x'",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "x'",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "x",
+      "explanation": "Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x.",
+      "tip": "Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x.",
       "id": 76
     },
     {
@@ -1384,13 +1384,13 @@
         "12",
         "16",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "8",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "16",
+      "explanation": "Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256.",
+      "tip": "Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256.",
       "id": 77
     },
     {
@@ -1402,13 +1402,13 @@
         "F = A'B + B'C",
         "F = BC + A'B",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B."
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
       "answer_text": "F = C + A'B",
-      "explanation": "",
-      "tip": "",
+      "explanation": "Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B.",
+      "tip": "Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B.",
       "id": 78
     },
     {
@@ -1420,13 +1420,13 @@
         "OR",
         "NAND",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Universal Gates = NAND and NOR; Basic Gates = AND, OR, NOT."
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "AND",
-      "explanation": "",
-      "tip": "",
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "NAND",
+      "explanation": "Universal Gates = NAND and NOR; Basic Gates = AND, OR, NOT.",
+      "tip": "Universal Gates = NAND and NOR; Basic Gates = AND, OR, NOT.",
       "id": 79
     },
     {
@@ -1438,13 +1438,13 @@
         "4",
         "6",
         "More than one of the above",
-        "None of the above\n✔ 💡 • Exam Setter's Tips & Quick Tricks: Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)"
+        "None of the above"
       ],
-      "answer": 0,
-      "answer_letter": "A",
-      "answer_text": "3",
-      "explanation": "",
-      "tip": "",
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "4",
+      "explanation": "Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)\n(A)\n41\nError Rate Measurement\n(A)\n2\nMicroprocessor Generations (8085)\n(B)\n42\nHighest Speed Media (Fiber)\n(C)\n3\n3rd Gen Memory Limit (16 MB)\n(B)\n43\nSingle Backbone Topology (Bus)\n(A)\n4\nCPU on Single Chip (Microprocessor)\n(A)\n44\nWide Area Network (WAN)\n(A)\n5\nComputer on Single Chip\n(A)\n45\nIPv4 Address Length (32-bit)\n(C)\n6\nGaming Controller (Joystick)\n(C)\n46\nMAC Address Length (48-bit)\n(C)\n7\nNon-volatile Storage (ROM)\n(C)\n47\nUnauthorized Access (Hacking)\n(A)\n8\nLaser Storage Device (CD Drive)\n(A)\n48\nComputer Virus Characteristics\n(D)\n9\nAssembly to Machine (Assembler)\n(B)\n49\nUnauthorized Copying (Piracy)\n(B)\n10\nHigh-level to Machine (Compiler)\n(B)\n50\nHard Disk Table Corruption\n(D)\n11\nLine-by-line Execution (Interpreter)\n(C)\n51\nForeign Key Referential Link\n(A)\n12\nOS Identification vs DBMS\n(C)\n52\nFull Functional Dependency (2NF)\n(B)\n13\nOS Platform Function\n(B)\n53\nAttribute Permitted Values (Domain)\n(B)\n14\nSystem Tools (Scandisk/Format)\n(C)\n54\nAttribute Count (Degree)\n(B)\n15\nPermanent Deletion (Shift+Del)\n(B)\n55\nUpdating Row Values (UPDATE)\n(A)\n16\nComputer Main Subsystems\n(C)\n56\nData Retrieval Query (SELECT)\n(C)\n17\nHex Address Space FFFF (64K)\n(C)\n57\nModifying Table Schema (ALTER)\n(A)\n18\nMinimum Storage Cost (Tape)\n(C)\n58\nPattern Matching Predicate (LIKE)\n(B)\n19\nBinary Prefix Tera (2^40)\n(B)\n59\nDegree & Cardinality Calculation\n(B)\n20\nResident Memory Software (Loader)\n(A)\n60\nRemoving Table Object (DROP)\n(B)\n21\nPrefix to Postfix Conversion\n(A)\n61\nProgram Counter Next Address\n(A)\n22\nInfix to Postfix Data Structure\n(A)\n62\nInstruction Register Current Op\n(C)\n23\nQueue Rear & Front Access\n(B)\n63\nMemory Address Register (MAR)\n(B)\n24\nQueue Access Rule (FIFO)\n(A)\n64\nSpeed Mismatch Buffer\n(C)\n25\nStack Access Rule (LIFO)\n(B)\n65\nRandom Access Memory (RAM)\n(B)\n26\nConstructor Invocation Timing\n(A)\n66\nOctal Addition Arithmetic\n(A)\n27\nStructure Default Access (public)\n(A)\n67\n8-bit 2's Complement Range\n(C)\n28\nClass Default Access (private)\n(B)\n68\nHex to Octal Base Conversion\n(C)\n29\nClass Encapsulation Contents\n(C)\n69\nSelf 2's Complement (1000)\n(C)\n30\nC++ Access Specifier Count (3)\n(B)\n70\nBinary 1s Count in Hex Num\n(B)\n31\nScope Resolution Operator (::)\n(B)\n71\nBoolean Redundancy (x + x'y)\n(A)\n32\nCode Reusability (Inheritance)\n(B)\n72\nBoolean Variable Independence\n(D)\n33\nGlobal Scope Resolution (::i)\n(A)\n73\nOR Distributive Law (A+BC)\n(C)\n34\nInline Function Speedup\n(A)\n74\nAbsorption Law (x + xy = x)\n(A)\n35\nBitwise Left Shift (a<<2)\n(B)\n75\nDual Absorption (x(x+y) = x)\n(A)\n36\ncout Standard Stream Meaning\n(B)\n76\nEven Involutions Law (4 primes)\n(B)\n37\nProgram Definition\n(C)\n77\nTotal 2-Variable Functions (16)\n(C)\n38\nAlgorithmic Program Definition\n(C)\n78\nBoolean Function Simplification\n(A)\n39\nMaximum Reliability (Mesh)\n(C)\n79\nUniversal Gate (NAND Gate)\n(C)\n40\nTransport Layer Host-to-Host\n(B)\n80\nXOR NAND Gate Count (4 Gates)\n(B)\nPart-III: Computer Science — Practice Set 2 (Questions 81 to 160 [Secondary / TGT Computer])Focus: Network Routing, Fifth Generation Computing, Virtual Base Classes, Memory Operators, Stack Applications, Binary Heap Priority Queues, Database Normalization (3NF), and Boolean Equivalence.",
+      "tip": "Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)\n(A)\n41\nError Rate Measurement\n(A)\n2\nMicroprocessor Generations (8085)\n(B)\n42\nHighest Speed Media (Fiber)\n(C)\n3\n3rd Gen Memory Limit (16 MB)\n(B)\n43\nSingle Backbone Topology (Bus)\n(A)\n4\nCPU on Single Chip (Microprocessor)\n(A)\n44\nWide Area Network (WAN)\n(A)\n5\nComputer on Single Chip\n(A)\n45\nIPv4 Address Length (32-bit)\n(C)\n6\nGaming Controller (Joystick)\n(C)\n46\nMAC Address Length (48-bit)\n(C)\n7\nNon-volatile Storage (ROM)\n(C)\n47\nUnauthorized Access (Hacking)\n(A)\n8\nLaser Storage Device (CD Drive)\n(A)\n48\nComputer Virus Characteristics\n(D)\n9\nAssembly to Machine (Assembler)\n(B)\n49\nUnauthorized Copying (Piracy)\n(B)\n10\nHigh-level to Machine (Compiler)\n(B)\n50\nHard Disk Table Corruption\n(D)\n11\nLine-by-line Execution (Interpreter)\n(C)\n51\nForeign Key Referential Link\n(A)\n12\nOS Identification vs DBMS\n(C)\n52\nFull Functional Dependency (2NF)\n(B)\n13\nOS Platform Function\n(B)\n53\nAttribute Permitted Values (Domain)\n(B)\n14\nSystem Tools (Scandisk/Format)\n(C)\n54\nAttribute Count (Degree)\n(B)\n15\nPermanent Deletion (Shift+Del)\n(B)\n55\nUpdating Row Values (UPDATE)\n(A)\n16\nComputer Main Subsystems\n(C)\n56\nData Retrieval Query (SELECT)\n(C)\n17\nHex Address Space FFFF (64K)\n(C)\n57\nModifying Table Schema (ALTER)\n(A)\n18\nMinimum Storage Cost (Tape)\n(C)\n58\nPattern Matching Predicate (LIKE)\n(B)\n19\nBinary Prefix Tera (2^40)\n(B)\n59\nDegree & Cardinality Calculation\n(B)\n20\nResident Memory Software (Loader)\n(A)\n60\nRemoving Table Object (DROP)\n(B)\n21\nPrefix to Postfix Conversion\n(A)\n61\nProgram Counter Next Address\n(A)\n22\nInfix to Postfix Data Structure\n(A)\n62\nInstruction Register Current Op\n(C)\n23\nQueue Rear & Front Access\n(B)\n63\nMemory Address Register (MAR)\n(B)\n24\nQueue Access Rule (FIFO)\n(A)\n64\nSpeed Mismatch Buffer\n(C)\n25\nStack Access Rule (LIFO)\n(B)\n65\nRandom Access Memory (RAM)\n(B)\n26\nConstructor Invocation Timing\n(A)\n66\nOctal Addition Arithmetic\n(A)\n27\nStructure Default Access (public)\n(A)\n67\n8-bit 2's Complement Range\n(C)\n28\nClass Default Access (private)\n(B)\n68\nHex to Octal Base Conversion\n(C)\n29\nClass Encapsulation Contents\n(C)\n69\nSelf 2's Complement (1000)\n(C)\n30\nC++ Access Specifier Count (3)\n(B)\n70\nBinary 1s Count in Hex Num\n(B)\n31\nScope Resolution Operator (::)\n(B)\n71\nBoolean Redundancy (x + x'y)\n(A)\n32\nCode Reusability (Inheritance)\n(B)\n72\nBoolean Variable Independence\n(D)\n33\nGlobal Scope Resolution (::i)\n(A)\n73\nOR Distributive Law (A+BC)\n(C)\n34\nInline Function Speedup\n(A)\n74\nAbsorption Law (x + xy = x)\n(A)\n35\nBitwise Left Shift (a<<2)\n(B)\n75\nDual Absorption (x(x+y) = x)\n(A)\n36\ncout Standard Stream Meaning\n(B)\n76\nEven Involutions Law (4 primes)\n(B)\n37\nProgram Definition\n(C)\n77\nTotal 2-Variable Functions (16)\n(C)\n38\nAlgorithmic Program Definition\n(C)\n78\nBoolean Function Simplification\n(A)\n39\nMaximum Reliability (Mesh)\n(C)\n79\nUniversal Gate (NAND Gate)\n(C)\n40\nTransport Layer Host-to-Host\n(B)\n80\nXOR NAND Gate Count (4 Gates)\n(B)\nPart-III: Computer Science — Practice Set 2 (Questions 81 to 160 [Secondary / TGT Computer])Focus: Network Routing, Fifth Generation Computing, Virtual Base Classes, Memory Operators, Stack Applications, Binary Heap Priority Queues, Database Normalization (3NF), and Boolean Equivalence.",
       "id": 80
     }
   ]

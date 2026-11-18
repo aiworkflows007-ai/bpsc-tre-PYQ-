@@ -77,6 +77,26 @@ export function checkIsSetUnlocked(
   }
 }
 
+export function formatOptionLabel(opt: string, index: number, lang: 'en' | 'hi'): string {
+  if (!opt) return ''
+  if (lang === 'hi') {
+    if (index === 3 && /more than one/i.test(opt)) {
+      return 'उपर्युक्त में से एक से अधिक'
+    }
+    if (index === 4 && /none of the above/i.test(opt)) {
+      return 'उपर्युक्त में से कोई नहीं'
+    }
+  } else if (lang === 'en') {
+    if (index === 3 && /उपर्युक्त में से एक से अधिक/i.test(opt)) {
+      return 'More than one of the above'
+    }
+    if (index === 4 && /उपर्युक्त में से कोई नहीं/i.test(opt)) {
+      return 'None of the above'
+    }
+  }
+  return opt
+}
+
 const copy = {
   en: {
     start: 'Start your preparation',
@@ -230,7 +250,7 @@ function Header({ lang, setLang, route, setRoute }: { lang: Lang; setLang: (x: L
 function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void }) {
   const t = copy[lang]
   const totalQuestions = SETS_CATALOG.reduce((sum, s) => sum + s.question_count, 0)
-  const defaultSet = SETS_CATALOG.find(s => s.id === 'bpsc-tre4-qualifying-set1') || SETS_CATALOG[0]
+  const defaultSet = SETS_CATALOG.find(s => s.id === 'bpsc-tre4-qualifying-hindi-set1') || SETS_CATALOG.find(s => s.id === 'bpsc-tre4-qualifying-english-set1') || SETS_CATALOG[0]
 
   return (
     <>
@@ -246,13 +266,13 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
             <button
               className="primary"
               onClick={() => {
-                prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-set1')
-                prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Practice Set 1 (40Q)')
+                prefs.set('currentSetId', defaultSet.id)
+                prefs.set('lastSubject', defaultSet.title)
                 setRoute('/app/practice')
               }}
             >
               <Icon name="book" />
-              {lang === 'hi' ? 'भाषा अर्हता सेट 1 (40 प्रश्न) शुरू करें' : 'Start Language Qualifying Set 1 (40Q)'}
+              {lang === 'hi' ? `${defaultSet.title} शुरू करें` : `Start ${defaultSet.title}`}
             </button>
             <button className="text-button" onClick={() => setRoute('/app')}>
               Browse all {SETS_CATALOG.length} question sets ({totalQuestions}Q) <Icon name="arrow" />
@@ -263,21 +283,21 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
         <aside className="hero-paper">
           <div className="paper-top">
             <span>Part-I Qualifying Paper</span>
-            <b>{defaultSet?.question_count || 40} Questions</b>
+            <b>{defaultSet.question_count} Questions</b>
           </div>
-          <h3>{defaultSet?.title || 'Language Qualifying Set 1'}</h3>
-          <p>English (Q1–15) + General Hindi (Q16–40)</p>
+          <h3>{defaultSet.title}</h3>
+          <p>{defaultSet.subject} · Authentic BPSC Paper</p>
           <div className="mini-progress">
             <i style={{ width: '40%' }} />
           </div>
           <div className="paper-bottom">
             <span>Unlock Set 2 Requirement</span>
-            <b>Score 80%+ (32/40)</b>
+            <b>Score 80%+ ({Math.ceil(defaultSet.question_count * 0.8)}/{defaultSet.question_count})</b>
           </div>
           <button
             onClick={() => {
-              prefs.set('currentSetId', defaultSet?.id || 'bpsc-tre4-qualifying-set1')
-              prefs.set('lastSubject', defaultSet?.title || 'Language Qualifying Practice Set 1 (40Q)')
+              prefs.set('currentSetId', defaultSet.id)
+              prefs.set('lastSubject', defaultSet.title)
               setRoute('/app/practice')
             }}
           >
@@ -336,24 +356,50 @@ function Home({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => void })
   )
 }
 
-function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string) => void; initial: string | null }) {
+function AppHome({
+  lang,
+  setRoute,
+  initial,
+  initialSubject
+}: {
+  lang: Lang
+  setRoute: (s: string) => void
+  initial: string | null
+  initialSubject?: string | null
+}) {
   const t = copy[lang]
   const [category, setCategory] = useState<string>(initial || '')
+  const [selectedQualifyingSubject, setSelectedQualifyingSubject] = useState<'English Language' | 'General Hindi' | null>(() => {
+    if (initialSubject === 'english') return 'English Language'
+    if (initialSubject === 'hindi') return 'General Hindi'
+    return null
+  })
   const [selectedSet, setSelectedSet] = useState<SetMeta | null>(null)
   const [freeMode, setFreeMode] = useState<boolean>(() => prefs.get('free_mode_unlock_all', false))
 
   useEffect(() => {
-    if (initial) {
+    if (initial !== null) {
       setCategory(initial)
       setSelectedSet(null)
     }
-  }, [initial])
+    if (initialSubject === 'english') {
+      setSelectedQualifyingSubject('English Language')
+    } else if (initialSubject === 'hindi') {
+      setSelectedQualifyingSubject('General Hindi')
+    } else if (!initialSubject && initial === 'qualifying') {
+      setSelectedQualifyingSubject(null)
+    }
+  }, [initial, initialSubject])
 
   const activeSection = SECTIONS.find(x => x.id === category)
   const availableSets = useMemo(() => {
     if (!category) return SETS_CATALOG
+    if (category === 'qualifying') {
+      if (!selectedQualifyingSubject) return []
+      return SETS_CATALOG.filter(s => s.section === 'qualifying' && s.subject === selectedQualifyingSubject)
+    }
     return SETS_CATALOG.filter(s => s.section === category)
-  }, [category])
+  }, [category, selectedQualifyingSubject])
 
   return (
     <main className="app-shell">
@@ -363,6 +409,7 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
           className={!category ? 'side-active' : ''}
           onClick={() => {
             setCategory('')
+            setSelectedQualifyingSubject(null)
             setSelectedSet(null)
             location.hash = '#/app'
           }}
@@ -376,6 +423,9 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
             className={category === sec.id ? 'side-active' : ''}
             onClick={() => {
               setCategory(sec.id)
+              if (sec.id === 'qualifying') {
+                setSelectedQualifyingSubject(null)
+              }
               setSelectedSet(null)
               location.hash = `#/app?category=${sec.id}`
             }}
@@ -405,6 +455,10 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
         <h1>
           {!category
             ? t.choose
+            : category === 'qualifying' && !selectedQualifyingSubject
+            ? (lang === 'hi' ? 'अर्हता परीक्षा: भाषा विषय का चयन करें' : 'Part-I Qualifying: Select Language Subject')
+            : category === 'qualifying' && selectedQualifyingSubject
+            ? (selectedQualifyingSubject === 'English Language' ? 'Part-I General English Sets (100% English)' : 'भाग-I सामान्य हिन्दी अभ्यास सेट (100% हिन्दी)')
             : !selectedSet
             ? activeSection ? (lang === 'hi' ? activeSection.hi : activeSection.name) : t.chooseSub
             : selectedSet.title}
@@ -421,6 +475,9 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
                   className="category"
                   onClick={() => {
                     setCategory(sec.id)
+                    if (sec.id === 'qualifying') {
+                      setSelectedQualifyingSubject(null)
+                    }
                     location.hash = `#/app?category=${sec.id}`
                   }}
                   key={sec.id}
@@ -437,10 +494,10 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
           </div>
         )}
 
-        {/* 2. Sets List in Selected Category with 80% Progression */}
-        {category && !selectedSet && (
-          <>
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px', flexWrap: 'wrap', gap: '10px' }}>
+        {/* 2. Qualifying Subject Chooser (English vs Hindi) */}
+        {category === 'qualifying' && !selectedQualifyingSubject && !selectedSet && (
+          <div className="qualifying-subject-chooser">
+            <div style={{ marginBottom: '16px' }}>
               <button
                 className="back"
                 onClick={() => {
@@ -448,8 +505,100 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
                   location.hash = '#/app'
                 }}
               >
-                ← Change exam section
+                ← {lang === 'hi' ? 'सभी परीक्षा खंड देखें' : 'Change exam section'}
               </button>
+            </div>
+
+            <div className="qualifying-banner-hero">
+              <span className="source-tag" style={{ background: '#0e5f59', color: '#fff', fontSize: '11px', fontWeight: 700 }}>
+                PART-I LANGUAGE · 30 MARKS MANDATORY QUALIFYING
+              </span>
+              <h2>Select Your Language Subject (अपनी भाषा चुनें)</h2>
+              <p>
+                BPSC TRE Part-I Language Qualifying paper is compulsory for all candidates across PRT, Middle School (6-8), TGT (9-10) and PGT (11-12).
+                Candidates must achieve at least 30% marks to qualify. Choose your medium below to open the set-wise test series:
+              </p>
+            </div>
+
+            <div className="qualifying-cards-grid">
+              <div
+                className="qualifying-choice-card"
+                onClick={() => {
+                  setSelectedQualifyingSubject('English Language')
+                  location.hash = '#/app?category=qualifying&subject=english'
+                }}
+              >
+                <div>
+                  <span className="qualifying-card-tag en-tag">100% ENGLISH MEDIUM</span>
+                  <div className="qualifying-card-icon">🇬🇧</div>
+                  <h3>General English</h3>
+                  <p>
+                    Part-A Compulsory English: Grammar, Tenses, Prepositions, Spotting Errors, Vocabulary, Synonyms & Antonyms.
+                  </p>
+                  <div className="qualifying-card-features">
+                    <span>✓ 100% English Paper & Solutions (No bilingual distraction)</span>
+                    <span>✓ 3 Set-Wise Practice Papers (44 Questions)</span>
+                    <span>✓ 80% Mastery Unlock Progression Rule</span>
+                  </div>
+                </div>
+                <button className="qualifying-select-btn">
+                  Choose English Language Sets →
+                </button>
+              </div>
+
+              <div
+                className="qualifying-choice-card"
+                onClick={() => {
+                  setSelectedQualifyingSubject('General Hindi')
+                  location.hash = '#/app?category=qualifying&subject=hindi'
+                }}
+              >
+                <div>
+                  <span className="qualifying-card-tag hi-tag">100% शुद्ध हिन्दी माध्यम</span>
+                  <div className="qualifying-card-icon">🇮🇳</div>
+                  <h3>सामान्य हिन्दी (General Hindi)</h3>
+                  <p>
+                    भाग-B अनिवार्य हिन्दी: संधि, समास, उपसर्ग-प्रत्यय, वर्तनी शुद्धि, मुहावरे, पर्यायवाची, विलोम एवं अपठित गद्यांश।
+                  </p>
+                  <div className="qualifying-card-features">
+                    <span>✓ 100% शुद्ध हिन्दी में प्रश्नोत्तरी, आधिकारिक उत्तर एवं व्याख्या</span>
+                    <span>✓ 3 अभ्यास सेट (74 प्रामाणिक प्रश्न)</span>
+                    <span>✓ 80% मास्टरी अनलॉक प्रणाली</span>
+                  </div>
+                </div>
+                <button className="qualifying-select-btn hi-btn">
+                  सामान्य हिन्दी सेट अभ्यास शुरू करें →
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* 3. Sets List in Selected Category with 80% Progression */}
+        {((category && category !== 'qualifying') || (category === 'qualifying' && selectedQualifyingSubject)) && !selectedSet && (
+          <>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px', flexWrap: 'wrap', gap: '10px' }}>
+              {category === 'qualifying' ? (
+                <button
+                  className="back"
+                  onClick={() => {
+                    setSelectedQualifyingSubject(null)
+                    location.hash = '#/app?category=qualifying'
+                  }}
+                >
+                  ← {lang === 'hi' ? 'भाषा विषय बदलें (Change Language Subject)' : 'Change Language Subject'}
+                </button>
+              ) : (
+                <button
+                  className="back"
+                  onClick={() => {
+                    setCategory('')
+                    location.hash = '#/app'
+                  }}
+                >
+                  ← {lang === 'hi' ? 'सभी परीक्षा खंड देखें' : 'Change exam section'}
+                </button>
+              )}
               <button
                 className="progression-toggle-btn"
                 onClick={() => {
@@ -510,7 +659,7 @@ function AppHome({ lang, setRoute, initial }: { lang: Lang; setRoute: (s: string
 
                       <h3>{s.title}</h3>
                       <p>
-                        {s.question_count} Authentic Questions · 5 Options (A to E) · Bilingual (EN/हिन्दी) · Official Explanations
+                        {s.question_count} Authentic Questions · 5 Options (A to E) · {s.subject === 'English Language' ? '100% English Medium' : s.subject === 'General Hindi' ? '100% शुद्ध हिन्दी' : 'Bilingual (EN/हिन्दी)'} · Official Explanations
                       </p>
                     </div>
 
@@ -614,12 +763,20 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
     return SETS_DATA[activeSet.id] || []
   }, [activeSet])
 
+  const isEnglishOnly = activeSet.subject === 'English Language'
+  const isHindiOnly = activeSet.subject === 'General Hindi' || activeSet.subject === 'Hindi Literature' || activeSet.subject === 'Sanskrit'
+
   const [index, setIndex] = useState(0)
   const [answers, setAnswers] = useState<Record<number, number>>(() => prefs.get(`draft_${activeSet.id}`, {}))
   const [flags, setFlags] = useState<number[]>(() => prefs.get(`flags_${activeSet.id}`, []))
   const [seconds, setSeconds] = useState(() => prefs.get(`elapsed_${activeSet.id}`, 0))
   const [submitted, setSubmitted] = useState(false)
-  const [qLang, setQLang] = useState<'en' | 'hi'>(lang)
+  const [qLang, setQLang] = useState<'en' | 'hi'>(() => {
+    if (isEnglishOnly) return 'en'
+    if (isHindiOnly) return 'hi'
+    return lang
+  })
+  const [showSolution, setShowSolution] = useState(false)
 
   useEffect(() => {
     const x = setInterval(() => setSeconds(s => s + 1), 1000)
@@ -633,8 +790,14 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
   }, [answers, flags, seconds, activeSet.id])
 
   useEffect(() => {
-    setQLang(lang)
-  }, [lang])
+    if (isEnglishOnly) {
+      setQLang('en')
+    } else if (isHindiOnly) {
+      setQLang('hi')
+    } else {
+      setQLang(lang)
+    }
+  }, [lang, isEnglishOnly, isHindiOnly])
 
   if (!currentQuestions || currentQuestions.length === 0) {
     return (
@@ -708,6 +871,7 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
             setAnswers({})
             setFlags([])
             setSeconds(0)
+            setShowSolution(false)
           }}
           onRetry={() => {
             setSubmitted(false)
@@ -715,6 +879,7 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
             setAnswers({})
             setFlags([])
             setSeconds(0)
+            setShowSolution(false)
           }}
         />
       ) : (
@@ -725,9 +890,11 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
                 {t.question} {index + 1} of {currentQuestions.length}
               </p>
               <div className="q-header-actions">
-                <button className="lang-toggle-btn" onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}>
-                  🌐 {qLang === 'en' ? 'हिन्दी में देखें' : 'View in English'}
-                </button>
+                {!isEnglishOnly && !isHindiOnly && (
+                  <button className="lang-toggle-btn" onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}>
+                    🌐 {qLang === 'en' ? 'हिन्दी में देखें' : 'View in English'}
+                  </button>
+                )}
                 <button
                   className={flags.includes(q.id) ? 'flagged' : ''}
                   onClick={() => setFlags(f => (f.includes(q.id) ? f.filter(x => x !== q.id) : [...f, q.id]))}
@@ -754,13 +921,50 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
                   onClick={() => setAnswers(a => ({ ...a, [q.id]: i }))}
                 >
                   <b>{String.fromCharCode(65 + i)}</b>
-                  <span>{o}</span>
+                  <span>{formatOptionLabel(o, i, qLang)}</span>
                 </button>
               ))}
             </div>
 
+            {/* In-Question Instant Solution & Exam Setter Tricks */}
+            <div className="practice-action-row">
+              <button
+                type="button"
+                className="toggle-solution-btn"
+                onClick={() => setShowSolution(s => !s)}
+              >
+                {showSolution
+                  ? (qLang === 'hi' ? '🙈 समाधान छिपाएँ' : '🙈 Hide Solution')
+                  : (qLang === 'hi' ? '💡 आधिकारिक समाधान एवं ट्रिक्स देखें' : '💡 View Solution & Exam Setter Tips')}
+              </button>
+            </div>
+
+            {showSolution && (
+              <div className="practice-solution-card">
+                <div className="sol-badge">
+                  {qLang === 'hi' ? '✓ आधिकारिक उत्तर एवं विस्तृत समाधान' : '✓ Official Answer & Exam Setter Insights'}
+                </div>
+                <p className="sol-answer">
+                  <b>{qLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b>{' '}
+                  <span className="ans-pill">
+                    ({q.answer_letter}) {formatOptionLabel(q.answer_text || q.options[q.answer], q.answer, qLang)}
+                  </span>
+                </p>
+                <div className="sol-explanation">
+                  <b>{qLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या:' : 'Official Explanation:'}</b>
+                  <p>{q.explanation}</p>
+                </div>
+                {q.tip && (
+                  <div className="tip-box">
+                    <b>{qLang === 'hi' ? '💡 परीक्षा-संकेत एवं ट्रिक्स:' : "💡 Exam Setter's Tip & Quick Trick:"}</b>
+                    {q.tip}
+                  </div>
+                )}
+              </div>
+            )}
+
             <div className="question-nav">
-              <button className="secondary" disabled={!index} onClick={() => setIndex(index - 1)}>
+              <button className="secondary" disabled={!index} onClick={() => { setIndex(index - 1); setShowSolution(false) }}>
                 ← {t.previous}
               </button>
               {index === currentQuestions.length - 1 ? (
@@ -768,7 +972,7 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
                   {t.submit}
                 </button>
               ) : (
-                <button className="primary" onClick={() => setIndex(index + 1)}>
+                <button className="primary" onClick={() => { setIndex(index + 1); setShowSolution(false) }}>
                   {t.next} →
                 </button>
               )}
@@ -815,6 +1019,14 @@ function Results({
   onNextSet?: (next: SetMeta) => void
   onRetry?: () => void
 }) {
+  const isEnglishOnly = activeSet.subject === 'English Language'
+  const isHindiOnly = activeSet.subject === 'General Hindi' || activeSet.subject === 'Hindi Literature' || activeSet.subject === 'Sanskrit'
+  const [resLang, setResLang] = useState<'en' | 'hi'>(() => {
+    if (isEnglishOnly) return 'en'
+    if (isHindiOnly) return 'hi'
+    return 'hi' // Default bilingual sets to Hindi
+  })
+
   const score = questionsList.filter(q => answers[q.id] === q.answer).length
   const pct = Math.round((score / questionsList.length) * 100)
   const isQualifying = activeSet.section === 'qualifying'
@@ -828,27 +1040,58 @@ function Results({
 
   return (
     <section className="results">
-      <p className="eyebrow">SESSION COMPLETE · BPSC TRE 4.0</p>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '14px', flexWrap: 'wrap', gap: '10px' }}>
+        <p className="eyebrow" style={{ margin: 0 }}>
+          {resLang === 'hi' ? 'सत्र समाप्त · BPSC TRE 4.0' : 'SESSION COMPLETE · BPSC TRE 4.0'}
+        </p>
+        {!isEnglishOnly && !isHindiOnly && (
+          <button className="lang-toggle-btn" onClick={() => setResLang(r => r === 'en' ? 'hi' : 'en')}>
+            🌐 {resLang === 'en' ? 'हिन्दी में समाधान देखें' : 'View Solutions in English'}
+          </button>
+        )}
+      </div>
+
       <h1>
-        {score} of {questionsList.length} correct ({pct}%)
+        {resLang === 'hi'
+          ? `${questionsList.length} में से ${score} सही (${pct}%)`
+          : `${score} of ${questionsList.length} correct (${pct}%)`}
       </h1>
-      <p>Time spent: {Math.ceil(seconds / 60)} minutes. Review the official answer keys and setter insights below.</p>
+      <p>
+        {resLang === 'hi'
+          ? `कुल समय: ${Math.ceil(seconds / 60)} मिनट। आधिकारिक उत्तर कुंजी और विस्तृत समाधान नीचे देखें।`
+          : `Time spent: ${Math.ceil(seconds / 60)} minutes. Review the official answer keys and setter insights below.`}
+      </p>
 
       {/* 80% Mastery Celebration & Next Set Unlock Banner */}
       {isMastered ? (
         <div className="unlock-celebration-banner">
           <div>
-            <h3>🎉 80% MASTERY ACHIEVED! {nextSet ? `Set ${currentIdx + 2} is Now Unlocked!` : 'All Sets Mastered!'}</h3>
+            <h3>
+              {resLang === 'hi'
+                ? `🎉 80% मास्टरी पूर्ण! ${nextSet ? `सेट ${currentIdx + 2} अनलॉक हो गया है!` : 'सभी सेट पूर्ण!'}`
+                : `🎉 80% MASTERY ACHIEVED! ${nextSet ? `Set ${currentIdx + 2} is Now Unlocked!` : 'All Sets Mastered!'}`}
+            </h3>
             <p>
-              Outstanding score: <b>{pct}% ({score}/{questionsList.length})</b>!
-              {nextSet
-                ? ` You achieved the 80% mastery threshold and unlocked "${nextSet.title}". Continue your preparation!`
-                : ` You have mastered all practice sets in ${activeSet.subject}!`}
+              {resLang === 'hi' ? (
+                <>
+                  शानदार स्कोर: <b>{pct}% ({score}/{questionsList.length})</b>!
+                  {nextSet
+                    ? ` आपने 80% मास्टरी लक्ष्य प्राप्त कर लिया है और "${nextSet.title}" अनलॉक कर दिया है। अपनी तैयारी जारी रखें!`
+                    : ` आपने ${activeSet.subject} के सभी अभ्यास सेट सफलतापूर्वक मास्टर कर लिए हैं!`}
+                </>
+              ) : (
+                <>
+                  Outstanding score: <b>{pct}% ({score}/{questionsList.length})</b>!
+                  {nextSet
+                    ? ` You achieved the 80% mastery threshold and unlocked "${nextSet.title}". Continue your preparation!`
+                    : ` You have mastered all practice sets in ${activeSet.subject}!`}
+                </>
+              )}
             </p>
           </div>
           {nextSet && onNextSet && (
             <button onClick={() => onNextSet(nextSet)}>
-              Start Set {currentIdx + 2} Now →
+              {resLang === 'hi' ? `सेट ${currentIdx + 2} अभी शुरू करें →` : `Start Set ${currentIdx + 2} Now →`}
             </button>
           )}
         </div>
@@ -856,10 +1099,12 @@ function Results({
         <div style={{ background: '#fffbeb', border: '1px solid #fef3c7', borderRadius: '12px', padding: '16px 20px', margin: '18px 0', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '16px', flexWrap: 'wrap' }}>
           <div>
             <b style={{ color: '#92400e', fontSize: '15px' }}>
-              🎯 Next Set Unlock Target: 80% (Your score: {pct}%)
+              {resLang === 'hi' ? `🎯 अगला सेट अनलॉक लक्ष्य: 80% (आपका स्कोर: ${pct}%)` : `🎯 Next Set Unlock Target: 80% (Your score: ${pct}%)`}
             </b>
             <div style={{ fontSize: '13px', color: '#b45309', marginTop: '3px' }}>
-              To unlock {nextSet ? `Set ${currentIdx + 2} (${nextSet.title})` : 'the next set'}, you need at least 80% ({Math.ceil(questionsList.length * 0.8)}/{questionsList.length} marks). Review the explanations below and re-attempt!
+              {resLang === 'hi'
+                ? `अगला सेट अनलॉक करने के लिए कम से कम 80% (${Math.ceil(questionsList.length * 0.8)}/${questionsList.length} अंक) आवश्यक हैं। नीचे दिए गए समाधान व व्याख्या का अध्ययन करें और पुनः प्रयास करें!`
+                : `To unlock ${nextSet ? `Set ${currentIdx + 2} (${nextSet.title})` : 'the next set'}, you need at least 80% (${Math.ceil(questionsList.length * 0.8)}/${questionsList.length} marks). Review the explanations below and re-attempt!`}
             </div>
           </div>
           {onRetry && (
@@ -867,7 +1112,7 @@ function Results({
               style={{ background: '#d97706', color: '#fff', border: 0, padding: '10px 18px', borderRadius: '8px', fontWeight: 700, fontSize: '13px', cursor: 'pointer', whiteSpace: 'nowrap' }}
               onClick={onRetry}
             >
-              ↻ Re-attempt This Set
+              {resLang === 'hi' ? '↻ इस सेट का पुनः प्रयास करें' : '↻ Re-attempt This Set'}
             </button>
           )}
         </div>
@@ -879,8 +1124,8 @@ function Results({
             <h2>{isPassed ? '🎉 QUALIFIED (अर्हता परीक्षा उत्तीर्ण)' : '⚠️ NOT QUALIFIED (अर्हता प्राप्त नहीं)'}</h2>
             <p>
               {isPassed
-                ? 'Congratulations! You met the mandatory 30% qualifying mark required by BPSC for Part-I Language.'
-                : 'BPSC requires minimum 30% (12 marks out of 40) to qualify Part-I. Please re-attempt this paper.'}
+                ? (resLang === 'hi' ? 'बधाई हो! आपने BPSC भाग-1 भाषा अर्हता के लिए आवश्यक न्यूनतम 30% अंक प्राप्त कर लिए हैं।' : 'Congratulations! You met the mandatory 30% qualifying mark required by BPSC for Part-I Language.')
+                : (resLang === 'hi' ? 'BPSC के अनुसार भाग-1 में अर्हता प्राप्त करने के लिए न्यूनतम 30% अंक अनिवार्य हैं। कृपया पुनः प्रयास करें।' : 'BPSC requires minimum 30% marks to qualify Part-I. Please re-attempt this paper.')}
             </p>
           </div>
           <b>
@@ -895,35 +1140,36 @@ function Results({
           return (
             <article key={q.id} className={isCorrect ? 'correct' : 'incorrect'}>
               <span>
-                {isCorrect ? '✓ Correct' : '✗ Incorrect / Review Needed'} · Question {q.id}
+                {isCorrect ? (resLang === 'hi' ? '✓ सही उत्तर' : '✓ Correct') : (resLang === 'hi' ? '✗ गलत उत्तर / समीक्षा आवश्यक' : '✗ Incorrect / Review Needed')} · {resLang === 'hi' ? 'प्रश्न' : 'Question'} {q.id}
               </span>
-              <span className="source-tag">Source: {q.source}</span>
+              {q.source && <span className="source-tag">Source: {q.source}</span>}
               <h3>
-                {q.en}
+                {resLang === 'hi' ? q.hi : q.en}
                 {q.hi !== q.en && (
                   <span style={{ display: 'block', fontSize: '14px', color: '#667085', marginTop: '4px' }}>
-                    {q.hi}
+                    {resLang === 'hi' ? q.en : q.hi}
                   </span>
                 )}
               </h3>
 
               <p>
-                <b>Your choice:</b>{' '}
+                <b>{resLang === 'hi' ? 'आपका उत्तर:' : 'Your choice:'}</b>{' '}
                 {answers[q.id] !== undefined
-                  ? `(${String.fromCharCode(65 + answers[q.id])}) ${q.options[answers[q.id]]}`
-                  : 'Not attempted'}
+                  ? `(${String.fromCharCode(65 + answers[q.id])}) ${formatOptionLabel(q.options[answers[q.id]], answers[q.id], resLang)}`
+                  : (resLang === 'hi' ? 'उत्तर नहीं दिया' : 'Not attempted')}
               </p>
               <p style={{ color: '#147d75' }}>
-                <b>Official Answer:</b> ({q.answer_letter}) {q.answer_text || q.options[q.answer]}
+                <b>{resLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b> ({q.answer_letter}){' '}
+                {formatOptionLabel(q.answer_text || q.options[q.answer], q.answer, resLang)}
               </p>
 
               <p>
-                <b>Official Explanation:</b> {q.explanation}
+                <b>{resLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या / समाधान:' : 'Official Explanation:'}</b> {q.explanation}
               </p>
 
               {q.tip && (
                 <div className="tip-box">
-                  <b>💡 Exam Setter's Tip / Trick:</b>
+                  <b>{resLang === 'hi' ? '💡 परीक्षा-संकेत एवं ट्रिक्स:' : "💡 Exam Setter's Tip / Trick:"}</b>
                   {q.tip}
                 </div>
               )}
@@ -935,19 +1181,19 @@ function Results({
       <div style={{ display: 'flex', gap: '14px', flexWrap: 'wrap', marginTop: '24px' }}>
         {nextSet && isMastered && onNextSet && (
           <button className="primary" onClick={() => onNextSet(nextSet)}>
-            Proceed to Set {currentIdx + 2} ({nextSet.title}) →
+            {resLang === 'hi' ? `अगले सेट पर जाएँ (${nextSet.title}) →` : `Proceed to Set ${currentIdx + 2} (${nextSet.title}) →`}
           </button>
         )}
         {onRetry && (
           <button className="secondary" onClick={onRetry}>
-            ↻ Re-attempt This Set
+            {resLang === 'hi' ? '↻ इस सेट का पुनः प्रयास करें' : '↻ Re-attempt This Set'}
           </button>
         )}
         <button className="secondary" onClick={() => setRoute(`/app?category=${activeSet.section}`)}>
-          View all sets in this section
+          {resLang === 'hi' ? 'इस खंड के सभी सेट देखें' : 'View all sets in this section'}
         </button>
         <button className="secondary" onClick={() => setRoute('/app/analysis')}>
-          See topic analysis
+          {resLang === 'hi' ? 'विषयवार विश्लेषण देखें' : 'See topic analysis'}
         </button>
       </div>
     </section>
@@ -1134,13 +1380,15 @@ function Root() {
     return () => removeEventListener('hashchange', h)
   }, [])
 
-  const initial = new URLSearchParams(location.hash.split('?')[1] || '').get('category')
+  const queryParams = new URLSearchParams(location.hash.split('?')[1] || '')
+  const initial = queryParams.get('category')
+  const initialSubject = queryParams.get('subject')
 
   const body =
     route === '/' ? (
       <Home lang={lang} setRoute={setRoute} />
     ) : route === '/app' ? (
-      <AppHome lang={lang} setRoute={setRoute} initial={initial} />
+      <AppHome lang={lang} setRoute={setRoute} initial={initial} initialSubject={initialSubject} />
     ) : route === '/app/practice' ? (
       <Practice lang={lang} setRoute={setRoute} />
     ) : route === '/app/analysis' ? (

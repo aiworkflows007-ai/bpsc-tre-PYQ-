@@ -1,0 +1,281 @@
+{
+  "id": "bpsc-tre4-qualifying-english-set1",
+  "title": "English Language Practice Set 1 (15Q)",
+  "section": "qualifying",
+  "section_name": "Part-I Language Qualifying",
+  "subject": "English Language",
+  "filename": "bpsc-tre4-master-qualifying-paper-120q.docx",
+  "question_count": 15,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "I have ______ so many good friends.",
+      "hi": "I have ______ so many good friends.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "The quantifier phrase 'so many' does not permit an article before it when qualifying plural countable nouns ('friends'). Hence, zero article is required.💡 Setter's",
+      "tip": "Watch out for pre-determiners like 'so many' or 'too many'; they never take an article ('a/an/the') directly in front.",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "I want to build ______ very big house.",
+      "hi": "I want to build ______ very big house.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "a",
+      "explanation": "The singular countable noun phrase 'very big house' begins with the consonant sound /v/, requiring the indefinite article 'a'.💡 Setter's",
+      "tip": "Article choice depends strictly on the phonetic sound of the immediate next word; 'very' starts with a consonant sound, so use 'a'.",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Which of the following is not a part of a garden?",
+      "hi": "Which of the following is not a part of a garden?",
+      "options": [
+        "Flowers",
+        "Grass",
+        "Wardrobe",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Wardrobe",
+      "explanation": "Flowers and grass are typical outdoor garden elements, whereas a wardrobe is an indoor furniture unit designed for storing clothing.💡 Setter's",
+      "tip": "For negative category questions ('not a part of...'), spot the domestic bedroom/indoor item that contradicts the outdoor domain.",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Which of the following is a part of railway station?",
+      "hi": "Which of the following is a part of railway station?",
+      "options": [
+        "Platform",
+        "Overbridge",
+        "Arrival-Departure",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Platforms, pedestrian overbridges, and arrival-departure indicators/counters are all essential standard components of a railway station.💡 Setter's",
+      "tip": "Whenever you verify that at least two individual options (A and B) are undeniably correct, immediately select Option (D).",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "The sixth letter in the alphabet after J will be",
+      "hi": "The sixth letter in the alphabet after J will be",
+      "options": [
+        "G",
+        "P",
+        "O",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "P",
+      "explanation": "Letter J is the 10th letter of the alphabet. Counting 6 positions forward: 10 + 6 = 16th letter, which is 'P' (K, L, M, N, O, P).💡 Setter's",
+      "tip": "Convert letters to numbers (EJOTY: E=5, J=10, O=15, T=20, Y=25) to solve alphabet rank questions in 3 seconds without errors.",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "In a zoo, ______ live in cages.",
+      "hi": "In a zoo, ______ live in cages.",
+      "options": [
+        "birds",
+        "animals",
+        "snakes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In a zoological garden, various fauna including birds (aviaries/cages), wild mammals, and snakes (glass cages/reptile houses) are housed in enclosed cages.💡 Setter's",
+      "tip": "Do not rush to pick only (B) 'animals'; birds and reptiles are also zoo inmates kept in cages, triggering Option (D).",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Daughter's daughter is",
+      "hi": "Daughter's daughter is",
+      "options": [
+        "sibling",
+        "niece",
+        "cousin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "One's daughter's daughter is designated as a 'granddaughter' (maternal granddaughter). Since this specific term is not listed in (A), (B), or (C), option (E) is correct.💡 Setter's",
+      "tip": "BPSC frequently tests kinships where the exact English term is missing from options (A, B, C); always check if (E) applies.",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "My siblings are my",
+      "hi": "My siblings are my",
+      "options": [
+        "cousins",
+        "brothers and sisters",
+        "in-laws",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "brothers and sisters",
+      "explanation": "By definition, 'siblings' refers exclusively to brothers and sisters sharing one or both biological parents, excluding cousins and in-laws.💡 Setter's",
+      "tip": "Remember: Sibling = Brother/Sister; Nephew/Niece = Sibling's child; Cousin = Uncle/Aunt's child.",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Sarita is going to join as ______ BDO.",
+      "hi": "Sarita is going to join as ______ BDO.",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "a",
+      "explanation": "The abbreviation BDO is pronounced as /biː.diː.oʊ/ with an initial consonant sound /b/, requiring the indefinite article 'a'.💡 Setter's",
+      "tip": "Check the sound, not the alphabet letter: 'BDO' starts with consonant /b/ ('a BDO'), whereas 'SDO' starts with vowel sound /e/ ('an SDO').",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "______ Washington Post is the most read newspaper in the USA.",
+      "hi": "______ Washington Post is the most read newspaper in the USA.",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "The",
+      "explanation": "Renowned newspapers, periodicals, and historical publications universally require the definite article 'The' (e.g., The Washington Post, The Hindu).💡 Setter's",
+      "tip": "Names of newspapers, ships, rivers, oceans, mountain ranges, and sacred scriptures mandatorily take 'The'.",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "There are 30 or 31 days in ______ month.",
+      "hi": "There are 30 or 31 days in ______ month.",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "a",
+      "explanation": "The noun 'month' is singular countable and begins with consonant sound /m/. It refers to any calendar month in general, so 'a' is correct.💡 Setter's",
+      "tip": "When a singular countable noun represents any member of a class without prior specification, use indefinite article 'a/an'.",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "My father is ______ engineer in the Water Works Department.",
+      "hi": "My father is ______ engineer in the Water Works Department.",
+      "options": [
+        "the",
+        "an",
+        "a",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "an",
+      "explanation": "The designation 'engineer' begins with a vowel sound /e/, requiring the indefinite article 'an' before profession titles.💡 Setter's",
+      "tip": "Job titles in predicate positions after 'is/was' take 'a/an'; check vowel sound (engineer, architect -> an; teacher, doctor -> a).",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "In this school, all ______ students are given free education.",
+      "hi": "In this school, all ______ students are given free education.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "the",
+      "explanation": "When 'all' refers to a specific, defined group of students within a stated institution ('this school'), it takes the definite article 'the'.💡 Setter's",
+      "tip": "Standard grammar rule: 'All the + plural noun' defines a specific set of entities restricted by context.",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "I have a friend in Mumbai who is ______ actress.",
+      "hi": "I have a friend in Mumbai who is ______ actress.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "an",
+      "explanation": "The noun 'actress' begins with the open vowel phoneme /æ/, taking indefinite article 'an' to introduce the profession.💡 Setter's",
+      "tip": "Always verify vowel sounds for feminine nouns: actress, authoress, empress take 'an'.",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 3.0",
+      "en": "Had we ______ punctual, we would have ______ the train.",
+      "hi": "Had we ______ punctual, we would have ______ the train.",
+      "options": [
+        "been, caught",
+        "were, boarded",
+        "are, got",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "been, caught",
+      "explanation": "This is an inverted third conditional ('Had + Subject + Past Participle (V3)... would have + V3'). Thus, 'Had we been... would have caught' is grammatically correct.💡 Setter's",
+      "tip": "In conditional inversion: 'Had + Subject' strictly demands a past participle ('been'), never past tense ('were') or base form ('be').",
+      "id": 15
+    }
+  ]
+}

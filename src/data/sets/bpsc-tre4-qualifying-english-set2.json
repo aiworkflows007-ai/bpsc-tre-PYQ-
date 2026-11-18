@@ -1,0 +1,281 @@
+{
+  "id": "bpsc-tre4-qualifying-english-set2",
+  "title": "English Language Practice Set 2 (15Q)",
+  "section": "qualifying",
+  "section_name": "Part-I Language Qualifying",
+  "subject": "English Language",
+  "filename": "bpsc-tre4-master-qualifying-paper-120q.docx",
+  "question_count": 15,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Rainy season comes before",
+      "hi": "Rainy season comes before",
+      "options": [
+        "winter",
+        "spring",
+        "summer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "winter",
+      "explanation": "According to the Indian seasonal cycle and calendar progression, the rainy (monsoon) season spans July to September and directly precedes the winter (autumn/winter) season.",
+      "tip": "Chronological order of seasons in India: Summer (March–May) → Rainy/Monsoon (June–September) → Autumn/Winter (October–February) → Spring (February–March).",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "The eighth month of the year is",
+      "hi": "The eighth month of the year is",
+      "options": [
+        "July",
+        "September",
+        "October",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "The eighth month in the Gregorian calendar is August. Since August is omitted from options (A), (B), and (C), Option (E) is the official correct choice.",
+      "tip": "BPSC calendar trap: 7th = July, 8th = August, 9th = September, 10th = October. When the accurate month name is absent, confidently select Option (E).",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Sister-in-law is",
+      "hi": "Sister-in-law is",
+      "options": [
+        "husband's sister",
+        "wife's sister",
+        "brother's wife",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In English kinship terminology, 'sister-in-law' denotes one's brother's wife (भाभी), one's husband's sister (ननद), or one's wife's sister (साली). Since all three options are valid, (D) is triggered.",
+      "tip": "Whenever an English kinship relation encompasses multiple maternal/paternal or affine equivalents, expect Option (D) in BPSC examinations.",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Which of the following is a part of bedroom?",
+      "hi": "Which of the following is a part of bedroom?",
+      "options": [
+        "Pillow",
+        "Table lamp",
+        "Wardrobe",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "A bedroom standardly contains pillows (for sleeping), table/bedside lamps (for reading/lighting), and wardrobes/closets. All choices represent valid bedroom furnishings.",
+      "tip": "In household vocabulary questions, as soon as two independent items naturally belong to the specified room, choose Option (D).",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Today is Sunday. The day before yesterday was",
+      "hi": "Today is Sunday. The day before yesterday was",
+      "options": [
+        "Tuesday",
+        "Friday",
+        "Saturday",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Friday",
+      "explanation": "If today is Sunday, then 'yesterday' was Saturday, and 'the day before yesterday' was Friday (Sunday minus 2 days = Friday).",
+      "tip": "Time calculation formula: Today = Day 0; Yesterday = -1; Day before yesterday = -2. For Sunday: Sunday(0) → Saturday(-1) → Friday(-2).",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Which of the following is not a part of drawing room?",
+      "hi": "Which of the following is not a part of drawing room?",
+      "options": [
+        "Washing machine",
+        "Chimney",
+        "Sofa set",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "A washing machine belongs to the laundry room/utility area, and a kitchen chimney belongs to the kitchen. Since both are not drawing room items, Option (D) is the official key.",
+      "tip": "Notice the negative phrasing 'not a part of': Having two non-drawing-room appliances (Washing machine + Chimney) automatically triggers Option (D).",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Mother's parents are",
+      "hi": "Mother's parents are",
+      "options": [
+        "son-in-laws",
+        "maternal grandparents",
+        "paternal grandparents",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "maternal grandparents",
+      "explanation": "One's mother's parents (maternal grandfather and grandmother - नाना-नानी) are termed maternal grandparents. Father's parents (दादा-दादी) are paternal grandparents.",
+      "tip": "Maternal = Mother's lineage/relations; Paternal = Father's lineage/relations.",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "What is the time ______ your watch?आपकी घड़ी में क्या समय हुआ है?",
+      "hi": "What is the time ______ your watch?आपकी घड़ी में क्या समय हुआ है?",
+      "options": [
+        "in",
+        "by",
+        "at",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "by",
+      "explanation": "In standard English idiomatic usage, time indicated according to a timepiece or watch is expressed using the preposition 'by' ('What is the time by your watch?').",
+      "tip": "Common error: Do not translate literally from Hindi ('घड़ी में' ≠ 'in your watch'). The standard English collocation is strictly 'by your watch'.",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "The poems written by Dinkar are the most appealing ______ quality.",
+      "hi": "The poems written by Dinkar are the most appealing ______ quality.",
+      "options": [
+        "for",
+        "by",
+        "of",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "of",
+      "explanation": "The preposition 'of' is used here to denote specification or belonging of an intrinsic characteristic ('appealing of quality' / 'possessing the attribute of quality').",
+      "tip": "Pay close attention to prepositional phrase idioms following adjectives like 'appealing of', 'worthy of', 'devoid of'.",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Which of the following is not found in a car?",
+      "hi": "Which of the following is not found in a car?",
+      "options": [
+        "Gear",
+        "Accelerator",
+        "Pistol",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Pistol",
+      "explanation": "Gears and accelerators are integral mechanical and control components of an automobile, whereas a pistol is a firearm and not a vehicular component.",
+      "tip": "Eliminate normal vehicular mechanisms to isolate the extraneous weapon/item.",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "A sister's husband is called in English as",
+      "hi": "A sister's husband is called in English as",
+      "options": [
+        "jija",
+        "brother-in-law",
+        "maternal brother",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "brother-in-law",
+      "explanation": "One's sister's husband is designated as 'brother-in-law' in English kinship terminology. 'Jija' is a Hindi colloquial noun, not English.",
+      "tip": "BPSC options often include Hindi phonetic spellings (like 'jija' or 'chacha') as traps; always select the formal English genealogical term.",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "______ beauty is a gift of God.सौंदर्य ईश्वर का उपहार है।",
+      "hi": "______ beauty is a gift of God.सौंदर्य ईश्वर का उपहार है।",
+      "options": [
+        "The",
+        "A",
+        "An",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "None of the above",
+      "explanation": "When an abstract noun ('beauty') is used in a general, universal philosophical sense, it takes zero article. Since zero article is not among (A), (B), or (C), (E) is correct.",
+      "tip": "Abstract nouns (beauty, honesty, truth, wisdom) take NO article when used generally: 'Beauty is truth', 'Honesty is the best policy'.",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Rajan is selected as ______ MBBS doctor.",
+      "hi": "Rajan is selected as ______ MBBS doctor.",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "an",
+      "explanation": "The abbreviation 'MBBS' is phonetically pronounced as /ˈem.biː.biː.es/, which begins with the vowel sound /e/. Therefore, the indefinite article 'an' is required.",
+      "tip": "Phonetics rule: Abbreviations beginning with letters pronounced with an initial vowel sound (M = /em/, S = /es/, F = /ef/, H = /eɪtʃ/, L = /el/) take 'an' ('an MBBS', 'an SP', 'an FIR').",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Which of the following is not a part of grocery store?",
+      "hi": "Which of the following is not a part of grocery store?",
+      "options": [
+        "Cereals",
+        "Oil",
+        "Leather",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Leather",
+      "explanation": "Grocery stores sell food provisions and household consumables like edible grains/cereals and cooking oil. Leather is a processed animal hide sold in footwear or fabric stores.",
+      "tip": "Distinguish food/edible consumable groceries from heavy industrial/animal trade materials like leather and timber.",
+      "id": 14
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Which of the following is not a continent?",
+      "hi": "Which of the following is not a continent?",
+      "options": [
+        "Asia",
+        "Australia",
+        "Arab",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Arab",
+      "explanation": "Asia and Australia are recognized world continents, whereas the Arabian Peninsula (Arab) is a geographical region/sub-region located within the continent of Asia.",
+      "tip": "The 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Arab is a geopolitical peninsula, not a continent.",
+      "id": 15
+    }
+  ]
+}

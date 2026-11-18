@@ -16,13 +16,13 @@
         "32 years",
         "40 years",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "32 yearsDetailed",
-      "explanation": "For tripling, SI = 2P in 8 years, so interest rate = 2P/(P * 8) = 25%. For becoming 9 times, SI = 8P. Time = 8P / (P * 0.25) = 32 years.💡 Exam Setter's Tips & Quick Tricks: Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 years.",
-      "tip": "",
+      "answer_text": "32 years",
+      "explanation": "For tripling, SI = 2P in 8 years, so interest rate = 2P/(P * 8) = 25%. For becoming 9 times, SI = 8P. Time = 8P / (P * 0.25) = 32 years.",
+      "tip": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 years.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "96 sq cm",
         "192 sq cm",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "96 sq cmDetailed",
-      "explanation": "Area of a rhombus = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 sq cm.💡 Exam Setter's Tips & Quick Tricks: Area of rhombus = 1/2 * product of diagonals = 1/2 * 16 * 12 = 96 cm².",
-      "tip": "",
+      "answer_text": "96 sq cm",
+      "explanation": "Area of a rhombus = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 sq cm.",
+      "tip": "Area of rhombus = 1/2 * product of diagonals = 1/2 * 16 * 12 = 96 cm².",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "25",
         "30",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "25Detailed",
-      "explanation": "Total of 6 numbers = 6 * 30 = 180. Sum of first four = 4 * 25 = 100. Sum of last three = 3 * 35 = 105. Sum of (first 4 + last 3) = 100 + 105 = 205 (includes 4th number twice). Fourth number = 205 - 180 = 25.💡 Exam Setter's Tips & Quick Tricks: Overlapping number = (Sum of 1st set + Sum of 2nd set) - Total Sum = (100 + 105) - 180 = 25.",
-      "tip": "",
+      "answer_text": "25",
+      "explanation": "Total of 6 numbers = 6 * 30 = 180. Sum of first four = 4 * 25 = 100. Sum of last three = 3 * 35 = 105. Sum of (first 4 + last 3) = 100 + 105 = 205 (includes 4th number twice). Fourth number = 205 - 180 = 25.",
+      "tip": "Overlapping number = (Sum of 1st set + Sum of 2nd set) - Total Sum = (100 + 105) - 180 = 25.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "10 seconds",
         "12 seconds",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "10 secondsDetailed",
-      "explanation": "Total distance = 140 + 160 = 300 m. Relative speed in opposite direction = 60 + 48 = 108 km/h = 108 * (5/18) = 30 m/s. Crossing time = 300 / 30 = 10 seconds.💡 Exam Setter's Tips & Quick Tricks: Distance = L1 + L2 = 300 m; Relative speed = 60 + 48 = 108 km/h = 30 m/s. Time = 300/30 = 10 s.",
-      "tip": "",
+      "answer_text": "10 seconds",
+      "explanation": "Total distance = 140 + 160 = 300 m. Relative speed in opposite direction = 60 + 48 = 108 km/h = 108 * (5/18) = 30 m/s. Crossing time = 300 / 30 = 10 seconds.",
+      "tip": "Distance = L1 + L2 = 300 m; Relative speed = 60 + 48 = 108 km/h = 30 m/s. Time = 300/30 = 10 s.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "144",
         "216",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "144Detailed",
-      "explanation": "27 = 3^3, 64 = 4^3, 125 = 5^3, 216 = 6^3 are all perfect cubes. 144 is a perfect square (12^2) but not a perfect cube.💡 Exam Setter's Tips & Quick Tricks: All numbers except 144 are perfect cubes of consecutive integers (3, 4, 5, 6).",
-      "tip": "",
+      "answer_text": "144",
+      "explanation": "27 = 3^3, 64 = 4^3, 125 = 5^3, 216 = 6^3 are all perfect cubes. 144 is a perfect square (12^2) but not a perfect cube.",
+      "tip": "All numbers except 144 are perfect cubes of consecutive integers (3, 4, 5, 6).",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "250",
         "254",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "246Detailed",
-      "explanation": "Substituting operators: 18 * 14 + 16 / 4 - 10. Following BODMAS: 16 / 4 = 4; 18 * 14 = 252; 252 + 4 - 10 = 256 - 10 = 246.💡 Exam Setter's Tips & Quick Tricks: BODMAS: 18*14 + 16/4 - 10 = 252 + 4 - 10 = 246.",
-      "tip": "",
+      "answer_text": "246",
+      "explanation": "Substituting operators: 18 * 14 + 16 / 4 - 10. Following BODMAS: 16 / 4 = 4; 18 * 14 = 252; 252 + 4 - 10 = 256 - 10 = 246.",
+      "tip": "BODMAS: 18*14 + 16/4 - 10 = 252 + 4 - 10 = 246.",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "Only conclusion II follows",
         "Both conclusion I and II follow",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 2,
       "answer_letter": "C",
-      "answer_text": "Both conclusion I and II followDetailed",
-      "explanation": "Universal affirmative premise: Petals ⊂ Flowers ⊂ Plants. Therefore, Petals ⊂ Plants (Conclusion I holds). Since Petals are a subset of Plants, some plants are definitely petals (Conclusion II holds).💡 Exam Setter's Tips & Quick Tricks: Concentric circles: Petals inside Flowers inside Plants => Both I and II definitely follow.",
-      "tip": "",
+      "answer_text": "Both conclusion I and II follow",
+      "explanation": "Universal affirmative premise: Petals ⊂ Flowers ⊂ Plants. Therefore, Petals ⊂ Plants (Conclusion I holds). Since Petals are a subset of Plants, some plants are definitely petals (Conclusion II holds).",
+      "tip": "Concentric circles: Petals inside Flowers inside Plants => Both I and II definitely follow.",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "Tuesday",
         "Wednesday",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "TuesdayDetailed",
-      "explanation": "2024 is a leap year (divisible by 4) containing 366 days (52 weeks + 2 odd days). In a leap year, the last day of the year (31 Dec) is one day ahead of the first day (1 Jan). Monday + 1 day = Tuesday.💡 Exam Setter's Tips & Quick Tricks: Ordinary year: First day = Last day; Leap year: Last day = First day + 1 day = Monday + 1 = Tuesday.",
-      "tip": "",
+      "answer_text": "Tuesday",
+      "explanation": "2024 is a leap year (divisible by 4) containing 366 days (52 weeks + 2 odd days). In a leap year, the last day of the year (31 Dec) is one day ahead of the first day (1 Jan). Monday + 1 day = Tuesday.",
+      "tip": "Ordinary year: First day = Last day; Leap year: Last day = First day + 1 day = Monday + 1 = Tuesday.",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "Newton's Second Law of Motion",
         "Newton's Third Law of Motion",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Newton's Second Law of MotionDetailed",
-      "explanation": "Newton's Second Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction pairs.💡 Exam Setter's Tips & Quick Tricks: 1st Law = Definition of Force & Inertia; 2nd Law = Measure of Force (F = ma); 3rd Law = Action-Reaction.",
-      "tip": "",
+      "answer_text": "Newton's Second Law of Motion",
+      "explanation": "Newton's Second Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction pairs.",
+      "tip": "1st Law = Definition of Force & Inertia; 2nd Law = Measure of Force (F = ma); 3rd Law = Action-Reaction.",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "Coulomb",
         "Volt",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "CoulombDetailed",
-      "explanation": "The SI unit of electric charge is the Coulomb (C), defined as the quantity of electricity transferred by a current of 1 ampere in 1 second (1 C = 1 A·s). Ampere is current, and Volt is electric potential.💡 Exam Setter's Tips & Quick Tricks: Charge = Coulomb (C); Current = Ampere (A); Potential = Volt (V); Resistance = Ohm (Ω).",
-      "tip": "",
+      "answer_text": "Coulomb",
+      "explanation": "The SI unit of electric charge is the Coulomb (C), defined as the quantity of electricity transferred by a current of 1 ampere in 1 second (1 C = 1 A·s). Ampere is current, and Volt is electric potential.",
+      "tip": "Charge = Coulomb (C); Current = Ampere (A); Potential = Volt (V); Resistance = Ohm (Ω).",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "Cerebellum (अनुमस्तिष्क)",
         "Medulla Oblongata",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Cerebellum (अनुमस्तिष्क)Detailed",
-      "explanation": "The cerebellum (hindbrain) coordinates motor activities, precision of voluntary movements, and equilibrium. The cerebrum controls conscious thought and memory, while the medulla oblongata controls involuntary vitals (heartbeat, respiration).💡 Exam Setter's Tips & Quick Tricks: Balance & posture = Cerebellum; Memory & intelligence = Cerebrum; Heartbeat & breathing = Medulla Oblongata.",
-      "tip": "",
+      "answer_text": "Cerebellum (अनुमस्तिष्क)",
+      "explanation": "The cerebellum (hindbrain) coordinates motor activities, precision of voluntary movements, and equilibrium. The cerebrum controls conscious thought and memory, while the medulla oblongata controls involuntary vitals (heartbeat, respiration).",
+      "tip": "Balance & posture = Cerebellum; Memory & intelligence = Cerebrum; Heartbeat & breathing = Medulla Oblongata.",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "Thyroid Gland",
         "Thymus Gland",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Thyroid GlandDetailed",
-      "explanation": "Iodine is essential for the synthesis of thyroxine (T4) and triiodothyronine (T3) by the thyroid gland. Iodine deficiency stimulates excessive TSH release, causing hyperplasia and enlargement of the thyroid gland (goitre).💡 Exam Setter's Tips & Quick Tricks: Goitre = Thyroid Gland enlargement (Iodine deficiency); Hormone = Thyroxine.",
-      "tip": "",
+      "answer_text": "Thyroid Gland",
+      "explanation": "Iodine is essential for the synthesis of thyroxine (T4) and triiodothyronine (T3) by the thyroid gland. Iodine deficiency stimulates excessive TSH release, causing hyperplasia and enlargement of the thyroid gland (goitre).",
+      "tip": "Goitre = Thyroid Gland enlargement (Iodine deficiency); Hormone = Thyroxine.",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "Chemical change involving oxidation",
         "Reversible thermal change",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Chemical change involving oxidationDetailed",
-      "explanation": "Rusting is an irreversible chemical oxidation reaction where iron reacts with atmospheric oxygen in the presence of water to form hydrated ferric oxide: 4Fe + 3O2 + 2xH2O -> 2Fe2O3 · xH2O. It increases the mass of the iron object.💡 Exam Setter's Tips & Quick Tricks: Rusting is a chemical change, oxidation reaction, and increases the weight of iron.",
-      "tip": "",
+      "answer_text": "Chemical change involving oxidation",
+      "explanation": "Rusting is an irreversible chemical oxidation reaction where iron reacts with atmospheric oxygen in the presence of water to form hydrated ferric oxide: 4Fe + 3O2 + 2xH2O -> 2Fe2O3 · xH2O. It increases the mass of the iron object.",
+      "tip": "Rusting is a chemical change, oxidation reaction, and increases the weight of iron.",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "Methane (CH4)",
         "Sulfur dioxide",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Methane (CH4)Detailed",
-      "explanation": "Methanogenic archaebacteria operating in anaerobic conditions of waterlogged rice paddies and the rumen of ruminant livestock produce massive quantities of biogenic methane (CH4), a potent greenhouse gas.💡 Exam Setter's Tips & Quick Tricks: Paddy fields & cattle belching = Methane (CH4); Coal mines & marsh gas = Methane.",
-      "tip": "",
+      "answer_text": "Methane (CH4)",
+      "explanation": "Methanogenic archaebacteria operating in anaerobic conditions of waterlogged rice paddies and the rumen of ruminant livestock produce massive quantities of biogenic methane (CH4), a potent greenhouse gas.",
+      "tip": "Paddy fields & cattle belching = Methane (CH4); Coal mines & marsh gas = Methane.",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "Sodium bicarbonate",
         "Ammonium chloride",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Sodium bicarbonateDetailed",
-      "explanation": "Sodium bicarbonate (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.💡 Exam Setter's Tips & Quick Tricks: Sodium bicarbonate = Fire extinguishers + Baking soda.",
-      "tip": "",
+      "answer_text": "Sodium bicarbonate",
+      "explanation": "Sodium bicarbonate (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.",
+      "tip": "Sodium bicarbonate = Fire extinguishers + Baking soda.",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "Time duration",
         "Intensity of light",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Stellar DistanceDetailed",
-      "explanation": "A light year is the astronomical distance that light travels in vacuum in one Julian year (approx. 9.46 * 10^12 km or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.💡 Exam Setter's Tips & Quick Tricks: Light Year & Parsec = Units of astronomical distance; 1 Parsec ≈ 3.26 Light Years.",
-      "tip": "",
+      "answer_text": "Stellar Distance",
+      "explanation": "A light year is the astronomical distance that light travels in vacuum in one Julian year (approx. 9.46 * 10^12 km or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
+      "tip": "Light Year & Parsec = Units of astronomical distance; 1 Parsec ≈ 3.26 Light Years.",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "Indian National Congress and All-India Muslim League",
         "Home Rule League and Ghadar Party",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Indian National Congress and All-India Muslim LeagueDetailed",
-      "explanation": "Under the efforts of Bal Gangadhar Tilak and Mohammad Ali Jinnah, the Congress and Muslim League held their joint session at Lucknow in 1916, accepting separate electorates and demanding provincial self-government.💡 Exam Setter's Tips & Quick Tricks: Lucknow Pact 1916 = Congress & Muslim League alliance + Re-unification of Moderates and Extremists (President: A. C. Majumdar).",
-      "tip": "",
+      "answer_text": "Indian National Congress and All-India Muslim League",
+      "explanation": "Under the efforts of Bal Gangadhar Tilak and Mohammad Ali Jinnah, the Congress and Muslim League held their joint session at Lucknow in 1916, accepting separate electorates and demanding provincial self-government.",
+      "tip": "Lucknow Pact 1916 = Congress & Muslim League alliance + Re-unification of Moderates and Extremists (President: A. C. Majumdar).",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "F. G. Sly",
         "L. C. Adami",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "F. G. SlyDetailed",
-      "explanation": "Sir Frank G. Sly (Commissioner of Central Provinces) was appointed President of the Champaran Agrarian Enquiry Committee by Lieutenant Governor Edward Gait. The committee unanimously recommended the abolition of the tinkathia system.💡 Exam Setter's Tips & Quick Tricks: Champaran Agrarian Committee: President = F. G. Sly; Member = Mahatma Gandhi; Outcome = Champaran Agrarian Act 1918.",
-      "tip": "",
+      "answer_text": "F. G. Sly",
+      "explanation": "Sir Frank G. Sly (Commissioner of Central Provinces) was appointed President of the Champaran Agrarian Enquiry Committee by Lieutenant Governor Edward Gait. The committee unanimously recommended the abolition of the tinkathia system.",
+      "tip": "Champaran Agrarian Committee: President = F. G. Sly; Member = Mahatma Gandhi; Outcome = Champaran Agrarian Act 1918.",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "1908",
         "1912",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1908Detailed",
-      "explanation": "In 1908, a meeting was held at Patna under Nawab Sarfaraz Hussain Khan where the Bihar Provincial Congress Committee was formally constituted, choosing Syed Hasan Imam as its first permanent president.💡 Exam Setter's Tips & Quick Tricks: Bihar Provincial Congress Committee formed = 1908 (Patna conference under Nawab Sarfaraz Hussain Khan).",
-      "tip": "",
+      "answer_text": "1908",
+      "explanation": "In 1908, a meeting was held at Patna under Nawab Sarfaraz Hussain Khan where the Bihar Provincial Congress Committee was formally constituted, choosing Syed Hasan Imam as its first permanent president.",
+      "tip": "Bihar Provincial Congress Committee formed = 1908 (Patna conference under Nawab Sarfaraz Hussain Khan).",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "All India Forward Bloc",
         "Swaraj Party",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "All India Forward BlocDetailed",
-      "explanation": "Following ideological differences with Mahatma Gandhi and the Congress Working Committee, Subhas Chandra Bose resigned in April 1939 and announced the formation of the Forward Bloc within the Congress on 3 May 1939 at Makur, Unnao.💡 Exam Setter's Tips & Quick Tricks: Subhas Chandra Bose founded Forward Bloc in 1939 (First All India Conference at Ramgarh, Bihar in 1940).",
-      "tip": "",
+      "answer_text": "All India Forward Bloc",
+      "explanation": "Following ideological differences with Mahatma Gandhi and the Congress Working Committee, Subhas Chandra Bose resigned in April 1939 and announced the formation of the Forward Bloc within the Congress on 3 May 1939 at Makur, Unnao.",
+      "tip": "Subhas Chandra Bose founded Forward Bloc in 1939 (First All India Conference at Ramgarh, Bihar in 1940).",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "Western Disturbances (पश्चिमी विक्षोभ)",
         "Retreating Northeast Monsoon",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Western Disturbances (पश्चिमी विक्षोभ)Detailed",
-      "explanation": "Western disturbances are extra-tropical cyclonic storms originating over the Mediterranean Sea and steered eastward by the subtropical westerly jet stream. They bring crucial winter rain (Mahawat) beneficial for Rabi crops (wheat).💡 Exam Setter's Tips & Quick Tricks: Northwest India winter rain = Western Disturbances; Coromandel (Tamil Nadu) coast winter rain = Retreating Monsoon.",
-      "tip": "",
+      "answer_text": "Western Disturbances (पश्चिमी विक्षोभ)",
+      "explanation": "Western disturbances are extra-tropical cyclonic storms originating over the Mediterranean Sea and steered eastward by the subtropical westerly jet stream. They bring crucial winter rain (Mahawat) beneficial for Rabi crops (wheat).",
+      "tip": "Northwest India winter rain = Western Disturbances; Coromandel (Tamil Nadu) coast winter rain = Retreating Monsoon.",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "Indo-Gangetic Plain; Jute",
         "Chota Nagpur Plateau; Tea",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Deccan Lava Plateau; CottonDetailed",
-      "explanation": "Regur (black cotton soil) is derived from the weathering of basaltic Deccan trap lava rocks (Maharashtra, Gujarat, MP). It is rich in clay, possesses high moisture retention capacity, and is ideal for cotton cultivation.💡 Exam Setter's Tips & Quick Tricks: Black Soil = Regur = Basaltic lava = Cotton cultivation.",
-      "tip": "",
+      "answer_text": "Deccan Lava Plateau; Cotton",
+      "explanation": "Regur (black cotton soil) is derived from the weathering of basaltic Deccan trap lava rocks (Maharashtra, Gujarat, MP). It is rich in clay, possesses high moisture retention capacity, and is ideal for cotton cultivation.",
+      "tip": "Black Soil = Regur = Basaltic lava = Cotton cultivation.",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "Cement, Sugar, Paper, and Chemical manufacturing",
         "Petrochemicals and Oil refining",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Cement, Sugar, Paper, and Chemical manufacturingDetailed",
-      "explanation": "Established by Ramkrishna Dalmia under the Rohtas Industries conglomerate in the 1930s, Dalmianagar was one of India's largest integrated industrial complexes, housing cement plants, sugar mills, paper factories, and chemical works.💡 Exam Setter's Tips & Quick Tricks: Dalmianagar (Rohtas) = Cement, Paper, Sugar, Chemicals; Barauni (Begusarai) = Oil Refinery, Fertilizer.",
-      "tip": "",
+      "answer_text": "Cement, Sugar, Paper, and Chemical manufacturing",
+      "explanation": "Established by Ramkrishna Dalmia under the Rohtas Industries conglomerate in the 1930s, Dalmianagar was one of India's largest integrated industrial complexes, housing cement plants, sugar mills, paper factories, and chemical works.",
+      "tip": "Dalmianagar (Rohtas) = Cement, Paper, Sugar, Chemicals; Barauni (Begusarai) = Oil Refinery, Fertilizer.",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "Grand Trunk Road (Sher Shah Suri Marg)",
         "Dakshinapatha",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Grand Trunk Road (Sher Shah Suri Marg)Detailed",
-      "explanation": "Built along the ancient Uttarapatha and reconstructed by Sher Shah Suri (Sadak-e-Azam), the Grand Trunk Road connected Sonargaon (Bangladesh) to Peshawar. In Bihar, it traverses the southern plains through Kaimur, Rohtas, Aurangabad, and Gaya.💡 Exam Setter's Tips & Quick Tricks: Sadak-e-Azam / Grand Trunk Road = Built by Sher Shah Suri (tomb at Sasaram).",
-      "tip": "",
+      "answer_text": "Grand Trunk Road (Sher Shah Suri Marg)",
+      "explanation": "Built along the ancient Uttarapatha and reconstructed by Sher Shah Suri (Sadak-e-Azam), the Grand Trunk Road connected Sonargaon (Bangladesh) to Peshawar. In Bihar, it traverses the southern plains through Kaimur, Rohtas, Aurangabad, and Gaya.",
+      "tip": "Sadak-e-Azam / Grand Trunk Road = Built by Sher Shah Suri (tomb at Sasaram).",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "Attorney General for India",
         "Advocate General of the State",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Attorney General for IndiaDetailed",
-      "explanation": "Article 76 provides that the President shall appoint a person qualified to be a Judge of the Supreme Court to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in Parliament without voting rights.💡 Exam Setter's Tips & Quick Tricks: Attorney General for India = Article 76 (Union highest law officer); Advocate General = Article 165 (State).",
-      "tip": "",
+      "answer_text": "Attorney General for India",
+      "explanation": "Article 76 provides that the President shall appoint a person qualified to be a Judge of the Supreme Court to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in Parliament without voting rights.",
+      "tip": "Attorney General for India = Article 76 (Union highest law officer); Advocate General = Article 165 (State).",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "Balwant Rai Mehta Committee",
         "L. M. Singhvi Committee",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Balwant Rai Mehta CommitteeDetailed",
-      "explanation": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate Panchayati Raj on 2 October 1959 at Nagaur, followed by Andhra Pradesh.💡 Exam Setter's Tips & Quick Tricks: 3-tier Panchayati Raj = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986).",
-      "tip": "",
+      "answer_text": "Balwant Rai Mehta Committee",
+      "explanation": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate Panchayati Raj on 2 October 1959 at Nagaur, followed by Andhra Pradesh.",
+      "tip": "3-tier Panchayati Raj = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986).",
       "id": 26
     },
     {
@@ -484,13 +484,13 @@
         "5 years",
         "6 years",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "5 yearsDetailed",
-      "explanation": "Article 280 mandates that the President shall constitute a Finance Commission every fifth year (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.💡 Exam Setter's Tips & Quick Tricks: Finance Commission = Article 280, appointed every 5 years by the President. 16th FC Chairman = Dr. Arvind Panagariya.",
-      "tip": "",
+      "answer_text": "5 years",
+      "explanation": "Article 280 mandates that the President shall constitute a Finance Commission every fifth year (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.",
+      "tip": "Finance Commission = Article 280, appointed every 5 years by the President. 16th FC Chairman = Dr. Arvind Panagariya.",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "Dr. Arvind Panagariya",
         "Dr. Y. V. Reddy",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Dr. Arvind PanagariyaDetailed",
-      "explanation": "On 31 December 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th Finance Commission. N.K. Singh headed the 15th Finance Commission.💡 Exam Setter's Tips & Quick Tricks: 16th Finance Commission Chairman = Dr. Arvind Panagariya; 15th FC Chairman = N. K. Singh.",
-      "tip": "",
+      "answer_text": "Dr. Arvind Panagariya",
+      "explanation": "On 31 December 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th Finance Commission. N.K. Singh headed the 15th Finance Commission.",
+      "tip": "16th Finance Commission Chairman = Dr. Arvind Panagariya; 15th FC Chairman = N. K. Singh.",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "₹1,190",
         "₹1,210",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "₹1,190Detailed",
-      "explanation": "SP = CP * (100 - Loss%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190.💡 Exam Setter's Tips & Quick Tricks: 15% of 1400 = 210. SP = 1400 - 210 = ₹1,190.",
-      "tip": "",
+      "answer_text": "₹1,190",
+      "explanation": "SP = CP * (100 - Loss%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190.",
+      "tip": "15% of 1400 = 210. SP = 1400 - 210 = ₹1,190.",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "16 : 9",
         "4 : 3",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "16 : 9Detailed",
-      "explanation": "Volume ratio = (r1/r2)^3 = 64/27 => r1/r2 = 4/3. Surface area ratio = (r1/r2)^2 = (4/3)^2 = 16/9.💡 Exam Setter's Tips & Quick Tricks: Volume ratio = a^3 : b^3 = 64 : 27 => Radius ratio = 4 : 3 => Area ratio = 4^2 : 3^2 = 16 : 9.",
-      "tip": "",
+      "answer_text": "16 : 9",
+      "explanation": "Volume ratio = (r1/r2)^3 = 64/27 => r1/r2 = 4/3. Surface area ratio = (r1/r2)^2 = (4/3)^2 = 16/9.",
+      "tip": "Volume ratio = a^3 : b^3 = 64 : 27 => Radius ratio = 4 : 3 => Area ratio = 4^2 : 3^2 = 16 : 9.",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "Urochrome (Urobilin)",
         "Melanin",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Urochrome (Urobilin)Detailed",
-      "explanation": "The pale yellow colour of normal urine is due to the pigment urochrome (urobilin), a breakdown end-product of hemoglobin degradation excreted by the kidneys.💡 Exam Setter's Tips & Quick Tricks: Urine yellow pigment = Urochrome; Bile yellow pigment = Bilirubin.",
-      "tip": "",
+      "answer_text": "Urochrome (Urobilin)",
+      "explanation": "The pale yellow colour of normal urine is due to the pigment urochrome (urobilin), a breakdown end-product of hemoglobin degradation excreted by the kidneys.",
+      "tip": "Urine yellow pigment = Urochrome; Bile yellow pigment = Bilirubin.",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "Pascal's Law",
         "Bernoulli's Principle",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Pascal's LawDetailed",
-      "explanation": "Pascal's Principle states that pressure applied to an enclosed, incompressible fluid is transmitted undiminished equally in all directions throughout the fluid and to the walls of its container.💡 Exam Setter's Tips & Quick Tricks: Hydraulic lift / brakes = Pascal's Law; Aeroplane wing lift = Bernoulli's Principle; Buoyancy = Archimedes' Principle.",
-      "tip": "",
+      "answer_text": "Pascal's Law",
+      "explanation": "Pascal's Principle states that pressure applied to an enclosed, incompressible fluid is transmitted undiminished equally in all directions throughout the fluid and to the walls of its container.",
+      "tip": "Hydraulic lift / brakes = Pascal's Law; Aeroplane wing lift = Bernoulli's Principle; Buoyancy = Archimedes' Principle.",
       "id": 32
     },
     {
@@ -592,13 +592,13 @@
         "Article 213",
         "Article 217",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Article 213Detailed",
-      "explanation": "Article 213 empowers the Governor to promulgate an Ordinance when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. President's ordinance power is under Article 123.💡 Exam Setter's Tips & Quick Tricks: Ordinance Powers: President = Article 123; Governor = Article 213.",
-      "tip": "",
+      "answer_text": "Article 213",
+      "explanation": "Article 213 empowers the Governor to promulgate an Ordinance when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. President's ordinance power is under Article 123.",
+      "tip": "Ordinance Powers: President = Article 123; Governor = Article 213.",
       "id": 33
     },
     {
@@ -610,13 +610,13 @@
         "Swami Vivekananda",
         "Swami Dayananda Saraswati",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Swami VivekanandaDetailed",
-      "explanation": "Swami Vivekananda founded the Ramakrishna Mission on 1 May 1897 at Belur Math near Kolkata, named after his spiritual guru Ramakrishna Paramahamsa.💡 Exam Setter's Tips & Quick Tricks: Ramakrishna Mission (1897) = Swami Vivekananda; Arya Samaj (1875) = Dayananda Saraswati; Brahmo Samaj (1828) = Raja Ram Mohan Roy.",
-      "tip": "",
+      "answer_text": "Swami Vivekananda",
+      "explanation": "Swami Vivekananda founded the Ramakrishna Mission on 1 May 1897 at Belur Math near Kolkata, named after his spiritual guru Ramakrishna Paramahamsa.",
+      "tip": "Ramakrishna Mission (1897) = Swami Vivekananda; Arya Samaj (1875) = Dayananda Saraswati; Brahmo Samaj (1828) = Raja Ram Mohan Roy.",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "Katihar",
         "Kishanganj",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 3,
       "answer_letter": "D",
-      "answer_text": "More than one of the aboveDetailed",
-      "explanation": "The northeastern floodplain districts—Purnia, Katihar, and Kishanganj—form the primary jute-producing belt of Bihar due to alluvial soils and high rainfall (>140 cm). Purnia is the largest single producer, but Katihar and Kishanganj are also major producers, making (D) the official key.💡 Exam Setter's Tips & Quick Tricks: BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) More than one of the above is correct.",
-      "tip": "",
+      "answer_text": "More than one of the above",
+      "explanation": "The northeastern floodplain districts—Purnia, Katihar, and Kishanganj—form the primary jute-producing belt of Bihar due to alluvial soils and high rainfall (>140 cm). Purnia is the largest single producer, but Katihar and Kishanganj are also major producers, making (D) the official key.",
+      "tip": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) More than one of the above is correct.",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "2023",
         "2024",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "2023Detailed",
-      "explanation": "Conducted in two phases during 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 October 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.💡 Exam Setter's Tips & Quick Tricks: Bihar Caste Survey released on 2 October 2023: EBC (36%) + OBC (27%) = 63% total backward classes.",
-      "tip": "",
+      "answer_text": "2023",
+      "explanation": "Conducted in two phases during 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 October 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
+      "tip": "Bihar Caste Survey released on 2 October 2023: EBC (36%) + OBC (27%) = 63% total backward classes.",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "Surya-1",
         "Helios-India",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Aditya-L1Detailed",
-      "explanation": "Aditya-L1 was launched on 2 September 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million km from Earth, to study solar coronal heating and solar wind flares.💡 Exam Setter's Tips & Quick Tricks: India's solar mission = Aditya-L1 (PSLV-C57); Destination = Lagrange point 1 (L1).",
-      "tip": "",
+      "answer_text": "Aditya-L1",
+      "explanation": "Aditya-L1 was launched on 2 September 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million km from Earth, to study solar coronal heating and solar wind flares.",
+      "tip": "India's solar mission = Aditya-L1 (PSLV-C57); Destination = Lagrange point 1 (L1).",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "United Kingdom (Britain)",
         "Canada",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "United Kingdom (Britain)Detailed",
-      "explanation": "Unlike the USA which features dual citizenship (Federal and State), India adopted a single uniform citizenship for the entire nation, borrowed directly from the British parliamentary and constitutional model.💡 Exam Setter's Tips & Quick Tricks: UK borrowings: Parliamentary system, Rule of Law, Single Citizenship, Bicameralism, Cabinet system.",
-      "tip": "",
+      "answer_text": "United Kingdom (Britain)",
+      "explanation": "Unlike the USA which features dual citizenship (Federal and State), India adopted a single uniform citizenship for the entire nation, borrowed directly from the British parliamentary and constitutional model.",
+      "tip": "UK borrowings: Parliamentary system, Rule of Law, Single Citizenship, Bicameralism, Cabinet system.",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "NH 28",
         "NH 31",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "NH 19 (Old NH 2)Detailed",
-      "explanation": "National Highway 19 (formerly NH 2) is part of the Golden Quadrilateral connecting Delhi and Kolkata via Mathura, Agra, Kanpur, Allahabad, Varanasi, Mohania, Sasaram, Aurangabad, Dobhi, Dhanbad, and Asansol.💡 Exam Setter's Tips & Quick Tricks: Delhi-Kolkata corridor through Sasaram = NH 19 (old NH 2).",
-      "tip": "",
+      "answer_text": "NH 19 (Old NH 2)",
+      "explanation": "National Highway 19 (formerly NH 2) is part of the Golden Quadrilateral connecting Delhi and Kolkata via Mathura, Agra, Kanpur, Allahabad, Varanasi, Mohania, Sasaram, Aurangabad, Dobhi, Dhanbad, and Asansol.",
+      "tip": "Delhi-Kolkata corridor through Sasaram = NH 19 (old NH 2).",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "Dr. B. R. Ambedkar",
         "Jawaharlal Nehru",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Dr. B. R. AmbedkarDetailed",
-      "explanation": "The Drafting Committee was set up on 29 August 1947 with Dr. B. R. Ambedkar as its Chairman. Dr. Rajendra Prasad was the permanent President of the Constituent Assembly.💡 Exam Setter's Tips & Quick Tricks: Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly President = Dr. Rajendra Prasad.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "tip": "",
+      "answer_text": "Dr. B. R. Ambedkar",
+      "explanation": "The Drafting Committee was set up on 29 August 1947 with Dr. B. R. Ambedkar as its Chairman. Dr. Rajendra Prasad was the permanent President of the Constituent Assembly.",
+      "tip": "Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly President = Dr. Rajendra Prasad.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
       "id": 40
     }
   ]

@@ -16,13 +16,13 @@
         "3 km/h",
         "4 km/h",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "3 km/hDetailed",
-      "explanation": "Downstream speed (D) = 36 / 3 = 12 km/h. Upstream speed (U) = 24 / 4 = 6 km/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 km/h. (Speed of boat in still water = (12 + 6)/2 = 9 km/h).💡 Exam Setter's Tips & Quick Tricks: Current speed = (Downstream - Upstream) / 2 = (12 - 6) / 2 = 3 km/h.",
-      "tip": "",
+      "answer_text": "3 km/h",
+      "explanation": "Downstream speed (D) = 36 / 3 = 12 km/h. Upstream speed (U) = 24 / 4 = 6 km/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 km/h. (Speed of boat in still water = (12 + 6)/2 = 9 km/h).",
+      "tip": "Current speed = (Downstream - Upstream) / 2 = (12 - 6) / 2 = 3 km/h.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "₹1,200",
         "₹1,400",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "₹1,200Detailed",
-      "explanation": "Simple Interest = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200.💡 Exam Setter's Tips & Quick Tricks: SI = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200.",
-      "tip": "",
+      "answer_text": "₹1,200",
+      "explanation": "Simple Interest = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200.",
+      "tip": "SI = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200.",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "20%",
         "25%",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "20%Detailed",
-      "explanation": "Percentage reduction in consumption = [R / (100 + R)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%.💡 Exam Setter's Tips & Quick Tricks: Formula: R/(100 + R) * 100 = 25/125 * 100 = 20%.",
-      "tip": "",
+      "answer_text": "20%",
+      "explanation": "Percentage reduction in consumption = [R / (100 + R)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%.",
+      "tip": "Formula: R/(100 + R) * 100 = 25/125 * 100 = 20%.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "1 : 1",
         "5 : 4",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1 : 1Detailed",
-      "explanation": "Ratio of profit = (Capital A * Time A) : (Capital B * Time B) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.💡 Exam Setter's Tips & Quick Tricks: Profit ratio = Investment * Time = 4*10 : 5*8 = 40 : 40 = 1 : 1.",
-      "tip": "",
+      "answer_text": "1 : 1",
+      "explanation": "Ratio of profit = (Capital A * Time A) : (Capital B * Time B) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.",
+      "tip": "Profit ratio = Investment * Time = 4*10 : 5*8 = 40 : 40 = 1 : 1.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "96 sq cm",
         "192 sq cm",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "96 sq cmDetailed",
-      "explanation": "Area of trapezium = (1/2) * (Sum of parallel sides) * Height = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 sq cm.💡 Exam Setter's Tips & Quick Tricks: Area = 1/2 * (a + b) * h = 1/2 * 24 * 8 = 96 cm².",
-      "tip": "",
+      "answer_text": "96 sq cm",
+      "explanation": "Area of trapezium = (1/2) * (Sum of parallel sides) * Height = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 sq cm.",
+      "tip": "Area = 1/2 * (a + b) * h = 1/2 * 24 * 8 = 96 cm².",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "Only conclusion II follows",
         "Both conclusions I and II follow",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 2,
       "answer_letter": "C",
-      "answer_text": "Both conclusions I and II followDetailed",
-      "explanation": "Pens ⊂ Pencils, and Pencils ∩ Erasers = ∅. Since Pens are inside Pencils, Pens ∩ Erasers = ∅ (Conclusion I holds). Since All pens are pencils, some pencils are pens (Conclusion II holds).💡 Exam Setter's Tips & Quick Tricks: Disjoint set property: Both conclusions I and II logically follow.",
-      "tip": "",
+      "answer_text": "Both conclusions I and II follow",
+      "explanation": "Pens ⊂ Pencils, and Pencils ∩ Erasers = ∅. Since Pens are inside Pencils, Pens ∩ Erasers = ∅ (Conclusion I holds). Since All pens are pencils, some pencils are pens (Conclusion II holds).",
+      "tip": "Disjoint set property: Both conclusions I and II logically follow.",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "6 km West",
         "10 km South",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "6 km WestDetailed",
-      "explanation": "North 10 km (+10y) -> West 6 km (-6x) -> South 10 km (-10y). Net displacement = -6x = 6 km due West of starting position.💡 Exam Setter's Tips & Quick Tricks: Vertical movements (+10 km North and -10 km South) cancel out; leaves 6 km West.",
-      "tip": "",
+      "answer_text": "6 km West",
+      "explanation": "North 10 km (+10y) -> West 6 km (-6x) -> South 10 km (-10y). Net displacement = -6x = 6 km due West of starting position.",
+      "tip": "Vertical movements (+10 km North and -10 km South) cancel out; leaves 6 km West.",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "158",
         "168",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "158Detailed",
-      "explanation": "Pattern is (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (Or differences double: 5, 10, 20, 40, 80; 78 + 80 = 158).💡 Exam Setter's Tips & Quick Tricks: Multiply by 2 and add 2: 78 * 2 + 2 = 156 + 2 = 158.",
-      "tip": "",
+      "answer_text": "158",
+      "explanation": "Pattern is (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (Or differences double: 5, 10, 20, 40, 80; 78 + 80 = 158).",
+      "tip": "Multiply by 2 and add 2: 78 * 2 + 2 = 156 + 2 = 158.",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "11.2 km/s",
         "15.4 km/s",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "11.2 km/sDetailed",
-      "explanation": "Escape velocity ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 km/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 km/s (ve = √2 * vo).💡 Exam Setter's Tips & Quick Tricks: Escape velocity from Earth = 11.2 km/s; from Moon = 2.4 km/s; Orbital velocity = 7.9 km/s.",
-      "tip": "",
+      "answer_text": "11.2 km/s",
+      "explanation": "Escape velocity ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 km/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 km/s (ve = √2 * vo).",
+      "tip": "Escape velocity from Earth = 11.2 km/s; from Moon = 2.4 km/s; Orbital velocity = 7.9 km/s.",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "Mutual Induction",
         "Photoelectric effect",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Mutual InductionDetailed",
-      "explanation": "A transformer operates on Faraday's law of mutual electromagnetic induction between two magnetically coupled primary and secondary coils wound on a laminated iron core. It cannot step-up or step-down direct current (DC).💡 Exam Setter's Tips & Quick Tricks: Transformer works on Mutual Induction and operates only on Alternating Current (AC).",
-      "tip": "",
+      "answer_text": "Mutual Induction",
+      "explanation": "A transformer operates on Faraday's law of mutual electromagnetic induction between two magnetically coupled primary and secondary coils wound on a laminated iron core. It cannot step-up or step-down direct current (DC).",
+      "tip": "Transformer works on Mutual Induction and operates only on Alternating Current (AC).",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "Calcium and Magnesium",
         "Iron and Aluminium",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Calcium and MagnesiumDetailed",
-      "explanation": "Temporary hardness is due to calcium bicarbonate Ca(HCO3)2 and magnesium bicarbonate Mg(HCO3)2. Boiling decomposes them into insoluble carbonates: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2. Permanent hardness is due to chlorides and sulphates of Ca and Mg.💡 Exam Setter's Tips & Quick Tricks: Temporary hardness = Bicarbonates of Ca & Mg (removed by boiling); Permanent hardness = Chlorides & Sulphates of Ca & Mg.",
-      "tip": "",
+      "answer_text": "Calcium and Magnesium",
+      "explanation": "Temporary hardness is due to calcium bicarbonate Ca(HCO3)2 and magnesium bicarbonate Mg(HCO3)2. Boiling decomposes them into insoluble carbonates: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2. Permanent hardness is due to chlorides and sulphates of Ca and Mg.",
+      "tip": "Temporary hardness = Bicarbonates of Ca & Mg (removed by boiling); Permanent hardness = Chlorides & Sulphates of Ca & Mg.",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "Zinc (जस्ता)",
         "Lead",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Zinc (जस्ता)Detailed",
-      "explanation": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of basic zinc carbonate and acts as a sacrificial sacrificial anode because its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).💡 Exam Setter's Tips & Quick Tricks: Galvanization = Coating of Zinc (Zn) on Iron (Fe).",
-      "tip": "",
+      "answer_text": "Zinc (जस्ता)",
+      "explanation": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of basic zinc carbonate and acts as a sacrificial sacrificial anode because its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
+      "tip": "Galvanization = Coating of Zinc (Zn) on Iron (Fe).",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "Hemoglobin (Heme group)",
         "Albumin",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Hemoglobin (Heme group)Detailed",
-      "explanation": "Senescent red blood cells are engulfed by macrophages in the spleen and liver. The heme ring of hemoglobin is catabolized by heme oxygenase into biliverdin, which is reduced to bilirubin and excreted via bile into the intestine.💡 Exam Setter's Tips & Quick Tricks: Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of Hemoglobin.",
-      "tip": "",
+      "answer_text": "Hemoglobin (Heme group)",
+      "explanation": "Senescent red blood cells are engulfed by macrophages in the spleen and liver. The heme ring of hemoglobin is catabolized by heme oxygenase into biliverdin, which is reduced to bilirubin and excreted via bile into the intestine.",
+      "tip": "Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of Hemoglobin.",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "Rickets (सूखा रोग)",
         "Beriberi",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Rickets (सूखा रोग)Detailed",
-      "explanation": "Vitamin D (cholecalciferol) is required for intestinal absorption of calcium and phosphorus. Deficiency in children impairs bone mineralization, causing rickets (bowlegs, knock-knees, pigeon chest). In adults, it causes osteomalacia.💡 Exam Setter's Tips & Quick Tricks: Vitamin D deficiency = Rickets (in children) / Osteomalacia (in adults); Vitamin C = Scurvy; Vitamin B1 = Beriberi.",
-      "tip": "",
+      "answer_text": "Rickets (सूखा रोग)",
+      "explanation": "Vitamin D (cholecalciferol) is required for intestinal absorption of calcium and phosphorus. Deficiency in children impairs bone mineralization, causing rickets (bowlegs, knock-knees, pigeon chest). In adults, it causes osteomalacia.",
+      "tip": "Vitamin D deficiency = Rickets (in children) / Osteomalacia (in adults); Vitamin C = Scurvy; Vitamin B1 = Beriberi.",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "AB Positive",
         "A Positive",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "AB PositiveDetailed",
-      "explanation": "Blood group AB Positive possesses both A and B antigens on RBC surfaces and lacks anti-A, anti-B, and anti-Rh antibodies in plasma. Hence, it can receive blood cells from all ABO and Rh types without agglutination.💡 Exam Setter's Tips & Quick Tricks: Universal Recipient = AB Positive; Universal Donor = O Negative.",
-      "tip": "",
+      "answer_text": "AB Positive",
+      "explanation": "Blood group AB Positive possesses both A and B antigens on RBC surfaces and lacks anti-A, anti-B, and anti-Rh antibodies in plasma. Hence, it can receive blood cells from all ABO and Rh types without agglutination.",
+      "tip": "Universal Recipient = AB Positive; Universal Donor = O Negative.",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "50%",
         "90%",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 2,
       "answer_letter": "C",
-      "answer_text": "90%Detailed",
-      "explanation": "Under Lindeman's 10% law, only ~10% of chemical energy is transferred and incorporated into consumer biomass at the successive trophic level. Therefore, approximately 90% is dissipated as heat, cellular respiration, and unconsumed waste.💡 Exam Setter's Tips & Quick Tricks: Energy Transferred = 10%; Energy Lost as heat/respiration = 90%.",
-      "tip": "",
+      "answer_text": "90%",
+      "explanation": "Under Lindeman's 10% law, only ~10% of chemical energy is transferred and incorporated into consumer biomass at the successive trophic level. Therefore, approximately 90% is dissipated as heat, cellular respiration, and unconsumed waste.",
+      "tip": "Energy Transferred = 10%; Energy Lost as heat/respiration = 90%.",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "Battle of Jagdishpur",
         "Battle of Arrah House",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Battle of JagdishpurDetailed",
-      "explanation": "Despite losing his left arm crossing the Ganga, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 April 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 April as 'Vijay Utsav'.💡 Exam Setter's Tips & Quick Tricks: Kunwar Singh's victory over Captain Le Grand = 23 April 1858 (Celebrated as Vijay Diwas in Bihar).",
-      "tip": "",
+      "answer_text": "Battle of Jagdishpur",
+      "explanation": "Despite losing his left arm crossing the Ganga, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 April 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 April as 'Vijay Utsav'.",
+      "tip": "Kunwar Singh's victory over Captain Le Grand = 23 April 1858 (Celebrated as Vijay Diwas in Bihar).",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "Maulana Mazharul Haque",
         "Brajkishore Prasad",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Dr. Rajendra PrasadDetailed",
-      "explanation": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 April 1917 and went to the residence of Dr. Rajendra Prasad (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.💡 Exam Setter's Tips & Quick Tricks: Gandhi in Patna (10 April 1917) visited Dr. Rajendra Prasad's residence first with Raj Kumar Shukla.",
-      "tip": "",
+      "answer_text": "Dr. Rajendra Prasad",
+      "explanation": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 April 1917 and went to the residence of Dr. Rajendra Prasad (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.",
+      "tip": "Gandhi in Patna (10 April 1917) visited Dr. Rajendra Prasad's residence first with Raj Kumar Shukla.",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "Maulana Mazharul Haque",
         "Hasan Imam",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Maulana Mazharul HaqueDetailed",
-      "explanation": "Maulana Mazharul Haque started 'The Motherland' on 30 September 1921 from Sadaqat Ashram to propagate Hindu-Muslim unity and the non-cooperation program, facing colonial censorship and imprisonment for his fiery editorials.💡 Exam Setter's Tips & Quick Tricks: 'The Motherland' (1921) = Founded by Maulana Mazharul Haque from Sadaqat Ashram.",
-      "tip": "",
+      "answer_text": "Maulana Mazharul Haque",
+      "explanation": "Maulana Mazharul Haque started 'The Motherland' on 30 September 1921 from Sadaqat Ashram to propagate Hindu-Muslim unity and the non-cooperation program, facing colonial censorship and imprisonment for his fiery editorials.",
+      "tip": "'The Motherland' (1921) = Founded by Maulana Mazharul Haque from Sadaqat Ashram.",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "Swami Sahajanand Saraswati",
         "Karyanand Sharma",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Swami Sahajanand SaraswatiDetailed",
-      "explanation": "Swami Sahajanand Saraswati established the BPKS at Sonepur in November 1929 to protect tenant farmers from zamindari eviction. He was elected President, and Dr. Sri Krishna Singh was appointed Secretary.💡 Exam Setter's Tips & Quick Tricks: Bihar Provincial Kisan Sabha (1929, Sonepur) = President: Swami Sahajanand Saraswati; Secretary: Sri Krishna Singh.",
-      "tip": "",
+      "answer_text": "Swami Sahajanand Saraswati",
+      "explanation": "Swami Sahajanand Saraswati established the BPKS at Sonepur in November 1929 to protect tenant farmers from zamindari eviction. He was elected President, and Dr. Sri Krishna Singh was appointed Secretary.",
+      "tip": "Bihar Provincial Kisan Sabha (1929, Sonepur) = President: Swami Sahajanand Saraswati; Secretary: Sri Krishna Singh.",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "Champaran",
         "Patna",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "ChamparanDetailed",
-      "explanation": "In Champaran district, Salt Satyagraha began on 15 April 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt march.💡 Exam Setter's Tips & Quick Tricks: Salt Satyagraha in Champaran = Led by Bipin Bihari Varma; In Patna = Ambika Kant Sinha (Nakhas Pind).",
-      "tip": "",
+      "answer_text": "Champaran",
+      "explanation": "In Champaran district, Salt Satyagraha began on 15 April 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt march.",
+      "tip": "Salt Satyagraha in Champaran = Led by Bipin Bihari Varma; In Patna = Ambika Kant Sinha (Nakhas Pind).",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "Usha Mehta",
         "Sucheta Kripalani",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Usha MehtaDetailed",
-      "explanation": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. Ram Manohar Lohia) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in November 1942.💡 Exam Setter's Tips & Quick Tricks: Underground Congress Radio (1942) = Usha Mehta and Dr. Ram Manohar Lohia.",
-      "tip": "",
+      "answer_text": "Usha Mehta",
+      "explanation": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. Ram Manohar Lohia) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in November 1942.",
+      "tip": "Underground Congress Radio (1942) = Usha Mehta and Dr. Ram Manohar Lohia.",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "1 April 1912",
         "1 April 1936",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1 April 1912Detailed",
-      "explanation": "While 22 March 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 April 1912 with Sir Charles Stuart Bayley as Lieutenant Governor.💡 Exam Setter's Tips & Quick Tricks: Bihar Diwas = 22 March; Administrative inception = 1 April 1912.",
-      "tip": "",
+      "answer_text": "1 April 1912",
+      "explanation": "While 22 March 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 April 1912 with Sir Charles Stuart Bayley as Lieutenant Governor.",
+      "tip": "Bihar Diwas = 22 March; Administrative inception = 1 April 1912.",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "Mahabharat Range",
         "Kaimur Plateau",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Chautarwa Chaur in Someshwar RangeDetailed",
-      "explanation": "The Burhi Gandak originates from Chautarwa Chaur near the Someshwar hills in West Champaran. It flows southeast through East Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the Ganga near Khagaria.💡 Exam Setter's Tips & Quick Tricks: Burhi Gandak origin = Someshwar Range (Chautarwa Chaur, West Champaran); joins Ganga at Khagaria.",
-      "tip": "",
+      "answer_text": "Chautarwa Chaur in Someshwar Range",
+      "explanation": "The Burhi Gandak originates from Chautarwa Chaur near the Someshwar hills in West Champaran. It flows southeast through East Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the Ganga near Khagaria.",
+      "tip": "Burhi Gandak origin = Someshwar Range (Chautarwa Chaur, West Champaran); joins Ganga at Khagaria.",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "Balther Soil (Red and Yellow sandy-clayey soil)",
         "Karail-Kewal Soil",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Balther Soil (Red and Yellow sandy-clayey soil)Detailed",
-      "explanation": "Balther soil is an acidic, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of South Bihar.💡 Exam Setter's Tips & Quick Tricks: Balther soil = Sandy, acidic foothills soil of South Bihar; Karail-Kewal = Heavy clayey alluvium.",
-      "tip": "",
+      "answer_text": "Balther Soil (Red and Yellow sandy-clayey soil)",
+      "explanation": "Balther soil is an acidic, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of South Bihar.",
+      "tip": "Balther soil = Sandy, acidic foothills soil of South Bihar; Karail-Kewal = Heavy clayey alluvium.",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "Loo (लू)",
         "Mango Showers",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Loo (लू)Detailed",
-      "explanation": "'Loo' is the strong, scorching dry summer wind blowing from the Thar Desert eastward across northern India and Bihar during afternoon hours, causing heatstroke. Norwesters (Kalbaishakhi) are thunderstorm showers.💡 Exam Setter's Tips & Quick Tricks: Hot dry summer wind = Loo; Thunderstorm pre-monsoon rain = Kalbaishakhi (Norwesters).",
-      "tip": "",
+      "answer_text": "Loo (लू)",
+      "explanation": "'Loo' is the strong, scorching dry summer wind blowing from the Thar Desert eastward across northern India and Bihar during afternoon hours, causing heatstroke. Norwesters (Kalbaishakhi) are thunderstorm showers.",
+      "tip": "Hot dry summer wind = Loo; Thunderstorm pre-monsoon rain = Kalbaishakhi (Norwesters).",
       "id": 26
     },
     {
@@ -484,13 +484,13 @@
         "Kaimur (31.56%)",
         "Jamui",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Kaimur (31.56%)Detailed",
-      "explanation": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq km), followed by Jamui (21.34%) and Nawada (20.72%). West Champaran has the largest absolute forest area (903.34 sq km).💡 Exam Setter's Tips & Quick Tricks: Highest Forest Percentage = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq km); Lowest forest = Sheikhpura.",
-      "tip": "",
+      "answer_text": "Kaimur (31.56%)",
+      "explanation": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq km), followed by Jamui (21.34%) and Nawada (20.72%). West Champaran has the largest absolute forest area (903.34 sq km).",
+      "tip": "Highest Forest Percentage = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq km); Lowest forest = Sheikhpura.",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "Jindhagada Peak (Arma Konda)",
         "Anamudi",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Jindhagada Peak (Arma Konda)Detailed",
-      "explanation": "Jindhagada Peak (also known as Arma Konda) in the Araku Valley of Andhra Pradesh has an elevation of 1,690 metres, making it the highest peak of the Eastern Ghats. Mahendragiri (1,501 m) is in Odisha.💡 Exam Setter's Tips & Quick Tricks: Highest of Eastern Ghats = Jindhagada / Arma Konda (1,690 m); Highest of Western Ghats = Anamudi (2,695 m).",
-      "tip": "",
+      "answer_text": "Jindhagada Peak (Arma Konda)",
+      "explanation": "Jindhagada Peak (also known as Arma Konda) in the Araku Valley of Andhra Pradesh has an elevation of 1,690 metres, making it the highest peak of the Eastern Ghats. Mahendragiri (1,501 m) is in Odisha.",
+      "tip": "Highest of Eastern Ghats = Jindhagada / Arma Konda (1,690 m); Highest of Western Ghats = Anamudi (2,695 m).",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "Rann of Kutch (Inland drainage)",
         "Sambhar Salt Lake",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Rann of Kutch (Inland drainage)Detailed",
-      "explanation": "The Luni flows southwest through Rajasthan and Gujarat for ~495 km and is lost in the marshy saline sands of the Rann of Kutch without reaching the sea, representing an inland drainage system.💡 Exam Setter's Tips & Quick Tricks: Luni River = Inland drainage, terminates in the Rann of Kutch.",
-      "tip": "",
+      "answer_text": "Rann of Kutch (Inland drainage)",
+      "explanation": "The Luni flows southwest through Rajasthan and Gujarat for ~495 km and is lost in the marshy saline sands of the Rann of Kutch without reaching the sea, representing an inland drainage system.",
+      "tip": "Luni River = Inland drainage, terminates in the Rann of Kutch.",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "Not less than one-third (33.3%)",
         "Exactly one-half (50%)",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Not less than one-third (33.3%)Detailed",
-      "explanation": "Article 243D(3) mandates that not less than one-third of total seats shall be reserved for women in all Panchayats. (Note: States like Bihar have increased this reservation to 50% under state law, but the baseline constitutional requirement is 1/3rd).💡 Exam Setter's Tips & Quick Tricks: Constitutional minimum (Art. 243D) = Not less than 1/3rd; Bihar State Law = 50% reservation.",
-      "tip": "",
+      "answer_text": "Not less than one-third (33.3%)",
+      "explanation": "Article 243D(3) mandates that not less than one-third of total seats shall be reserved for women in all Panchayats. (Note: States like Bihar have increased this reservation to 50% under state law, but the baseline constitutional requirement is 1/3rd).",
+      "tip": "Constitutional minimum (Art. 243D) = Not less than 1/3rd; Bihar State Law = 50% reservation.",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "Article 368",
         "Article 370",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Article 368Detailed",
-      "explanation": "Article 368 empowers Parliament to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'Basic Structure' doctrine (Kesavananda Bharati case 1973).💡 Exam Setter's Tips & Quick Tricks: Amendment of Constitution = Article 368 (Part XX, borrowed from South Africa).",
-      "tip": "",
+      "answer_text": "Article 368",
+      "explanation": "Article 368 empowers Parliament to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'Basic Structure' doctrine (Kesavananda Bharati case 1973).",
+      "tip": "Amendment of Constitution = Article 368 (Part XX, borrowed from South Africa).",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "State List (List II)",
         "Concurrent List",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "State List (List II)Detailed",
-      "explanation": "Public health, sanitation, hospitals, and dispensaries fall under Entry 6 of List II (State List). Education, forests, and weights & measures are in the Concurrent List (List III).💡 Exam Setter's Tips & Quick Tricks: Public Health, Police, Agriculture, Local Govt = State List; Defence, Railways, Banking = Union List; Education, Forests = Concurrent List.",
-      "tip": "",
+      "answer_text": "State List (List II)",
+      "explanation": "Public health, sanitation, hospitals, and dispensaries fall under Entry 6 of List II (State List). Education, forests, and weights & measures are in the Concurrent List (List III).",
+      "tip": "Public Health, Police, Agriculture, Local Govt = State List; Defence, Railways, Banking = Union List; Education, Forests = Concurrent List.",
       "id": 32
     },
     {
@@ -592,13 +592,13 @@
         "2 months",
         "6 months",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "2 monthsDetailed",
-      "explanation": "Article 356(3) mandates that a proclamation of President's Rule ceases to operate at the expiration of 2 months unless approved by resolutions of both Lok Sabha and Rajya Sabha by simple majority. National Emergency (Art. 352) requires approval within 1 month.💡 Exam Setter's Tips & Quick Tricks: Approval deadline: National Emergency (Art. 352) = 1 month; President's Rule (Art. 356) = 2 months; Financial Emergency (Art. 360) = 2 months.",
-      "tip": "",
+      "answer_text": "2 months",
+      "explanation": "Article 356(3) mandates that a proclamation of President's Rule ceases to operate at the expiration of 2 months unless approved by resolutions of both Lok Sabha and Rajya Sabha by simple majority. National Emergency (Art. 352) requires approval within 1 month.",
+      "tip": "Approval deadline: National Emergency (Art. 352) = 1 month; President's Rule (Art. 356) = 2 months; Financial Emergency (Art. 360) = 2 months.",
       "id": 33
     },
     {
@@ -610,13 +610,13 @@
         "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
         "Samriddh Bihar, Swachh Bihar",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)Detailed",
-      "explanation": "Bihar Diwas 2023 marked the 111th anniversary of the State's creation, organized under the focal theme 'Yuva Shakti - Bihar Ki Pragati', emphasizing youth empowerment and self-employment initiatives.💡 Exam Setter's Tips & Quick Tricks: Bihar Diwas 2023 Theme = 'Yuva Shakti - Bihar Ki Pragati'.",
-      "tip": "",
+      "answer_text": "Yuva Shakti - Bihar Ki Pragati (युवा शक्ति - बिहार की प्रगति)",
+      "explanation": "Bihar Diwas 2023 marked the 111th anniversary of the State's creation, organized under the focal theme 'Yuva Shakti - Bihar Ki Pragati', emphasizing youth empowerment and self-employment initiatives.",
+      "tip": "Bihar Diwas 2023 Theme = 'Yuva Shakti - Bihar Ki Pragati'.",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "6 wheels",
         "8 wheels",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "6 wheelsDetailed",
-      "explanation": "Pragyan rover is a 26 kg, 6-wheeled robotic vehicle equipped with rocker-bogie suspension and two scientific payloads (APXS and LIBS) to conduct in-situ chemical and elemental analysis of lunar soil.💡 Exam Setter's Tips & Quick Tricks: Pragyan rover has 6 wheels, weighed 26 kg, deployed from Vikram lander.",
-      "tip": "",
+      "answer_text": "6 wheels",
+      "explanation": "Pragyan rover is a 26 kg, 6-wheeled robotic vehicle equipped with rocker-bogie suspension and two scientific payloads (APXS and LIBS) to conduct in-situ chemical and elemental analysis of lunar soil.",
+      "tip": "Pragyan rover has 6 wheels, weighed 26 kg, deployed from Vikram lander.",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "Jon Fosse (योन फॉसे)",
         "Abdulrazak Gurnah",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Jon Fosse (योन फॉसे)Detailed",
-      "explanation": "The Swedish Academy awarded the 2023 Nobel Prize in Literature to Norwegian playwright and novelist Jon Fosse, written in Norwegian Nynorsk.💡 Exam Setter's Tips & Quick Tricks: Nobel Prize Literature 2023 = Jon Fosse (Norway); 2022 = Annie Ernaux (France).",
-      "tip": "",
+      "answer_text": "Jon Fosse (योन फॉसे)",
+      "explanation": "The Swedish Academy awarded the 2023 Nobel Prize in Literature to Norwegian playwright and novelist Jon Fosse, written in Norwegian Nynorsk.",
+      "tip": "Nobel Prize Literature 2023 = Jon Fosse (Norway); 2022 = Annie Ernaux (France).",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "10%",
         "12%",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "8%Detailed",
-      "explanation": "Let CP = 100. Marked Price = 120. Discount = 10% of 120 = 12. Selling Price = 120 - 12 = 108. Profit % = 108 - 100 = 8%.💡 Exam Setter's Tips & Quick Tricks: Net % = 20 - 10 - (20*10)/100 = 10 - 2 = 8% profit.",
-      "tip": "",
+      "answer_text": "8%",
+      "explanation": "Let CP = 100. Marked Price = 120. Discount = 10% of 120 = 12. Selling Price = 120 - 12 = 108. Profit % = 108 - 100 = 8%.",
+      "tip": "Net % = 20 - 10 - (20*10)/100 = 10 - 2 = 8% profit.",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "Oxygen (O2)",
         "Hydrogen",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Oxygen (O2)Detailed",
-      "explanation": "In light-dependent reactions of photosynthesis, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.💡 Exam Setter's Tips & Quick Tricks: Evolved Oxygen in photosynthesis comes from Water (H2O), not from Carbon Dioxide.",
-      "tip": "",
+      "answer_text": "Oxygen (O2)",
+      "explanation": "In light-dependent reactions of photosynthesis, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.",
+      "tip": "Evolved Oxygen in photosynthesis comes from Water (H2O), not from Carbon Dioxide.",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "Rohtas (Sasaram)",
         "Aurangabad",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Rohtas (Sasaram)Detailed",
-      "explanation": "Built in red sandstone between 1540 and 1545 by architect Mir Muhammad Aliwal Khan, Sher Shah Suri's tomb stands on an octagonal stone plinth in an artificial lake at Sasaram in Rohtas district.💡 Exam Setter's Tips & Quick Tricks: Tomb of Sher Shah Suri = Sasaram (Rohtas district); Architect = Aliwal Khan.",
-      "tip": "",
+      "answer_text": "Rohtas (Sasaram)",
+      "explanation": "Built in red sandstone between 1540 and 1545 by architect Mir Muhammad Aliwal Khan, Sher Shah Suri's tomb stands on an octagonal stone plinth in an artificial lake at Sasaram in Rohtas district.",
+      "tip": "Tomb of Sher Shah Suri = Sasaram (Rohtas district); Architect = Aliwal Khan.",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "Dr. K. Kasturirangan",
         "Prof. Yash Pal",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Dr. K. KasturiranganDetailed",
-      "explanation": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of Planning Commission) chaired the 9-member committee that submitted the Draft National Education Policy in May 2019, which formed the basis of NEP 2020.💡 Exam Setter's Tips & Quick Tricks: NEP 2020 Drafting Committee Chairman = Dr. K. Kasturirangan.\nAnswer Key Summary Table — Set 11 (Questions 401 to 440)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "tip": "",
+      "answer_text": "Dr. K. Kasturirangan",
+      "explanation": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of Planning Commission) chaired the 9-member committee that submitted the Draft National Education Policy in May 2019, which formed the basis of NEP 2020.",
+      "tip": "NEP 2020 Drafting Committee Chairman = Dr. K. Kasturirangan.\nAnswer Key Summary Table — Set 11 (Questions 401 to 440)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
       "id": 40
     }
   ]

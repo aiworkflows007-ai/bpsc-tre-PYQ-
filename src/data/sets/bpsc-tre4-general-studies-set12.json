@@ -16,13 +16,13 @@
         "1,080°",
         "1,260°",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1,080°Detailed",
-      "explanation": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.💡 Exam Setter's Tips & Quick Tricks: Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°.",
-      "tip": "",
+      "answer_text": "1,080°",
+      "explanation": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.",
+      "tip": "Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "3 and 4",
         "-3 and -4",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "3 and 4Detailed",
-      "explanation": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.💡 Exam Setter's Tips & Quick Tricks: Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4.",
-      "tip": "",
+      "answer_text": "3 and 4",
+      "explanation": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.",
+      "tip": "Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4.",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "99",
         "110",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "99Detailed",
-      "explanation": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.💡 Exam Setter's Tips & Quick Tricks: N2 = (11 * 693) / 77 = 693 / 7 = 99.",
-      "tip": "",
+      "answer_text": "99",
+      "explanation": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.",
+      "tip": "N2 = (11 * 693) / 77 = 693 / 7 = 99.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "72 km/h",
         "80 km/h",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "72 km/hDetailed",
-      "explanation": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in km/h = 20 * (18/5) = 72 km/h.💡 Exam Setter's Tips & Quick Tricks: Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 km/h.",
-      "tip": "",
+      "answer_text": "72 km/h",
+      "explanation": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in km/h = 20 * (18/5) = 72 km/h.",
+      "tip": "Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 km/h.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "b b a b a",
         "a b a b a",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "b b a b aDetailed",
-      "explanation": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.💡 Exam Setter's Tips & Quick Tricks: Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'.",
-      "tip": "",
+      "answer_text": "b b a b a",
+      "explanation": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.",
+      "tip": "Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'.",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "Uncle (चाचा)",
         "Father",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Uncle (चाचा)Detailed",
-      "explanation": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).💡 Exam Setter's Tips & Quick Tricks: Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle.",
-      "tip": "",
+      "answer_text": "Uncle (चाचा)",
+      "explanation": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).",
+      "tip": "Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle.",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "19th",
         "20th",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "19thDetailed",
-      "explanation": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.💡 Exam Setter's Tips & Quick Tricks: Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th.",
-      "tip": "",
+      "answer_text": "19th",
+      "explanation": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.",
+      "tip": "Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th.",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "8251869",
         "8251968",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "8251896Detailed",
-      "explanation": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.💡 Exam Setter's Tips & Quick Tricks: Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896.",
-      "tip": "",
+      "answer_text": "8251896",
+      "explanation": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.",
+      "tip": "Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896.",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)",
         "Optical polarization",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)Detailed",
-      "explanation": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.💡 Exam Setter's Tips & Quick Tricks: Optical Fibre = Total Internal Reflection (TIR); Core refractive index > Cladding refractive index.",
-      "tip": "",
+      "answer_text": "Total Internal Reflection (पूर्ण आंतरिक परावर्तन)",
+      "explanation": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.",
+      "tip": "Optical Fibre = Total Internal Reflection (TIR); Core refractive index > Cladding refractive index.",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "Galvanometer (गैल्वेनोमीटर)",
         "Voltmeter",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Galvanometer (गैल्वेनोमीटर)Detailed",
-      "explanation": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.💡 Exam Setter's Tips & Quick Tricks: Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter.",
-      "tip": "",
+      "answer_text": "Galvanometer (गैल्वेनोमीटर)",
+      "explanation": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.",
+      "tip": "Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter.",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "Butane and Propane",
         "Ethylene and Acetylene",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Butane and PropaneDetailed",
-      "explanation": "Domestic LPG consists primarily of n-butane and isobutane (~60%) along with propane (~40%). A minute quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.💡 Exam Setter's Tips & Quick Tricks: LPG = Butane + Propane; Odorant for leak detection = Ethyl Mercaptan.",
-      "tip": "",
+      "answer_text": "Butane and Propane",
+      "explanation": "Domestic LPG consists primarily of n-butane and isobutane (~60%) along with propane (~40%). A minute quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
+      "tip": "LPG = Butane + Propane; Odorant for leak detection = Ethyl Mercaptan.",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "Copper and Tin",
         "Lead and Tin",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Copper and TinDetailed",
-      "explanation": "Bronze is an alloy of Copper (~88-90%) and Tin (~10-12%). Brass is an alloy of Copper and Zinc. Solder is an alloy of Lead and Tin.💡 Exam Setter's Tips & Quick Tricks: Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn); Solder = Lead + Tin (Pb + Sn).",
-      "tip": "",
+      "answer_text": "Copper and Tin",
+      "explanation": "Bronze is an alloy of Copper (~88-90%) and Tin (~10-12%). Brass is an alloy of Copper and Zinc. Solder is an alloy of Lead and Tin.",
+      "tip": "Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn); Solder = Lead + Tin (Pb + Sn).",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "Vitamin C (Ascorbic Acid)",
         "Vitamin D",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Vitamin C (Ascorbic Acid)Detailed",
-      "explanation": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the liver and adipose tissue.💡 Exam Setter's Tips & Quick Tricks: Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K.",
-      "tip": "",
+      "answer_text": "Vitamin C (Ascorbic Acid)",
+      "explanation": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the liver and adipose tissue.",
+      "tip": "Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K.",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "37°C / 98.6°F",
         "39°C / 102.2°F",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "37°C / 98.6°FDetailed",
-      "explanation": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.💡 Exam Setter's Tips & Quick Tricks: Normal body temperature = 37°C = 98.6°F = 310.15 K.",
-      "tip": "",
+      "answer_text": "37°C / 98.6°F",
+      "explanation": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.",
+      "tip": "Normal body temperature = 37°C = 98.6°F = 310.15 K.",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "Candela (cd)",
         "Lux",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Candela (cd)Detailed",
-      "explanation": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.💡 Exam Setter's Tips & Quick Tricks: Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux.",
-      "tip": "",
+      "answer_text": "Candela (cd)",
+      "explanation": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.",
+      "tip": "Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux.",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "Hare Krishna Singh (हरे कृष्ण सिंह)",
         "Amar Singh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Hare Krishna Singh (हरे कृष्ण सिंह)Detailed",
-      "explanation": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.💡 Exam Setter's Tips & Quick Tricks: Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh.",
-      "tip": "",
+      "answer_text": "Hare Krishna Singh (हरे कृष्ण सिंह)",
+      "explanation": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.",
+      "tip": "Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh.",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "1916 Lucknow Session",
         "1917 Calcutta Session",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1916 Lucknow SessionDetailed",
-      "explanation": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in December 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.💡 Exam Setter's Tips & Quick Tricks: 1916 Lucknow Session = Raj Kumar Shukla invited Mahatma Gandhi to Champaran.",
-      "tip": "",
+      "answer_text": "1916 Lucknow Session",
+      "explanation": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in December 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.",
+      "tip": "1916 Lucknow Session = Raj Kumar Shukla invited Mahatma Gandhi to Champaran.",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "Dr. Sri Krishna Singh",
         "Gauri Shankar Singh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Dr. Sri Krishna SinghDetailed",
-      "explanation": "On 27 November 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the second individual satyagrahi of Bihar.💡 Exam Setter's Tips & Quick Tricks: Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = Jawaharlal Nehru. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha.",
-      "tip": "",
+      "answer_text": "Dr. Sri Krishna Singh",
+      "explanation": "On 27 November 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the second individual satyagrahi of Bihar.",
+      "tip": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = Jawaharlal Nehru. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha.",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "3 February 1916",
         "1 April 1916",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "3 February 1916Detailed",
-      "explanation": "Established under Letters Patent issued by King George V, Patna High Court was formally opened by Viceroy Lord Hardinge on 3 February 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.💡 Exam Setter's Tips & Quick Tricks: Patna High Court inaugurated = 3 February 1916 (1st Chief Justice: Sir Edward Chamier).",
-      "tip": "",
+      "answer_text": "3 February 1916",
+      "explanation": "Established under Letters Patent issued by King George V, Patna High Court was formally opened by Viceroy Lord Hardinge on 3 February 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
+      "tip": "Patna High Court inaugurated = 3 February 1916 (1st Chief Justice: Sir Edward Chamier).",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "Fatuha (फतुहा)",
         "Barh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Fatuha (फतुहा)Detailed",
-      "explanation": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the Ganga at Fatuha, approximately 25 km downstream of Patna.💡 Exam Setter's Tips & Quick Tricks: Punpun joins Ganga at Fatuha; Son joins Ganga at Danapur/Maner; Gandak joins at Sonpur.",
-      "tip": "",
+      "answer_text": "Fatuha (फतुहा)",
+      "explanation": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the Ganga at Fatuha, approximately 25 km downstream of Patna.",
+      "tip": "Punpun joins Ganga at Fatuha; Son joins Ganga at Danapur/Maner; Gandak joins at Sonpur.",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "Kishanganj",
         "West Champaran",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "KishanganjDetailed",
-      "explanation": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan West Bengal hills, receives the highest annual rainfall in the State (>180 cm to 200 cm).💡 Exam Setter's Tips & Quick Tricks: Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal.",
-      "tip": "",
+      "answer_text": "Kishanganj",
+      "explanation": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan West Bengal hills, receives the highest annual rainfall in the State (>180 cm to 200 cm).",
+      "tip": "Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal.",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "Aurangabad",
         "Rohtas",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "AurangabadDetailed",
-      "explanation": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 cm to 100 cm annual average).💡 Exam Setter's Tips & Quick Tricks: Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj.",
-      "tip": "",
+      "answer_text": "Aurangabad",
+      "explanation": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 cm to 100 cm annual average).",
+      "tip": "Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj.",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "1874",
         "1905",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1874Detailed",
-      "explanation": "The Son Canal System was completed in 1874 by constructing an anicut weir across the Son River at Dehri (Rohtas). It bifurcates into the Western Son Canal (irrigating Rohtas, Bhojpur) and Eastern Son Canal (Aurangabad, Gaya, Patna).💡 Exam Setter's Tips & Quick Tricks: Oldest canal system in Bihar = Son Canal System (1874, Dehri-on-Son).",
-      "tip": "",
+      "answer_text": "1874",
+      "explanation": "The Son Canal System was completed in 1874 by constructing an anicut weir across the Son River at Dehri (Rohtas). It bifurcates into the Western Son Canal (irrigating Rohtas, Bhojpur) and Eastern Son Canal (Aurangabad, Gaya, Patna).",
+      "tip": "Oldest canal system in Bihar = Son Canal System (1874, Dehri-on-Son).",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "Deputy Speaker of the Lok Sabha",
         "Prime Minister of India",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Deputy Speaker of the Lok SabhaDetailed",
-      "explanation": "Under Article 94(b) of the Constitution of India, a member holding office as Speaker may at any time resign his office by writing under his hand addressed to the Deputy Speaker.💡 Exam Setter's Tips & Quick Tricks: Speaker resigns to Deputy Speaker; Deputy Speaker resigns to Speaker; President resigns to Vice-President.",
-      "tip": "",
+      "answer_text": "Deputy Speaker of the Lok Sabha",
+      "explanation": "Under Article 94(b) of the Constitution of India, a member holding office as Speaker may at any time resign his office by writing under his hand addressed to the Deputy Speaker.",
+      "tip": "Speaker resigns to Deputy Speaker; Deputy Speaker resigns to Speaker; President resigns to Vice-President.",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "Separate the Judiciary from the Executive in the public services of the State",
         "Organize village panchayats as units of self-government",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Separate the Judiciary from the Executive in the public services of the StateDetailed",
-      "explanation": "Article 50 obligates the State to take steps to separate the judiciary from the executive in public services. Article 40 deals with village panchayats, and Article 51 deals with international peace.💡 Exam Setter's Tips & Quick Tricks: Article 50 = Separation of Judiciary from Executive; Article 40 = Panchayats; Article 44 = Uniform Civil Code.",
-      "tip": "",
+      "answer_text": "Separate the Judiciary from the Executive in the public services of the State",
+      "explanation": "Article 50 obligates the State to take steps to separate the judiciary from the executive in public services. Article 40 deals with village panchayats, and Article 51 deals with international peace.",
+      "tip": "Article 50 = Separation of Judiciary from Executive; Article 40 = Panchayats; Article 44 = Uniform Civil Code.",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "Desi Magur (Clarias batrachus)",
         "Katla (Gibelion catla)",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Desi Magur (Clarias batrachus)Detailed",
-      "explanation": "On 10 July 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.💡 Exam Setter's Tips & Quick Tricks: State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya).",
-      "tip": "",
+      "answer_text": "Desi Magur (Clarias batrachus)",
+      "explanation": "On 10 July 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.",
+      "tip": "State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya).",
       "id": 26
     },
     {
@@ -483,14 +483,14 @@
         "जय जय बिहार, जय जय भारत",
         "मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहार",
         "हमर प्यारा बिहार",
-        "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहारDetailed",
-      "explanation": "The State Song of Bihar 'Mere Bharat Ke Kanthhar, Tujhko Shat-Shat Vandan Bihar' was composed by poet Satya Narayan with music composed by Pt. Hari Prasad Chaurasia and Pt. Shivkumar Sharma.💡 Exam Setter's Tips & Quick Tricks: State Song of Bihar = 'Mere Bharat Ke Kanthhar' (Lyrics: Satya Narayan; Music: Chaurasia & Sharma).",
-      "tip": "",
+      "answer_text": "मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहार",
+      "explanation": "The State Song of Bihar 'Mere Bharat Ke Kanthhar, Tujhko Shat-Shat Vandan Bihar' was composed by poet Satya Narayan with music composed by Pt. Hari Prasad Chaurasia and Pt. Shivkumar Sharma.",
+      "tip": "State Song of Bihar = 'Mere Bharat Ke Kanthhar' (Lyrics: Satya Narayan; Music: Chaurasia & Sharma).",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "3,167 tigers",
         "3,682 tigers",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "3,167 tigersDetailed",
-      "explanation": "Prime Minister Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 years of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.💡 Exam Setter's Tips & Quick Tricks: 5th Tiger Census (April 2023) = 3,167 tigers (up from 2,967 in 2018).",
-      "tip": "",
+      "answer_text": "3,167 tigers",
+      "explanation": "Prime Minister Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 years of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
+      "tip": "5th Tiger Census (April 2023) = 3,167 tigers (up from 2,967 in 2018).",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "16 days",
         "18 days",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "16 daysDetailed",
-      "explanation": "M1 * D1 * H1 = M2 * D2 * H2 => 12 * 24 * 8 = 16 * D2 * 9 => 2304 = 144 * D2 => D2 = 2304 / 144 = 16 days.💡 Exam Setter's Tips & Quick Tricks: D2 = (12 * 24 * 8) / (16 * 9) = 16 days.",
-      "tip": "",
+      "answer_text": "16 days",
+      "explanation": "M1 * D1 * H1 = M2 * D2 * H2 => 12 * 24 * 8 = 16 * D2 * 9 => 2304 = 144 * D2 => D2 = 2304 / 144 = 16 days.",
+      "tip": "D2 = (12 * 24 * 8) / (16 * 9) = 16 days.",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "Ozone (O3)",
         "Carbon dioxide",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Ozone (O3)Detailed",
-      "explanation": "The ozone layer in the stratosphere (15 to 35 km altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.💡 Exam Setter's Tips & Quick Tricks: UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU).",
-      "tip": "",
+      "answer_text": "Ozone (O3)",
+      "explanation": "The ozone layer in the stratosphere (15 to 35 km altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.",
+      "tip": "UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU).",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "Gaur / Ox (बैल)",
         "One-horned Rhino",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Gaur / Ox (बैल)Detailed",
-      "explanation": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).💡 Exam Setter's Tips & Quick Tricks: Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda).",
-      "tip": "",
+      "answer_text": "Gaur / Ox (बैल)",
+      "explanation": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).",
+      "tip": "Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda).",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "House Sparrow (गौरैया)",
         "Great Indian Bustard",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "House Sparrow (गौरैया)Detailed",
-      "explanation": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.💡 Exam Setter's Tips & Quick Tricks: State Bird of Bihar = House Sparrow (गौरैया); 20 March = World Sparrow Day.",
-      "tip": "",
+      "answer_text": "House Sparrow (गौरैया)",
+      "explanation": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.",
+      "tip": "State Bird of Bihar = House Sparrow (गौरैया); 20 March = World Sparrow Day.",
       "id": 32
     },
     {
@@ -591,14 +591,14 @@
         "Banyan Tree (वट वृक्ष)",
         "Peepal Tree (Ficus religiosa)",
         "Sal Tree",
-        "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Peepal Tree (Ficus religiosa)Detailed",
-      "explanation": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).💡 Exam Setter's Tips & Quick Tricks: State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa).",
-      "tip": "",
+      "answer_text": "Peepal Tree (Ficus religiosa)",
+      "explanation": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).",
+      "tip": "State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa).",
       "id": 33
     },
     {
@@ -609,14 +609,14 @@
         "Lotus (कमल)",
         "Marigold (गेंदा)",
         "Palash (पलाश)",
-        "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Marigold (गेंदा)Detailed",
-      "explanation": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.💡 Exam Setter's Tips & Quick Tricks: State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus.",
-      "tip": "",
+      "answer_text": "Marigold (गेंदा)",
+      "explanation": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.",
+      "tip": "State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus.",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "Bhagalpur (Antichak)",
         "Banka",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Bhagalpur (Antichak)Detailed",
-      "explanation": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.💡 Exam Setter's Tips & Quick Tricks: Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I).",
-      "tip": "",
+      "answer_text": "Bhagalpur (Antichak)",
+      "explanation": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.",
+      "tip": "Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I).",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "Kumaragupta I (Mahendraditya)",
         "Samudragupta",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Kumaragupta I (Mahendraditya)Detailed",
-      "explanation": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.💡 Exam Setter's Tips & Quick Tricks: Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang during reign of Harshavardhana.",
-      "tip": "",
+      "answer_text": "Kumaragupta I (Mahendraditya)",
+      "explanation": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.",
+      "tip": "Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang during reign of Harshavardhana.",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "President of India",
         "Chief of Defence Staff (CDS)",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "President of IndiaDetailed",
-      "explanation": "Article 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.💡 Exam Setter's Tips & Quick Tricks: Supreme Commander of Armed Forces = President of India (Article 53(2)).",
-      "tip": "",
+      "answer_text": "President of India",
+      "explanation": "Article 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the President and the exercise thereof shall be regulated by law.",
+      "tip": "Supreme Commander of Armed Forces = President of India (Article 53(2)).",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "Article 72",
         "Article 161",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Article 72Detailed",
-      "explanation": "Article 72 grants pardoning powers to the President for offences against Union laws, court-martial sentences, and all death sentences. The Governor has corresponding pardoning powers under Article 161 (except court martial and death sentence pardon).💡 Exam Setter's Tips & Quick Tricks: Pardoning Power: President = Article 72; Governor = Article 161.",
-      "tip": "",
+      "answer_text": "Article 72",
+      "explanation": "Article 72 grants pardoning powers to the President for offences against Union laws, court-martial sentences, and all death sentences. The Governor has corresponding pardoning powers under Article 161 (except court martial and death sentence pardon).",
+      "tip": "Pardoning Power: President = Article 72; Governor = Article 161.",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "243 seats",
         "250 seats",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "243 seatsDetailed",
-      "explanation": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).💡 Exam Setter's Tips & Quick Tricks: Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; Lok Sabha = 40 seats; Rajya Sabha = 16 seats.",
-      "tip": "",
+      "answer_text": "243 seats",
+      "explanation": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).",
+      "tip": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; Lok Sabha = 40 seats; Rajya Sabha = 16 seats.",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "40 seats",
         "44 seats",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "40 seatsDetailed",
-      "explanation": "Bihar has 40 seats in the Lok Sabha (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the Rajya Sabha.💡 Exam Setter's Tips & Quick Tricks: Parliamentary representation of Bihar: Lok Sabha = 40 seats; Rajya Sabha = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "tip": "",
+      "answer_text": "40 seats",
+      "explanation": "Bihar has 40 seats in the Lok Sabha (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the Rajya Sabha.",
+      "tip": "Parliamentary representation of Bihar: Lok Sabha = 40 seats; Rajya Sabha = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
       "id": 40
     }
   ]

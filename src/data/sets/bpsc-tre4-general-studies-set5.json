@@ -16,13 +16,13 @@
         "56.25%",
         "60%",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "56.25%Detailed",
-      "explanation": "Cost price of 1 article = 20/25 = ₹0.80. Selling price of 1 article = 25/20 = ₹1.25. Profit per article = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.💡 Exam Setter's Tips & Quick Tricks: Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%.",
-      "tip": "",
+      "answer_text": "56.25%",
+      "explanation": "Cost price of 1 article = 20/25 = ₹0.80. Selling price of 1 article = 25/20 = ₹1.25. Profit per article = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
+      "tip": "Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "₹6,500",
         "₹7,000",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "₹6,500Detailed",
-      "explanation": "For 2 years, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.💡 Exam Setter's Tips & Quick Tricks: Standard 2-year difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500.",
-      "tip": "",
+      "answer_text": "₹6,500",
+      "explanation": "For 2 years, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.",
+      "tip": "Standard 2-year difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500.",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "60",
         "36",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "45Detailed",
-      "explanation": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.💡 Exam Setter's Tips & Quick Tricks: Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45.",
-      "tip": "",
+      "answer_text": "45",
+      "explanation": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.",
+      "tip": "Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "10",
         "12",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "8Detailed",
-      "explanation": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.💡 Exam Setter's Tips & Quick Tricks: For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8.",
-      "tip": "",
+      "answer_text": "8",
+      "explanation": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.",
+      "tip": "For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "EJKNFPEQ",
         "EJKNEGTO",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "EJKNFTGPDetailed",
-      "explanation": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.💡 Exam Setter's Tips & Quick Tricks: Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly.",
-      "tip": "",
+      "answer_text": "EJKNFTGP",
+      "explanation": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.",
+      "tip": "Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly.",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "Husband",
         "Father-in-law",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "HusbandDetailed",
-      "explanation": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only son of mother-in-law is the woman's husband.💡 Exam Setter's Tips & Quick Tricks: 'Only son of my husband's mother/father' always refers directly to the husband.",
-      "tip": "",
+      "answer_text": "Husband",
+      "explanation": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only son of mother-in-law is the woman's husband.",
+      "tip": "'Only son of my husband's mother/father' always refers directly to the husband.",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "East",
         "South",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "EastDetailed",
-      "explanation": "Initial direction = East. Turning right from East turns him to face South. Turning left from South turns him back to face East.💡 Exam Setter's Tips & Quick Tricks: Right turn (+90 deg) followed by Left turn (-90 deg) cancels out; facing direction remains East.",
-      "tip": "",
+      "answer_text": "East",
+      "explanation": "Initial direction = East. Turning right from East turns him to face South. Turning left from South turns him back to face East.",
+      "tip": "Right turn (+90 deg) followed by Left turn (-90 deg) cancels out; facing direction remains East.",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "M32T",
         "N32S",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "N32TDetailed",
-      "explanation": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.💡 Exam Setter's Tips & Quick Tricks: Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4.",
-      "tip": "",
+      "answer_text": "N32T",
+      "explanation": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.",
+      "tip": "Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4.",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "Formic acid (Methanoic acid)",
         "Tartaric acid",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Formic acid (Methanoic acid)Detailed",
-      "explanation": "Ant stings inject methanoic acid (common name formic acid, HCOOH). It is neutralized by applying mild basic substances such as baking soda (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).💡 Exam Setter's Tips & Quick Tricks: Formic acid = Ant sting; Vinegar = Acetic acid; Tomato = Oxalic acid; Tamarind = Tartaric acid.",
-      "tip": "",
+      "answer_text": "Formic acid (Methanoic acid)",
+      "explanation": "Ant stings inject methanoic acid (common name formic acid, HCOOH). It is neutralized by applying mild basic substances such as baking soda (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
+      "tip": "Formic acid = Ant sting; Vinegar = Acetic acid; Tomato = Oxalic acid; Tamarind = Tartaric acid.",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "Synthesized in Liver, stored in Gallbladder",
         "Synthesized in Stomach, stored in Small Intestine",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Synthesized in Liver, stored in GallbladderDetailed",
-      "explanation": "Bile juice is synthesized continuously by hepatic cells of the liver and concentrated/stored in the gallbladder. It contains no digestive enzymes but contains bile salts that emulsify dietary fats.💡 Exam Setter's Tips & Quick Tricks: Classic trap: Liver produces bile; Gallbladder only stores and concentrates it.",
-      "tip": "",
+      "answer_text": "Synthesized in Liver, stored in Gallbladder",
+      "explanation": "Bile juice is synthesized continuously by hepatic cells of the liver and concentrated/stored in the gallbladder. It contains no digestive enzymes but contains bile salts that emulsify dietary fats.",
+      "tip": "Classic trap: Liver produces bile; Gallbladder only stores and concentrates it.",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "Total Internal Reflection only",
         "Refraction, Dispersion, and Internal Reflection",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 2,
       "answer_letter": "C",
-      "answer_text": "Refraction, Dispersion, and Internal ReflectionDetailed",
-      "explanation": "Rainbow formation involves refraction and dispersion of sunlight as it enters water droplets, followed by total internal reflection at the back of the droplet, and refraction again as it exits.💡 Exam Setter's Tips & Quick Tricks: Three-stage optical process: Refraction -> Dispersion -> Total Internal Reflection.",
-      "tip": "",
+      "answer_text": "Refraction, Dispersion, and Internal Reflection",
+      "explanation": "Rainbow formation involves refraction and dispersion of sunlight as it enters water droplets, followed by total internal reflection at the back of the droplet, and refraction again as it exits.",
+      "tip": "Three-stage optical process: Refraction -> Dispersion -> Total Internal Reflection.",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "CaSO4 · 1/2H2O",
         "CaSO4 · H2O",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "CaSO4 · 1/2H2ODetailed",
-      "explanation": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating gypsum (CaSO4 · 2H2O) at 373 K (100°C).💡 Exam Setter's Tips & Quick Tricks: Gypsum = dihydrate (2H2O); Plaster of Paris = hemihydrate (1/2 H2O).",
-      "tip": "",
+      "answer_text": "CaSO4 · 1/2H2O",
+      "explanation": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating gypsum (CaSO4 · 2H2O) at 373 K (100°C).",
+      "tip": "Gypsum = dihydrate (2H2O); Plaster of Paris = hemihydrate (1/2 H2O).",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "Between the Focus and Pole",
         "At the Principal Focus",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Between the Focus and PoleDetailed",
-      "explanation": "A concave mirror forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).💡 Exam Setter's Tips & Quick Tricks: Only position for virtual image in concave mirror = Object between Focus and Pole.",
-      "tip": "",
+      "answer_text": "Between the Focus and Pole",
+      "explanation": "A concave mirror forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).",
+      "tip": "Only position for virtual image in concave mirror = Object between Focus and Pole.",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "Pituitary Gland",
         "Adrenal Gland",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Pituitary GlandDetailed",
-      "explanation": "The pituitary gland (hypophysis) is called the master gland because its tropic hormones regulate the secretion of thyroid, adrenal cortex, and gonads, under hypothalamus control.💡 Exam Setter's Tips & Quick Tricks: Master Gland = Pituitary; Master of Master Gland = Hypothalamus.",
-      "tip": "",
+      "answer_text": "Pituitary Gland",
+      "explanation": "The pituitary gland (hypophysis) is called the master gland because its tropic hormones regulate the secretion of thyroid, adrenal cortex, and gonads, under hypothalamus control.",
+      "tip": "Master Gland = Pituitary; Master of Master Gland = Hypothalamus.",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "Zinc",
         "Tin",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "ZincDetailed",
-      "explanation": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode because it oxidizes preferentially over iron.💡 Exam Setter's Tips & Quick Tricks: Galvanization = Zinc (Zn) coating on Iron (Fe).",
-      "tip": "",
+      "answer_text": "Zinc",
+      "explanation": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode because it oxidizes preferentially over iron.",
+      "tip": "Galvanization = Zinc (Zn) coating on Iron (Fe).",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "Liquids",
         "Vacuum",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 2,
       "answer_letter": "C",
-      "answer_text": "VacuumDetailed",
-      "explanation": "Sound waves are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through vacuum, whereas electromagnetic waves (light) can.💡 Exam Setter's Tips & Quick Tricks: Speed of sound: Solids > Liquids > Gases > Vacuum (zero).",
-      "tip": "",
+      "answer_text": "Vacuum",
+      "explanation": "Sound waves are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through vacuum, whereas electromagnetic waves (light) can.",
+      "tip": "Speed of sound: Solids > Liquids > Gases > Vacuum (zero).",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "1929 Lahore Session",
         "1931 Karachi Session",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1929 Lahore SessionDetailed",
-      "explanation": "Under the presidency of Jawaharlal Nehru at the Lahore Session in December 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 January 1930 as Independence Day.💡 Exam Setter's Tips & Quick Tricks: 1929 Lahore = Purna Swaraj + Tri-colour hoisted on the banks of Ravi.",
-      "tip": "",
+      "answer_text": "1929 Lahore Session",
+      "explanation": "Under the presidency of Jawaharlal Nehru at the Lahore Session in December 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 January 1930 as Independence Day.",
+      "tip": "1929 Lahore = Purna Swaraj + Tri-colour hoisted on the banks of Ravi.",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "1912",
         "1936",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1912Detailed",
-      "explanation": "Announced at the Delhi Durbar in December 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 April 1912. Orissa was subsequently separated from Bihar on 1 April 1936.💡 Exam Setter's Tips & Quick Tricks: 1912 = Bihar & Orissa separated from Bengal; 1936 = Orissa separated from Bihar; 2000 = Jharkhand separated from Bihar.",
-      "tip": "",
+      "answer_text": "1912",
+      "explanation": "Announced at the Delhi Durbar in December 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 April 1912. Orissa was subsequently separated from Bihar on 1 April 1936.",
+      "tip": "1912 = Bihar & Orissa separated from Bengal; 1936 = Orissa separated from Bihar; 2000 = Jharkhand separated from Bihar.",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "Sidhu and Kanhu",
         "Jatra Bhagat and Tana Bhagat",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Sidhu and KanhuDetailed",
-      "explanation": "The Santhal Hool (Rebellion) was led by four brothers—Sidhu, Kanhu, Chand, and Bhairav—in Damin-i-Koh against oppressive British revenue collectors, police, and mahajans (moneylenders).💡 Exam Setter's Tips & Quick Tricks: Santhal Rebellion (1855-56) = Sidhu & Kanhu; Munda Ulgulan (1899-1900) = Birsa Munda.",
-      "tip": "",
+      "answer_text": "Sidhu and Kanhu",
+      "explanation": "The Santhal Hool (Rebellion) was led by four brothers—Sidhu, Kanhu, Chand, and Bhairav—in Damin-i-Koh against oppressive British revenue collectors, police, and mahajans (moneylenders).",
+      "tip": "Santhal Rebellion (1855-56) = Sidhu & Kanhu; Munda Ulgulan (1899-1900) = Birsa Munda.",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "Sachindra Nath Sanyal",
         "Barindra Kumar Ghosh",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Sachindra Nath SanyalDetailed",
-      "explanation": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.💡 Exam Setter's Tips & Quick Tricks: 'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay.",
-      "tip": "",
+      "answer_text": "Sachindra Nath Sanyal",
+      "explanation": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.",
+      "tip": "'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay.",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "Nawada",
         "Kaimur",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "NawadaDetailed",
-      "explanation": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.💡 Exam Setter's Tips & Quick Tricks: Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas).",
-      "tip": "",
+      "answer_text": "Nawada",
+      "explanation": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.",
+      "tip": "Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas).",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "Sheohar",
         "Darbhanga",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "SheoharDetailed",
-      "explanation": "Sheohar has the highest population density in Bihar with 1,880 persons per sq km, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq km.💡 Exam Setter's Tips & Quick Tricks: Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488).",
-      "tip": "",
+      "answer_text": "Sheohar",
+      "explanation": "Sheohar has the highest population density in Bihar with 1,880 persons per sq km, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq km.",
+      "tip": "Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488).",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "61st Constitutional Amendment Act",
         "73rd Constitutional Amendment Act",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "61st Constitutional Amendment ActDetailed",
-      "explanation": "The 61st Constitutional Amendment Act of 1988 amended Article 326 of the Constitution, lowering the voting age from 21 to 18 years. It came into force on 28 March 1989 under Rajiv Gandhi's government.💡 Exam Setter's Tips & Quick Tricks: Voting age reduction (21 to 18) = 61st Amendment 1988 (Article 326).",
-      "tip": "",
+      "answer_text": "61st Constitutional Amendment Act",
+      "explanation": "The 61st Constitutional Amendment Act of 1988 amended Article 326 of the Constitution, lowering the voting age from 21 to 18 years. It came into force on 28 March 1989 under Rajiv Gandhi's government.",
+      "tip": "Voting age reduction (21 to 18) = 61st Amendment 1988 (Article 326).",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "Bharat Mandapam (Pragati Maidan)",
         "Vigyan Bhawan",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Bharat Mandapam (Pragati Maidan)Detailed",
-      "explanation": "The 18th G20 Heads of State and Government Summit was held on 9-10 September 2023 at the newly renovated Bharat Mandapam International Exhibition-Convention Centre at Pragati Maidan, New Delhi.💡 Exam Setter's Tips & Quick Tricks: G20 Summit venue = Bharat Mandapam (Pragati Maidan); Theme: Vasudhaiva Kutumbakam.",
-      "tip": "",
+      "answer_text": "Bharat Mandapam (Pragati Maidan)",
+      "explanation": "The 18th G20 Heads of State and Government Summit was held on 9-10 September 2023 at the newly renovated Bharat Mandapam International Exhibition-Convention Centre at Pragati Maidan, New Delhi.",
+      "tip": "G20 Summit venue = Bharat Mandapam (Pragati Maidan); Theme: Vasudhaiva Kutumbakam.",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "72 km/h",
         "80 km/h",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "72 km/hDetailed",
-      "explanation": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 seconds. Speed = 500 / 25 = 20 m/s. Converting to km/h = 20 * (18/5) = 72 km/h.💡 Exam Setter's Tips & Quick Tricks: Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 km/h.",
-      "tip": "",
+      "answer_text": "72 km/h",
+      "explanation": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 seconds. Speed = 500 / 25 = 20 m/s. Converting to km/h = 20 * (18/5) = 72 km/h.",
+      "tip": "Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 km/h.",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "15 years",
         "20 years",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "15 yearsDetailed",
-      "explanation": "Let principal = P. Doubling means SI = P in 5 years. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 years.💡 Exam Setter's Tips & Quick Tricks: Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 years.",
-      "tip": "",
+      "answer_text": "15 years",
+      "explanation": "Let principal = P. Doubling means SI = P in 5 years. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 years.",
+      "tip": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 years.",
       "id": 26
     },
     {
@@ -484,13 +484,13 @@
         "5/9",
         "1/3",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "4/9Detailed",
-      "explanation": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/day, B's efficiency = 2 units/day. Together in 4 days = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.💡 Exam Setter's Tips & Quick Tricks: 1-day combined work = 1/12 + 1/18 = 5/36. In 4 days = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9.",
-      "tip": "",
+      "answer_text": "4/9",
+      "explanation": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/day, B's efficiency = 2 units/day. Together in 4 days = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.",
+      "tip": "1-day combined work = 1/12 + 1/18 = 5/36. In 4 days = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9.",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "384 sq metres",
         "400 sq metres",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "384 sq metresDetailed",
-      "explanation": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.💡 Exam Setter's Tips & Quick Tricks: L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m.",
-      "tip": "",
+      "answer_text": "384 sq metres",
+      "explanation": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.",
+      "tip": "L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m.",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "Bromine",
         "Chlorine",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "BromineDetailed",
-      "explanation": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.💡 Exam Setter's Tips & Quick Tricks: Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br).",
-      "tip": "",
+      "answer_text": "Bromine",
+      "explanation": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.",
+      "tip": "Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br).",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "Pulmonary Veins",
         "Vena Cava",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Pulmonary VeinsDetailed",
-      "explanation": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to lungs, while pulmonary veins carry oxygenated blood from lungs to left atrium.💡 Exam Setter's Tips & Quick Tricks: Exception to vein rule: Pulmonary veins carry oxygen-rich blood.",
-      "tip": "",
+      "answer_text": "Pulmonary Veins",
+      "explanation": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to lungs, while pulmonary veins carry oxygenated blood from lungs to left atrium.",
+      "tip": "Exception to vein rule: Pulmonary veins carry oxygen-rich blood.",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "Atmospheric Refraction of starlight through air layers of varying optical density",
         "Periodic Dispersion of starlight by cloud moisture",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Atmospheric Refraction of starlight through air layers of varying optical densityDetailed",
-      "explanation": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.💡 Exam Setter's Tips & Quick Tricks: Star twinkling = Atmospheric Refraction; Advanced sunrise & delayed sunset = Atmospheric Refraction.",
-      "tip": "",
+      "answer_text": "Atmospheric Refraction of starlight through air layers of varying optical density",
+      "explanation": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.",
+      "tip": "Star twinkling = Atmospheric Refraction; Advanced sunrise & delayed sunset = Atmospheric Refraction.",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "7",
         "14",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "7Detailed",
-      "explanation": "Pure neutral water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are acidic, and pH > 7 are alkaline.💡 Exam Setter's Tips & Quick Tricks: Neutral pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6.",
-      "tip": "",
+      "answer_text": "7",
+      "explanation": "Pure neutral water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are acidic, and pH > 7 are alkaline.",
+      "tip": "Neutral pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6.",
       "id": 32
     },
     {
@@ -592,13 +592,13 @@
         "Shyamji Krishna Varma",
         "Madam Bhikaji Cama",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Shyamji Krishna VarmaDetailed",
-      "explanation": "Shyamji Krishna Varma founded the Indian Home Rule Society and India House in London in 1905. He also published the monthly journal 'The Indian Sociologist'. V.D. Savarkar and Madan Lal Dhingra were associated with India House.💡 Exam Setter's Tips & Quick Tricks: India House (London, 1905) = Shyamji Krishna Varma; Ghadar Party (San Francisco, 1913) = Lala Har Dayal.",
-      "tip": "",
+      "answer_text": "Shyamji Krishna Varma",
+      "explanation": "Shyamji Krishna Varma founded the Indian Home Rule Society and India House in London in 1905. He also published the monthly journal 'The Indian Sociologist'. V.D. Savarkar and Madan Lal Dhingra were associated with India House.",
+      "tip": "India House (London, 1905) = Shyamji Krishna Varma; Ghadar Party (San Francisco, 1913) = Lala Har Dayal.",
       "id": 33
     },
     {
@@ -610,13 +610,13 @@
         "Nakhas Pond (नखास पिंड)",
         "Sadaqat Ashram",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Nakhas Pond (नखास पिंड)Detailed",
-      "explanation": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 April 1930 to manufacture salt and inaugurate the civil disobedience movement.💡 Exam Setter's Tips & Quick Tricks: Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha.",
-      "tip": "",
+      "answer_text": "Nakhas Pond (नखास पिंड)",
+      "explanation": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 April 1930 to manufacture salt and inaugurate the civil disobedience movement.",
+      "tip": "Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha.",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "Anamudi",
         "Mahendragiri",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "AnamudiDetailed",
-      "explanation": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.💡 Exam Setter's Tips & Quick Tricks: Highest peak of South India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m).",
-      "tip": "",
+      "answer_text": "Anamudi",
+      "explanation": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.",
+      "tip": "Highest peak of South India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m).",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "Kosi River",
         "Bagmati River",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Kosi RiverDetailed",
-      "explanation": "The Kosi River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 km over 250 years, causing repeated disasters.💡 Exam Setter's Tips & Quick Tricks: Sorrow of Bihar = Kosi; Sorrow of Bengal = Damodar.",
-      "tip": "",
+      "answer_text": "Kosi River",
+      "explanation": "The Kosi River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 km over 250 years, causing repeated disasters.",
+      "tip": "Sorrow of Bihar = Kosi; Sorrow of Bengal = Damodar.",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "Rohtas",
         "Bhojpur",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "RohtasDetailed",
-      "explanation": "Rohtas district recorded the highest overall literacy rate in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is second with 70.68%.💡 Exam Setter's Tips & Quick Tricks: Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%).",
-      "tip": "",
+      "answer_text": "Rohtas",
+      "explanation": "Rohtas district recorded the highest overall literacy rate in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is second with 70.68%.",
+      "tip": "Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%).",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "10%",
         "50%",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "10%Detailed",
-      "explanation": "Formulated by Raymond Lindeman in 1942, during energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and respiration, leaving only ~10% stored as flesh for the next trophic level.💡 Exam Setter's Tips & Quick Tricks: Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links.",
-      "tip": "",
+      "answer_text": "10%",
+      "explanation": "Formulated by Raymond Lindeman in 1942, during energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and respiration, leaving only ~10% stored as flesh for the next trophic level.",
+      "tip": "Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links.",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "Operation Ganga",
         "Operation Kaveri",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Operation GangaDetailed",
-      "explanation": "Operation Ganga was launched in late February 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).💡 Exam Setter's Tips & Quick Tricks: Operation Ganga = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023).",
-      "tip": "",
+      "answer_text": "Operation Ganga",
+      "explanation": "Operation Ganga was launched in late February 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
+      "tip": "Operation Ganga = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023).",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "Article 131",
         "Article 226",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "Article 32Detailed",
-      "explanation": "Article 32 guarantees the Right to Constitutional Remedies, empowering the Supreme Court to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under Article 226.💡 Exam Setter's Tips & Quick Tricks: Supreme Court Writs = Article 32 (Heart & Soul of Constitution by Ambedkar); High Court Writs = Article 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "tip": "",
+      "answer_text": "Article 32",
+      "explanation": "Article 32 guarantees the Right to Constitutional Remedies, empowering the Supreme Court to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under Article 226.",
+      "tip": "Supreme Court Writs = Article 32 (Heart & Soul of Constitution by Ambedkar); High Court Writs = Article 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
       "id": 40
     }
   ]

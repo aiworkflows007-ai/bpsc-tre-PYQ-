@@ -16,13 +16,13 @@
         "300 metres",
         "350 metres",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "300 metresDetailed",
-      "explanation": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.💡 Exam Setter's Tips & Quick Tricks: Multiply km/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m.",
-      "tip": "",
+      "answer_text": "300 metres",
+      "explanation": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.",
+      "tip": "Multiply km/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m.",
       "id": 1
     },
     {
@@ -34,13 +34,13 @@
         "75%",
         "100%",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "75%Detailed",
-      "explanation": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. Percentage reduction = (1 - 0.25) * 100 = 75%.💡 Exam Setter's Tips & Quick Tricks: Successive percentage formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%.",
-      "tip": "",
+      "answer_text": "75%",
+      "explanation": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. Percentage reduction = (1 - 0.25) * 100 = 75%.",
+      "tip": "Successive percentage formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%.",
       "id": 2
     },
     {
@@ -52,13 +52,13 @@
         "10,000",
         "12,000",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "10,000Detailed",
-      "explanation": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.💡 Exam Setter's Tips & Quick Tricks: Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes.",
-      "tip": "",
+      "answer_text": "10,000",
+      "explanation": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.",
+      "tip": "Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes.",
       "id": 3
     },
     {
@@ -70,13 +70,13 @@
         "16",
         "18",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "14Detailed",
-      "explanation": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.💡 Exam Setter's Tips & Quick Tricks: Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14.",
-      "tip": "",
+      "answer_text": "14",
+      "explanation": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.",
+      "tip": "Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14.",
       "id": 4
     },
     {
@@ -88,13 +88,13 @@
         "12 minutes",
         "15 minutes",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "12 minutesDetailed",
-      "explanation": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per minute. Time required = 12 minutes.💡 Exam Setter's Tips & Quick Tricks: Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 minutes.",
-      "tip": "",
+      "answer_text": "12 minutes",
+      "explanation": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per minute. Time required = 12 minutes.",
+      "tip": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 minutes.",
       "id": 5
     },
     {
@@ -106,13 +106,13 @@
         "75°",
         "80°",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "75°Detailed",
-      "explanation": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.💡 Exam Setter's Tips & Quick Tricks: Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°.",
-      "tip": "",
+      "answer_text": "75°",
+      "explanation": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.",
+      "tip": "Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°.",
       "id": 6
     },
     {
@@ -124,13 +124,13 @@
         "28th",
         "29th",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "28thDetailed",
-      "explanation": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.💡 Exam Setter's Tips & Quick Tricks: Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th.",
-      "tip": "",
+      "answer_text": "28th",
+      "explanation": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.",
+      "tip": "Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th.",
       "id": 7
     },
     {
@@ -142,13 +142,13 @@
         "159",
         "169",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "159Detailed",
-      "explanation": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.💡 Exam Setter's Tips & Quick Tricks: Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159.",
-      "tip": "",
+      "answer_text": "159",
+      "explanation": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.",
+      "tip": "Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159.",
       "id": 8
     },
     {
@@ -160,13 +160,13 @@
         "Total Internal Reflection with a very small critical angle",
         "External scattering of light rays",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Total Internal Reflection with a very small critical angleDetailed",
-      "explanation": "Diamond has a very high refractive index (2.42), which results in an exceptionally small critical angle of approximately 24.4°. Light entering a properly cut diamond undergoes multiple total internal reflections before emerging.💡 Exam Setter's Tips & Quick Tricks: Diamond brilliance = Total Internal Reflection (TIR) + high refractive index (2.42).",
-      "tip": "",
+      "answer_text": "Total Internal Reflection with a very small critical angle",
+      "explanation": "Diamond has a very high refractive index (2.42), which results in an exceptionally small critical angle of approximately 24.4°. Light entering a properly cut diamond undergoes multiple total internal reflections before emerging.",
+      "tip": "Diamond brilliance = Total Internal Reflection (TIR) + high refractive index (2.42).",
       "id": 9
     },
     {
@@ -178,13 +178,13 @@
         "Sodium Hydrogen Carbonate, NaHCO3",
         "Calcium Carbonate, CaCO3",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Sodium Hydrogen Carbonate, NaHCO3Detailed",
-      "explanation": "Baking soda is sodium bicarbonate / sodium hydrogen carbonate, NaHCO3. When heated during baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.💡 Exam Setter's Tips & Quick Tricks: Baking Soda = NaHCO3 (Bicarbonate); Washing Soda = Na2CO3 · 10H2O.",
-      "tip": "",
+      "answer_text": "Sodium Hydrogen Carbonate, NaHCO3",
+      "explanation": "Baking soda is sodium bicarbonate / sodium hydrogen carbonate, NaHCO3. When heated during baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
+      "tip": "Baking Soda = NaHCO3 (Bicarbonate); Washing Soda = Na2CO3 · 10H2O.",
       "id": 10
     },
     {
@@ -196,13 +196,13 @@
         "Thrombocytes (Blood Platelets)",
         "Leucocytes (WBCs)",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Thrombocytes (Blood Platelets)Detailed",
-      "explanation": "Blood platelets (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.💡 Exam Setter's Tips & Quick Tricks: Clotting cells = Platelets (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K.",
-      "tip": "",
+      "answer_text": "Thrombocytes (Blood Platelets)",
+      "explanation": "Blood platelets (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.",
+      "tip": "Clotting cells = Platelets (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K.",
       "id": 11
     },
     {
@@ -214,13 +214,13 @@
         "Concave Lens",
         "Cylindrical Lens",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Concave LensDetailed",
-      "explanation": "In myopia, light rays converge in front of the retina. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the retina.💡 Exam Setter's Tips & Quick Tricks: Myopia (Near-sighted) = Concave Lens; Hypermetropia (Far-sighted) = Convex Lens; Astigmatism = Cylindrical Lens.",
-      "tip": "",
+      "answer_text": "Concave Lens",
+      "explanation": "In myopia, light rays converge in front of the retina. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the retina.",
+      "tip": "Myopia (Near-sighted) = Concave Lens; Hypermetropia (Far-sighted) = Convex Lens; Astigmatism = Cylindrical Lens.",
       "id": 12
     },
     {
@@ -232,13 +232,13 @@
         "Rayon",
         "Polyester",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "RayonDetailed",
-      "explanation": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and sodium hydroxide. It possesses a lustrous silk-like appearance and soft texture.💡 Exam Setter's Tips & Quick Tricks: Artificial Silk = Rayon (from wood pulp); First fully synthetic fibre = Nylon.",
-      "tip": "",
+      "answer_text": "Rayon",
+      "explanation": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and sodium hydroxide. It possesses a lustrous silk-like appearance and soft texture.",
+      "tip": "Artificial Silk = Rayon (from wood pulp); First fully synthetic fibre = Nylon.",
       "id": 13
     },
     {
@@ -250,13 +250,13 @@
         "O Negative",
         "B Positive",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "O NegativeDetailed",
-      "explanation": "Blood group O Negative has neither A nor B antigens, and also lacks the Rh(D) factor. Consequently, it can be transfused safely to recipients of any ABO and Rh blood group without triggering acute hemolytic agglutination.💡 Exam Setter's Tips & Quick Tricks: Universal Donor = O Negative (O-); Universal Recipient = AB Positive (AB+).",
-      "tip": "",
+      "answer_text": "O Negative",
+      "explanation": "Blood group O Negative has neither A nor B antigens, and also lacks the Rh(D) factor. Consequently, it can be transfused safely to recipients of any ABO and Rh blood group without triggering acute hemolytic agglutination.",
+      "tip": "Universal Donor = O Negative (O-); Universal Recipient = AB Positive (AB+).",
       "id": 14
     },
     {
@@ -268,13 +268,13 @@
         "Boyle's Law",
         "Gay-Lussac's Law",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Boyle's LawDetailed",
-      "explanation": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.💡 Exam Setter's Tips & Quick Tricks: Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T).",
-      "tip": "",
+      "answer_text": "Boyle's Law",
+      "explanation": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.",
+      "tip": "Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T).",
       "id": 15
     },
     {
@@ -286,13 +286,13 @@
         "Montreal Protocol",
         "Basel Convention",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Montreal ProtocolDetailed",
-      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 September 1987 (commemorated globally as World Ozone Day) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.💡 Exam Setter's Tips & Quick Tricks: Ozone Layer protection = Montreal Protocol (1987); Greenhouse Gas reduction = Kyoto Protocol (1997).",
-      "tip": "",
+      "answer_text": "Montreal Protocol",
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 September 1987 (commemorated globally as World Ozone Day) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.",
+      "tip": "Ozone Layer protection = Montreal Protocol (1987); Greenhouse Gas reduction = Kyoto Protocol (1997).",
       "id": 16
     },
     {
@@ -304,13 +304,13 @@
         "San Francisco (Yugantar Ashram)",
         "Vancouver",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "San Francisco (Yugantar Ashram)Detailed",
-      "explanation": "The Ghadar Party was founded in 1913 by Lala Har Dayal, Sohan Singh Bhakna (President), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.💡 Exam Setter's Tips & Quick Tricks: Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna.",
-      "tip": "",
+      "answer_text": "San Francisco (Yugantar Ashram)",
+      "explanation": "The Ghadar Party was founded in 1913 by Lala Har Dayal, Sohan Singh Bhakna (President), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
+      "tip": "Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna.",
       "id": 17
     },
     {
@@ -322,13 +322,13 @@
         "Karyanand Sharma",
         "Yadunandan Sharma",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Karyanand SharmaDetailed",
-      "explanation": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement during 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.💡 Exam Setter's Tips & Quick Tricks: Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma.",
-      "tip": "",
+      "answer_text": "Karyanand Sharma",
+      "explanation": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement during 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.",
+      "tip": "Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma.",
       "id": 18
     },
     {
@@ -340,13 +340,13 @@
         "Mohammad Yunus",
         "Sachchidananda Sinha",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Mohammad YunusDetailed",
-      "explanation": "When the Congress initially declined to form a government over the Governor's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 April 1937, serving until Sri Krishna Singh took oath on 20 July 1937.💡 Exam Setter's Tips & Quick Tricks: First Premier of Bihar = Mohammad Yunus (Interim); First Congress Chief Minister = Sri Krishna Singh.",
-      "tip": "",
+      "answer_text": "Mohammad Yunus",
+      "explanation": "When the Congress initially declined to form a government over the Governor's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 April 1937, serving until Sri Krishna Singh took oath on 20 July 1937.",
+      "tip": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress Chief Minister = Sri Krishna Singh.",
       "id": 19
     },
     {
@@ -358,13 +358,13 @@
         "Ajivika Sect",
         "Jainism",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Ajivika SectDetailed",
-      "explanation": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.💡 Exam Setter's Tips & Quick Tricks: Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala).",
-      "tip": "",
+      "answer_text": "Ajivika Sect",
+      "explanation": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.",
+      "tip": "Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala).",
       "id": 20
     },
     {
@@ -376,13 +376,13 @@
         "Indira Point (Pygmalion Point)",
         "Rameswaram",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Indira Point (Pygmalion Point)Detailed",
-      "explanation": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.💡 Exam Setter's Tips & Quick Tricks: Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari.",
-      "tip": "",
+      "answer_text": "Indira Point (Pygmalion Point)",
+      "explanation": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.",
+      "tip": "Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari.",
       "id": 21
     },
     {
@@ -394,13 +394,13 @@
         "Danapur (Maner / Patna)",
         "Mokama",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Danapur (Maner / Patna)Detailed",
-      "explanation": "The Son river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the Ganga just west of Danapur / Maner in Patna district. Punpun joins Ganga at Fatuha.💡 Exam Setter's Tips & Quick Tricks: Son meets Ganga at Danapur/Maner; Punpun meets Ganga at Fatuha; Gandak meets Ganga at Sonpur/Hajipur.",
-      "tip": "",
+      "answer_text": "Danapur (Maner / Patna)",
+      "explanation": "The Son river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the Ganga just west of Danapur / Maner in Patna district. Punpun joins Ganga at Fatuha.",
+      "tip": "Son meets Ganga at Danapur/Maner; Punpun meets Ganga at Fatuha; Gandak meets Ganga at Sonpur/Hajipur.",
       "id": 22
     },
     {
@@ -412,13 +412,13 @@
         "Rohtas and Kaimur",
         "Munger",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Rohtas and KaimurDetailed",
-      "explanation": "High-grade limestone belonging to the Vindhyan geological system occurs along the Kaimur plateau in Rohtas (Banjari, Rohtasgarh) and Kaimur districts, supporting major cement plants at Dalmianagar and Banjari.💡 Exam Setter's Tips & Quick Tricks: Limestone & Pyrite = Rohtas / Kaimur (Vindhyan rocks); Mica = Nawada / Gaya / Jamui.",
-      "tip": "",
+      "answer_text": "Rohtas and Kaimur",
+      "explanation": "High-grade limestone belonging to the Vindhyan geological system occurs along the Kaimur plateau in Rohtas (Banjari, Rohtasgarh) and Kaimur districts, supporting major cement plants at Dalmianagar and Banjari.",
+      "tip": "Limestone & Pyrite = Rohtas / Kaimur (Vindhyan rocks); Mica = Nawada / Gaya / Jamui.",
       "id": 23
     },
     {
@@ -430,13 +430,13 @@
         "Baikunth Shukla",
         "Jogendra Shukla",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Baikunth ShuklaDetailed",
-      "explanation": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in November 1932 to avenge the martyrdom of Bhagat Singh, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 May 1934.💡 Exam Setter's Tips & Quick Tricks: Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934).",
-      "tip": "",
+      "answer_text": "Baikunth Shukla",
+      "explanation": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in November 1932 to avenge the martyrdom of Bhagat Singh, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 May 1934.",
+      "tip": "Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934).",
       "id": 24
     },
     {
@@ -448,13 +448,13 @@
         "8 States",
         "9 States",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "8 StatesDetailed",
-      "explanation": "The Tropic of Cancer passes through 8 Indian States from West to East: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.💡 Exam Setter's Tips & Quick Tricks: Mnemonic: 'मित्र पर गमछा झार' (Mizoram, Tripura, W.Bengal, Rajasthan, Gujarat, MP, Chhattisgarh, Jharkhand).",
-      "tip": "",
+      "answer_text": "8 States",
+      "explanation": "The Tropic of Cancer passes through 8 Indian States from West to East: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+      "tip": "Mnemonic: 'मित्र पर गमछा झार' (Mizoram, Tripura, W.Bengal, Rajasthan, Gujarat, MP, Chhattisgarh, Jharkhand).",
       "id": 25
     },
     {
@@ -466,13 +466,13 @@
         "Palk Strait",
         "Ten Degree Channel",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Palk StraitDetailed",
-      "explanation": "Palk Strait, situated between the Tamil Nadu coast of India and the Jaffna peninsula of Sri Lanka, connects the Bay of Bengal with Palk Bay and the Gulf of Mannar.💡 Exam Setter's Tips & Quick Tricks: India and Sri Lanka = Palk Strait & Gulf of Mannar; Andaman and Nicobar = 10 Degree Channel.",
-      "tip": "",
+      "answer_text": "Palk Strait",
+      "explanation": "Palk Strait, situated between the Tamil Nadu coast of India and the Jaffna peninsula of Sri Lanka, connects the Bay of Bengal with Palk Bay and the Gulf of Mannar.",
+      "tip": "India and Sri Lanka = Palk Strait & Gulf of Mannar; Andaman and Nicobar = 10 Degree Channel.",
       "id": 26
     },
     {
@@ -484,13 +484,13 @@
         "Wular Lake",
         "Pangong Tso",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Wular LakeDetailed",
-      "explanation": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.💡 Exam Setter's Tips & Quick Tricks: Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha).",
-      "tip": "",
+      "answer_text": "Wular Lake",
+      "explanation": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.",
+      "tip": "Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha).",
       "id": 27
     },
     {
@@ -502,13 +502,13 @@
         "Prime Minister of India",
         "Union Minister of Finance",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Prime Minister of IndiaDetailed",
-      "explanation": "Established on 1 January 2015 replacing the Planning Commission, the Prime Minister serves as the ex-officio Chairperson of NITI Aayog.💡 Exam Setter's Tips & Quick Tricks: Chairperson of NITI Aayog, National Development Council & Inter-State Council = Prime Minister.",
-      "tip": "",
+      "answer_text": "Prime Minister of India",
+      "explanation": "Established on 1 January 2015 replacing the Planning Commission, the Prime Minister serves as the ex-officio Chairperson of NITI Aayog.",
+      "tip": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = Prime Minister.",
       "id": 28
     },
     {
@@ -520,13 +520,13 @@
         "86th Amendment Act 2002",
         "91st Amendment Act 2003",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "86th Amendment Act 2002Detailed",
-      "explanation": "The 86th Constitutional Amendment Act 2002 inserted Article 21A into Part III, making elementary education a fundamental right. It also updated Article 45 in DPSP and added 11th fundamental duty in Article 51A(k).💡 Exam Setter's Tips & Quick Tricks: Right to Education (RTE) = 86th Constitutional Amendment 2002 (Article 21A).",
-      "tip": "",
+      "answer_text": "86th Amendment Act 2002",
+      "explanation": "The 86th Constitutional Amendment Act 2002 inserted Article 21A into Part III, making elementary education a fundamental right. It also updated Article 45 in DPSP and added 11th fundamental duty in Article 51A(k).",
+      "tip": "Right to Education (RTE) = 86th Constitutional Amendment 2002 (Article 21A).",
       "id": 29
     },
     {
@@ -538,13 +538,13 @@
         "Shiv Shakti Point",
         "Jawahar Point",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Shiv Shakti PointDetailed",
-      "explanation": "Prime Minister Narendra Modi announced that the landing site of Vikram lander on 23 August 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 August declared 'National Space Day'.💡 Exam Setter's Tips & Quick Tricks: Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 August = National Space Day.",
-      "tip": "",
+      "answer_text": "Shiv Shakti Point",
+      "explanation": "Prime Minister Narendra Modi announced that the landing site of Vikram lander on 23 August 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 August declared 'National Space Day'.",
+      "tip": "Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 August = National Space Day.",
       "id": 30
     },
     {
@@ -556,13 +556,13 @@
         "20 km",
         "22 km",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "20 kmDetailed",
-      "explanation": "Time difference = 11 - 5 = 6 minutes = 6/60 hour = 1/10 hour. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 km.💡 Exam Setter's Tips & Quick Tricks: Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 km.",
-      "tip": "",
+      "answer_text": "20 km",
+      "explanation": "Time difference = 11 - 5 = 6 minutes = 6/60 hour = 1/10 hour. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 km.",
+      "tip": "Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 km.",
       "id": 31
     },
     {
@@ -574,13 +574,13 @@
         "40 years",
         "45 years",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 0,
       "answer_letter": "A",
-      "answer_text": "35 yearsDetailed",
-      "explanation": "Let present ages be 7x and 2x. In 10 years: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 years.💡 Exam Setter's Tips & Quick Tricks: Ratio units: (9-7)=2 units in 10 years => 1 unit = 5 years. Father = 7 units = 35 years.",
-      "tip": "",
+      "answer_text": "35 years",
+      "explanation": "Let present ages be 7x and 2x. In 10 years: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 years.",
+      "tip": "Ratio units: (9-7)=2 units in 10 years => 1 unit = 5 years. Father = 7 units = 35 years.",
       "id": 32
     },
     {
@@ -592,13 +592,13 @@
         "₹160",
         "₹180",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "₹160Detailed",
-      "explanation": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.💡 Exam Setter's Tips & Quick Tricks: 115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160.",
-      "tip": "",
+      "answer_text": "₹160",
+      "explanation": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.",
+      "tip": "115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160.",
       "id": 33
     },
     {
@@ -610,13 +610,13 @@
         "50 litres",
         "60 litres",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 2,
       "answer_letter": "C",
-      "answer_text": "60 litresDetailed",
-      "explanation": "In 60 litres: Milk = 40 L, Water = 20 L. Let 'x' litres of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 litres.💡 Exam Setter's Tips & Quick Tricks: Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L.",
-      "tip": "",
+      "answer_text": "60 litres",
+      "explanation": "In 60 litres: Milk = 40 L, Water = 20 L. Let 'x' litres of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 litres.",
+      "tip": "Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L.",
       "id": 34
     },
     {
@@ -628,13 +628,13 @@
         "Vitamin C",
         "Vitamin D",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Vitamin CDetailed",
-      "explanation": "Vitamin C (ascorbic acid) is a water-soluble antioxidant vitamin found abundantly in citrus fruits and amla. Its severe deficiency leads to scurvy, characterized by spongy bleeding gums and delayed wound healing.💡 Exam Setter's Tips & Quick Tricks: Ascorbic acid = Vitamin C (Scurvy); Retinol = Vitamin A; Calciferol = Vitamin D; Tocopherol = Vitamin E.",
-      "tip": "",
+      "answer_text": "Vitamin C",
+      "explanation": "Vitamin C (ascorbic acid) is a water-soluble antioxidant vitamin found abundantly in citrus fruits and amla. Its severe deficiency leads to scurvy, characterized by spongy bleeding gums and delayed wound healing.",
+      "tip": "Ascorbic acid = Vitamin C (Scurvy); Retinol = Vitamin A; Calciferol = Vitamin D; Tocopherol = Vitamin E.",
       "id": 35
     },
     {
@@ -646,13 +646,13 @@
         "Bauxite",
         "Galena",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "BauxiteDetailed",
-      "explanation": "Bauxite (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, bauxite is digested in hot sodium hydroxide to produce pure alumina, which is then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.💡 Exam Setter's Tips & Quick Tricks: Aluminium ore = Bauxite; Iron ore = Haematite / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite.",
-      "tip": "",
+      "answer_text": "Bauxite",
+      "explanation": "Bauxite (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, bauxite is digested in hot sodium hydroxide to produce pure alumina, which is then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.",
+      "tip": "Aluminium ore = Bauxite; Iron ore = Haematite / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite.",
       "id": 36
     },
     {
@@ -664,13 +664,13 @@
         "Chlorophyll",
         "Anthocyanin",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "ChlorophyllDetailed",
-      "explanation": "Chlorophyll (predominantly Chlorophyll a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.💡 Exam Setter's Tips & Quick Tricks: Photosynthetic green pigment = Chlorophyll (central metal atom = Magnesium, Mg).",
-      "tip": "",
+      "answer_text": "Chlorophyll",
+      "explanation": "Chlorophyll (predominantly Chlorophyll a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.",
+      "tip": "Photosynthetic green pigment = Chlorophyll (central metal atom = Magnesium, Mg).",
       "id": 37
     },
     {
@@ -682,13 +682,13 @@
         "Babu Jagjivan Ram",
         "Mahatma Jyotirao Phule",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Babu Jagjivan RamDetailed",
-      "explanation": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.💡 Exam Setter's Tips & Quick Tricks: All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar.",
-      "tip": "",
+      "answer_text": "Babu Jagjivan Ram",
+      "explanation": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.",
+      "tip": "All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar.",
       "id": 38
     },
     {
@@ -700,13 +700,13 @@
         "1934",
         "1939",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "1934Detailed",
-      "explanation": "While an informal group formed in 1931, the formal founding convention of the Bihar Socialist Party (and foundation of Congress Socialist Party) took place at Anjuman Islamia Hall, Patna on 17 May 1934 under Acharya Narendra Deva.💡 Exam Setter's Tips & Quick Tricks: Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (President) & JP (Secretary).",
-      "tip": "",
+      "answer_text": "1934",
+      "explanation": "While an informal group formed in 1931, the formal founding convention of the Bihar Socialist Party (and foundation of Congress Socialist Party) took place at Anjuman Islamia Hall, Patna on 17 May 1934 under Acharya Narendra Deva.",
+      "tip": "Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (President) & JP (Secretary).",
       "id": 39
     },
     {
@@ -718,13 +718,13 @@
         "Vikramshila Gangetic Dolphin Sanctuary",
         "Kanwar Lake Bird Sanctuary",
         "More than one of the above",
-        "None of the above\n✔ Official Answer"
+        "None of the above"
       ],
       "answer": 1,
       "answer_letter": "B",
-      "answer_text": "Vikramshila Gangetic Dolphin SanctuaryDetailed",
-      "explanation": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-km stretch of the Ganga from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.💡 Exam Setter's Tips & Quick Tricks: Gangetic Dolphin Sanctuary = Vikramshila (Bhagalpur); National Aquatic Animal = Gangetic Dolphin (Platanista gangetica).\nAnswer Key Summary Table — Set 6 (Questions 201 to 240)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
-      "tip": "",
+      "answer_text": "Vikramshila Gangetic Dolphin Sanctuary",
+      "explanation": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-km stretch of the Ganga from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.",
+      "tip": "Gangetic Dolphin Sanctuary = Vikramshila (Bhagalpur); National Aquatic Animal = Gangetic Dolphin (Platanista gangetica).\nAnswer Key Summary Table — Set 6 (Questions 201 to 240)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey",
       "id": 40
     }
   ]

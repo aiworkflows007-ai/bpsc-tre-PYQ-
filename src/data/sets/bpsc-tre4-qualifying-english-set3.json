@@ -1,0 +1,263 @@
+{
+  "id": "bpsc-tre4-qualifying-english-set3",
+  "title": "English Language Practice Set 3 (15Q)",
+  "section": "qualifying",
+  "section_name": "Part-I Language Qualifying",
+  "subject": "English Language",
+  "filename": "bpsc-tre4-master-qualifying-paper-120q.docx",
+  "question_count": 14,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "July comes before the month of",
+      "hi": "July comes before the month of",
+      "options": [
+        "June",
+        "August",
+        "May",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "August",
+      "explanation": "In the standard 12-month calendar order, July (the 7th month) immediately precedes August (the 8th month).",
+      "tip": "Notice the phrasing 'comes before': July comes BEFORE August, but July comes AFTER June.",
+      "id": 1
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Which of the following is not found in an office?",
+      "hi": "Which of the following is not found in an office?",
+      "options": [
+        "File cabinet",
+        "Computer",
+        "Kitchen stove",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Kitchen stove",
+      "explanation": "File cabinets and computers are standard professional office appliances, whereas a kitchen stove is a domestic cooking appliance.",
+      "tip": "Domain exclusion: Always isolate domestic culinary equipment contrasted against professional work environment furniture.",
+      "id": 2
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "A person who sells meat is called a",
+      "hi": "A person who sells meat is called a",
+      "options": [
+        "Baker",
+        "Butcher",
+        "Barber",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Butcher",
+      "explanation": "A butcher is a person whose trade is the slaughtering of animals and selling of meat. A baker sells bread and a barber cuts hair.",
+      "tip": "Occupation vocabulary: Meat seller = Butcher; Bread seller = Baker; Hair cutter = Barber; Flower seller = Florist.",
+      "id": 3
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Look at the dark clouds! It ______ rain soon.",
+      "hi": "Look at the dark clouds! It ______ rain soon.",
+      "options": [
+        "is going to",
+        "will",
+        "can",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "is going to",
+      "explanation": "When present sensory evidence (dark clouds) indicates that an immediate future occurrence is certain, the 'be going to' future construction is grammatically preferred over simple 'will'.",
+      "tip": "Present visible evidence ('Look at the dark clouds!') triggers 'is going to' to express imminent future events.",
+      "id": 4
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "He died ______ cholera after drinking contaminated water.",
+      "hi": "He died ______ cholera after drinking contaminated water.",
+      "options": [
+        "from",
+        "of",
+        "with",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "of",
+      "explanation": "When a person dies directly of a disease or illness (cholera, cancer, malaria), the fixed preposition is 'die of'. 'Die from' is used for external causes (wounds, overwork).",
+      "tip": "Fixed Preposition Rule: Die of a disease (cholera, heart attack); Die from a cause/wound (loss of blood, hunger); Die for a noble cause.",
+      "id": 5
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "Ramesh is senior ______ Suresh in our department.",
+      "hi": "Ramesh is senior ______ Suresh in our department.",
+      "options": [
+        "than",
+        "to",
+        "from",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "to",
+      "explanation": "Latin comparative adjectives ending in '-ior' (senior, junior, superior, inferior, prior, anterior, posterior) are invariably followed by the preposition 'to', never 'than'.",
+      "tip": "Memorize the Latin '-ior' rule: Senior, Junior, Superior, Inferior, Preferable -> always pair with 'to', never 'than'.",
+      "id": 6
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Mount Everest is ______ highest peak in the world.",
+      "hi": "Mount Everest is ______ highest peak in the world.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "the",
+      "explanation": "Superlative degree adjectives ('highest', 'best', 'most beautiful') mandatorily require the definite article 'the' preceding them.",
+      "tip": "Superlative degree adjectives always take 'the' (the highest, the deepest, the tallest).",
+      "id": 7
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Gold is ______ useful metal.",
+      "hi": "Gold is ______ useful metal.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "a",
+      "explanation": "Although the adjective 'useful' begins with the vowel letter 'u', its phonetic pronunciation begins with the consonant glide /juː/ (yoo-). Therefore, the indefinite article 'a' is correct.",
+      "tip": "Phonetic trap: Words beginning with the initial /j/ sound ('useful', 'university', 'European', 'unique') take 'a', not 'an'.",
+      "id": 8
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "She has been living in this city ______ 2015.",
+      "hi": "She has been living in this city ______ 2015.",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "since",
+      "explanation": "In present perfect continuous tense, 'since' is used to denote a specific point of origin in past time ('2015', 'Monday', 'morning'), whereas 'for' denotes a duration or period.",
+      "tip": "Point of time (2015, 8 o'clock, childhood) = since; Period/duration of time (5 years, 3 hours) = for.",
+      "id": 9
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Choose the correctly spelt word from the options:",
+      "hi": "Choose the correctly spelt word from the options:",
+      "options": [
+        "Embarrass",
+        "Embaras",
+        "Embarass",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Embarrass",
+      "explanation": "The correct English spelling of 'embarrass' contains double 'r' and double 's' (E-M-B-A-R-R-A-S-S).",
+      "tip": "Spelling check: Double 'r' and double 's' rule -> Embarrass, Harass (single 'r', double 's'), Occur / Occurrence (double 'c', double 'r').",
+      "id": 10
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "Neither the teacher nor the students ______ present in the auditorium.",
+      "hi": "Neither the teacher nor the students ______ present in the auditorium.",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "were",
+      "explanation": "When two subjects are joined by correlative conjunctions 'neither...nor' or 'either...or', the verb agrees in number and person with the closest subject ('the students', which is plural, requiring 'were').",
+      "tip": "Proximity Rule in Subject-Verb Agreement: The verb agrees with the subject closest to it. Here, 'students' (plural) is adjacent to the verb -> were.",
+      "id": 11
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "The antonym of the word 'OBSTINATE' is\n('OBSTINATE' (",
+      "hi": "The antonym of the word 'OBSTINATE' is\n('OBSTINATE' (",
+      "options": [
+        "Stubborn",
+        "Flexible",
+        "Rigid",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Flexible",
+      "explanation": "'Obstinate' denotes being stubborn or unyielding. Its exact antonym is 'flexible' (yielding, compliant, accommodating). 'Stubborn' and 'rigid' are synonyms.",
+      "tip": "Watch the instruction: The question asks for the antonym (opposite), not synonym. Flexible / Docile = opposite of Obstinate.",
+      "id": 12
+    },
+    {
+      "source": "BPSC TRE 1.0",
+      "en": "A book of maps is called an",
+      "hi": "A book of maps is called an",
+      "options": [
+        "Encyclopedia",
+        "Atlas",
+        "Dictionary",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Atlas",
+      "explanation": "An atlas is a bound collection or volume of geographic maps and charts. An encyclopedia is a compendium of general knowledge.",
+      "tip": "Book categories: Collection of maps = Atlas; Book of word definitions = Dictionary; Comprehensive knowledge reference = Encyclopedia.",
+      "id": 13
+    },
+    {
+      "source": "BPSC TRE 2.0",
+      "en": "If it rains, we ______ cancel the cricket match.",
+      "hi": "If it rains, we ______ cancel the cricket match.",
+      "options": [
+        "will",
+        "would",
+        "would have",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "will",
+      "explanation": "In first conditional sentences expressing a real, probable future condition ('If + Present Simple'), the main clause takes 'will + base verb' ('we will cancel').",
+      "tip": "Conditional Tense pairing: Type 1: If + V1 (rains) -> will + V1 (will cancel); Type 2: If + V2 (rained) -> would cancel.",
+      "id": 14
+    }
+  ]
+}
