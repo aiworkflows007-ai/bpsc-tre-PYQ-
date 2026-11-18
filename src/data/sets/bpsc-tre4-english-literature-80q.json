@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Geoffrey Chaucer (c. 1340s–1400) is heralded as the 'Father of English Poetry' and 'Father of English Literature' for establishing the East Midland Middle English dialect as the primary standard national literary language in works like The Canterbury Tales.",
-      "tip_hi": "John Dryden praised Chaucer as 'the father of English poetry', while Matthew Arnold criticized him for lacking 'high seriousness'."
+      "explanation_hi": "द कैंटरबरी टेल्स जैसे कार्यों में ईस्ट मिडलैंड मिडिल इंग्लिश बोली को प्राथमिक मानक राष्ट्रीय साहित्यिक भाषा के रूप में स्थापित करने के लिए जेफ्री चौसर (सी. 1340-1400) को 'अंग्रेजी कविता के जनक' और 'अंग्रेजी साहित्य के जनक' के रूप में घोषित किया गया है।",
+      "tip_hi": "जॉन ड्राइडन ने चौसर की 'अंग्रेजी कविता के जनक' के रूप में प्रशंसा की, जबकि मैथ्यू अर्नोल्ड ने 'उच्च गंभीरता' की कमी के लिए उनकी आलोचना की।"
     },
     {
       "source": "Middle English Literature",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Chaucer explicitly states at the Tabard Inn in Southwark that there were 'wel nyne and twenty in a compaignye' (29 pilgrims). Including Chaucer himself makes 30, and the Host (Harry Bailly) makes 31.",
-      "tip_hi": "Carefully read whether the question excludes or includes the narrator (Chaucer) and Harry Bailly. Only the pilgrims = 29; total party riding to Canterbury = 31."
+      "explanation_hi": "चौसर ने साउथवार्क में टैबर्ड इन में स्पष्ट रूप से कहा कि 'एक साथी में नाइन और बीस का स्वागत था' (29 तीर्थयात्री)। चौसर सहित स्वयं 30 और मेजबान (हैरी बैली) 31 बनाते हैं।",
+      "tip_hi": "ध्यान से पढ़ें कि क्या प्रश्न में वर्णनकर्ता (चॉसर) और हैरी बैली को शामिल नहीं किया गया है या शामिल नहीं किया गया है। केवल तीर्थयात्री = 29; कैंटरबरी तक यात्रा करने वाली कुल पार्टी = 31।"
     },
     {
       "source": "Elizabethan Poetry",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Edmund Spenser invented the Spenserian stanza for The Faerie Queene. It consists of 9 lines: eight lines of iambic pentameter followed by a final twelve-syllable iambic hexameter (alexandrine), rhyming ababbcbcc.",
-      "tip_hi": "Spenserian stanza formula: 9 lines, rhyme scheme ababbcbcc, 9th line = Alexandrine (6 feet / 12 syllables). Adopted later by Keats (The Eve of St. Agnes) and Shelley (Adonais)."
+      "explanation_hi": "एडमंड स्पेंसर ने द फेयरी क्वीन के लिए स्पेंसरियन छंद का आविष्कार किया। इसमें 9 पंक्तियाँ शामिल हैं: आयंबिक पेंटामीटर की आठ पंक्तियाँ और उसके बाद अंतिम बारह-अक्षर वाला आयंबिक हेक्सामीटर (अलेक्जेंड्राइन), तुकबंदी ababbcbcc।",
+      "tip_hi": "स्पेंसरियन छंद सूत्र: 9 पंक्तियाँ, तुकबंदी योजना ababbcbcc, 9वीं पंक्ति = एलेक्जेंड्राइन (6 फीट / 12 अक्षर)। बाद में कीट्स (द ईव ऑफ सेंट एग्नेस) और शेली (एडोनाइस) द्वारा अपनाया गया।"
     },
     {
       "source": "Shakespearean Tragedy",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "This celebrated soliloquy is uttered by Macbeth in Act V, Scene 5 upon hearing of the death of Lady Macbeth, expressing the existential nihilism of human life as 'a tale told by an idiot, full of sound and fury, signifying nothing.'",
-      "tip_hi": "Famous soliloquies: 'To be or not to be' = Hamlet; 'Tomorrow, and tomorrow, and tomorrow' = Macbeth; 'Blow, winds, and crack your cheeks' = King Lear."
+      "explanation_hi": "लेडी मैकबेथ की मृत्यु के बारे में सुनने पर एक्ट V, दृश्य 5 में मैकबेथ द्वारा यह प्रसिद्ध भाषण दिया गया है, जिसमें मानव जीवन के अस्तित्वगत शून्यवाद को 'एक बेवकूफ द्वारा बताई गई कहानी, ध्वनि और रोष से भरी, जिसका कोई मतलब नहीं है' के रूप में व्यक्त किया गया है।",
+      "tip_hi": "प्रसिद्ध आत्मभाषण: 'होना या न होना' = हेमलेट; 'कल, और कल, और कल' = मैकबेथ; 'हवाओं, उड़ाओ और अपने गाल चटकाओ' = किंग लियर।"
     },
     {
       "source": "Shakespearean Sonnets",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Shakespeare published a collection of 154 sonnets in 1609 (by Thomas Thorpe). Sonnets 1 to 126 are addressed to a handsome young nobleman (the 'Fair Youth'), 127 to 152 to the 'Dark Lady', and 153–154 to Cupid.",
-      "tip_hi": "Shakespearean Sonnet division: 1–126 = Fair Youth; 127–152 = Dark Lady; 153–154 = Allegorical/Cupid. Form: 3 quatrains + 1 rhyming couplet (abab cdcd efef gg)."
+      "explanation_hi": "शेक्सपियर ने 1609 में (थॉमस थोरपे द्वारा) 154 सॉनेट्स का एक संग्रह प्रकाशित किया। सॉनेट 1 से 126 तक एक सुंदर युवा रईस ('फेयर यूथ') को संबोधित किया गया है, 127 से 152 को 'डार्क लेडी' और 153-154 को कामदेव को संबोधित किया गया है।",
+      "tip_hi": "शेक्सपियरियन सॉनेट प्रभाग: 1-126 = निष्पक्ष युवा; 127-152 = डार्क लेडी; 153-154 = रूपक/कामदेव। प्रपत्र: 3 चौपाइयां + 1 तुकांत दोहा (अबब सीडीसीडी ईएफईएफ जीजी)।"
     },
     {
       "source": "17th Century Poetry",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Samuel Johnson coined the critical term in his essay on Abraham Cowley in Lives of the Poets (1779), noting that 'the metaphysical poets were men of learning... their wit was a kind of discordia concors.'",
-      "tip_hi": "Dryden first used 'metaphysics' regarding Donne in satire ('he affects the metaphysics'), but Dr. Samuel Johnson established 'Metaphysical School/Poets' as a literary classification."
+      "explanation_hi": "डॉ. सैमुअल जॉनसन ने लाइव्स ऑफ द पोएट्स (1779) में अब्राहम काउली पर अपने निबंध में आलोचनात्मक शब्द गढ़ा, जिसमें कहा गया था कि 'आध्यात्मिक कवि विद्वान व्यक्ति थे... उनकी बुद्धि एक प्रकार की कलहपूर्ण सहमति थी।'",
+      "tip_hi": "ड्राइडन ने सबसे पहले व्यंग्य में डोने के संबंध में 'मेटाफिजिक्स' का इस्तेमाल किया था ('वह मेटाफिजिक्स को प्रभावित करता है'), लेकिन डॉ. सैमुअल जॉनसन ने साहित्यिक वर्गीकरण के रूप में 'मेटाफिजिकल स्कूल/कवियों' की स्थापना की।"
     },
     {
       "source": "Metaphysical Conceits",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Donne uses a classic metaphysical conceit comparing the souls of separated lovers to the stiff twin legs of a drawing compass: 'If they be two, they are two so / As stiff twin compasses are two.'",
-      "tip_hi": "A 'Metaphysical Conceit' is an extended, startling, highly intellectualized comparison between two drastically dissimilar things (e.g., lovers' souls and a geometric compass)."
+      "explanation_hi": "डोने एक क्लासिक आध्यात्मिक दंभ का उपयोग करते हुए अलग हुए प्रेमियों की आत्माओं की तुलना ड्राइंग कम्पास के कठोर जुड़वां पैरों से करते हैं: 'यदि वे दो हैं, तो वे दो हैं / जैसे कठोर जुड़वां कम्पास दो हैं।'",
+      "tip_hi": "'मेटाफिजिकल कॉन्सेप्ट' दो बेहद भिन्न चीजों (उदाहरण के लिए, प्रेमियों की आत्माएं और एक ज्यामितीय कम्पास) के बीच एक विस्तारित, चौंकाने वाली, अत्यधिक बौद्धिक तुलना है।"
     },
     {
       "source": "Puritan Age & Epic",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The first edition of John Milton's epic Paradise Lost was published in 1667 in 10 books. The second edition of 1674 was reorganized into 12 books (by dividing Books 7 and 10) to match Virgil's Aeneid.",
-      "tip_hi": "First edition (1667) = 10 books; Second definitive edition (1674) = 12 books. Verse form = unrhymed iambic pentameter (blank verse)."
+      "explanation_hi": "जॉन मिल्टन के महाकाव्य पैराडाइज़ लॉस्ट का पहला संस्करण 1667 में 10 पुस्तकों में प्रकाशित हुआ था। 1674 के दूसरे संस्करण को वर्जिल की एनीड से मेल खाने के लिए 12 पुस्तकों (पुस्तकों 7 और 10 को विभाजित करके) में पुनर्गठित किया गया था।",
+      "tip_hi": "प्रथम संस्करण (1667) = 10 पुस्तकें; दूसरा निश्चित संस्करण (1674) = 12 पुस्तकें। छंद रूप = अव्यक्त आयंबिक पंचपद (रिक्त छंद)।"
     },
     {
       "source": "Milton's Poetry",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Book I (lines 25–26), Milton declares his epic invocation: 'That to the heighth of this great argument / I may assert Eternal Providence, / And justify the ways of God to men.'",
-      "tip_hi": "Remember Milton's exact phrasing: 'justify the ways of God to men', contrasting with Alexander Pope's aim in An Essay on Man: 'vindicate the ways of God to man.'"
+      "explanation_hi": "पुस्तक I (पंक्तियाँ 25-26) में, मिल्टन ने अपने महाकाव्य आह्वान की घोषणा की: 'इस महान तर्क की पराकाष्ठा तक / मैं शाश्वत प्रोविडेंस पर जोर दे सकता हूं, / और मनुष्यों के लिए भगवान के तरीकों को उचित ठहरा सकता हूं।'",
+      "tip_hi": "मिल्टन के सटीक वाक्यांश को याद रखें: 'मनुष्यों के लिए ईश्वर के तरीकों को उचित ठहराएं', जो एन एसे ऑन मैन में अलेक्जेंडर पोप के उद्देश्य के विपरीत है: 'मनुष्यों के लिए ईश्वर के तरीकों को सही ठहराएं।'"
     },
     {
       "source": "Restoration Drama",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "William Congreve's masterpiece The Way of the World (featuring lovers Mirabell and Millamant and their famous 'proviso scene') represents the pinnacle of Restoration Comedy of Manners.",
-      "tip_hi": "The Country Wife = William Wycherley; The Man of Mode = George Etherege; The Way of the World = William Congreve."
+      "explanation_hi": "विलियम कांग्रेव की उत्कृष्ट कृति द वे ऑफ द वर्ल्ड (प्रेमियों मिराबेल और मिलमेंट और उनके प्रसिद्ध 'प्रोविज़ो दृश्य' की विशेषता) रेस्टोरेशन कॉमेडी ऑफ मैनर्स के शिखर का प्रतिनिधित्व करती है।",
+      "tip_hi": "द कंट्री वाइफ = विलियम विचर्ली; द मैन ऑफ मोड = जॉर्ज एथेरगे; दुनिया का रास्ता = विलियम कांग्रेव।"
     },
     {
       "source": "Augustan Age & Satire",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lord Petre clipped a lock of hair from Miss Arabella Fermor (represented as Belinda in the poem) without her permission, precipitating a bitter feud between two prominent Catholic families.",
-      "tip_hi": "The Rape of the Lock: Mock-epic machinery includes Sylphs (Ariel - air), Gnomes (Umbriel - earth), Nymphs (water), Salamanders (fire), and the game of Ombre."
+      "explanation_hi": "लॉर्ड पेट्रे ने मिस अरबेला फ़र्मोर (कविता में बेलिंडा के रूप में प्रस्तुत) की अनुमति के बिना उसके बालों का एक गुच्छा काट दिया, जिससे दो प्रमुख कैथोलिक परिवारों के बीच कड़वाहट पैदा हो गई।",
+      "tip_hi": "द रेप ऑफ द लॉक: मॉक-एपिक मशीनरी में सिल्फ्स (एरियल - वायु), ग्नोम्स (अम्ब्रिएल - पृथ्वी), निम्फ्स (जल), सैलामैंडर (अग्नि), और ओम्ब्रे का खेल शामिल है।"
     },
     {
       "source": "Augustan Prose",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gulliver undertakes 4 voyages: Part 1 - Lilliput (tiny people); Part 2 - Brobdingnag (giants); Part 3 - Laputa, Balnibarbi, Glubbdubdrib, Luggnagg, and Japan; Part 4 - Country of the Houyhnhnms (rational horses vs. Yahoos).",
-      "tip_hi": "Sequence of Gulliver's Travels: 1. Lilliput (6 inches high) -> 2. Brobdingnag (60 feet high) -> 3. Laputa (flying island) -> 4. Houyhnhnms (virtuous horses)."
+      "explanation_hi": "गुलिवर ने 4 यात्राएँ कीं: भाग 1 - लिलिपुट (छोटे लोग); भाग 2 - ब्रोबडिंगनाग (दिग्गज); भाग 3 - लापुटा, बाल्निबार्बी, ग्लुबडबड्रिब, लुग्गनाग, और जापान; भाग 4 - होउइन्ह्नम्स का देश (तर्कसंगत घोड़े बनाम याहूस)।",
+      "tip_hi": "गुलिवर्स ट्रेवल्स का क्रम: 1. लिलिपुट (6 इंच ऊंचा) -> 2. ब्रोबडिंगनाग (60 फीट ऊंचा) -> 3. लापुटा (उड़ता हुआ द्वीप) -> 4. होउइन्ह्नम्स (गुणी घोड़े)।"
     },
     {
       "source": "18th Century Prose",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Samuel Johnson single-handedly compiled A Dictionary of the English Language over nearly nine years, publishing it in two folio volumes on 15 April 1755, defining over 40,000 words with literary quotations.",
-      "tip_hi": "Johnson's famous definition of lexicographer: 'a writer of dictionaries; a harmless drudge.' His life was chronicled by James Boswell in The Life of Samuel Johnson (1791)."
+      "explanation_hi": "डॉ. सैमुअल जॉनसन ने लगभग नौ वर्षों में अकेले ही अंग्रेजी भाषा का एक शब्दकोश संकलित किया, इसे 15 अप्रैल 1755 को दो फोलियो खंडों में प्रकाशित किया, जिसमें साहित्यिक उद्धरणों के साथ 40,000 से अधिक शब्दों को परिभाषित किया गया।",
+      "tip_hi": "जॉनसन की कोशकार की प्रसिद्ध परिभाषा: 'शब्दकोशों का लेखक; एक हानिरहित कठिन परिश्रम।' उनके जीवन का वर्णन जेम्स बोसवेल ने द लाइफ ऑफ सैमुअल जॉनसन (1791) में किया है।"
     },
     {
       "source": "Romantic Movement",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The joint, anonymous publication of Lyrical Ballads in 1798 by William Wordsworth and Samuel Taylor Coleridge launched English Romanticism. The celebrated 'Preface' explaining its revolutionary poetic theory was added in the 1800 edition.",
-      "tip_hi": "Lyrical Ballads (1798) opens with Coleridge's 'The Rime of the Ancient Mariner' and concludes with Wordsworth's 'Lines Composed a Few Miles above Tintern Abbey'."
+      "explanation_hi": "1798 में विलियम वर्ड्सवर्थ और सैमुअल टेलर कोलरिज द्वारा लिरिकल बैलाड्स के संयुक्त, गुमनाम प्रकाशन ने अंग्रेजी रोमांटिकतावाद की शुरुआत की। इसके क्रांतिकारी काव्य सिद्धांत की व्याख्या करने वाली प्रसिद्ध 'प्रस्तावना' 1800 संस्करण में जोड़ी गई थी।",
+      "tip_hi": "लिरिकल बैलाड्स (1798) कोलरिज के 'द राइम ऑफ द एंशिएंट मेरिनर' से शुरू होता है और वर्ड्सवर्थ की 'लाइन्स कंपोज्ड ए फ्यू माइल्स एबव टिनटर्न एबे' के साथ समाप्त होता है।"
     },
     {
       "source": "Romantic Literary Criticism",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Wordsworth defined poetry as 'the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity.' Coleridge defined prose as 'words in their best order' and poetry as 'the best words in the best order.'",
-      "tip_hi": "Definitions to memorize: Wordsworth = 'spontaneous overflow of powerful feelings'; Coleridge = 'the best words in the best order'; Matthew Arnold = 'criticism of life'."
+      "explanation_hi": "वर्ड्सवर्थ ने कविता को 'शक्तिशाली भावनाओं के सहज प्रवाह' के रूप में परिभाषित किया है: इसकी उत्पत्ति शांति में याद की गई भावना से होती है।' कोलरिज ने गद्य को 'शब्द अपने सर्वोत्तम क्रम में' और कविता को 'सर्वोत्तम क्रम में सर्वोत्तम शब्द' के रूप में परिभाषित किया।",
+      "tip_hi": "याद रखने योग्य परिभाषाएँ: वर्ड्सवर्थ = 'शक्तिशाली भावनाओं का सहज प्रवाह'; कोलरिज = 'सर्वोत्तम क्रम में सर्वोत्तम शब्द'; मैथ्यू अर्नोल्ड = 'जीवन की आलोचना'।"
     },
     {
       "source": "Keats & Romantic Poetry",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "These famous concluding lines appear in John Keats's 'Ode on a Grecian Urn' (1819), encapsulating his aesthetic philosophy equating timeless art, truth, and supreme beauty.",
-      "tip_hi": "Keats's major 1819 Odes: 'Ode to a Nightingale', 'Ode on a Grecian Urn', 'Ode on Melancholy', 'Ode to Psyche', 'To Autumn'. Concept of 'Negative Capability' = Keats."
+      "explanation_hi": "ये प्रसिद्ध समापन पंक्तियाँ जॉन कीट्स की 'ओड ऑन ए ग्रीसियन अर्न' (1819) में दिखाई देती हैं, जो उनके सौंदर्य दर्शन को कालातीत कला, सच्चाई और सर्वोच्च सुंदरता के बराबर बताती हैं।",
+      "tip_hi": "कीट्स के प्रमुख 1819 ओड्स: 'ओड टू ए नाइटिंगेल', 'ओड ऑन ए ग्रीसियन अर्न', 'ओड ऑन मेलानचोली', 'ओड टू साइकी', 'टू ऑटम'। 'नकारात्मक क्षमता' की अवधारणा = कीट्स।"
     },
     {
       "source": "Pastoral Elegy",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Shelley composed the pastoral elegy Adonais in 55 Spenserian stanzas following the tragic death of John Keats in Rome from tuberculosis at age 25 in February 1821.",
-      "tip_hi": "Famous English Elegies: Lycidas (Milton for Edward King); Adonais (Shelley for John Keats); In Memoriam (Tennyson for Arthur हेनरी Hallam); Thyrsis (Arnold for A.H. Clough)."
+      "explanation_hi": "फरवरी 1821 में 25 वर्ष की आयु में तपेदिक से रोम में जॉन कीट्स की दुखद मृत्यु के बाद शेली ने 55 स्पेंसरियन छंदों में देहाती शोकगीत एडोनिस की रचना की।",
+      "tip_hi": "प्रसिद्ध अंग्रेजी एलिगीज़: लाइकिडास (एडवर्ड किंग के लिए मिल्टन); एडोनिस (जॉन कीट्स के लिए शेली); मेमोरियम में (आर्थर हेनरी हॉलम के लिए टेनीसन); थायर्सिस (ए.एच. क्लॉ के लिए अर्नोल्ड)।"
     },
     {
       "source": "19th Century Novel",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jane Austen (1775–1817) masterfully depicted English landed gentry in domestic novels of manners, including Sense and Sensibility (1811), Pride and Prejudice (1813), and Emma (1815).",
-      "tip_hi": "Austen described her art as working on 'the little bit (two inches wide) of ivory on which I work with so fine a brush.'"
+      "explanation_hi": "जेन ऑस्टेन (1775-1817) ने सेंस एंड सेंसिबिलिटी (1811), प्राइड एंड प्रेजुडिस (1813) और एम्मा (1815) सहित शिष्टाचार के घरेलू उपन्यासों में अंग्रेजी जमींदारों का उत्कृष्ट चित्रण किया।",
+      "tip_hi": "ऑस्टेन ने अपनी कला का वर्णन 'हाथीदांत के छोटे से टुकड़े (दो इंच चौड़े) पर काम करने के रूप में किया, जिस पर मैं बहुत अच्छे ब्रश से काम करता हूं।'"
     },
     {
       "source": "Victorian Poetry",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Alfred, Lord Tennyson spent 17 years writing In Memoriam to grieve the sudden death of his Cambridge friend Arthur हेनरी Hallam. Published in 1850, it led to his appointment as Poet Laureate succeeding Wordsworth.",
-      "tip_hi": "In Memoriam Stanza: iambic tetrameter rhyming abba. Contains the famous line: ''Tis better to have loved and lost / Than never to have loved at all.'"
+      "explanation_hi": "अल्फ्रेड, लॉर्ड टेनीसन ने अपने कैम्ब्रिज मित्र आर्थर हेनरी हॉलम की आकस्मिक मृत्यु पर शोक व्यक्त करने के लिए इन मेमोरियम लिखने में 17 साल बिताए। 1850 में प्रकाशित, इसके कारण उन्हें वर्ड्सवर्थ के बाद कवि पुरस्कार विजेता के रूप में नियुक्त किया गया।",
+      "tip_hi": "मेमोरियम छंद में: आयंबिक टेट्रामीटर तुकबंदी अब्बा। इसमें प्रसिद्ध पंक्ति शामिल है: ''प्यार करना और खो देना बेहतर है / कभी प्यार न करने से बेहतर है।''"
     },
     {
       "source": "Victorian Poetry",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Robert Browning perfected the dramatic monologue in poems like 'My Last Duchess', 'Fra Lippo Lippi', 'Andrea del Sarto', and 'Porphyria's Lover', revealing the speaker's hidden psyche through uninhibited speech to a silent auditor.",
-      "tip_hi": "Dramatic Monologue components: Single speaker (not the poet), specific dramatic crisis, presence of a silent listener, and unwitting revelation of the speaker's true character."
+      "explanation_hi": "रॉबर्ट ब्राउनिंग ने 'माई लास्ट डचेस', 'फ्रा लिप्पो लिप्पी', 'एंड्रिया डेल सार्टो' और 'पोर्फिरीयाज़ लवर' जैसी कविताओं में नाटकीय एकालाप को परिपूर्ण किया, और एक मूक लेखा परीक्षक के सामने निर्भीक भाषण के माध्यम से वक्ता के छिपे हुए मानस को प्रकट किया।",
+      "tip_hi": "नाटकीय एकालाप घटक: एकल वक्ता (कवि नहीं), विशिष्ट नाटकीय संकट, एक मूक श्रोता की उपस्थिति, और वक्ता के वास्तविक चरित्र का अनजाने रहस्योद्घाटन।"
     },
     {
       "source": "Victorian Fiction",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The novel opens with the celebrated line 'It was the best of times, it was the worst of times' and alternates its historical plot between London (England) and Paris (France) during the Reign of Terror.",
-      "tip_hi": "Protagonist Sydney Carton sacrifices his life on the guillotine for Charles Darnay: 'It is a far, far better thing that I do, than I have ever done.'"
+      "explanation_hi": "उपन्यास प्रसिद्ध पंक्ति 'यह सबसे अच्छा समय था, यह सबसे बुरा समय था' के साथ शुरू होता है और आतंक के शासनकाल के दौरान लंदन (इंग्लैंड) और पेरिस (फ्रांस) के बीच अपने ऐतिहासिक कथानक को बदलता है।",
+      "tip_hi": "नायक सिडनी कार्टन ने चार्ल्स डार्ने के लिए गिलोटिन पर अपना जीवन बलिदान कर दिया: 'यह एक बहुत ही बेहतर काम है जो मैं करता हूं, जितना मैंने कभी किया है।'"
     },
     {
       "source": "Victorian Realism",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mary Ann Evans adopted the pen name 'George Eliot' to ensure her serious realist fiction would be judged on its merits rather than dismissed as light domestic female romance. Middlemarch (1871–72) is subtitled 'A Study of Provincial Life'.",
-      "tip_hi": "Victorian Pseudonyms: Mary Ann Evans = George Eliot; Charlotte Brontë = Currer Bell; Emily Brontë = Ellis Bell; Anne Brontë = Acton Bell."
+      "explanation_hi": "मैरी एन इवांस ने 'जॉर्ज एलियट' उपनाम अपनाया ताकि यह सुनिश्चित किया जा सके कि उनके गंभीर यथार्थवादी उपन्यास को हल्के घरेलू महिला रोमांस के रूप में खारिज करने के बजाय उसकी खूबियों के आधार पर आंका जाएगा। मिडिलमार्च (1871-72) का उपशीर्षक 'प्रांतीय जीवन का एक अध्ययन' है।",
+      "tip_hi": "विक्टोरियन छद्मनाम: मैरी एन इवांस = जॉर्ज एलियट; चार्लोट ब्रोंटे = क्यूरर बेल; एमिली ब्रोंटे = एलिस बेल; ऐनी ब्रोंटे = एक्टन बेल।"
     },
     {
       "source": "Hardy & Regional Novel",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Thomas Hardy revived the ancient Anglo-Saxon kingdom name 'Wessex' to designate the regional fictional landscape of south and south-west England where his fatalistic rural tragedies unfold.",
-      "tip_hi": "Literary Geographies: Wessex = Thomas Hardy; Barsetshire = Anthony Trollope; Lake District = Wordsworth; Malgudi = R. K. Narayan; Yoknapatawpha = William Faulkner."
+      "explanation_hi": "थॉमस हार्डी ने दक्षिण और दक्षिण-पश्चिम इंग्लैंड के क्षेत्रीय काल्पनिक परिदृश्य को नामित करने के लिए प्राचीन एंग्लो-सैक्सन साम्राज्य के नाम 'वेसेक्स' को पुनर्जीवित किया, जहां उनकी भाग्यवादी ग्रामीण त्रासदियां सामने आईं।",
+      "tip_hi": "साहित्यिक भूगोल: वेसेक्स = थॉमस हार्डी; बार्सेटशायर = एंथोनी ट्रोलोप; लेक डिस्ट्रिक्ट = वर्ड्सवर्थ; मालगुडी = आर.के. नारायण; योकनापटावफा = विलियम फॉल्कनर।"
     },
     {
       "source": "Late Victorian Drama",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Oscar Wilde's farcical comedy of manners The Importance of Being Earnest, subtitled 'A Trivial Comedy for Serious People', satirizes Victorian earnestness, hypocrisy, and social propriety through characters like Jack Worthing, Algernon, and Lady Bracknell.",
-      "tip_hi": "Wilde was the central figure of the Aesthetic Movement ('Art for Art's Sake' / l'art pour l'art). Famous character: Lady Bracknell and her interrogation about the handbag."
+      "explanation_hi": "ऑस्कर वाइल्ड की शिष्टाचार की हास्यास्पद कॉमेडी द इंपोर्टेंस ऑफ बीइंग अर्नेस्ट, उपशीर्षक 'ए ट्रिवियल कॉमेडी फॉर सीरियस पीपल', जैक वर्थिंग, अल्गर्नन और लेडी ब्रैक्नेल जैसे पात्रों के माध्यम से विक्टोरियन ईमानदारी, पाखंड और सामाजिक औचित्य पर व्यंग्य करती है।",
+      "tip_hi": "वाइल्ड एस्थेटिक मूवमेंट ('कला के लिए कला'/ल'आर्ट पौर ल'आर्ट) का केंद्रीय व्यक्ति था। प्रसिद्ध चरित्र: लेडी ब्रैकनेल और हैंडबैग के बारे में उनसे पूछताछ।"
     },
     {
       "source": "Victorian Critical Poetry",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 'Dover Beach' (1867), Arnold uses the pebble-strewn beach of Dover at night to symbolize the retreat of religious faith, concluding that humanity is stranded 'as on a darkling plain / Swept with confused alarms of struggle and flight.'",
-      "tip_hi": "'Sea of Faith' receding + 'melancholy, long, withdrawing roar' = Matthew Arnold's 'Dover Beach'."
+      "explanation_hi": "'डोवर बीच' (1867) में, अर्नोल्ड धार्मिक आस्था की वापसी के प्रतीक के रूप में रात में डोवर के कंकड़-बिखरे समुद्र तट का उपयोग करता है, जिससे यह निष्कर्ष निकलता है कि मानवता 'एक अंधेरे मैदान पर फंसी हुई है / संघर्ष और उड़ान के भ्रमित अलार्म के साथ बह गई है।'",
+      "tip_hi": "'आस्था का सागर' पीछे हट रहा है + 'उदासी, लंबी, पीछे हटती दहाड़' = मैथ्यू अर्नोल्ड का 'डोवर बीच'।"
     },
     {
       "source": "Modernist Poetry",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Section I of The Waste Land ('The Burial of the Dead') begins: 'April is the cruellest month, breeding / Lilacs out of the dead land, mixing / Memory and desire', inverting Chaucer's joyful spring opening in the Canterbury Tales.",
-      "tip_hi": "The Waste Land has 5 sections: 1. The Burial of the Dead; 2. A Game of Chess; 3. The Fire Sermon; 4. Death by Water; 5. What the Thunder Said. Dedicated to Ezra Pound ('il miglior fabbro')."
+      "explanation_hi": "द वेस्ट लैंड ('द बरिअल ऑफ द डेड') का खंड I शुरू होता है: 'अप्रैल सबसे क्रूर महीना है, प्रजनन / मृत भूमि से लीलैक, मिश्रण / स्मृति और इच्छा', जो कैंटरबरी टेल्स में चौसर के आनंदमय वसंत के उद्घाटन को दर्शाता है।",
+      "tip_hi": "बंजर भूमि में 5 खंड हैं: 1. मृतकों का दफ़नाना; 2. शतरंज का खेल; 3. अग्नि उपदेश; 4. जल से मृत्यु; 5. थंडर ने क्या कहा। एज्रा पाउंड ('इल मिग्लियोर फैब्रो') को समर्पित।"
     },
     {
       "source": "Modernist Fiction",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "James Joyce's monumental novel Ulysses (1922) chronicles the encounters of Leopold Bloom, Stephen Dedalus, and Molly Bloom in Dublin over the course of Thursday, 16 June 1904 (now celebrated internationally as 'Bloomsday').",
-      "tip_hi": "Ulysses parallels Homer's Odyssey across 18 episodes and concludes with Molly Bloom's unpunctuated 8-sentence stream-of-consciousness soliloquy ending in 'yes I said yes I will Yes.'"
+      "explanation_hi": "जेम्स जॉयस का स्मारकीय उपन्यास यूलिसिस (1922) गुरुवार, 16 जून 1904 (अब अंतरराष्ट्रीय स्तर पर 'ब्लूम्सडे' के रूप में मनाया जाता है) के दौरान डबलिन में लियोपोल्ड ब्लूम, स्टीफन डेडलस और मौली ब्लूम की मुठभेड़ों का वर्णन करता है।",
+      "tip_hi": "यूलिसिस 18 एपिसोड में होमर के ओडिसी की बराबरी करता है और मौली ब्लूम की अप्रकाशित 8-वाक्य धारा-चेतना के भाषण के साथ समाप्त होता है, जिसका अंत 'हां, मैंने कहा हां, मैं हां करूंगा।'"
     },
     {
       "source": "20th Century Drama",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Irish playwright Samuel Beckett wrote Waiting for Godot (originally in French as En attendant Godot), where two tramps, Vladimir and Estragon, endlessly wait by a solitary tree for a mysterious figure named Godot who never arrives.",
-      "tip_hi": "Critic Vivian Mercier famously summarized Waiting for Godot: 'a play where nothing happens, twice.' Key term: Theatre of the Absurd (coined by Martin Esslin).\nSECTION 2: LITERARY CRITICISM, THEORY, INDIAN WRITING IN ENGLISH & AMERICAN LITERATURE (Q.29 to Q.55)"
+      "explanation_hi": "आयरिश नाटककार सैमुअल बेकेट ने वेटिंग फॉर गोडोट (मूल रूप से फ्रेंच में एन अटेंडेंट गोडोट के रूप में) लिखा है, जहां दो आवारा, व्लादिमीर और एस्ट्रागन, गोडोट नामक एक रहस्यमय व्यक्ति के लिए एक अकेले पेड़ के पास अंतहीन इंतजार करते हैं जो कभी नहीं आता है।",
+      "tip_hi": "आलोचक विवियन मर्सिएर ने वेटिंग फॉर गोडोट का प्रसिद्ध सारांश प्रस्तुत किया: 'एक नाटक जहां कुछ भी नहीं होता, दो बार।' मुख्य शब्द: थिएटर ऑफ़ द एब्सर्ड (मार्टिन एस्लिन द्वारा गढ़ा गया)।\nखंड 2: साहित्यिक आलोचना, सिद्धांत, अंग्रेजी और अमेरिकी साहित्य में भारतीय लेखन (प्र.29 से प्र.55)"
     },
     {
       "source": "Classical Criticism (Aristotle)",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aristotle uses the Greek medical/ritual term 'Catharsis' (katharsis) to designate the therapeutic emotional purgation or purification of pity (eleos) and fear (phobos) experienced by the tragic audience.",
-      "tip_hi": "Aristotelian Tragedy terms: Catharsis = emotional purgation; Hamartia = tragic error of judgment; Anagnorisis = recognition/discovery; Peripeteia = reversal of fortune; Hubris = insolent pride."
+      "explanation_hi": "अरस्तू ग्रीक चिकित्सा/अनुष्ठान शब्द 'कैथार्सिस' (कैथार्सिस) का उपयोग दुखद दर्शकों द्वारा अनुभव किए गए दया (एलोस) और भय (फ़ोबोस) के चिकित्सीय भावनात्मक शुद्धिकरण या शुद्धिकरण को निर्दिष्ट करने के लिए करता है।",
+      "tip_hi": "अरिस्टोटेलियन त्रासदी शब्द: रेचन = भावनात्मक शुद्धिकरण; हामार्टिया = निर्णय की दुखद त्रुटि; एनाग्नोरिसिस = पहचान/खोज; पेरिपेटिया = भाग्य का उलटफेर; अभिमान = घृणित अभिमान।"
     },
     {
       "source": "Classical Poetics",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hamartia (derived from Greek for 'missing the mark' in archery) denotes the tragic flaw, miscalculation, or moral blindness that brings about the tragic protagonist's ruin.",
-      "tip_hi": "Othello's credulous jealousy, Hamlet's procrastination, and Macbeth's vaulting ambition are classic Shakespearean examples of Hamartia."
+      "explanation_hi": "हामार्टिया (तीरंदाजी में 'निशान चूकने' के लिए ग्रीक से लिया गया) दुखद दोष, गलत अनुमान या नैतिक अंधापन को दर्शाता है जो दुखद नायक के विनाश का कारण बनता है।",
+      "tip_hi": "ओथेलो की विश्वसनीय ईर्ष्या, हैमलेट की शिथिलता, और मैकबेथ की आक्रामक महत्वाकांक्षा हामार्टिया के क्लासिक शेक्सपियरियन उदाहरण हैं।"
     },
     {
       "source": "Coleridge's Literary Theory",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Chapter XIII of Biographia Literaria, Coleridge introduces both distinctions: first, between Fancy (a mechanical, aggregating mode of memory) and Imagination (creative, synthetic power); and second, subdividing Imagination into 'Primary' (universal perception) and 'Secondary' (conscious artistic creation).",
-      "tip_hi": "Because Coleridge formulates BOTH the Fancy vs. Imagination distinction and the Primary vs. Secondary Imagination division, BPSC Option (D) is triggered."
+      "explanation_hi": "बायोग्राफिया लिटरेरिया के अध्याय XIII में, कोलरिज ने दोनों भेदों का परिचय दिया है: पहला, फैंसी (स्मृति का एक यांत्रिक, एकत्रित मोड) और कल्पना (रचनात्मक, सिंथेटिक शक्ति) के बीच; और दूसरा, कल्पना को 'प्राथमिक' (सार्वभौमिक धारणा) और 'माध्यमिक' (सचेत कलात्मक रचना) में उपविभाजित करना।",
+      "tip_hi": "क्योंकि कोलरिज फैंसी बनाम इमेजिनेशन भेद और प्राथमिक बनाम सेकेंडरी इमेजिनेशन डिवीजन दोनों को तैयार करता है, बीपीएससी विकल्प (डी) ट्रिगर होता है।"
     },
     {
       "source": "Romantic Criticism",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Chapter XIV of Biographia Literaria, Coleridge explains that in his contributions to Lyrical Ballads (such as 'The Ancient Mariner'), his endeavor was to transfer human interest to supernatural incidents, procuring 'that willing suspension of disbelief for the moment, which constitutes poetic faith.'",
-      "tip_hi": "Match critical concepts to authors: Willing suspension of disbelief = Coleridge; Negative Capability = Keats; Objective Correlative = T. S. Eliot; Touchstone Method = Matthew Arnold."
+      "explanation_hi": "बायोग्राफिया लिटरेरिया के अध्याय XIV में, कोलरिज बताते हैं कि गीतात्मक गाथागीत (जैसे 'द एंशिएंट मेरिनर') में उनके योगदान में, उनका प्रयास मानवीय रुचि को अलौकिक घटनाओं में स्थानांतरित करना था, 'क्षण के लिए अविश्वास का वह इच्छुक निलंबन, जो काव्यात्मक विश्वास का गठन करता है।'",
+      "tip_hi": "लेखकों के साथ आलोचनात्मक अवधारणाओं का मिलान करें: अविश्वास का इच्छुक निलंबन = कोलरिज; नकारात्मक क्षमता = कीट्स; उद्देश्य सहसंबद्ध = टी.एस. एलियट; टचस्टोन विधि = मैथ्यू अर्नोल्ड।"
     },
     {
       "source": "T. S. Eliot's Criticism",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 'Hamlet and His Problems' (1919), Eliot defined the 'objective correlative' as 'a set of objects, a situation, a chain of events which shall be the formula of that particular emotion', infamously declaring Shakespeare's Hamlet 'an artistic failure' because Hamlet's emotion exceeded the facts.",
-      "tip_hi": "Eliot's landmark essays: 'Hamlet and His Problems' (Objective Correlative); 'The Metaphysical Poets' (Dissociation of Sensibility); 'Tradition and the Individual Talent' (Impersonal theory of poetry)."
+      "explanation_hi": "'हेमलेट एंड हिज प्रॉब्लम्स' (1919) में, एलियट ने 'उद्देश्य सहसंबंध' को 'वस्तुओं का एक सेट, एक स्थिति, घटनाओं की एक श्रृंखला जो उस विशेष भावना का सूत्र होगा' के रूप में परिभाषित किया, कुख्यात रूप से शेक्सपियर के हेमलेट को 'एक कलात्मक विफलता' घोषित किया क्योंकि हेमलेट की भावना तथ्यों से अधिक थी।",
+      "tip_hi": "एलियट के ऐतिहासिक निबंध: 'हेमलेट और उसकी समस्याएं' (उद्देश्य सहसंबद्ध); 'द मेटाफिजिकल पोएट्स' (संवेदनशीलता का विघटन); 'परंपरा और व्यक्तिगत प्रतिभा' (कविता का अवैयक्तिक सिद्धांत)।"
     },
     {
       "source": "Modernist Criticism",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 'The Metaphysical Poets' (1921), Eliot argued that poets like Donne possessed a mechanism of sensibility that could devour any kind of experience ('they felt their thought as immediately as the odour of a rose'), but in the 17th century a 'dissociation of sensibility' set in from Milton and Dryden onward.",
-      "tip_hi": "Unified Sensibility = Metaphysical poets (thought and feeling fused); Dissociation of Sensibility = Post-Restoration poetry (intellect and emotion split)."
+      "explanation_hi": "'द मेटाफिजिकल पोएट्स' (1921) में, एलियट ने तर्क दिया कि डोने जैसे कवियों के पास संवेदनशीलता का एक तंत्र था जो किसी भी प्रकार के अनुभव को निगल सकता था ('उन्हें अपने विचार तुरंत गुलाब की गंध की तरह महसूस होते थे'), लेकिन 17 वीं शताब्दी में मिल्टन और ड्राइडन के बाद से 'संवेदनशीलता का पृथक्करण' शुरू हो गया।",
+      "tip_hi": "एकीकृत संवेदनशीलता = आध्यात्मिक कवि (विचार और भावना जुड़े हुए); संवेदनशीलता का विच्छेदन = पुनर्स्थापन के बाद की कविता (बुद्धि और भावना का विभाजन)।"
     },
     {
       "source": "New Criticism",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 'The Intentional Fallacy' (1946), Wimsatt and Beardsley argued that an author's design or intention is neither available nor desirable as a standard for judging the success of a work of literary art. In 'The Affective Fallacy' (1949), they argued against judging poetry by its psychological emotional effect on the reader.",
-      "tip_hi": "Wimsatt & Beardsley's two fallacies: Intentional Fallacy = confusing the poem with its author's intent; Affective Fallacy = confusing the poem with its emotional effect on the reader."
+      "explanation_hi": "'द इंटेंशनल फॉलसी' (1946) में, विम्सट और बियर्डस्ले ने तर्क दिया कि किसी लेखक का डिज़ाइन या इरादा साहित्यिक कला के काम की सफलता का आकलन करने के लिए एक मानक के रूप में न तो उपलब्ध है और न ही वांछनीय है। 'द अफेक्टिव फॉलसी' (1949) में, उन्होंने पाठक पर इसके मनोवैज्ञानिक भावनात्मक प्रभाव के आधार पर कविता का मूल्यांकन करने के खिलाफ तर्क दिया।",
+      "tip_hi": "विम्सैट और बियर्डस्ले की दो भ्रांतियाँ: जानबूझकर भ्रांति = कविता को उसके लेखक के इरादे से भ्रमित करना; भावात्मक भ्रांति = पाठक पर अपने भावनात्मक प्रभाव से कविता को भ्रमित करना।"
     },
     {
       "source": "Postcolonial Theory",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Palestinian-American scholar Edward Said published Orientalism in 1978, drawing upon Michel Foucault's concepts of discourse and power to demonstrate how Western colonial scholarship systematically produced an ideologically biased representation of the Orient.",
-      "tip_hi": "Postcolonial Trinity: Edward Said (Orientalism); Homi Bhabha (Hybridity, Mimicry, Third Space); Gayatri Spivak ('Can the Subaltern Speak?', Strategic Essentialism)."
+      "explanation_hi": "फिलीस्तीनी-अमेरिकी विद्वान एडवर्ड सईद ने 1978 में ओरिएंटलिज्म प्रकाशित किया, जिसमें मिशेल फौकॉल्ट की प्रवचन और शक्ति की अवधारणाओं पर आधारित यह प्रदर्शित किया गया कि कैसे पश्चिमी औपनिवेशिक विद्वता ने व्यवस्थित रूप से ओरिएंट का एक वैचारिक रूप से पक्षपाती प्रतिनिधित्व तैयार किया।",
+      "tip_hi": "उत्तर औपनिवेशिक त्रिमूर्ति: एडवर्ड ने कहा (प्राच्यवाद); होमी भाभा (हाइब्रिडिटी, मिमिक्री, थर्ड स्पेस); गायत्री स्पिवक ('क्या सबाल्टर्न बोल सकते हैं?', रणनीतिक अनिवार्यतावाद)।"
     },
     {
       "source": "Subaltern Studies & Theory",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gayatri Chakravorty Spivak's influential essay examines how colonial archives and indigenous patriarchal structures mutually silence the subaltern woman, illustrated through the historical prohibition of Sati in colonial India.",
-      "tip_hi": "The term 'Subaltern' was originally borrowed from Marxist theorist Antonio Gramsci's Prison Notebooks to denote socially subordinated, disenfranchised groups."
+      "explanation_hi": "गायत्री चक्रवर्ती स्पिवक का प्रभावशाली निबंध इस बात की जांच करता है कि कैसे औपनिवेशिक अभिलेखागार और स्वदेशी पितृसत्तात्मक संरचनाएं पारस्परिक रूप से निम्नवर्गीय महिला को चुप कराती हैं, जो औपनिवेशिक भारत में सती के ऐतिहासिक निषेध के माध्यम से चित्रित किया गया है।",
+      "tip_hi": "'सबाल्टर्न' शब्द मूल रूप से सामाजिक रूप से अधीनस्थ, वंचित समूहों को दर्शाने के लिए मार्क्सवादी सिद्धांतकार एंटोनियो ग्राम्सी की जेल नोटबुक से लिया गया था।"
     },
     {
       "source": "Deconstruction & Theory",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jacques Derrida's lecture challenged structuralism's belief in a fixed, transcendent center or origin in linguistic structures, introducing key deconstructive concepts such as 'decentering', 'play', and later 'différance'.",
-      "tip_hi": "Derrida coined 'Différance' (combining differing and deferring of meaning) and wrote Of Grammatology (1967). Famous quote: 'There is nothing outside the text' (Il n'y a pas de hors-texte)."
+      "explanation_hi": "जैक्स डेरिडा के व्याख्यान ने भाषाई संरचनाओं में एक निश्चित, पारलौकिक केंद्र या उत्पत्ति में संरचनावाद के विश्वास को चुनौती दी, जिसमें 'डिसेंटरिंग', 'प्ले' और बाद में 'डिफरेंस' जैसी प्रमुख डिकंस्ट्रक्टिव अवधारणाओं को पेश किया गया।",
+      "tip_hi": "डेरिडा ने 'डिफ़रेंस' (अर्थ को अलग और अलग करने का संयोजन) गढ़ा और ऑफ़ ग्रामेटोलॉजी (1967) लिखा। प्रसिद्ध उद्धरण: 'पाठ के बाहर कुछ भी नहीं है' (Il n'y a pas de hors-texte)।"
     },
     {
       "source": "Indian Writing in English",
@@ -1058,7 +1058,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "रवींद्रनाथ टैगोर became the first non-European Nobel laureate in Literature in 1913 for Gitanjali (Song Offerings), published in English translation in 1912 with an introduction by W. B. Yeats.",
-      "tip_hi": "Gitanjali contains 103 English prose poems translated by Tagore himself from his Bengali collections (Gitanjali, Gitimalya, Naivedya). Opens with 'Thou hast made me endless, such is thy pleasure.'"
+      "tip_hi": "गीतांजलि में 103 अंग्रेजी गद्य कविताएँ शामिल हैं जिनका अनुवाद स्वयं टैगोर ने अपने बंगाली संग्रहों (गीतांजलि, गीतिमाल्य, नैवेद्य) से किया है। 'तूने मुझे अनंत बना दिया है, ऐसा तेरा आनंद है।' से आरंभ होता है।"
     },
     {
       "source": "Indian English Novel",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mulk Raj Anand, one of the foundational 'Big Three' of Indian English fiction, wrote Untouchable (depicting a single day in the life of Bakha, a latrine cleaner) with a preface by E. M. Forster, and Coolie (chronicling Munoo's tragic exploitation).",
-      "tip_hi": "The 'Big Three' of Indian English Novel: Mulk Raj Anand (social realism & protest), R. K. Narayan (gentle irony in Malgudi), and Raja Rao (philosophical & metaphysical prose)."
+      "explanation_hi": "भारतीय अंग्रेजी कथा साहित्य के संस्थापक 'बिग थ्री' में से एक, मुल्क राज आनंद ने ई. एम. फोर्स्टर की प्रस्तावना के साथ अनटचेबल (शौचालय साफ करने वाले बखा के जीवन के एक दिन का चित्रण) और कुली (मुनू के दुखद शोषण का विवरण) लिखी।",
+      "tip_hi": "भारतीय अंग्रेजी उपन्यास के 'बिग थ्री': मुल्क राज आनंद (सामाजिक यथार्थवाद और विरोध), आर. के. नारायण (मालगुडी में सौम्य व्यंग्य), और राजा राव (दार्शनिक और आध्यात्मिक गद्य)।"
     },
     {
       "source": "R. K. Narayan & Malgudi",
@@ -1111,8 +1111,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "R. K. Narayan introduced the idyllic, microcosmic fictional town of Malgudi in his debut novel Swami and Friends (1935), subsequently setting almost all his novels and short stories (The Guide, The Bachelor of Arts, The English Teacher) there.",
-      "tip_hi": "R. K. Narayan won the Sahitya Akademi Award in 1960 for The Guide (adapted into the iconic 1965 film starring Dev Anand)."
+      "explanation_hi": "आर.के. नारायण ने अपने पहले उपन्यास स्वामी एंड फ्रेंड्स (1935) में मालगुडी के रमणीय, सूक्ष्म काल्पनिक शहर का परिचय दिया, बाद में अपने लगभग सभी उपन्यास और लघु कथाएँ (द गाइड, द बैचलर ऑफ आर्ट्स, द इंग्लिश टीचर) वहीं स्थापित कीं।",
+      "tip_hi": "आर. के. नारायण ने 1960 में द गाइड (देव आनंद अभिनीत प्रतिष्ठित 1965 फिल्म पर आधारित) के लिए साहित्य अकादमी पुरस्कार जीता।"
     },
     {
       "source": "Raja Rao & Gandhian Novel",
@@ -1139,7 +1139,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Kanthapura is narrated in the oral Sthala-purana style of traditional Harikatha by the grandmotherly narrator Achakka, chronicling young Moorthy's mobilization of the villagers under महात्मा गांधी's call.",
-      "tip_hi": "Raja Rao's famous Foreword to Kanthapura: 'We cannot write like the English. We should not. We cannot write only as Indians... Our method of expression has to be a dialect which will some day prove to be as distinctive and colorful as the Irish or the American.'"
+      "tip_hi": "कंथापुरा में राजा राव की प्रसिद्ध प्रस्तावना: 'हम अंग्रेजों की तरह नहीं लिख सकते। हमें नहीं। हम केवल भारतीय के रूप में नहीं लिख सकते... हमारी अभिव्यक्ति की पद्धति एक बोली होनी चाहिए जो किसी दिन आयरिश या अमेरिकी की तरह विशिष्ट और रंगीन साबित होगी।'"
     },
     {
       "source": "Indian English Poetry",
@@ -1165,8 +1165,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "'Night of the Scorpion' (from The Exact Name, 1965) dramatizes a mother being stung by a scorpion on a rainy night, contrasting peasant folk rituals ('May the sins of your previous birth be burned away tonight') with the skeptical father's rationalist remedies, ending with the mother's selfless blessing.",
-      "tip_hi": "Ezekiel's poetic volumes: A Time to Change (1952), The Unfinished Man (1960), The Exact Name (1965), Hymns in Darkness (1976)."
+      "explanation_hi": "'नाईट ऑफ द स्कॉर्पियन' (द एक्जेक्ट नेम, 1965 से) एक बरसात की रात में एक माँ को बिच्छू द्वारा काटे जाने का नाटक करता है, जो किसान लोक अनुष्ठानों ('आज रात आपके पिछले जन्म के पापों को जला दिया जाए') को संशयवादी पिता के तर्कवादी उपचारों के साथ विपरीत करता है, जो माँ के निस्वार्थ आशीर्वाद के साथ समाप्त होता है।",
+      "tip_hi": "ईजेकील के काव्य खंड: ए टाइम टू चेंज (1952), द अनफिनिश्ड मैन (1960), द एक्जेक्ट नेम (1965), हाइमन्स इन डार्कनेस (1976)।"
     },
     {
       "source": "Confessional Poetry",
@@ -1192,8 +1192,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kamala Das (also known as Kamala Surayya / Madhavikutty) revolutionized Indian confessional poetry by boldly expressing female sexuality, personal identity, and emotional rebellion against patriarchal domesticity in 'An Introduction' ('I am Indian, very brown, born in Malabar...').",
-      "tip_hi": "Key line from 'An Introduction': 'The language I speak / Becomes mine, its distortions, its queernesses / All mine, mine alone.' Confessional poets: Kamala Das, Sylvia Plath, Anne Sexton, Robert Lowell."
+      "explanation_hi": "कमला दास (जिन्हें कमला सुरैया/माधवीकुट्टी के नाम से भी जाना जाता है) ने 'एन इंट्रोडक्शन' ('मैं भारतीय हूं, बहुत भूरी हूं, मालाबार में पैदा हुई हूं...') में महिला कामुकता, व्यक्तिगत पहचान और पितृसत्तात्मक घरेलूता के खिलाफ भावनात्मक विद्रोह को साहसपूर्वक व्यक्त करके भारतीय इकबालिया कविता में क्रांति ला दी।",
+      "tip_hi": "'एन इंट्रोडक्शन' की मुख्य पंक्ति: 'जो भाषा मैं बोलता हूं/वह मेरी हो जाती है, उसकी विकृतियां, उसकी विचित्रताएं/सब मेरा, सिर्फ मेरा।' कन्फ़ेशनल कवि: कमला दास, सिल्विया प्लाथ, ऐनी सेक्स्टन, रॉबर्ट लोवेल।"
     },
     {
       "source": "Contemporary Postcolonial Fiction",
@@ -1219,8 +1219,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Saleem Sinai, born at the stroke of midnight on 15 August 1947, possesses telepathic powers connecting him to all 1,001 children born during India's first hour of independence, making his personal biography an allegory of the nation's political history.",
-      "tip_hi": "Midnight's Children popularized Magic Realism in Indian English literature, won the Booker Prize in 1981, and received the 25th and 40th anniversary 'Booker of Bookers' awards."
+      "explanation_hi": "15 अगस्त 1947 की आधी रात को पैदा हुए सलीम सिनाई के पास टेलीपैथिक शक्तियां हैं जो उन्हें भारत की आजादी के पहले घंटे के दौरान पैदा हुए सभी 1,001 बच्चों से जोड़ती हैं, जिससे उनकी व्यक्तिगत जीवनी देश के राजनीतिक इतिहास का रूपक बन जाती है।",
+      "tip_hi": "मिडनाइट्स चिल्ड्रेन ने भारतीय अंग्रेजी साहित्य में जादुई यथार्थवाद को लोकप्रिय बनाया, 1981 में बुकर पुरस्कार जीता और 25वीं और 40वीं वर्षगांठ पर 'बुकर ऑफ बुकर्स' पुरस्कार प्राप्त किया।"
     },
     {
       "source": "Contemporary Indian Fiction",
@@ -1246,8 +1246,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Arundhati Roy's semi-autobiographical lyrical novel The God of Small Things (1997) tells the tragic story of two dizygotic twins, Rahel and Estha, and their mother Ammu's forbidden inter-caste love with Velutha ('The God of Small Things').",
-      "tip_hi": "The novel explores the transgressions of 'Love Laws' that dictate 'who should be loved, and how, and how much.' Roy was the first resident Indian citizen to win the Booker Prize."
+      "explanation_hi": "अरुंधति रॉय का अर्ध-आत्मकथात्मक गीतात्मक उपन्यास द गॉड ऑफ स्मॉल थिंग्स (1997) दो द्वियुग्मज जुड़वां बच्चों राहेल और एस्था और उनकी मां अम्मू के वेलुथा ('द गॉड ऑफ स्मॉल थिंग्स') के साथ वर्जित अंतरजातीय प्रेम की दुखद कहानी बताता है।",
+      "tip_hi": "उपन्यास 'प्रेम कानूनों' के उल्लंघनों की पड़ताल करता है जो यह तय करते हैं कि 'किससे, और कैसे, और कितना प्यार किया जाना चाहिए।' रॉय बुकर पुरस्कार जीतने वाले पहले भारतीय नागरिक थे।"
     },
     {
       "source": "Early Indian English Poetry",
@@ -1274,7 +1274,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Sarojini Naidu was given the sobriquet 'Bharat Kokila' by महात्मा गांधी for the musical and rhythmic quality of her poems on Indian folk life ('Palanquin Bearers', 'In the Bazaars of Hyderabad', 'Coromandel Fishers').",
-      "tip_hi": "Sarojini Naidu was the first Indian woman to become President of the Indian National Congress (Kanpur Session, 1925) and the first woman Governor of Uttar Pradesh."
+      "tip_hi": "सरोजिनी नायडू भारतीय राष्ट्रीय कांग्रेस (कानपुर अधिवेशन, 1925) की अध्यक्ष बनने वाली पहली भारतीय महिला और उत्तर प्रदेश की पहली महिला राज्यपाल थीं।"
     },
     {
       "source": "19th-Century Indian English Poetry",
@@ -1300,8 +1300,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Toru Dutt (1856–1877), writing in both English and French, authored 'Our Casuarina Tree', immortalizing the tree in her garden at Baugmaree as a symbol of nostalgic childhood memory and lost siblings (Abju and Aru).",
-      "tip_hi": "'Our Casuarina Tree' blends the Romantic Keatsian ode style with Indian devotional and nature imagery, ending with a prayer that the tree be spared from oblivion."
+      "explanation_hi": "टोरू दत्त (1856-1877) ने अंग्रेजी और फ्रेंच दोनों भाषाओं में लिखते हुए 'आवर कैसुरीना ट्री' लिखा, जिसने बौग्मेरी में अपने बगीचे के पेड़ को बचपन की पुरानी यादों और खोए हुए भाई-बहनों (अब्जू और अरु) के प्रतीक के रूप में अमर बना दिया।",
+      "tip_hi": "'हमारा कैसुरीना ट्री' रोमांटिक कीट्सियन कविता शैली को भारतीय भक्ति और प्रकृति चित्रण के साथ मिश्रित करता है, जिसका अंत इस प्रार्थना के साथ होता है कि पेड़ को गुमनामी से बचाया जाए।"
     },
     {
       "source": "American Transcendentalism",
@@ -1327,8 +1327,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ralph Waldo Emerson led the Transcendentalist movement in 19th-century New England, emphasizing self-reliance, the divine presence in nature, and the 'Over-Soul' in his 1836 book Nature and 1841 essay 'Self-Reliance'.",
-      "tip_hi": "Famous quote from Emerson's 'Self-Reliance': 'Whoso would be a man, must be a nonconformist.' Thoreau put Emerson's philosophy into practice at Walden Pond."
+      "explanation_hi": "राल्फ वाल्डो एमर्सन ने 19वीं सदी के न्यू इंग्लैंड में ट्रान्सेंडैंटलिस्ट आंदोलन का नेतृत्व किया, जिसमें उन्होंने अपनी 1836 की पुस्तक नेचर और 1841 के निबंध 'सेल्फ-रिलायंस' में आत्मनिर्भरता, प्रकृति में दैवीय उपस्थिति और 'ओवर-सोल' पर जोर दिया।",
+      "tip_hi": "इमर्सन की 'सेल्फ-रिलायंस' का प्रसिद्ध उद्धरण: 'जो कोई भी आदमी होगा, वह एक गैर-अनुरूपवादी होगा।' थोरो ने एमर्सन के दर्शन को वाल्डेन पॉन्ड में व्यवहार में लाया।"
     },
     {
       "source": "American Romanticism",
@@ -1354,8 +1354,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Scarlet Letter (1850) is set in 17th-century Puritan Boston. Hester Prynne is forced to wear the scarlet letter 'A' on her bosom for adultery, while her secret lover, Reverend Arthur Dimmesdale, dies tormented by unconfessed guilt.",
-      "tip_hi": "The letter 'A' shifts symbolic meaning throughout the novel: Adultery -> Able -> Angel. Major characters: Hester Prynne, Arthur Dimmesdale, Roger Chillingworth, Pearl."
+      "explanation_hi": "द स्कार्लेट लेटर (1850) 17वीं सदी के प्यूरिटन बोस्टन में स्थापित है। हेस्टर प्रिन को व्यभिचार के लिए अपनी छाती पर लाल रंग का अक्षर 'ए' पहनने के लिए मजबूर किया जाता है, जबकि उसका गुप्त प्रेमी, रेवरेंड आर्थर डिम्सडेल, अघोषित अपराध से पीड़ित होकर मर जाता है।",
+      "tip_hi": "अक्षर 'ए' पूरे उपन्यास में प्रतीकात्मक अर्थ बदल देता है: व्यभिचार -> सक्षम -> देवदूत। प्रमुख पात्र: हेस्टर प्रिने, आर्थर डिम्सडेल, रोजर चिलिंगवर्थ, पर्ल।"
     },
     {
       "source": "19th Century American Fiction",
@@ -1381,8 +1381,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Melville's dedication reads: 'In token of my admiration for his genius, this book is inscribed to Nathaniel Hawthorne.' The novel chronicles Captain Ahab's obsessive pursuit of the white whale, Moby Dick, aboard the ship Pequod.",
-      "tip_hi": "Moby-Dick opens with one of the most famous first lines in world literature: 'Call me Ishmael.'"
+      "explanation_hi": "मेलविले के समर्पण में लिखा है: 'उनकी प्रतिभा के प्रति मेरी प्रशंसा के प्रतीक के रूप में, यह पुस्तक नाथनियल हॉथोर्न को लिखी गई है।' उपन्यास में कैप्टन अहाब द्वारा पेक्वॉड जहाज पर सफेद व्हेल, मोबी डिक की जुनूनी खोज का वर्णन किया गया है।",
+      "tip_hi": "मोबी-डिक विश्व साहित्य की सबसे प्रसिद्ध पहली पंक्तियों में से एक के साथ शुरुआत करता है: 'मुझे इश्माएल बुलाओ।'"
     },
     {
       "source": "American Poetry",
@@ -1408,8 +1408,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Walt Whitman self-published the first edition of Leaves of Grass in 1855 containing 12 untitled poems (including 'Song of Myself'). He spent the rest of his life revising and expanding it through nine successive editions until the 1892 'Deathbed Edition'.",
-      "tip_hi": "Whitman is the 'Father of Free Verse' in American poetry. His celebrated elegies on Abraham Lincoln: 'O Captain! My Captain!' (rhymed) and 'When Lilacs Last in the Dooryard Bloom'd' (free verse)."
+      "explanation_hi": "वॉल्ट व्हिटमैन ने 1855 में लीव्स ऑफ ग्रास का पहला संस्करण स्वयं प्रकाशित किया जिसमें 12 शीर्षक रहित कविताएं ('सॉन्ग ऑफ माईसेल्फ' सहित) शामिल थीं। उन्होंने अपना शेष जीवन 1892 के 'डेथबेड संस्करण' तक लगातार नौ संस्करणों के माध्यम से इसे संशोधित और विस्तारित करने में बिताया।",
+      "tip_hi": "व्हिटमैन अमेरिकी कविता में 'मुक्त छंद के जनक' हैं। अब्राहम लिंकन पर उनकी प्रसिद्ध शोकगीत: 'हे कप्तान! मेरे कप्तान!' (तुकबंदी) और 'व्हेन लिलैक्स लास्ट इन द डोरयार्ड ब्लूमड' (मुक्त छंद)।"
     },
     {
       "source": "The Lost Generation & 1920s",
@@ -1435,8 +1435,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Great Gatsby (1925), narrated by Nick Carraway, depicts the tragic romantic obsession of self-made millionaire Jay Gatsby with Daisy Buchanan on Long Island during the Roaring Twenties.",
-      "tip_hi": "Key symbols: The green light at the end of Daisy's dock (yearning/American Dream), the Eyes of Dr. T. J. Eckleburg (indifferent divine judgment), the Valley of Ashes."
+      "explanation_hi": "निक कैरवे द्वारा सुनाई गई द ग्रेट गैट्सबी (1925) में रोअरिंग ट्वेंटीज़ के दौरान लॉन्ग आइलैंड पर डेज़ी बुकानन के साथ स्व-निर्मित करोड़पति जे गैट्सबी के दुखद रोमांटिक जुनून को दर्शाया गया है।",
+      "tip_hi": "मुख्य प्रतीक: डेज़ी की गोदी के अंत में हरी रोशनी (लालसा/अमेरिकी सपना), डॉ. टी. जे. एकलेबर्ग की आंखें (उदासीन दैवीय निर्णय), राख की घाटी।"
     },
     {
       "source": "American Modernist Prose",
@@ -1462,8 +1462,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ernest Hemingway practiced the 'Iceberg Theory'—a minimalist, journalistic style where background emotion and profound thematic depth remain unstated beneath terse, declarative surface prose. He won the 1954 Nobel Prize after publishing The Old Man and the Sea (1952).",
-      "tip_hi": "Hemingway Hero code: 'A man can be destroyed but not defeated' (uttered by Santiago in The Old Man and the Sea)."
+      "explanation_hi": "अर्नेस्ट हेमिंग्वे ने 'आइसबर्ग थ्योरी' का अभ्यास किया - एक न्यूनतम, पत्रकारिता शैली जहां पृष्ठभूमि की भावना और गहन विषयगत गहराई संक्षिप्त, घोषणात्मक सतही गद्य के नीचे अस्थिर रहती है। उन्होंने द ओल्ड मैन एंड द सी (1952) प्रकाशित करने के बाद 1954 में नोबेल पुरस्कार जीता।",
+      "tip_hi": "हेमिंग्वे हीरो कोड: 'एक आदमी को नष्ट किया जा सकता है लेकिन हराया नहीं' (द ओल्ड मैन एंड द सी में सैंटियागो द्वारा कहा गया)।"
     },
     {
       "source": "Modern American Drama",
@@ -1489,8 +1489,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Willy Loman, an aging traveling salesman, is destroyed by his hollow belief that superficial charm and 'being well-liked' guarantee prosperity, ultimately committing suicide so his सोन नदी Biff can collect his $20,000 life insurance policy.",
-      "tip_hi": "Arthur Miller defined modern common tragedy in his companion essay 'Tragedy and the Common Man' (1949), arguing that the common man is as apt a subject for tragedy as kings.\nSECTION 3: RHETORIC, PROSODY, ADVANCED GRAMMAR, PHONETICS & ELT PEDAGOGY (Q.56 to Q.80)"
+      "explanation_hi": "विली लोमन, एक वृद्ध ट्रैवलिंग सेल्समैन, अपने खोखले विश्वास से नष्ट हो जाता है कि सतही आकर्षण और 'अच्छी तरह से पसंद किया जाना' समृद्धि की गारंटी देता है, अंततः आत्महत्या कर लेता है ताकि उसका बेटा बिफ अपनी 20,000 डॉलर की जीवन बीमा पॉलिसी ले सके।",
+      "tip_hi": "आर्थर मिलर ने अपने साथी निबंध 'ट्रेजेडी एंड द कॉमन मैन' (1949) में आधुनिक आम त्रासदी को परिभाषित करते हुए तर्क दिया कि आम आदमी राजाओं की तरह ही त्रासदी का उपयुक्त विषय है।\nखंड 3: अलंकारिकता, छंदविद्या, उन्नत व्याकरण, ध्वन्यात्मकता और ईएलटी शिक्षाशास्त्र (प्रश्न.56 से प्र.80)"
     },
     {
       "source": "Figures of Speech",
@@ -1516,8 +1516,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A Simile is a figure of speech in which an explicit comparison is stated between two different entities using 'as' or 'like' (e.g., 'O my Luve is like a red, red rose' - Robert Burns).",
-      "tip_hi": "Explicit comparison with 'as' or 'like' = Simile; Implicit/condensed comparison without 'as/like' = Metaphor ('Life is a dream')."
+      "explanation_hi": "उपमा भाषण का एक अलंकार है जिसमें 'जैसा' या 'पसंद' का उपयोग करके दो अलग-अलग संस्थाओं के बीच एक स्पष्ट तुलना की जाती है (उदाहरण के लिए, 'ओ माई लव एक लाल, लाल गुलाब की तरह है' - रॉबर्ट बर्न्स)।",
+      "tip_hi": "'जैसे' या 'जैसे' के साथ स्पष्ट तुलना = उपमा; 'जैसा/पसंद' के बिना निहित/संक्षिप्त तुलना = रूपक ('जीवन एक सपना है')।"
     },
     {
       "source": "Figures of Speech",
@@ -1543,8 +1543,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Metonymy (Greek for 'change of name') substitutes the name of an attribute or closely associated object for the thing meant. Here, 'the pen' stands for the written word / press, and 'the sword' stands for military force.",
-      "tip_hi": "Metonymy = associated object substitutes the concept ('the Crown' = monarchy, 'the White House' = US President); Synecdoche = part for the whole or whole for the part ('all hands on deck' = sailors)."
+      "explanation_hi": "अलंकार जिस में किसी पदार्थ के लिये उन का नाम कहा जाता है (ग्रीक में 'नाम परिवर्तन' के लिए) मतलब वाली चीज़ के लिए किसी विशेषता या निकट से जुड़ी वस्तु का नाम प्रतिस्थापित करता है। यहां, 'कलम' का अर्थ लिखित शब्द/प्रेस है, और 'तलवार' का अर्थ सैन्य बल है।",
+      "tip_hi": "अलंकार जिस में किसी पदार्थ के लिये उन का नाम कहा जाता है = संबंधित वस्तु अवधारणा को प्रतिस्थापित करती है ('क्राउन' = राजशाही, 'व्हाइट हाउस' = अमेरिकी राष्ट्रपति); सिनेकडोचे = संपूर्ण के लिए भाग या भाग के लिए संपूर्ण ('डेक पर सभी हाथ' = नाविक)।"
     },
     {
       "source": "Rhetoric & Prosody",
@@ -1570,8 +1570,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 'Daffodils', 'Ten thousand saw I at a glance' is an obvious poetic exaggeration (Hyperbole), while 'Tossing their heads in sprightly dance' endows flowers with human emotional agency (Personification).",
-      "tip_hi": "Exaggeration for poetic emphasis = Hyperbole; Endowing inanimate nature with human physical traits/feelings = Personification (or Pathetic Fallacy if nature sympathizes with human sorrow)."
+      "explanation_hi": "'डैफोडिल्स' में, 'दस हज़ार ने मुझे एक नज़र में देखा' एक स्पष्ट काव्यात्मक अतिशयोक्ति (हाइपरबोले) है, जबकि 'स्परफुल डांस में अपने सिर उछालना' फूलों को मानवीय भावनात्मक एजेंसी (व्यक्तित्व) प्रदान करता है।",
+      "tip_hi": "काव्यात्मक जोर के लिए अतिशयोक्ति = अतिशयोक्ति; निर्जीव प्रकृति को मानवीय शारीरिक गुणों/भावनाओं से संपन्न करना = वैयक्तिकरण (या यदि प्रकृति मानवीय दुःख के प्रति सहानुभूति रखती है तो दयनीय भ्रांति)।"
     },
     {
       "source": "Figures of Speech",
@@ -1597,8 +1597,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An Oxymoron is a compact verbal figure where two sharply contradictory terms are joined in a single phrase (e.g., 'cruel kindness', 'parting is such sweet sorrow'). A Paradox is an entire statement that appears self-contradictory but expresses a profound underlying truth.",
-      "tip_hi": "Phrase-level contradictory words joined = Oxymoron; Sentence-level self-contradictory statement = Paradox ('The child is father of the man')."
+      "explanation_hi": "ऑक्सीमोरोन एक संक्षिप्त मौखिक आकृति है जहां दो तीव्र विरोधाभासी शब्द एक ही वाक्यांश में जुड़ते हैं (उदाहरण के लिए, 'क्रूर दयालुता', 'बिदाई इतना मीठा दुःख है')। विरोधाभास एक संपूर्ण कथन है जो स्व-विरोधाभासी प्रतीत होता है लेकिन एक गहन अंतर्निहित सत्य को व्यक्त करता है।",
+      "tip_hi": "वाक्यांश-स्तरीय विरोधाभासी शब्द जुड़े = ऑक्सीमोरोन; वाक्य-स्तरीय स्व-विरोधाभासी कथन = विरोधाभास ('बच्चा आदमी का पिता है')।"
     },
     {
       "source": "English Prosody & Metre",
@@ -1624,8 +1624,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An iamb (iambic foot) consists of an unstressed syllable followed by a stressed syllable (da-DUM / \\(\\cup\\) \\(-\\)). Trochee is the exact reverse: stressed followed by unstressed (DUM-da).",
-      "tip_hi": "Poetic feet cheat sheet: Iamb = Unstressed + Stressed (\\(\\cup\\) \\(-\\)); Trochee = Stressed + Unstressed (\\(-\\) \\(\\cup\\)); Anapest = Two unstressed + Stressed (\\(\\cup\\) \\(\\cup\\) \\(-\\)); Dactyl = Stressed + Two unstressed (\\(-\\) \\(\\cup\\) \\(\\cup\\))."
+      "explanation_hi": "एक आयंब (आयंबिक फ़ुट) में एक बिना तनाव वाला अक्षर होता है जिसके बाद एक तनावग्रस्त अक्षर होता है (दा-दम / \\(\\कप\\) \\(-\\))। ट्रोची बिल्कुल विपरीत है: तनाव के बाद तनाव रहित (DUM-da)।",
+      "tip_hi": "काव्यात्मक फ़ुट चीट शीट: आयंब = अनस्ट्रेस्ड + स्ट्रेस्ड (\\(\\कप\\) \\(-\\)); ट्रोची = तनावग्रस्त + अस्थिर (\\(-\\) \\(\\कप\\)); एनापेस्ट = दो अस्थिर + तनावग्रस्त (\\(\\कप\\) \\(\\कप\\) \\(-\\)); डैक्टाइल = तनावग्रस्त + दो अस्थिर (\\(-\\) \\(\\कप\\) \\(\\कप\\))।"
     },
     {
       "source": "Voice Transformation",
@@ -1651,8 +1651,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In interrogative passive transformations starting with 'Who': 'Who' changes to 'By whom', followed immediately by the auxiliary verb 'was', the subject 'this famous novel', and the past participle 'written?'.",
-      "tip_hi": "Word order in interrogative passive: By whom + Auxiliary Verb + Subject + V3? Note that Option (A) incorrectly places the subject before the auxiliary verb."
+      "explanation_hi": "'कौन' से शुरू होने वाले प्रश्नवाचक निष्क्रिय परिवर्तनों में: 'कौन' 'किसके द्वारा' में बदल जाता है, इसके तुरंत बाद सहायक क्रिया 'था', विषय 'यह प्रसिद्ध उपन्यास', और भूत कृदंत 'लिखा हुआ?' आता है।",
+      "tip_hi": "प्रश्नवाचक निष्क्रिय में शब्द क्रम: किसके द्वारा + सहायक क्रिया + विषय + V3? ध्यान दें कि विकल्प (ए) गलत तरीके से विषय को सहायक क्रिया से पहले रखता है।"
     },
     {
       "source": "Direct & Indirect Speech",
@@ -1678,8 +1678,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In indirect reporting of Wh-questions: reporting verb becomes 'asked', no conjunction 'that' is used, and the inverted interrogative word order ('where are you going') reverts to assertive statement word order ('where I was going').",
-      "tip_hi": "Never use 'that' before Wh-question words (where, what, why) in indirect speech. The word order must be assertive: Wh-word + Subject + Verb."
+      "explanation_hi": "Wh-प्रश्नों की अप्रत्यक्ष रिपोर्टिंग में: रिपोर्टिंग क्रिया 'पूछा गया' बन जाती है, कोई संयोजन 'वह' का उपयोग नहीं किया जाता है, और उलटा प्रश्नवाचक शब्द क्रम ('आप कहां जा रहे हैं') मुखर कथन शब्द क्रम ('मैं कहां जा रहा था') में बदल जाता है।",
+      "tip_hi": "अप्रत्यक्ष भाषण में क-प्रश्न शब्दों (कहां, क्या, क्यों) से पहले कभी भी 'वह' का प्रयोग न करें। शब्द क्रम मुखर होना चाहिए: क-शब्द + विषय + क्रिया।"
     },
     {
       "source": "Conditionals & Tenses",
@@ -1705,8 +1705,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In the First Conditional (real/probable future possibility), the conditional 'if-clause' takes the Simple Present tense ('If it rains'), while the main consequence clause takes the Simple Future tense ('we will cancel').",
-      "tip_hi": "Rule: Future tense modals ('will', 'shall') are never used inside the conditional 'if-clause' or time clauses ('when', 'as soon as')."
+      "explanation_hi": "पहले सशर्त (वास्तविक/संभावित भविष्य की संभावना) में, सशर्त 'यदि-खंड' सरल वर्तमान काल ('यदि बारिश होती है') लेता है, जबकि मुख्य परिणाम खंड सरल भविष्य काल ('हम रद्द कर देंगे') लेता है।",
+      "tip_hi": "नियम: भविष्य काल मोडल्स ('इच्छा', 'करेगा') का उपयोग कभी भी सशर्त 'यदि-खंड' या समय खंड ('कब', 'जैसे ही') के अंदर नहीं किया जाता है।"
     },
     {
       "source": "Prepositions & Tenses",
@@ -1732,8 +1732,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Present Perfect Continuous tense, 'since' is used before a specific, definite point in time (e.g., 'Monday last', '7 o'clock', '1995'), whereas 'for' denotes an unanchored period/duration of time (e.g., 'for three days').",
-      "tip_hi": "Point in time = 'since' (since morning, since childhood, since Monday); Period/duration of time = 'for' (for two hours, for five days)."
+      "explanation_hi": "प्रेजेंट परफेक्ट कंटीन्यूअस काल में, 'चूंकि' का उपयोग समय में एक विशिष्ट, निश्चित बिंदु से पहले किया जाता है (उदाहरण के लिए, 'पिछले सोमवार', '7 बजे', '1995'), जबकि 'के लिए' समय की एक असंबद्ध अवधि/अवधि को दर्शाता है (उदाहरण के लिए, 'तीन दिनों के लिए')।",
+      "tip_hi": "समय में बिंदु = 'से' (सुबह से, बचपन से, सोमवार से); समय की अवधि/अवधि = 'के लिए' (दो घंटे के लिए, पांच दिनों के लिए)।"
     },
     {
       "source": "Subject-Verb Agreement",
@@ -1759,8 +1759,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the Rule of Proximity for correlative conjunctions ('either...or', 'neither...nor', 'not only...but also'), the verb must agree in number and person with the closest subject. Here, the plural noun 'students' is nearest to the verb, requiring 'were'.",
-      "tip_hi": "Correlative conjunction verb agreement rule: Verb agrees with the subject closest to it. If the order were reversed ('Neither the students nor the teacher'), the verb would be singular ('was')."
+      "explanation_hi": "सहसंबद्ध संयोजनों के लिए निकटता के नियम के तहत ('या तो...या', 'न तो...न', 'न केवल...बल्कि'), क्रिया को संख्या और व्यक्ति में निकटतम विषय से सहमत होना चाहिए। यहाँ, बहुवचन संज्ञा 'छात्र' क्रिया के सबसे निकट है, जिसके लिए 'थे' की आवश्यकता होती है।",
+      "tip_hi": "सहसंबद्ध समुच्चयबोधक क्रिया सहमति नियम: क्रिया अपने निकटतम विषय से सहमत होती है। यदि क्रम उलट दिया जाए ('न तो छात्र और न ही शिक्षक'), तो क्रिया एकवचन होगी ('था')।"
     },
     {
       "source": "Clause Analysis",
@@ -1786,8 +1786,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The subordinate clause 'who won the first prize in debate' immediately qualifies and describes the antecedent noun 'The girl', functioning as an Adjective Clause (or Defining Relative Clause).",
-      "tip_hi": "Clause identification: Answers 'who/what' = Noun Clause; Qualifies a preceding noun/pronoun = Adjective Clause; Modifies verb/tells time, reason, condition = Adverb Clause."
+      "explanation_hi": "अधीनस्थ उपवाक्य 'जिसने वाद-विवाद में प्रथम पुरस्कार जीता' तुरंत पूर्ववर्ती संज्ञा 'लड़की' को अर्हता प्राप्त करता है और उसका वर्णन करता है, जो एक विशेषण उपवाक्य (या सापेक्ष उपवाक्य को परिभाषित करने) के रूप में कार्य करता है।",
+      "tip_hi": "उपवाक्य पहचान: उत्तर 'कौन/क्या' = संज्ञा उपवाक्य; पूर्ववर्ती संज्ञा/सर्वनाम को योग्य बनाता है = विशेषण उपवाक्य; क्रिया को संशोधित करता है/समय, कारण, स्थिति बताता है = क्रियाविशेषण उपवाक्य।"
     },
     {
       "source": "Vocabulary (Antonyms)",
@@ -1813,8 +1813,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "'Ephemeral' means lasting for a very short time, transient, or fleeting. Its direct antonym is 'Permanent' (everlasting or enduring).",
-      "tip_hi": "Watch out for synonym traps! 'Transient' and 'Fleeting' are synonyms of ephemeral; 'Permanent' and 'Eternal' are antonyms."
+      "explanation_hi": "'क्षणिक' का अर्थ है बहुत कम समय तक चलने वाला, क्षणभंगुर या क्षणभंगुर। इसका सीधा विलोम शब्द 'परमानेंट' (हमेशा कायम रहने वाला) है।",
+      "tip_hi": "पर्यायवाची जाल से सावधान रहें! 'क्षणिक' और 'क्षणभंगुर' क्षणभंगुर के पर्यायवाची हैं; 'स्थायी' और 'शाश्वत' विपरीतार्थक शब्द हैं।"
     },
     {
       "source": "Idioms & Phrases",
@@ -1840,8 +1840,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The idiom 'to burn the midnight oil' historically refers to staying awake and working or studying late into the night by the light of an oil lamp.",
-      "tip_hi": "Idioms related to study & labor: 'Burn the midnight oil' = study late; 'Hit the books' = begin studying; 'Leave no stone unturned' = make every possible effort."
+      "explanation_hi": "'आधी रात को तेल जलाना' मुहावरा ऐतिहासिक रूप से जागते रहने और तेल के दीपक की रोशनी में देर रात तक काम करने या अध्ययन करने को संदर्भित करता है।",
+      "tip_hi": "अध्ययन और परिश्रम से संबंधित मुहावरे: 'आधी रात को तेल जलाना' = देर से अध्ययन करना; 'किताबें मारो' = अध्ययन शुरू करो; 'कोई कसर न छोड़ना'=हर संभव प्रयास करना।"
     },
     {
       "source": "One-Word Substitution",
@@ -1867,8 +1867,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A 'Misanthrope' (or misanthropist) is one who hates humanity. A 'Philanthropist' is a lover of mankind; a 'Misogynist' is a hater of women.",
-      "tip_hi": "Root words: Mis/Misein = to hate; Anthropos = mankind; Gyne = woman; Gamos = marriage (misogamist). Phil = to love (philanthropist)."
+      "explanation_hi": "एक 'मिसंथ्रोप' (या मिथ्याचारी) वह है जो मानवता से नफरत करता है। एक 'परोपकारी' मानव जाति का प्रेमी है; एक 'मिसोगिनिस्ट' महिलाओं से नफरत करने वाला होता है।",
+      "tip_hi": "मूल शब्द: मिस/मिसीन = नफरत करना; एन्थ्रोपोस = मानवजाति; स्त्री = स्त्री; गामोस = विवाह (गलत विवाह)। फिल = प्रेम करना (परोपकारी)।"
     },
     {
       "source": "Spelling Rules",
@@ -1894,8 +1894,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The correct orthographic spelling is 'Accommodation', featuring a double 'c' and a double 'm' (A-C-C-O-M-M-O-D-A-T-I-O-N).",
-      "tip_hi": "BPSC frequently tests double-consonant spelling words: Accommodation (double c, double m), Embarrassment (double r, double s), Committee (double m, double t, double e)."
+      "explanation_hi": "सही वर्तनी वर्तनी 'आवास' है, जिसमें एक डबल 'सी' और एक डबल 'एम' (ए-सी-सी-ओ-एम-एम-ओ-डी-ए-टी-आई-ओ-एन) शामिल है।",
+      "tip_hi": "बीपीएससी अक्सर डबल-व्यंजन वर्तनी वाले शब्दों का परीक्षण करता है: आवास (डबल सी, डबल एम), शर्मिंदगी (डबल आर, डबल एस), समिति (डबल एम, डबल टी, डबल ई)।"
     },
     {
       "source": "English Phonetics",
@@ -1921,8 +1921,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Standard British English (RP) contains 44 phonemes produced by the 26 letters of the alphabet, consisting of 24 consonant sounds and 20 vowel sounds (12 pure monophthongs and 8 diphthongs).",
-      "tip_hi": "IPA Chart for English: 44 sounds total = 24 Consonants + 20 Vowels (12 Monophthongs/pure vowels + 8 Diphthongs/gliding vowels)."
+      "explanation_hi": "मानक ब्रिटिश अंग्रेजी (आरपी) में वर्णमाला के 26 अक्षरों द्वारा निर्मित 44 स्वर हैं, जिनमें 24 व्यंजन ध्वनियाँ और 20 स्वर ध्वनियाँ (12 शुद्ध मोनोफथोंग और 8 डिप्थॉन्ग) शामिल हैं।",
+      "tip_hi": "अंग्रेजी के लिए आईपीए चार्ट: कुल 44 ध्वनियाँ = 24 व्यंजन + 20 स्वर (12 मोनोफथोंग/शुद्ध स्वर + 8 डिप्थॉन्ग/ग्लाइडिंग स्वर)।"
     },
     {
       "source": "Phonetics & Phonology",
@@ -1948,8 +1948,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 20 English vowel phonemes are divided into 12 monophthongs (single, unchanging vowel sounds like /iː/, /ɪ/, /e/, /æ/, etc.) and 8 diphthongs (gliding sounds like /eɪ/, /aɪ/, /ɔɪ/, /aʊ/, /əʊ/, /ɪə/, /eə/, /ʊə/).",
-      "tip_hi": "Pure vowel = Monophthong (12); Gliding vowel = Diphthong (8); Combined vowel system = 20 vowel phonemes."
+      "explanation_hi": "20 अंग्रेजी स्वर स्वरों को 12 मोनोफथोंगों (एकल, अपरिवर्तित स्वर ध्वनियाँ जैसे /iː/, /ɪ/, /e/, /æ/, आदि) और 8 डिप्थोंग्स (ग्लाइडिंग ध्वनियाँ जैसे /eɪ/, /aɪ/, /ɔɪ/, /aʊ/, /əʊ/, /ɪə/, /eə/,) में विभाजित किया गया है। /ʊə/).",
+      "tip_hi": "शुद्ध स्वर = मोनोफथोंग (12); ग्लाइडिंग स्वर = डिप्थॉन्ग (8); संयुक्त स्वर प्रणाली = 20 स्वर स्वर।"
     },
     {
       "source": "Linguistics & Morphology",
@@ -1975,8 +1975,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A Morpheme is the smallest unit of language that carries grammatical meaning or function (e.g., 'un-', 'break', '-able' in 'unbreakable'). Phoneme is the smallest unit of sound, and Grapheme is the smallest unit of writing/letter.",
-      "tip_hi": "Linguistic units: Smallest unit of sound = Phoneme; Smallest unit of meaning = Morpheme; Smallest unit of written script = Grapheme."
+      "explanation_hi": "मॉर्फेम भाषा की सबसे छोटी इकाई है जो व्याकरणिक अर्थ या कार्य करती है (उदाहरण के लिए, 'अन-', 'ब्रेक', '-एबल' में 'अनब्रेकेबल')। फोनीम ध्वनि की सबसे छोटी इकाई है और ग्रैफेम लेखन/अक्षर की सबसे छोटी इकाई है।",
+      "tip_hi": "भाषाई इकाइयाँ: ध्वनि की सबसे छोटी इकाई = स्वनिम; अर्थ की सबसे छोटी इकाई = रूपिम; लिखित लिपि की सबसे छोटी इकाई = ग्रेफेम।"
     },
     {
       "source": "Linguistics & Syntax",
@@ -2002,8 +2002,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Noam Chomsky in Syntactic Structures (1957) and Aspects of the Theory of Syntax (1965) challenged Skinner's behaviorist theory, positing that human children possess an innate biological Language Acquisition Device (LAD) programmed with Universal Grammar.",
-      "tip_hi": "Chomsky = Nativist theory (innate LAD, Universal Grammar, Competence vs. Performance); Saussure = Structuralism (Langue vs. Parole, Signifier vs. Signified)."
+      "explanation_hi": "नोम चॉम्स्की ने सिंटैक्टिक स्ट्रक्चर्स (1957) और एस्पेक्ट्स ऑफ द थ्योरी ऑफ सिंटैक्स (1965) में स्किनर के व्यवहारवादी सिद्धांत को चुनौती दी, जिसमें कहा गया कि मानव बच्चों के पास यूनिवर्सल ग्रामर के साथ प्रोग्राम किया गया एक जन्मजात जैविक भाषा अधिग्रहण उपकरण (एलएडी) होता है।",
+      "tip_hi": "चॉम्स्की = नेटिविस्ट सिद्धांत (जन्मजात बालक, सार्वभौमिक व्याकरण, क्षमता बनाम प्रदर्शन); सॉसर = संरचनावाद (लैंग्यू बनाम पैरोल, सिग्निफायर बनाम सिग्निफाइड)।"
     },
     {
       "source": "English Language Teaching (ELT)",
@@ -2029,8 +2029,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Grammar-Translation Method (GTM), historically known as the Prussian or Classical Method, emphasizes reading and writing skills through deductive teaching of grammar rules and word-for-word translation into the learner's L1, with little to no oral practice.",
-      "tip_hi": "ELT Methods: GTM = mother tongue translation & deductive grammar; Direct Method = target language only, no translation; Audio-Lingual = habit formation & drills; CLT = communicative competence."
+      "explanation_hi": "व्याकरण-अनुवाद विधि (जीटीएम), जिसे ऐतिहासिक रूप से प्रशियाई या शास्त्रीय विधि के रूप में जाना जाता है, व्याकरण नियमों के निगमनात्मक शिक्षण और शिक्षार्थी के एल1 में शब्द-दर-शब्द अनुवाद के माध्यम से पढ़ने और लिखने के कौशल पर जोर देती है, जिसमें बहुत कम या कोई मौखिक अभ्यास नहीं होता है।",
+      "tip_hi": "ईएलटी विधियां: जीटीएम = मातृभाषा अनुवाद और निगमनात्मक व्याकरण; प्रत्यक्ष विधि = केवल लक्ष्य भाषा, कोई अनुवाद नहीं; ऑडियो-भाषिक = आदत निर्माण और अभ्यास; सीएलटी = संचार क्षमता।"
     },
     {
       "source": "ELT Methodologies",
@@ -2056,8 +2056,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Direct Method (or Natural Method) arose in the late 19th century in reaction against GTM's neglect of spoken communication. It strictly bans the use of the native language (L1), teaching meaning through direct association, visual demonstration, and immersion in English.",
-      "tip_hi": "Direct Method rule: Never translate, never use mother tongue, demonstrate and act out meaning directly in the target language."
+      "explanation_hi": "जीटीएम द्वारा मौखिक संचार की उपेक्षा के खिलाफ प्रतिक्रिया में 19वीं सदी के अंत में प्रत्यक्ष विधि (या प्राकृतिक विधि) का उदय हुआ। यह मूल भाषा (एल1) के उपयोग, सीधे जुड़ाव, दृश्य प्रदर्शन और अंग्रेजी में तल्लीनता के माध्यम से अर्थ सिखाने पर सख्ती से प्रतिबंध लगाता है।",
+      "tip_hi": "प्रत्यक्ष विधि नियम: कभी भी अनुवाद न करें, कभी भी मातृभाषा का उपयोग न करें, लक्ष्य भाषा में सीधे अर्थ का प्रदर्शन और अभिनय न करें।"
     },
     {
       "source": "Language Pedagogy",
@@ -2083,8 +2083,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "C. J. Dodson of the University of Wales formulated the Bilingual Method in the 1960s. It allows the teacher (and only the teacher) to use the mother tongue (L1) sparingly to explain difficult concepts, eliminating the rigidity of the Direct Method while ensuring maximum communicative practice.",
-      "tip_hi": "Bilingual Method key rule: Only the teacher is permitted to use the mother tongue to convey meaning; students practice strictly in the target language (L2)."
+      "explanation_hi": "वेल्स विश्वविद्यालय के सी. जे. डोडसन ने 1960 के दशक में द्विभाषी पद्धति तैयार की। यह शिक्षक (और केवल शिक्षक) को कठिन अवधारणाओं को समझाने के लिए मातृभाषा (एल 1) का उपयोग करने की अनुमति देता है, जिससे अधिकतम संचार अभ्यास सुनिश्चित करते हुए प्रत्यक्ष विधि की कठोरता समाप्त हो जाती है।",
+      "tip_hi": "द्विभाषी विधि मुख्य नियम: केवल शिक्षक को अर्थ बताने के लिए मातृभाषा का उपयोग करने की अनुमति है; छात्र लक्ष्य भाषा (L2) में सख्ती से अभ्यास करते हैं।"
     },
     {
       "source": "Modern ELT Approaches",
@@ -2110,8 +2110,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "CLT stands for Communicative Language Teaching, an approach that focuses on developing learners' 'communicative competence' (Dell Hymes) through meaningful real-world interaction, task-based communication, and fluency, rather than grammatical accuracy alone.",
-      "tip_hi": "CLT core principles: Learner-centered, authentic materials, role-plays, fluency over mechanical accuracy, communicative competence as the ultimate goal."
+      "explanation_hi": "सीएलटी का मतलब है संचारी भाषा शिक्षण, एक दृष्टिकोण जो केवल व्याकरणिक सटीकता के बजाय सार्थक वास्तविक दुनिया की बातचीत, कार्य-आधारित संचार और प्रवाह के माध्यम से शिक्षार्थियों की 'संचार क्षमता' (डेल हाइम्स) विकसित करने पर केंद्रित है।",
+      "tip_hi": "सीएलटी के मूल सिद्धांत: शिक्षार्थी-केंद्रित, प्रामाणिक सामग्री, रोल-प्ले, यांत्रिक सटीकता पर प्रवाह, अंतिम लक्ष्य के रूप में संचार क्षमता।"
     },
     {
       "source": "Assessment & Evaluation",
@@ -2137,8 +2137,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Reliability in testing denotes consistency and stability of scores across repeated test administrations. In contrast, 'Validity' means measuring what the test intends to measure, and 'Usability/Practicability' refers to ease of administration and scoring.",
-      "tip_hi": "Testing standards: Measures what it claims to measure = Validity; Yields consistent scores across occasions = Reliability; Feasible in time/money = Usability."
+      "explanation_hi": "परीक्षण में विश्वसनीयता बार-बार किए गए परीक्षण प्रशासनों में स्कोर की स्थिरता और स्थिरता को दर्शाती है। इसके विपरीत, 'वैधता' का अर्थ यह मापना है कि परीक्षण क्या मापना चाहता है, और 'प्रयोज्यता/व्यावहारिकता' का तात्पर्य प्रशासन और स्कोरिंग में आसानी से है।",
+      "tip_hi": "परीक्षण मानक: यह जो मापने का दावा करता है उसे मापता है = वैधता; विभिन्न अवसरों पर लगातार अंक प्राप्त करना = विश्वसनीयता; समय/धन में व्यवहार्य = उपयोगिता।"
     },
     {
       "source": "Four Language Skills (LSRW)",
@@ -2164,8 +2164,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The four fundamental language skills (LSRW) are grouped into Receptive (or Input/Passive) skills: Listening and Reading (where learners receive and decode language); and Productive (or Output/Active) skills: Speaking and Writing.",
-      "tip_hi": "Four Skills Matrix: Receptive/Input = Listening & Reading; Productive/Output = Speaking & Writing. Natural acquisition order: L -> S -> R -> W.\nMASTER ANSWER KEY SUMMARY — PART-III ENGLISH (Q.1 TO Q.80)\nQ. No.\nDomain / Subject Area\nCore Literary / Linguistic Concept\nOfficial Key"
+      "explanation_hi": "चार मौलिक भाषा कौशल (एलएसआरडब्ल्यू) को ग्रहणशील (या इनपुट/निष्क्रिय) कौशल में वर्गीकृत किया गया है: सुनना और पढ़ना (जहां शिक्षार्थी भाषा प्राप्त करते हैं और डिकोड करते हैं); और उत्पादक (या आउटपुट/सक्रिय) कौशल: बोलना और लिखना।",
+      "tip_hi": "चार कौशल मैट्रिक्स: ग्रहणशील/इनपुट = सुनना और पढ़ना; उत्पादक/आउटपुट = बोलना और लिखना। प्राकृतिक अधिग्रहण क्रम: एल -> एस -> आर -> डब्ल्यू।\nमास्टर उत्तर कुंजी सारांश - भाग-III अंग्रेजी (प्रश्न 1 से प्र.80)\nप्र. नहीं.\nडोमेन/विषय क्षेत्र\nमूल साहित्यिक/भाषाई अवधारणा\nआधिकारिक कुंजी"
     }
   ]
 }

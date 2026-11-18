@@ -1176,8 +1176,20 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
 
             {showSolution && (
               <div className="practice-solution-card">
-                <div className="sol-badge">
-                  {qLang === 'hi' ? '✓ आधिकारिक उत्तर एवं विस्तृत समाधान' : '✓ Official Answer & Exam Setter Insights'}
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px', flexWrap: 'wrap', gap: '8px' }}>
+                  <div className="sol-badge" style={{ margin: 0 }}>
+                    {qLang === 'hi' ? '✓ आधिकारिक उत्तर एवं विस्तृत समाधान' : '✓ Official Answer & Exam Setter Insights'}
+                  </div>
+                  {!isEnglishOnly && !isHindiOnly && (
+                    <button
+                      type="button"
+                      className="lang-toggle-btn"
+                      style={{ padding: '3px 10px', fontSize: '12px' }}
+                      onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}
+                    >
+                      🌐 {qLang === 'en' ? 'हिन्दी में समाधान देखें' : 'View Solution in English'}
+                    </button>
+                  )}
                 </div>
                 <p className="sol-answer">
                   <b>{qLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b>{' '}
@@ -1374,9 +1386,21 @@ function Results({
           const isCorrect = answers[q.id] === q.answer
           return (
             <article key={q.id} className={isCorrect ? 'correct' : 'incorrect'}>
-              <span>
-                {isCorrect ? (resLang === 'hi' ? '✓ सही उत्तर' : '✓ Correct') : (resLang === 'hi' ? '✗ गलत उत्तर / समीक्षा आवश्यक' : '✗ Incorrect / Review Needed')} · {resLang === 'hi' ? 'प्रश्न' : 'Question'} {q.id}
-              </span>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '8px', marginBottom: '6px' }}>
+                <span>
+                  {isCorrect ? (resLang === 'hi' ? '✓ सही उत्तर' : '✓ Correct') : (resLang === 'hi' ? '✗ गलत उत्तर / समीक्षा आवश्यक' : '✗ Incorrect / Review Needed')} · {resLang === 'hi' ? 'प्रश्न' : 'Question'} {q.id}
+                </span>
+                {!isEnglishOnly && !isHindiOnly && (
+                  <button
+                    type="button"
+                    className="lang-toggle-btn"
+                    style={{ padding: '2px 8px', fontSize: '11px' }}
+                    onClick={() => setResLang(r => r === 'en' ? 'hi' : 'en')}
+                  >
+                    🌐 {resLang === 'en' ? 'हिन्दी समाधान' : 'English Solution'}
+                  </button>
+                )}
+              </div>
               {q.source && <span className="source-tag">Source: {q.source}</span>}
               <h3>
                 {resLang === 'hi' ? q.hi : q.en}

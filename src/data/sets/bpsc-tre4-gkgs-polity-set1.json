@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sachindra Nath Sanyal established the Patna branch of the revolutionary organization Anushilan Samiti in 1913. Bankim Chandra Mitra assisted him.",
-      "tip_hi": "Sachindra Nath Sanyal authored 'Bandi Jeevan' and was a co-founder of Hindustan Republican Association (HRA)."
+      "explanation_hi": "सचिन्द्र नाथ सान्याल ने 1913 में क्रांतिकारी संगठन अनुशीलन समिति की पटना शाखा की स्थापना की। बंकिम चंद्र मित्र ने उनकी सहायता की।",
+      "tip_hi": "सचिन्द्र नाथ सान्याल ने 'बंदी जीवन' लिखी और वह हिंदुस्तान रिपब्लिकन एसोसिएशन (एचआरए) के सह-संस्थापक थे।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each letter is shifted by +1: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (wait: G->H, E->F). Applying +1 to GRAPES: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT.",
-      "tip_hi": "Pattern: +1 to each letter. G->H, R->S, A->B, P->Q, E->F, S->T."
+      "explanation_hi": "प्रत्येक अक्षर को +1 द्वारा स्थानांतरित किया जाता है: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (प्रतीक्षा करें: G->H, E->F)। अंगूर पर +1 लगाना: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT।",
+      "tip_hi": "पैटर्न: प्रत्येक अक्षर के लिए +1. G->H, R->S, A->B, P->Q, E->F, S->T."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -113,7 +113,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd संशोधन added 10 duties in अनुच्छेद 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th संशोधन 2002.",
-      "tip_hi": "Fundamental Duties = Swaran Singh Committee (1976), 42nd संशोधन, borrowed from USSR."
+      "tip_hi": "मौलिक कर्तव्य = स्वर्ण सिंह समिति (1976), 42वां संशोधन, यूएसएसआर से उधार लिया गया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Following the 56-दिन hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 अक्टूबर 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
-      "tip_hi": "First linguistic state = Andhra State (1 अक्टूबर 1953); Fast-unto-death = Potti Sreeramulu."
+      "tip_hi": "प्रथम भाषाई राज्य = आंध्र राज्य (1 अक्टूबर 1953); आमरण अनशन = पोट्टी श्रीरामुलु."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -220,7 +220,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).",
+      "explanation_hi": "बिहार विधान सभा (विधानसभा) में 243 सीधे निर्वाचित सीटें हैं (38 अनुसूचित जाति के लिए आरक्षित और 2 अनुसूचित जनजाति के लिए आरक्षित: मनिहारी और कटोरिया)।",
       "tip_hi": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; लोकसभा = 40 seats; राज्यसभा = 16 seats."
     },
     {
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 1 अप्रैल 1935 under the RBI Act 1934 on the recommendation of the Hilton Young Commission, the RBI regulates currency issue, monetary policy, and acts as the lender of last resort to commercial banks.",
-      "tip_hi": "Central Bank / Lender of Last Resort = Reserve Bank of India (RBI, established 1935)."
+      "explanation_hi": "हिल्टन यंग कमीशन की सिफारिश पर आरबीआई अधिनियम 1934 के तहत 1 अप्रैल 1935 को स्थापित, आरबीआई मुद्रा मुद्दे, मौद्रिक नीति को नियंत्रित करता है, और वाणिज्यिक बैंकों के लिए अंतिम उपाय के ऋणदाता के रूप में कार्य करता है।",
+      "tip_hi": "सेंट्रल बैंक/अंतिम ऋणदाता = भारतीय रिजर्व बैंक (आरबीआई, स्थापना 1935)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern is +2 to each letter: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. Applying +2 to FIRE: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG.",
-      "tip_hi": "Shift +2: F->H, I->K, R->T, E->G = HKTG."
+      "explanation_hi": "प्रत्येक अक्षर का पैटर्न +2 है: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. आग पर +2 लगाना: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG।",
+      "tip_hi": "शिफ्ट +2: एफ->एच, आई->के, आर->टी, ई->जी = एचकेटीजी।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -410,7 +410,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Jairamdas Daulatram served as the first राज्यपाल of Bihar in independent India from 15 अगस्त 1947 to 11 जनवरी 1948. (Sir James David Sifton was the first राज्यपाल of Bihar when Orissa separated in 1936).",
-      "tip_hi": "First राज्यपाल of Bihar in Independent India = Jairamdas Daulatram (15 Aug 1947)."
+      "tip_hi": "स्वतंत्र भारत में बिहार के प्रथम राज्यपाल = जयरामदास दौलतराम (15 अगस्त 1947)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "M1 (currency with public + demand deposits + other deposits with RBI) is immediately spendable and has the highest liquidity. M4/M3 represents broad money with lower liquidity.",
-      "tip_hi": "Liquidity hierarchy: M1 > M2 > M3 > M4. M1 is narrow money with maximum liquidity; M3 is broad money.\nAnswer Key Summary Table — Set 2 (Q.41 to Q.80)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+      "explanation_hi": "एम1 (सार्वजनिक मुद्रा + मांग जमा + आरबीआई के पास अन्य जमा) तुरंत खर्च करने योग्य है और इसमें उच्चतम तरलता है। M4/M3 कम तरलता के साथ व्यापक धन का प्रतिनिधित्व करता है।",
+      "tip_hi": "तरलता पदानुक्रम: M1 > M2 > M3 > M4. एम1 अधिकतम तरलता वाली संकीर्ण मुद्रा है; एम3 व्यापक धन है।\nउत्तर कुंजी सारांश तालिका - सेट 2 (प्र.41 से प्र.80)\nप्र. नहीं.\nबीपीएससी संस्करण और पेपर उत्पत्ति\nकोर कॉन्सेप्ट का परीक्षण किया गया\nआधिकारिक कुंजी"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The State Re-organisation Commission appointed in दिसम्बर 1953 comprised Justice Fazal Ali (Chairman), K.M. Panikkar, and Hriday Nath Kunzru. All three served as members.",
-      "tip_hi": "Commission members: Fazal Ali (Head) + K.M. Panikkar + H.N. Kunzru. Since all three appear, select Option (D)."
+      "explanation_hi": "दिसंबर 1953 में नियुक्त राज्य पुनर्गठन आयोग में न्यायमूर्ति फज़ल अली (अध्यक्ष), के.एम. शामिल थे। पणिक्कर, और हृदय नाथ कुंजरू। तीनों ने सदस्य के रूप में कार्य किया।",
+      "tip_hi": "आयोग के सदस्य: फज़ल अली (प्रमुख) + के.एम. पणिक्कर + एच.एन. कुंजरू। चूँकि तीनों दिखाई देते हैं, विकल्प (डी) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -571,7 +571,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Mazharul Haque founded Sadaqat Ashram in 1921 on land donated by his friend Khairun Miyan along the banks of the Ganges in Patna, and launched the weekly newspaper 'The Motherland' from here.",
+      "explanation_hi": "मौलाना मजहरुल हक ने 1921 में पटना में गंगा के किनारे अपने मित्र खैरुन मियां द्वारा दान की गई जमीन पर सदाकत आश्रम की स्थापना की और यहीं से साप्ताहिक समाचार पत्र 'द मदरलैंड' निकाला।",
       "tip_hi": "Sadaqat Ashram served as the residence of डॉ. राजेंद्र प्रसाद after his retirement as the राष्ट्रपति of India until his death in 1963."
     },
     {

@@ -58,7 +58,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Tana Bhagat Movement (1914) was a religious, agrarian, and tribal movement among the Oraon tribe of Chotanagpur led by Jatra Bhagat, opposing British land taxes and money lenders.",
+      "explanation_hi": "ताना भगत आंदोलन (1914) जात्रा भगत के नेतृत्व में छोटानागपुर की ओरांव जनजाति के बीच एक धार्मिक, कृषि और आदिवासी आंदोलन था, जो ब्रिटिश भूमि करों और साहूकारों का विरोध करता था।",
       "tip_hi": "Tana Bhagats later allied with महात्मा गांधी's Non-Cooperation Movement, adopting non-violence and Khadi."
     },
     {
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In sedimentary rocks, minerals occur in beds or strata formed as a result of deposition, accumulation, and concentration in horizontal layers (e.g., coal, iron ore, limestone).",
-      "tip_hi": "Sedimentary rocks = strata / beds; Igneous and metamorphic rocks = cracks, crevices, faults, and veins / lodes."
+      "explanation_hi": "तलछटी चट्टानों में, खनिज क्षैतिज परतों (जैसे, कोयला, लौह अयस्क, चूना पत्थर) में जमाव, संचय और एकाग्रता के परिणामस्वरूप गठित बिस्तरों या स्तरों में पाए जाते हैं।",
+      "tip_hi": "तलछटी चट्टानें = स्तर/स्तर; आग्नेय और रूपांतरित चट्टानें = दरारें, दरार, भ्रंश और शिराएं/खोदें।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -112,7 +112,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The probability P(E) of any event must satisfy 0 <= P(E) <= 1. Both -0.7 (negative) and 1.2 (> 1) cannot be probabilities of an event.",
+      "explanation_hi": "किसी भी घटना की प्रायिकता P(E) को 0 <= P(E) <= 1 को संतुष्ट करना होगा। -0.7 (नकारात्मक) और 1.2 (> 1) दोनों किसी घटना की प्रायिकताएं नहीं हो सकती हैं।",
       "tip_hi": "Since both (B) and (C) violate the probability axiom [0, 1], Option (D) ('उपर्युक्त में से एक से अधिक') is correct."
     },
     {
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The difference between 20% gain and 16% gain is 4% of Cost Price (CP). 4% of CP = ₹100 -> CP = (100 / 4) * 100 = ₹2,500.",
-      "tip_hi": "प्रतिशत difference shortcut: Difference in Profit % = Price difference. (20% - 16%) = 4% -> 100% = 25 * 100 = 2500."
+      "explanation_hi": "20% लाभ और 16% लाभ के बीच का अंतर लागत मूल्य (सीपी) का 4% है। सीपी का 4% = ₹100 -> सीपी = (100/4) * 100 = ₹2,500।",
+      "tip_hi": "प्रतिशत अंतर शॉर्टकट: लाभ में अंतर% = मूल्य अंतर। (20% - 16%) = 4% -> 100% = 25 * 100 = 2500।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Zaid is the short summer cropping season (मार्च to जून). Watermelon, cucumber, and short-duration pulses like Moong are cultivated in this season.",
-      "tip_hi": "Zaid crops include cucurbits (Watermelon, Muskmelon, Cucumber) and quick pulses (Moong); hence Option (D) applies."
+      "explanation_hi": "ज़ैद गर्मियों की छोटी फसल का मौसम (मार्च से जून) है। इस मौसम में तरबूज, खीरा और मूंग जैसी कम अवधि वाली दालों की खेती की जाती है।",
+      "tip_hi": "जायद फसलों में खीरा (तरबूज, खरबूजा, ककड़ी) और त्वरित दालें (मूंग) शामिल हैं; इसलिए विकल्प (डी) लागू होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "के दौरान the Civil Disobedience Movement in Bihar, Mrs. Hasan Imam, Shrimati Mira Devi, and Miss Gauri Das actively led salt demonstrations and picketing.",
-      "tip_hi": "Women freedom fighters in Bihar Salt Satyagraha included Mrs. Hasan Imam, Mira Devi, Saraswati Devi, and Sadhana Devi."
+      "explanation_hi": "बिहार में सविनय अवज्ञा आंदोलन के दौरान, श्रीमती हसन इमाम, श्रीमती मीरा देवी और कुमारी गौरी दास ने सक्रिय रूप से नमक प्रदर्शन और धरना का नेतृत्व किया।",
+      "tip_hi": "बिहार नमक सत्याग्रह में महिला स्वतंत्रता सेनानियों में श्रीमती हसन इमाम, मीरा देवी, सरस्वती देवी और साधना देवी शामिल थीं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Two major experimental geothermal energy pilot projects were established in India: one in Parvati Valley (Manikaran, Himachal Pradesh) and another in Puga Valley (Ladakh).",
-      "tip_hi": "As both Parvati Valley (HP) and Puga Valley (Ladakh) are operational geothermal sites, select Option (D)."
+      "explanation_hi": "भारत में दो प्रमुख प्रायोगिक भूतापीय ऊर्जा पायलट परियोजनाएँ स्थापित की गईं: एक पार्वती घाटी (मणिकरण, हिमाचल प्रदेश) में और दूसरी पुगा घाटी (लद्दाख) में।",
+      "tip_hi": "चूंकि पार्वती घाटी (एचपी) और पुगा घाटी (लद्दाख) दोनों चालू भू-तापीय स्थल हैं, विकल्प (डी) चुनें।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Operation Barga was a comprehensive land reform program initiated in 1978 by the Left Front government in पश्चिम Bengal to register sharecroppers (bargadars) and protect their tenancy rights.",
-      "tip_hi": "Operation Barga is historically synonymous with agrarian reforms under the Left Front in पश्चिम Bengal."
+      "explanation_hi": "ऑपरेशन बर्गा एक व्यापक भूमि सुधार कार्यक्रम था जो 1978 में पश्चिम बंगाल में वाम मोर्चा सरकार द्वारा बटाईदारों (बारगादारों) को पंजीकृत करने और उनके किरायेदारी अधिकारों की रक्षा के लिए शुरू किया गया था।",
+      "tip_hi": "ऑपरेशन बर्गा ऐतिहासिक रूप से पश्चिम बंगाल में वाम मोर्चे के तहत कृषि सुधारों का पर्याय है।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The logical operational recruitment process progresses sequentially: Advertisement (4) -> Application (5) -> Interview (1) -> Selection (3) -> Appointment (2).",
-      "tip_hi": "Selection logically precedes final Appointment; look for sequence ending with 3, 2."
+      "explanation_hi": "तार्किक परिचालन भर्ती प्रक्रिया क्रमिक रूप से आगे बढ़ती है: विज्ञापन (4) -> आवेदन (5) -> साक्षात्कार (1) -> चयन (3) -> नियुक्ति (2)।",
+      "tip_hi": "चयन तार्किक रूप से अंतिम नियुक्ति से पहले होता है; 3, 2 से समाप्त होने वाले अनुक्रम की तलाश करें।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "If principal is P, amount is 7P; Simple Interest SI = 6P. Formula: SI = (P * R * T) / 100 -> 6P = (P * R * 24) / 100 -> R = (6 * 100) / 24 = 25% per annum.",
-      "tip_hi": "Direct formula for n-times: Rate R = ((n - 1) * 100) / T = ((7 - 1) * 100) / 24 = 600 / 24 = 25%."
+      "explanation_hi": "यदि मूलधन P है, तो राशि 7P है; साधारण ब्याज SI = 6P. सूत्र: SI = (P * R * T) / 100 -> 6P = (P * R * 24) / 100 -> R = (6 * 100) / 24 = 25% प्रति वर्ष।",
+      "tip_hi": "एन-बार के लिए प्रत्यक्ष सूत्र: दर आर = ((एन - 1) * 100) / टी = ((7 - 1) * 100) / 24 = 600 / 24 = 25%।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Afforestation enhances surface water infiltration, binds soil with root networks, reduces rapid overland runoff velocity, and prevents heavy siltation in riverbeds.",
-      "tip_hi": "Planting trees (afforestation) controls both soil erosion and flood runoffs; deforestation accelerates floods."
+      "explanation_hi": "वनीकरण सतही जल घुसपैठ को बढ़ाता है, मिट्टी को जड़ नेटवर्क से बांधता है, तेजी से भूमि अपवाह वेग को कम करता है, और नदी तलों में भारी गाद को रोकता है।",
+      "tip_hi": "पेड़ लगाना (वनरोपण) मिट्टी के कटाव और बाढ़ अपवाह दोनों को नियंत्रित करता है; वनों की कटाई से बाढ़ में तेजी आती है।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Using algebraic identity (a + b)² - 2ab = a² + b²: the expression simplifies to 2 * (a² + b²) / (a² + b²) = 2.",
-      "tip_hi": "Never compute large numerical squares; substitute variables a = 467, b = 359 to simplify algebraically in सेकंड."
+      "explanation_hi": "बीजगणितीय पहचान (a + b)² - 2ab = a² + b² का उपयोग करते हुए: अभिव्यक्ति 2 * (a² + b²) / (a² + b²) = 2 तक सरल हो जाती है।",
+      "tip_hi": "कभी भी बड़े संख्यात्मक वर्गों की गणना न करें; सेकंड में बीजगणितीय रूप से सरल बनाने के लिए चर a = 467, b = 359 प्रतिस्थापित करें।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, August 2023)",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Barauni Oil Refinery (established in 1964 with Soviet collaboration) is situated in Begusarai district of Bihar. Since Begusarai is not in (A), (B), or (C), Option (E) is correct.",
-      "tip_hi": "Barauni Refinery, Barauni Thermal Power Station, and Fertilizer Plant are all located in Begusarai district."
+      "explanation_hi": "बरौनी तेल रिफाइनरी (सोवियत सहयोग से 1964 में स्थापित) बिहार के बेगुसराय जिले में स्थित है। चूँकि बेगुसराय (ए), (बी), या (सी) में नहीं है, विकल्प (ई) सही है।",
+      "tip_hi": "बरौनी रिफाइनरी, बरौनी थर्मल पावर स्टेशन और उर्वरक संयंत्र सभी बेगुसराय जिले में स्थित हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster Examination",
@@ -437,7 +437,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "महात्मा गांधी delivered his historic 'Do or Die' call at the Gowalia Tank Maidan in Bombay on 8th अगस्त 1942 while launching the Quit India Movement.",
-      "tip_hi": "Non-Cooperation (1920) promised Swaraj in one वर्ष; Quit India (1942) demanded complete and immediate withdrawal with the mantra 'Do or Die'."
+      "tip_hi": "असहयोग (1920) ने एक वर्ष में स्वराज का वादा किया; भारत छोड़ो (1942) ने 'करो या मरो' मंत्र के साथ पूर्ण और तत्काल वापसी की मांग की।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Science",
@@ -545,7 +545,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Standard Meridian of India passes through Mirzapur (near Prayagraj, UP) along 82°30' E longitude, जो कि 5 घंटे and 30 मिनट ahead of Greenwich Mean Time (UTC+05:30).",
-      "tip_hi": "The 82°30' E meridian traverses 5 States: Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, and Andhra Pradesh."
+      "tip_hi": "82°30' पूर्व मध्याह्न रेखा 5 राज्यों से होकर गुजरती है: उत्तर प्रदेश, मध्य प्रदेश, छत्तीसगढ़, ओडिशा और आंध्र प्रदेश।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -572,7 +572,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कांवर झील (बेगूसराय) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River, designated as a Ramsar site in जुलाई 2020.",
-      "tip_hi": "Oxbow lake formation = Burhi गंडक नदी River; Location = Begusarai; Significance = 39th Ramsar site of India."
+      "tip_hi": "ऑक्सबो झील का निर्माण = बूढ़ी गंडक नदी; स्थान=बेगूसराय; महत्व = भारत का 39वाँ रामसर स्थल।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Math-Science",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Perimeter of semi-circle = pi*r + 2r = r(pi + 2) = r(22/7 + 2) = r(36/7). Given perimeter = 36 सेमी: r * (36/7) = 36 => r = 7 सेमी.",
-      "tip_hi": "Common error: Do not use pi*r alone. The perimeter of a semi-circle includes its straight diameter boundary: P = r(pi + 2)."
+      "explanation_hi": "अर्धवृत्त का परिमाप = pi*r + 2r = r(pi + 2) = r(22/7 + 2) = r(36/7). दिया गया परिमाप = 36 सेमी: r * (36/7) = 36 => r = 7 सेमी।",
+      "tip_hi": "सामान्य त्रुटि: अकेले pi*r का उपयोग न करें। अर्धवृत्त की परिधि में इसकी सीधी व्यास सीमा शामिल होती है: P = r(pi + 2)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Math-Science",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Speed = Distance / Time = 150 m / 15 s = 10 m/s. Converting to किमी/h: 10 * (18/5) = 36 किमी/h.",
-      "tip_hi": "Conversion factor: m/s to किमी/h = multiply by 18/5; किमी/h to m/s = multiply by 5/18."
+      "explanation_hi": "गति = दूरी/समय = 150 मीटर/15 सेकेंड = 10 मीटर/सेकेंड। किमी/घंटा में कनवर्ट करना: 10 * (18/5) = 36 किमी/घंटा।",
+      "tip_hi": "रूपांतरण कारक: मी/से से किमी/घंटा = 18/5 से गुणा करें; किमी/घंटा से मी/सेकंड = 5/18 से गुणा करें।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Math-Science",
@@ -653,7 +653,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Formula for sum of interior angles of an n-sided polygon = (n - 2) * 180 डिग्री. For a hexagon (n = 6): (6 - 2) * 180 = 4 * 180 = 720 डिग्री.",
-      "tip_hi": "Each interior angle of a regular hexagon = 720 / 6 = 120 डिग्री."
+      "tip_hi": "एक नियमित षट्भुज का प्रत्येक आंतरिक कोण = 720/6 = 120 डिग्री।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Math-Science",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Equalize the common term b: a:b = 2*4 : 3*4 = 8:12, and b:c = 4*3 : 5*3 = 12:15. Hence, a:b:c = 8:12:15.",
-      "tip_hi": "Standard ratio combination: a:b:c = (2*4) : (3*4) : (3*5) = 8 : 12 : 15."
+      "explanation_hi": "सामान्य पद b को बराबर करें: a:b = 2*4 : 3*4 = 8:12, और b:c = 4*3 : 5*3 = 12:15। अत: a:b:c = 8:12:15।",
+      "tip_hi": "मानक अनुपात संयोजन: a:b:c = (2*4) : (3*4) : (3*5) = 8 : 12 : 15."
     }
   ]
 }

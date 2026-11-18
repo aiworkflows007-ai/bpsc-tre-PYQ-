@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "LCM of 15, 20, 25 = 300 units capacity. Efficiency of A = +20, B = +15, C = -12 units/hr. Net inflow = 20 + 15 - 12 = 23 units/hr. Time required = 300 / 23 घंटे = 13.04 घंटे.",
+      "explanation_hi": "15, 20, 25 का एलसीएम = 300 इकाई क्षमता। A की दक्षता = +20, B = +15, C = -12 यूनिट/घंटा। शुद्ध प्रवाह = 20 + 15 - 12 = 23 यूनिट/घंटा। आवश्यक समय = 300/23 घंटे = 13.04 घंटे।",
       "tip_hi": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 घंटे."
     },
     {
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "By definition, π = Circumference / Diameter (C / 2r). It is a transcendental irrational mathematical constant whose exact value cannot be expressed as a finite fraction.",
-      "tip_hi": "Ratio of Circumference to Diameter = π (Pi); π is an irrational number."
+      "explanation_hi": "परिभाषा के अनुसार, π = परिधि/व्यास (C/2r)। यह एक पारलौकिक अपरिमेय गणितीय स्थिरांक है जिसका सटीक मान एक परिमित अंश के रूप में व्यक्त नहीं किया जा सकता है।",
+      "tip_hi": "परिधि और व्यास का अनुपात = π (Pi); π एक अपरिमेय संख्या है."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "(6M + 8B) * 10 = (26M + 48B) * 2 => 60M + 80B = 52M + 96B => 8M = 16B => 1 Man = 2 Boys. Total work in boy units = (6*2 + 8) * 10 = 20 * 10 = 200 boy-दिन. 15 men and 20 boys = 15*2 + 20 = 50 boys. दिन required = 200 / 50 = 4 दिन.",
-      "tip_hi": "15M + 20B is exactly 2.5 times (6M + 8B). Since team strength is multiplied by 2.5, time is divided by 2.5: 10 / 2.5 = 4 दिन."
+      "explanation_hi": "(6एम + 8बी) * 10 = (26एम + 48बी) * 2 => 60एम + 80बी = 52एम + 96बी => 8एम = 16बी => 1 आदमी = 2 लड़के। बालक इकाइयों में कुल कार्य = (6*2 + 8) * 10 = 20 * 10 = 200 बालक-दिवस। 15 पुरुष और 20 लड़के = 15*2 + 20 = 50 लड़के। आवश्यक दिन = 200/50 = 4 दिन।",
+      "tip_hi": "15M + 20B ठीक 2.5 गुना (6M + 8B) है। चूँकि टीम की ताकत 2.5 से गुणा की जाती है, समय को 2.5: 10 / 2.5 = 4 दिन से विभाजित किया जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "n(T ∪ C) = n(T) + n(C) - n(T ∩ C) = 35 + 25 - 15 = 45 persons like at least one beverage. Number of persons liking neither = Total - n(T ∪ C) = 60 - 45 = 15.",
-      "tip_hi": "Union = 35 + 25 - 15 = 45. Neither = 60 - 45 = 15."
+      "explanation_hi": "n(T ∪ C) = n(T) + n(C) - n(T ∩ C) = 35 + 25 - 15 = 45 व्यक्तियों को कम से कम एक पेय पसंद है। किसी को भी पसंद न करने वाले व्यक्तियों की संख्या = कुल - n(T ∪ C) = 60 - 45 = 15।",
+      "tip_hi": "संघ = 35 + 25 - 15 = 45. न तो = 60 - 45 = 15."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern is +2 to each letter: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. Applying +2 to FIRE: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG.",
-      "tip_hi": "Shift +2: F->H, I->K, R->T, E->G = HKTG."
+      "explanation_hi": "प्रत्येक अक्षर का पैटर्न +2 है: W(+2)=Y, A(+2)=C, T(+2)=V, E(+2)=G, R(+2)=T. आग पर +2 लगाना: F(+2)=H, I(+2)=K, R(+2)=T, E(+2)=G => HKTG।",
+      "tip_hi": "शिफ्ट +2: एफ->एच, आई->के, आर->टी, ई->जी = एचकेटीजी।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern is (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
-      "tip_hi": "Next term = 95 * 2 + 1 = 190 + 1 = 191."
+      "explanation_hi": "पैटर्न है (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
+      "tip_hi": "अगला पद = 95 * 2 + 1 = 190 + 1 = 191."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "'Her mother's only सोन नदी' is the woman's brother. If the woman's brother is the man's brother, then the woman is the man's sister.",
-      "tip_hi": "Mother's only सोन नदी = Brother. Woman's brother is man's brother, so the woman is his sister."
+      "explanation_hi": "'उसकी मां का इकलौता बेटा' महिला का भाई है। यदि महिला का भाई पुरुष का भाई है, तो महिला पुरुष की बहन है।",
+      "tip_hi": "माँ का इकलौता पुत्र = भाई। महिला का भाई पुरुष का भाई है, इसलिए महिला उसकी बहन है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "1 kWh = 1,000 Watts * 3,600 सेकंड = 3,600,000 वाट-सेकंड = 3.6 × 10^6 Joules.",
-      "tip_hi": "1 commercial electrical unit = 1 kWh = 3.6 * 10^6 J."
+      "tip_hi": "1 वाणिज्यिक विद्युत इकाई = 1 kWh = 3.6 * 10^6 J."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A समतल दर्पण has no curvature (radius of curvature R = ∞), so its focal length f = R/2 = ∞. Optical power P = 1/f = 1/∞ = 0 Dioptres.",
-      "tip_hi": "समतल दर्पण: Focal length = Infinite (∞); Power = 0 D; Magnification = +1."
+      "explanation_hi": "एक समतल दर्पण में कोई वक्रता नहीं होती (वक्रता त्रिज्या R = ∞), इसलिए इसकी फोकल लंबाई f = R/2 = ∞ होती है। ऑप्टिकल पावर P = 1/f = 1/∞ = 0 डायोप्ट्रेस।",
+      "tip_hi": "समतल दर्पण: फोकल लंबाई = अनंत (∞); पावर = 0 डी; आवर्धन = +1."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hydrogen gas is highly combustible. When mixed with atmospheric oxygen and ignited, it burns explosively with a distinctive 'pop' sound, forming water vapour: 2H2 + O2 -> 2H2O.",
-      "tip_hi": "Pop sound test = Hydrogen (H2); Extinguishes burning matchstick = CO2; Rekindles glowing splint = Oxygen."
+      "explanation_hi": "हाइड्रोजन गैस अत्यधिक ज्वलनशील होती है। जब वायुमंडलीय ऑक्सीजन के साथ मिलाया जाता है और प्रज्वलित किया जाता है, तो यह एक विशिष्ट 'पॉप' ध्वनि के साथ विस्फोटक रूप से जलता है, जिससे जल वाष्प बनता है: 2H2 + O2 -> 2H2O।",
+      "tip_hi": "पॉप ध्वनि परीक्षण = हाइड्रोजन (H2); जलती हुई माचिस की तीली को बुझाना = CO2; चमकती हुई पट्टी को पुनः प्रज्वलित करना = ऑक्सीजन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सिनाबार (HgS) is mercuric sulphide (HgS). When roasted in air, HgS decomposes into sulfur dioxide and metallic mercury vapour, which condenses into liquid mercury: HgS + O2 -> Hg + SO2.",
-      "tip_hi": "सिनाबार (HgS) = Mercury (Hg); Galena = Lead (Pb); Chalcopyrite = Copper (Cu)."
+      "explanation_hi": "सिनेबार मर्क्यूरिक सल्फाइड (HgS) है। हवा में भूनने पर, HgS सल्फर डाइऑक्साइड और धात्विक पारा वाष्प में विघटित हो जाता है, जो तरल पारा में संघनित हो जाता है: HgS + O2 -> Hg + SO2।",
+      "tip_hi": "सिनेबार = पारा (एचजी); गैलेना = लीड (पीबी); च्लोकोपाइराइट = कॉपर (Cu)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The released secondary oocyte travels into the fallopian tube (oviduct), where fertilization by sperm occurs in the ampullary region. The resulting zygote then moves to implant in the uterine endometrium.",
-      "tip_hi": "Site of fertilization = Fallopian Tube (Oviduct); Site of embryo implantation = Uterus."
+      "explanation_hi": "जारी किया गया द्वितीयक अंडाणु फैलोपियन ट्यूब (डिंबवाहिनी) में चला जाता है, जहां एम्पुलरी क्षेत्र में शुक्राणु द्वारा निषेचन होता है। परिणामी युग्मनज फिर गर्भाशय के एंडोमेट्रियम में प्रत्यारोपित होने के लिए आगे बढ़ता है।",
+      "tip_hi": "निषेचन का स्थान = फैलोपियन ट्यूब (डिंबवाहिनी); भ्रूण आरोपण का स्थान = गर्भाशय।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Albumin accounts for ~60% of total plasma proteins and generates ~80% of the blood colloidal oncotic pressure, preventing excess fluid leakage from capillaries into interstitial tissues. Fibrinogen is for clotting, and Globulin is for immunity.",
-      "tip_hi": "Blood osmotic pressure = Albumin; Blood clotting = Fibrinogen; Antibodies = Globulin."
+      "explanation_hi": "एल्ब्यूमिन कुल प्लाज्मा प्रोटीन का ~60% होता है और ~80% रक्त कोलाइडल ऑन्कोटिक दबाव उत्पन्न करता है, जो केशिकाओं से अंतरालीय ऊतकों में अतिरिक्त द्रव के रिसाव को रोकता है। फाइब्रिनोजेन थक्के जमने के लिए है, और ग्लोब्युलिन प्रतिरक्षा के लिए है।",
+      "tip_hi": "रक्त आसमाटिक दबाव = एल्बुमिन; रक्त का थक्का जमना = फाइब्रिनोजेन; एंटीबॉडीज़ = ग्लोब्युलिन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "William Tayler served as Commissioner of Patna के दौरान 1857. He invited three prominent Wahhabi leaders (Muhammad Hussain, Ahmadullah, Waizul Haque) to his house for talks and arrested them treacherous, and publicly hanged Pir Ali Khan.",
-      "tip_hi": "Patna Commissioner in 1857 = William Tayler; Chota Nagpur Commissioner = Major Dalton."
+      "explanation_hi": "विलियम टायलर ने 1857 के दौरान पटना के कमिश्नर के रूप में कार्य किया। उन्होंने तीन प्रमुख वहाबी नेताओं (मुहम्मद हुसैन, अहमदुल्ला, वैज़ुल हक) को बातचीत के लिए अपने घर बुलाया और उन्हें विश्वासघाती रूप से गिरफ्तार कर लिया, और पीर अली खान को सार्वजनिक रूप से फांसी पर लटका दिया।",
+      "tip_hi": "1857 में पटना कमिश्नर = विलियम टायलर; छोटा नागपुर कमिश्नर = मेजर डाल्टन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 22-23 दिसम्बर 1921, Patna observed a historic and total hartal against the Prince of Wales' visit called by the Congress. Markets and schools closed, and streets were completely deserted, delivering a stinging boycott to the colonial administration.",
-      "tip_hi": "Prince of Wales visit to Patna (22 Dec 1921) = Met with total hartal and deserted streets."
+      "explanation_hi": "22-23 दिसंबर 1921 को, कांग्रेस द्वारा बुलाए गए प्रिंस ऑफ वेल्स की यात्रा के खिलाफ पटना में एक ऐतिहासिक और पूर्ण हड़ताल हुई। बाज़ार और स्कूल बंद हो गए और सड़कें पूरी तरह से सुनसान हो गईं, जिससे औपनिवेशिक प्रशासन को बहिष्कार का झटका लगा।",
+      "tip_hi": "प्रिंस ऑफ वेल्स की पटना यात्रा (22 दिसंबर 1921) = पूर्ण हड़ताल और सुनसान सड़कें।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -572,7 +572,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Jairamdas Daulatram served as the first राज्यपाल of Bihar in independent India from 15 अगस्त 1947 to 11 जनवरी 1948. (Sir James David Sifton was the first राज्यपाल of Bihar when Orissa separated in 1936).",
-      "tip_hi": "First राज्यपाल of Bihar in Independent India = Jairamdas Daulatram (15 Aug 1947)."
+      "tip_hi": "स्वतंत्र भारत में बिहार के प्रथम राज्यपाल = जयरामदास दौलतराम (15 अगस्त 1947)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Falgu River is formed by the meeting of the Lilajan (ancient Niranjana, on whose banks Buddha meditated) and the Mohana River near Bodh Gaya. It flows past the Vishnupad Temple in Gaya city.",
-      "tip_hi": "Falgu River formed by = Lilajan (Niranjana) + Mohana; Buddha attained enlightenment on banks of Niranjana."
+      "explanation_hi": "फल्गु नदी लीलाजन (प्राचीन निरंजना, जिसके तट पर बुद्ध ने ध्यान किया था) और बोधगया के पास मोहना नदी के मिलने से बनी है। यह गया शहर में विष्णुपद मंदिर के पास से बहती है।",
+      "tip_hi": "फल्गु नदी का निर्माण = लीलाजन (निरंजना) + मोहना; बुद्ध को निरंजना के तट पर ज्ञान प्राप्त हुआ।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -626,7 +626,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मुख्यमंत्री Nitish Kumar inaugurated the 411-metre-long and 3-metre-high 'Gayaji Dam' on the Falgu River near Vishnupad Temple on 8 सितम्बर 2022 to maintain round-the-वर्ष water depth for pilgrims.",
-      "tip_hi": "India's largest rubber dam = Gayaji Dam on Falgu River (Gaya, 411 m long)."
+      "tip_hi": "भारत का सबसे बड़ा रबर बांध = फल्गु नदी पर गयाजी बांध (गया, 411 मीटर लंबा)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The GSI estimated that Jamui district possesses approximately 222.88 million tonnes of gold ore containing ~37.6 tonnes of metal, accounting for ~44% of India's total primary gold mineral resources.",
-      "tip_hi": "Largest gold ore deposit in India = Sono (Jamui district, Bihar)."
+      "explanation_hi": "जीएसआई का अनुमान है कि जमुई जिले में लगभग 222.88 मिलियन टन सोने का अयस्क है जिसमें ~37.6 टन धातु है, जो भारत के कुल प्राथमिक स्वर्ण खनिज संसाधनों का ~44% है।",
+      "tip_hi": "भारत में सबसे बड़ा स्वर्ण अयस्क भंडार = सोनो (जमुई जिला, बिहार)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Brahmakund is the hottest natural spring (temperature ~45°C) located at the foot of Vaibhargiri hill in Rajgir (Nalanda district). Saptadhara springs also emerge here.",
-      "tip_hi": "Brahmakund & Saptadhara = Rajgir (Nalanda); Bhimbandh, Sita Kund = Munger."
+      "explanation_hi": "ब्रह्मकुंड सबसे गर्म प्राकृतिक झरना (तापमान ~45 डिग्री सेल्सियस) है जो राजगीर (नालंदा जिले) में वैभारगिरि पहाड़ी के तल पर स्थित है। यहां सप्तधारा झरने भी निकलते हैं।",
+      "tip_hi": "ब्रह्मकुंड एवं सप्तधारा = राजगीर (नालंदा); भीमबांध, सीता कुंड=मुंगेर।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -707,7 +707,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Lonar Lake is a hypersaline and alkaline crater lake formed by a high-velocity extraterrestrial meteorite impact into Deccan basalt rock के दौरान the Pleistocene epoch (~50,000 वर्ष ago).",
-      "tip_hi": "Meteorite impact crater lake in India = Lonar Lake (Maharashtra, Ramsar site)."
+      "tip_hi": "भारत में उल्कापिंड प्रभाव क्रेटर झील = लोनार झील (महाराष्ट्र, रामसर साइट)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Narmada and Tapi (Tapti) flow westward through linear graben rift valleys flanked by the Vindhya and Satpura ranges, emptying into the Gulf of Khambhat (Arabian Sea) without forming extensive deltas.",
-      "tip_hi": "पश्चिम-flowing rift valley rivers = Narmada & Tapi; Form estuaries, not deltas."
+      "explanation_hi": "नर्मदा और तापी (ताप्ती) विंध्य और सतपुड़ा पर्वतमालाओं से घिरी रैखिक ग्रैबेन दरार घाटियों के माध्यम से पश्चिम की ओर बहती हैं, जो व्यापक डेल्टा बनाए बिना खंभात की खाड़ी (अरब सागर) में गिरती हैं।",
+      "tip_hi": "पश्चिम की ओर बहने वाली भ्रंश घाटी नदियाँ = नर्मदा और तापी; ज्वारनदमुख का निर्माण करें, डेल्टा का नहीं।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -814,7 +814,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "To prevent the misuse of emergency powers (as occurred in 1975 under the pretext of 'internal disturbance'), the 44th संशोधन restricted National Emergency grounds to War, External Aggression, or 'Armed Rebellion', requiring written recommendation of the Union Cabinet.",
+      "explanation_hi": "आपातकालीन शक्तियों के दुरुपयोग को रोकने के लिए (जैसा कि 1975 में 'आंतरिक गड़बड़ी' के बहाने हुआ था), 44वें संशोधन ने राष्ट्रीय आपातकालीन आधार को युद्ध, बाहरी आक्रमण, या 'सशस्त्र विद्रोह' तक सीमित कर दिया, जिसके लिए केंद्रीय मंत्रिमंडल की लिखित सिफारिश की आवश्यकता थी।",
       "tip_hi": "44th संशोधन substituted 'Armed Rebellion' for 'Internal Disturbance' in अनुच्छेद 352."
     },
     {
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Bihar Caste Survey enumerated a total population of 13,07,25,310 individuals across 2.83 crore families. Extremely Backward Classes (EBCs) formed 36.01%, Other Backward Classes (OBCs) 27.13%, Scheduled Castes (SCs) 19.65%, and Scheduled Tribes (STs) 1.68%.",
-      "tip_hi": "Bihar Population: जनगणना 2011 = 10.41 crore; Caste Survey 2023 = 13.07 crore (13,07,25,310)."
+      "explanation_hi": "बिहार जाति सर्वेक्षण में 2.83 करोड़ परिवारों में 13,07,25,310 व्यक्तियों की कुल आबादी की गणना की गई। अत्यंत पिछड़ा वर्ग (ईबीसी) 36.01%, अन्य पिछड़ा वर्ग (ओबीसी) 27.13%, अनुसूचित जाति (एससी) 19.65% और अनुसूचित जनजाति (एसटी) 1.68% है।",
+      "tip_hi": "बिहार की जनसंख्या: जनगणना 2011 = 10.41 करोड़; जाति सर्वेक्षण 2023 = 13.07 करोड़ (13,07,25,310)."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Operation Kaveri evacuated over 3,800 Indian citizens stranded in Sudan के दौरान violent armed clashes between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF), using IAF C-130J aircraft and INS Sumedha from Port Sudan.",
-      "tip_hi": "Operation Kaveri = Sudan (2023); Operation Ajay = Israel-Gaza (2023); Operation गंगा नदी = Ukraine (2022)."
+      "explanation_hi": "ऑपरेशन कावेरी ने सूडानी सशस्त्र बलों और अर्धसैनिक रैपिड सपोर्ट फोर्स (आरएसएफ) के बीच हिंसक सशस्त्र संघर्ष के दौरान सूडान में फंसे 3,800 से अधिक भारतीय नागरिकों को पोर्ट सूडान से आईएएफ सी-130जे विमान और आईएनएस सुमेधा का उपयोग करके निकाला।",
+      "tip_hi": "ऑपरेशन कावेरी = सूडान (2023); ऑपरेशन अजय = इज़राइल-गाजा (2023); ऑपरेशन गंगा = यूक्रेन (2022)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sum of interior angles = (n - 2) * 180°. For a hexagon (n = 6): Sum = (6 - 2) * 180° = 4 * 180° = 720°.",
-      "tip_hi": "(n - 2) * 180°: Hexagon = 4 * 180° = 720°; Pentagon = 540°; Octagon = 1080°."
+      "explanation_hi": "आंतरिक कोणों का योग = (n - 2) * 180°. एक षट्भुज (n = 6) के लिए: योग = (6 - 2) * 180° = 4 * 180° = 720°।",
+      "tip_hi": "(एन - 2) * 180°: षट्कोण = 4 * 180° = 720°; पेंटागन = 540°; अष्टकोण = 1080°."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In open water and ponds, the biomass of primary producers (phytoplankton) at any instant is small due to short lifespans and rapid turnover, जबकि the standing biomass of consumers (fishes) is substantially larger, producing an inverted pyramid of biomass.",
-      "tip_hi": "Biomass pyramid in aquatic pond ecosystem = Inverted; Energy pyramid = Always upright."
+      "explanation_hi": "खुले पानी और तालाबों में, किसी भी समय प्राथमिक उत्पादकों (फाइटोप्लांकटन) का बायोमास कम जीवनकाल और तेजी से कारोबार के कारण छोटा होता है, जबकि उपभोक्ताओं (मछलियों) का बायोमास काफी बड़ा होता है, जिससे बायोमास का एक उलटा पिरामिड बनता है।",
+      "tip_hi": "जलीय तालाब पारिस्थितिकी तंत्र में बायोमास पिरामिड = उलटा; ऊर्जा पिरामिड = सदैव सीधा।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aryabhata, born in 476 CE at Kusumapura (modern Patna, Bihar), authored 'Aryabhatiya'. He introduced place-value decimal system, calculated solar वर्ष as 365.258 दिन, and explained lunar and solar eclipses scientifically.",
-      "tip_hi": "Aryabhata = Born at Kusumapura (Patna); Author of 'Aryabhatiya'; Earth's rotation on axis & eclipse science."
+      "explanation_hi": "476 ई. में कुसुमपुरा (आधुनिक पटना, बिहार) में जन्मे आर्यभट्ट ने 'आर्यभटीय' लिखा। उन्होंने स्थान-मान दशमलव प्रणाली की शुरुआत की, सौर वर्ष की गणना 365.258 दिनों के रूप में की, और वैज्ञानिक रूप से चंद्र और सूर्य ग्रहण की व्याख्या की।",
+      "tip_hi": "आर्यभट्ट = कुसुमपुरा (पटना) में जन्मे; 'आर्यभटीय' के लेखक; पृथ्वी का अपने अक्ष पर घूमना एवं ग्रहण विज्ञान।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Concluded after the Battle of Buxar on 12 अगस्त 1765, the Treaty of Allahabad granted the Company the right to collect land revenue (Diwani) from Bengal, Bihar, and Orissa in exchange for an annual payment of ₹26 lakh to the Mughal Emperor.",
-      "tip_hi": "Treaty of Allahabad = अगस्त 1765 (Robert Clive & Shah Alam II); Granted Diwani of Bengal, Bihar & Orissa."
+      "explanation_hi": "12 अगस्त 1765 को बक्सर की लड़ाई के बाद संपन्न हुई, इलाहाबाद की संधि ने कंपनी को मुगल सम्राट को 26 लाख रुपये के वार्षिक भुगतान के बदले में बंगाल, बिहार और उड़ीसा से भूमि राजस्व (दीवानी) एकत्र करने का अधिकार दिया।",
+      "tip_hi": "इलाहाबाद की संधि = अगस्त 1765 (रॉबर्ट क्लाइव और शाह आलम द्वितीय); बंगाल, बिहार और उड़ीसा की दीवानी प्रदान की गई।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gaganyaan is India's human spaceflight program aiming to demonstrate human spaceflight capability by launching a crew of three members to a 400 किमी low Earth orbit for a 3-दिन mission and returning them safely to Earth.",
-      "tip_hi": "India's manned space mission = Gaganyaan (4 IAF astronaut designates selected); Test humanoid robot = Vyommitra.\nAnswer Key Summary Table — Set 14 (Questions 521 to 560)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "गगनयान भारत का मानव अंतरिक्ष उड़ान कार्यक्रम है जिसका लक्ष्य तीन सदस्यों के एक दल को 3 दिवसीय मिशन के लिए 400 किमी कम पृथ्वी की कक्षा में लॉन्च करके और उन्हें सुरक्षित रूप से पृथ्वी पर वापस लाकर मानव अंतरिक्ष उड़ान क्षमता का प्रदर्शन करना है।",
+      "tip_hi": "भारत का मानवयुक्त अंतरिक्ष मिशन = गगनयान (4 IAF अंतरिक्ष यात्री नामित); टेस्ट ह्यूमनॉइड रोबोट = व्योममित्र।\nउत्तर कुंजी सारांश तालिका - सेट 14 (प्रश्न 521 से 560)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     },
     {
       "source": "BPSC Official Exam Booklet",

@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory.",
-      "tip_hi": "CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory."
+      "explanation_hi": "सीपीयू = कंप्यूटर का मस्तिष्क; ALU = गणना इंजन; नियंत्रण इकाई = पर्यवेक्षक; रजिस्टर = सबसे तेज़ काम करने वाली मेमोरी।",
+      "tip_hi": "सीपीयू = कंप्यूटर का मस्तिष्क; ALU = गणना इंजन; नियंत्रण इकाई = पर्यवेक्षक; रजिस्टर = सबसे तेज़ काम करने वाली मेमोरी।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386).",
-      "tip_hi": "Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386)."
+      "explanation_hi": "जनरेशन मेमोरी नियम: पहली पीढ़ी = 4-बिट (4004); दूसरी पीढ़ी = 8-बिट (8080/8085); तीसरी पीढ़ी = 16-बिट (8086); चौथी पीढ़ी = 32-बिट (80386)।",
+      "tip_hi": "जनरेशन मेमोरी नियम: पहली पीढ़ी = 4-बिट (4004); दूसरी पीढ़ी = 8-बिट (8080/8085); तीसरी पीढ़ी = 16-बिट (8086); चौथी पीढ़ी = 32-बिट (80386)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB.",
-      "tip_hi": "Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB."
+      "explanation_hi": "मेमोरी एड्रेसिंग सीमाएँ: 8086 (20-बिट एड्रेस बस) = 1 एमबी; 80286 (24-बिट एड्रेस बस) = 16 एमबी; 80386 (32-बिट एड्रेस बस) = 4 जीबी।",
+      "tip_hi": "मेमोरी एड्रेसिंग सीमाएँ: 8086 (20-बिट एड्रेस बस) = 1 एमबी; 80286 (24-बिट एड्रेस बस) = 16 एमबी; 80386 (32-बिट एड्रेस बस) = 4 जीबी।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller.",
-      "tip_hi": "CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller."
+      "explanation_hi": "एकल आईसी चिप पर निर्मित सीपीयू = माइक्रोप्रोसेसर; एकल आईसी चिप पर संपूर्ण कंप्यूटर सिस्टम = माइक्रोकंट्रोलर।",
+      "tip_hi": "एकल आईसी चिप पर निर्मित सीपीयू = माइक्रोप्रोसेसर; एकल आईसी चिप पर संपूर्ण कंप्यूटर सिस्टम = माइक्रोकंट्रोलर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller.",
-      "tip_hi": "Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller."
+      "explanation_hi": "शब्दों पर पूरा ध्यान दें: 'एक चिप पर सीपीयू' = माइक्रोप्रोसेसर; 'कंप्यूटर ऑन ए चिप' = माइक्रोकंट्रोलर।",
+      "tip_hi": "शब्दों पर पूरा ध्यान दें: 'एक चिप पर सीपीयू' = माइक्रोप्रोसेसर; 'कंप्यूटर ऑन ए चिप' = माइक्रोकंट्रोलर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR).",
-      "tip_hi": "Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR)."
+      "explanation_hi": "परिधीय वर्गीकरण: सीएडी/सीएएम डिजिटाइज़र = ग्राफिक्स टैबलेट; गेमिंग कंट्रोलर = जॉयस्टिक; दस्तावेज़ स्कैनर = ऑप्टिकल कैरेक्टर रीडर (ओसीआर)।",
+      "tip_hi": "परिधीय वर्गीकरण: सीएडी/सीएएम डिजिटाइज़र = ग्राफिक्स टैबलेट; गेमिंग कंट्रोलर = जॉयस्टिक; दस्तावेज़ स्कैनर = ऑप्टिकल कैरेक्टर रीडर (ओसीआर)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh).",
-      "tip_hi": "Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh)."
+      "explanation_hi": "स्थायी फ़र्मवेयर = ROM; हाई-स्पीड कैश = SRAM (फ्लिप-फ्लॉप आधारित); मुख्य गतिशील प्रणाली RAM = DRAM (कैपेसिटर-आधारित, समय-समय पर ताज़ा करने की आवश्यकता होती है)।",
+      "tip_hi": "स्थायी फ़र्मवेयर = ROM; हाई-स्पीड कैश = SRAM (फ्लिप-फ्लॉप आधारित); मुख्य गतिशील प्रणाली RAM = DRAM (कैपेसिटर-आधारित, समय-समय पर ताज़ा करने की आवश्यकता होती है)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape.",
-      "tip_hi": "Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape."
+      "explanation_hi": "लेजर डायोड तकनीक = ऑप्टिकल स्टोरेज (सीडी, डीवीडी, ब्लू-रे, लेजर प्रिंटर); चुंबकीय प्रेरण = एचडीडी, चुंबकीय टेप।",
+      "tip_hi": "लेजर डायोड तकनीक = ऑप्टिकल स्टोरेज (सीडी, डीवीडी, ब्लू-रे, लेजर प्रिंटर); चुंबकीय प्रेरण = एचडीडी, चुंबकीय टेप।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter.",
-      "tip_hi": "Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter."
+      "explanation_hi": "असेंबली कोड से बाइनरी = असेंबलर; उच्च-स्तरीय से बाइनरी (संपूर्ण फ़ाइल) = कंपाइलर; निष्पादन के लिए उच्च-स्तरीय (पंक्ति-दर-पंक्ति) = दुभाषिया।",
+      "tip_hi": "असेंबली कोड से बाइनरी = असेंबलर; उच्च-स्तरीय से बाइनरी (संपूर्ण फ़ाइल) = कंपाइलर; निष्पादन के लिए उच्च-स्तरीय (पंक्ति-दर-पंक्ति) = दुभाषिया।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions.",
-      "tip_hi": "Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions."
+      "explanation_hi": "कंपाइलर एक स्वतंत्र ऑब्जेक्ट फ़ाइल उत्पन्न करते हैं; दुभाषिए सीधे मध्यवर्ती निर्देशों को क्रियान्वित करते हुए ऑब्जेक्ट कोड फ़ाइलें नहीं बनाते हैं।",
+      "tip_hi": "कंपाइलर एक स्वतंत्र ऑब्जेक्ट फ़ाइल उत्पन्न करते हैं; दुभाषिए सीधे मध्यवर्ती निर्देशों को क्रियान्वित करते हुए ऑब्जेक्ट कोड फ़ाइलें नहीं बनाते हैं।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**.",
-      "tip_hi": "Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**."
+      "explanation_hi": "प्रमुख वाक्यांश 'कथन-दर-कथन' या 'पंक्ति-दर-पंक्ति' देखें \\rightarrow तुरंत **दुभाषिया** चुनें।",
+      "tip_hi": "प्रमुख वाक्यांश 'कथन-दर-कथन' या 'पंक्ति-दर-पंक्ति' देखें \\rightarrow तुरंत **दुभाषिया** चुनें।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2).",
-      "tip_hi": "Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2)."
+      "explanation_hi": "हमेशा ऑपरेटिंग सिस्टम (लिनक्स, विंडोज, यूनिक्स, एंड्रॉइड) और रिलेशनल डेटाबेस इंजन (ओरेकल, MySQL, DB2) के बीच अंतर करें।",
+      "tip_hi": "हमेशा ऑपरेटिंग सिस्टम (लिनक्स, विंडोज, यूनिक्स, एंड्रॉइड) और रिलेशनल डेटाबेस इंजन (ओरेकल, MySQL, DB2) के बीच अंतर करें।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software.",
-      "tip_hi": "Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software."
+      "explanation_hi": "अन्य प्रोग्रामों के लिए रनटाइम वातावरण प्रदान करने वाला प्लेटफ़ॉर्म = ऑपरेटिंग सिस्टम; विशिष्ट उपयोगकर्ता उत्पादकता उपकरण = एप्लिकेशन सॉफ़्टवेयर।",
+      "tip_hi": "अन्य प्रोग्रामों के लिए रनटाइम वातावरण प्रदान करने वाला प्लेटफ़ॉर्म = ऑपरेटिंग सिस्टम; विशिष्ट उपयोगकर्ता उत्पादकता उपकरण = एप्लिकेशन सॉफ़्टवेयर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects.",
-      "tip_hi": "System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects."
+      "explanation_hi": "सिस्टम उपकरण निष्पादन योग्य नैदानिक ​​उपयोगिताएँ (डीफ़्रैग, फ़ॉर्मेट, स्कैंडिस्क) हैं; फ़ोल्डर और फ़ाइलें संगठनात्मक डेटा ऑब्जेक्ट हैं।",
+      "tip_hi": "सिस्टम उपकरण निष्पादन योग्य नैदानिक ​​उपयोगिताएँ (डीफ़्रैग, फ़ॉर्मेट, स्कैंडिस्क) हैं; फ़ोल्डर और फ़ाइलें संगठनात्मक डेटा ऑब्जेक्ट हैं।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion.",
-      "tip_hi": "Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion."
+      "explanation_hi": "सरल डिलीट = फ़ाइल को रीसायकल बिन में ले जाता है (पुनर्प्राप्ति योग्य); Shift + Delete = स्थायी डिस्क विलोपन।",
+      "tip_hi": "सरल डिलीट = फ़ाइल को रीसायकल बिन में ले जाता है (पुनर्प्राप्ति योग्य); Shift + Delete = स्थायी डिस्क विलोपन।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers.",
-      "tip_hi": "System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers."
+      "explanation_hi": "सिस्टम स्तर = सीपीयू + मेमोरी + आई/ओ; सीपीयू आंतरिक संरचना = ALU + नियंत्रण इकाई + आंतरिक रजिस्टर।",
+      "tip_hi": "सिस्टम स्तर = सीपीयू + मेमोरी + आई/ओ; सीपीयू आंतरिक संरचना = ALU + नियंत्रण इकाई + आंतरिक रजिस्टर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K.",
-      "tip_hi": "Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K."
+      "explanation_hi": "हेक्साडेसिमल पता त्वरित सूत्र: 4 हेक्स अंक = 16 पता बिट्स -> 2^16 = 65,536 = 64K।",
+      "tip_hi": "हेक्साडेसिमल पता त्वरित सूत्र: 4 हेक्स अंक = 16 पता बिट्स -> 2^16 = 65,536 = 64K।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access).",
-      "tip_hi": "Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access)."
+      "explanation_hi": "भंडारण लागत पदानुक्रम: रजिस्टर > कैश > रैम > एचडीडी > चुंबकीय टेप (प्रति बिट सबसे कम लागत, सबसे धीमी पहुंच)।",
+      "tip_hi": "भंडारण लागत पदानुक्रम: रजिस्टर > कैश > रैम > एचडीडी > चुंबकीय टेप (प्रति बिट सबसे कम लागत, सबसे धीमी पहुंच)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB.",
-      "tip_hi": "Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB."
+      "explanation_hi": "बाइनरी पावर चरण (10 की शक्तियाँ): 2^10 = केबी, 2^20 = एमबी, 2^30 = जीबी, 2^40 = टीबी।",
+      "tip_hi": "बाइनरी पावर चरण (10 की शक्तियाँ): 2^10 = केबी, 2^20 = एमबी, 2^30 = जीबी, 2^40 = टीबी।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler.",
-      "tip_hi": "Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler."
+      "explanation_hi": "रेजिडेंट रूटीन = लोडर/ओएस कर्नेल; क्षणिक विकास उपकरण (मांग पर लागू) = लिंकर, असेंबलर, कंपाइलर।",
+      "tip_hi": "रेजिडेंट रूटीन = लोडर/ओएस कर्नेल; क्षणिक विकास उपकरण (मांग पर लागू) = लिंकर, असेंबलर, कंपाइलर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*.",
-      "tip_hi": "Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*."
+      "explanation_hi": "इनफ़िक्स के लिए उपसर्ग: * (+ ए बी) (- सी डी) = (ए + बी) * (सी - डी)। इनफ़िक्स से पोस्टफ़िक्स: (ab+) (cd-) * = ab+cd-*।",
+      "tip_hi": "इनफ़िक्स के लिए उपसर्ग: * (+ ए बी) (- सी डी) = (ए + बी) * (सी - डी)। इनफ़िक्स से पोस्टफ़िक्स: (ab+) (cd-) * = ab+cd-*।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure.",
-      "tip_hi": "Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure."
+      "explanation_hi": "अभिव्यक्ति पार्सिंग, मूल्यांकन और कोष्ठक का सार्वभौमिक रूप से मिलान **स्टैक** डेटा संरचना पर निर्भर करता है।",
+      "tip_hi": "अभिव्यक्ति पार्सिंग, मूल्यांकन और कोष्ठक का सार्वभौमिक रूप से मिलान **स्टैक** डेटा संरचना पर निर्भर करता है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO).",
-      "tip_hi": "Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO)."
+      "explanation_hi": "पीछे से डालें और सामने से हटाएँ = कतार (फीफो); एक ही शीर्ष सिरे पर डालें और हटाएँ = स्टैक (LIFO)।",
+      "tip_hi": "पीछे से डालें और सामने से हटाएँ = कतार (फीफो); एक ही शीर्ष सिरे पर डालें और हटाएँ = स्टैक (LIFO)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out).",
-      "tip_hi": "Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out)."
+      "explanation_hi": "कतार = फीफो (फर्स्ट-इन, फर्स्ट-आउट); स्टैक = LIFO (अंतिम-प्रवेश, प्रथम-आउट)।",
+      "tip_hi": "कतार = फीफो (फर्स्ट-इन, फर्स्ट-आउट); स्टैक = LIFO (अंतिम-प्रवेश, प्रथम-आउट)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off.",
-      "tip_hi": "Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off."
+      "explanation_hi": "स्टैक स्मरक: प्लेटों के ढेर के बारे में सोचें - शीर्ष पर रखी आखिरी प्लेट सबसे पहले हटाई गई है।",
+      "tip_hi": "स्टैक स्मरक: प्लेटों के ढेर के बारे में सोचें - शीर्ष पर रखी आखिरी प्लेट सबसे पहले हटाई गई है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Declaring a class creates no object memory; object instantiation automatically triggers constructor execution.",
-      "tip_hi": "Declaring a class creates no object memory; object instantiation automatically triggers constructor execution."
+      "explanation_hi": "किसी वर्ग की घोषणा करने से कोई ऑब्जेक्ट मेमोरी नहीं बनती; ऑब्जेक्ट इन्स्टेन्शियशन स्वचालित रूप से कंस्ट्रक्टर निष्पादन को ट्रिगर करता है।",
+      "tip_hi": "किसी वर्ग की घोषणा करने से कोई ऑब्जेक्ट मेमोरी नहीं बनती; ऑब्जेक्ट इन्स्टेन्शियशन स्वचालित रूप से कंस्ट्रक्टर निष्पादन को ट्रिगर करता है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fundamental C++ interview rule: `struct` = public by default; `class` = private by default.",
-      "tip_hi": "Fundamental C++ interview rule: `struct` = public by default; `class` = private by default."
+      "explanation_hi": "मौलिक C++ साक्षात्कार नियम: `struct` = डिफ़ॉल्ट रूप से सार्वजनिक; `वर्ग` = डिफ़ॉल्ट रूप से निजी।",
+      "tip_hi": "मौलिक C++ साक्षात्कार नियम: `struct` = डिफ़ॉल्ट रूप से सार्वजनिक; `वर्ग` = डिफ़ॉल्ट रूप से निजी।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Structure vs Class access defaults is one of BPSC's most frequently repeated questions.",
-      "tip_hi": "Structure vs Class access defaults is one of BPSC's most frequently repeated questions."
+      "explanation_hi": "स्ट्रक्चर बनाम क्लास एक्सेस डिफॉल्ट बीपीएससी के सबसे अधिक बार दोहराए जाने वाले प्रश्नों में से एक है।",
+      "tip_hi": "स्ट्रक्चर बनाम क्लास एक्सेस डिफॉल्ट बीपीएससी के सबसे अधिक बार दोहराए जाने वाले प्रश्नों में से एक है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods).",
-      "tip_hi": "Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods)."
+      "explanation_hi": "ऑब्जेक्ट-ओरिएंटेड परिभाषा: क्लास डेटा सदस्यों (विशेषताओं) और सदस्य कार्यों (विधियों) को समाहित करता है।",
+      "tip_hi": "ऑब्जेक्ट-ओरिएंटेड परिभाषा: क्लास डेटा सदस्यों (विशेषताओं) और सदस्य कार्यों (विधियों) को समाहित करता है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Remember the three C++ access specifiers: Public, Private, and Protected.",
-      "tip_hi": "Remember the three C++ access specifiers: Public, Private, and Protected."
+      "explanation_hi": "तीन C++ एक्सेस विनिर्देशक याद रखें: सार्वजनिक, निजी और संरक्षित।",
+      "tip_hi": "तीन C++ एक्सेस विनिर्देशक याद रखें: सार्वजनिक, निजी और संरक्षित।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator.",
-      "tip_hi": "Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator."
+      "explanation_hi": "एकल कोलन `:` = वंशानुक्रम और कंस्ट्रक्टर आरंभीकरण; डबल कोलन `::` = स्कोप रिज़ॉल्यूशन ऑपरेटर।",
+      "tip_hi": "एकल कोलन `:` = वंशानुक्रम और कंस्ट्रक्टर आरंभीकरण; डबल कोलन `::` = स्कोप रिज़ॉल्यूशन ऑपरेटर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism.",
-      "tip_hi": "Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism."
+      "explanation_hi": "कोड पुन: प्रयोज्यता = वंशानुक्रम; डेटा सुरक्षा = एनकैप्सुलेशन; फ़ंक्शन ओवरलोडिंग/डायनामिक बाइंडिंग = बहुरूपता।",
+      "tip_hi": "कोड पुन: प्रयोज्यता = वंशानुक्रम; डेटा सुरक्षा = एनकैप्सुलेशन; फ़ंक्शन ओवरलोडिंग/डायनामिक बाइंडिंग = बहुरूपता।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable.",
-      "tip_hi": "Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable."
+      "explanation_hi": "यूनरी `::identifier` हमेशा सभी संलग्न स्थानीय फ़ंक्शन स्कोप को बायपास करता है और वैश्विक चर तक पहुंचता है।",
+      "tip_hi": "यूनरी `::identifier` हमेशा सभी संलग्न स्थानीय फ़ंक्शन स्कोप को बायपास करता है और वैश्विक चर तक पहुंचता है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead.",
-      "tip_hi": "Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead."
+      "explanation_hi": "इनलाइन फ़ंक्शंस कॉल ओवरहेड को समाप्त करके तेज़ निष्पादन गति के लिए बड़े बाइनरी निष्पादन योग्य आकार का व्यापार करते हैं।",
+      "tip_hi": "इनलाइन फ़ंक्शंस कॉल ओवरहेड को समाप्त करके तेज़ निष्पादन गति के लिए बड़े बाइनरी निष्पादन योग्य आकार का व्यापार करते हैं।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20.",
-      "tip_hi": "Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20."
+      "explanation_hi": "बायां बदलाव: `x << n = x * 2^n`; दायां शिफ्ट: `x >> n = x / 2^n`। यहाँ 5 * 2^2 = 20।",
+      "tip_hi": "बायां बदलाव: `x << n = x * 2^n`; दायां शिफ्ट: `x >> n = x / 2^n`। यहाँ 5 * 2^2 = 20।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error.",
-      "tip_hi": "Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error."
+      "explanation_hi": "मानक धाराएँ: `cin` = कैरेक्टर इनपुट; `काउट` = कैरेक्टर आउटपुट; `cerr` = वर्ण त्रुटि.",
+      "tip_hi": "मानक धाराएँ: `cin` = कैरेक्टर इनपुट; `काउट` = कैरेक्टर आउटपुट; `cerr` = वर्ण त्रुटि."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software.",
-      "tip_hi": "Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software."
+      "explanation_hi": "निर्देश सेट = आदिम मशीन कमांड; निर्देशों का क्रमबद्ध क्रम = कार्यक्रम; प्रोग्रामों का सेट = सॉफ्टवेयर।",
+      "tip_hi": "निर्देश सेट = आदिम मशीन कमांड; निर्देशों का क्रमबद्ध क्रम = कार्यक्रम; प्रोग्रामों का सेट = सॉफ्टवेयर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language.",
-      "tip_hi": "Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language."
+      "explanation_hi": "एल्गोरिथम = चरण-दर-चरण तर्क; फ़्लोचार्ट = चित्रमय प्रतिनिधित्व; प्रोग्राम = प्रोग्रामिंग भाषा में एल्गोरिथम कोड।",
+      "tip_hi": "एल्गोरिथम = चरण-दर-चरण तर्क; फ़्लोचार्ट = चित्रमय प्रतिनिधित्व; प्रोग्राम = प्रोग्रामिंग भाषा में एल्गोरिथम कोड।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus.",
-      "tip_hi": "Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus."
+      "explanation_hi": "अधिकतम दोष सहनशीलता और अतिरेक = मेष; सर्वाधिक प्रचलित कॉर्पोरेट लैन = स्टार; एकल साझा केंद्रीय रीढ़ = बस।",
+      "tip_hi": "अधिकतम दोष सहनशीलता और अतिरेक = मेष; सर्वाधिक प्रचलित कॉर्पोरेट लैन = स्टार; एकल साझा केंद्रीय रीढ़ = बस।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer.",
-      "tip_hi": "Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer."
+      "explanation_hi": "हॉप-टू-हॉप लिंक डिलीवरी = डेटा लिंक परत; पूरे नेटवर्क में होस्ट-टू-होस्ट रूटिंग = नेटवर्क परत; एंड-टू-एंड प्रोसेस डिलीवरी = ट्रांसपोर्ट लेयर।",
+      "tip_hi": "हॉप-टू-हॉप लिंक डिलीवरी = डेटा लिंक परत; पूरे नेटवर्क में होस्ट-टू-होस्ट रूटिंग = नेटवर्क परत; एंड-टू-एंड प्रोसेस डिलीवरी = ट्रांसपोर्ट लेयर।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1111,8 +1111,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER).",
-      "tip_hi": "Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER)."
+      "explanation_hi": "प्रति सेकंड हस्तांतरित बिट्स = बिट दर; प्रति सेकंड सिग्नल स्तर परिवर्तन = बॉड दर; त्रुटिपूर्ण बिट्स का अनुपात = बिट त्रुटि दर (बीईआर)।",
+      "tip_hi": "प्रति सेकंड हस्तांतरित बिट्स = बिट दर; प्रति सेकंड सिग्नल स्तर परिवर्तन = बॉड दर; त्रुटिपूर्ण बिट्स का अनुपात = बिट त्रुटि दर (बीईआर)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1138,8 +1138,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP).",
-      "tip_hi": "Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP)."
+      "explanation_hi": "बैंडविड्थ पदानुक्रम: फाइबर-ऑप्टिक केबल >> समाक्षीय केबल > शील्डेड ट्विस्टेड पेयर (एसटीपी) > अनशील्डेड ट्विस्टेड पेयर (यूटीपी)।",
+      "tip_hi": "बैंडविड्थ पदानुक्रम: फाइबर-ऑप्टिक केबल >> समाक्षीय केबल > शील्डेड ट्विस्टेड पेयर (एसटीपी) > अनशील्डेड ट्विस्टेड पेयर (यूटीपी)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1165,8 +1165,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring.",
-      "tip_hi": "Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring."
+      "explanation_hi": "सिंगल लीनियर बैकबोन केबल = बस; सेंट्रल स्विच/हब = स्टार; वृत्ताकार एकदिशीय वलय = वलय.",
+      "tip_hi": "सिंगल लीनियर बैकबोन केबल = बस; सेंट्रल स्विच/हब = स्टार; वृत्ताकार एकदिशीय वलय = वलय."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1192,8 +1192,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN.",
-      "tip_hi": "Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN."
+      "explanation_hi": "कक्ष/भवन = LAN; सिटी-स्केल = MAN (मेट्रोपॉलिटन एरिया नेटवर्क); देश/वैश्विक पैमाना = WAN.",
+      "tip_hi": "कक्ष/भवन = LAN; सिटी-स्केल = MAN (मेट्रोपॉलिटन एरिया नेटवर्क); देश/वैश्विक पैमाना = WAN."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1219,8 +1219,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits.",
-      "tip_hi": "Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits."
+      "explanation_hi": "मानक नेटवर्क पते: आईपीवी4 = 32 बिट्स; मैक पता = 48 बिट्स; आईपीवी6 = 128 बिट्स।",
+      "tip_hi": "मानक नेटवर्क पते: आईपीवी4 = 32 बिट्स; मैक पता = 48 बिट्स; आईपीवी6 = 128 बिट्स।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1246,8 +1246,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer).",
-      "tip_hi": "MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer)."
+      "explanation_hi": "मैक पता = 48 बिट्स (भौतिक/डेटा लिंक परत); IPv4 पता = 32 बिट्स (तार्किक/नेटवर्क परत)।",
+      "tip_hi": "मैक पता = 48 बिट्स (भौतिक/डेटा लिंक परत); IPv4 पता = 32 बिट्स (तार्किक/नेटवर्क परत)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1273,8 +1273,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing.",
-      "tip_hi": "Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing."
+      "explanation_hi": "अनधिकृत सिस्टम प्रवेश = हैकिंग; नेटवर्क पैकेट को इंटरसेप्ट करना = सूँघना; भ्रामक पहचान की चोरी = फ़िशिंग.",
+      "tip_hi": "अनधिकृत सिस्टम प्रवेश = हैकिंग; नेटवर्क पैकेट को इंटरसेप्ट करना = सूँघना; भ्रामक पहचान की चोरी = फ़िशिंग."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1300,8 +1300,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Since virus definition includes both self-replication (cloning) and payload destruction, select Option (D).",
-      "tip_hi": "Since virus definition includes both self-replication (cloning) and payload destruction, select Option (D)."
+      "explanation_hi": "चूँकि वायरस की परिभाषा में स्व-प्रतिकृति (क्लोनिंग) और पेलोड विनाश दोनों शामिल हैं, विकल्प (डी) का चयन करें।",
+      "tip_hi": "चूँकि वायरस की परिभाषा में स्व-प्रतिकृति (क्लोनिंग) और पेलोड विनाश दोनों शामिल हैं, विकल्प (डी) का चयन करें।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1327,8 +1327,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking.",
-      "tip_hi": "Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking."
+      "explanation_hi": "कॉपीराइट सॉफ़्टवेयर का अनधिकृत पुनरुत्पादन = सॉफ़्टवेयर चोरी; संरक्षित कंप्यूटरों तक अनधिकृत पहुंच = हैकिंग।",
+      "tip_hi": "कॉपीराइट सॉफ़्टवेयर का अनधिकृत पुनरुत्पादन = सॉफ़्टवेयर चोरी; संरक्षित कंप्यूटरों तक अनधिकृत पहुंच = हैकिंग।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1354,8 +1354,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option (D).",
-      "tip_hi": "In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option (D)."
+      "explanation_hi": "बीपीएससी में, कई महत्वपूर्ण संरचनात्मक तालिकाएं दूषित होने पर डिस्क को पहुंच से बाहर कर देती हैं, जिससे विकल्प (डी) ट्रिगर हो जाता है।",
+      "tip_hi": "बीपीएससी में, कई महत्वपूर्ण संरचनात्मक तालिकाएं दूषित होने पर डिस्क को पहुंच से बाहर कर देती हैं, जिससे विकल्प (डी) ट्रिगर हो जाता है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1381,8 +1381,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key.",
-      "tip_hi": "Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key."
+      "explanation_hi": "क्रॉस-टेबल लिंकेज / रेफ़रेंशियल बाधा = विदेशी कुंजी; किसी संबंध के भीतर विशिष्ट रूप से पहचाने जाने वाले रिकॉर्ड = प्राथमिक कुंजी।",
+      "tip_hi": "क्रॉस-टेबल लिंकेज / रेफ़रेंशियल बाधा = विदेशी कुंजी; किसी संबंध के भीतर विशिष्ट रूप से पहचाने जाने वाले रिकॉर्ड = प्राथमिक कुंजी।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1408,8 +1408,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency.",
-      "tip_hi": "Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency."
+      "explanation_hi": "सामान्य रूप: 1NF = परमाणु मान; 2NF = कोई आंशिक निर्भरता नहीं (पूर्ण कार्यात्मक निर्भरता); 3NF = कोई सकर्मक निर्भरता नहीं।",
+      "tip_hi": "सामान्य रूप: 1NF = परमाणु मान; 2NF = कोई आंशिक निर्भरता नहीं (पूर्ण कार्यात्मक निर्भरता); 3NF = कोई सकर्मक निर्भरता नहीं।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1435,8 +1435,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation.",
-      "tip_hi": "Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation."
+      "explanation_hi": "वैध मानों का अनुमेय पूल = डोमेन; कॉलम हेडर = विशेषता; पंक्ति टुपल = रिकॉर्ड; तालिका = संबंध.",
+      "tip_hi": "वैध मानों का अनुमेय पूल = डोमेन; कॉलम हेडर = विशेषता; पंक्ति टुपल = रिकॉर्ड; तालिका = संबंध."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1462,8 +1462,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Count of Columns = Degree; Count of Rows = Cardinality.",
-      "tip_hi": "Count of Columns = Degree; Count of Rows = Cardinality."
+      "explanation_hi": "स्तम्भों की गिनती = डिग्री; पंक्तियों की गिनती = कार्डिनैलिटी।",
+      "tip_hi": "स्तम्भों की गिनती = डिग्री; पंक्तियों की गिनती = कार्डिनैलिटी।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1489,8 +1489,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows).",
-      "tip_hi": "Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows)."
+      "explanation_hi": "अद्यतन = डीएमएल (डेटा मान संशोधित करता है); परिवर्तन = डीडीएल (स्कीमा/कॉलम को संशोधित करता है); सम्मिलित करें = डीएमएल (नई पंक्तियाँ जोड़ता है)।",
+      "tip_hi": "अद्यतन = डीएमएल (डेटा मान संशोधित करता है); परिवर्तन = डीडीएल (स्कीमा/कॉलम को संशोधित करता है); सम्मिलित करें = डीएमएल (नई पंक्तियाँ जोड़ता है)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1516,8 +1516,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`.",
-      "tip_hi": "Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`."
+      "explanation_hi": "डेटा पूछना/पुनर्प्राप्त करना = `चयन करें`; तालिकाएँ बनाना = `बनाएँ`; तालिकाएँ हटाना = `DROP`।",
+      "tip_hi": "डेटा पूछना/पुनर्प्राप्त करना = `चयन करें`; तालिकाएँ बनाना = `बनाएँ`; तालिकाएँ हटाना = `DROP`।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1543,8 +1543,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "`ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML).",
-      "tip_hi": "`ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML)."
+      "explanation_hi": "'तालिका बदलें' तालिका संरचना (डीडीएल) को बदल देता है; `अद्यतन` तालिका पंक्तियों/सामग्री (डीएमएल) को बदल देता है।",
+      "tip_hi": "'तालिका बदलें' तालिका संरचना (डीडीएल) को बदल देता है; `अद्यतन` तालिका पंक्तियों/सामग्री (डीएमएल) को बदल देता है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1570,8 +1570,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`.",
-      "tip_hi": "Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`."
+      "explanation_hi": "पैटर्न मिलान = `पसंद` (`%` और `_`); सदस्यता जांच = `IN`; रेंज जांच = 'बीच'।",
+      "tip_hi": "पैटर्न मिलान = `पसंद` (`%` और `_`); सदस्यता जांच = `IN`; रेंज जांच = 'बीच'।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1597,8 +1597,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7.",
-      "tip_hi": "Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7."
+      "explanation_hi": "डिग्री = गुण (4+3=7); कार्डिनैलिटी = टुपल्स (3+4=7)। परिणाम = 7, 7.",
+      "tip_hi": "डिग्री = गुण (4+3=7); कार्डिनैलिटी = टुपल्स (3+4=7)। परिणाम = 7, 7."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1624,8 +1624,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`.",
-      "tip_hi": "Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`."
+      "explanation_hi": "टेबल स्कीमा को पूरी तरह से हटा दें = `ड्रॉप टेबल`; सभी पंक्तियाँ हटाएँ लेकिन स्कीमा = `TRUNCATE` या `DELETE` सुरक्षित रखें।",
+      "tip_hi": "टेबल स्कीमा को पूरी तरह से हटा दें = `ड्रॉप टेबल`; सभी पंक्तियाँ हटाएँ लेकिन स्कीमा = `TRUNCATE` या `DELETE` सुरक्षित रखें।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1651,8 +1651,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR).",
-      "tip_hi": "Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR)."
+      "explanation_hi": "अगला निर्देश पता = प्रोग्राम काउंटर (पीसी); वर्तमान निर्देश ऑपकोड = निर्देश रजिस्टर (आईआर)।",
+      "tip_hi": "अगला निर्देश पता = प्रोग्राम काउंटर (पीसी); वर्तमान निर्देश ऑपकोड = निर्देश रजिस्टर (आईआर)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1678,8 +1678,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR).",
-      "tip_hi": "Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR)."
+      "explanation_hi": "निर्देश का पता = प्रोग्राम काउंटर (पीसी); निर्देश निष्पादित करने का निकाय = निर्देश रजिस्टर (आईआर)।",
+      "tip_hi": "निर्देश का पता = प्रोग्राम काउंटर (पीसी); निर्देश निष्पादित करने का निकाय = निर्देश रजिस्टर (आईआर)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1705,8 +1705,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register).",
-      "tip_hi": "Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register)."
+      "explanation_hi": "एड्रेस होल्डिंग रजिस्टर = मार्च (मेमोरी एड्रेस रजिस्टर); डेटा होल्डिंग रजिस्टर = एमबीआर/एमडीआर (मेमोरी बफर/डेटा रजिस्टर)।",
+      "tip_hi": "एड्रेस होल्डिंग रजिस्टर = मार्च (मेमोरी एड्रेस रजिस्टर); डेटा होल्डिंग रजिस्टर = एमबीआर/एमडीआर (मेमोरी बफर/डेटा रजिस्टर)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1732,8 +1732,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory.",
-      "tip_hi": "Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory."
+      "explanation_hi": "गति मुआवजा / प्रवाह दर बेमेल = बफर; तीव्र कैश लुकअप = कैश मेमोरी।",
+      "tip_hi": "गति मुआवजा / प्रवाह दर बेमेल = बफर; तीव्र कैश लुकअप = कैश मेमोरी।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1759,8 +1759,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape.",
-      "tip_hi": "Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape."
+      "explanation_hi": "पते की परवाह किए बिना समान निश्चित पहुंच समय = रैंडम एक्सेस मेमोरी (रैम); अनुक्रमिक खोज = चुंबकीय टेप।",
+      "tip_hi": "पते की परवाह किए बिना समान निश्चित पहुंच समय = रैंडम एक्सेस मेमोरी (रैम); अनुक्रमिक खोज = चुंबकीय टेप।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1786,8 +1786,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4.",
-      "tip_hi": "Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4."
+      "explanation_hi": "अष्टाधारी जोड़: योग को दशमलव में बदलें, 8 से विभाजित करें; शेष वर्तमान अंक है, भागफल कैरी है। 7 + 5 = 12_10 = (1 * 8 + 4) -> अंक 4, कैरी 1 -> एक्स = 4।",
+      "tip_hi": "अष्टाधारी जोड़: योग को दशमलव में बदलें, 8 से विभाजित करें; शेष वर्तमान अंक है, भागफल कैरी है। 7 + 5 = 12_10 = (1 * 8 + 4) -> अंक 4, कैरी 1 -> एक्स = 4।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1813,8 +1813,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767.",
-      "tip_hi": "2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767."
+      "explanation_hi": "2 का पूरक श्रेणी सूत्र: -2^(n-1) से +2^(n-1)-1। 8 बिट्स के लिए: -128 से +127. 16 बिट्स के लिए: -32768 से +32767।",
+      "tip_hi": "2 का पूरक श्रेणी सूत्र: -2^(n-1) से +2^(n-1)-1। 8 बिट्स के लिए: -128 से +127. 16 बिट्स के लिए: -32768 से +32767।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1840,8 +1840,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left.",
-      "tip_hi": "Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left."
+      "explanation_hi": "हेक्स से ऑक्टल ब्रिज: हेक्स को 4-बिट बाइनरी में बदलें, बाइनरी को दाएं से बाएं 3-बिट क्लस्टर में पुनः समूहित करें।",
+      "tip_hi": "हेक्स से ऑक्टल ब्रिज: हेक्स को 4-बिट बाइनरी में बदलें, बाइनरी को दाएं से बाएं 3-बिट क्लस्टर में पुनः समूहित करें।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1867,8 +1867,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement.",
-      "tip_hi": "The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement."
+      "explanation_hi": "2 के पूरक में सबसे नकारात्मक संख्या (1 के बाद सभी शून्य) हमेशा अपने 2 के पूरक के बराबर होती है।",
+      "tip_hi": "2 के पूरक में सबसे नकारात्मक संख्या (1 के बाद सभी शून्य) हमेशा अपने 2 के पूरक के बराबर होती है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1894,8 +1894,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9.",
-      "tip_hi": "Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9."
+      "explanation_hi": "16 की घातें हेक्साडेसिमल स्थितीय संकेतन बनाती हैं: (9753)_16। प्रत्येक हेक्स अंक के 1-बिट का योग करें: 2 + 3 + 2 + 2 = 9।",
+      "tip_hi": "16 की घातें हेक्साडेसिमल स्थितीय संकेतन बनाती हैं: (9753)_16। प्रत्येक हेक्स अंक के 1-बिट का योग करें: 2 + 3 + 2 + 2 = 9।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1921,8 +1921,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Absorption & Redundancy rule: `A + A'B = A + B`.",
-      "tip_hi": "Absorption & Redundancy rule: `A + A'B = A + B`."
+      "explanation_hi": "अवशोषण और अतिरेक नियम: `ए + ए'बी = ए + बी`।",
+      "tip_hi": "अवशोषण और अतिरेक नियम: `ए + ए'बी = ए + बी`।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1948,8 +1948,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B.",
-      "tip_hi": "Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B."
+      "explanation_hi": "सामान्य पदों का गुणनखंड करें: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. यह B से स्वतंत्र है।",
+      "tip_hi": "सामान्य पदों का गुणनखंड करें: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. यह B से स्वतंत्र है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -1975,8 +1975,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C).",
-      "tip_hi": "Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C)."
+      "explanation_hi": "वितरणात्मक नियम: ए(बी + सी) = एबी + एसी, और ए + बीसी = (ए + बी)(ए + सी)।",
+      "tip_hi": "वितरणात्मक नियम: ए(बी + सी) = एबी + एसी, और ए + बीसी = (ए + बी)(ए + सी)।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -2002,8 +2002,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Boolean Absorption Law: `x + xy = x`.",
-      "tip_hi": "Boolean Absorption Law: `x + xy = x`."
+      "explanation_hi": "बूलियन अवशोषण नियम: `x + xy = x`.",
+      "tip_hi": "बूलियन अवशोषण नियम: `x + xy = x`."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -2029,8 +2029,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dual Absorption Law: `x(x + y) = x`.",
-      "tip_hi": "Dual Absorption Law: `x(x + y) = x`."
+      "explanation_hi": "दोहरा अवशोषण नियम: `x(x + y) = x`.",
+      "tip_hi": "दोहरा अवशोषण नियम: `x(x + y) = x`."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -2056,8 +2056,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x.",
-      "tip_hi": "Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x."
+      "explanation_hi": "पूरक अभाज्य संख्याओं की सम संख्या = स्वयं चर (x); पूरक अभाज्य संख्याओं की विषम संख्या = नकारात्मक चर (x')। 4 सम \\दाहिना तीर x है।",
+      "tip_hi": "पूरक अभाज्य संख्याओं की सम संख्या = स्वयं चर (x); पूरक अभाज्य संख्याओं की विषम संख्या = नकारात्मक चर (x')। 4 सम \\दाहिना तीर x है।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -2083,8 +2083,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256.",
-      "tip_hi": "Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256."
+      "explanation_hi": "n चरों के विशिष्ट बूलियन फ़ंक्शंस की संख्या = 2^(2^n)। 1 चर के लिए = 4; 2 चरों के लिए = 16; 3 चरों के लिए = 256.",
+      "tip_hi": "n चरों के विशिष्ट बूलियन फ़ंक्शंस की संख्या = 2^(2^n)। 1 चर के लिए = 4; 2 चरों के लिए = 16; 3 चरों के लिए = 256."
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -2110,8 +2110,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B.",
-      "tip_hi": "Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B."
+      "explanation_hi": "समूह C पद: (A' + AB' + B)C = C. F = C + A'B प्राप्त करने के लिए शेष पद के साथ संयोजन करें।",
+      "tip_hi": "समूह C पद: (A' + AB' + B)C = C. F = C + A'B प्राप्त करने के लिए शेष पद के साथ संयोजन करें।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -2137,8 +2137,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Universal Gates = NAND and NOR; क्षारीय Gates = AND, OR, NOT.",
-      "tip_hi": "Universal Gates = NAND and NOR; क्षारीय Gates = AND, OR, NOT."
+      "explanation_hi": "यूनिवर्सल गेट्स = NAND और NOR; मूल द्वार = और, या, नहीं।",
+      "tip_hi": "यूनिवर्सल गेट्स = NAND और NOR; मूल द्वार = और, या, नहीं।"
     },
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
@@ -2164,8 +2164,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)\n(A)\n41\nError Rate Measurement\n(A)\n2\nMicroprocessor Generations (8085)\n(B)\n42\nHighest Speed Media (Fiber)\n(C)\n3\n3rd Gen Memory Limit (16 MB)\n(B)\n43\nSingle Backbone Topology (Bus)\n(A)\n4\nCPU on Single Chip (Microprocessor)\n(A)\n44\nWide Area Network (WAN)\n(A)\n5\nComputer on Single Chip\n(A)\n45\nIPv4 Address Length (32-bit)\n(C)\n6\nGaming Controller (Joystick)\n(C)\n46\nMAC Address Length (48-bit)\n(C)\n7\nNon-volatile Storage (ROM)\n(C)\n47\nUnauthorized Access (Hacking)\n(A)\n8\nLaser Storage Device (CD Drive)\n(A)\n48\nComputer Virus Characteristics\n(D)\n9\nAssembly to Machine (Assembler)\n(B)\n49\nUnauthorized Copying (Piracy)\n(B)\n10\nHigh-level to Machine (Compiler)\n(B)\n50\nHard Disk Table Corruption\n(D)\n11\nLine-by-line Execution (Interpreter)\n(C)\n51\nForeign Key Referential Link\n(A)\n12\nOS Identification vs DBMS\n(C)\n52\nFull Functional Dependency (2NF)\n(B)\n13\nOS Platform Function\n(B)\n53\nAttribute Permitted Values (Domain)\n(B)\n14\nSystem Tools (Scandisk/Format)\n(C)\n54\nAttribute Count (Degree)\n(B)\n15\nPermanent Deletion (Shift+Del)\n(B)\n55\nUpdating Row Values (UPDATE)\n(A)\n16\nComputer Main Subsystems\n(C)\n56\nData Retrieval Query (SELECT)\n(C)\n17\nHex Address Space FFFF (64K)\n(C)\n57\nModifying Table Schema (ALTER)\n(A)\n18\nMinimum Storage Cost (Tape)\n(C)\n58\nPattern Matching Predicate (LIKE)\n(B)\n19\nBinary Prefix Tera (2^40)\n(B)\n59\nDegree & Cardinality Calculation\n(B)\n20\nResident Memory Software (Loader)\n(A)\n60\nRemoving Table Object (DROP)\n(B)\n21\nPrefix to Postfix Conversion\n(A)\n61\nProgram Counter Next Address\n(A)\n22\nInfix to Postfix Data Structure\n(A)\n62\nInstruction Register Current Op\n(C)\n23\nQueue Rear & Front Access\n(B)\n63\nMemory Address Register (MAR)\n(B)\n24\nQueue Access Rule (FIFO)\n(A)\n64\nSpeed Mismatch Buffer\n(C)\n25\nStack Access Rule (LIFO)\n(B)\n65\nRandom Access Memory (RAM)\n(B)\n26\nConstructor Invocation Timing\n(A)\n66\nOctal Addition Arithmetic\n(A)\n27\nStructure Default Access (public)\n(A)\n67\n8-bit 2's Complement Range\n(C)\n28\nClass Default Access (private)\n(B)\n68\nHex to Octal Base Conversion\n(C)\n29\nClass Encapsulation Contents\n(C)\n69\nSelf 2's Complement (1000)\n(C)\n30\nC++ Access Specifier Count (3)\n(B)\n70\nBinary 1s Count in Hex Num\n(B)\n31\nScope Resolution Operator (::)\n(B)\n71\nBoolean Redundancy (x + x'y)\n(A)\n32\nCode Reusability (Inheritance)\n(B)\n72\nBoolean Variable Independence\n(D)\n33\nGlobal Scope Resolution (::i)\n(A)\n73\nOR Distributive Law (A+BC)\n(C)\n34\nInline Function Speedup\n(A)\n74\nAbsorption Law (x + xy = x)\n(A)\n35\nBitwise Left Shift (a<<2)\n(B)\n75\nDual Absorption (x(x+y) = x)\n(A)\n36\ncout Standard Stream Meaning\n(B)\n76\nEven Involutions Law (4 primes)\n(B)\n37\nProgram Definition\n(C)\n77\nTotal 2-Variable Functions (16)\n(C)\n38\nAlgorithmic Program Definition\n(C)\n78\nBoolean Function Simplification\n(A)\n39\nMaximum Reliability (Mesh)\n(C)\n79\nUniversal Gate (NAND Gate)\n(C)\n40\nTransport Layer Host-to-Host\n(B)\n80\nXOR NAND Gate Count (4 Gates)\n(B)\nPart-III: Computer Science — Practice Set 2 (Questions 81 to 160 [Secondary / TGT Computer])Focus: Network Routing, Fifth Generation Computing, Virtual Base Classes, Memory Operators, Stack Applications, Binary Heap Priority Queues, Database Normalization (3NF), and Boolean Equivalence.",
-      "tip_hi": "Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)\n(A)\n41\nError Rate Measurement\n(A)\n2\nMicroprocessor Generations (8085)\n(B)\n42\nHighest Speed Media (Fiber)\n(C)\n3\n3rd Gen Memory Limit (16 MB)\n(B)\n43\nSingle Backbone Topology (Bus)\n(A)\n4\nCPU on Single Chip (Microprocessor)\n(A)\n44\nWide Area Network (WAN)\n(A)\n5\nComputer on Single Chip\n(A)\n45\nIPv4 Address Length (32-bit)\n(C)\n6\nGaming Controller (Joystick)\n(C)\n46\nMAC Address Length (48-bit)\n(C)\n7\nNon-volatile Storage (ROM)\n(C)\n47\nUnauthorized Access (Hacking)\n(A)\n8\nLaser Storage Device (CD Drive)\n(A)\n48\nComputer Virus Characteristics\n(D)\n9\nAssembly to Machine (Assembler)\n(B)\n49\nUnauthorized Copying (Piracy)\n(B)\n10\nHigh-level to Machine (Compiler)\n(B)\n50\nHard Disk Table Corruption\n(D)\n11\nLine-by-line Execution (Interpreter)\n(C)\n51\nForeign Key Referential Link\n(A)\n12\nOS Identification vs DBMS\n(C)\n52\nFull Functional Dependency (2NF)\n(B)\n13\nOS Platform Function\n(B)\n53\nAttribute Permitted Values (Domain)\n(B)\n14\nSystem Tools (Scandisk/Format)\n(C)\n54\nAttribute Count (Degree)\n(B)\n15\nPermanent Deletion (Shift+Del)\n(B)\n55\nUpdating Row Values (UPDATE)\n(A)\n16\nComputer Main Subsystems\n(C)\n56\nData Retrieval Query (SELECT)\n(C)\n17\nHex Address Space FFFF (64K)\n(C)\n57\nModifying Table Schema (ALTER)\n(A)\n18\nMinimum Storage Cost (Tape)\n(C)\n58\nPattern Matching Predicate (LIKE)\n(B)\n19\nBinary Prefix Tera (2^40)\n(B)\n59\nDegree & Cardinality Calculation\n(B)\n20\nResident Memory Software (Loader)\n(A)\n60\nRemoving Table Object (DROP)\n(B)\n21\nPrefix to Postfix Conversion\n(A)\n61\nProgram Counter Next Address\n(A)\n22\nInfix to Postfix Data Structure\n(A)\n62\nInstruction Register Current Op\n(C)\n23\nQueue Rear & Front Access\n(B)\n63\nMemory Address Register (MAR)\n(B)\n24\nQueue Access Rule (FIFO)\n(A)\n64\nSpeed Mismatch Buffer\n(C)\n25\nStack Access Rule (LIFO)\n(B)\n65\nRandom Access Memory (RAM)\n(B)\n26\nConstructor Invocation Timing\n(A)\n66\nOctal Addition Arithmetic\n(A)\n27\nStructure Default Access (public)\n(A)\n67\n8-bit 2's Complement Range\n(C)\n28\nClass Default Access (private)\n(B)\n68\nHex to Octal Base Conversion\n(C)\n29\nClass Encapsulation Contents\n(C)\n69\nSelf 2's Complement (1000)\n(C)\n30\nC++ Access Specifier Count (3)\n(B)\n70\nBinary 1s Count in Hex Num\n(B)\n31\nScope Resolution Operator (::)\n(B)\n71\nBoolean Redundancy (x + x'y)\n(A)\n32\nCode Reusability (Inheritance)\n(B)\n72\nBoolean Variable Independence\n(D)\n33\nGlobal Scope Resolution (::i)\n(A)\n73\nOR Distributive Law (A+BC)\n(C)\n34\nInline Function Speedup\n(A)\n74\nAbsorption Law (x + xy = x)\n(A)\n35\nBitwise Left Shift (a<<2)\n(B)\n75\nDual Absorption (x(x+y) = x)\n(A)\n36\ncout Standard Stream Meaning\n(B)\n76\nEven Involutions Law (4 primes)\n(B)\n37\nProgram Definition\n(C)\n77\nTotal 2-Variable Functions (16)\n(C)\n38\nAlgorithmic Program Definition\n(C)\n78\nBoolean Function Simplification\n(A)\n39\nMaximum Reliability (Mesh)\n(C)\n79\nUniversal Gate (NAND Gate)\n(C)\n40\nTransport Layer Host-to-Host\n(B)\n80\nXOR NAND Gate Count (4 Gates)\n(B)\nPart-III: Computer Science — Practice Set 2 (Questions 81 to 160 [Secondary / TGT Computer])Focus: Network Routing, Fifth Generation Computing, Virtual Base Classes, Memory Operators, Stack Applications, Binary Heap Priority Queues, Database Normalization (3NF), and Boolean Equivalence."
+      "explanation_hi": "न्यूनतम NAND गणना बेंचमार्क: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5।\nमास्टर उत्तर कुंजी और विषय सूचकांक - सेट 1 (प्रश्न 1 से 80)\nप्र.सं.\nविषय/डोमेन\nकुंजी\nप्र.सं.\nविषय/डोमेन\nकुंजी\n1\nसीपीयू (कंप्यूटर का मस्तिष्क)\n(ए)\n41\nत्रुटि दर मापन\n(ए)\n2\nमाइक्रोप्रोसेसर पीढ़ी (8085)\n(बी)\n42\nउच्चतम गति मीडिया (फाइबर)\n(सी)\n3\nतीसरी पीढ़ी की मेमोरी सीमा (16 एमबी)\n(बी)\n43\nसिंगल बैकबोन टोपोलॉजी (बस)\n(ए)\n4\nसिंगल चिप पर सीपीयू (माइक्रोप्रोसेसर)\n(ए)\n44\nवाइड एरिया नेटवर्क (डब्ल्यूएएन)\n(ए)\n5\nसिंगल चिप पर कंप्यूटर\n(ए)\n45\nIPv4 पता लंबाई (32-बिट)\n(सी)\n6\nगेमिंग कंट्रोलर (जॉयस्टिक)\n(सी)\n46\nमैक पता लंबाई (48-बिट)\n(सी)\n7\nगैर-वाष्पशील भंडारण (ROM)\n(सी)\n47\nअनधिकृत पहुंच (हैकिंग)\n(ए)\n8\nलेजर स्टोरेज डिवाइस (सीडी ड्राइव)\n(ए)\n48\nकंप्यूटर वायरस के लक्षण\n(डी)\n9\nअसेंबली से मशीन (असेम्बलर)\n(बी)\n49\nअनधिकृत नकल (चोरी)\n(बी)\n10\nमशीन (संकलक) के लिए उच्च स्तरीय\n(बी)\n50\nहार्ड डिस्क तालिका भ्रष्टाचार\n(डी)\n11\nपंक्ति-दर-पंक्ति निष्पादन (दुभाषिया)\n(सी)\n51\nविदेशी कुंजी संदर्भात्मक लिंक\n(ए)\n12\nओएस पहचान बनाम डीबीएमएस\n(सी)\n52\nपूर्ण कार्यात्मक निर्भरता (2NF)\n(बी)\n13\nओएस प्लेटफ़ॉर्म फ़ंक्शन\n(बी)\n53\nगुण अनुमत मान (डोमेन)\n(बी)\n14\nसिस्टम उपकरण (स्कैंडिस्क/प्रारूप)\n(सी)\n54\nगुण गणना (डिग्री)\n(बी)\n15\nस्थायी विलोपन (Shift+Del)\n(बी)\n55\nपंक्ति मान अद्यतन किया जा रहा है (अद्यतन)\n(ए)\n16\nकंप्यूटर मुख्य सबसिस्टम\n(सी)\n56\nडेटा पुनर्प्राप्ति क्वेरी (चयन करें)\n(सी)\n17\nहेक्स एड्रेस स्पेस FFFF (64K)\n(सी)\n57\nसंशोधित तालिका स्कीमा (परिवर्तन)\n(ए)\n18\nन्यूनतम भंडारण लागत (टेप)\n(सी)\n58\nपैटर्न मिलान विधेय (जैसे)\n(बी)\n19\nबाइनरी प्रीफ़िक्स तेरा (2^40)\n(बी)\n59\nडिग्री और कार्डिनैलिटी गणना\n(बी)\n20\nरेजिडेंट मेमोरी सॉफ्टवेयर (लोडर)\n(ए)\n60\nटेबल ऑब्जेक्ट हटाना (ड्रॉप)\n(बी)\n21\nपोस्टफ़िक्स रूपांतरण के लिए उपसर्ग\n(ए)\n61\nप्रोग्राम काउंटर अगला पता\n(ए)\n22\nडेटा संरचना को पोस्टफ़िक्स करने के लिए इनफ़िक्स\n(ए)\n62\nअनुदेश रजिस्टर करेंट ऑप\n(सी)\n23\nकतार पीछे और सामने प्रवेश\n(बी)\n63\nमेमोरी एड्रेस रजिस्टर (मार्च)\n(बी)\n24\nकतार पहुंच नियम (फीफो)\n(ए)\n64\nगति बेमेल बफ़र\n(सी)\n25\nस्टैक एक्सेस नियम (LIFO)\n(बी)\n65\nरैंडम एक्सेस मेमोरी (रैम)\n(बी)\n26\nकंस्ट्रक्टर मंगलाचरण समय\n(ए)\n66\nअष्टाधारी जोड़ अंकगणित\n(ए)\n27\nसंरचना डिफ़ॉल्ट पहुंच (सार्वजनिक)\n(ए)\n67\n8-बिट 2 की पूरक सीमा\n(सी)\n28\nक्लास डिफॉल्ट एक्सेस (निजी)\n(बी)\n68\nहेक्स से ऑक्टल बेस रूपांतरण\n(सी)\n29\nक्लास एनकैप्सुलेशन सामग्री\n(सी)\n69\nस्वयं 2 का पूरक (1000)\n(सी)\n30\nC++ एक्सेस विनिर्देशक गणना (3)\n(बी)\n70\nहेक्स संख्या में बाइनरी 1एस गणना\n(बी)\n31\nस्कोप रेज़ोल्यूशन ऑपरेटर (::)\n(बी)\n71\nबूलियन अतिरेक (x + x'y)\n(ए)\n32\nकोड पुन: प्रयोज्यता (विरासत)\n(बी)\n72\nबूलियन वैरिएबल इंडिपेंडेंस\n(डी)\n33\nवैश्विक दायरा संकल्प (::i)\n(ए)\n73\nया वितरणात्मक कानून (ए+बीसी)\n(सी)\n34\nइनलाइन फ़ंक्शन स्पीडअप\n(ए)\n74\nअवशोषण नियम (x + xy = x)\n(ए)\n35\nबिटवाइज़ लेफ्ट शिफ्ट (a<<2)\n(बी)\n75\nदोहरा अवशोषण (x(x+y) = x)\n(ए)\n36\nकॉउट स्टैंडर्ड स्ट्रीम अर्थ\n(बी)\n76\nसम इन्वॉल्यूशन कानून (4 अभाज्य)\n(बी)\n37\nकार्यक्रम परिभाषा\n(सी)\n77\nकुल 2-परिवर्तनीय कार्य (16)\n(सी)\n38\nएल्गोरिथम प्रोग्राम परिभाषा\n(सी)\n78\nबूलियन फ़ंक्शन सरलीकरण\n(ए)\n39\nअधिकतम विश्वसनीयता (मेष)\n(सी)\n79\nयूनिवर्सल गेट (नंद गेट)\n(सी)\n40\nट्रांसपोर्ट लेयर होस्ट-टू-होस्ट\n(बी)\n80\nXOR NAND गेट गिनती (4 गेट)\n(बी)\nभाग-III: कंप्यूटर विज्ञान - अभ्यास सेट 2 (प्रश्न 81 से 160 [माध्यमिक / टीजीटी कंप्यूटर]) फोकस: नेटवर्क रूटिंग, पांचवीं पीढ़ी कंप्यूटिंग, वर्चुअल बेस क्लासेस, मेमोरी ऑपरेटर्स, स्टैक एप्लिकेशन, बाइनरी हीप प्राथमिकता कतार, डेटाबेस सामान्यीकरण (3एनएफ), और बूलियन समतुल्यता।",
+      "tip_hi": "न्यूनतम NAND गणना बेंचमार्क: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5।\nमास्टर उत्तर कुंजी और विषय सूचकांक - सेट 1 (प्रश्न 1 से 80)\nप्र.सं.\nविषय/डोमेन\nकुंजी\nप्र.सं.\nविषय/डोमेन\nकुंजी\n1\nसीपीयू (कंप्यूटर का मस्तिष्क)\n(ए)\n41\nत्रुटि दर मापन\n(ए)\n2\nमाइक्रोप्रोसेसर पीढ़ी (8085)\n(बी)\n42\nउच्चतम गति मीडिया (फाइबर)\n(सी)\n3\nतीसरी पीढ़ी की मेमोरी सीमा (16 एमबी)\n(बी)\n43\nसिंगल बैकबोन टोपोलॉजी (बस)\n(ए)\n4\nसिंगल चिप पर सीपीयू (माइक्रोप्रोसेसर)\n(ए)\n44\nवाइड एरिया नेटवर्क (डब्ल्यूएएन)\n(ए)\n5\nसिंगल चिप पर कंप्यूटर\n(ए)\n45\nIPv4 पता लंबाई (32-बिट)\n(सी)\n6\nगेमिंग कंट्रोलर (जॉयस्टिक)\n(सी)\n46\nमैक पता लंबाई (48-बिट)\n(सी)\n7\nगैर-वाष्पशील भंडारण (ROM)\n(सी)\n47\nअनधिकृत पहुंच (हैकिंग)\n(ए)\n8\nलेजर स्टोरेज डिवाइस (सीडी ड्राइव)\n(ए)\n48\nकंप्यूटर वायरस के लक्षण\n(डी)\n9\nअसेंबली से मशीन (असेम्बलर)\n(बी)\n49\nअनधिकृत नकल (चोरी)\n(बी)\n10\nमशीन (संकलक) के लिए उच्च स्तरीय\n(बी)\n50\nहार्ड डिस्क तालिका भ्रष्टाचार\n(डी)\n11\nपंक्ति-दर-पंक्ति निष्पादन (दुभाषिया)\n(सी)\n51\nविदेशी कुंजी संदर्भात्मक लिंक\n(ए)\n12\nओएस पहचान बनाम डीबीएमएस\n(सी)\n52\nपूर्ण कार्यात्मक निर्भरता (2NF)\n(बी)\n13\nओएस प्लेटफ़ॉर्म फ़ंक्शन\n(बी)\n53\nगुण अनुमत मान (डोमेन)\n(बी)\n14\nसिस्टम उपकरण (स्कैंडिस्क/प्रारूप)\n(सी)\n54\nगुण गणना (डिग्री)\n(बी)\n15\nस्थायी विलोपन (Shift+Del)\n(बी)\n55\nपंक्ति मान अद्यतन किया जा रहा है (अद्यतन)\n(ए)\n16\nकंप्यूटर मुख्य सबसिस्टम\n(सी)\n56\nडेटा पुनर्प्राप्ति क्वेरी (चयन करें)\n(सी)\n17\nहेक्स एड्रेस स्पेस FFFF (64K)\n(सी)\n57\nसंशोधित तालिका स्कीमा (परिवर्तन)\n(ए)\n18\nन्यूनतम भंडारण लागत (टेप)\n(सी)\n58\nपैटर्न मिलान विधेय (जैसे)\n(बी)\n19\nबाइनरी प्रीफ़िक्स तेरा (2^40)\n(बी)\n59\nडिग्री और कार्डिनैलिटी गणना\n(बी)\n20\nरेजिडेंट मेमोरी सॉफ्टवेयर (लोडर)\n(ए)\n60\nटेबल ऑब्जेक्ट हटाना (ड्रॉप)\n(बी)\n21\nपोस्टफ़िक्स रूपांतरण के लिए उपसर्ग\n(ए)\n61\nप्रोग्राम काउंटर अगला पता\n(ए)\n22\nडेटा संरचना को पोस्टफ़िक्स करने के लिए इनफ़िक्स\n(ए)\n62\nअनुदेश रजिस्टर करेंट ऑप\n(सी)\n23\nकतार पीछे और सामने प्रवेश\n(बी)\n63\nमेमोरी एड्रेस रजिस्टर (मार्च)\n(बी)\n24\nकतार पहुंच नियम (फीफो)\n(ए)\n64\nगति बेमेल बफ़र\n(सी)\n25\nस्टैक एक्सेस नियम (LIFO)\n(बी)\n65\nरैंडम एक्सेस मेमोरी (रैम)\n(बी)\n26\nकंस्ट्रक्टर मंगलाचरण समय\n(ए)\n66\nअष्टाधारी जोड़ अंकगणित\n(ए)\n27\nसंरचना डिफ़ॉल्ट पहुंच (सार्वजनिक)\n(ए)\n67\n8-बिट 2 की पूरक सीमा\n(सी)\n28\nक्लास डिफॉल्ट एक्सेस (निजी)\n(बी)\n68\nहेक्स से ऑक्टल बेस रूपांतरण\n(सी)\n29\nक्लास एनकैप्सुलेशन सामग्री\n(सी)\n69\nस्वयं 2 का पूरक (1000)\n(सी)\n30\nC++ एक्सेस विनिर्देशक गणना (3)\n(बी)\n70\nहेक्स संख्या में बाइनरी 1एस गणना\n(बी)\n31\nस्कोप रेज़ोल्यूशन ऑपरेटर (::)\n(बी)\n71\nबूलियन अतिरेक (x + x'y)\n(ए)\n32\nकोड पुन: प्रयोज्यता (विरासत)\n(बी)\n72\nबूलियन वैरिएबल इंडिपेंडेंस\n(डी)\n33\nवैश्विक दायरा संकल्प (::i)\n(ए)\n73\nया वितरणात्मक कानून (ए+बीसी)\n(सी)\n34\nइनलाइन फ़ंक्शन स्पीडअप\n(ए)\n74\nअवशोषण नियम (x + xy = x)\n(ए)\n35\nबिटवाइज़ लेफ्ट शिफ्ट (a<<2)\n(बी)\n75\nदोहरा अवशोषण (x(x+y) = x)\n(ए)\n36\nकॉउट स्टैंडर्ड स्ट्रीम अर्थ\n(बी)\n76\nसम इन्वॉल्यूशन कानून (4 अभाज्य)\n(बी)\n37\nकार्यक्रम परिभाषा\n(सी)\n77\nकुल 2-परिवर्तनीय कार्य (16)\n(सी)\n38\nएल्गोरिथम प्रोग्राम परिभाषा\n(सी)\n78\nबूलियन फ़ंक्शन सरलीकरण\n(ए)\n39\nअधिकतम विश्वसनीयता (मेष)\n(सी)\n79\nयूनिवर्सल गेट (नंद गेट)\n(सी)\n40\nट्रांसपोर्ट लेयर होस्ट-टू-होस्ट\n(बी)\n80\nXOR NAND गेट गिनती (4 गेट)\n(बी)\nभाग-III: कंप्यूटर विज्ञान - अभ्यास सेट 2 (प्रश्न 81 से 160 [माध्यमिक / टीजीटी कंप्यूटर]) फोकस: नेटवर्क रूटिंग, पांचवीं पीढ़ी कंप्यूटिंग, वर्चुअल बेस क्लासेस, मेमोरी ऑपरेटर्स, स्टैक एप्लिकेशन, बाइनरी हीप प्राथमिकता कतार, डेटाबेस सामान्यीकरण (3एनएफ), और बूलियन समतुल्यता।"
     }
   ]
 }

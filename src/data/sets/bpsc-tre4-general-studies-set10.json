@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Net multiplier = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72. Selling Price = 800 * 0.72 = ₹576. (Single equivalent discount = 20 + 10 - (20*10)/100 = 28%).",
-      "tip_hi": "SP = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576."
+      "explanation_hi": "शुद्ध गुणक = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72। विक्रय मूल्य = 800 * 0.72 = ₹576। (एकल समतुल्य छूट = 20 + 10 - (20*10)/100 = 28%)।",
+      "tip_hi": "एसपी = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of equilateral triangle = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 sq सेमी.",
-      "tip_hi": "Area = (√3 / 4) * 144 = 36√3 cm²."
+      "explanation_hi": "समबाहु त्रिभुज का क्षेत्रफल = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 वर्ग सेमी.",
+      "tip_hi": "क्षेत्रफल = (√3 / 4) * 144 = 36√3 सेमी²।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "a/c = (a/b) * (b/c) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3. Therefore, a : c = 2 : 3.",
-      "tip_hi": "a/c = (3/4) * (8/9) = 2/3 => 2 : 3."
+      "explanation_hi": "ए/सी = (ए/बी) * (बी/सी) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3। इसलिए, a : c = 2 : 3.",
+      "tip_hi": "ए/सी = (3/4) * (8/9) = 2/3 => 2 : 3."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "If every observation in a statistical distribution is multiplied by a constant 'k', the new mean is also multiplied by 'k'. New mean = 15 * 3 = 45.",
-      "tip_hi": "Property of Mean: If all observations are multiplied by k, New Mean = Old Mean * k = 15 * 3 = 45."
+      "explanation_hi": "यदि सांख्यिकीय वितरण में प्रत्येक अवलोकन को एक स्थिरांक 'k' से गुणा किया जाता है, तो नया माध्य भी 'k' से गुणा किया जाता है। नया माध्य = 15 * 3 = 45.",
+      "tip_hi": "माध्य की संपत्ति: यदि सभी अवलोकनों को k से गुणा किया जाता है, तो नया माध्य = पुराना माध्य * k = 15 * 3 = 45।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each letter is shifted by +1: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (wait: G->H, E->F). Applying +1 to GRAPES: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT.",
-      "tip_hi": "Pattern: +1 to each letter. G->H, R->S, A->B, P->Q, E->F, S->T."
+      "explanation_hi": "प्रत्येक अक्षर को +1 द्वारा स्थानांतरित किया जाता है: O(+1)=P, R(+1)=Q, A(+1)=B, N(+1)=O, G(+1)=F (प्रतीक्षा करें: G->H, E->F)। अंगूर पर +1 लगाना: G->H, R->S, A->B, P->Q, E->F, S->T = HSBQFT।",
+      "tip_hi": "पैटर्न: प्रत्येक अक्षर के लिए +1. G->H, R->S, A->B, P->Q, E->F, S->T."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Since the set of Bats is entirely contained within Mammals (Bats ⊂ Mammals), and Mammals are completely disjoint from Birds (Mammals ∩ Birds = ∅), it follows that Bats ∩ Birds = ∅. Thus, neither can any bat be a bird nor any bird be a bat.",
-      "tip_hi": "Complete separation between Birds and Mammals implies both I and II definitely hold."
+      "explanation_hi": "चूंकि चमगादड़ों का समूह पूरी तरह से स्तनधारियों (चमगादड़ ⊂ स्तनधारी) के भीतर समाहित है, और स्तनधारी पक्षियों (स्तनधारी ∩ पक्षी = ∅) से पूरी तरह से अलग हैं, इसलिए यह इस प्रकार है कि चमगादड़ ∩ पक्षी = ∅। इस प्रकार, न तो कोई चमगादड़ पक्षी हो सकता है और न ही कोई पक्षी चमगादड़ हो सकता है।",
+      "tip_hi": "पक्षियों और स्तनधारियों के बीच पूर्ण पृथक्करण का अर्थ है कि I और II दोनों निश्चित रूप से मान्य हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "First formulated conceptually by Galileo Galilei and formalized by Isaac Newton, the first law describes the inherent property of matter called inertia—the resistance of any physical object to any change in its velocity.",
-      "tip_hi": "Newton's 1st Law = Law of Inertia; Defines force qualitatively."
+      "explanation_hi": "सबसे पहले गैलीलियो गैलीली द्वारा संकल्पनात्मक रूप से तैयार किया गया और आइजैक न्यूटन द्वारा औपचारिक रूप दिया गया, पहला कानून पदार्थ की अंतर्निहित संपत्ति का वर्णन करता है जिसे जड़ता कहा जाता है - किसी भी भौतिक वस्तु का उसके वेग में किसी भी परिवर्तन का प्रतिरोध।",
+      "tip_hi": "न्यूटन का प्रथम नियम = जड़त्व का नियम; बल को गुणात्मक रूप से परिभाषित करता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -275,7 +275,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 किमी (g = GM/R^2). Furthermore, अपकेंद्रीय बल due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
-      "tip_hi": "Value of 'g': Maximum at Poles, Minimum at Equator, Zero at the Centre of the Earth."
+      "tip_hi": "'जी' का मान: ध्रुवों पर अधिकतम, भूमध्य रेखा पर न्यूनतम, पृथ्वी के केंद्र पर शून्य।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Moseley demonstrated that X-ray frequency (√ν) is linearly related to atomic number (Z). The Modern Periodic Law states that properties of elements are periodic functions of their atomic numbers (number of nuclear protons), resolving anomalies in Mendeleev's atomic mass arrangement.",
-      "tip_hi": "Mendeleev = Atomic Mass; Modern Periodic Table (Moseley) = Atomic Number (Z)."
+      "explanation_hi": "मोसले ने प्रदर्शित किया कि एक्स-रे आवृत्ति (√ν) रैखिक रूप से परमाणु क्रमांक (Z) से संबंधित है। आधुनिक आवधिक कानून में कहा गया है कि तत्वों के गुण उनके परमाणु क्रमांक (परमाणु प्रोटॉन की संख्या) के आवधिक कार्य हैं, जो मेंडेलीव की परमाणु द्रव्यमान व्यवस्था में विसंगतियों को हल करते हैं।",
+      "tip_hi": "मेंडेलीव = परमाणु द्रव्यमान; आधुनिक आवर्त सारणी (मोसले) = परमाणु संख्या (Z)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ethylene (C2H4) is the only gaseous plant hormone. It stimulates climacteric fruit ripening, leaf abscission, and senescence. In artificial ripening, calcium carbide reacts with moisture to produce acetylene, an analogue of ethylene.",
-      "tip_hi": "Gaseous fruit-ripening hormone = Ethylene (C2H4); Plant growth promoter = Auxin / Gibberellin."
+      "explanation_hi": "एथिलीन (C2H4) एकमात्र गैसीय पादप हार्मोन है। यह मौसमी फलों के पकने, पत्तियों के फटने और जीर्णता को उत्तेजित करता है। कृत्रिम रूप से पकाने में, कैल्शियम कार्बाइड नमी के साथ प्रतिक्रिया करके एसिटिलीन उत्पन्न करता है, जो एथिलीन का एक एनालॉग है।",
+      "tip_hi": "गैसीय फल पकाने वाला हार्मोन = एथिलीन (C2H4); पादप वृद्धि प्रवर्तक = ऑक्सिन/गिबरेलिन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -464,7 +464,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "On 3 जुलाई 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 जुलाई 1857.",
-      "tip_hi": "1857 Patna city rebellion leader = Pir Ali Khan (Hanged by Commissioner William Tayler)."
+      "tip_hi": "1857 पटना शहर विद्रोह के नेता = पीर अली खान (कमिश्नर विलियम टायलर द्वारा फाँसी)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -491,7 +491,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted डॉ. राजेंद्र प्रसाद and Gandhi, exposing the assassination plot.",
-      "tip_hi": "Saved Gandhi's life in Champaran (1917) = Batak Mian (Bettiah/Motihari)."
+      "tip_hi": "चंपारण में गांधीजी की जान बचाई (1917) = बटक मियां (बेतिया/मोतिहारी)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -518,7 +518,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the गंगा नदी in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of डॉ. राजेंद्र प्रसाद.",
-      "tip_hi": "Sadaqat Ashram founded by Mazharul Haque; Land donated by Khairun Mian."
+      "tip_hi": "मजहरुल हक द्वारा स्थापित सदाकत आश्रम; खैरुन मियां द्वारा दान में दी गई जमीन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -598,7 +598,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Seven young students (Devipat Choudhary, Umakant Prasad Sinha, Ramanand Singh, Satish Prasad Jha, Jagpati Kumar, Rajendra Singh, and Ramgovind Singh) were martyred when District Magistrate W. G. Archer ordered Gurkha military police to fire on them.",
+      "explanation_hi": "जब जिला मजिस्ट्रेट डब्ल्यू जी आर्चर ने गोरखा सैन्य पुलिस को उन पर गोली चलाने का आदेश दिया तो सात युवा छात्र (देवीपत चौधरी, उमाकांत प्रसाद सिन्हा, रामानंद सिंह, सतीश प्रसाद झा, जगपति कुमार, राजेंद्र सिंह और रामगोविंद सिंह) शहीद हो गए।",
       "tip_hi": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 अगस्त 1942 (DM W.G. Archer)."
     },
     {
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the Sunset Law of the Permanent Settlement, if a zamindar failed to remit the fixed government revenue before sunset on the appointed date, his zamindari estate was immediately confiscated and auctioned off to the highest bidder.",
-      "tip_hi": "Sunset Law = Associated with Lord Cornwallis's Permanent Settlement (1793)."
+      "explanation_hi": "स्थायी बंदोबस्त के सूर्यास्त कानून के तहत, यदि कोई जमींदार नियत तिथि पर सूर्यास्त से पहले निर्धारित सरकारी राजस्व भेजने में विफल रहता है, तो उसकी जमींदारी संपत्ति तुरंत जब्त कर ली जाती थी और सबसे ऊंची बोली लगाने वाले को नीलाम कर दी जाती थी।",
+      "tip_hi": "सूर्यास्त कानून = लॉर्ड कॉर्नवालिस के स्थायी बंदोबस्त (1793) से संबद्ध।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -653,7 +653,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Ralph Fitch visited Patna in 1586 के दौरान Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the गंगा नदी.",
-      "tip_hi": "First English traveler to visit Bihar/Patna = Ralph Fitch (1586, reign of Akbar)."
+      "tip_hi": "बिहार/पटना की यात्रा करने वाला प्रथम अंग्रेज यात्री = राल्फ फिच (1586, अकबर का शासनकाल)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -707,7 +707,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Khadar is new alluvium deposited annually by monsoon floodwaters in low-lying river plains (गंडक नदी, कोसी नदी, Bagmati), highly fertile and rich in fine silt. Bangar represents older alluvium situated in upland terraces above flood level.",
-      "tip_hi": "New flood alluvium = Khadar (highly fertile); Older upland alluvium = Bangar (contains kankar nodules)."
+      "tip_hi": "नवीन बाढ़ जलोढ़ = खादर (अत्यधिक उपजाऊ); पुराना ऊपरी जलोढ़ = बांगर (कंकड़ पिंड शामिल हैं)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -734,7 +734,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture सल्फ्यूरिक अम्ल (H2SO4).",
-      "tip_hi": "Pyrite in Bihar = Amjhor (Rohtas) - 95% of India's reserves; Fools' Gold."
+      "tip_hi": "बिहार में पाइराइट = अमझोर (रोहतास) - भारत का 95% भंडार; फ़ूल्स गोल्ड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Barauni Refinery of Indian Oil Corporation Limited (IOCL) is situated in Begusarai district, commissioned in 1964. It processes crude oil transported via pipeline from Naharkatiya in Assam.",
-      "tip_hi": "Barauni Oil Refinery = Begusarai (1964, built with USSR and Romanian collaboration)."
+      "explanation_hi": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) की बरौनी रिफाइनरी बेगुसराय जिले में स्थित है, जिसे 1964 में चालू किया गया था। यह असम के नाहरकटिया से पाइपलाइन के माध्यम से लाए गए कच्चे तेल का प्रसंस्करण करती है।",
+      "tip_hi": "बरौनी तेल रिफाइनरी = बेगुसराय (1964, यूएसएसआर और रोमानियाई सहयोग से निर्मित)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -788,7 +788,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Saharsa recorded the lowest female साक्षरता दर in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
-      "tip_hi": "Important जनगणना Trap: Lowest overall literacy = Purnia (51.08%); Lowest female literacy = Saharsa (41.68%)."
+      "tip_hi": "महत्वपूर्ण जनगणना जाल: सबसे कम समग्र साक्षरता = पूर्णिया (51.08%); न्यूनतम महिला साक्षरता=सहरसा (41.68%)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Guru Shikhar (1,722 m) in the Arbuda Mountains of Rajasthan is the highest peak of the Aravalli Range, one of the oldest residual fold mountain systems in the world.",
-      "tip_hi": "Aravalli highest peak = Guru Shikhar (1,722 m); Satpura highest peak = Dhupgarh (1,350 m)."
+      "explanation_hi": "राजस्थान के अर्बुदा पर्वत में गुरु शिखर (1,722 मीटर) अरावली पर्वत श्रृंखला की सबसे ऊंची चोटी है, जो दुनिया की सबसे पुरानी अवशिष्ट वलित पर्वत प्रणालियों में से एक है।",
+      "tip_hi": "अरावली की सबसे ऊंची चोटी = गुरु शिखर (1,722 मीटर); सतपुड़ा की सबसे ऊंची चोटी = धूपगढ़ (1,350 मीटर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Majuli island, formed by the Brahmaputra River and its anabranch Kherkutia Xuti joined by the Subansiri River, is a designated district of Assam and the world's largest river island according to Guinness World Records.",
-      "tip_hi": "Largest river island = Majuli (Brahmaputra, Assam); Smallest inhabited river island = Umananda (Peacock Island, Guwahati)."
+      "explanation_hi": "माजुली द्वीप, ब्रह्मपुत्र नदी द्वारा निर्मित और सुबनसिरी नदी से जुड़ी इसकी उपशाखा खेरकुटिया जूटी, असम का एक निर्दिष्ट जिला है और गिनीज वर्ल्ड रिकॉर्ड्स के अनुसार दुनिया का सबसे बड़ा नदी द्वीप है।",
+      "tip_hi": "सबसे बड़ा नदी द्वीप = माजुली (ब्रह्मपुत्र, असम); सबसे छोटा आबाद नदी द्वीप = उमानंद (मयूर द्वीप, गुवाहाटी)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Indian Standard Time (IST) is calculated based on 82°30' E longitude passing through Shankargarh fort / Mirzapur near Prayagraj. It passes through 5 States: UP, MP, Chhattisgarh, Odisha, and Andhra Pradesh, exactly 5 घंटे 30 मिनट ahead of GMT.",
-      "tip_hi": "Standard Meridian = 82°30' E (Mirzapur); Passes through 5 States (UP, MP, CG, Odisha, AP); IST = GMT + 5:30."
+      "explanation_hi": "भारतीय मानक समय (आईएसटी) की गणना प्रयागराज के निकट शंकरगढ़ किला/मिर्जापुर से गुजरने वाले 82°30' पूर्व देशांतर के आधार पर की जाती है। यह 5 राज्यों: यूपी, एमपी, छत्तीसगढ़, ओडिशा और आंध्र प्रदेश से होकर गुजरती है, जीएमटी से ठीक 5 घंटे 30 मिनट पहले।",
+      "tip_hi": "मानक याम्योत्तर = 82°30' पूर्व (मिर्जापुर); 5 राज्यों (यूपी, एमपी, सीजी, ओडिशा, एपी) से होकर गुजरता है; आईएसटी = जीएमटी + 5:30।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -923,7 +923,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd संशोधन added 10 duties in अनुच्छेद 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th संशोधन 2002.",
-      "tip_hi": "Fundamental Duties = Swaran Singh Committee (1976), 42nd संशोधन, borrowed from USSR."
+      "tip_hi": "मौलिक कर्तव्य = स्वर्ण सिंह समिति (1976), 42वां संशोधन, यूएसएसआर से उधार लिया गया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -950,7 +950,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Following the 56-दिन hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 अक्टूबर 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
-      "tip_hi": "First linguistic state = Andhra State (1 अक्टूबर 1953); Fast-unto-death = Potti Sreeramulu."
+      "tip_hi": "प्रथम भाषाई राज्य = आंध्र राज्य (1 अक्टूबर 1953); आमरण अनशन = पोट्टी श्रीरामुलु."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Adopted in Kyoto, Japan under the UNFCCC, the Kyoto Protocol committed industrialized Annex I countries to legally binding targets for reducing greenhouse गैस (CO2, CH4, N2O, HFCs, PFCs, SF6).",
-      "tip_hi": "Kyoto Protocol (1997) = Greenhouse Gas reduction; Montreal Protocol (1987) = Ozone layer."
+      "explanation_hi": "यूएनएफसीसीसी के तहत क्योटो, जापान में अपनाया गया, क्योटो प्रोटोकॉल औद्योगिकीकृत अनुबंध I देशों को ग्रीनहाउस गैसों (सीओ2, सीएच4, एन2ओ, एचएफसी, पीएफसी, एसएफ6) को कम करने के लिए कानूनी रूप से बाध्यकारी लक्ष्यों के लिए प्रतिबद्ध करता है।",
+      "tip_hi": "क्योटो प्रोटोकॉल (1997) = ग्रीनहाउस गैस में कमी; मॉन्ट्रियल प्रोटोकॉल (1987) = ओजोन परत।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The scheme provides staggered cash incentives amounting to up to ₹54,100 from the birth of a girl child through intermediate and graduation (₹50,000 for unmarried graduate girls) to promote higher education and curb child marriage.",
-      "tip_hi": "Mukhya Mantri Kanya Utthan Yojana = Birth up to Graduation (₹50,000 for female graduates)."
+      "explanation_hi": "यह योजना उच्च शिक्षा को बढ़ावा देने और बाल विवाह पर अंकुश लगाने के लिए बालिका के जन्म से लेकर इंटरमीडिएट और स्नातक (अविवाहित स्नातक लड़कियों के लिए 50,000 रुपये) तक की नकद प्रोत्साहन राशि प्रदान करती है।",
+      "tip_hi": "मुख्यमंत्री कन्या उत्थान योजना = जन्म से स्नातक तक (महिला स्नातकों के लिए ₹50,000)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The mascot 'Juhi' was inspired by the beloved female elephant of Betla National Park in Palamu, Jharkhand. The Indian women's hockey team defeated Japan to win the title.",
-      "tip_hi": "Women's Asian Champions Trophy 2023 Mascot = 'Juhi' (Elephant of Betla National Park).\nAnswer Key Summary Table — Set 10 (Questions 361 to 400)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "शुभंकर 'जूही' झारखंड के पलामू में बेतला राष्ट्रीय उद्यान की प्रिय मादा हाथी से प्रेरित थी। भारतीय महिला हॉकी टीम ने जापान को हराकर खिताब जीता।",
+      "tip_hi": "महिला एशियाई चैंपियंस ट्रॉफी 2023 शुभंकर = 'जूही' (बेतला नेशनल पार्क की हथिनी)।\nउत्तर कुंजी सारांश तालिका - सेट 10 (प्रश्न 361 से 400)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to the Indian seasonal cycle and calendar progression, the rainy (monsoon) season spans July to September and directly precedes the winter (autumn/winter) season.",
-      "tip_hi": "Chronological order of seasons in India: Summer (March–May) → Rainy/Monsoon (June–September) → Autumn/Winter (October–February) → Spring (February–March)."
+      "explanation_hi": "भारतीय मौसमी चक्र और कैलेंडर प्रगति के अनुसार, बरसात (मानसून) का मौसम जुलाई से सितंबर तक रहता है और सीधे सर्दी (शरद ऋतु/सर्दियों) के मौसम से पहले होता है।",
+      "tip_hi": "भारत में ऋतुओं का कालानुक्रमिक क्रम: ग्रीष्म (मार्च-मई) → वर्षा/मानसून (जून-सितंबर) → पतझड़/सर्दी (अक्टूबर-फरवरी) → वसंत (फरवरी-मार्च)।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The eighth month in the Gregorian calendar is August. Since August is omitted from options (A), (B), and (C), Option (E) is the official correct choice.",
-      "tip_hi": "BPSC calendar trap: 7th = July, 8th = August, 9th = September, 10th = October. When the accurate month name is absent, confidently select Option (E)."
+      "explanation_hi": "ग्रेगोरियन कैलेंडर में आठवां महीना अगस्त है। चूंकि अगस्त को विकल्प (ए), (बी), और (सी) से हटा दिया गया है, विकल्प (ई) आधिकारिक सही विकल्प है।",
+      "tip_hi": "BPSC कैलेंडर ट्रैप: 7 = जुलाई, 8 = अगस्त, 9 = सितंबर, 10 = अक्टूबर। जब सटीक महीने का नाम अनुपस्थित हो, तो आत्मविश्वास से विकल्प (ई) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In English kinship terminology, 'sister-in-law' denotes one's brother's wife (भाभी), one's husband's sister (ननद), or one's wife's sister (साली). Since all three options are valid, (D) is triggered.",
-      "tip_hi": "Whenever an English kinship relation encompasses multiple maternal/paternal or affine equivalents, expect Option (D) in BPSC examinations."
+      "explanation_hi": "अंग्रेजी रिश्तेदारी शब्दावली में, 'भाभी' किसी के भाई की पत्नी (भाभी), किसी के पति की बहन (नंद), या किसी की पत्नी की बहन (साली) को दर्शाती है। चूंकि सभी तीन विकल्प वैध हैं, (डी) ट्रिगर हो गया है।",
+      "tip_hi": "जब भी कोई अंग्रेजी रिश्तेदारी संबंध कई मातृ/पैतृक या रिश्तेदारी समकक्षों को शामिल करता है, तो बीपीएससी परीक्षाओं में विकल्प (डी) की अपेक्षा करें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A bedroom standardly contains pillows (for sleeping), table/bedside lamps (for reading/lighting), and wardrobes/closets. All choices represent valid bedroom furnishings.",
-      "tip_hi": "In household vocabulary questions, as soon as two independent items naturally belong to the specified room, choose Option (D)."
+      "explanation_hi": "एक शयनकक्ष में मानक रूप से तकिए (सोने के लिए), टेबल/बेडसाइड लैंप (पढ़ने/रोशनी के लिए), और अलमारी/कोठरियां होती हैं। सभी विकल्प वैध शयनकक्ष साज-सज्जा का प्रतिनिधित्व करते हैं।",
+      "tip_hi": "घरेलू शब्दावली प्रश्नों में, जैसे ही दो स्वतंत्र वस्तुएँ स्वाभाविक रूप से निर्दिष्ट कमरे से संबंधित हों, विकल्प (डी) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "If today is Sunday, then 'yesterday' was Saturday, and 'the day before yesterday' was Friday (Sunday minus 2 days = Friday).",
-      "tip_hi": "Time calculation formula: Today = Day 0; Yesterday = -1; Day before yesterday = -2. For Sunday: Sunday(0) → Saturday(-1) → Friday(-2)."
+      "explanation_hi": "यदि आज रविवार है, तो 'कल' शनिवार था, और 'कल से पहले का दिन' शुक्रवार था (रविवार शून्य से 2 दिन = शुक्रवार)।",
+      "tip_hi": "समय गणना सूत्र: आज = ​​दिन 0; कल = -1; परसों = -2. रविवार के लिए: रविवार(0) → शनिवार(-1) → शुक्रवार(-2)."
     },
     {
       "source": "BPSC TRE 2.0",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A washing machine belongs to the laundry room/utility area, and a kitchen chimney belongs to the kitchen. Since both are not drawing room items, Option (D) is the official key.",
-      "tip_hi": "Notice the negative phrasing 'not a part of': Having two non-drawing-room appliances (Washing machine + Chimney) automatically triggers Option (D)."
+      "explanation_hi": "वॉशिंग मशीन कपड़े धोने के कमरे/उपयोगिता क्षेत्र से संबंधित है, और रसोई चिमनी रसोई से संबंधित है। चूंकि दोनों ड्राइंग रूम की वस्तुएं नहीं हैं, विकल्प (डी) आधिकारिक कुंजी है।",
+      "tip_hi": "नकारात्मक वाक्यांश 'का हिस्सा नहीं' पर ध्यान दें: दो गैर-ड्राइंग-रूम उपकरण (वॉशिंग मशीन + चिमनी) स्वचालित रूप से विकल्प (डी) को ट्रिगर करते हैं।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "One's mother's parents (maternal grandfather and grandmother - नाना-नानी) are termed maternal grandparents. Father's parents (दादा-दादी) are paternal grandparents.",
-      "tip_hi": "Maternal = Mother's lineage/relations; Paternal = Father's lineage/relations."
+      "explanation_hi": "किसी की माँ के माता-पिता (नाना-नानी - नाना-नानी) को नाना-नानी कहा जाता है। पिता के माता-पिता (दादा-दादी) दादा-दादी हैं।",
+      "tip_hi": "मातृ = माता का वंश/संबंध; पैतृक = पिता का वंश/संबंध।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In standard English idiomatic usage, time indicated according to a timepiece or watch is expressed using the preposition 'by' ('What is the time by your watch?').",
-      "tip_hi": "Common error: Do not translate literally from Hindi ('घड़ी में' ≠ 'in your watch'). The standard English collocation is strictly 'by your watch'."
+      "explanation_hi": "मानक अंग्रेजी मुहावरेदार उपयोग में, किसी घड़ी या घड़ी के अनुसार दर्शाया गया समय 'द्वारा' ('आपकी घड़ी में कितना समय है?') पूर्वसर्ग का उपयोग करके व्यक्त किया जाता है।",
+      "tip_hi": "सामान्य त्रुटि: हिंदी से शाब्दिक अनुवाद न करें ('घड़ी में' ≠ 'अपनी घड़ी में')। मानक अंग्रेजी संयोजन पूरी तरह से 'आपकी निगरानी के अनुसार' है।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The preposition 'of' is used here to denote specification or belonging of an intrinsic characteristic ('appealing of quality' / 'possessing the attribute of quality').",
-      "tip_hi": "Pay close attention to prepositional phrase idioms following adjectives like 'appealing of', 'worthy of', 'devoid of'."
+      "explanation_hi": "यहां पूर्वसर्ग 'का' का उपयोग किसी आंतरिक विशेषता ('गुणवत्ता की अपील' / 'गुणवत्ता की विशेषता रखने') के विनिर्देश या संबंध को दर्शाने के लिए किया जाता है।",
+      "tip_hi": "'आकर्षक', 'योग्य', 'रहित' जैसे विशेषणों के बाद पूर्वपद वाक्यांश मुहावरों पर ध्यान दें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gears and accelerators are integral mechanical and control components of an automobile, whereas a pistol is a firearm and not a vehicular component.",
-      "tip_hi": "Eliminate normal vehicular mechanisms to isolate the extraneous weapon/item."
+      "explanation_hi": "गियर और एक्सेलेरेटर ऑटोमोबाइल के अभिन्न यांत्रिक और नियंत्रण घटक हैं, जबकि पिस्तौल एक बन्दूक है न कि वाहन घटक।",
+      "tip_hi": "बाहरी हथियार/वस्तु को अलग करने के लिए सामान्य वाहन तंत्र को हटा दें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "One's sister's husband is designated as 'brother-in-law' in English kinship terminology. 'Jija' is a Hindi colloquial noun, not English.",
-      "tip_hi": "BPSC options often include Hindi phonetic spellings (like 'jija' or 'chacha') as traps; always select the formal English genealogical term."
+      "explanation_hi": "किसी की बहन के पति को अंग्रेजी रिश्तेदारी शब्दावली में 'जीजाजी' कहा जाता है। 'जीजा' अंग्रेजी नहीं बल्कि हिंदी बोलचाल की संज्ञा है।",
+      "tip_hi": "बीपीएससी विकल्पों में अक्सर जाल के रूप में हिंदी ध्वन्यात्मक वर्तनी (जैसे 'जीजा' या 'चाचा') शामिल होती हैं; हमेशा औपचारिक अंग्रेजी वंशावली शब्द का चयन करें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "When an abstract noun ('beauty') is used in a general, universal philosophical sense, it takes zero article. Since zero article is not among (A), (B), or (C), (E) is correct.",
-      "tip_hi": "Abstract nouns (beauty, honesty, truth, wisdom) take NO article when used generally: 'Beauty is truth', 'Honesty is the best policy'."
+      "explanation_hi": "जब एक अमूर्त संज्ञा ('सौंदर्य') का उपयोग सामान्य, सार्वभौमिक दार्शनिक अर्थ में किया जाता है, तो इसमें शून्य लेख लगता है। चूँकि शून्य आलेख (ए), (बी), या (सी) में से नहीं है, (ई) सही है।",
+      "tip_hi": "अमूर्त संज्ञाएं (सौंदर्य, ईमानदारी, सच्चाई, ज्ञान) आम तौर पर उपयोग किए जाने पर कोई लेख नहीं लेती हैं: 'सौंदर्य सत्य है', 'ईमानदारी सबसे अच्छी नीति है'।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The abbreviation 'MBBS' is phonetically pronounced as /ˈem.biː.biː.es/, which begins with the vowel sound /e/. Therefore, the indefinite article 'an' is required.",
-      "tip_hi": "Phonetics rule: Abbreviations beginning with letters pronounced with an initial vowel sound (M = /em/, S = /es/, F = /ef/, H = /eɪtʃ/, L = /el/) take 'an' ('an MBBS', 'an SP', 'an FIR')."
+      "explanation_hi": "संक्षिप्त नाम 'एमबीबीएस' को ध्वन्यात्मक रूप से /ˈem.biː.biː.es/ के रूप में उच्चारित किया जाता है, जो स्वर ध्वनि /e/ से शुरू होता है। अत: अनिश्चित अनुच्छेद 'ए' की आवश्यकता है।",
+      "tip_hi": "ध्वन्यात्मक नियम: प्रारंभिक स्वर ध्वनि (M = /em/, S = /es/, F = /ef/, H = /eɪtʃ/, L = /el/) के साथ उच्चारित अक्षरों से शुरू होने वाले संक्षिप्ताक्षरों को 'an' ('an एमबीबीएस', 'an SP', 'an FIR') लें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Grocery stores sell food provisions and household consumables like edible grains/cereals and cooking oil. Leather is a processed animal hide sold in footwear or fabric stores.",
-      "tip_hi": "Distinguish food/edible consumable groceries from heavy industrial/animal trade materials like leather and timber."
+      "explanation_hi": "किराना स्टोर खाद्य प्रावधान और घरेलू उपभोग्य वस्तुएं जैसे खाद्य अनाज/अनाज और खाना पकाने का तेल बेचते हैं। चमड़ा एक प्रसंस्कृत पशु की खाल है जो जूते या कपड़े की दुकानों में बेची जाती है।",
+      "tip_hi": "खाद्य/खाद्य उपभोज्य किराने के सामान को चमड़े और लकड़ी जैसी भारी औद्योगिक/पशु व्यापार सामग्री से अलग करें।"
     },
     {
       "source": "BPSC TRE 2.0",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Asia and Australia are recognized world continents, whereas the Arabian Peninsula (Arab) is a geographical region/sub-region located within the continent of Asia.",
-      "tip_hi": "The 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Arab is a geopolitical peninsula, not a continent."
+      "explanation_hi": "एशिया और ऑस्ट्रेलिया मान्यता प्राप्त विश्व महाद्वीप हैं, जबकि अरब प्रायद्वीप (अरब) एशिया महाद्वीप के भीतर स्थित एक भौगोलिक क्षेत्र/उप-क्षेत्र है।",
+      "tip_hi": "7 महाद्वीप: एशिया, अफ्रीका, उत्तरी अमेरिका, दक्षिण अमेरिका, अंटार्कटिका, यूरोप और ऑस्ट्रेलिया। अरब एक भूराजनीतिक प्रायद्वीप है, महाद्वीप नहीं।"
     }
   ]
 }

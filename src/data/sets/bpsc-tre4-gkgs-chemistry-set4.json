@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "जूल's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.",
-      "tip_hi": "जूल's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t."
+      "explanation_hi": "जूल का नियम कहता है कि उत्पन्न ऊष्मा धारा (I^2), प्रतिरोध (R), और समय (t) के वर्ग के सीधे आनुपातिक होती है: H = I^2 R t जूल।",
+      "tip_hi": "जूल का तापन सूत्र: H = I^2 * R * t = V * I * t = (V^2 / R) * t।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Odisha accounts for over 50% of India's total बॉक्साइट production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).",
-      "tip_hi": "Leading mineral producers: बॉक्साइट = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh."
+      "explanation_hi": "पूर्वी घाट बेल्ट (कोरापुट, रायगढ़ा, कालाहांडी और बोलांगीर जिलों) में विश्व स्तरीय भंडार के साथ, भारत के कुल बॉक्साइट उत्पादन का 50% से अधिक हिस्सा ओडिशा में है।",
+      "tip_hi": "प्रमुख खनिज उत्पादक: बॉक्साइट = ओडिशा; लौह अयस्क = ओडिशा; कोयला = झारखंड/ओडिशा; तांबा = मध्य प्रदेश."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -113,7 +113,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new संसद building, featuring the लोकसभा chamber styled on the National Bird Peacock and राज्यसभा on the National Flower Lotus.",
-      "tip_hi": "New संसद Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad)."
+      "tip_hi": "नए संसद भवन के वास्तुकार = डॉ. बिमल पटेल (एचसीपी डिजाइन, अहमदाबाद)।"
     }
   ]
 }

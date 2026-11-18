@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Cost price of 1 अनुच्छेद = 20/25 = ₹0.80. Selling price of 1 अनुच्छेद = 25/20 = ₹1.25. Profit per अनुच्छेद = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
-      "tip_hi": "Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%."
+      "tip_hi": "क्रॉस-गुणा ट्रिक: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "For 2 वर्ष, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.",
-      "tip_hi": "Standard 2-वर्ष difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500."
+      "explanation_hi": "2 वर्षों के लिए, सीआई - एसआई = पी * (आर/100)^2। यहाँ, 65 = पी * (10/100)^2 = पी * (1/100)। इसलिए, P = 65 * 100 = ₹6,500।",
+      "tip_hi": "मानक 2-वर्ष अंतर फॉर्मूला: पी = डी * (100/आर)^2 = 65 * 100 = ₹6,500।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.",
-      "tip_hi": "Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45."
+      "explanation_hi": "माना संख्याएँ 3x और 4x हैं। उनका LCM = 3 * 4 * x = 12x. दिया गया है 12x = 180, इसलिए x = 15। छोटी संख्या = 3x = 3 * 15 = 45। बड़ी संख्या 4x = 60 है।",
+      "tip_hi": "कारक जांच: 180 / (3 * 4) = 15 = एचसीएफ। छोटी संख्या = 15 * 3 = 45."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.",
-      "tip_hi": "For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8."
+      "explanation_hi": "पाँच लगातार विषम संख्याओं में, औसत (61) मध्य (तीसरी) संख्या है। संख्याएँ 57, 59, 61, 63, 65 हैं। अंतर = 65 - 57 = 8.",
+      "tip_hi": "'n' क्रमागत विषम या सम संख्याओं के लिए, उच्चतम और निम्नतम के बीच का अंतर हमेशा 2 * (n - 1) = 2 * 4 = 8 होता है।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.",
-      "tip_hi": "Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly."
+      "explanation_hi": "प्रत्येक अक्षर को +2 वर्णमाला क्रम से आगे स्थानांतरित किया गया है: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. बच्चों पर +2 लागू करना: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP।",
+      "tip_hi": "हमेशा पहले और आखिरी दो अक्षर पहले जांचें: C->E, N->P; (बी) और (सी) को तुरंत हटा देता है।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Woman's husband's father = Father-in-law. Father-in-law's wife = Mother-in-law. The only सोन नदी of mother-in-law is the woman's husband.",
-      "tip_hi": "'Only सोन नदी of my husband's mother/father' always refers directly to the husband."
+      "explanation_hi": "महिला के पति का पिता = ससुर. ससुर की पत्नी = सास. सास का इकलौता बेटा महिला का पति है।",
+      "tip_hi": "'मेरे पति के माता/पिता का इकलौता बेटा' हमेशा सीधे पति को संदर्भित करता है।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -194,7 +194,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Initial direction = पूर्व. Turning right from पूर्व turns him to face दक्षिण. Turning left from दक्षिण turns him back to face पूर्व.",
-      "tip_hi": "Right turn (+90 deg) followed by Left turn (-90 deg) cancels out; facing direction remains पूर्व."
+      "tip_hi": "दाएँ मोड़ (+90 डिग्री) के बाद बाएँ मोड़ (-90 डिग्री) रद्द हो जाता है; मुख दिशा पूर्व रहती है."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "First letter: B(+3)->E(+3)->H(+3)->K(+3)->N. Middle number: 2(*2)->4(*2)->8(*2)->16(*2)->32. Third letter: D(+4)->H(+4)->L(+4)->P(+4)->T. Hence, N32T.",
-      "tip_hi": "Number doubles (2, 4, 8, 16, 32); 1st letter +3, 3rd letter +4."
+      "explanation_hi": "पहला अक्षर: B(+3)->E(+3)->H(+3)->K(+3)->N. मध्य संख्या: 2(*2)->4(*2)->8(*2)->16(*2)->32. तीसरा अक्षर: D(+4)->H(+4)->L(+4)->P(+4)->T. अतः, N32T.",
+      "tip_hi": "संख्या दोगुनी (2, 4, 8, 16, 32); पहला अक्षर +3, तीसरा अक्षर +4."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bile juice is synthesized continuously by hepatic cells of the यकृत (लीवर) and concentrated/stored in the gallbladder. It contains no digestive enzymes but contains bile salts that emulsify dietary fats.",
-      "tip_hi": "Classic trap: यकृत (लीवर) produces bile; Gallbladder only stores and concentrates it."
+      "explanation_hi": "पित्त रस यकृत की यकृत कोशिकाओं द्वारा लगातार संश्लेषित होता है और पित्ताशय में केंद्रित/संग्रहित होता है। इसमें कोई पाचक एंजाइम नहीं होता है लेकिन इसमें पित्त लवण होते हैं जो आहार वसा का पायसीकरण करते हैं।",
+      "tip_hi": "क्लासिक जाल: यकृत पित्त का उत्पादन करता है; पित्ताशय ही इसे संग्रहित एवं सांद्रित करता है।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A अवतल दर्पण forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).",
-      "tip_hi": "Only position for virtual image in अवतल दर्पण = Object between Focus and Pole."
+      "explanation_hi": "एक अवतल दर्पण सभी स्थितियों में वास्तविक और उलटी छवियां बनाता है, सिवाय इसके कि जब वस्तु ध्रुव (पी) और फोकस (एफ) के बीच होती है, जहां यह दर्पण के पीछे एक आभासी, सीधी और बढ़ी हुई छवि बनाता है (शेविंग दर्पण में उपयोग किया जाता है)।",
+      "tip_hi": "अवतल दर्पण में आभासी छवि के लिए एकमात्र स्थिति = फोकस और ध्रुव के बीच वस्तु।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Galvanization involves dipping iron/steel into molten zinc to form a protective barrier. Even if the zinc coating is scratched, zinc acts as a sacrificial anode क्योंकि it oxidizes preferentially over iron.",
-      "tip_hi": "Galvanization = Zinc (Zn) coating on Iron (Fe)."
+      "explanation_hi": "गैल्वनीकरण में एक सुरक्षात्मक अवरोध बनाने के लिए लोहे/स्टील को पिघले जस्ता में डुबोना शामिल है। भले ही जिंक कोटिंग खरोंच हो, जिंक एक बलि एनोड के रूप में कार्य करता है क्योंकि यह लोहे पर प्राथमिकता से ऑक्सीकरण करता है।",
+      "tip_hi": "गैल्वनीकरण = लोहे (Fe) पर जिंक (Zn) कोटिंग।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -464,7 +464,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Under the presidency of जवाहरलाल नेहरू at the Lahore Session in दिसम्बर 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 जनवरी 1930 as Independence दिन.",
-      "tip_hi": "1929 Lahore = Purna Swaraj + Tri-colour hoisted on the banks of Ravi."
+      "tip_hi": "1929 लाहौर = पूर्ण स्वराज + रावी के तट पर तिरंगा फहराया गया।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -491,7 +491,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Announced at the Delhi Durbar in दिसम्बर 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 अप्रैल 1912. Orissa was subsequently separated from Bihar on 1 अप्रैल 1936.",
-      "tip_hi": "1912 = Bihar & Orissa separated from Bengal; 1936 = Orissa separated from Bihar; 2000 = Jharkhand separated from Bihar."
+      "tip_hi": "1912 = बिहार और उड़ीसा बंगाल से अलग हुए; 1936 = उड़ीसा बिहार से अलग हुआ; 2000 = झारखंड बिहार से अलग हुआ।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Santhal Hool (Rebellion) was led by four brothers—Sidhu, Kanhu, Chand, and Bhairav—in Damin-i-Koh against oppressive British revenue collectors, police, and mahajans (moneylenders).",
-      "tip_hi": "Santhal Rebellion (1855-56) = Sidhu & Kanhu; Munda Ulgulan (1899-1900) = Birsa Munda."
+      "explanation_hi": "संथाल हूल (विद्रोह) का नेतृत्व दमनकारी ब्रिटिश राजस्व संग्रहकर्ताओं, पुलिस और महाजनों (साहूकारों) के खिलाफ दामिन-ए-कोह में चार भाइयों-सिद्धू, कान्हू, चांद और भैरव ने किया था।",
+      "tip_hi": "संथाल विद्रोह (1855-56)=सिद्धू और कान्हू; मुंडा उलगुलान (1899-1900) = बिरसा मुंडा."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sachindra Nath Sanyal, founder of Hindustan Republican Association (HRA) and Patna branch of Anushilan Samiti (1913), wrote 'Bandi Jiwan' describing the trials and ideology of revolutionaries.",
-      "tip_hi": "'Bandi Jiwan' = Sachindra Nath Sanyal; 'Pather Dabi' = Sarat Chandra Chattopadhyay."
+      "explanation_hi": "हिंदुस्तान रिपब्लिकन एसोसिएशन (एचआरए) और अनुशीलन समिति की पटना शाखा (1913) के संस्थापक सचिन्द्र नाथ सान्याल ने क्रांतिकारियों के परीक्षणों और विचारधारा का वर्णन करते हुए 'बंदी जीवन' लिखा।",
+      "tip_hi": "'बंदी जीवन' = सचिन्द्र नाथ सान्याल; 'पाथेर डाबी' = शरत चंद्र चट्टोपाध्याय."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kakolat Waterfall is located on Kakolat hill in Nawada district, falling from a height of approximately 150 to 160 feet into a deep natural reservoir.",
-      "tip_hi": "Kakolat Waterfall = Nawada; Telhar Kund / Karkat = Kaimur; Dhua Kund = Sasaram (Rohtas)."
+      "explanation_hi": "ककोलत जलप्रपात नवादा जिले के काकोलत पहाड़ी पर स्थित है, जो लगभग 150 से 160 फीट की ऊंचाई से गहरे प्राकृतिक जलाशय में गिरता है।",
+      "tip_hi": "ककोलत जलप्रपात = नवादा; तेलहर कुंड/करकट = कैमूर; धुआ कुंड = सासाराम (रोहतास)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -599,7 +599,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Sheohar has the highest जनसंख्या घनत्व in Bihar with 1,880 persons per sq किमी, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq किमी.",
-      "tip_hi": "Density extremes: Highest = Sheohar (1,880); Lowest = Kaimur (488)."
+      "tip_hi": "घनत्व चरम: उच्चतम = शिवहर (1,880); न्यूनतम = कैमूर (488)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 18th G20 Heads of State and Government Summit was held on 9-10 सितम्बर 2023 at the newly renovated Bharat Mandapam International Exhibition-Convention Centre at Pragati Maidan, New Delhi.",
-      "tip_hi": "G20 Summit venue = Bharat Mandapam (Pragati Maidan); Theme: Vasudhaiva Kutumbakam."
+      "explanation_hi": "18वां G20 राष्ट्राध्यक्षों और शासनाध्यक्षों का शिखर सम्मेलन 9-10 सितंबर 2023 को प्रगति मैदान, नई दिल्ली में नव पुनर्निर्मित भारत मंडपम अंतर्राष्ट्रीय प्रदर्शनी-सम्मेलन केंद्र में आयोजित किया गया था।",
+      "tip_hi": "G20 शिखर सम्मेलन स्थल = भारत मंडपम (प्रगति मैदान); थीम: वसुधैव कुटुंबकम."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -680,7 +680,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 सेकंड. Speed = 500 / 25 = 20 m/s. Converting to किमी/h = 20 * (18/5) = 72 किमी/h.",
-      "tip_hi": "Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 किमी/h."
+      "tip_hi": "दूरी = ट्रेन + प्लेटफार्म = 500 मीटर. गति = 500/25 = 20 मीटर/सेकंड * 18/5 = 72 किमी/घंटा।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -706,7 +706,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let principal = P. Doubling means SI = P in 5 वर्ष. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 वर्ष.",
+      "explanation_hi": "माना मूलधन = P. दोगुना होने का अर्थ है 5 वर्षों में SI = P। 4 गुना बनने के लिए, राशि = 4P, इसलिए SI = 3P. चूँकि SI समय के सीधे आनुपातिक है: समय = 3 * 5 = 15 वर्ष।",
       "tip_hi": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष."
     },
     {
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/दिन, B's efficiency = 2 units/दिन. Together in 4 दिन = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.",
-      "tip_hi": "1-दिन combined work = 1/12 + 1/18 = 5/36. In 4 दिन = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9."
+      "explanation_hi": "12 और 18 का एलसीएम = 36 इकाई कुल कार्य। A की दक्षता = 3 इकाई/दिन, B की दक्षता = 2 इकाई/दिन। 4 दिनों में एक साथ = 4 * (3 + 2) = 20 इकाइयाँ। शेष कार्य = 36 - 20 = 16 इकाई। शेष अंश = 16/36 = 4/9.",
+      "tip_hi": "1 दिन का संयुक्त कार्य = 1/12 + 1/18 = 5/36. 4 दिन में = 20/36. शेष = 1 - 20/36 = 16/36 = 4/9."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.",
-      "tip_hi": "L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m."
+      "explanation_hi": "परिधि = 2(एल + बी) = 80 => एल + बी = 40। दिया गया एल = बी + 8. तो (बी + 8) + बी = 40 => 2बी = 32 => बी = 16 मीटर, एल = 24 मीटर। क्षेत्रफल = एल * बी = 24 * 16 = 384 वर्ग मीटर।",
+      "tip_hi": "एल = (40 + 8)/2 = 24 मीटर; बी = (40 - 8)/2 = 16 मीटर। क्षेत्रफल = 24 * 16 = 384 वर्ग मीटर."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bromine (Br, atomic number 35) is the only non-metallic element that is liquid at room temperature. Mercury is a liquid metal, not a non-metal.",
-      "tip_hi": "Crucial distinction: Liquid Metal = Mercury (Hg); Liquid Non-metal = Bromine (Br)."
+      "explanation_hi": "ब्रोमीन (Br, परमाणु संख्या 35) एकमात्र गैर-धात्विक तत्व है जो कमरे के तापमान पर तरल होता है। पारा एक तरल धातु है, अधातु नहीं।",
+      "tip_hi": "महत्वपूर्ण भेद: तरल धातु = पारा (एचजी); तरल अधातु = ब्रोमीन (Br)."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -815,7 +815,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to फेफड़े, while pulmonary veins carry oxygenated blood from फेफड़े to left atrium.",
-      "tip_hi": "Exception to vein rule: Pulmonary veins carry oxygen-rich blood."
+      "tip_hi": "शिरा नियम का अपवाद: फुफ्फुसीय शिराएँ ऑक्सीजन युक्त रक्त ले जाती हैं।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -841,7 +841,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.",
+      "explanation_hi": "जैसे-जैसे तारों का प्रकाश पृथ्वी के वायुमंडल की विभिन्न परतों से होकर गुजरता है, जिसमें भौतिक तापमान और अपवर्तक सूचकांक लगातार भिन्न होते हैं, प्रकाश का मार्ग लगातार झुकता है, जिससे चमक और स्थिति में स्पष्ट उतार-चढ़ाव होता है।",
       "tip_hi": "Star twinkling = Atmospheric अपवर्तन; Advanced sunrise & delayed sunset = Atmospheric अपवर्तन."
     },
     {
@@ -869,7 +869,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Pure उदासीन water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are अम्लीय, and pH > 7 are alkaline.",
-      "tip_hi": "उदासीन pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6."
+      "tip_hi": "तटस्थ पीएच = 7. मानव रक्त पीएच = 7.35-7.45; अम्लीय वर्षा pH <5.6."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Shyamji Krishna Varma founded the Indian Home Rule Society and India House in London in 1905. He also published the monthly journal 'The Indian Sociologist'. V.D. Savarkar and Madan Lal Dhingra were associated with India House.",
-      "tip_hi": "India House (London, 1905) = Shyamji Krishna Varma; Ghadar Party (San Francisco, 1913) = Lala Har Dayal."
+      "explanation_hi": "श्यामजी कृष्ण वर्मा ने 1905 में लंदन में इंडियन होम रूल सोसाइटी और इंडिया हाउस की स्थापना की। उन्होंने मासिक पत्रिका 'द इंडियन सोशियोलॉजिस्ट' भी प्रकाशित की। वी.डी. सावरकर और मदन लाल ढींगरा इंडिया हाउस से जुड़े थे।",
+      "tip_hi": "इंडिया हाउस (लंदन, 1905) = श्यामजी कृष्ण वर्मा; ग़दर पार्टी (सैन फ्रांसिस्को, 1913) = लाला हर दयाल।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Patna city, under the leadership of Ambika Kant Sinha, the satyagrahis marched to Nakhas Pond (Nakhas Pind) in Mangal Talab area on 16 अप्रैल 1930 to manufacture salt and inaugurate the civil disobedience movement.",
-      "tip_hi": "Salt Satyagraha in Patna = Nakhas Pond (नखास पिंड), led by Ambika Kant Sinha."
+      "explanation_hi": "पटना शहर में, अंबिका कांत सिन्हा के नेतृत्व में, नमक बनाने और सविनय अवज्ञा आंदोलन का उद्घाटन करने के लिए 16 अप्रैल 1930 को सत्याग्रहियों ने मंगल तालाब क्षेत्र में नखास तालाब (नखास पिंड) तक मार्च किया।",
+      "tip_hi": "पटना में नमक सत्याग्रह = नखास तालाब, जिसका नेतृत्व अंबिका कांत सिन्हा ने किया।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Anamudi, located in the Anaimalai Hills of Kerala, has an elevation of 2,695 metres (8,842 ft) and is the highest peak in peninsular India. Doddabetta (2,637 m) is the highest peak of Nilgiri Hills.",
-      "tip_hi": "Highest peak of दक्षिण India = Anamudi (2,695 m); Nilgiris highest = Doddabetta (2,637 m)."
+      "explanation_hi": "केरल की अनामलाई पहाड़ियों में स्थित अनामुडी की ऊंचाई 2,695 मीटर (8,842 फीट) है और यह प्रायद्वीपीय भारत की सबसे ऊंची चोटी है। डोड्डाबेट्टा (2,637 मीटर) नीलगिरि पहाड़ियों की सबसे ऊँची चोटी है।",
+      "tip_hi": "दक्षिण भारत की सबसे ऊँची चोटी = अनामुडी (2,695 मीटर); नीलगिरि उच्चतम = डोड्डाबेट्टा (2,637 मीटर)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -977,7 +977,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The कोसी नदी River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 किमी over 250 वर्ष, causing repeated disasters.",
-      "tip_hi": "Sorrow of Bihar = कोसी नदी; Sorrow of Bengal = Damodar."
+      "tip_hi": "बिहार का दुःख=कोसी; बंगाल का दुःख = दामोदर."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -1004,7 +1004,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Rohtas district recorded the highest overall साक्षरता दर in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is सेकंड with 70.68%.",
-      "tip_hi": "Highest Literacy = Rohtas (73.37%); Lowest Literacy = Purnia (51.08%)."
+      "tip_hi": "उच्चतम साक्षरता = रोहतास (73.37%); न्यूनतम साक्षरता = पूर्णिया (51.08%)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -1031,7 +1031,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Formulated by Raymond Lindeman in 1942, के दौरान energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and श्वसन, leaving only ~10% stored as flesh for the next trophic level.",
-      "tip_hi": "Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links."
+      "tip_hi": "पोषी स्तरों के बीच ऊर्जा हस्तांतरण हमेशा ~10% होता है; खाद्य श्रृंखलाओं को 4-5 कड़ियों तक सीमित करता है।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -1058,7 +1058,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Operation गंगा नदी was launched in late फरवरी 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
-      "tip_hi": "Operation गंगा नदी = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023)."
+      "tip_hi": "ऑपरेशन गंगा = यूक्रेन (2022); ऑपरेशन देवी शक्ति = अफगानिस्तान (2021); ऑपरेशन कावेरी = सूडान (2023)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",

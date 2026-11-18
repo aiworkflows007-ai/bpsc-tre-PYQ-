@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Cost price of 1 अनुच्छेद = 20/25 = ₹0.80. Selling price of 1 अनुच्छेद = 25/20 = ₹1.25. Profit per अनुच्छेद = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
-      "tip_hi": "Cross-multiplication trick: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%."
+      "tip_hi": "क्रॉस-गुणा ट्रिक: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "For 2 वर्ष, CI - SI = P * (R/100)^2. Here, 65 = P * (10/100)^2 = P * (1/100). Therefore, P = 65 * 100 = ₹6,500.",
-      "tip_hi": "Standard 2-वर्ष difference formula: P = D * (100/R)^2 = 65 * 100 = ₹6,500."
+      "explanation_hi": "2 वर्षों के लिए, सीआई - एसआई = पी * (आर/100)^2। यहाँ, 65 = पी * (10/100)^2 = पी * (1/100)। इसलिए, P = 65 * 100 = ₹6,500।",
+      "tip_hi": "मानक 2-वर्ष अंतर फॉर्मूला: पी = डी * (100/आर)^2 = 65 * 100 = ₹6,500।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let the numbers be 3x and 4x. Their LCM = 3 * 4 * x = 12x. Given 12x = 180, so x = 15. The smaller number = 3x = 3 * 15 = 45. The larger number is 4x = 60.",
-      "tip_hi": "Factor check: 180 / (3 * 4) = 15 = HCF. Smaller number = 15 * 3 = 45."
+      "explanation_hi": "माना संख्याएँ 3x और 4x हैं। उनका LCM = 3 * 4 * x = 12x. दिया गया है 12x = 180, इसलिए x = 15। छोटी संख्या = 3x = 3 * 15 = 45। बड़ी संख्या 4x = 60 है।",
+      "tip_hi": "कारक जांच: 180 / (3 * 4) = 15 = एचसीएफ। छोटी संख्या = 15 * 3 = 45."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In five consecutive odd numbers, the average (61) is the middle (3rd) number. The numbers are 57, 59, 61, 63, 65. Difference = 65 - 57 = 8.",
-      "tip_hi": "For 'n' consecutive odd or even numbers, the difference between highest and lowest is always 2 * (n - 1) = 2 * 4 = 8."
+      "explanation_hi": "पाँच लगातार विषम संख्याओं में, औसत (61) मध्य (तीसरी) संख्या है। संख्याएँ 57, 59, 61, 63, 65 हैं। अंतर = 65 - 57 = 8.",
+      "tip_hi": "'n' क्रमागत विषम या सम संख्याओं के लिए, उच्चतम और निम्नतम के बीच का अंतर हमेशा 2 * (n - 1) = 2 * 4 = 8 होता है।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -167,7 +167,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 सेकंड. Speed = 500 / 25 = 20 m/s. Converting to किमी/h = 20 * (18/5) = 72 किमी/h.",
-      "tip_hi": "Distance = Train + Platform = 500 m. Speed = 500/25 = 20 m/s * 18/5 = 72 किमी/h."
+      "tip_hi": "दूरी = ट्रेन + प्लेटफार्म = 500 मीटर. गति = 500/25 = 20 मीटर/सेकंड * 18/5 = 72 किमी/घंटा।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -193,7 +193,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let principal = P. Doubling means SI = P in 5 वर्ष. For becoming 4 times, amount = 4P, so SI = 3P. Since SI is directly proportional to time: Time = 3 * 5 = 15 वर्ष.",
+      "explanation_hi": "माना मूलधन = P. दोगुना होने का अर्थ है 5 वर्षों में SI = P। 4 गुना बनने के लिए, राशि = 4P, इसलिए SI = 3P. चूँकि SI समय के सीधे आनुपातिक है: समय = 3 * 5 = 15 वर्ष।",
       "tip_hi": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष."
     },
     {
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "LCM of 12 and 18 = 36 units total work. A's efficiency = 3 units/दिन, B's efficiency = 2 units/दिन. Together in 4 दिन = 4 * (3 + 2) = 20 units. Remaining work = 36 - 20 = 16 units. Remaining fraction = 16/36 = 4/9.",
-      "tip_hi": "1-दिन combined work = 1/12 + 1/18 = 5/36. In 4 दिन = 20/36. Remaining = 1 - 20/36 = 16/36 = 4/9."
+      "explanation_hi": "12 और 18 का एलसीएम = 36 इकाई कुल कार्य। A की दक्षता = 3 इकाई/दिन, B की दक्षता = 2 इकाई/दिन। 4 दिनों में एक साथ = 4 * (3 + 2) = 20 इकाइयाँ। शेष कार्य = 36 - 20 = 16 इकाई। शेष अंश = 16/36 = 4/9.",
+      "tip_hi": "1 दिन का संयुक्त कार्य = 1/12 + 1/18 = 5/36. 4 दिन में = 20/36. शेष = 1 - 20/36 = 16/36 = 4/9."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Perimeter = 2(L + B) = 80 => L + B = 40. Given L = B + 8. So (B + 8) + B = 40 => 2B = 32 => B = 16 m, L = 24 m. Area = L * B = 24 * 16 = 384 sq metres.",
-      "tip_hi": "L = (40 + 8)/2 = 24 m; B = (40 - 8)/2 = 16 m. Area = 24 * 16 = 384 sq m."
+      "explanation_hi": "परिधि = 2(एल + बी) = 80 => एल + बी = 40। दिया गया एल = बी + 8. तो (बी + 8) + बी = 40 => 2बी = 32 => बी = 16 मीटर, एल = 24 मीटर। क्षेत्रफल = एल * बी = 24 * 16 = 384 वर्ग मीटर।",
+      "tip_hi": "एल = (40 + 8)/2 = 24 मीटर; बी = (40 - 8)/2 = 16 मीटर। क्षेत्रफल = 24 * 16 = 384 वर्ग मीटर."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -274,7 +274,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "As starlight travels through different layers of Earth's atmosphere having continuously varying physical temperatures and refractive indices, the path of light bends continuously, causing apparent fluctuations in brightness and position.",
+      "explanation_hi": "जैसे-जैसे तारों का प्रकाश पृथ्वी के वायुमंडल की विभिन्न परतों से होकर गुजरता है, जिसमें भौतिक तापमान और अपवर्तक सूचकांक लगातार भिन्न होते हैं, प्रकाश का मार्ग लगातार झुकता है, जिससे चमक और स्थिति में स्पष्ट उतार-चढ़ाव होता है।",
       "tip_hi": "Star twinkling = Atmospheric अपवर्तन; Advanced sunrise & delayed sunset = Atmospheric अपवर्तन."
     },
     {
@@ -302,7 +302,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Pure उदासीन water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are अम्लीय, and pH > 7 are alkaline.",
-      "tip_hi": "उदासीन pH = 7. Human blood pH = 7.35–7.45; Acid rain pH < 5.6."
+      "tip_hi": "तटस्थ पीएच = 7. मानव रक्त पीएच = 7.35-7.45; अम्लीय वर्षा pH <5.6."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -329,7 +329,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Formulated by Raymond Lindeman in 1942, के दौरान energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and श्वसन, leaving only ~10% stored as flesh for the next trophic level.",
-      "tip_hi": "Energy transfer between trophic levels is always ~10%; restricts food chains to 4-5 links."
+      "tip_hi": "पोषी स्तरों के बीच ऊर्जा हस्तांतरण हमेशा ~10% होता है; खाद्य श्रृंखलाओं को 4-5 कड़ियों तक सीमित करता है।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -356,7 +356,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Operation गंगा नदी was launched in late फरवरी 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
-      "tip_hi": "Operation गंगा नदी = Ukraine (2022); Operation Devi Shakti = Afghanistan (2021); Operation Kaveri = Sudan (2023)."
+      "tip_hi": "ऑपरेशन गंगा = यूक्रेन (2022); ऑपरेशन देवी शक्ति = अफगानिस्तान (2021); ऑपरेशन कावेरी = सूडान (2023)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -382,7 +382,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.",
+      "explanation_hi": "मी/से. में गति = 54 * (5/18) = 15 मी/से. दूरी = गति * समय = 15 मी/से * 20 सेकण्ड = 300 मीटर।",
       "tip_hi": "Multiply किमी/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m."
     },
     {
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. प्रतिशत reduction = (1 - 0.25) * 100 = 75%.",
-      "tip_hi": "Successive प्रतिशत formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%."
+      "explanation_hi": "वृत्त का क्षेत्रफल r^2 के समानुपाती होता है। यदि r 0.5r हो जाता है, तो नया क्षेत्रफल = (0.5)^2 * मूल क्षेत्रफल = 0.25 * मूल क्षेत्रफल। प्रतिशत में कमी = (1 - 0.25) * 100 = 75%।",
+      "tip_hi": "क्रमिक प्रतिशत सूत्र: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.",
-      "tip_hi": "Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes."
+      "explanation_hi": "विजेता का वोट %=58%. हारने वाले का वोट % = 100 - 58 = 42%। अंतर = 58% - 42% = 16%। कुल वोटों का 16% = 1,600 दिया गया है। कुल वैध वोट = (1,600 / 16) * 100 = 10,000।",
+      "tip_hi": "मार्जिन = 58% - 42% = 16% = 1,600 वोट => 1% = 100 वोट => 100% = 10,000 वोट।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.",
-      "tip_hi": "Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14."
+      "explanation_hi": "दोनों पक्षों का वर्ग करने पर: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. इसलिए, x^2 + 1/x^2 = 16 - 2 = 14.",
+      "tip_hi": "मानक पहचान: यदि x + 1/x = k, तो x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -490,7 +490,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per मिनट. Time required = 12 मिनट.",
+      "explanation_hi": "संयुक्त दर = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 टंकी प्रति मिनट। आवश्यक समय = 12 मिनट.",
       "tip_hi": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट."
     },
     {
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.",
-      "tip_hi": "Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T)."
+      "explanation_hi": "1662 में रॉबर्ट बॉयल द्वारा तैयार, बॉयल का नियम बताता है कि स्थिर तापमान (टी) पर, पी * वी = स्थिरांक, जिसका अर्थ है कि दबाव और आयतन विपरीत रूप से भिन्न होते हैं। चार्ल्स का नियम स्थिर दबाव पर आयतन और तापमान से संबंधित है।",
+      "tip_hi": "स्थिरांक T => बॉयल का नियम (P ∝ 1/V); स्थिरांक P => चार्ल्स का नियम (V ∝ T)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement के दौरान 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.",
-      "tip_hi": "Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma."
+      "explanation_hi": "पंडित कार्यानंद शर्मा ने 1936-39 के दौरान दमनकारी जमींदारों द्वारा छीनी गई काश्तकारी भूमि की बहाली की मांग को लेकर प्रसिद्ध बरहिया ताल (मुंगेर) बखाश्त किसान आंदोलन का आयोजन किया।",
+      "tip_hi": "बरहिया ताल बखश्त आन्दोलन = कार्यानन्द शर्मा; रेउरा (गया) आंदोलन=यदुनंदन शर्मा."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -572,7 +572,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Time difference = 11 - 5 = 6 मिनट = 6/60 घंटे = 1/10 घंटे. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 किमी.",
-      "tip_hi": "Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी."
+      "tip_hi": "दूरी = (एस1*एस2)/(एस2-एस1) * (डेल्टा टी) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -598,7 +598,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let present ages be 7x and 2x. In 10 वर्ष: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 वर्ष.",
+      "explanation_hi": "माना वर्तमान आयु 7x और 2x है। 10 वर्षों में: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. पिता की आयु = 7x = 7 * 5 = 35 वर्ष।",
       "tip_hi": "Ratio units: (9-7)=2 units in 10 वर्ष => 1 unit = 5 वर्ष. Father = 7 units = 35 वर्ष."
     },
     {
@@ -626,7 +626,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In 60 लीटर: Milk = 40 L, Water = 20 L. Let 'x' लीटर of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर.",
-      "tip_hi": "Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L."
+      "tip_hi": "दूध 40 लीटर पर स्थिर रहता है। 1:2 के अनुपात में, 1 इकाई = 40 लीटर, इसलिए पानी 2 इकाई = 80 लीटर होना चाहिए। जोड़ा गया पानी = 80 - 20 = 60 लीटर।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.",
-      "tip_hi": "All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar."
+      "explanation_hi": "चंदवा (भोजपुर, बिहार) में जन्मे बाबू जगजीवन राम ने राष्ट्रीय स्वतंत्रता और नागरिक अधिकारों के लिए अनुसूचित जातियों को संगठित करने के लिए 1935 में अखिल भारतीय दलित वर्ग लीग की स्थापना की।",
+      "tip_hi": "अखिल भारतीय दलित वर्ग लीग (1935) = बाबू जगजीवन राम; अखिल भारतीय अनुसूचित जाति महासंघ = डॉ. बी.आर. अम्बेडकर।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -679,7 +679,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "For tripling, SI = 2P in 8 वर्ष, so interest rate = 2P/(P * 8) = 25%. For becoming 9 times, SI = 8P. Time = 8P / (P * 0.25) = 32 वर्ष.",
+      "explanation_hi": "तीन गुना के लिए, 8 वर्षों में SI = 2P, इसलिए ब्याज दर = 2P/(P * 8) = 25%। 9 बार बनने पर SI = 8P. समय = 8पी/(पी*0.25) = 32 वर्ष।",
       "tip_hi": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष."
     }
   ]

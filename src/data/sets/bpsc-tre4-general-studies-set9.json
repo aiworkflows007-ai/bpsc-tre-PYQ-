@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "At compound interest, if P becomes 2P in 3 वर्ष, then 16P = (2^4)P will take 4 * 3 = 12 वर्ष.",
-      "tip_hi": "In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 वर्ष."
+      "explanation_hi": "चक्रवृद्धि ब्याज पर, यदि P 3 वर्षों में 2P हो जाता है, तो 16P = (2^4)P में 4 * 3 = 12 वर्ष लगेंगे।",
+      "tip_hi": "CI में, यदि पैसा 2^n गुना हो जाता है, तो समय = n * T1। यहाँ 16 = 2^4, इसलिए समय = 4 * 3 = 12 वर्ष।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -58,7 +58,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.",
+      "explanation_hi": "कुल संभावित परिणाम = 6 * 6 = 36। योग 8 देने वाले अनुकूल परिणाम: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 परिणाम। प्रायिकता = 5/36.",
       "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
     },
     {
@@ -85,7 +85,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 सेकंड.",
+      "explanation_hi": "मी/से. में गति = 72 * (5/18) = 20 मी./से. एक बिंदु वस्तु (खड़े आदमी) को पार करने के लिए, दूरी = ट्रेन की लंबाई = 180 मीटर। समय = दूरी/गति = 180/20 = 9 सेकंड।",
       "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
     },
     {
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/दिन. Total efficiency = 6 + 5 + 4 = 15 units/दिन. Time required = 60 / 15 = 4 दिन.",
-      "tip_hi": "Combined 1-दिन work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 दिन."
+      "explanation_hi": "10, 12, 15 का एलसीएम = 60 इकाई कुल कार्य। दैनिक क्षमताएँ: ए = 6, बी = 5, सी = 4 इकाइयाँ/दिन। कुल दक्षता = 6 + 5 + 4 = 15 यूनिट/दिन। आवश्यक समय = 60/15 = 4 दिन।",
+      "tip_hi": "संयुक्त 1-दिन का कार्य = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => ठीक 4 दिन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu सेमी.",
-      "tip_hi": "V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³."
+      "explanation_hi": "सिलेंडर का आयतन = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * ​​7 * 10 = 1,540 घन सेमी।",
+      "tip_hi": "वी = π आर^2 एच = 22/7 * 49 * 10 = 154 * 10 = 1,540 सेमी³।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Direct letter coding: S=2, E=1, A=4, R=6, C=7, H=3. Combining these for 'SEARCH' yields 214673.",
-      "tip_hi": "Look up letters directly: S=2, E=1, A=4, R=6, C=7, H=3 => 214673."
+      "explanation_hi": "सीधा अक्षर कोडिंग: S=2, E=1, A=4, R=6, C=7, H=3। इन्हें 'खोज' के लिए संयोजित करने पर 214673 प्राप्त होते हैं।",
+      "tip_hi": "अक्षरों को सीधे देखें: S=2, E=1, A=4, R=6, C=7, H=3 => 214673।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "E is daughter of B, and D is brother of E, so D is the सोन नदी of B. Since A is the brother of B, A is the paternal uncle (or maternal uncle) of D.",
-      "tip_hi": "Brother of parent (B) is A, so A is the uncle of D."
+      "explanation_hi": "E, B की बेटी है, और D, E का भाई है, इसलिए D, B का बेटा है। चूँकि A, B का भाई है, A, D का चाचा (या मामा) है।",
+      "tip_hi": "माता-पिता (बी) का भाई ए है, इसलिए ए, डी का चाचा है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Consecutive differences are +4, +6, +8, +10, +12, so the next difference is +14. 42 + 14 = 56. (Alternatively: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56).",
-      "tip_hi": "Formula: n*(n+1). For n=7, 7*8 = 56."
+      "explanation_hi": "लगातार अंतर +4, +6, +8, +10, +12 हैं, इसलिए अगला अंतर +14 है। 42 + 14 = 56. (वैकल्पिक रूप से: n^2 + n: 1^2+1=2, 2^2+2=6, ..., 7^2+7=56)।",
+      "tip_hi": "सूत्र: n*(n+1). n=7 के लिए, 7*8 = 56."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In निर्वात, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 किमी/s).",
-      "tip_hi": "Speed of light c = 3 × 10^8 m/s = 3 × 10^5 किमी/s."
+      "tip_hi": "प्रकाश की गति c = 3 × 10^8 मी/से = 3 × 10^5 किमी/सेकेंड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.",
-      "tip_hi": "Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli."
+      "explanation_hi": "सिरैक्यूज़ के आर्किमिडीज़ द्वारा तैयार किया गया यह सिद्धांत प्लवनशीलता, हाइड्रोमीटर, पनडुब्बी और लैक्टोमीटर को नियंत्रित करता है। डूबे हुए शरीर के वजन में स्पष्ट कमी विस्थापित तरल के वजन के बराबर होती है।",
+      "tip_hi": "प्लवन एवं हाइड्रोमीटर = आर्किमिडीज़ का सिद्धांत; हाइड्रोलिक लिफ्ट = पास्कल का नियम; द्रव वेग और दबाव = बर्नौली."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Beta cells secrete insulin, which facilitates cellular uptake of glucose and stimulates glycogen synthesis in the यकृत (लीवर). In contrast, alpha cells secrete glucagon to raise blood glucose.",
-      "tip_hi": "Beta cells = Insulin (lowers blood sugar); Alpha cells = Glucagon (raises blood sugar)."
+      "explanation_hi": "बीटा कोशिकाएं इंसुलिन का स्राव करती हैं, जो ग्लूकोज के सेलुलर अवशोषण की सुविधा प्रदान करती है और यकृत में ग्लाइकोजन संश्लेषण को उत्तेजित करती है। इसके विपरीत, अल्फा कोशिकाएं रक्त ग्लूकोज बढ़ाने के लिए ग्लूकागन का स्राव करती हैं।",
+      "tip_hi": "बीटा कोशिकाएं = इंसुलिन (रक्त शर्करा को कम करता है); अल्फा कोशिकाएं = ग्लूकागन (रक्त शर्करा बढ़ाता है)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Acids turn blue litmus red and have a pH less than 7 at 25°C. Bases turn red litmus blue and have a pH greater than 7.",
-      "tip_hi": "Memory rule: 'BAR' = Blue to Red = Acid (pH < 7); Red to Blue = Base (pH > 7)."
+      "explanation_hi": "अम्ल नीले लिटमस को लाल कर देते हैं और 25°C पर pH 7 से कम हो जाता है। क्षार लाल लिटमस को नीला कर देते हैं और pH 7 से अधिक होता है।",
+      "tip_hi": "स्मृति नियम: 'BAR' = नीला से लाल = अम्ल (पीएच <7); लाल से नीला = आधार (पीएच > 7)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -383,7 +383,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its केंद्रक (नाभिक).",
-      "tip_hi": "Protium has 0 neutrons; Deuterium has 1 neutron; Tritium has 2 neutrons."
+      "tip_hi": "प्रोटियम में 0 न्यूट्रॉन हैं; ड्यूटेरियम में 1 न्यूट्रॉन होता है; ट्रिटियम में 2 न्यूट्रॉन होते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "जूल's law states that heat generated is directly proportional to the square of current (I^2), resistance (R), and time (t): H = I^2 R t Joules.",
-      "tip_hi": "जूल's heating formula: H = I^2 * R * t = V * I * t = (V^2 / R) * t."
+      "explanation_hi": "जूल का नियम कहता है कि उत्पन्न ऊष्मा धारा (I^2), प्रतिरोध (R), और समय (t) के वर्ग के सीधे आनुपातिक होती है: H = I^2 R t जूल।",
+      "tip_hi": "जूल का तापन सूत्र: H = I^2 * R * t = V * I * t = (V^2 / R) * t।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The catastrophe resulted from the leakage of approximately 40 tonnes of Methyl Isocyanate (MIC, formula CH3NCO) gas stored in underground tank E610 at the Union Carbide India Limited pesticide plant in Bhopal.",
-      "tip_hi": "Bhopal Gas Tragedy (1984) = Methyl Isocyanate (MIC, CH3NCO)."
+      "explanation_hi": "यह आपदा भोपाल में यूनियन कार्बाइड इंडिया लिमिटेड कीटनाशक संयंत्र में भूमिगत टैंक E610 में संग्रहीत लगभग 40 टन मिथाइल आइसोसाइनेट (MIC, फॉर्मूला CH3NCO) गैस के रिसाव के कारण हुई।",
+      "tip_hi": "भोपाल गैस त्रासदी (1984) = मिथाइल आइसोसाइनेट (एमआईसी, सीएच3एनसीओ)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir हेनरी Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.",
+      "explanation_hi": "फैजाबाद के मौलवी अहमदुल्ला शाह ने चिनहट में सर हेनरी लॉरेंस के नेतृत्व में ब्रिटिश सेना को हराकर अवध में हजारों लोगों को संगठित किया। ब्रिटिश अधिकारियों ने उन्हें एक साहसी योद्धा और एक अजेय शत्रु के रूप में सराहा।",
       "tip_hi": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = बाबू कुंवर सिंह."
     },
     {
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "1 Bigha equals 20 Kathas. Under the Tinkathia contract, farmers were legally bound to cultivate indigo on 3 kathas of the best fertile land out of every 20 kathas (3/20th).",
-      "tip_hi": "Tinkathia = 3 kathas per bigha = 3/20th of land holding."
+      "explanation_hi": "1 बीघा 20 कट्ठा के बराबर होता है। तिनकठिया अनुबंध के तहत, किसान कानूनी रूप से प्रत्येक 20 कट्ठा (3/20वें) में से 3 कट्ठा सर्वोत्तम उपजाऊ भूमि पर नील की खेती करने के लिए बाध्य थे।",
+      "tip_hi": "तिनकठिया = 3 कट्ठा प्रति बीघा = भूमि जोत का 3/20वाँ भाग।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -518,7 +518,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "के दौरान the Non-Cooperation movement, महात्मा गांधी opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 फरवरी 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
-      "tip_hi": "Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor)."
+      "tip_hi": "6 फरवरी 1921 को गांधी जी द्वारा बिहार विद्यापीठ का उद्घाटन; मजहरुल हक (चांसलर), ब्रजकिशोर प्रसाद (कुलपति)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "C. R. Das presided over the 1922 Gaya Session. After his proposal for council entry was defeated by the 'No-Changers' (Rajendra Prasad, C. Rajagopalachari), he resigned and founded the Swaraj Party with Motilal Nehru.",
-      "tip_hi": "Congress Sessions in Bihar: 1912 Bankipore (R. N. Mudholkar); 1922 Gaya (C. R. Das); 1940 Ramgarh (Abul Kalam Azad)."
+      "explanation_hi": "1922 के गया अधिवेशन की अध्यक्षता सी. आर. दास ने की। काउंसिल में प्रवेश के उनके प्रस्ताव को 'नो-चेंजर्स' (राजेंद्र प्रसाद, सी. राजगोपालाचारी) द्वारा पराजित किए जाने के बाद, उन्होंने इस्तीफा दे दिया और मोतीलाल नेहरू के साथ स्वराज पार्टी की स्थापना की।",
+      "tip_hi": "बिहार में कांग्रेस अधिवेशन: 1912 बांकीपुर (आर.एन. मुधोलकर); 1922 गया (सी. आर. दास); 1940 रामगढ़ (अबुल कलाम आज़ाद)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.",
-      "tip_hi": "Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava."
+      "explanation_hi": "जगलाल चौधरी ने गरखा और सीवान में जन विद्रोह का नेतृत्व किया, पुलिस स्टेशन को जला दिया और स्वराजवादी प्रशासन की स्थापना की। फुलेना प्रसाद श्रीवास्तव भी सीवान के महाराजगंज थाने पर झंडा फहराने के दौरान शहीद हो गये थे.",
+      "tip_hi": "सीवान भारत छोड़ो नेता = जगलाल चौधरी एवं फुलेना प्रसाद श्रीवास्तव।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sachindra Nath Sanyal established the Patna branch of Anushilan Samiti in 1913. Bankim Chandra Mitra of BN College was entrusted with recruiting students and spreading revolutionary nationalist literature.",
-      "tip_hi": "Patna branch of Anushilan Samiti (1913) = Sachindra Nath Sanyal."
+      "explanation_hi": "सचिन्द्र नाथ सान्याल ने 1913 में अनुशीलन समिति की पटना शाखा की स्थापना की। बीएन कॉलेज के बंकिम चंद्र मित्रा को छात्रों की भर्ती और क्रांतिकारी राष्ट्रवादी साहित्य का प्रसार करने का काम सौंपा गया था।",
+      "tip_hi": "अनुशीलन समिति की पटना शाखा (1913) = सचिन्द्र नाथ सान्याल।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.",
-      "tip_hi": "Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee')."
+      "explanation_hi": "'द बिहार टाइम्स' और 'द बिहारी' के संपादक बाबू महेश नारायण डॉ. सच्चिदानंद सिन्हा के साथ बिहार को बंगाल से अलग करने के आंदोलन के बौद्धिक वास्तुकार थे।",
+      "tip_hi": "बिहार अलगाव के बौद्धिक सूत्रधार = बाबू महेश नारायण ('द बिहार टाइम्स'/'द बिहारी')।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Köppen's scheme, Cwg represents a subtropical humid monsoon climate with dry winters and warmest माह before the solstice, which accurately characterizes the Gangetic plains of उत्तर Bihar.",
-      "tip_hi": "Bihar climate in Köppen classification = Cwg (Gangetic plain type)."
+      "explanation_hi": "कोपेन की योजना में, Cwg शुष्क सर्दियों और संक्रांति से पहले सबसे गर्म महीने के साथ एक उपोष्णकटिबंधीय आर्द्र मानसून जलवायु का प्रतिनिधित्व करता है, जो उत्तर बिहार के गंगा के मैदानी इलाकों की सटीक विशेषता बताता है।",
+      "tip_hi": "कोपेन वर्गीकरण में बिहार की जलवायु = Cwg (गंगा का मैदानी प्रकार)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bhimbandh Wildlife Sanctuary is situated in the Kharagpur hills of Munger district, covering ~681 sq किमी, famous for dense sal forests and thermal mineral springs.",
-      "tip_hi": "Bhimbandh Wildlife Sanctuary = Munger; Rajgir Wildlife Sanctuary = Nalanda; Gautam Buddha Sanctuary = Gaya."
+      "explanation_hi": "भीमबांध वन्यजीव अभयारण्य ~681 वर्ग किमी में फैला, मुंगेर जिले की खड़गपुर पहाड़ियों में स्थित है, जो घने साल वनों और थर्मल खनिज झरनों के लिए प्रसिद्ध है।",
+      "tip_hi": "भीमबांध वन्यजीव अभयारण्य =मुंगेर; राजगीर वन्यजीव अभयारण्य=नालंदा; गौतम बुद्ध अभयारण्य = गया."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kahalgaon Super Thermal Power Plant has a total generating capacity of 2,340 MW, located in Bhagalpur district. Coal is sourced from Rajmahal coalfields in Jharkhand.",
-      "tip_hi": "Kahalgaon = Bhagalpur (NTPC); Barauni = Begusarai (NTPC); Kanti = Muzaffarpur (NTPC); Nabinagar = Aurangabad (NTPC)."
+      "explanation_hi": "कहलगांव सुपर थर्मल पावर प्लांट की कुल उत्पादन क्षमता 2,340 मेगावाट है, जो भागलपुर जिले में स्थित है। कोयला झारखंड में राजमहल कोयला क्षेत्रों से प्राप्त किया जाता है।",
+      "tip_hi": "कहलगांव=भागलपुर (एनटीपीसी); बरौनी=बेगूसराय (एनटीपीसी); कांति = मुजफ्फरपुर (एनटीपीसी); नबीनगर = औरंगाबाद (एनटीपीसी)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Zoji La Pass (elevation 3,528 metres on NH 1) connects Srinagar and Dras/Kargil/Leh. Banihal Pass connects Jammu with Srinagar across the Pir Panjal range.",
-      "tip_hi": "Srinagar to Leh = Zoji La; Jammu to Srinagar = Banihal Pass; Himachal to Tibet = Shipki La."
+      "explanation_hi": "ज़ोजी ला दर्रा (एनएच 1 पर ऊंचाई 3,528 मीटर) श्रीनगर और द्रास/कारगिल/लेह को जोड़ता है। बनिहाल दर्रा पीर पंजाल रेंज के पार जम्मू को श्रीनगर से जोड़ता है।",
+      "tip_hi": "श्रीनगर से लेह = ज़ोजी ला; जम्मू से श्रीनगर = बनिहाल दर्रा; हिमाचल से तिब्बत = शिपकी ला।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Odisha accounts for over 50% of India's total बॉक्साइट production, with world-class deposits in the Eastern Ghats belt (Koraput, Rayagada, Kalahandi, and Bolangir districts).",
-      "tip_hi": "Leading mineral producers: बॉक्साइट = Odisha; Iron Ore = Odisha; Coal = Jharkhand / Odisha; Copper = Madhya Pradesh."
+      "explanation_hi": "पूर्वी घाट बेल्ट (कोरापुट, रायगढ़ा, कालाहांडी और बोलांगीर जिलों) में विश्व स्तरीय भंडार के साथ, भारत के कुल बॉक्साइट उत्पादन का 50% से अधिक हिस्सा ओडिशा में है।",
+      "tip_hi": "प्रमुख खनिज उत्पादक: बॉक्साइट = ओडिशा; लौह अयस्क = ओडिशा; कोयला = झारखंड/ओडिशा; तांबा = मध्य प्रदेश."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Launched on 2 अक्टूबर 2019, the Jal-Jeevan-Hariyali campaign integrates water conservation (ahar, pyne, ponds rejuvenation) and massive afforestation to enhance green cover and mitigate climate change.",
-      "tip_hi": "Jal-Jeevan-Hariyali launched = 2 अक्टूबर 2019 (Focus: Water conservation & tree plantation)."
+      "explanation_hi": "2 अक्टूबर 2019 को शुरू किया गया, जल-जीवन-हरियाली अभियान हरित आवरण को बढ़ाने और जलवायु परिवर्तन को कम करने के लिए जल संरक्षण (आहर, पाइन, तालाबों का कायाकल्प) और बड़े पैमाने पर वनीकरण को एकीकृत करता है।",
+      "tip_hi": "जल-जीवन-हरियाली लॉन्च = 2 अक्टूबर 2019 (फोकस: जल संरक्षण और वृक्षारोपण)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1031,7 +1031,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Inaugurated by मुख्यमंत्री Nitish Kumar on 15-17 जनवरी 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
-      "tip_hi": "First State Bird Festival 'Kalrav' = Nagi-Nakti Bird Sanctuary (Jamui)."
+      "tip_hi": "प्रथम राज्य पक्षी महोत्सव 'कलरव' = नागी-नकटी पक्षी अभयारण्य (जमुई)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1058,7 +1058,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new संसद building, featuring the लोकसभा chamber styled on the National Bird Peacock and राज्यसभा on the National Flower Lotus.",
-      "tip_hi": "New संसद Building Architect = Dr. Bimal Patel (HCP Design, Ahmedabad)."
+      "tip_hi": "नए संसद भवन के वास्तुकार = डॉ. बिमल पटेल (एचसीपी डिजाइन, अहमदाबाद)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1085,7 +1085,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "NEP 2020 restructured school curriculum into four stages: 5 वर्ष Foundational stage (ages 3-8), 3 वर्ष Preparatory stage (ages 8-11), 3 वर्ष Middle stage (ages 11-14), and 4 वर्ष Secondary stage (ages 14-18).",
-      "tip_hi": "NEP 2020 curricular framework = 5 + 3 + 3 + 4 (replacing 10 + 2).\nAnswer Key Summary Table — Set 9 (Questions 321 to 360)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "tip_hi": "एनईपी 2020 पाठ्यचर्या रूपरेखा = 5 + 3 + 3 + 4 (10 + 2 की जगह)।\nउत्तर कुंजी सारांश तालिका - सेट 9 (प्रश्न 321 से 360)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

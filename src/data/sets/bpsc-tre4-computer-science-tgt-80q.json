@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Internet Protocol (IP) operates at Layer 3 (Network Layer) of the OSI model, handling logical addressing and host-to-host packet routing across internetworks. TCP operates at Layer 4 (Transport).",
-      "tip_hi": "Layer 3 (Network) = IP, Routers, Packets; Layer 4 (Transport) = TCP/UDP, Port numbers, Segments."
+      "explanation_hi": "इंटरनेट प्रोटोकॉल (आईपी) ओएसआई मॉडल के लेयर 3 (नेटवर्क लेयर) पर काम करता है, जो इंटरनेटवर्क में लॉजिकल एड्रेसिंग और होस्ट-टू-होस्ट पैकेट रूटिंग को संभालता है। टीसीपी लेयर 4 (ट्रांसपोर्ट) पर काम करता है।",
+      "tip_hi": "परत 3 (नेटवर्क) = आईपी, राउटर, पैकेट; परत 4 (परिवहन) = टीसीपी/यूडीपी, पोर्ट संख्या, खंड।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The American Standard Code for Information Interchange (ASCII) is the universal character encoding standard that maps alphanumeric keystrokes into 7-bit or 8-bit binary codes recognized by computer controllers.",
-      "tip_hi": "Standard PC keystroke mapping = ASCII (7-bit standard, 8-bit extended); IBM mainframes traditionally used EBCDIC."
+      "explanation_hi": "अमेरिकन स्टैंडर्ड कोड फॉर इंफॉर्मेशन इंटरचेंज (एएससीआईआई) सार्वभौमिक कैरेक्टर एन्कोडिंग मानक है जो अल्फ़ान्यूमेरिक कीस्ट्रोक्स को कंप्यूटर नियंत्रकों द्वारा मान्यता प्राप्त 7-बिट या 8-बिट बाइनरी कोड में मैप करता है।",
+      "tip_hi": "मानक पीसी कीस्ट्रोक मैपिंग = ASCII (7-बिट मानक, 8-बिट विस्तारित); आईबीएम मेनफ्रेम पारंपरिक रूप से ईबीसीडीआईसी का उपयोग करते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fifth-generation computing devices are characterized by parallel processing hardware and Artificial Intelligence (AI) algorithms utilizing ULSI (Ultra Large Scale Integration), differentiating them from earlier silicon microprocessor generations.",
-      "tip_hi": "Computer Generations: 1st = निर्वात tubes; 2nd = Transistors; 3rd = Integrated Circuits (IC); 4th = VLSI Microprocessors; 5th = ULSI & Artificial Intelligence."
+      "explanation_hi": "पांचवीं पीढ़ी के कंप्यूटिंग उपकरणों को यूएलएसआई (अल्ट्रा लार्ज स्केल इंटीग्रेशन) का उपयोग करने वाले समानांतर प्रसंस्करण हार्डवेयर और आर्टिफिशियल इंटेलिजेंस (एआई) एल्गोरिदम की विशेषता है, जो उन्हें पहले की सिलिकॉन माइक्रोप्रोसेसर पीढ़ियों से अलग करती है।",
+      "tip_hi": "कंप्यूटर पीढ़ी: प्रथम = वैक्यूम ट्यूब; दूसरा = ट्रांजिस्टर; तीसरा = इंटीग्रेटेड सर्किट (आईसी); चौथा = वीएलएसआई माइक्रोप्रोसेसर; 5वां = यूएलएसआई और आर्टिफिशियल इंटेलिजेंस।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Open-source software licenses (e.g., GNU GPL, Apache, MIT) grant users the legal rights to inspect, alter, enhance, and freely redistribute the underlying human-readable source code.",
-      "tip_hi": "Free to modify & distribute = Open Source; Closed binary without source code = Proprietary/Commercial (e.g., MS Windows)."
+      "explanation_hi": "ओपन-सोर्स सॉफ़्टवेयर लाइसेंस (उदाहरण के लिए, जीएनयू जीपीएल, अपाचे, एमआईटी) उपयोगकर्ताओं को अंतर्निहित मानव-पठनीय स्रोत कोड का निरीक्षण, परिवर्तन, वृद्धि और स्वतंत्र रूप से पुनर्वितरित करने का कानूनी अधिकार प्रदान करते हैं।",
+      "tip_hi": "संशोधित और वितरित करने के लिए नि:शुल्क = खुला स्रोत; स्रोत कोड के बिना बंद बाइनरी = मालिकाना/वाणिज्यिक (उदाहरण के लिए, एमएस विंडोज़)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Machine language consists of raw binary 0s and 1s directly executed by the CPU. It is strictly architecture-dependent, exceptionally tedious and difficult for humans to write, and highly prone to programmer errors.",
-      "tip_hi": "All three statements (A), (B), and (C) are classic limitations of raw binary machine code, making Option (D) the official answer."
+      "explanation_hi": "मशीन भाषा में सीपीयू द्वारा सीधे निष्पादित कच्चे बाइनरी 0s और 1s होते हैं। यह पूरी तरह से वास्तुकला पर निर्भर है, असाधारण रूप से थकाऊ है और मनुष्यों के लिए इसे लिखना कठिन है, और प्रोग्रामर त्रुटियों की अत्यधिक संभावना है।",
+      "tip_hi": "सभी तीन कथन (ए), (बी), और (सी) कच्चे बाइनरी मशीन कोड की क्लासिक सीमाएं हैं, जो विकल्प (डी) को आधिकारिक उत्तर बनाते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Assembly language is a low-level programming language that provides mnemonic representations of machine instructions with a nearly 1:1 correspondence to processor opcodes, requiring an assembler to produce machine code.",
-      "tip_hi": "Low-level languages = Machine Language (Binary) & Assembly Language (Mnemonics like MOV, ADD); High-level = C++, Java, Python."
+      "explanation_hi": "असेंबली भाषा एक निम्न-स्तरीय प्रोग्रामिंग भाषा है जो प्रोसेसर ऑपकोड के साथ लगभग 1:1 पत्राचार के साथ मशीन निर्देशों का स्मरणीय प्रतिनिधित्व प्रदान करती है, जिसके लिए एक असेंबलर को मशीन कोड का उत्पादन करने की आवश्यकता होती है।",
+      "tip_hi": "निम्न-स्तरीय भाषाएँ = मशीन भाषा (बाइनरी) और असेंबली भाषा (MOV, ADD जैसे निमोनिक्स); उच्च-स्तरीय = सी++, जावा, पायथन।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A compiler converts high-level programming language source code into executable machine code by translating the entire source program at once before execution time, fulfilling both (A) and (B).",
-      "tip_hi": "Because both (A) (translates high-level to machine) and (B) (translates entire program at once) describe compiler functionality, Option (D) is triggered."
+      "explanation_hi": "एक कंपाइलर (ए) और (बी) दोनों को पूरा करते हुए, निष्पादन समय से पहले एक बार में पूरे स्रोत प्रोग्राम का अनुवाद करके उच्च-स्तरीय प्रोग्रामिंग भाषा स्रोत कोड को निष्पादन योग्य मशीन कोड में परिवर्तित करता है।",
+      "tip_hi": "क्योंकि दोनों (ए) (उच्च-स्तरीय मशीन में अनुवाद करता है) और (बी) (एक ही बार में पूरे प्रोग्राम का अनुवाद करता है) कंपाइलर कार्यक्षमता का वर्णन करता है, विकल्प (डी) ट्रिगर होता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Object-Oriented Programming languages like C++ follow a Bottom-up design paradigm where low-level objects and classes are created first and aggregated together to form larger subsystems. Procedural C uses Top-down.",
-      "tip_hi": "Paradigm rule: Object-Oriented (C++, Java) = Bottom-Up; Procedural / Structured (C, Pascal) = Top-Down."
+      "explanation_hi": "C++ जैसी ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषाएं बॉटम-अप डिज़ाइन प्रतिमान का पालन करती हैं, जहां निम्न-स्तरीय ऑब्जेक्ट और कक्षाएं पहले बनाई जाती हैं और बड़े सबसिस्टम बनाने के लिए एक साथ एकत्रित की जाती हैं। प्रक्रियात्मक सी टॉप-डाउन का उपयोग करता है।",
+      "tip_hi": "प्रतिमान नियम: ऑब्जेक्ट-ओरिएंटेड (सी++, जावा) = नीचे-ऊपर; प्रक्रियात्मक/संरचित (सी, पास्कल) = ऊपर से नीचे।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Virtual inheritance resolves the ambiguity of the 'Diamond Problem' in multipath inheritance by ensuring that only one shared sub-object instance of an indirect base class is included in the most derived class.",
-      "tip_hi": "Virtual base class = Solves Diamond problem by ensuring exactly one shared copy of the base class."
+      "explanation_hi": "वर्चुअल इनहेरिटेंस मल्टीपाथ इनहेरिटेंस में 'डायमंड प्रॉब्लम' की अस्पष्टता को यह सुनिश्चित करके हल करता है कि अप्रत्यक्ष बेस क्लास का केवल एक साझा उप-ऑब्जेक्ट उदाहरण सबसे व्युत्पन्न क्लास में शामिल है।",
+      "tip_hi": "वर्चुअल बेस क्लास = बेस क्लास की बिल्कुल एक साझा प्रतिलिपि सुनिश्चित करके डायमंड समस्या का समाधान करता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In standard C++, applying the `delete` operator to a null pointer (`NULL` or `nullptr`) is explicitly guaranteed by the language standard to be a safe no-operation that compiles and executes without runtime error.",
-      "tip_hi": "Deleting a NULL pointer in C++ is completely safe and valid; the compiler simply does nothing."
+      "explanation_hi": "मानक C++ में, 'डिलीट' ऑपरेटर को एक नल पॉइंटर ('NULL' या 'nullptr') पर लागू करना भाषा मानक द्वारा स्पष्ट रूप से एक सुरक्षित नो-ऑपरेशन होने की गारंटी देता है जो रनटाइम त्रुटि के बिना संकलित और निष्पादित होता है।",
+      "tip_hi": "C++ में NULL पॉइंटर को हटाना पूरी तरह से सुरक्षित और वैध है; संकलक बस कुछ नहीं करता है."
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Memory dynamically allocated with `new` must be freed with `delete`, which invokes a single destructor. Dynamically allocated arrays created with `new[]` must be deallocated with `delete[]` to invoke destructors for each element.",
-      "tip_hi": "Match the operators: `new` -> `delete` (single object); `new[]` -> `delete[]` (array of objects)."
+      "explanation_hi": "`नए` के साथ गतिशील रूप से आवंटित मेमोरी को `डिलीट` के साथ मुक्त किया जाना चाहिए, जो एकल विध्वंसक को आमंत्रित करता है। `new[]` के साथ बनाए गए गतिशील रूप से आवंटित सरणियों को प्रत्येक तत्व के लिए विध्वंसकों को आमंत्रित करने के लिए `delete[]` के साथ हटाया जाना चाहिए।",
+      "tip_hi": "ऑपरेटरों का मिलान करें: `नया` -> `हटाएं` (एकल ऑब्जेक्ट); `नया[]` -> `हटाएं[]` (वस्तुओं की श्रृंखला)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In C, `new` is not a reserved keyword and can be used as a valid variable identifier. In C++, `new` is a built-in memory allocation operator keyword, causing a syntax compilation error.",
-      "tip_hi": "`new`, `delete`, `class`, `template`, `virtual` are keywords in C++, but ordinary legal identifiers in C."
+      "explanation_hi": "सी में, `नया` एक आरक्षित कीवर्ड नहीं है और इसे वैध चर पहचानकर्ता के रूप में उपयोग किया जा सकता है। C++ में, `new` एक अंतर्निहित मेमोरी आवंटन ऑपरेटर कीवर्ड है, जो सिंटैक्स संकलन त्रुटि उत्पन्न करता है।",
+      "tip_hi": "`नया`, `हटाएं`, `क्लास`, `टेम्पलेट`, `वर्चुअल` C++ में कीवर्ड हैं, लेकिन C में सामान्य कानूनी पहचानकर्ता हैं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bitwise OR: `x | y = 10 | 5 = 1010_2 | 0101_2 = 1111_2 = 15`. Boolean addition promoting to integers: `a + b = 1 + 0 = 1`. Thus `p = 15 + 1 = 16`.",
-      "tip_hi": "Binary bitwise math: 10 = 1010; 5 = 0101; 10 | 5 = 1111 = 15. In arithmetic expressions, `true` evaluates to 1 and `false` to 0."
+      "explanation_hi": "बिटवाइज़ या: `x | y = 10 | 5 = 1010_2 | 0101_2 = 1111_2 = 15`। पूर्णांकों को बढ़ावा देने वाला बूलियन जोड़: `a + b = 1 + 0 = 1`। इस प्रकार `पी = 15 + 1 = 16`।",
+      "tip_hi": "बाइनरी बिटवाइज़ गणित: 10 = 1010; 5 = 0101; 10 | 5 = 1111 = 15. अंकगणितीय अभिव्यक्तियों में, `सत्य` का मूल्यांकन 1 और `गलत` का मूल्यांकन 0 है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Statements that may potentially raise runtime exceptions are enclosed within a `try` block. If an exception occurs, it is thrown (`throw`) and transferred to the matching `catch` handler block.",
-      "tip_hi": "Code that might fail goes in `try`; code that handles the error goes in `catch`; keyword to initiate error is `throw`."
+      "explanation_hi": "वे कथन जो संभावित रूप से रनटाइम अपवाद बढ़ा सकते हैं, `कोशिश` ब्लॉक के भीतर संलग्न हैं। यदि कोई अपवाद होता है, तो इसे फेंक दिया जाता है ('थ्रो') और मिलान वाले 'कैच' हैंडलर ब्लॉक में स्थानांतरित कर दिया जाता है।",
+      "tip_hi": "जो कोड विफल हो सकता है वह 'कोशिश' में चला जाता है; त्रुटि को संभालने वाला कोड `कैच` में जाता है; त्रुटि प्रारंभ करने वाला कीवर्ड `फेंक` है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Both pointers `x` and `y` reference the same memory location `number` (30). Pre-decrement `--(*y)` decreases `number` from 30 to 29. Multiplication evaluates as `30 * 29 = 870` stored back into `*x`.",
-      "tip_hi": "Aliasing pointer evaluation: `30 * 29 = 870`. Common BPSC programming puzzle."
+      "explanation_hi": "दोनों पॉइंटर्स `x` और `y` एक ही मेमोरी लोकेशन `नंबर` (30) को संदर्भित करते हैं। पूर्व-कमी `--(*y)` `संख्या` को 30 से घटाकर 29 कर देती है। गुणन का मूल्यांकन `30 * 29 = 870` के रूप में किया जाता है जो वापस `*x` में संग्रहीत होता है।",
+      "tip_hi": "अलियासिंग सूचक मूल्यांकन: `30 * 29 = 870`। सामान्य BPSC प्रोग्रामिंग पहेली।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inline functions should be small, simple utility routines (typically 1–3 lines). If large or complex functions with loops or recursion are inlined, it causes severe code bloat and the compiler ignores the inline request.",
-      "tip_hi": "Statement (B) is false: inline functions should never be large or complicated; statements (A) and (C) are accurate definitions."
+      "explanation_hi": "इनलाइन फ़ंक्शंस छोटे, सरल उपयोगिता रूटीन (आमतौर पर 1-3 लाइनें) होने चाहिए। यदि लूप या रिकर्सन के साथ बड़े या जटिल फ़ंक्शन इनलाइन हैं, तो यह गंभीर कोड ब्लोट का कारण बनता है और कंपाइलर इनलाइन अनुरोध को अनदेखा कर देता है।",
+      "tip_hi": "कथन (बी) गलत है: इनलाइन फ़ंक्शन कभी भी बड़े या जटिल नहीं होने चाहिए; कथन (ए) और (सी) सटीक परिभाषाएँ हैं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In C++, an abstract class is defined as any class containing at least one pure virtual function (syntax: `virtual void func() = 0;`). Abstract classes cannot be instantiated directly and serve as interfaces.",
-      "tip_hi": "Normal virtual function = Polymorphism; **Pure virtual function (`= 0`) = Abstract Class** (cannot instantiate objects)."
+      "explanation_hi": "C++ में, एक अमूर्त वर्ग को किसी भी वर्ग के रूप में परिभाषित किया जाता है जिसमें कम से कम एक शुद्ध आभासी फ़ंक्शन होता है (वाक्यविन्यास: `वर्चुअल शून्य func() = 0;`)। सार कक्षाओं को सीधे प्रारंभ नहीं किया जा सकता है और वे इंटरफ़ेस के रूप में कार्य नहीं कर सकते हैं।",
+      "tip_hi": "सामान्य आभासी फलन = बहुरूपता; **शुद्ध आभासी फ़ंक्शन (`= 0`) = सार वर्ग** (वस्तुओं को त्वरित नहीं कर सकता)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "If no user-defined constructors exist, the C++ compiler automatically synthesizes both an implicit parameterless Default Constructor and an implicit Default Copy Constructor (performing memberwise copy).",
-      "tip_hi": "The compiler provides both the Default Constructor AND the Copy Constructor automatically, triggering Option (D)."
+      "explanation_hi": "यदि कोई उपयोगकर्ता-परिभाषित कंस्ट्रक्टर मौजूद नहीं है, तो C++ कंपाइलर स्वचालित रूप से एक अंतर्निहित पैरामीटर रहित डिफॉल्ट कंस्ट्रक्टर और एक अंतर्निहित डिफॉल्ट कॉपी कंस्ट्रक्टर (सदस्यवार कॉपी निष्पादित) दोनों को संश्लेषित करता है।",
+      "tip_hi": "कंपाइलर डिफॉल्ट कंस्ट्रक्टर और कॉपी कंस्ट्रक्टर दोनों को स्वचालित रूप से प्रदान करता है, विकल्प (डी) को ट्रिगर करता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The only syntactic distinction between `struct` and `class` in C++ is default access: `struct` members and base inheritance are `public` by default, whereas `class` members and inheritance are `private` by default.",
-      "tip_hi": "BPSC core rule: `struct` = public by default (for C compatibility); `class` = private by default (for data hiding)."
+      "explanation_hi": "C++ में `struct` और `class` के बीच एकमात्र वाक्यात्मक अंतर डिफ़ॉल्ट पहुंच है: `struct` सदस्य और आधार वंशानुक्रम डिफ़ॉल्ट रूप से `public` होते हैं, जबकि `class` सदस्य और वंशानुक्रम डिफ़ॉल्ट रूप से `निजी` होते हैं।",
+      "tip_hi": "बीपीएससी मुख्य नियम: `struct` = डिफ़ॉल्ट रूप से सार्वजनिक (सी संगतता के लिए); `वर्ग` = डिफ़ॉल्ट रूप से निजी (डेटा छिपाने के लिए)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A pure object-oriented programming language (like Smalltalk) must strictly satisfy all foundational OOP pillars: Encapsulation, Inheritance, Polymorphism, and Abstraction, with all primitive types modeled as objects.",
-      "tip_hi": "Pillars of OOP: Encapsulation, Inheritance, Polymorphism, Abstraction. All are mandatory, hence Option (D)."
+      "explanation_hi": "एक शुद्ध ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषा (जैसे स्मॉलटॉक) को सभी मूलभूत ओओपी स्तंभों को सख्ती से संतुष्ट करना चाहिए: एनकैप्सुलेशन, इनहेरिटेंस, पॉलीमोर्फिज्म और एब्स्ट्रैक्शन, सभी आदिम प्रकारों को ऑब्जेक्ट के रूप में मॉडल किया गया है।",
+      "tip_hi": "ओओपी के स्तंभ: एनकैप्सुलेशन, वंशानुक्रम, बहुरूपता, अमूर्तता। सभी अनिवार्य हैं, इसलिए विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An extensible language allows programmers to define new data types (via classes and structures) along with user-defined operators that behave identically to built-in primitive language types.",
-      "tip_hi": "Ability to define custom types and operators = Extensible language."
+      "explanation_hi": "एक एक्स्टेंसिबल भाषा प्रोग्रामर को उपयोगकर्ता-परिभाषित ऑपरेटरों के साथ नए डेटा प्रकारों (कक्षाओं और संरचनाओं के माध्यम से) को परिभाषित करने की अनुमति देती है जो अंतर्निहित आदिम भाषा प्रकारों के समान व्यवहार करते हैं।",
+      "tip_hi": "कस्टम प्रकार और ऑपरेटरों को परिभाषित करने की क्षमता = एक्स्टेंसिबल भाषा।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bjarne Stroustrup created C++ at Bell Laboratories in 1979 as an extension of the C language, originally naming it 'C with Classes'. Dennis Ritchie created C.",
-      "tip_hi": "C Language = Dennis Ritchie; C++ = Bjarne Stroustrup; Java = James Gosling; Python = Guido van Rossum."
+      "explanation_hi": "बर्जने स्ट्रॉस्ट्रुप ने 1979 में C भाषा के विस्तार के रूप में बेल लेबोरेटरीज में C++ बनाया, मूल रूप से इसे 'C with Classes' नाम दिया गया। डेनिस रिची ने सी बनाया।",
+      "tip_hi": "सी भाषा = डेनिस रिची; सी++ = बज़्ने स्ट्रॉस्ट्रुप; जावा = जेम्स गोसलिंग; पायथन = गुइडो वैन रोसुम।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The member function `cin.get(char& ch)` reads the next single character (including whitespace and newlines) directly from the standard input stream into the specified character variable.",
-      "tip_hi": "Single character input = `cin.get(ch)`; formatted extraction = `cin >> ch` (skips whitespace); string line = `getline(cin, str)`."
+      "explanation_hi": "सदस्य फ़ंक्शन `cin.get(char& ch)` अगले एकल वर्ण (व्हाट्सएप और न्यूलाइन सहित) को सीधे मानक इनपुट स्ट्रीम से निर्दिष्ट वर्ण चर में पढ़ता है।",
+      "tip_hi": "एकल वर्ण इनपुट = `cin.get(ch)`; स्वरूपित निष्कर्षण = `cin >> ch` (व्हाट्सएप छोड़ देता है); स्ट्रिंग लाइन = `गेटलाइन(सिन, स्ट्र)`।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Because C and C++ utilize zero-based array indexing, the first element is at index 0, the second at index 1, and the n-th element is situated at index position `n - 1`.",
-      "tip_hi": "Zero-based indexing rule: First element = `arr[0]`; n-th element = `arr[n-1]`; `arr[n]` is out of bounds for an array of size n."
+      "explanation_hi": "क्योंकि C और C++ शून्य-आधारित सरणी अनुक्रमण का उपयोग करते हैं, पहला तत्व सूचकांक 0 पर है, दूसरा सूचकांक 1 पर है, और n-वां तत्व सूचकांक स्थिति `n - 1` पर स्थित है।",
+      "tip_hi": "शून्य-आधारित अनुक्रमण नियम: पहला तत्व = `arr[0]`; n-वें तत्व = `arr[n-1]`; `arr[n]` आकार n की एक सरणी के लिए सीमा से बाहर है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In standard computer science classification, arrays in C++ are categorized into two primary types: Single-dimensional (linear) arrays and Multidimensional arrays (2D matrices, 3D grids).",
-      "tip_hi": "Array categories: 1D (Single-dimensional) and Multi-D (2D, 3D, etc.) = 2 types."
+      "explanation_hi": "मानक कंप्यूटर विज्ञान वर्गीकरण में, C++ में सरणियों को दो प्राथमिक प्रकारों में वर्गीकृत किया गया है: एकल-आयामी (रैखिक) सरणियाँ और बहुआयामी सरणियाँ (2D मैट्रिक्स, 3D ग्रिड)।",
+      "tip_hi": "सरणी श्रेणियां: 1डी (एकल-आयामी) और मल्टी-डी (2डी, 3डी, आदि) = 2 प्रकार।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "`std::rank<T>::value` in `<type_traits>` queries the compile-time type of an array and returns the number of dimensions (e.g., rank of `int[5]` is 1, rank of `int[3][4]` is 2).",
-      "tip_hi": "Rank of an array = Dimension count (1D -> 1, 2D -> 2, 3D -> 3)."
+      "explanation_hi": "`<type_traits>` में `std::rank<T>::value` किसी सरणी के संकलन-समय प्रकार पर सवाल उठाता है और आयामों की संख्या लौटाता है (उदाहरण के लिए, `int[5]` की रैंक 1 है, `int[3][4]` की रैंक 2 है)।",
+      "tip_hi": "किसी सरणी की रैंक = आयाम गणना (1D -> 1, 2D -> 2, 3D -> 3)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Block scope (local scope) dictates that variables declared inside a set of braces `{}` are created when execution enters the block and destroyed upon exiting, being invisible outside it.",
-      "tip_hi": "Local variable scope = Only within the enclosing `{}` curly braces; Global variables = File/program scope."
+      "explanation_hi": "ब्लॉक स्कोप (स्थानीय स्कोप) निर्देश देता है कि ब्रेसिज़ के सेट के अंदर घोषित वेरिएबल `{}` तब बनाए जाते हैं जब निष्पादन ब्लॉक में प्रवेश करता है और बाहर निकलने पर नष्ट हो जाता है, इसके बाहर अदृश्य होता है।",
+      "tip_hi": "स्थानीय चर दायरा = केवल संलग्न `{}` घुंघराले ब्रेसिज़ के भीतर; वैश्विक चर = फ़ाइल/प्रोग्राम दायरा।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -760,7 +760,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "All three statements I, II, and III are valid distinctions: `new` is a type-safe operator that calls constructors and returns `T*`, whereas `malloc` is an untyped C function that returns `void*` and does not call constructors.",
+      "explanation_hi": "सभी तीन कथन I, II और III मान्य अंतर हैं: `new` एक प्रकार-सुरक्षित ऑपरेटर है जो कंस्ट्रक्टर्स को कॉल करता है और `T*` लौटाता है, जबकि `malloc` एक अनटाइप्ड C फ़ंक्शन है जो `void*` लौटाता है और कंस्ट्रक्टर्स को कॉल नहीं करता है।",
       "tip_hi": "Because statements I, II, and III are all factually correct, Option (D) ('उपर्युक्त में से एक से अधिक') is triggered."
     },
     {
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "`private` members of a base class are inherited as part of the total memory layout of the derived class, but they cannot be accessed directly by derived class member functions (enforcing encapsulation).",
-      "tip_hi": "Access inheritance rule: `public` & `protected` members are accessible in derived class; `private` members exist in object memory but are strictly inaccessible."
+      "explanation_hi": "बेस क्लास के `निजी` सदस्यों को व्युत्पन्न वर्ग के कुल मेमोरी लेआउट के हिस्से के रूप में विरासत में मिला है, लेकिन उन्हें व्युत्पन्न वर्ग सदस्य कार्यों (इनकैप्सुलेशन को लागू करने) द्वारा सीधे एक्सेस नहीं किया जा सकता है।",
+      "tip_hi": "एक्सेस इनहेरिटेंस नियम: `सार्वजनिक` और `संरक्षित` सदस्य व्युत्पन्न वर्ग में पहुंच योग्य हैं; `निजी` सदस्य ऑब्जेक्ट मेमोरी में मौजूद हैं लेकिन सख्ती से पहुंच योग्य नहीं हैं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In procedural languages (C), all calls are statically bound at compile-time. In OOP languages, virtual function calls are dynamically bound at runtime (late binding), making Statement I false and Statement II true.",
-      "tip_hi": "OOP uses dynamic/late runtime binding for virtual functions, so not all calls are resolved at compile time."
+      "explanation_hi": "प्रक्रियात्मक भाषाओं (सी) में, सभी कॉल संकलन-समय पर स्थिर रूप से बाध्य होती हैं। ओओपी भाषाओं में, वर्चुअल फ़ंक्शन कॉल रनटाइम (देर से बाइंडिंग) पर गतिशील रूप से बाध्य होती हैं, जिससे कथन I गलत और कथन II सत्य हो जाता है।",
+      "tip_hi": "OOP वर्चुअल फ़ंक्शंस के लिए डायनामिक/लेट रनटाइम बाइंडिंग का उपयोग करता है, इसलिए सभी कॉलों को संकलन समय पर हल नहीं किया जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An anonymous class has no identifier name. Because constructors and destructors must share the name of their class (`ClassName()` and `~ClassName()`), an unnamed class can have neither a constructor nor a destructor.",
-      "tip_hi": "Because an anonymous class has no name, it can have NEITHER a constructor NOR a destructor. Both (B) and (C) are true -> Select (D)!"
+      "explanation_hi": "एक अनाम वर्ग का कोई पहचानकर्ता नाम नहीं होता है। क्योंकि कंस्ट्रक्टर और डिस्ट्रक्टर को अपने वर्ग का नाम साझा करना होगा (`क्लासनाम()` और `~क्लासनाम()`), एक अनाम वर्ग में न तो कोई कंस्ट्रक्टर हो सकता है और न ही कोई डिस्ट्रक्टर।",
+      "tip_hi": "क्योंकि एक अनाम वर्ग का कोई नाम नहीं होता है, इसमें न तो कोई कंस्ट्रक्टर हो सकता है और न ही कोई डिस्ट्रक्टर। (बी) और (सी) दोनों सत्य हैं -> चुनें (डी)!"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Compile-time polymorphism is achieved through function overloading, operator overloading, and templates. Virtual functions implement runtime (dynamic) polymorphism.",
-      "tip_hi": "Compile-time polymorphism = Overloading & Templates (Both A and B -> Option D); Runtime polymorphism = Virtual functions."
+      "explanation_hi": "संकलन-समय बहुरूपता फ़ंक्शन ओवरलोडिंग, ऑपरेटर ओवरलोडिंग और टेम्पलेट्स के माध्यम से प्राप्त की जाती है। वर्चुअल फ़ंक्शंस रनटाइम (गतिशील) बहुरूपता को लागू करते हैं।",
+      "tip_hi": "संकलन-समय बहुरूपता = ओवरलोडिंग और टेम्प्लेट (ए और बी दोनों -> विकल्प डी); रनटाइम बहुरूपता = आभासी कार्य।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Encapsulation is the mechanism that binds data together with the functions that manipulate that data, shielding them from unauthorized external interference and misuse.",
-      "tip_hi": "Wrapping data + code = Encapsulation; Hiding background implementation details = Abstraction; Reusability = Inheritance."
+      "explanation_hi": "एनकैप्सुलेशन वह तंत्र है जो डेटा को उन कार्यों के साथ जोड़ता है जो उस डेटा में हेरफेर करते हैं, उन्हें अनधिकृत बाहरी हस्तक्षेप और दुरुपयोग से बचाते हैं।",
+      "tip_hi": "रैपिंग डेटा + कोड = एनकैप्सुलेशन; पृष्ठभूमि कार्यान्वयन विवरण छिपाना = अमूर्तता; पुन: प्रयोज्यता = वंशानुक्रम।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Modularity is a software design technique that decomposes a complex system into smaller, self-contained, and interchangeable modules with well-defined interfaces.",
-      "tip_hi": "Decomposition into independent modules = Modularity; Data hiding = Encapsulation/Abstraction."
+      "explanation_hi": "मॉड्यूलैरिटी एक सॉफ्टवेयर डिज़ाइन तकनीक है जो एक जटिल प्रणाली को अच्छी तरह से परिभाषित इंटरफेस के साथ छोटे, स्व-निहित और विनिमेय मॉड्यूल में विघटित करती है।",
+      "tip_hi": "स्वतंत्र मॉड्यूल में अपघटन = मॉड्यूलरिटी; डेटा छिपाना = एनकैप्सुलेशन/एब्स्ट्रैक्शन।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Asynchronous data transfer buffers (like print spoolers and I/O pipe buffers) operate on a First-In, First-Out (FIFO) basis using Queues. Stacks are used for string reversal, backtracking, and expression evaluation.",
-      "tip_hi": "Asynchronous transfer / Buffering = Queue; Undo operations / Backtracking / Recursion = Stack."
+      "explanation_hi": "एसिंक्रोनस डेटा ट्रांसफर बफ़र्स (जैसे प्रिंट स्पूलर और I/O पाइप बफ़र्स) क्यूज़ का उपयोग करके फ़र्स्ट-इन, फ़र्स्ट-आउट (FIFO) आधार पर काम करते हैं। स्टैक का उपयोग स्ट्रिंग रिवर्सल, बैकट्रैकिंग और अभिव्यक्ति मूल्यांकन के लिए किया जाता है।",
+      "tip_hi": "अतुल्यकालिक स्थानांतरण / बफरिंग = कतार; संचालन पूर्ववत करें / बैकट्रैकिंग / रिकर्सन = स्टैक।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Multiplication `*` has higher operator precedence than addition `+`. Thus `(B * C)` becomes `* B C`. Adding `A`: `+ A (* B C)` yields `+ A * B C`.",
-      "tip_hi": "Precedence parsing: `B * C` -> `* B C`; then `A + (* B C)` -> `+ A * B C`."
+      "explanation_hi": "गुणन `*` में जोड़ `+` की तुलना में उच्च संचालिका प्राथमिकता है। इस प्रकार `(B * C)` `* B C` बन जाता है। `A`: `+ A (* B C)` जोड़ने पर `+ A * B C` प्राप्त होता है।",
+      "tip_hi": "प्राथमिकता पार्सिंग: `बी * सी` -> `* बी सी`; फिर `ए + (* बी सी)` -> `+ ए * बी सी`।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Conversion algorithms (including reversal-based Shunting-yard algorithms) utilize an operator Stack to preserve and reverse operator priorities during notation transformation.",
-      "tip_hi": "All expression conversions (Infix to Postfix, Infix to Prefix) and evaluations require a **Stack**."
+      "explanation_hi": "रूपांतरण एल्गोरिदम (रिवर्सल-आधारित शंटिंग-यार्ड एल्गोरिदम सहित) नोटेशन परिवर्तन के दौरान ऑपरेटर प्राथमिकताओं को संरक्षित और रिवर्स करने के लिए एक ऑपरेटर स्टैक का उपयोग करते हैं।",
+      "tip_hi": "सभी अभिव्यक्ति रूपांतरण (इन्फिक्स से पोस्टफिक्स, इनफिक्स से प्रीफिक्स) और मूल्यांकन के लिए **स्टैक** की आवश्यकता होती है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Arrays store elements in contiguous physical memory addresses. When one element is fetched into CPU cache, adjacent array elements are loaded into the same cache line, maximizing spatial locality.",
-      "tip_hi": "Contiguous sequential memory = **Spatial Locality**; Re-accessing recently used memory = **Temporal Locality**."
+      "explanation_hi": "सारणी तत्वों को सन्निहित भौतिक स्मृति पतों में संग्रहीत करती है। जब एक तत्व को सीपीयू कैश में लाया जाता है, तो आसन्न सरणी तत्वों को उसी कैश लाइन में लोड किया जाता है, जिससे स्थानिक स्थानीयता अधिकतम हो जाती है।",
+      "tip_hi": "सन्निहित अनुक्रमिक स्मृति = **स्थानिक स्थानीयता**; हाल ही में उपयोग की गई मेमोरी को पुनः एक्सेस करना = **टेम्पोरल लोकैलिटी**।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Attempting to delete an element from an empty data structure results in Underflow. Attempting to insert into a full structure results in Overflow.",
-      "tip_hi": "Deletion pre-check = **Underflow** (is it empty?); Insertion pre-check = **Overflow** (is it full?)."
+      "explanation_hi": "खाली डेटा संरचना से किसी तत्व को हटाने का प्रयास करने पर अंडरफ्लो होता है। पूर्ण संरचना में सम्मिलित करने का प्रयास करने से अतिप्रवाह होता है।",
+      "tip_hi": "विलोपन पूर्व जांच = **अंडरफ्लो** (क्या यह खाली है?); सम्मिलन पूर्व-जाँच = **अतिप्रवाह** (क्या यह पूर्ण है?)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Parentheses checking and nested symbol balancing strictly require a Last-In, First-Out (LIFO) Stack. Queues are FIFO structures used in asynchronous I/O and job scheduling.",
-      "tip_hi": "Balancing parentheses = Stack; Print spooling and CPU scheduling = Queue."
+      "explanation_hi": "कोष्ठक की जाँच और नेस्टेड प्रतीक संतुलन के लिए कड़ाई से लास्ट-इन, फ़र्स्ट-आउट (LIFO) स्टैक की आवश्यकता होती है। कतारें FIFO संरचनाएं हैं जिनका उपयोग एसिंक्रोनस I/O और जॉब शेड्यूलिंग में किया जाता है।",
+      "tip_hi": "कोष्ठक को संतुलित करना = ढेर; प्रिंट स्पूलिंग और सीपीयू शेड्यूलिंग = कतार।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1111,7 +1111,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The three classic depth-first search (DFS) traversals for binary trees are Preorder (Node-Left-Right), Inorder (Left-Node-Right), and Postorder (Left-Right-Node).",
+      "explanation_hi": "बाइनरी ट्री के लिए तीन क्लासिक डेप्थ-फर्स्ट सर्च (डीएफएस) ट्रैवर्सल प्रीऑर्डर (नोड-लेफ्ट-राइट), इनऑर्डर (लेफ्ट-नोड-राइट) और पोस्टऑर्डर (लेफ्ट-राइट-नोड) हैं।",
       "tip_hi": "All three (A), (B), and (C) are valid binary tree traversals, so select **(D) उपर्युक्त में से एक से अधिक**."
     },
     {
@@ -1138,8 +1138,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An array is defined as a fixed-size, linear, contiguous collection of homogeneous elements of the same data type accessible via numerical indices.",
-      "tip_hi": "Canonical array definition = Homogeneous elements (same type) stored in contiguous memory locations."
+      "explanation_hi": "एक सरणी को संख्यात्मक सूचकांकों के माध्यम से पहुंच योग्य समान डेटा प्रकार के सजातीय तत्वों के एक निश्चित आकार, रैखिक, सन्निहित संग्रह के रूप में परिभाषित किया गया है।",
+      "tip_hi": "कैनोनिकल सरणी परिभाषा = सजातीय तत्व (समान प्रकार) सन्निहित स्मृति स्थानों में संग्रहीत।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1165,8 +1165,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In computer engineering and systems programming, a circular queue connects its last position back to the first position in a logical circle, and is universally referred to as a Ring Buffer or Circular Buffer.",
-      "tip_hi": "Circular Queue = **Ring Buffer** (frequently used in hardware DMA and audio/video streaming)."
+      "explanation_hi": "कंप्यूटर इंजीनियरिंग और सिस्टम प्रोग्रामिंग में, एक गोलाकार कतार अपनी अंतिम स्थिति को तार्किक सर्कल में पहली स्थिति से जोड़ती है, और इसे सार्वभौमिक रूप से रिंग बफर या सर्कुलर बफर के रूप में जाना जाता है।",
+      "tip_hi": "सर्कुलर कतार = **रिंग बफ़र** (अक्सर हार्डवेयर डीएमए और ऑडियो/वीडियो स्ट्रीमिंग में उपयोग किया जाता है)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1192,8 +1192,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In a standard linear array queue, dequeuing elements leaves empty spaces at the front that cannot be reused once `rear` hits the maximum bound. Circular queues wrap around to reuse these freed positions.",
-      "tip_hi": "Primary motivation for Circular Queue = Reclaiming unused memory space at the front of the array."
+      "explanation_hi": "एक मानक रैखिक सरणी कतार में, पंक्तिबद्ध तत्व सामने खाली स्थान छोड़ देते हैं जिनका 'रियर' अधिकतम सीमा तक पहुंचने के बाद पुन: उपयोग नहीं किया जा सकता है। इन मुक्त स्थितियों का पुन: उपयोग करने के लिए गोलाकार कतारें चारों ओर घूमती हैं।",
+      "tip_hi": "सर्कुलर कतार के लिए प्राथमिक प्रेरणा = सरणी के सामने अप्रयुक्त मेमोरी स्थान को पुनः प्राप्त करना।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1219,8 +1219,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A Binary Heap (min-heap or max-heap) implements Priority Queues with optimal \\(O(\\log N)\\) insertion and \\(O(\\log N)\\) extraction of the minimum/maximum element, outperforming \\(O(N)\\) arrays and linked lists.",
-      "tip_hi": "Standard data structure for Priority Queue = **Binary Heap** (\\(O(\\log N)\\) operations)."
+      "explanation_hi": "एक बाइनरी हीप (न्यूनतम-हीप या अधिकतम-हीप) इष्टतम \\(O(\\log N)\\) सम्मिलन और \\(O(\\log N)\\) न्यूनतम/अधिकतम तत्व के निष्कर्षण के साथ प्राथमिकता कतारों को लागू करता है, जो \\(O(N)\\) सरणियों और लिंक्ड सूचियों से बेहतर प्रदर्शन करता है।",
+      "tip_hi": "प्राथमिकता कतार के लिए मानक डेटा संरचना = **बाइनरी हीप** (\\(O(\\log N)\\) संचालन)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1246,8 +1246,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each recursive invocation pushes an activation record (stack frame) containing return addresses, parameters, and local variables onto the system Call Stack, which unwinds in LIFO order upon return.",
-      "tip_hi": "Function calls and recursion = System **Call Stack**."
+      "explanation_hi": "प्रत्येक पुनरावर्ती आह्वान एक सक्रियण रिकॉर्ड (स्टैक फ्रेम) को सिस्टम कॉल स्टैक पर धकेलता है जिसमें रिटर्न पते, पैरामीटर और स्थानीय चर होते हैं, जो वापसी पर LIFO क्रम में खुल जाता है।",
+      "tip_hi": "फ़ंक्शन कॉल और रिकर्सन = सिस्टम **कॉल स्टैक**।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1273,8 +1273,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Standard Red-Black tree invariants state: (1) The root is black, (2) Newly inserted nodes are colored red, and (3) Red nodes cannot have red children (no consecutive reds).",
-      "tip_hi": "All three options (A), (B), and (C) are fundamental rules of Red-Black Trees, leading directly to Option (D)."
+      "explanation_hi": "मानक लाल-काले वृक्ष अपरिवर्तनीय स्थिति बताते हैं: (1) जड़ काली है, (2) नए डाले गए नोड्स लाल रंग के हैं, और (3) लाल नोड्स में लाल बच्चे नहीं हो सकते हैं (कोई लगातार लाल नहीं)।",
+      "tip_hi": "सभी तीन विकल्प (ए), (बी), और (सी) लाल-काले पेड़ों के मूलभूत नियम हैं, जो सीधे विकल्प (डी) की ओर ले जाते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1300,8 +1300,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In a singly linked list, although we maintain a `tail` pointer, deleting the tail requires updating the second-to-last node's `next` pointer to `NULL`. Finding this preceding node requires traversing \\(N-1\\) links, taking \\(O(N)\\) time.",
-      "tip_hi": "Singly linked list: Delete from Front = \\(O(1)\\); Delete from Rear = \\(O(N)\\) (needs traversal). Doubly linked list achieves \\(O(1)\\)."
+      "explanation_hi": "एकल लिंक की गई सूची में, हालांकि हम एक `टेल` पॉइंटर बनाए रखते हैं, टेल को हटाने के लिए दूसरे-से-अंतिम नोड के `अगले` पॉइंटर को `NULL` में अपडेट करने की आवश्यकता होती है। इस पूर्ववर्ती नोड को खोजने के लिए \\(N-1\\) लिंक को पार करने की आवश्यकता होती है, जिसमें \\(O(N)\\) समय लगता है।",
+      "tip_hi": "एकल रूप से लिंक की गई सूची: सामने से हटाएँ = \\(O(1)\\); पीछे से हटाएँ = \\(O(N)\\) (ट्रैवर्सल की आवश्यकता है)। दोगुनी लिंक की गई सूची \\(O(1)\\) प्राप्त करती है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1327,8 +1327,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "With zero-based indexing in an array of size `MAX_SIZE`, valid indices span `0` to `MAX_SIZE - 1`. When `rear` reaches index `MAX_SIZE - 1`, the queue cannot accommodate any further elements.",
-      "tip_hi": "Array boundary: max index = `size - 1`. Therefore overflow occurs when `rear == MAX_SIZE - 1`."
+      "explanation_hi": "`MAX_SIZE` आकार की सरणी में शून्य-आधारित अनुक्रमण के साथ, वैध सूचकांक `0` से `MAX_SIZE - 1` तक फैले होते हैं। जब `रियर` सूचकांक `MAX_SIZE - 1` तक पहुंचता है, तो कतार किसी भी अन्य तत्व को समायोजित नहीं कर सकती है।",
+      "tip_hi": "सरणी सीमा: अधिकतम सूचकांक = `आकार - 1`। इसलिए ओवरफ्लो तब होता है जब `रियर == MAX_SIZE - 1` होता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1354,8 +1354,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Merge Sort divides the unsorted list into \\(N\\) sublists until each contains 1 element, recursively sorts them, and merges them back together. Quick Sort and Merge Sort are classic Divide-and-Conquer algorithms.",
-      "tip_hi": "Divide and Conquer sorting = Merge Sort & Quick Sort; Greedy sorting = Selection Sort; Heap-based = Heap Sort."
+      "explanation_hi": "मर्ज सॉर्ट अनसॉर्टेड सूची को \\(N\\) उप-सूचियों में तब तक विभाजित करता है जब तक कि प्रत्येक में 1 तत्व न हो, उन्हें पुनरावर्ती रूप से सॉर्ट करता है, और उन्हें वापस एक साथ मर्ज कर देता है। क्विक सॉर्ट और मर्ज सॉर्ट क्लासिक डिवाइड-एंड-कॉनकर एल्गोरिदम हैं।",
+      "tip_hi": "फूट डालो और जीतो सॉर्टिंग = मर्ज सॉर्ट और त्वरित सॉर्ट; लालची छँटाई = चयन छँटाई; ढेर-आधारित = ढेर क्रमबद्ध।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1381,8 +1381,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A database is a systematic, logically structured collection of persistent, interrelated data stored electronically in a computer system designed for efficient querying, updating, and administration.",
-      "tip_hi": "Standard definition: Organized collection of interrelated data managed by a DBMS."
+      "explanation_hi": "डेटाबेस कुशल पूछताछ, अद्यतन और प्रशासन के लिए डिज़ाइन किए गए कंप्यूटर सिस्टम में इलेक्ट्रॉनिक रूप से संग्रहीत लगातार, परस्पर संबंधित डेटा का एक व्यवस्थित, तार्किक रूप से संरचित संग्रह है।",
+      "tip_hi": "मानक परिभाषा: DBMS द्वारा प्रबंधित परस्पर संबंधित डेटा का संगठित संग्रह।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1408,8 +1408,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Modern enterprise relational and object-relational databases accommodate alphanumeric data, unstructured text, binary images, audio, video files (via BLOBs and CLOBs), and spatial coordinates.",
-      "tip_hi": "Modern databases handle text, numbers, images, audio, and video. Since all three are supported, Option (D) is the answer."
+      "explanation_hi": "आधुनिक एंटरप्राइज़ रिलेशनल और ऑब्जेक्ट-रिलेशनल डेटाबेस अल्फ़ान्यूमेरिक डेटा, असंरचित पाठ, बाइनरी इमेज, ऑडियो, वीडियो फ़ाइलें (बीएलओबी और सीएलओबी के माध्यम से), और स्थानिक निर्देशांक को समायोजित करते हैं।",
+      "tip_hi": "आधुनिक डेटाबेस टेक्स्ट, नंबर, चित्र, ऑडियो और वीडियो को संभालते हैं। चूँकि तीनों समर्थित हैं, विकल्प (डी) उत्तर है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1435,8 +1435,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Classical database architectures include Hierarchical, Network, Relational, Object-Oriented, and Distributed. 'Decentralized' is a distributed ledger/blockchain concept, not a traditional DBMS architectural category.",
-      "tip_hi": "Standard DBMS models: Relational, Hierarchical, Network, Distributed. 'Decentralized' is not a formal DBMS architecture."
+      "explanation_hi": "शास्त्रीय डेटाबेस आर्किटेक्चर में पदानुक्रमित, नेटवर्क, रिलेशनल, ऑब्जेक्ट-ओरिएंटेड और वितरित शामिल हैं। 'विकेंद्रीकृत' एक वितरित खाता/ब्लॉकचैन अवधारणा है, न कि पारंपरिक डीबीएमएस वास्तुशिल्प श्रेणी।",
+      "tip_hi": "मानक DBMS मॉडल: संबंधपरक, पदानुक्रमित, नेटवर्क, वितरित। 'विकेंद्रीकृत' एक औपचारिक DBMS आर्किटेक्चर नहीं है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1462,8 +1462,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Microsoft Access and IBM Db2 are specialized Database Management Systems. Google is an internet search engine, web crawler, and technology corporation, not a standalone DBMS product.",
-      "tip_hi": "DBMS products: Oracle, MySQL, SQL Server, MS Access, IBM Db2, PostgreSQL. Google is a search engine."
+      "explanation_hi": "Microsoft Access और IBM Db2 विशेष डेटाबेस प्रबंधन प्रणालियाँ हैं। Google एक इंटरनेट सर्च इंजन, वेब क्रॉलर और प्रौद्योगिकी निगम है, न कि एक स्टैंडअलोन DBMS उत्पाद।",
+      "tip_hi": "DBMS उत्पाद: Oracle, MySQL, SQL Server, MS Access, IBM Db2, PostgreSQL। गूगल एक सर्च इंजन है."
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1489,8 +1489,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Enterprise DBMS platforms are built specifically to support concurrent, multi-user transactions while maintaining isolation. Single-user access only is an archaic limitation, not a feature.",
-      "tip_hi": "DBMS provides multi-user concurrency control. Single-user access only is false."
+      "explanation_hi": "एंटरप्राइज़ डीबीएमएस प्लेटफ़ॉर्म विशेष रूप से अलगाव बनाए रखते हुए समवर्ती, बहु-उपयोगकर्ता लेनदेन का समर्थन करने के लिए बनाए गए हैं। केवल एकल-उपयोगकर्ता पहुंच एक पुरातन सीमा है, कोई सुविधा नहीं।",
+      "tip_hi": "DBMS बहु-उपयोगकर्ता समवर्ती नियंत्रण प्रदान करता है। केवल एकल-उपयोगकर्ता पहुंच गलत है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1516,8 +1516,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A DBMS provides query manipulation, transaction management, indexing, concurrency control, and security access. Compiling and analyzing source code is performed by language compilers and IDEs.",
-      "tip_hi": "Compiling and syntax analysis is the job of a Compiler, not a Database system."
+      "explanation_hi": "एक DBMS क्वेरी हेरफेर, लेनदेन प्रबंधन, अनुक्रमण, समवर्ती नियंत्रण और सुरक्षा पहुंच प्रदान करता है। स्रोत कोड का संकलन और विश्लेषण भाषा संकलक और आईडीई द्वारा किया जाता है।",
+      "tip_hi": "कंपाइलिंग और सिंटैक्स विश्लेषण कंपाइलर का काम है, डेटाबेस सिस्टम का नहीं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1543,8 +1543,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Metadata is defined as 'data about data', comprising data dictionary descriptions, table schemas, column data types, indexing definitions, and access privileges.",
-      "tip_hi": "Data about data = **Metadata**; stored in the System Catalog / Data Dictionary."
+      "explanation_hi": "मेटाडेटा को 'डेटा के बारे में डेटा' के रूप में परिभाषित किया गया है, जिसमें डेटा डिक्शनरी विवरण, टेबल स्कीमा, कॉलम डेटा प्रकार, अनुक्रमण परिभाषाएं और एक्सेस विशेषाधिकार शामिल हैं।",
+      "tip_hi": "डेटा के बारे में डेटा = **मेटाडेटा**; सिस्टम कैटलॉग/डेटा डिक्शनरी में संग्रहीत।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1570,8 +1570,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The DBMS serves as the software middleware that translates high-level user/application SQL queries into low-level physical file system reads and writes against the physical database storage.",
-      "tip_hi": "DBMS sits between the Application Program / User and the Physical Storage Files."
+      "explanation_hi": "DBMS सॉफ़्टवेयर मिडलवेयर के रूप में कार्य करता है जो उच्च-स्तरीय उपयोगकर्ता/एप्लिकेशन SQL क्वेरीज़ को निम्न-स्तरीय भौतिक फ़ाइल सिस्टम में अनुवादित करता है और भौतिक डेटाबेस संग्रहण के विरुद्ध लिखता है।",
+      "tip_hi": "DBMS एप्लिकेशन प्रोग्राम/उपयोगकर्ता और फिजिकल स्टोरेज फ़ाइलों के बीच बैठता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1597,8 +1597,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "By relational database theory definition, a Superkey is any superset of attributes that uniquely identifies a tuple. A minimal superkey is designated as a Candidate Key, one of which is chosen as the Primary Key.",
-      "tip_hi": "Collective attributes that uniquely identify a row = **Superkey**; Minimal superkey = Candidate key; Chosen candidate key = Primary key."
+      "explanation_hi": "संबंधपरक डेटाबेस सिद्धांत परिभाषा के अनुसार, सुपरकी विशेषताओं का कोई भी सुपरसेट है जो विशिष्ट रूप से टुपल की पहचान करता है। एक न्यूनतम सुपरकी को कैंडिडेट कुंजी के रूप में नामित किया गया है, जिसमें से एक को प्राथमिक कुंजी के रूप में चुना गया है।",
+      "tip_hi": "सामूहिक विशेषताएँ जो विशिष्ट रूप से एक पंक्ति की पहचान करती हैं = **सुपरकी**; न्यूनतम सुपरकी = उम्मीदवार कुंजी; चयनित उम्मीदवार कुंजी = प्राथमिक कुंजी."
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1624,8 +1624,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The SQL syntax `DELETE FROM table_name;` purges all rows from the table while retaining its schema and column definitions in the data dictionary. `DROP TABLE` deletes both rows and schema.",
-      "tip_hi": "Delete data only = `DELETE FROM table_name;`; Delete entire table and schema = `DROP TABLE table_name;`."
+      "explanation_hi": "SQL सिंटैक्स `DELETE FROMtable_name;` डेटा डिक्शनरी में अपनी स्कीमा और कॉलम परिभाषाओं को बनाए रखते हुए तालिका से सभी पंक्तियों को हटा देता है। `ड्रॉप टेबल` पंक्तियों और स्कीमा दोनों को हटा देता है।",
+      "tip_hi": "केवल डेटा हटाएं = `तालिका_नाम से हटाएं;`; संपूर्ण तालिका और स्कीमा हटाएं = `ड्रॉप टेबल टेबल_नाम;`।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1651,8 +1651,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In standard SQL database architecture, an Environment contains Catalogs (databases), and each Catalog contains one or more Schemas (user namespaces), which in turn contain tables, views, and constraints.",
-      "tip_hi": "SQL hierarchy order: Environment -> Catalogs -> Schemas -> Tables/Views."
+      "explanation_hi": "मानक SQL डेटाबेस आर्किटेक्चर में, एक पर्यावरण में कैटलॉग (डेटाबेस) होते हैं, और प्रत्येक कैटलॉग में एक या अधिक स्कीमा (उपयोगकर्ता नामस्थान) होते हैं, जिसमें बदले में टेबल, दृश्य और बाधाएं होती हैं।",
+      "tip_hi": "SQL पदानुक्रम क्रम: पर्यावरण -> कैटलॉग -> स्कीमा -> तालिकाएँ/दृश्य।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1678,8 +1678,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In SQL Server, members of the `db_accessadmin` fixed database role have permissions to add or remove access to the database for Windows logins, Windows groups, and SQL Server logins.",
-      "tip_hi": "Add/remove user access rights = `db_accessadmin`; Manage permissions and roles = `db_securityadmin`."
+      "explanation_hi": "SQL सर्वर में, `db_accessadmin` निश्चित डेटाबेस भूमिका के सदस्यों के पास Windows लॉगिन, Windows समूह और SQL सर्वर लॉगिन के लिए डेटाबेस तक पहुंच जोड़ने या हटाने की अनुमति होती है।",
+      "tip_hi": "उपयोगकर्ता पहुंच अधिकार जोड़ें/निकालें = `db_accessadmin`; अनुमतियाँ और भूमिकाएँ प्रबंधित करें = `db_securityadmin`।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1705,8 +1705,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In a physical filing cabinet, files are organized into a strict top-down tree hierarchy (Cabinet -> Drawer -> Folder -> Document), directly representing a 1:N parent-child Hierarchical Database Model.",
-      "tip_hi": "Parent-child 1:N tree hierarchy = **Hierarchical Model**; Many-to-many graph = **Network Model**; Tables/relations = **Relational Model**."
+      "explanation_hi": "एक भौतिक फाइलिंग कैबिनेट में, फाइलों को एक सख्त टॉप-डाउन ट्री पदानुक्रम (कैबिनेट -> ड्रॉअर -> फ़ोल्डर -> दस्तावेज़) में व्यवस्थित किया जाता है, जो सीधे 1: एन पैरेंट-चाइल्ड पदानुक्रमित डेटाबेस मॉडल का प्रतिनिधित्व करता है।",
+      "tip_hi": "अभिभावक-बच्चा 1:एन वृक्ष पदानुक्रम = **पदानुक्रमित मॉडल**; अनेक-से-अनेक ग्राफ़ = **नेटवर्क मॉडल**; तालिकाएँ/संबंध = **संबंधपरक मॉडल**।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1732,8 +1732,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In SQL, individual rows are filtered before grouping using the `WHERE` clause. Once groups are formed via `GROUP BY`, aggregate conditions (`COUNT() > 5`, `AVG() > 50`) can only be filtered using the `HAVING` clause.",
-      "tip_hi": "Filter individual rows = `WHERE`; Filter groups / aggregate functions = `HAVING`."
+      "explanation_hi": "SQL में, `WHERE` क्लॉज़ का उपयोग करके समूहीकरण से पहले अलग-अलग पंक्तियों को फ़िल्टर किया जाता है। एक बार जब समूह `ग्रुप बाय` के माध्यम से बन जाते हैं, तो कुल स्थितियां (`COUNT() > 5`, `AVG() > 50`) को केवल `HAVING` क्लॉज का उपयोग करके फ़िल्टर किया जा सकता है।",
+      "tip_hi": "अलग-अलग पंक्तियाँ फ़िल्टर करें = `कहाँ`; फ़िल्टर समूह/समग्र कार्य = `HAVING`।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1759,8 +1759,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "DBMS utility programs provide backup, recovery, data loading, and index reorganization. Process scheduling across CPU cores is strictly an Operating System kernel responsibility.",
-      "tip_hi": "Process scheduling belongs to the OS kernel, not the database engine."
+      "explanation_hi": "DBMS उपयोगिता प्रोग्राम बैकअप, रिकवरी, डेटा लोडिंग और इंडेक्स पुनर्गठन प्रदान करते हैं। सीपीयू कोर में प्रक्रिया शेड्यूलिंग सख्ती से एक ऑपरेटिंग सिस्टम कर्नेल जिम्मेदारी है।",
+      "tip_hi": "प्रोसेस शेड्यूलिंग OS कर्नेल से संबंधित है, डेटाबेस इंजन से नहीं।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1786,8 +1786,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In commercial database design, Third Normal Form (3NF) or BCNF is considered the standard target. It eliminates all partial and transitive functional dependencies while preserving dependencies without performance penalties.",
-      "tip_hi": "Industry standard target for RDBMS normalization = **3NF**."
+      "explanation_hi": "वाणिज्यिक डेटाबेस डिज़ाइन में, थर्ड नॉर्मल फॉर्म (3NF) या BCNF को मानक लक्ष्य माना जाता है। यह प्रदर्शन दंड के बिना निर्भरता को संरक्षित करते हुए सभी आंशिक और संक्रमणीय कार्यात्मक निर्भरता को समाप्त करता है।",
+      "tip_hi": "आरडीबीएमएस सामान्यीकरण के लिए उद्योग मानक लक्ष्य = **3NF**।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1813,8 +1813,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Data redundancy leads to wasted disk storage, potential update/insertion/deletion anomalies, and data inconsistency when one copy is updated while the duplicate copy retains obsolete data.",
-      "tip_hi": "Consequences of data redundancy: (A) Wasted storage, (B) Data inconsistency, (C) Update anomalies. Hence Option (D)."
+      "explanation_hi": "डेटा अतिरेक से बर्बाद डिस्क भंडारण, संभावित अद्यतन/सम्मिलन/विलोपन विसंगतियां और डेटा असंगतता होती है जब एक प्रतिलिपि अद्यतन की जाती है जबकि डुप्लिकेट प्रतिलिपि अप्रचलित डेटा को बरकरार रखती है।",
+      "tip_hi": "डेटा अतिरेक के परिणाम: (ए) व्यर्थ भंडारण, (बी) डेटा असंगति, (सी) अद्यतन विसंगतियाँ। इसलिए विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1840,8 +1840,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The `RAW` and `BLOB` (Binary Large Object) data types are designed to store raw uninterpreted binary bytes (e.g., compiled binaries, encrypted signatures, images) without character-set translation.",
-      "tip_hi": "Unstructured binary data = `RAW` / `BLOB`; Formatted text = `VARCHAR`; Numbers = `NUMERIC`."
+      "explanation_hi": "`RAW` और `BLOB` (बाइनरी लार्ज ऑब्जेक्ट) डेटा प्रकार को चरित्र-सेट अनुवाद के बिना कच्चे बिना व्याख्या किए गए बाइनरी बाइट्स (उदाहरण के लिए, संकलित बायनेरिज़, एन्क्रिप्टेड हस्ताक्षर, छवियां) संग्रहीत करने के लिए डिज़ाइन किया गया है।",
+      "tip_hi": "असंरचित बाइनरी डेटा = `RAW` / `BLOB`; स्वरूपित पाठ = `VARCHAR`; संख्याएँ = `संख्यात्मक`।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1867,8 +1867,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An X-NOR (Exclusive-NOR) gate outputs 1 when inputs are equal (`0 XNOR 0 = 1`, `1 XNOR 1 = 1`) and 0 when inputs differ. Hence it is also known as the Coincidence or Equivalence gate.",
-      "tip_hi": "High for SAME inputs = **X-NOR (Equivalence)**; High for DIFFERENT inputs = **XOR (Inequality)**."
+      "explanation_hi": "एक X-NOR (एक्सक्लूसिव-NOR) गेट 1 आउटपुट देता है जब इनपुट समान होते हैं (`0 XNOR 0 = 1`, `1 XNOR 1 = 1`) और 0 जब इनपुट भिन्न होते हैं। इसलिए इसे संयोग या समतुल्यता द्वार भी कहा जाता है।",
+      "tip_hi": "समान इनपुट के लिए उच्च = **X-NOR (समतुल्यता)**; विभिन्न इनपुट के लिए उच्च = **XOR (असमानता)**।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1894,8 +1894,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Claude Shannon established that Boolean algebra models electrical relay circuits. It is the mathematical foundation for digital IC design, processor ALU construction, and switching network theory.",
-      "tip_hi": "Boolean algebra applies to digital computer design, circuit theory, and logic gate symbols -> Select Option (D)."
+      "explanation_hi": "क्लाउड शैनन ने स्थापित किया कि बूलियन बीजगणित विद्युत रिले सर्किट को मॉडल करता है। यह डिजिटल आईसी डिजाइन, प्रोसेसर एएलयू निर्माण और स्विचिंग नेटवर्क सिद्धांत के लिए गणितीय आधार है।",
+      "tip_hi": "बूलियन बीजगणित डिजिटल कंप्यूटर डिज़ाइन, सर्किट सिद्धांत और लॉजिक गेट प्रतीकों पर लागू होता है -> विकल्प (डी) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1921,8 +1921,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Simplex mode, data communication occurs strictly in one unidirectional channel. A keyboard can only send keystroke data to the computer; the computer cannot transmit user input back to the keyboard.",
-      "tip_hi": "Unidirectional (Keyboard -> PC, TV broadcast) = **Simplex**; Alternate two-way (Walkie-talkie) = **Half-Duplex**; Simultaneous two-way (Telephone) = **Full-Duplex**."
+      "explanation_hi": "सिम्प्लेक्स मोड में, डेटा संचार सख्ती से एक यूनिडायरेक्शनल चैनल में होता है। एक कीबोर्ड केवल कीस्ट्रोक डेटा को कंप्यूटर पर भेज सकता है; कंप्यूटर उपयोगकर्ता इनपुट को वापस कीबोर्ड पर प्रसारित नहीं कर सकता है।",
+      "tip_hi": "यूनिडायरेक्शनल (कीबोर्ड -> पीसी, टीवी प्रसारण) = **सिंप्लेक्स**; वैकल्पिक दो-तरफा (वॉकी-टॉकी) = **हाफ-डुप्लेक्स**; एक साथ दो-तरफा (टेलीफोन) = **पूर्ण-डुप्लेक्स**।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1948,8 +1948,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "By absorption, `X + Y + XY = X + Y(1 + X) = X + Y`. Then `(X + Y)(X + Z)`. By distributive law of Boolean algebra, `(X + Y)(X + Z) = X + YZ`.",
-      "tip_hi": "Distributive law identity: `(A + B)(A + C) = A + BC`. Here `(X + Y)(X + Z) = X + YZ`."
+      "explanation_hi": "अवशोषण द्वारा, `X + Y + XY = X + Y(1 + X) = X + Y` फिर `(X + Y)(X + Z)`. बूलियन बीजगणित के वितरणात्मक नियम के अनुसार, `(X + Y)(X + Z) = X + YZ`.",
+      "tip_hi": "वितरणात्मक कानून पहचान: `(ए + बी)(ए + सी) = ए + बीसी`। यहाँ `(X + Y)(X + Z) = X + YZ`."
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -1975,8 +1975,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Duality Principle: The dual of a Boolean expression is obtained by replacing each AND (`.`) with OR (`+`), each OR with AND, each 0 with 1, and each 1 with 0, leaving variables intact.",
-      "tip_hi": "Principle of Duality: `+` <-> `.`, and `0` <-> `1`. Do NOT complement variables!"
+      "explanation_hi": "द्वैत सिद्धांत: एक बूलियन अभिव्यक्ति का द्वैत प्रत्येक AND (`.`) को OR (`+`), प्रत्येक OR को AND से, प्रत्येक 0 को 1 से, और प्रत्येक 1 को 0 से प्रतिस्थापित करके प्राप्त किया जाता है, जिससे चर बरकरार रहते हैं।",
+      "tip_hi": "द्वैत का सिद्धांत: `+` <-> `.`, और `0` <-> `1`. चरों का पूरक न बनें!"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -2002,8 +2002,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Wireless unguided transmission utilizes electromagnetic frequencies spanning radio waves (Wi-Fi, cellular), microwaves (satellite links, terrestrial towers), and infrared (short-range line-of-sight).",
-      "tip_hi": "Radio waves, microwaves, and infrared are all standard wireless communication bands -> Option (D)."
+      "explanation_hi": "वायरलेस अनगाइडेड ट्रांसमिशन रेडियो तरंगों (वाई-फाई, सेल्युलर), माइक्रोवेव (सैटेलाइट लिंक, स्थलीय टावर) और इन्फ्रारेड (छोटी दूरी की लाइन-ऑफ-विज़न) में फैली विद्युत चुम्बकीय आवृत्तियों का उपयोग करता है।",
+      "tip_hi": "रेडियो तरंगें, माइक्रोवेव और इन्फ्रारेड सभी मानक वायरलेस संचार बैंड हैं -> विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -2029,8 +2029,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Domain Name System (DNS) is an application-layer hierarchical protocol that translates human-friendly domain names (e.g., www.bpsc.bih.nic.in) into machine-readable numeric IP addresses.",
-      "tip_hi": "DNS = Domain Name System (acts as the phonebook of the Internet, translating names to IP addresses)."
+      "explanation_hi": "डोमेन नेम सिस्टम (डीएनएस) एक एप्लिकेशन-लेयर पदानुक्रमित प्रोटोकॉल है जो मानव-अनुकूल डोमेन नाम (जैसे, www.bpsc.bih.nic.in) को मशीन-पठनीय संख्यात्मक आईपी पते में अनुवादित करता है।",
+      "tip_hi": "डीएनएस = डोमेन नाम सिस्टम (इंटरनेट की फोनबुक के रूप में कार्य करता है, नामों को आईपी पते में अनुवादित करता है)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -2056,8 +2056,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In TDM systems, each continuous time frame contains a set of fixed time slots assigned to channels, where each slot carries a discrete unit of data down to individual bits or characters.",
-      "tip_hi": "In TDM, each time frame is partitioned into time slots, which transport serialized **bits**."
+      "explanation_hi": "टीडीएम सिस्टम में, प्रत्येक निरंतर समय सीमा में चैनलों को निर्दिष्ट निश्चित समय स्लॉट का एक सेट होता है, जहां प्रत्येक स्लॉट डेटा की एक अलग इकाई को अलग-अलग बिट्स या वर्णों तक ले जाता है।",
+      "tip_hi": "टीडीएम में, प्रत्येक समय सीमा को समय स्लॉट में विभाजित किया जाता है, जो क्रमबद्ध **बिट्स** को परिवहन करता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -2083,8 +2083,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "TCP is a connection-oriented Layer 4 protocol that guarantees reliable delivery via three-way handshakes, sequence numbers, sliding-window flow control, and checksum error checking.",
-      "tip_hi": "TCP is connection-oriented, reliable, and uses a 3-way handshake -> All statements are true -> Option (D)."
+      "explanation_hi": "टीसीपी एक कनेक्शन-उन्मुख लेयर 4 प्रोटोकॉल है जो तीन-तरफा हैंडशेक, अनुक्रम संख्या, स्लाइडिंग-विंडो प्रवाह नियंत्रण और चेकसम त्रुटि जांच के माध्यम से विश्वसनीय डिलीवरी की गारंटी देता है।",
+      "tip_hi": "टीसीपी कनेक्शन-उन्मुख, विश्वसनीय है, और 3-तरफ़ा हैंडशेक का उपयोग करता है -> सभी कथन सत्य हैं -> विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -2110,8 +2110,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Google Chrome, Mozilla Firefox, and Apple Safari are standard client web browser applications used to fetch, render, and navigate HTML web pages across the World Wide Web.",
-      "tip_hi": "Chrome, Firefox, Safari, Edge, Opera are all web browsers -> Select Option (D)."
+      "explanation_hi": "Google Chrome, मोज़िला फ़ायरफ़ॉक्स और Apple Safari मानक क्लाइंट वेब ब्राउज़र एप्लिकेशन हैं जिनका उपयोग वर्ल्ड वाइड वेब पर HTML वेब पेजों को लाने, प्रस्तुत करने और नेविगेट करने के लिए किया जाता है।",
+      "tip_hi": "क्रोम, फायरफॉक्स, सफारी, एज, ओपेरा सभी वेब ब्राउज़र हैं -> विकल्प (डी) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -2138,7 +2138,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Fiber-optic cables transmit digital pulses of light through high-purity glass cores via पूर्ण आंतरिक परावर्तन, providing terabit-per-second bandwidth with negligible attenuation and zero EMI.",
-      "tip_hi": "Speed & Bandwidth hierarchy: **Optical Fiber >> Coaxial Cable > Twisted Pair (Cat6/Cat5e)**."
+      "tip_hi": "गति और बैंडविड्थ पदानुक्रम: **ऑप्टिकल फाइबर >> समाक्षीय केबल > मुड़ जोड़ी (Cat6/Cat5e)**।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -2164,7 +2164,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "`DROP TABLE table_name;` is a Data Definition Language (DDL) command that drops the table schema, indexes, and all rows permanently. `DELETE` is DML and removes only rows.",
+      "explanation_hi": "`ड्रॉप टेबल टेबल_नाम;` एक डेटा डेफिनिशन लैंग्वेज (डीडीएल) कमांड है जो टेबल स्कीमा, इंडेक्स और सभी पंक्तियों को स्थायी रूप से हटा देता है। `DELETE` डीएमएल है और केवल पंक्तियों को हटाता है।",
       "tip_hi": "Delete data rows only = `DELETE`; Remove data + schema permanently = `DROP TABLE`.\nMaster Answer Key & Topic Index — Set 2 (Questions 81 to 160)\nQ.No.\nTopic / Technical Concept\nKey\nQ.No.\nTopic / Technical Concept\nKey\n81\nNetwork Layer 3 IP Protocol\n(B)\n121\nBinary Tree Traversal Methods\n(D)\n82\nKeyboard Keystroke Standard (ASCII)\n(B)\n122\nHomogeneous Contiguous Array\n(B)\n83\n5th Gen AI & ULSI Advancement\n(A)\n123\nCircular Queue as Ring Buffer\n(C)\n84\nOpen Source Software Definition\n(A)\n124\nCircular Queue Memory Reclamation\n(B)\n85\nMachine Language Properties\n(D)\n125\nPriority Queue via Binary Heap\n(C)\n86\nAssembly Language Classification\n(A)\n126\nCall Stack in Recursion\n(A)\n87\nCompiler Functions & Translation\n(D)\n127\nRed-Black Tree Invariants\n(D)\n88\nC++ Bottom-Up Paradigm\n(C)\n128\nDeque Rear Deletion in SLL (O(N))\n(C)\n89\nVirtual Inheritance & Diamond Problem\n(C)\n129\nLinear Queue Overflow (MAX_SIZE - 1)\n(A)\n90\nSafe Deletion of NULL Pointer\n(B)\n130\nDivide and Conquer (Merge Sort)\n(A)\n91\ndelete vs delete[] Syntax\n(C)\n131\nDatabase Formal Definition\n(B)\n92\nKeyword 'new' in C vs C++\n(C)\n132\nSupported Database Data Types\n(D)\n93\nBitwise OR & Bool Evaluation\n(B)\n133\nTraditional Database Models\n(C)\n94\nException Handling 'try' Block\n(C)\n134\nDBMS Product Identification\n(C)\n95\nAliasing Pointer Output (870)\n(B)\n135\nDBMS Concurrency (Not Single-User)\n(B)\n96\nInline Function Misconception\n(B)\n136\nDatabase Engine vs Compiler Scope\n(C)\n97\nAbstract Class Definition (= 0)\n(C)\n137\nMetadata (Data about Data)\n(B)\n98\nCompiler Synthesized Constructors\n(D)\n138\nDBMS Middleware Interface Role\n(B)\n99\nStruct vs Class Access Specifiers\n(B)\n139\nSuperkey Uniqueness Property\n(C)\n100\nPillars of Pure OOP Languages\n(D)\n140\nSQL DELETE FROM Statement\n(A)\n101\nExtensible Language Definition\n(C)\n141\nSQL Catalogs and Schemas Hierarchy\n(C)\n102\nCreator of C++ (Bjarne Stroustrup)\n(C)\n142\nSQL Server db_accessadmin Role\n(B)\n103\nConsole Character Input (cin.get)\n(C)\n143\nHierarchical Model Filing Cabinets\n(C)\n104\nArray Element Access (n-1)\n(B)\n144\nSQL HAVING Clause with Aggregates\n(A)\n105\nArray Categories (1D and Multi-D)\n(C)\n145\nDBMS Utilities vs OS Scheduling\n(C)\n106\nType Traits Array Rank (Dimensions)\n(C)\n146\n3NF Normalization Sufficiency\n(B)\n107\nBlock Scope of Local Variables\n(B)\n147\nConsequences of Data Redundancy\n(D)\n108\nnew Operator vs malloc Function\n(D)\n148\nRAW / BLOB Binary Data Types\n(A)\n109\nInaccessible Private Inheritance\n(C)\n149\nX-NOR Logic Coincidence Gate\n(B)\n110\nStatic vs Dynamic Binding\n(A)\n150\nApplications of Boolean Algebra\n(D)\n111\nAnonymous Classes (No Constructor)\n(D)\n151\nSimplex Keyboard Communication\n(A)\n112\nCompile-Time Polymorphism\n(D)\n152\nBoolean Simplification (X + YZ)\n(B)\n113\nEncapsulation Definition\n(C)\n153\nBoolean Duality Principle\n(B)\n114\nModularity in Software Design\n(B)\n154\nWireless Transmission Media\n(D)\n115\nStack vs Queue Applications\n(A)\n155\nDNS Application Layer Protocol\n(B)\n116\nInfix to Prefix (A + B * C)\n(A)\n156\nTDM Time Slots Bit Serialization\n(C)\n117\nStack in Prefix Conversion\n(B)\n157\nTCP 3-Way Handshake & Reliability\n(D)\n118\nSpatial Locality in Arrays\n(C)\n158\nWeb Browser Classification\n(D)\n119\nQueue Underflow Condition\n(B)\n159\nOptical Fiber पूर्ण आंतरिक परावर्तन\n(C)\n120\nQueue Applications (Not Parentheses)\n(C)\n160\nSQL Permanent DROP TABLE Command\n(B)\nBPSC TRE 4.0: Computer Science 5-Option Elimination StrategyTactical Guidelines for Tackling Option (D) 'उपर्युक्त में से एक से अधिक' and Option (E) 'उपर्युक्त में से कोई नहीं' in Technical MCQs\n1. The 2-Check Rule for Option (D) in Technical Questions:Whenever you independently confirm that two choices satisfy the technical criteria (e.g., both Encapsulation and Polymorphism in pure OOP; both Default and Copy constructor; both Compiler and Assembler as translators; both Radio waves and Microwaves in wireless transmission), stop analyzing choice (C) and mark (D) ('उपर्युक्त में से एक से अधिक') immediately.2. The Missing Key Entity Trap for Option (E):BPSC question setters frequently construct questions testing famous computer algorithms, hardware pioneers, or units (e.g., Dijkstra's algorithm for shortest paths, Turing machine, or non-listed memory units) and deliberately omit the correct answer from (A), (B), and (C). Candidates who second-guess themselves often pick a plausible-looking distractor instead of selecting (E) ('उपर्युक्त में से कोई नहीं').3. Hardware vs. Software vs. Operating System Traps:Watch out for classification traps where system software utilities (e.g., compilers, defragmenters) are mixed with OS kernel responsibilities (e.g., CPU process scheduling), or database engines (Oracle, Db2) with internet search engines (Google). Operating system process scheduling and memory management belong to the OS kernel, not the DBMS.4. Default Access Specifier Distinctions:One of BPSC's most tested distinctions is structure vs. class default access. Remember: `struct` members and inheritance are PUBLIC by default (C compatibility); `class` members and inheritance are PRIVATE by default (encapsulation)."
     }
   ]

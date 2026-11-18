@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "CP = SP / (1 - Loss%) = 720 / 0.80 = ₹900. Required SP for 20% gain = CP * (1 + Gain%) = 900 * 1.20 = ₹1,080.",
-      "tip_hi": "Direct formula: SP2 = SP1 * (100 + G)/(100 - L) = 720 * (120 / 80) = 720 * 1.5 = ₹1,080."
+      "explanation_hi": "सीपी = एसपी / (1 - हानि%) = 720 / 0.80 = ₹900। 20% लाभ के लिए आवश्यक एसपी = सीपी * (1 + लाभ%) = 900 * 1.20 = ₹1,080।",
+      "tip_hi": "सीधा सूत्र: SP2 = SP1 * (100 + G)/(100 - L) = 720 * (120/80) = 720 * 1.5 = ₹1,080।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total ratio parts = 2 + 3 + 5 = 10 parts. 1 part = 1200 / 10 = ₹120. C's share = 5 parts = 5 * 120 = ₹600.",
-      "tip_hi": "C's share = (5/10) * 1200 = 1/2 of ₹1200 = ₹600."
+      "explanation_hi": "कुल अनुपात भाग = 2 + 3 + 5 = 10 भाग। 1 भाग = 1200/10 = ₹120. C का हिस्सा = 5 भाग = 5 * 120 = ₹600.",
+      "tip_hi": "C का हिस्सा = (5/10) * 1200 = ₹1200 का 1/2 = ₹600।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "By Pythagoras theorem, Diagonal = √(Length^2 + Breadth^2) = √(12^2 + 5^2) = √(144 + 25) = √169 = 13 सेमी.",
-      "tip_hi": "Standard Pythagorean triplet: (5, 12, 13) => Diagonal = 13 सेमी."
+      "explanation_hi": "पाइथागोरस प्रमेय के अनुसार, विकर्ण = √(लंबाई^2 + चौड़ाई^2) = √(12^2 + 5^2) = √(144 + 25) = √169 = 13 सेमी.",
+      "tip_hi": "मानक पायथागॉरियन त्रिक: (5, 12, 13) => विकर्ण = 13 सेमी।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In every 12-घंटे period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-घंटे दिन, they coincide 11 * 2 = 22 times.",
-      "tip_hi": "Overlapping in 12 घंटे = 11 times; Overlapping in 24 घंटे = 22 times."
+      "tip_hi": "12 घंटे में ओवरलैपिंग = 11 बार; 24 घंटे में ओवरलैपिंग = 22 बार।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -221,7 +221,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Sir Isaac Newton demonstrated spectrum वर्ण विक्षेपण using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).",
-      "tip_hi": "Discovery of light spectrum through prism = Sir Isaac Newton."
+      "tip_hi": "प्रिज्म के माध्यम से प्रकाश स्पेक्ट्रम की खोज = सर आइजैक न्यूटन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Litmus is a water-soluble dye mixture extracted from lichens (predominantly Roccella tinctoria). Lichens represent a mutualistic symbiotic association between an alga (phycobiont) and a fungus (mycobiont).",
-      "tip_hi": "Litmus is extracted from Lichens; Lichens are sensitive bioindicators of SO2 air pollution."
+      "explanation_hi": "लिटमस एक पानी में घुलनशील डाई मिश्रण है जो लाइकेन (मुख्य रूप से रोक्सेला टिनक्टोरिया) से निकाला जाता है। लाइकेन एक शैवाल (फ़ाइकोबायंट) और एक कवक (माइकोबायंट) के बीच एक पारस्परिक सहजीवी संबंध का प्रतिनिधित्व करते हैं।",
+      "tip_hi": "लिटमस को लाइकेन से निकाला जाता है; लाइकेन SO2 वायु प्रदूषण के संवेदनशील जैव संकेतक हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Discovered by Christian de Duve, lysosomes contain अम्लीय hydrolytic enzymes that break down cellular debris. Under extreme metabolic stress or injury, lysosomes rupture, autolyzing and destroying the damaged cell.",
-      "tip_hi": "Suicidal Bags = Lysosomes; Discovered by Christian de Duve."
+      "explanation_hi": "क्रिश्चियन डी डुवे द्वारा खोजे गए, लाइसोसोम में अम्लीय हाइड्रोलाइटिक एंजाइम होते हैं जो सेलुलर मलबे को तोड़ते हैं। अत्यधिक चयापचय तनाव या चोट के तहत, लाइसोसोम टूट जाते हैं, क्षतिग्रस्त कोशिका को स्वचालित रूप से नष्ट कर देते हैं।",
+      "tip_hi": "आत्मघाती थैलियाँ = लाइसोसोम; क्रिश्चियन डी डुवे द्वारा खोजा गया।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -356,7 +356,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Normal adult blood pressure is 120/80 मिमी Hg, representing systolic pressure of 120 मिमी Hg के दौरान ventricular contraction and diastolic pressure of 80 मिमी Hg के दौरान ventricular relaxation, measured using a sphygmomanometer.",
-      "tip_hi": "Normal BP = 120/80 मिमी Hg (Systolic = 120, Diastolic = 80); Instrument = Sphygmomanometer."
+      "tip_hi": "सामान्य बीपी = 120/80 मिमी एचजी (सिस्टोलिक = 120, डायस्टोलिक = 80); यंत्र = रक्तदाबमापी."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Chota Nagpur, the 1857 movement was multi-faceted: Thakur Bishwanath Shahdeo and Pandey Ganpat Rai led the Ranchi Muktivahini; Nilamber and Pitamber led the Chero-Bhokta rebellion in Palamu; and Raja Arjun Singh led the revolt in Singhbhum. क्योंकि all of these were paramount leaders, (D) is the official key.",
-      "tip_hi": "1857 leaders in Chota Nagpur: Ranchi = Thakur Bishwanath Shahdeo & Pandey Ganpat Rai; Palamu = Nilamber & Pitamber. Triggers Option (D)."
+      "explanation_hi": "छोटा नागपुर में, 1857 का आंदोलन बहुआयामी था: ठाकुर विश्वनाथ शाहदेव और पांडे गणपत राय ने रांची मुक्तिवाहिनी का नेतृत्व किया; नीलांबर और पीतांबर ने पलामू में चेरो-भोक्ता विद्रोह का नेतृत्व किया; और राजा अर्जुन सिंह ने सिंहभूम में विद्रोह का नेतृत्व किया। क्योंकि ये सभी सर्वोपरि नेता थे, (डी) आधिकारिक कुंजी है।",
+      "tip_hi": "छोटा नागपुर में 1857 के नेता: रांची = ठाकुर विश्वनाथ शाहदेव और पांडे गणपत राय; पलामू = नीलाम्बर और पीताम्बर। ट्रिगर विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -437,7 +437,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Gandhi opened his first primary school on 14 नवम्बर 1917 at Barharwa Lakhansen (20 miles पूर्व of Motihari) with teachers Babasaheb Soman and Sadashiv Lakshman Purohit. His सेकंड school was opened on 20 नवम्बर 1917 at Bhitiharwa.",
-      "tip_hi": "First school by Gandhi in Champaran = Barharwa Lakhansen (14 Nov 1917); सेकंड school = Bhitiharwa."
+      "tip_hi": "चंपारण में गांधीजी द्वारा पहला स्कूल = बरहरवा लखनसेन (14 नवंबर 1917); दूसरा विद्यालय = भितिहरवा."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -517,7 +517,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Bagmati River enters Bihar near Shorwat in Sitamarhi district and flows through Sheohar, Muzaffarpur, and Darbhanga before joining the कोसी नदी/Kamla river system.",
+      "explanation_hi": "बागमती नदी बिहार में सीतामढी जिले के शोरवट के पास प्रवेश करती है और कोसी/कमला नदी प्रणाली में शामिल होने से पहले शिवहर, मुजफ्फरपुर और दरभंगा से होकर बहती है।",
       "tip_hi": "Bagmati enters Bihar at Sitamarhi; गंडक नदी enters at पश्चिम Champaran; Kamla enters at Madhubani (Jayanagar)."
     },
     {
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bhagalpur has a centuries-old tradition of sericulture and handloom weaving producing high-quality Tussar and Ahimsa silk, earning it the title 'Silk City' and a Geographical Indication (GI) tag.",
-      "tip_hi": "Silk City of Bihar = Bhagalpur; Famous for Tussar Silk (GI tag)."
+      "explanation_hi": "भागलपुर में रेशम उत्पादन और हथकरघा बुनाई की सदियों पुरानी परंपरा है, जो उच्च गुणवत्ता वाले टसर और अहिंसा रेशम का उत्पादन करती है, जिससे इसे 'सिल्क सिटी' का शीर्षक और भौगोलिक संकेत (जीआई) टैग मिलता है।",
+      "tip_hi": "बिहार का रेशम शहर=भागलपुर; टसर सिल्क (जीआई टैग) के लिए प्रसिद्ध।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Drawn from the ancient Maha Upanishad, 'Vasudhaiva Kutumbakam' (The World is One Family) with the English tagline 'One Earth · One Family · One Future' was the theme of India's G20 Presidency.",
-      "tip_hi": "G20 Theme = Vasudhaiva Kutumbakam (Maha Upanishad) -> One Earth, One Family, One Future."
+      "explanation_hi": "प्राचीन महा उपनिषद से लिया गया, 'वसुधैव कुटुंबकम' (दुनिया एक परिवार है) अंग्रेजी टैगलाइन 'वन अर्थ · वन फैमिली · वन फ्यूचर' के साथ भारत की जी20 प्रेसीडेंसी का विषय था।",
+      "tip_hi": "G20 थीम = वसुधैव कुटुंबकम (महा उपनिषद) -> एक पृथ्वी, एक परिवार, एक भविष्य।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -679,7 +679,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Distance = 150 + 250 = 400 m. Time = 20 s. Speed = 400 / 20 = 20 m/s. In किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "explanation_hi": "दूरी = 150 + 250 = 400 मीटर. समय = 20 से. गति = 400/20 = 20 मीटर/सेकेंड। किमी/घंटा में = 20 * (18/5) = 72 किमी/घंटा।",
       "tip_hi": "Speed = (150+250)/20 = 20 m/s * 18/5 = 72 किमी/h."
     },
     {
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Algebraic identity: (a^3 + b^3) / (a^2 - ab + b^2) = a + b. Here a = 0.7 and b = 0.3. Value = 0.7 + 0.3 = 1.0.",
-      "tip_hi": "Standard identity (a^3 + b^3)/(a^2 - ab + b^2) = a + b = 0.7 + 0.3 = 1."
+      "explanation_hi": "बीजगणितीय पहचान: (a^3 + b^3) / (a^2 - ab + b^2) = a + b. यहाँ a = 0.7 और b = 0.3 है। मान = 0.7 + 0.3 = 1.0.",
+      "tip_hi": "मानक पहचान (a^3 + b^3)/(a^2 - ab + b^2) = a + b = 0.7 + 0.3 = 1."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Veins carry deoxygenated blood under low hydrostatic pressure towards the हृदय. Semilunar valves in veins prevent backflow of venous blood caused by gravity, assisted by skeletal muscle pumping.",
-      "tip_hi": "Blood vessels with valves = Veins; Thick muscular elastic walls without valves = Arteries."
+      "explanation_hi": "नसें कम हाइड्रोस्टैटिक दबाव के तहत ऑक्सीजन रहित रक्त को हृदय की ओर ले जाती हैं। शिराओं में सेमिलुनर वाल्व गुरुत्वाकर्षण के कारण शिरापरक रक्त के बैकफ़्लो को रोकते हैं, जो कंकाल की मांसपेशी पंपिंग द्वारा सहायता प्रदान करता है।",
+      "tip_hi": "वाल्व वाली रक्त वाहिकाएँ = नसें; वाल्व रहित मोटी मांसल लोचदार दीवारें = धमनियाँ।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -761,7 +761,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Discovered by P. M. A. Millardet in Bordeaux (France) in 1882, Bordeaux mixture is a suspension of कॉपर सल्फेट (नीला थोथा) (CuSO4) and slaked lime (Ca(OH)2) in water, highly effective against downy mildew of grapevine and potato blight.",
-      "tip_hi": "Bordeaux Mixture = Copper Sulphate + Slaked Lime (CuSO4 + Ca(OH)2)."
+      "tip_hi": "बोर्डो मिश्रण = कॉपर सल्फेट + बुझा हुआ चूना (CuSO4 + Ca(OH)2)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In the Rohtas/Sasaram region, Nishan Singh (of Badiha, Rohtas) was the commander, Jodhar Singh led local forces, and Amar Singh established the base in Rohtasgarh fort and Kaimur hills. क्योंकि Nishan Singh and Amar Singh both operated prominently in Rohtas, (D) is the official key.",
-      "tip_hi": "1857 Rohtas leaders = Nishan Singh & Amar Singh. Triggers Option (D)."
+      "explanation_hi": "रोहतास/सासाराम क्षेत्र में, निशान सिंह (बदिहा, रोहतास के) कमांडर थे, जोधर सिंह ने स्थानीय सेनाओं का नेतृत्व किया, और अमर सिंह ने रोहतासगढ़ किले और कैमूर पहाड़ियों में आधार स्थापित किया। क्योंकि निशान सिंह और अमर सिंह दोनों रोहतास में प्रमुखता से काम करते थे, इसलिए (डी) आधिकारिक कुंजी है।",
+      "tip_hi": "1857 रोहतास नेता = निशान सिंह एवं अमर सिंह। ट्रिगर विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -815,7 +815,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The पूर्व Indian Railway (EIR) line in Bihar was opened in 1860-62, connecting Howrah with Patna (Bankipore) and onward to Mughal Sarai along the गंगा नदी loop line.",
-      "tip_hi": "First railway in India = 1853 (Bombay-Thane); First railway in Bihar = 1860-62 (पूर्व Indian Railway)."
+      "tip_hi": "भारत में प्रथम रेलवे = 1853 (बॉम्बे-ठाणे); बिहार में प्रथम रेलवे = 1860-62 (ईस्ट इंडियन रेलवे)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -896,7 +896,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Established on 15 नवम्बर 1954 under the vision of मुख्यमंत्री Dr. Sri Krishna Singh and principal Charles Napier, Netarhat Vidyalaya was conceived on Gurukul lines and produced outstanding civil servants, scientists, and academics.",
-      "tip_hi": "Netarhat Vidyalaya established in 1954 by Bihar Government (Founder Principal: Charles Napier)."
+      "tip_hi": "नेतरहाट विद्यालय की स्थापना 1954 में बिहार सरकार द्वारा की गई (संस्थापक प्राचार्य: चार्ल्स नेपियर)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -923,7 +923,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Sheel Bhadra Yagee of Bakhtiyarpur (Patna) was सुभाष चंद्र बोस's trusted associate in Bihar, founding member and राष्ट्रपति of the All India Forward Bloc, actively participating in the INA movement.",
-      "tip_hi": "Forward Bloc / INA leader from Bihar = Sheel Bhadra Yagee."
+      "tip_hi": "बिहार से फॉरवर्ड ब्लॉक/आईएनए नेता = शील भद्र यागी।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 1 अप्रैल 1935 under the RBI Act 1934 on the recommendation of the Hilton Young Commission, the RBI regulates currency issue, monetary policy, and acts as the lender of last resort to commercial banks.",
-      "tip_hi": "Central Bank / Lender of Last Resort = Reserve Bank of India (RBI, established 1935)."
+      "explanation_hi": "हिल्टन यंग कमीशन की सिफारिश पर आरबीआई अधिनियम 1934 के तहत 1 अप्रैल 1935 को स्थापित, आरबीआई मुद्रा मुद्दे, मौद्रिक नीति को नियंत्रित करता है, और वाणिज्यिक बैंकों के लिए अंतिम उपाय के ऋणदाता के रूप में कार्य करता है।",
+      "tip_hi": "सेंट्रल बैंक/अंतिम ऋणदाता = भारतीय रिजर्व बैंक (आरबीआई, स्थापना 1935)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the CAG (Duties, Powers and Conditions of Service) Act 1971, the CAG holds office for a term of 6 वर्ष or until attaining the age of 65 वर्ष, whichever is earlier, and cannot hold any further office under Government of India.",
-      "tip_hi": "CAG & UPSC Chairman tenure = 6 वर्ष or 65 वर्ष of age, whichever is earlier."
+      "explanation_hi": "CAG (कर्तव्य, शक्तियाँ और सेवा की शर्तें) अधिनियम 1971 के तहत, CAG 6 वर्ष की अवधि के लिए या 65 वर्ष की आयु प्राप्त करने तक, जो भी पहले हो, पद पर रहता है, और भारत सरकार के अधीन कोई और पद धारण नहीं कर सकता है।",
+      "tip_hi": "सीएजी और यूपीएससी अध्यक्ष का कार्यकाल = 6 वर्ष या 65 वर्ष की आयु, जो भी पहले हो।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Someshwar Range in Ramnagar subdivision of पश्चिम Champaran forms the Shiwalik outer Himalayas, with Someshwar Fort (880 metres / 2,887 ft) being the highest summit in Bihar.",
-      "tip_hi": "Highest point of Bihar = Someshwar Fort (880 m, पश्चिम Champaran)."
+      "explanation_hi": "पश्चिमी चंपारण के रामनगर उपखंड में सोमेश्वर रेंज शिवालिक बाहरी हिमालय का निर्माण करती है, जिसमें सोमेश्वर किला (880 मीटर / 2,887 फीट) बिहार का सबसे ऊंचा शिखर है।",
+      "tip_hi": "बिहार का उच्चतम बिंदु = सोमेश्वर किला (880 मीटर, पश्चिमी चंपारण)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Consequent upon the inauguration of the new province on 1 अप्रैल 1912, the separate cadre of Bihar and Orissa Civil Service was established to administer the 5 divisions (Patna, Tirhut, Bhagalpur, Chota Nagpur, Orissa).",
-      "tip_hi": "Administration inception of Bihar cadre = 1912."
+      "explanation_hi": "1 अप्रैल 1912 को नए प्रांत के उद्घाटन के परिणामस्वरूप, 5 डिवीजनों (पटना, तिरहुत, भागलपुर, छोटा नागपुर, उड़ीसा) को प्रशासित करने के लिए बिहार और उड़ीसा सिविल सेवा का अलग कैडर स्थापित किया गया था।",
+      "tip_hi": "बिहार कैडर की प्रशासन स्थापना = 1912."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1058,7 +1058,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Magadha was one of the sixteen great Mahajanapadas. Its early capital Girivraja (Rajgir) was fortified by Bimbisara and Ajatashatru. King Udayin (Haryanka dynasty) founded Pataliputra at the confluence of गंगा नदी and सोन नदी and shifted the capital there.",
-      "tip_hi": "Magadha capital shifted to Pataliputra = King Udayin (Haryanka dynasty)."
+      "tip_hi": "मगध की राजधानी पाटलिपुत्र में स्थानांतरित हुई = राजा उदयिन (हर्यंक वंश)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vaishali was the capital of the Licchavis and the Vajji confederacy, governed by an elected assembly of 7,707 rajas in the Santhagara. It is recognized by historians as the world's first democratic republic.",
-      "tip_hi": "World's earliest republic = Vaishali (Licchavis / Vajji confederacy).\nAnswer Key Summary Table — Set 13 (Questions 481 to 520)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "वैशाली लिच्छवियों और वज्जि संघ की राजधानी थी, जो संथागरा में 7,707 राजाओं की निर्वाचित सभा द्वारा शासित थी। इसे इतिहासकारों द्वारा दुनिया के पहले लोकतांत्रिक गणराज्य के रूप में मान्यता दी गई है।",
+      "tip_hi": "विश्व का सबसे प्राचीन गणतंत्र = वैशाली (लिच्छवि/वज्जि संघ)।\nउत्तर कुंजी सारांश तालिका - सेट 13 (प्रश्न 481 से 520)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

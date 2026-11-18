@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Zinc is more reactive than tin in the electrochemical series. Zinc reacts with food organic acids to form toxic zinc salts, जबकि tin is unreactive.",
-      "tip_hi": "Reactivity Series: Zn > Fe > Sn > Pb. Tin's lower reactivity ensures safe food canning."
+      "explanation_hi": "इलेक्ट्रोकेमिकल श्रृंखला में टिन की तुलना में जस्ता अधिक प्रतिक्रियाशील है। जिंक खाद्य कार्बनिक अम्लों के साथ प्रतिक्रिया करके विषाक्त जिंक लवण बनाता है, जबकि टिन अक्रियाशील होता है।",
+      "tip_hi": "प्रतिक्रियाशीलता श्रृंखला: Zn > Fe > Sn > Pb. टिन की कम प्रतिक्रियाशीलता सुरक्षित भोजन डिब्बाबंदी सुनिश्चित करती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Since the set of Bats is entirely contained within Mammals (Bats ⊂ Mammals), and Mammals are completely disjoint from Birds (Mammals ∩ Birds = ∅), it follows that Bats ∩ Birds = ∅. Thus, neither can any bat be a bird nor any bird be a bat.",
-      "tip_hi": "Complete separation between Birds and Mammals implies both I and II definitely hold."
+      "explanation_hi": "चूंकि चमगादड़ों का समूह पूरी तरह से स्तनधारियों (चमगादड़ ⊂ स्तनधारी) के भीतर समाहित है, और स्तनधारी पक्षियों (स्तनधारी ∩ पक्षी = ∅) से पूरी तरह से अलग हैं, इसलिए यह इस प्रकार है कि चमगादड़ ∩ पक्षी = ∅। इस प्रकार, न तो कोई चमगादड़ पक्षी हो सकता है और न ही कोई पक्षी चमगादड़ हो सकता है।",
+      "tip_hi": "पक्षियों और स्तनधारियों के बीच पूर्ण पृथक्करण का अर्थ है कि I और II दोनों निश्चित रूप से मान्य हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pens ⊂ Pencils, and Pencils ∩ Erasers = ∅. Since Pens are inside Pencils, Pens ∩ Erasers = ∅ (Conclusion I holds). Since All pens are pencils, some pencils are pens (Conclusion II holds).",
-      "tip_hi": "Disjoint set property: Both conclusions I and II logically follow."
+      "explanation_hi": "पेन ⊂ पेंसिल, और पेंसिल ∩ इरेज़र = ∅. चूँकि पेन पेंसिल के अंदर होते हैं, पेन ∩ इरेज़र = ∅ (निष्कर्ष I मान्य है)। चूँकि सभी पेन पेंसिल हैं, कुछ पेंसिल पेन हैं (निष्कर्ष II मान्य है)।",
+      "tip_hi": "असंयुक्त सेट गुण: दोनों निष्कर्ष I और II तार्किक रूप से अनुसरण करते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern is (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (Or differences double: 5, 10, 20, 40, 80; 78 + 80 = 158).",
-      "tip_hi": "Multiply by 2 and add 2: 78 * 2 + 2 = 156 + 2 = 158."
+      "explanation_hi": "पैटर्न है (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (या अंतर दोगुना: 5, 10, 20, 40, 80; 78 + 80 = 158)।",
+      "tip_hi": "2 से गुणा करें और 2 जोड़ें: 78 * 2 + 2 = 156 + 2 = 158।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.",
-      "tip_hi": "Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th."
+      "explanation_hi": "दाएँ से स्थिति = (कुल पेड़ - बाएँ से स्थिति) + 1 = (30 - 12) + 1 = 18 + 1 = 19वाँ।",
+      "tip_hi": "कुल = बाएँ + दाएँ - 1 => दाएँ = 30 - 12 + 1 = 19वाँ।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.",
-      "tip_hi": "Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896."
+      "explanation_hi": "प्रत्यक्ष अक्षर कोडिंग: C=8, A=2, L=5, I=1, C=8, U=9, T=6। कालीकट के लिए असेंबल करने पर 8251896 मिलता है।",
+      "tip_hi": "अक्षरों को सीधे देखें: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.",
-      "tip_hi": "Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter."
+      "explanation_hi": "गैल्वेनोमीटर कमजोर धाराओं का पता लगाता है और सुई विक्षेपण द्वारा प्रवाह की दिशा इंगित करता है। इसे समानांतर में कम शंट प्रतिरोध को जोड़कर एमीटर में या उच्च प्रतिरोध को श्रृंखला में जोड़कर वोल्टमीटर में परिवर्तित किया जा सकता है।",
+      "tip_hi": "वर्तमान और दिशा का पता लगाता है = गैल्वेनोमीटर; बड़े करंट को मापता है = एमीटर; माप क्षमता = वोल्टमीटर."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -275,7 +275,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In every 12-घंटे period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-घंटे दिन, they coincide 11 * 2 = 22 times.",
-      "tip_hi": "Overlapping in 12 घंटे = 11 times; Overlapping in 24 घंटे = 22 times."
+      "tip_hi": "12 घंटे में ओवरलैपिंग = 11 बार; 24 घंटे में ओवरलैपिंग = 22 बार।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern is (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
-      "tip_hi": "Next term = 95 * 2 + 1 = 190 + 1 = 191."
+      "explanation_hi": "पैटर्न है (*2 + 1): 5*2+1 = 11; 11*2+1 = 23; 23*2+1 = 47; 47*2+1 = 95; 95*2+1 = 191.",
+      "tip_hi": "अगला पद = 95 * 2 + 1 = 190 + 1 = 191."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each letter is shifted forward by +2 alphabetical positions: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. Applying +2 to CHILDREN: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP.",
-      "tip_hi": "Always check the first and last two letters first: C->E, N->P; eliminates (B) and (C) instantly."
+      "explanation_hi": "प्रत्येक अक्षर को +2 वर्णमाला क्रम से आगे स्थानांतरित किया गया है: T(+2)=V, E(+2)=G, A(+2)=C, C(+2)=E, H(+2)=J, E(+2)=G, R(+2)=T. बच्चों पर +2 लागू करना: C->E, H->J, I->K, L->N, D->F, R->T, E->G, N->P = EJKNFTGP।",
+      "tip_hi": "हमेशा पहले और आखिरी दो अक्षर पहले जांचें: C->E, N->P; (बी) और (सी) को तुरंत हटा देता है।"
     }
   ]
 }

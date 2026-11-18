@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sum of interior angles of an n-sided polygon = (n - 2) * 180°. For an octagon (n = 8): Sum = (8 - 2) * 180° = 6 * 180° = 1,080°.",
-      "tip_hi": "Formula: (n - 2) * 180°. For 8 sides: 6 * 180° = 1,080°. Each interior angle = 1080/8 = 135°."
+      "explanation_hi": "n-भुजा वाले बहुभुज के आंतरिक कोणों का योग = (n - 2) * 180°. एक अष्टभुज (n = 8) के लिए: योग = (8 - 2) * 180° = 6 * 180° = 1,080°।",
+      "tip_hi": "सूत्र: (एन - 2) * 180°। 8 भुजाओं के लिए: 6 * 180° = 1,080°। प्रत्येक आंतरिक कोण = 1080/8 = 135°."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Factoring the quadratic: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. Therefore, x = 3 or x = 4.",
-      "tip_hi": "Sum of roots = -(-7)/1 = 7; Product of roots = 12/1 = 12 => roots are 3 and 4."
+      "explanation_hi": "द्विघात का गुणनखंडन: x^2 - 3x - 4x + 12 = 0 => x(x - 3) - 4(x - 3) = 0 => (x - 3)(x - 4) = 0. इसलिए, x = 3 या x = 4.",
+      "tip_hi": "मूलों का योग = -(-7)/1 = 7; जड़ों का गुणनफल = 12/1 = 12 => जड़ें 3 और 4 हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Product of two numbers = HCF * LCM. Other number = (HCF * LCM) / First number = (11 * 693) / 77 = 693 / 7 = 99.",
-      "tip_hi": "N2 = (11 * 693) / 77 = 693 / 7 = 99."
+      "explanation_hi": "दो संख्याओं का गुणनफल = HCF * LCM. अन्य संख्या = (एचसीएफ * एलसीएम) / पहली संख्या = (11 * 693) / 77 = 693 / 7 = 99।",
+      "tip_hi": "एन2 = (11 * 693) / 77 = 693 / 7 = 99।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total distance = Length of train + Length of platform = 300 + 200 = 500 m. Speed in m/s = 500 / 25 = 20 m/s. Speed in किमी/h = 20 * (18/5) = 72 किमी/h.",
-      "tip_hi": "Total distance = 500 m. Speed = 500/25 = 20 m/s * (18/5) = 72 किमी/h."
+      "explanation_hi": "कुल दूरी = ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई = 300 + 200 = 500 मीटर. मी/से. में गति = 500/25 = 20 मी./से. गति किमी/घंटा में = 20 * (18/5) = 72 किमी/घंटा।",
+      "tip_hi": "कुल दूरी = 500 मीटर. गति = 500/25 = 20 मीटर/सेकंड * (18/5) = 72 किमी/घंटा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.",
-      "tip_hi": "Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'."
+      "explanation_hi": "दोहराव वाला पैटर्न 3-अक्षर वाला ब्लॉक 'ए बी बी' है: ए(बी)बी / ए(बी)बी / (ए)बी(बी) / ए(ए)बी। 'बी बी ए बी ए' डालने से लगातार आवधिक पुनरावृत्ति प्राप्त होती है।",
+      "tip_hi": "3 अक्षरों के समान दोहराव वाले ब्लॉकों में विभाजित करें: 'एबीबी |' एबीबी | एबीबी | अब्ब'."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "'My daughter's father' is Deepak himself. 'Father of Deepak' is Deepak's father. 'Only brother of Deepak's father' is Deepak's paternal uncle (Chacha).",
-      "tip_hi": "Break down: Daughter's father = Deepak. Father of Deepak = Deepak's father. Brother of Deepak's father = Uncle."
+      "explanation_hi": "'मेरी बेटी के पिता' खुद दीपक हैं. 'दीपक के पिता' दीपक के पिता हैं। 'दीपक के पिता का एकमात्र भाई' दीपक के चाचा (चाचा) हैं।",
+      "tip_hi": "ब्रेक डाउन: बेटी के पिता = दीपक. दीपक के पिता = दीपक के पिता। दीपक के पिता का भाई = चाचा."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Position from right = (Total trees - Position from left) + 1 = (30 - 12) + 1 = 18 + 1 = 19th.",
-      "tip_hi": "Total = Left + Right - 1 => Right = 30 - 12 + 1 = 19th."
+      "explanation_hi": "दाएँ से स्थिति = (कुल पेड़ - बाएँ से स्थिति) + 1 = (30 - 12) + 1 = 18 + 1 = 19वाँ।",
+      "tip_hi": "कुल = बाएँ + दाएँ - 1 => दाएँ = 30 - 12 + 1 = 19वाँ।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Direct letter coding: C=8, A=2, L=5, I=1, C=8, U=9, T=6. Assembling for CALICUT gives 8251896.",
-      "tip_hi": "Look up letters directly: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896."
+      "explanation_hi": "प्रत्यक्ष अक्षर कोडिंग: C=8, A=2, L=5, I=1, C=8, U=9, T=6। कालीकट के लिए असेंबल करने पर 8251896 मिलता है।",
+      "tip_hi": "अक्षरों को सीधे देखें: C->8, A->2, L->5, I->1, C->8, U->9, T->6 => 8251896।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -247,7 +247,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Optical fibres consist of a core surrounded by cladding of lower refractive index. Light launched into the core at an angle greater than the critical angle undergoes repeated total internal reflections with negligible signal loss.",
+      "explanation_hi": "ऑप्टिकल फाइबर में एक कोर होता है जो कम अपवर्तक सूचकांक के आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर कोर में प्रक्षेपित प्रकाश नगण्य सिग्नल हानि के साथ बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
       "tip_hi": "ऑप्टिकल फाइबर = पूर्ण आंतरिक परावर्तन (TIR); Core refractive index > Cladding refractive index."
     },
     {
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A galvanometer detects feeble currents and indicates direction of flow by needle deflection. It can be converted into an ammeter by connecting a low shunt resistance in parallel, or into a voltmeter by connecting a high resistance in series.",
-      "tip_hi": "Detects current & direction = Galvanometer; Measures large current = Ammeter; Measures potential = Voltmeter."
+      "explanation_hi": "गैल्वेनोमीटर कमजोर धाराओं का पता लगाता है और सुई विक्षेपण द्वारा प्रवाह की दिशा इंगित करता है। इसे समानांतर में कम शंट प्रतिरोध को जोड़कर एमीटर में या उच्च प्रतिरोध को श्रृंखला में जोड़कर वोल्टमीटर में परिवर्तित किया जा सकता है।",
+      "tip_hi": "वर्तमान और दिशा का पता लगाता है = गैल्वेनोमीटर; बड़े करंट को मापता है = एमीटर; माप क्षमता = वोल्टमीटर."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vitamins B-complex and C are water-soluble; they are not stored in significant amounts in the body and excess is excreted via kidneys. Vitamins A, D, E, and K are fat-soluble and stored in the यकृत (लीवर) and adipose tissue.",
-      "tip_hi": "Water-soluble vitamins = B & C; Fat-soluble vitamins = A, D, E, K."
+      "explanation_hi": "विटामिन बी-कॉम्प्लेक्स और सी पानी में घुलनशील हैं; वे शरीर में महत्वपूर्ण मात्रा में संग्रहीत नहीं होते हैं और अतिरिक्त गुर्दे के माध्यम से उत्सर्जित होते हैं। विटामिन ए, डी, ई और के वसा में घुलनशील होते हैं और यकृत और वसा ऊतकों में जमा होते हैं।",
+      "tip_hi": "पानी में घुलनशील विटामिन = बी और सी; वसा में घुलनशील विटामिन = ए, डी, ई, के।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.",
-      "tip_hi": "Normal body temperature = 37°C = 98.6°F = 310.15 K."
+      "explanation_hi": "सामान्य मानव शरीर का तापमान 37°C होता है, जिसे फ़ारेनहाइट पैमाने पर इस प्रकार परिवर्तित किया जाता है: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F।",
+      "tip_hi": "शरीर का सामान्य तापमान = 37°C = 98.6°F = 310.15 K."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.",
-      "tip_hi": "Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux."
+      "explanation_hi": "कैंडेला (सीडी) सात आधार एसआई इकाइयों में से एक है, जो किसी दिए गए दिशा में चमकदार तीव्रता को मापती है। लुमेन चमकदार प्रवाह की व्युत्पन्न इकाई है, और लक्स रोशनी की इकाई है।",
+      "tip_hi": "चमकदार तीव्रता = कैंडेला (सीडी); चमकदार प्रवाह = लुमेन; रोशनी = लक्स."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sardar Hare Krishna Singh served as the brilliant commander-in-chief of Kunwar Singh's army, planning the capture of Arrah and maneuvering the rebel troops across Rohtas, Rewa, Banda, and Azamgarh.",
-      "tip_hi": "Commander-in-chief of Kunwar Singh's forces = Hare Krishna Singh."
+      "explanation_hi": "सरदार हरे कृष्ण सिंह ने कुँवर सिंह की सेना के प्रतिभाशाली कमांडर-इन-चीफ के रूप में कार्य किया, उन्होंने आरा पर कब्ज़ा करने और रोहतास, रीवा, बांदा और आज़मगढ़ में विद्रोही सैनिकों को युद्धाभ्यास करने की योजना बनाई।",
+      "tip_hi": "कुँवर सिंह की सेना के प्रधान सेनापति = हरे कृष्ण सिंह।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Raj Kumar Shukla attended the 31st Congress Session at Lucknow in दिसम्बर 1916 along with Brajkishore Prasad, apprising Gandhi of indigo farmers' grievances and extracting a promise from him to visit Champaran.",
+      "explanation_hi": "राज कुमार शुक्ल ने दिसंबर 1916 में लखनऊ में 31वें कांग्रेस अधिवेशन में बृजकिशोर प्रसाद के साथ भाग लिया और गांधीजी को नील किसानों की शिकायतों से अवगत कराया और उनसे चंपारण आने का वादा लिया।",
       "tip_hi": "1916 Lucknow Session = Raj Kumar Shukla invited महात्मा गांधी to Champaran."
     },
     {
@@ -572,7 +572,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan पश्चिम Bengal hills, receives the highest annual rainfall in the State (>180 सेमी to 200 सेमी).",
-      "tip_hi": "Highest Rainfall in Bihar = Kishanganj; Lowest Rainfall = Aurangabad / Arwal."
+      "tip_hi": "बिहार में सर्वाधिक वर्षा = किशनगंज; सबसे कम वर्षा = औरंगाबाद/अरवल."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aurangabad district (along with Arwal and Gaya) in southwestern Bihar records the lowest rainfall in the State (approx. 90 सेमी to 100 सेमी annual average).",
-      "tip_hi": "Lowest rainfall in Bihar = Aurangabad; Highest rainfall = Kishanganj."
+      "explanation_hi": "दक्षिण-पश्चिमी बिहार में औरंगाबाद जिले (अरवल और गया के साथ) में राज्य में सबसे कम वर्षा (लगभग 90 सेमी से 100 सेमी वार्षिक औसत) दर्ज की गई है।",
+      "tip_hi": "बिहार में सबसे कम वर्षा = औरंगाबाद; सर्वाधिक वर्षा = किशनगंज।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 10 जुलाई 2008, the Government of Bihar officially notified 'Desi Magur' (Clarias batrachus), an indigenous air-breathing walking catfish of wetlands, as the State Fish of Bihar.",
-      "tip_hi": "State Fish of Bihar = Desi Magur (Clarias batrachus); State Animal = Gaur/Ox; State Bird = House Sparrow (Gauraiya)."
+      "explanation_hi": "10 जुलाई 2008 को, बिहार सरकार ने आधिकारिक तौर पर आर्द्रभूमि की एक स्वदेशी हवा में सांस लेने वाली चलने वाली कैटफ़िश 'देसी मैगूर' (क्लैरियास बैट्राचस) को बिहार की राज्य मछली के रूप में अधिसूचित किया।",
+      "tip_hi": "बिहार की राज्य मछली = देसी मागुर (क्लैरियास बैट्राचस); राज्य पशु = गौर/बैल; राज्य पक्षी = घरेलू गौरैया (गौरैया)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The State Song of Bihar 'Mere Bharat Ke Kanthhar, Tujhko Shat-Shat Vandan Bihar' was composed by poet Satya Narayan with music composed by Pt. Hari Prasad Chaurasia and Pt. Shivkumar Sharma.",
-      "tip_hi": "State Song of Bihar = 'Mere Bharat Ke Kanthhar' (Lyrics: Satya Narayan; Music: Chaurasia & Sharma)."
+      "explanation_hi": "बिहार का राज्य गीत 'मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहार' कवि सत्य नारायण द्वारा रचित था, जिसका संगीत पं. हरि प्रसाद चौरसिया एवं पं. शिवकुमार शर्मा.",
+      "tip_hi": "बिहार का राज्य गीत = 'मेरे भारत के कंठहार' (गीत: सत्य नारायण; संगीत: चौरसिया और शर्मा)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The ozone layer in the stratosphere (15 to 35 किमी altitude) photolytically dissociates upon absorbing high-energy UV-B rays (O3 + UV -> O2 + O), preventing dangerous ionizing radiation from penetrating the troposphere.",
-      "tip_hi": "UV-absorbing stratospheric gas = Ozone (O3); Measured in Dobson Units (DU)."
+      "explanation_hi": "समताप मंडल (15 से 35 किमी की ऊंचाई) में ओजोन परत उच्च-ऊर्जा यूवी-बी किरणों (ओ3 + यूवी -> ओ2 + ओ) को अवशोषित करने पर फोटोलिटिक रूप से अलग हो जाती है, जिससे खतरनाक आयनीकरण विकिरण को क्षोभमंडल में प्रवेश करने से रोका जाता है।",
+      "tip_hi": "यूवी-अवशोषित समतापमंडलीय गैस = ओजोन (O3); डॉब्सन इकाइयों (डीयू) में मापा गया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 2013, the Government of Bihar notified the Ox / Gaur (Mithun) as the official State Animal of Bihar (replacing the earlier bear).",
-      "tip_hi": "Bihar State Symbols: Animal = Ox/Gaur; Bird = Sparrow (Gauraiya); Tree = Peepal; Flower = Marigold (Genda)."
+      "explanation_hi": "2013 में, बिहार सरकार ने बैल/गौर (मिथुन) को बिहार के आधिकारिक राज्य पशु के रूप में अधिसूचित किया (पहले वाले भालू की जगह)।",
+      "tip_hi": "बिहार राज्य प्रतीक: पशु = बैल/गौर; पक्षी = गौरैया (गौरैया); वृक्ष = पीपल; फूल = गेंदा (गेंदा)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -868,7 +868,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The House Sparrow (Passer domesticus) was designated as the State Bird of Bihar in 2013 to raise awareness against its alarming decline due to urbanization and cellular radiation.",
+      "explanation_hi": "शहरीकरण और सेलुलर विकिरण के कारण इसकी खतरनाक गिरावट के खिलाफ जागरूकता बढ़ाने के लिए हाउस स्पैरो (पासर डोमेस्टिकस) को 2013 में बिहार के राज्य पक्षी के रूप में नामित किया गया था।",
       "tip_hi": "State Bird of Bihar = House Sparrow (गौरैया); 20 मार्च = World Sparrow दिन."
     },
     {
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Peepal tree (Ficus religiosa / Sacred Fig) is the official State Tree of Bihar. Under the historic Bodhi Tree at Bodh Gaya, Gautama Buddha attained supreme enlightenment (Nirvana).",
-      "tip_hi": "State Tree of Bihar = Peepal (Sacred Fig, Ficus religiosa)."
+      "explanation_hi": "पीपल का पेड़ (फाइकस रिलिजियोसा / सेक्रेड फिग) बिहार का आधिकारिक राज्य वृक्ष है। बोधगया में ऐतिहासिक बोधि वृक्ष के नीचे, गौतम बुद्ध को सर्वोच्च ज्ञान (निर्वाण) प्राप्त हुआ।",
+      "tip_hi": "बिहार का राज्य वृक्ष = पीपल (पवित्र अंजीर, फ़िकस रिलिजियोसा)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Marigold (Genda, Tagetes) was notified as the State Flower of Bihar in 2013 (replacing Kachnar). Lotus is the National Flower of India, and Palash is the State Flower of Jharkhand and Uttar Pradesh.",
-      "tip_hi": "State Flower of Bihar = Marigold (गेंदा); National Flower = Lotus."
+      "explanation_hi": "गेंदा (गेंदा, टैगेट्स) को 2013 में (कचनार के स्थान पर) बिहार के राज्य फूल के रूप में अधिसूचित किया गया था। कमल भारत का राष्ट्रीय फूल है, और पलाश झारखंड और उत्तर प्रदेश का राज्य फूल है।",
+      "tip_hi": "बिहार का राज्य पुष्प = गेंदा (गेंदा); राष्ट्रीय पुष्प = कमल।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vikramashila University was founded by King Dharmapala (783-820 CE) at Antichak in Kahalgaon subdivision of Bhagalpur district. It was a preeminent center for Vajrayana Buddhist philosophy until its destruction by Bakhtiyar Khilji in 1193 CE.",
-      "tip_hi": "Vikramashila University = Bhagalpur (Founded by Dharmapala); Nalanda University = Nalanda (Founded by Kumaragupta I)."
+      "explanation_hi": "विक्रमशिला विश्वविद्यालय की स्थापना राजा धर्मपाल (783-820 ई.) ने भागलपुर जिले के कहलगांव उपमंडल के अंतिचक में की थी। 1193 ई. में बख्तियार खिलजी द्वारा इसके विनाश तक यह वज्रयान बौद्ध दर्शन का एक प्रमुख केंद्र था।",
+      "tip_hi": "विक्रमशिला विश्वविद्यालय = भागलपुर (धर्मपाल द्वारा स्थापित); नालन्दा विश्वविद्यालय = नालन्दा (कुमारगुप्त प्रथम द्वारा स्थापित)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Seals excavated at Nalanda confirm that Nalanda Mahavihara was established by Emperor Kumaragupta I (reigned 415-455 CE, title Shakraditya / Mahendraditya). It was supported later by Harshavardhana and Pala kings.",
-      "tip_hi": "Founder of Nalanda University = Kumaragupta I; Visited by Hiuen Tsang के दौरान reign of Harshavardhana."
+      "explanation_hi": "नालंदा में खुदाई से प्राप्त मुहरें इस बात की पुष्टि करती हैं कि नालंदा महाविहार की स्थापना सम्राट कुमारगुप्त प्रथम (शासनकाल 415-455 ईस्वी, शक्रादित्य/महेंद्रादित्य) द्वारा की गई थी। बाद में इसे हर्षवर्द्धन और पाल राजाओं ने भी समर्थन दिया।",
+      "tip_hi": "नालन्दा विश्वविद्यालय के संस्थापक = कुमारगुप्त प्रथम; हर्षवर्द्धन के शासनकाल के दौरान ह्वेन त्सांग द्वारा दौरा किया गया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1057,7 +1057,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Bihar Legislative Assembly (Vidhan Sabha) has 243 directly elected seats (38 reserved for Scheduled Castes and 2 reserved for Scheduled Tribes: Manihari and Katoria).",
+      "explanation_hi": "बिहार विधान सभा (विधानसभा) में 243 सीधे निर्वाचित सीटें हैं (38 अनुसूचित जाति के लिए आरक्षित और 2 अनुसूचित जनजाति के लिए आरक्षित: मनिहारी और कटोरिया)।",
       "tip_hi": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; लोकसभा = 40 seats; राज्यसभा = 16 seats."
     },
     {

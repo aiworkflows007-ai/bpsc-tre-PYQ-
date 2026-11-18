@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Solving the system 5x + 18y = 6500 and 2x + 20y = 4200 (x + 10y = 2100): substituting x = 2100 - 10y gives y = ₹125 and x = ₹850. Since ₹850 and ₹125 are not among (A), (B), or (C), Option (E) is correct.",
-      "tip_hi": "Always solve linear systems directly: test the derived solution against choices before checking (E)."
+      "explanation_hi": "सिस्टम 5x + 18y = 6500 और 2x + 20y = 4200 (x + 10y = 2100) को हल करने पर x = 2100 - 10y को प्रतिस्थापित करने पर y = ₹125 और x = ₹850 प्राप्त होता है। चूँकि ₹850 और ₹125 (ए), (बी), या (सी) में से नहीं हैं, विकल्प (ई) सही है।",
+      "tip_hi": "हमेशा रैखिक प्रणालियों को सीधे हल करें: (ई) की जांच करने से पहले विकल्पों के विरुद्ध व्युत्पन्न समाधान का परीक्षण करें।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area = (1/2)*8*9*sin C = 36 sin C = 12√5 -> sin C = √5/3. Thus cos C = ±2/3. By the Law of Cosines, c² = 8² + 9² - 2*8*9*(±2/3), yielding c = 7 सेमी or c = √241 सेमी. Since two values are valid, Option (D) is the answer.",
-      "tip_hi": "When the sine of an angle is determined, both acute and obtuse angles yield valid triangles, giving two distinct third sides."
+      "explanation_hi": "क्षेत्रफल = (1/2)*8*9*पाप सी = 36 पाप सी = 12√5 -> पाप सी = √5/3. इस प्रकार cos C = ±2/3. कोसाइन के नियम के अनुसार, c² = 8² + 9² - 2*8*9*(±2/3), उपज c = 7 सेमी या c = √241 सेमी। चूँकि दो मान मान्य हैं, विकल्प (डी) उत्तर है।",
+      "tip_hi": "जब किसी कोण की ज्या निर्धारित की जाती है, तो न्यून और अधिक दोनों कोण वैध त्रिभुज बनाते हैं, जिससे दो अलग-अलग तीसरी भुजाएँ मिलती हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mean of (53 - x_i) = 53 - Mean(x) = -3.5. Therefore, Mean(x) = 53 - (-3.5) = 53 + 3.5 = 56.5.",
-      "tip_hi": "Linear property of arithmetic mean: E[a - X] = a - E[X]. Rearrange directly to find E[X] = a - mean."
+      "explanation_hi": "(53 - x_i) का माध्य = 53 - माध्य(x) = -3.5. इसलिए, माध्य(x) = 53 - (-3.5) = 53 + 3.5 = 56.5।",
+      "tip_hi": "अंकगणित माध्य का रैखिक गुण: E[a - X] = a - E[X]। E[X] = a - माध्य ज्ञात करने के लिए सीधे पुनर्व्यवस्थित करें।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Tana Bhagat Movement (1914) was a religious, agrarian, and tribal movement among the Oraon tribe of Chotanagpur led by Jatra Bhagat, opposing British land taxes and money lenders.",
+      "explanation_hi": "ताना भगत आंदोलन (1914) जात्रा भगत के नेतृत्व में छोटानागपुर की ओरांव जनजाति के बीच एक धार्मिक, कृषि और आदिवासी आंदोलन था, जो ब्रिटिश भूमि करों और साहूकारों का विरोध करता था।",
       "tip_hi": "Tana Bhagats later allied with महात्मा गांधी's Non-Cooperation Movement, adopting non-violence and Khadi."
     },
     {
@@ -167,7 +167,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "काली मिट्टी (रेगुर मिट्टी) (Regur soil) is widespread across the Deccan lava trap, predominantly found in Maharashtra, Gujarat, Madhya Pradesh, and parts of Karnataka. As both Gujarat and Karnataka have it, (D) is correct.",
-      "tip_hi": "Regur/Black cotton soil spans multiple peninsular states; when Gujarat and Karnataka appear together, pick Option (D)."
+      "tip_hi": "रेगुर/काली कपास मिट्टी कई प्रायद्वीपीय राज्यों तक फैली हुई है; जब गुजरात और कर्नाटक एक साथ दिखाई दें, तो विकल्प (डी) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In sedimentary rocks, minerals occur in beds or strata formed as a result of deposition, accumulation, and concentration in horizontal layers (e.g., coal, iron ore, limestone).",
-      "tip_hi": "Sedimentary rocks = strata / beds; Igneous and metamorphic rocks = cracks, crevices, faults, and veins / lodes."
+      "explanation_hi": "तलछटी चट्टानों में, खनिज क्षैतिज परतों (जैसे, कोयला, लौह अयस्क, चूना पत्थर) में जमाव, संचय और एकाग्रता के परिणामस्वरूप गठित बिस्तरों या स्तरों में पाए जाते हैं।",
+      "tip_hi": "तलछटी चट्टानें = स्तर/स्तर; आग्नेय और रूपांतरित चट्टानें = दरारें, दरार, भ्रंश और शिराएं/खोदें।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pulses (beans, ग्राम, lentils, peas) belong to the Leguminosae family and fix atmospheric nitrogen through root nodules, जबकि Jowar and Millets are coarse cereals (Poaceae family).",
-      "tip_hi": "Leguminous crops = Pulses (ग्राम, Arhar, Moong); Coarse grains (Jowar, Bajra, Ragi) = Cereals."
+      "explanation_hi": "दालें (बीन्स, चना, मसूर, मटर) लेग्यूमिनोसे परिवार से संबंधित हैं और जड़ की गांठों के माध्यम से वायुमंडलीय नाइट्रोजन को स्थिर करती हैं, जबकि ज्वार और बाजरा मोटे अनाज (पोएसी परिवार) हैं।",
+      "tip_hi": "फलीदार फसलें = दालें (चना, अरहर, मूंग); मोटा अनाज (ज्वार, बाजरा, रागी) = अनाज।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -275,7 +275,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Stalactites (hanging from cave ceilings) and stalagmites (rising from cave floors) are depositional landforms produced by कैल्शियम कार्बोनेट (CaCO3) precipitation in karst underground water topography.",
-      "tip_hi": "Memory aid: StalacTite holds 'Tight' to the ceiling; StalagMite 'Might' reach the ceiling from the ground; both formed by Karst groundwater."
+      "tip_hi": "मेमोरी सहायता: स्टैलेक्टाइट छत को 'कसकर' रखता है; स्टैलागमाइट 'हो सकता है' जमीन से छत तक पहुंच जाए; दोनों कार्स्ट भूजल द्वारा निर्मित हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Survey of India (founded 1767, headquartered at Dehradun) is the National Mapping Agency of India mandated to produce official topographical maps.",
-      "tip_hi": "Topographical / Geodetic Maps = Survey of India; Mineral / Geological mapping = Geological Survey of India (GSI)."
+      "explanation_hi": "सर्वे ऑफ इंडिया (1767 में स्थापित, जिसका मुख्यालय देहरादून में है) भारत की राष्ट्रीय मानचित्रण एजेंसी है जिसे आधिकारिक स्थलाकृतिक मानचित्र तैयार करने का अधिकार दिया गया है।",
+      "tip_hi": "स्थलाकृतिक/भौगोलिक मानचित्र = भारतीय सर्वेक्षण; खनिज/भूवैज्ञानिक मानचित्रण = भारतीय भूवैज्ञानिक सर्वेक्षण (जीएसआई)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vinayak Damodar Savarkar authored 'The Indian War of Independence 1857' in 1909, characterizing the uprising as India's first coordinated national war of independence.",
-      "tip_hi": "V.D. Savarkar = First War of Independence; R.C. Majumdar = 'Neither first, nor national, nor war of independence'."
+      "explanation_hi": "विनायक दामोदर सावरकर ने 1909 में 'द इंडियन वॉर ऑफ इंडिपेंडेंस 1857' लिखी, जिसमें इस विद्रोह को भारत का पहला समन्वित राष्ट्रीय स्वतंत्रता संग्राम बताया गया।",
+      "tip_hi": "वी.डी. सावरकर = प्रथम स्वतंत्रता संग्राम; आर.सी. मजूमदार = 'न प्रथम, न राष्ट्रीय, न स्वतंत्रता संग्राम'।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Santhal Rebellion occurred in 1855-1856; Birsa Munda's Ulgulan occurred in 1899-1900; and the Tana Bhagat Movement occurred in 1914. Santhal Rebellion took place earliest.",
-      "tip_hi": "Tribal timeline: Santhal (1855-56) -> Birsa Munda (1899-1900) -> Tana Bhagat (1914)."
+      "explanation_hi": "1855-1856 में संथाल विद्रोह हुआ; 1899-1900 में बिरसा मुंडा का उलगुलान हुआ; और ताना भगत आंदोलन 1914 में हुआ। सबसे पहले संथाल विद्रोह हुआ।",
+      "tip_hi": "आदिवासी समयरेखा: संथाल (1855-56) -> बिरसा मुंडा (1899-1900) -> ताना भगत (1914)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Santhal Rebellion was spearheaded by the four Murmu brothers: Sidhu, Kanhu, Chand, and Bhairav. None of their names appear in choices (A), (B), or (C), making (E) the correct response.",
-      "tip_hi": "Always verify leadership: Santhal Rebellion = Sidhu & Kanhu Murmu; Champaran = Raj Kumar Shukla; Peasant = Sahajanand."
+      "explanation_hi": "संथाल विद्रोह का नेतृत्व चार मुर्मू भाइयों ने किया था: सिद्धू, कान्हू, चांद और भैरव। उनमें से कोई भी नाम विकल्प (ए), (बी), या (सी) में नहीं है, जिससे (ई) सही प्रतिक्रिया है।",
+      "tip_hi": "नेतृत्व को हमेशा सत्यापित करें: संथाल विद्रोह = सिद्धू और कान्हू मुर्मू; चम्पारण = राज कुमार शुक्ल; किसान = सहजानन्द।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Bihar Youth League was established in 1928 at Motihari under the leadership of Prof. Gyan Saha to mobilize youth in the national freedom struggle.",
-      "tip_hi": "1928 saw the establishment of both the Bihar Youth League and the boycott of the Simon Commission across Bihar."
+      "explanation_hi": "राष्ट्रीय स्वतंत्रता संग्राम में युवाओं को संगठित करने के लिए प्रोफेसर ज्ञान साहा के नेतृत्व में 1928 में मोतिहारी में बिहार यूथ लीग की स्थापना की गई थी।",
+      "tip_hi": "1928 में बिहार यूथ लीग की स्थापना और पूरे बिहार में साइमन कमीशन का बहिष्कार हुआ।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bepin Behari Varma organized and led the Salt Satyagraha at Champaran on 6th अप्रैल 1930, where volunteers marched to make illegal salt.",
-      "tip_hi": "Salt Satyagraha in Champaran was led by Bepin Behari Varma; in Patna, it was led by Ambika Kant Sinha at Nakhas Pond."
+      "explanation_hi": "बिपिन बिहारी वर्मा ने 6 अप्रैल 1930 को चंपारण में नमक सत्याग्रह का आयोजन और नेतृत्व किया, जहां स्वयंसेवकों ने अवैध नमक बनाने के लिए मार्च किया।",
+      "tip_hi": "चंपारण में नमक सत्याग्रह का नेतृत्व बिपिन बिहारी वर्मा ने किया था; पटना में नखास तालाब पर इसका नेतृत्व अंबिका कांत सिन्हा ने किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -490,7 +490,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Champaran agrarian distress was brought up and formally discussed at the 31st Lucknow Session of the INC in दिसम्बर 1916. Since Lucknow 1916 is absent, (E) is the answer.",
+      "explanation_hi": "दिसंबर 1916 में कांग्रेस के 31वें लखनऊ सत्र में चंपारण कृषि संकट को उठाया गया और औपचारिक रूप से चर्चा की गई। चूंकि लखनऊ 1916 अनुपस्थित है, (ई) उत्तर है।",
       "tip_hi": "At Lucknow 1916, Raj Kumar Shukla met महात्मा गांधी and urged him to visit Champaran."
     },
     {
@@ -517,7 +517,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The probability P(E) of any event must satisfy 0 <= P(E) <= 1. Both -0.7 (negative) and 1.2 (> 1) cannot be probabilities of an event.",
+      "explanation_hi": "किसी भी घटना की प्रायिकता P(E) को 0 <= P(E) <= 1 को संतुष्ट करना होगा। -0.7 (नकारात्मक) और 1.2 (> 1) दोनों किसी घटना की प्रायिकताएं नहीं हो सकती हैं।",
       "tip_hi": "Since both (B) and (C) violate the probability axiom [0, 1], Option (D) ('उपर्युक्त में से एक से अधिक') is correct."
     },
     {
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The difference between 20% gain and 16% gain is 4% of Cost Price (CP). 4% of CP = ₹100 -> CP = (100 / 4) * 100 = ₹2,500.",
-      "tip_hi": "प्रतिशत difference shortcut: Difference in Profit % = Price difference. (20% - 16%) = 4% -> 100% = 25 * 100 = 2500."
+      "explanation_hi": "20% लाभ और 16% लाभ के बीच का अंतर लागत मूल्य (सीपी) का 4% है। सीपी का 4% = ₹100 -> सीपी = (100/4) * 100 = ₹2,500।",
+      "tip_hi": "प्रतिशत अंतर शॉर्टकट: लाभ में अंतर% = मूल्य अंतर। (20% - 16%) = 4% -> 100% = 25 * 100 = 2500।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rajasthan is India's leading producer of nutri-cereals / millets, especially pearl millet (bajra), accounting for over 27% of India's total millet output.",
-      "tip_hi": "Rajasthan leads in Bajra and total Millets; Karnataka leads in Ragi; Maharashtra leads in Jowar."
+      "explanation_hi": "राजस्थान भारत में पोषक अनाज/बाजरा, विशेष रूप से मोती बाजरा (बाजरा) का अग्रणी उत्पादक है, जो भारत के कुल बाजरा उत्पादन का 27% से अधिक है।",
+      "tip_hi": "बाजरा और कुल बाजरा में राजस्थान अग्रणी; रागी में कर्नाटक आगे; ज्वार में महाराष्ट्र आगे."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Zaid is the short summer cropping season (मार्च to जून). Watermelon, cucumber, and short-duration pulses like Moong are cultivated in this season.",
-      "tip_hi": "Zaid crops include cucurbits (Watermelon, Muskmelon, Cucumber) and quick pulses (Moong); hence Option (D) applies."
+      "explanation_hi": "ज़ैद गर्मियों की छोटी फसल का मौसम (मार्च से जून) है। इस मौसम में तरबूज, खीरा और मूंग जैसी कम अवधि वाली दालों की खेती की जाती है।",
+      "tip_hi": "जायद फसलों में खीरा (तरबूज, खरबूजा, ककड़ी) और त्वरित दालें (मूंग) शामिल हैं; इसलिए विकल्प (डी) लागू होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the IUCN classification taught in NCERT geography, species with small populations that could move into endangered categories if adverse factors continue are categorized as rare species.",
-      "tip_hi": "IUCN / NCERT definitions: Small population = Rare species; Facing imminent extinction = Endangered species; No living member = Extinct."
+      "explanation_hi": "एनसीईआरटी भूगोल में पढ़ाए जाने वाले आईयूसीएन वर्गीकरण के तहत, छोटी आबादी वाली प्रजातियां जो प्रतिकूल कारकों के जारी रहने पर लुप्तप्राय श्रेणियों में जा सकती हैं, उन्हें दुर्लभ प्रजातियों के रूप में वर्गीकृत किया गया है।",
+      "tip_hi": "IUCN / NCERT परिभाषाएँ: छोटी जनसंख्या = दुर्लभ प्रजातियाँ; आसन्न विलुप्ति का सामना करना = लुप्तप्राय प्रजातियाँ; कोई जीवित सदस्य नहीं = विलुप्त।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "के दौरान the Civil Disobedience Movement in Bihar, Mrs. Hasan Imam, Shrimati Mira Devi, and Miss Gauri Das actively led salt demonstrations and picketing.",
-      "tip_hi": "Women freedom fighters in Bihar Salt Satyagraha included Mrs. Hasan Imam, Mira Devi, Saraswati Devi, and Sadhana Devi."
+      "explanation_hi": "बिहार में सविनय अवज्ञा आंदोलन के दौरान, श्रीमती हसन इमाम, श्रीमती मीरा देवी और कुमारी गौरी दास ने सक्रिय रूप से नमक प्रदर्शन और धरना का नेतृत्व किया।",
+      "tip_hi": "बिहार नमक सत्याग्रह में महिला स्वतंत्रता सेनानियों में श्रीमती हसन इमाम, मीरा देवी, सरस्वती देवी और साधना देवी शामिल थीं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -734,7 +734,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Leaching is the pedological process where soluble plant nutrients and silica are washed downward through the soil profile in regions of heavy tropical rainfall, forming लेटराइट मिट्टी.",
-      "tip_hi": "Leaching directly involves both soil minerals and heavy rainfall conditions, prompting BPSC's official key (D)."
+      "tip_hi": "लीचिंग में सीधे तौर पर मिट्टी के खनिज और भारी वर्षा की स्थिति दोनों शामिल होती है, जो बीपीएससी की आधिकारिक कुंजी (डी) को प्रेरित करती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Aravallis (India) and the Appalachians (उत्तर America) are relict/ancient fold mountains formed hundreds of millions of वर्ष ago, unlike the young Tertiary fold mountains (Andes, Himalayas).",
-      "tip_hi": "Young fold mountains: Himalayas, Alps, Andes, Rockies. Old fold mountains: Aravallis, Appalachians, Urals."
+      "explanation_hi": "अरावली (भारत) और एपलाचियन (उत्तरी अमेरिका) युवा तृतीयक वलित पर्वतों (एंडीज, हिमालय) के विपरीत, सैकड़ों लाखों साल पहले बने अवशेष/प्राचीन वलित पर्वत हैं।",
+      "tip_hi": "युवा वलित पर्वत: हिमालय, आल्प्स, एंडीज़, रॉकीज़। पुराने वलित पर्वत: अरावली, एपलाचियन, यूराल।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -787,7 +787,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In India, primitive slash-and-burn shifting agriculture is called 'Bewar' or 'Dahiya' in Madhya Pradesh and 'Pama Dabi' or 'Koman' in Odisha. 'Milpa' is practiced in Mexico/Central America.",
+      "explanation_hi": "भारत में, आदिम स्लेश-एंड-बर्न शिफ्टिंग कृषि को मध्य प्रदेश में 'बेवर' या 'दहिया' और ओडिशा में 'पामा डाबी' या 'कोमान' कहा जाता है। 'मिल्पा' मेक्सिको/मध्य अमेरिका में प्रचलित है।",
       "tip_hi": "Local names in India: Bewar (MP), Podu (Andhra), Pama Dabi (Odisha), Jhum (उत्तर-पूर्व). Milpa is Mexico."
     },
     {
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar holds over 95% of India's total pyrite reserves, concentrated in the Amjhore region of Rohtas district.",
-      "tip_hi": "Pyrite (Iron sulphide / 'Fool's Gold') in India is virtually monopolized by Bihar (Rohtas district)."
+      "explanation_hi": "भारत के कुल पाइराइट भंडार का 95% से अधिक हिस्सा बिहार में है, जो रोहतास जिले के अमझोर क्षेत्र में केंद्रित है।",
+      "tip_hi": "भारत में पाइराइट (आयरन सल्फाइड / 'फूल्स गोल्ड') पर वस्तुतः बिहार (रोहतास जिला) का एकाधिकार है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Two major experimental geothermal energy pilot projects were established in India: one in Parvati Valley (Manikaran, Himachal Pradesh) and another in Puga Valley (Ladakh).",
-      "tip_hi": "As both Parvati Valley (HP) and Puga Valley (Ladakh) are operational geothermal sites, select Option (D)."
+      "explanation_hi": "भारत में दो प्रमुख प्रायोगिक भूतापीय ऊर्जा पायलट परियोजनाएँ स्थापित की गईं: एक पार्वती घाटी (मणिकरण, हिमाचल प्रदेश) में और दूसरी पुगा घाटी (लद्दाख) में।",
+      "tip_hi": "चूंकि पार्वती घाटी (एचपी) और पुगा घाटी (लद्दाख) दोनों चालू भू-तापीय स्थल हैं, विकल्प (डी) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -869,7 +869,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Iron and steel is a heavy, weight-losing क्षारीय mineral industry क्योंकि both its inputs (iron ore, coal, limestone) and finished outputs are heavy and bulky. Describing it as a light industry is false.",
-      "tip_hi": "Heavy industries consume bulky raw materials (Iron & Steel); Light industries produce compact goods (Electronics, Watches)."
+      "tip_hi": "भारी उद्योग भारी कच्चे माल (लोहा और इस्पात) की खपत करते हैं; हल्के उद्योग कॉम्पैक्ट सामान (इलेक्ट्रॉनिक्स, घड़ियाँ) का उत्पादन करते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rajkumari Amrit Kaur was the first female Cabinet Minister in independent India's Union Cabinet, serving as the Minister of Health from 1947 to 1957.",
-      "tip_hi": "First female राज्यपाल = Sarojini Naidu (UP); First female Cabinet Minister = Rajkumari Amrit Kaur; First female PM = Indira Gandhi."
+      "explanation_hi": "राजकुमारी अमृत कौर स्वतंत्र भारत के केंद्रीय मंत्रिमंडल में पहली महिला कैबिनेट मंत्री थीं, जिन्होंने 1947 से 1957 तक स्वास्थ्य मंत्री के रूप में कार्य किया।",
+      "tip_hi": "प्रथम महिला राज्यपाल = सरोजिनी नायडू (यूपी); प्रथम महिला कैबिनेट मंत्री = राजकुमारी अमृत कौर; प्रथम महिला प्रधानमंत्री = इंदिरा गांधी।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -923,7 +923,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Swatantra Party में स्थापित किया गया था 1959 by C. Rajagopalachari, advocating free enterprise, reduction of state control, and opposition to Nehru's socialist planning.",
-      "tip_hi": "Swatantra Party (1959) = C. Rajagopalachari, Minoo Masani, N.G. Ranga; Swaraj Party (1923) = C.R. Das and Motilal Nehru."
+      "tip_hi": "स्वतंत्र पार्टी (1959) = सी. राजगोपालाचारी, मीनू मसानी, एन.जी. रंगा; स्वराज पार्टी (1923) = सी.आर. दास और मोतीलाल नेहरू।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -950,7 +950,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Seventh अनुसूची (अनुच्छेद 246) defines legislative powers divided into three lists: List I (Union List), List II (State List), and List III (Concurrent List).",
-      "tip_hi": "Schedules mnemonic: 7th = Division of Powers (Union, State, Concurrent Lists); 8th = Official Languages; 5th = Scheduled Areas."
+      "tip_hi": "अनुसूचियाँ स्मरणीय: 7वीं = शक्तियों का विभाजन (संघ, राज्य, समवर्ती सूचियाँ); आठवां = राजभाषाएँ; 5वां = अनुसूचित क्षेत्र।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fishing is an extraction activity belonging to the primary sector. Transport and Banking provide commercial services belonging to the tertiary sector. Since two do not belong, (D) is correct.",
-      "tip_hi": "Primary = Agriculture, Mining, Fishing, Forestry; Secondary = Manufacturing; Tertiary = Transport, Banking, Insurance."
+      "explanation_hi": "मछली पकड़ना प्राथमिक क्षेत्र से संबंधित एक निष्कर्षण गतिविधि है। परिवहन और बैंकिंग तृतीयक क्षेत्र से संबंधित वाणिज्यिक सेवाएँ प्रदान करते हैं। चूँकि दो संबंधित नहीं हैं, (डी) सही है।",
+      "tip_hi": "प्राथमिक = कृषि, खनन, मछली पकड़ना, वानिकी; माध्यमिक = विनिर्माण; तृतीयक = परिवहन, बैंकिंग, बीमा।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -1058,7 +1058,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "According to जनगणना 2011, Rohtas district recorded the highest overall साक्षरता दर (73.37%) as well as the highest rural साक्षरता दर in Bihar.",
-      "tip_hi": "Bihar Literacy: Highest overall and rural literacy = Rohtas; Lowest overall and rural literacy = Purnea."
+      "tip_hi": "बिहार साक्षरता: उच्चतम समग्र और ग्रामीण साक्षरता = रोहतास; न्यूनतम समग्र एवं ग्रामीण साक्षरता = पूर्णिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "M1 (currency with public + demand deposits + other deposits with RBI) is immediately spendable and has the highest liquidity. M4/M3 represents broad money with lower liquidity.",
-      "tip_hi": "Liquidity hierarchy: M1 > M2 > M3 > M4. M1 is narrow money with maximum liquidity; M3 is broad money.\nAnswer Key Summary Table — Set 2 (Q.41 to Q.80)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+      "explanation_hi": "एम1 (सार्वजनिक मुद्रा + मांग जमा + आरबीआई के पास अन्य जमा) तुरंत खर्च करने योग्य है और इसमें उच्चतम तरलता है। M4/M3 कम तरलता के साथ व्यापक धन का प्रतिनिधित्व करता है।",
+      "tip_hi": "तरलता पदानुक्रम: M1 > M2 > M3 > M4. एम1 अधिकतम तरलता वाली संकीर्ण मुद्रा है; एम3 व्यापक धन है।\nउत्तर कुंजी सारांश तालिका - सेट 2 (प्र.41 से प्र.80)\nप्र. नहीं.\nबीपीएससी संस्करण और पेपर उत्पत्ति\nकोर कॉन्सेप्ट का परीक्षण किया गया\nआधिकारिक कुंजी"
     }
   ]
 }

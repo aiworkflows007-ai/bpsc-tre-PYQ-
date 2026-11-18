@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Genetics is the branch of biological science that investigates the mechanisms of heredity, gene transmission, and variation across generations.",
-      "tip_hi": "Father of Genetics = Gregor Johann Mendel; Cytology = study of cells; Microbiology = study of microbes."
+      "explanation_hi": "आनुवंशिकी जैविक विज्ञान की वह शाखा है जो आनुवंशिकता, जीन संचरण और पीढ़ियों के बीच भिन्नता के तंत्र की जांच करती है।",
+      "tip_hi": "आनुवंशिकी के जनक = ग्रेगर जोहान मेंडल; कोशिका विज्ञान = कोशिकाओं का अध्ययन; सूक्ष्म जीव विज्ञान = सूक्ष्म जीवों का अध्ययन।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Primes between 1 and 50: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 (total exactly 15 numbers).",
-      "tip_hi": "Standard prime counts to memorize: 1 to 50 = 15 primes; 51 to 100 = 10 primes; total 1 to 100 = 25 primes."
+      "explanation_hi": "1 और 50 के बीच अभाज्य संख्याएँ: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47 (कुल ठीक 15 संख्याएँ)।",
+      "tip_hi": "याद रखने के लिए मानक अभाज्य संख्याएँ: 1 से 50 = 15 अभाज्य; 51 से 100 = 10 अभाज्य; कुल 1 से 100 = 25 अभाज्य संख्याएँ।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The coefficients satisfy a1/a2 = b1/b2 = c1/c2 = 1/2 (coincident lines), meaning infinitely many solution जोड़े exist. Unique individual prices cannot be determined.",
-      "tip_hi": "When the सेकंड equation is an exact scalar multiple of the first, unique values do not exist; select Option (E)."
+      "explanation_hi": "गुणांक a1/a2 = b1/b2 = c1/c2 = 1/2 (संपाती रेखाएं) को संतुष्ट करते हैं, जिसका अर्थ है कि अनंत रूप से कई समाधान जोड़े मौजूद हैं। अद्वितीय व्यक्तिगत कीमतें निर्धारित नहीं की जा सकतीं।",
+      "tip_hi": "जब दूसरा समीकरण पहले समीकरण का सटीक अदिश गुणज होता है, तो अद्वितीय मान मौजूद नहीं होते हैं; विकल्प (ई) चुनें।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The All-India Congress Committee officially ratified the historic Quit India Resolution on 8th अगस्त 1942 at Gowalia Tank Maidan, Bombay.",
+      "explanation_hi": "अखिल भारतीय कांग्रेस कमेटी ने 8 अगस्त 1942 को गोवालिया टैंक मैदान, बॉम्बे में ऐतिहासिक भारत छोड़ो प्रस्ताव की आधिकारिक पुष्टि की।",
       "tip_hi": "8 अगस्त 1942 = Resolution passed ('Do or Die'); 9 अगस्त 1942 = Operation Zero घंटे arrests launched."
     },
     {
@@ -167,7 +167,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Swami Vidyanand led peasant movements across उत्तर Bihar (particularly against the Darbhanga Raj) के दौरान the Non-Cooperation period (1919-1922).",
-      "tip_hi": "Champaran 1917 = Raj Kumar Shukla; Non-Cooperation 1919-22 = Swami Vidyanand; Kisan Sabha 1929-36 = Swami Sahajanand."
+      "tip_hi": "चम्पारण 1917 = राज कुमार शुक्ल; असहयोग 1919-22 = स्वामी विद्यानन्द; किसान सभा 1929-36 = स्वामी सहजानन्द।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Science (Classes 9-10)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Wave frequency depends solely on the source producing the wave; upon entering a new medium, speed and wavelength change, but frequency remains constant.",
-      "tip_hi": "v = f * lambda. In अपवर्तन: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change."
+      "explanation_hi": "तरंग आवृत्ति पूरी तरह से तरंग उत्पन्न करने वाले स्रोत पर निर्भर करती है; किसी नए माध्यम में प्रवेश करने पर गति और तरंगदैर्ध्य बदल जाती है, लेकिन आवृत्ति स्थिर रहती है।",
+      "tip_hi": "वी = एफ * लैम्ब्डा. अपवर्तन में: आवृत्ति (f) अपरिवर्तनीय रहती है; वेग (v) और तरंग दैर्ध्य (लैम्ब्डा) बदलते हैं।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
@@ -221,7 +221,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Marine phytoplankton, algae, and oceanic vegetation contribute over 50-70% of atmospheric oxygen production through global marine प्रकाश संश्लेषण.",
-      "tip_hi": "Do not default to terrestrial forests; ocean phytoplankton produces the majority of Earth's oxygen."
+      "tip_hi": "स्थलीय वनों में चूक न करें; महासागर फाइटोप्लांकटन पृथ्वी की अधिकांश ऑक्सीजन का उत्पादन करता है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Net multiplier = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72. Selling Price = 800 * 0.72 = ₹576. (Single equivalent discount = 20 + 10 - (20*10)/100 = 28%).",
-      "tip_hi": "SP = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576."
+      "explanation_hi": "शुद्ध गुणक = (1 - 0.20) * (1 - 0.10) = 0.80 * 0.90 = 0.72। विक्रय मूल्य = 800 * 0.72 = ₹576। (एकल समतुल्य छूट = 20 + 10 - (20*10)/100 = 28%)।",
+      "tip_hi": "एसपी = 800 * 0.8 * 0.9 = 800 * 0.72 = ₹576।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of equilateral triangle = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 sq सेमी.",
-      "tip_hi": "Area = (√3 / 4) * 144 = 36√3 cm²."
+      "explanation_hi": "समबाहु त्रिभुज का क्षेत्रफल = (√3 / 4) * a^2 = (√3 / 4) * (12)^2 = (√3 / 4) * 144 = 36√3 वर्ग सेमी.",
+      "tip_hi": "क्षेत्रफल = (√3 / 4) * 144 = 36√3 सेमी²।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "a/c = (a/b) * (b/c) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3. Therefore, a : c = 2 : 3.",
-      "tip_hi": "a/c = (3/4) * (8/9) = 2/3 => 2 : 3."
+      "explanation_hi": "ए/सी = (ए/बी) * (बी/सी) = (3/4) * (8/9) = (3 * 8) / (4 * 9) = 24 / 36 = 2/3। इसलिए, a : c = 2 : 3.",
+      "tip_hi": "ए/सी = (3/4) * (8/9) = 2/3 => 2 : 3."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "If every observation in a statistical distribution is multiplied by a constant 'k', the new mean is also multiplied by 'k'. New mean = 15 * 3 = 45.",
-      "tip_hi": "Property of Mean: If all observations are multiplied by k, New Mean = Old Mean * k = 15 * 3 = 45."
+      "explanation_hi": "यदि सांख्यिकीय वितरण में प्रत्येक अवलोकन को एक स्थिरांक 'k' से गुणा किया जाता है, तो नया माध्य भी 'k' से गुणा किया जाता है। नया माध्य = 15 * 3 = 45.",
+      "tip_hi": "माध्य की संपत्ति: यदि सभी अवलोकनों को k से गुणा किया जाता है, तो नया माध्य = पुराना माध्य * k = 15 * 3 = 45।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -383,7 +383,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 किमी (g = GM/R^2). Furthermore, अपकेंद्रीय बल due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
-      "tip_hi": "Value of 'g': Maximum at Poles, Minimum at Equator, Zero at the Centre of the Earth."
+      "tip_hi": "'जी' का मान: ध्रुवों पर अधिकतम, भूमध्य रेखा पर न्यूनतम, पृथ्वी के केंद्र पर शून्य।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -410,7 +410,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the गंगा नदी in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of डॉ. राजेंद्र प्रसाद.",
-      "tip_hi": "Sadaqat Ashram founded by Mazharul Haque; Land donated by Khairun Mian."
+      "tip_hi": "मजहरुल हक द्वारा स्थापित सदाकत आश्रम; खैरुन मियां द्वारा दान में दी गई जमीन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Barauni Refinery of Indian Oil Corporation Limited (IOCL) is situated in Begusarai district, commissioned in 1964. It processes crude oil transported via pipeline from Naharkatiya in Assam.",
-      "tip_hi": "Barauni Oil Refinery = Begusarai (1964, built with USSR and Romanian collaboration)."
+      "explanation_hi": "इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) की बरौनी रिफाइनरी बेगुसराय जिले में स्थित है, जिसे 1964 में चालू किया गया था। यह असम के नाहरकटिया से पाइपलाइन के माध्यम से लाए गए कच्चे तेल का प्रसंस्करण करती है।",
+      "tip_hi": "बरौनी तेल रिफाइनरी = बेगुसराय (1964, यूएसएसआर और रोमानियाई सहयोग से निर्मित)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -491,7 +491,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Downstream speed (D) = 36 / 3 = 12 किमी/h. Upstream speed (U) = 24 / 4 = 6 किमी/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/h. (Speed of boat in still water = (12 + 6)/2 = 9 किमी/h).",
-      "tip_hi": "Current speed = (Downstream - Upstream) / 2 = (12 - 6) / 2 = 3 किमी/h."
+      "tip_hi": "वर्तमान गति = (डाउनस्ट्रीम - अपस्ट्रीम) / 2 = (12 - 6) / 2 = 3 किमी/घंटा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Simple Interest = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200.",
-      "tip_hi": "SI = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200."
+      "explanation_hi": "साधारण ब्याज = (पी * आर * टी) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200।",
+      "tip_hi": "एसआई = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रतिशत reduction in consumption = [R / (100 + R)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%.",
-      "tip_hi": "Formula: R/(100 + R) * 100 = 25/125 * 100 = 20%."
+      "explanation_hi": "खपत में प्रतिशत कमी = [आर / (100 + आर)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%।",
+      "tip_hi": "सूत्र: आर/(100 + आर) * 100 = 25/125 * 100 = 20%।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ratio of profit = (Capital A * Time A) : (Capital B * Time B) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.",
-      "tip_hi": "Profit ratio = Investment * Time = 4*10 : 5*8 = 40 : 40 = 1 : 1."
+      "explanation_hi": "लाभ का अनुपात = (पूंजी ए * समय ए) : (पूंजी बी * समय बी) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.",
+      "tip_hi": "लाभ अनुपात = निवेश * समय = 4*10 : 5*8 = 40 : 40 = 1 : 1."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of trapezium = (1/2) * (Sum of parallel sides) * Height = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 sq सेमी.",
-      "tip_hi": "Area = 1/2 * (a + b) * h = 1/2 * 24 * 8 = 96 cm²."
+      "explanation_hi": "समलंब का क्षेत्रफल = (1/2) * (समानांतर भुजाओं का योग) * ऊँचाई = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 वर्ग सेमी।",
+      "tip_hi": "क्षेत्रफल = 1/2 * (ए + बी) * एच = 1/2 * 24 * 8 = 96 सेमी²।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under Lindeman's 10% law, only ~10% of chemical energy is transferred and incorporated into consumer biomass at the successive trophic level. Therefore, approximately 90% is dissipated as heat, cellular श्वसन, and unconsumed waste.",
-      "tip_hi": "Energy Transferred = 10%; Energy Lost as heat/श्वसन = 90%."
+      "explanation_hi": "लिंडमैन के 10% कानून के तहत, केवल ~10% रासायनिक ऊर्जा को क्रमिक पोषी स्तर पर उपभोक्ता बायोमास में स्थानांतरित और शामिल किया जाता है। इसलिए, लगभग 90% गर्मी, सेलुलर श्वसन और बिना उपभोग किए गए अपशिष्ट के रूप में नष्ट हो जाता है।",
+      "tip_hi": "हस्तांतरित ऊर्जा = 10%; ऊष्मा/श्वसन के रूप में नष्ट हुई ऊर्जा = 90%।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Mazharul Haque started 'The Motherland' on 30 सितम्बर 1921 from Sadaqat Ashram to propagate Hindu-Muslim unity and the non-cooperation program, facing colonial censorship and imprisonment for his fiery editorials.",
-      "tip_hi": "'The Motherland' (1921) = Founded by Maulana Mazharul Haque from Sadaqat Ashram."
+      "explanation_hi": "मौलाना मजहरुल हक ने अपने उग्र संपादकीय के लिए औपनिवेशिक सेंसरशिप और कारावास का सामना करते हुए, हिंदू-मुस्लिम एकता और असहयोग कार्यक्रम का प्रचार करने के लिए 30 सितंबर 1921 को सदाकत आश्रम से 'द मदरलैंड' की शुरुआत की।",
+      "tip_hi": "'द मदरलैंड' (1921) = सदाकत आश्रम के मौलाना मजहरुल हक द्वारा स्थापित।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",

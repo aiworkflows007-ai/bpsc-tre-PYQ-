@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance = Speed * Time = 15 m/s * 20 s = 300 metres.",
+      "explanation_hi": "मी/से. में गति = 54 * (5/18) = 15 मी/से. दूरी = गति * समय = 15 मी/से * 20 सेकण्ड = 300 मीटर।",
       "tip_hi": "Multiply किमी/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m."
     },
     {
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of circle is proportional to r^2. If r becomes 0.5r, new area = (0.5)^2 * original area = 0.25 * original area. प्रतिशत reduction = (1 - 0.25) * 100 = 75%.",
-      "tip_hi": "Successive प्रतिशत formula: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%."
+      "explanation_hi": "वृत्त का क्षेत्रफल r^2 के समानुपाती होता है। यदि r 0.5r हो जाता है, तो नया क्षेत्रफल = (0.5)^2 * मूल क्षेत्रफल = 0.25 * मूल क्षेत्रफल। प्रतिशत में कमी = (1 - 0.25) * 100 = 75%।",
+      "tip_hi": "क्रमिक प्रतिशत सूत्र: -50 - 50 + (-50*-50)/100 = -100 + 25 = -75%।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Winner's vote % = 58%. Loser's vote % = 100 - 58 = 42%. Difference = 58% - 42% = 16%. Given 16% of total votes = 1,600. Total valid votes = (1,600 / 16) * 100 = 10,000.",
-      "tip_hi": "Margin = 58% - 42% = 16% = 1,600 votes => 1% = 100 votes => 100% = 10,000 votes."
+      "explanation_hi": "विजेता का वोट %=58%. हारने वाले का वोट % = 100 - 58 = 42%। अंतर = 58% - 42% = 16%। कुल वोटों का 16% = 1,600 दिया गया है। कुल वैध वोट = (1,600 / 16) * 100 = 10,000।",
+      "tip_hi": "मार्जिन = 58% - 42% = 16% = 1,600 वोट => 1% = 100 वोट => 100% = 10,000 वोट।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Squaring both sides: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. Therefore, x^2 + 1/x^2 = 16 - 2 = 14.",
-      "tip_hi": "Standard identity: If x + 1/x = k, then x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14."
+      "explanation_hi": "दोनों पक्षों का वर्ग करने पर: (x + 1/x)^2 = x^2 + 1/x^2 + 2 = 4^2 = 16. इसलिए, x^2 + 1/x^2 = 16 - 2 = 14.",
+      "tip_hi": "मानक पहचान: यदि x + 1/x = k, तो x^2 + 1/x^2 = k^2 - 2 = 4^2 - 2 = 14."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Combined rate = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 of cistern per मिनट. Time required = 12 मिनट.",
+      "explanation_hi": "संयुक्त दर = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 टंकी प्रति मिनट। आवश्यक समय = 12 मिनट.",
       "tip_hi": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट."
     },
     {
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Angle = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.",
-      "tip_hi": "Standard clock formula: |30*H - 5.5*M| = |90 - 165| = 75°."
+      "explanation_hi": "कोण = |30H - (11/2)M| = |30(3) - (11/2)(30)| = |90 - 165| = 75°.",
+      "tip_hi": "मानक घड़ी सूत्र: |30*एच - 5.5*एम| = |90 - 165| = 75°."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rank from bottom = (Total students - Rank from top) + 1 = (45 - 18) + 1 = 27 + 1 = 28th.",
-      "tip_hi": "Total = Top + Bottom - 1 => Bottom = Total - Top + 1 = 45 - 18 + 1 = 28th."
+      "explanation_hi": "नीचे से रैंक = (कुल छात्र - ऊपर से रैंक) + 1 = (45 - 18) + 1 = 27 + 1 = 28वां।",
+      "tip_hi": "कुल = शीर्ष + निचला - 1 => निचला = कुल - शीर्ष + 1 = 45 - 18 + 1 = 28वाँ।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern is (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159.",
-      "tip_hi": "Differences are 5, 10, 20, 40, so next difference is 80. 79 + 80 = 159."
+      "explanation_hi": "पैटर्न है (*2 + 1): 4*2+1=9, 9*2+1=19, 19*2+1=39, 39*2+1=79, 79*2+1=159।",
+      "tip_hi": "अंतर 5, 10, 20, 40 हैं, इसलिए अगला अंतर 80 है। 79 + 80 = 159।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -247,7 +247,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Diamond has a very high refractive index (2.42), which results in an exceptionally small critical angle of approximately 24.4°. Light entering a properly cut diamond undergoes multiple total internal reflections before emerging.",
+      "explanation_hi": "हीरे का अपवर्तनांक बहुत अधिक (2.42) होता है, जिसके परिणामस्वरूप लगभग 24.4° का असाधारण छोटा क्रांतिक कोण बनता है। ठीक से काटे गए हीरे में प्रवेश करने वाला प्रकाश उभरने से पहले कई पूर्ण आंतरिक प्रतिबिंबों से गुजरता है।",
       "tip_hi": "Diamond brilliance = पूर्ण आंतरिक परावर्तन (TIR) + high refractive index (2.42)."
     },
     {
@@ -356,7 +356,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and सोडियम हाइड्रॉक्साइड (NaOH). It possesses a lustrous silk-like appearance and soft texture.",
-      "tip_hi": "Artificial Silk = Rayon (from wood pulp); First fully synthetic fibre = Nylon."
+      "tip_hi": "कृत्रिम रेशम = रेयान (लकड़ी के गूदे से); प्रथम पूर्ण सिंथेटिक फाइबर = नायलॉन।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Blood group O Negative has neither A nor B antigens, and also lacks the Rh(D) factor. Consequently, it can be transfused safely to recipients of any ABO and Rh blood group without triggering acute hemolytic agglutination.",
-      "tip_hi": "Universal Donor = O Negative (O-); Universal Recipient = AB Positive (AB+)."
+      "explanation_hi": "रक्त समूह ओ नेगेटिव में न तो ए और न ही बी एंटीजन होता है, और इसमें Rh(D) कारक का भी अभाव होता है। नतीजतन, इसे तीव्र हेमोलिटिक एग्लूटिनेशन को ट्रिगर किए बिना किसी भी एबीओ और आरएच रक्त समूह के प्राप्तकर्ताओं को सुरक्षित रूप से ट्रांसफ़्यूज़ किया जा सकता है।",
+      "tip_hi": "सार्वभौमिक दाता = ओ नकारात्मक (ओ-); सार्वभौमिक प्राप्तकर्ता = एबी पॉजिटिव (एबी+)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formulated by Robert Boyle in 1662, Boyle's law states that at constant temperature (T), P * V = constant, meaning pressure and volume vary inversely. Charles's law relates volume and temperature at constant pressure.",
-      "tip_hi": "Constant T => Boyle's Law (P ∝ 1/V); Constant P => Charles's Law (V ∝ T)."
+      "explanation_hi": "1662 में रॉबर्ट बॉयल द्वारा तैयार, बॉयल का नियम बताता है कि स्थिर तापमान (टी) पर, पी * वी = स्थिरांक, जिसका अर्थ है कि दबाव और आयतन विपरीत रूप से भिन्न होते हैं। चार्ल्स का नियम स्थिर दबाव पर आयतन और तापमान से संबंधित है।",
+      "tip_hi": "स्थिरांक T => बॉयल का नियम (P ∝ 1/V); स्थिरांक P => चार्ल्स का नियम (V ∝ T)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -437,7 +437,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 सितम्बर 1987 (commemorated globally as World Ozone दिन) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.",
-      "tip_hi": "Ozone Layer protection = Montreal Protocol (1987); Greenhouse Gas reduction = Kyoto Protocol (1997)."
+      "tip_hi": "ओजोन परत संरक्षण = मॉन्ट्रियल प्रोटोकॉल (1987); ग्रीनहाउस गैस कटौती = क्योटो प्रोटोकॉल (1997)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -464,7 +464,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Ghadar Party में स्थापित किया गया था 1913 by Lala Har Dayal, Sohan Singh Bhakna (राष्ट्रपति), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
-      "tip_hi": "Ghadar Party = San Francisco (1913), Lala Har Dayal & Sohan Singh Bhakna."
+      "tip_hi": "ग़दर पार्टी = सैन फ्रांसिस्को (1913), लाला हर दयाल और सोहन सिंह भकना।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pandit Karyanand Sharma organized the famous Barahiya Tal (Munger) Bakhasht peasant movement के दौरान 1936-39 demanding the restoration of tenant lands expropriated by oppressive zamindars.",
-      "tip_hi": "Barahiya Tal Bakhasht agitation = Karyanand Sharma; Reora (Gaya) agitation = Yadunandan Sharma."
+      "explanation_hi": "पंडित कार्यानंद शर्मा ने 1936-39 के दौरान दमनकारी जमींदारों द्वारा छीनी गई काश्तकारी भूमि की बहाली की मांग को लेकर प्रसिद्ध बरहिया ताल (मुंगेर) बखाश्त किसान आंदोलन का आयोजन किया।",
+      "tip_hi": "बरहिया ताल बखश्त आन्दोलन = कार्यानन्द शर्मा; रेउरा (गया) आंदोलन=यदुनंदन शर्मा."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Barabar rock-cut caves (Karan Chaupar, Lomas Rishi, Sudama, and Vishwa Zopri) were carved out under Mauryan Emperor Ashoka and his grandson Dasharatha specifically for the monks of the Ajivika sect founded by Makkhali Gosala.",
-      "tip_hi": "Barabar Caves (Jehanabad) = Donated by Ashoka to Ajivika monks (Makkhali Gosala)."
+      "explanation_hi": "बाराबर रॉक-कट गुफाएं (करण चौपर, लोमस ऋषि, सुदामा और विश्व ज़ोपरी) मौर्य सम्राट अशोक और उनके पोते दशरथ के तहत विशेष रूप से मक्खली गोसाला द्वारा स्थापित आजीविका संप्रदाय के भिक्षुओं के लिए बनाई गई थीं।",
+      "tip_hi": "बराबर गुफाएँ (जहानाबाद) = अशोक द्वारा आजीवक भिक्षुओं (मक्खलि गोशाल) को दान में दी गयीं।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Indira Point (formerly Pygmalion Point / Parsons Point) located at 6°45' N latitude on Great Nicobar Island is the southernmost point of India. Kanyakumari (8°4' N) is the southernmost point of the Indian mainland.",
-      "tip_hi": "Southernmost of entire India = Indira Point (Great Nicobar); Southernmost of Mainland = Kanyakumari."
+      "explanation_hi": "ग्रेट निकोबार द्वीप पर 6°45' उत्तर अक्षांश पर स्थित इंदिरा प्वाइंट (पूर्व में पाइग्मेलियन प्वाइंट/पार्सन्स प्वाइंट) भारत का सबसे दक्षिणी बिंदु है। कन्याकुमारी (8°4' उत्तर) भारतीय मुख्य भूमि का सबसे दक्षिणी बिंदु है।",
+      "tip_hi": "संपूर्ण भारत का सबसे दक्षिणी भाग = इंदिरा प्वाइंट (ग्रेट निकोबार); मुख्यभूमि का सबसे दक्षिणी भाग = कन्याकुमारी।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "High-grade limestone belonging to the Vindhyan geological system occurs along the Kaimur plateau in Rohtas (Banjari, Rohtasgarh) and Kaimur districts, supporting major cement plants at Dalmianagar and Banjari.",
-      "tip_hi": "Limestone & Pyrite = Rohtas / Kaimur (Vindhyan rocks); Mica = Nawada / Gaya / Jamui."
+      "explanation_hi": "विंध्य भूवैज्ञानिक प्रणाली से संबंधित उच्च श्रेणी का चूना पत्थर रोहतास (बंजारी, रोहतासगढ़) और कैमूर जिलों में कैमूर पठार के साथ होता है, जो डालमियानगर और बंजारी में प्रमुख सीमेंट संयंत्रों का समर्थन करता है।",
+      "tip_hi": "चूना पत्थर एवं पाइराइट = रोहतास/कैमूर (विंध्य चट्टानें); अभ्रक=नवादा/गया/जमुई."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -653,7 +653,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in नवम्बर 1932 to avenge the martyrdom of भगत सिंह, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 मई 1934.",
-      "tip_hi": "Assassination of approver Phanindra Nath Ghosh = Baikunth Shukla (hanged at Gaya Jail 1934)."
+      "tip_hi": "अनुमोदक फणीन्द्र नाथ घोष की हत्या = बैकुंठ शुक्ल (गया जेल में फाँसी 1934)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -680,7 +680,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Tropic of Cancer passes through 8 Indian States from पश्चिम to पूर्व: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, and Mizoram.",
-      "tip_hi": "Mnemonic: 'मित्र पर गमछा झार' (Mizoram, Tripura, W.Bengal, Rajasthan, Gujarat, MP, Chhattisgarh, Jharkhand)."
+      "tip_hi": "स्मरणीय: 'मित्र पर गमछा ज़ार' (मिजोरम, त्रिपुरा, पश्चिम बंगाल, राजस्थान, गुजरात, मध्य प्रदेश, छत्तीसगढ़, झारखंड)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Palk Strait, situated between the Tamil Nadu coast of India and the Jaffna peninsula of Sri Lanka, connects the Bay of Bengal with Palk Bay and the Gulf of Mannar.",
-      "tip_hi": "India and Sri Lanka = Palk Strait & Gulf of Mannar; Andaman and Nicobar = 10 डिग्री Channel."
+      "explanation_hi": "भारत के तमिलनाडु तट और श्रीलंका के जाफना प्रायद्वीप के बीच स्थित पाक जलडमरूमध्य बंगाल की खाड़ी को पाक खाड़ी और मन्नार की खाड़ी से जोड़ता है।",
+      "tip_hi": "भारत और श्रीलंका = पाक जलडमरूमध्य और मन्नार की खाड़ी; अंडमान और निकोबार = 10 डिग्री चैनल।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Wular Lake, situated in Bandipora district of Jammu & Kashmir and fed by the Jhelum River, is a tectonic depression lake recognized as India's largest natural freshwater lake and a designated Ramsar site.",
-      "tip_hi": "Largest freshwater lake in India = Wular Lake (J&K); Largest brackish/saltwater lagoon = Chilika Lake (Odisha)."
+      "explanation_hi": "वुलर झील, जम्मू और कश्मीर के बांदीपुरा जिले में स्थित है और झेलम नदी द्वारा पोषित है, एक टेक्टोनिक अवसाद झील है जिसे भारत की सबसे बड़ी प्राकृतिक ताजे पानी की झील और एक नामित रामसर साइट के रूप में मान्यता प्राप्त है।",
+      "tip_hi": "भारत में मीठे पानी की सबसे बड़ी झील = वुलर झील (जम्मू-कश्मीर); सबसे बड़ी खारे/खारे पानी की लैगून = चिल्का झील (ओडिशा)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -815,7 +815,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "प्रधानमंत्री Narendra Modi announced that the landing site of Vikram lander on 23 अगस्त 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 अगस्त declared 'National Space दिन'.",
-      "tip_hi": "Chandrayaan-3 touchdown = Shiv Shakti Point; Chandrayaan-2 impact = Tiranga Point; 23 अगस्त = National Space दिन."
+      "tip_hi": "चंद्रयान-3 टचडाउन = शिव शक्ति बिंदु; चंद्रयान-2 प्रभाव =तिरंगा बिंदु; 23 अगस्त = राष्ट्रीय अंतरिक्ष दिवस."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -842,7 +842,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Time difference = 11 - 5 = 6 मिनट = 6/60 घंटे = 1/10 घंटे. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 किमी.",
-      "tip_hi": "Distance = (S1*S2)/(S2-S1) * (Delta T) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी."
+      "tip_hi": "दूरी = (एस1*एस2)/(एस2-एस1) * (डेल्टा टी) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -868,7 +868,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let present ages be 7x and 2x. In 10 वर्ष: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. Father's age = 7x = 7 * 5 = 35 वर्ष.",
+      "explanation_hi": "माना वर्तमान आयु 7x और 2x है। 10 वर्षों में: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. पिता की आयु = 7x = 7 * 5 = 35 वर्ष।",
       "tip_hi": "Ratio units: (9-7)=2 units in 10 वर्ष => 1 unit = 5 वर्ष. Father = 7 units = 35 वर्ष."
     },
     {
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let CP = 100x. SP1 = 115x. New CP = 90x. SP2 = 90x * 1.25 = 112.5x. Difference in SP = 115x - 112.5x = 2.5x. Given 2.5x = 4 => x = 4 / 2.5 = 1.6. CP = 100x = ₹160.",
-      "tip_hi": "115x - 90x * 1.25 = 2.5x = ₹4 => CP = 4 * (100 / 2.5) = ₹160."
+      "explanation_hi": "माना CP = 100x. SP1 = 115x. नया सीपी = 90x. SP2 = 90x * 1.25 = 112.5x. एसपी में अंतर = 115x - 112.5x = 2.5x. दिया गया है 2.5x = 4 => x = 4 / 2.5 = 1.6। सीपी = 100x = ₹160।",
+      "tip_hi": "115x - 90x * 1.25 = 2.5x = ₹4 => सीपी = 4 * (100 / 2.5) = ₹160।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -923,7 +923,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In 60 लीटर: Milk = 40 L, Water = 20 L. Let 'x' लीटर of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर.",
-      "tip_hi": "Milk remains constant at 40 L. In 1:2 ratio, 1 unit = 40 L, so water must be 2 units = 80 L. Added water = 80 - 20 = 60 L."
+      "tip_hi": "दूध 40 लीटर पर स्थिर रहता है। 1:2 के अनुपात में, 1 इकाई = 40 लीटर, इसलिए पानी 2 इकाई = 80 लीटर होना चाहिए। जोड़ा गया पानी = 80 - 20 = 60 लीटर।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vitamin C (ascorbic acid) is a water-soluble antioxidant vitamin found abundantly in citrus fruits and amla. Its severe deficiency leads to scurvy, characterized by spongy bleeding gums and delayed wound healing.",
-      "tip_hi": "Ascorbic acid = Vitamin C (Scurvy); Retinol = Vitamin A; Calciferol = Vitamin D; Tocopherol = Vitamin E."
+      "explanation_hi": "विटामिन सी (एस्कॉर्बिक एसिड) एक पानी में घुलनशील एंटीऑक्सीडेंट विटामिन है जो खट्टे फलों और आंवले में प्रचुर मात्रा में पाया जाता है। इसकी गंभीर कमी से स्कर्वी रोग हो जाता है, जिसमें मसूड़ों से स्पंजी रक्तस्राव और घाव देर से भरने की विशेषता होती है।",
+      "tip_hi": "एस्कॉर्बिक एसिड = विटामिन सी (स्कर्वी); रेटिनोल = विटामिन ए; कैल्सीफेरॉल = विटामिन डी; टोकोफ़ेरॉल = विटामिन ई."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Babu Jagjivan Ram, born in Chandwa (Bhojpur, Bihar), founded the All India Depressed Classes League in 1935 to mobilize scheduled castes for national independence and civil rights.",
-      "tip_hi": "All India Depressed Classes League (1935) = Babu Jagjivan Ram; All India Scheduled Castes Federation = Dr. B. R. Ambedkar."
+      "explanation_hi": "चंदवा (भोजपुर, बिहार) में जन्मे बाबू जगजीवन राम ने राष्ट्रीय स्वतंत्रता और नागरिक अधिकारों के लिए अनुसूचित जातियों को संगठित करने के लिए 1935 में अखिल भारतीय दलित वर्ग लीग की स्थापना की।",
+      "tip_hi": "अखिल भारतीय दलित वर्ग लीग (1935) = बाबू जगजीवन राम; अखिल भारतीय अनुसूचित जाति महासंघ = डॉ. बी.आर. अम्बेडकर।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -1057,7 +1057,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "While an informal group formed in 1931, the formal founding convention of the Bihar Socialist Party (and foundation of Congress Socialist Party) took place at Anjuman Islamia Hall, Patna on 17 मई 1934 under Acharya Narendra Deva.",
+      "explanation_hi": "जबकि 1931 में एक अनौपचारिक समूह का गठन हुआ, बिहार सोशलिस्ट पार्टी (और कांग्रेस सोशलिस्ट पार्टी की स्थापना) का औपचारिक संस्थापक सम्मेलन 17 मई 1934 को आचार्य नरेंद्र देव के नेतृत्व में अंजुमन इस्लामिया हॉल, पटना में हुआ।",
       "tip_hi": "Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (राष्ट्रपति) & JP (Secretary)."
     },
     {
@@ -1085,7 +1085,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-किमी stretch of the गंगा नदी from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.",
-      "tip_hi": "Gangetic Dolphin Sanctuary = Vikramshila (Bhagalpur); National Aquatic Animal = Gangetic Dolphin (Platanista gangetica).\nAnswer Key Summary Table — Set 6 (Questions 201 to 240)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "tip_hi": "गंगा डॉल्फिन अभयारण्य = विक्रमशिला (भागलपुर); राष्ट्रीय जलीय जीव = गांगेय डॉल्फिन (प्लैटनिस्टा गैंगेटिका)।\nउत्तर कुंजी सारांश तालिका - सेट 6 (प्रश्न 201 से 240)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

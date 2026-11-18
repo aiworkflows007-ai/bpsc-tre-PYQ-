@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inflow rate = 1/8 tank/hr. Net inflow with leak = 1/10 tank/hr. Leakage rate = 1/8 - 1/10 = (5 - 4)/40 = 1/40 tank/hr. Time to empty full tank = 40 घंटे.",
+      "explanation_hi": "अंतर्वाह दर = 1/8 टैंक/घंटा। रिसाव के साथ शुद्ध प्रवाह = 1/10 टैंक/घंटा। रिसाव दर = 1/8 - 1/10 = (5 - 4)/40 = 1/40 टैंक/घंटा। पूरी टंकी खाली करने का समय = 40 घंटे.",
       "tip_hi": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 घंटे."
     },
     {
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Resistance of filament = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. When operated at V' = 110 V, Power P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W.",
-      "tip_hi": "When voltage is halved (220V to 110V), power becomes (1/2)^2 = 1/4th of rated power = 100 / 4 = 25 W."
+      "explanation_hi": "फिलामेंट का प्रतिरोध = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. जब V' = 110 V पर संचालित किया जाता है, तो पावर P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W।",
+      "tip_hi": "जब वोल्टेज आधा (220V से 110V) कर दिया जाता है, तो पावर (1/2)^2 = रेटेड पावर का 1/4th = 100/4 = 25 W हो जाती है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to Rayleigh scattering law, intensity of scattered light varies inversely as the fourth power of wavelength (I ∝ 1/λ^4). क्योंकि blue light has a shorter wavelength than red light, it is scattered much more strongly by fine gas molecules in the upper atmosphere.",
-      "tip_hi": "Blue sky = Rayleigh Scattering (I ∝ 1/λ^4); Red sunrise/sunset = Scattering of longer wavelengths; Clouds appear white = Mie scattering."
+      "explanation_hi": "रेले प्रकीर्णन नियम के अनुसार, बिखरे हुए प्रकाश की तीव्रता तरंग दैर्ध्य की चौथी शक्ति (I ∝ 1/λ^4) के विपरीत भिन्न होती है। चूँकि नीली रोशनी की तरंगदैर्ध्य लाल रोशनी की तुलना में कम होती है, यह ऊपरी वायुमंडल में महीन गैस अणुओं द्वारा अधिक मजबूती से बिखरती है।",
+      "tip_hi": "नीला आकाश = रेले स्कैटरिंग (I ∝ 1/λ^4); लाल सूर्योदय/सूर्यास्त = लंबी तरंग दैर्ध्य का प्रकीर्णन; बादल सफेद दिखाई देना=मि बिखरना।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fluorine (F, atomic number 9) has the highest electronegativity of 4.0 on the Pauling scale due to its small atomic size and high effective nuclear charge. Oxygen (3.5) and Chlorine (3.0) are सेकंड and third.",
-      "tip_hi": "Highest Electronegativity = Fluorine (4.0); Highest Electron Affinity = Chlorine."
+      "explanation_hi": "अपने छोटे परमाणु आकार और उच्च प्रभावी परमाणु चार्ज के कारण फ्लोरीन (एफ, परमाणु संख्या 9) की पॉलिंग पैमाने पर 4.0 की उच्चतम इलेक्ट्रोनगेटिविटी है। ऑक्सीजन (3.5) और क्लोरीन (3.0) दूसरे और तीसरे स्थान पर हैं।",
+      "tip_hi": "उच्चतम इलेक्ट्रोनगेटिविटी = फ्लोरीन (4.0); उच्चतम इलेक्ट्रॉन बन्धुता = क्लोरीन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Adrenaline (epinephrine) increases हृदय rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the यकृत (लीवर) to release glucose rapidly into the bloodstream के दौरान acute emergencies.",
-      "tip_hi": "Emergency hormone / 3F hormone (Fight, Flight, Fright) = Adrenaline."
+      "tip_hi": "आपातकालीन हार्मोन / 3F हार्मोन (लड़ाई, उड़ान, डर) = एड्रेनालाईन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Human blood is slightly alkaline, tightly regulated between pH 7.35 and 7.45 by the carbonic acid-bicarbonate buffer system (H2CO3 / HCO3-) and respiratory compensation by the फेफड़े.",
-      "tip_hi": "Human blood pH = 7.35 to 7.45 (slightly alkaline)."
+      "explanation_hi": "मानव रक्त थोड़ा क्षारीय है, कार्बोनिक एसिड-बाइकार्बोनेट बफर सिस्टम (H2CO3 / HCO3-) और फेफड़ों द्वारा श्वसन क्षतिपूर्ति द्वारा पीएच 7.35 और 7.45 के बीच कसकर नियंत्रित किया जाता है।",
+      "tip_hi": "मानव रक्त pH = 7.35 से 7.45 (थोड़ा क्षारीय)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Babu Amar Singh, younger brother of Kunwar Singh, established a parallel revolutionary administration in the Kaimur hills and Shahabad forests, maintaining fierce guerrilla resistance against British columns until late 1859.",
-      "tip_hi": "Guerrilla resistance in Kaimur after Kunwar Singh = Amar Singh."
+      "explanation_hi": "कुँवर सिंह के छोटे भाई बाबू अमर सिंह ने कैमूर पहाड़ियों और शाहाबाद के जंगलों में एक समानांतर क्रांतिकारी प्रशासन की स्थापना की, जिसने 1859 के अंत तक ब्रिटिश स्तंभों के खिलाफ भयंकर गुरिल्ला प्रतिरोध बनाए रखा।",
+      "tip_hi": "कुँवर सिंह = अमर सिंह के बाद कैमूर में गुरिल्ला प्रतिरोध।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -275,7 +275,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Founded in 1918 by डॉ. राजेंद्र प्रसाद and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
-      "tip_hi": "'The Searchlight' editor = Murli Manohar Prasad; 'The Motherland' founder = Mazharul Haque."
+      "tip_hi": "'द सर्चलाइट' संपादक = मुरली मनोहर प्रसाद; 'द मदरलैंड' के संस्थापक = मजहरुल हक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Enacted on 11 नवम्बर 1908, the Chhotanagpur Tenancy Act (CNT Act) legally recognized the Khuntkatti (joint tribal ownership) rights of Mundas, banned beth-begari (forced unpaid labour), and strictly prohibited the transfer of tribal land to non-tribals.",
-      "tip_hi": "Chhotanagpur Tenancy Act passed = 1908 (Direct result of Birsa Munda's revolt)."
+      "explanation_hi": "11 नवंबर 1908 को अधिनियमित, छोटानागपुर किरायेदारी अधिनियम (सीएनटी अधिनियम) ने मुंडाओं के खुंटकट्टी (संयुक्त आदिवासी स्वामित्व) अधिकारों को कानूनी रूप से मान्यता दी, बेथ-बेगारी (जबरन अवैतनिक श्रम) पर प्रतिबंध लगा दिया, और आदिवासी भूमि को गैर-आदिवासियों को हस्तांतरित करने पर सख्ती से रोक लगा दी।",
+      "tip_hi": "छोटानागपुर काश्तकारी अधिनियम पारित = 1908 (बिरसा मुंडा के विद्रोह का प्रत्यक्ष परिणाम)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Battle of Buxar established sovereign British administrative supremacy over northern India, leading directly to the Treaty of Allahabad (1765) granting Diwani rights of Bengal, Bihar, and Orissa to Robert Clive.",
-      "tip_hi": "Battle of Buxar = 22 अक्टूबर 1764 (Major Hector Munro vs Mir Qasim + Shuja-ud-Daula + Shah Alam II)."
+      "explanation_hi": "बक्सर की लड़ाई ने उत्तरी भारत पर संप्रभु ब्रिटिश प्रशासनिक वर्चस्व स्थापित किया, जिससे सीधे तौर पर इलाहाबाद की संधि (1765) हुई, जिसके तहत रॉबर्ट क्लाइव को बंगाल, बिहार और उड़ीसा की दीवानी का अधिकार दिया गया।",
+      "tip_hi": "बक्सर की लड़ाई = 22 अक्टूबर 1764 (मेजर हेक्टर मुनरो बनाम मीर कासिम + शुजा-उद-दौला + शाह आलम द्वितीय)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -382,7 +382,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 42nd संशोधन amended the opening description from 'Sovereign Democratic Republic' to 'Sovereign Socialist Secular Democratic Republic', and changed 'unity of the Nation' to 'unity and integrity of the Nation'.",
+      "explanation_hi": "42वें संशोधन ने प्रारंभिक विवरण को 'संप्रभु लोकतांत्रिक गणराज्य' से 'संप्रभु समाजवादी धर्मनिरपेक्ष लोकतांत्रिक गणराज्य' में संशोधित किया, और 'राष्ट्र की एकता' को 'राष्ट्र की एकता और अखंडता' में बदल दिया।",
       "tip_hi": "42nd संशोधन 1976 added 3 words: Socialist, Secular, Integrity. (प्रस्तावना amended only once)."
     },
     {
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar Diwas is celebrated annually on 22 मार्च to mark the दिन in 1912 when the British government issued the official notification carving the Province of Bihar and Orissa out of the Bengal Presidency.",
-      "tip_hi": "Bihar Diwas = 22 मार्च (Notification of 1912 separation from Bengal)."
+      "explanation_hi": "बिहार दिवस प्रतिवर्ष 22 मार्च को 1912 में उस दिन को चिह्नित करने के लिए मनाया जाता है जब ब्रिटिश सरकार ने बिहार और उड़ीसा प्रांत को बंगाल प्रेसीडेंसी से अलग करने की आधिकारिक अधिसूचना जारी की थी।",
+      "tip_hi": "बिहार दिवस = 22 मार्च (1912 में बंगाल से अलग होने की अधिसूचना)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The first initiative under Saat Nischay-2 is 'Yuva Shakti - Bihar Ki Pragati', which provides ₹5 lakh grant + ₹5 lakh loan at 1% interest (0% for women) under the Mukhya Mantri Udyami Yojana.",
-      "tip_hi": "Saat Nischay-2 components: 1. Yuva Shakti, 2. Sashakt Mahila, 3. Har Khet Ko Pani, 4. Swachh Gaon, 5. Swachh Shahar, 6. Sulabh Samparkata, 7. Sabke Liye Swasthya Suvidha."
+      "explanation_hi": "सात निश्चय-2 के तहत पहली पहल 'युवा शक्ति - बिहार की प्रगति' है, जो मुख्यमंत्री उद्यमी योजना के तहत 1% ब्याज (महिलाओं के लिए 0%) पर ₹5 लाख का अनुदान + ₹5 लाख का ऋण प्रदान करती है।",
+      "tip_hi": "सात निश्चय-2 के घटक: 1. युवा शक्ति, 2. सशक्त महिला, 3. हर खेत को पानी, 4. स्वच्छ गांव, 5. स्वच्छ शहर, 6. सुलभ संपर्क, 7. सबके लिए स्वास्थ्य सुविधा।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sum of first 12 natural numbers = n(n + 1)/2 = 12 * 13 / 2 = 78 strikes. In a full 24-घंटे दिन, it strikes 78 * 2 = 156 times.",
+      "explanation_hi": "प्रथम 12 प्राकृतिक संख्याओं का योग = n(n + 1)/2 = 12 * 13/2 = 78 स्ट्राइक। पूरे 24 घंटे के दिन में यह 78*2=156 बार प्रहार करता है।",
       "tip_hi": "Sum = 1 + 2 + ... + 12 = 12 * 13 / 2 = 78 times in 12 घंटे."
     },
     {
@@ -518,7 +518,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "On mixing with water, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform जिप्सम (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
-      "tip_hi": "POP setting = Rehydration back to जिप्सम (CaSO4 · 2H2O)."
+      "tip_hi": "पीओपी सेटिंग = जिप्सम में पुनर्जलीकरण (CaSO4 · 2H2O)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to ISFR 2021, the recorded forest cover of Bihar is 7,380.79 sq किमी, which constitutes 7.84% of the State's total geographical area (94,163 sq किमी). Kaimur district has the highest forest cover (31.56%).",
-      "tip_hi": "Forest Cover of Bihar = 7.84% (ISFR 2021); District with highest forest % = Kaimur (31.56%)."
+      "explanation_hi": "ISFR 2021 के अनुसार, बिहार का दर्ज वन क्षेत्र 7,380.79 वर्ग किमी है, जो राज्य के कुल भौगोलिक क्षेत्र (94,163 वर्ग किमी) का 7.84% है। कैमूर जिले में सर्वाधिक वन क्षेत्र (31.56%) है।",
+      "tip_hi": "बिहार का वन आवरण = 7.84% (आईएसएफआर 2021); सर्वाधिक वन प्रतिशत वाला जिला = कैमूर (31.56%)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Drafted by a committee headed by Dr. K. Kasturirangan, NEP 2020 was approved on 29 जुलाई 2020. It replaced the previous 10+2 system with a new 5+3+3+4 pedagogical structure covering foundational to secondary school stages.",
-      "tip_hi": "NEP 2020: Committee Chairman = Dr. K. Kasturirangan; Structure = 5+3+3+4; Approved = 29 जुलाई 2020."
+      "explanation_hi": "डॉ. के. कस्तूरीरंगन की अध्यक्षता वाली एक समिति द्वारा तैयार किए गए, एनईपी 2020 को 29 जुलाई 2020 को मंजूरी दे दी गई थी। इसने पिछली 10+2 प्रणाली को एक नई 5+3+3+4 शैक्षणिक संरचना के साथ बदल दिया, जो मूलभूत से लेकर माध्यमिक विद्यालय के चरणों को कवर करती है।",
+      "tip_hi": "एनईपी 2020: समिति के अध्यक्ष = डॉ. के. कस्तूरीरंगन; संरचना = 5+3+3+4; स्वीकृत = 29 जुलाई 2020."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Perimeter of circle = 2πr. Perimeter of square = 4a. Given 2πr = 4a => a = (πr)/2. Area of circle = πr^2. Area of square = a^2 = (π^2 r^2)/4. Ratio = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11.",
-      "tip_hi": "Ratio of Area(Circle) to Area(Square) when perimeters are equal is always 14 : 11."
+      "explanation_hi": "वृत्त का परिमाप = 2πr. वर्ग का परिमाप = 4a. दिया गया है 2πr = 4a => a = (πr)/2. वृत्त का क्षेत्रफल = πr^2. वर्ग का क्षेत्रफल = a^2 = (π^2 r^2)/4. अनुपात = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11।",
+      "tip_hi": "जब परिमाप बराबर हों तो क्षेत्रफल (वृत्त) का क्षेत्रफल (वर्ग) से अनुपात हमेशा 14:11 होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -707,7 +707,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The All India Kisan Sabha was established on 11 अप्रैल 1936 at the Lucknow Congress session. स्वामी सहजानंद सरस्वती was elected राष्ट्रपति and Prof. N. G. Ranga was appointed General Secretary.",
-      "tip_hi": "Bihar Provincial Kisan Sabha = 1929 (Sonepur); All India Kisan Sabha = 1936 (Lucknow)."
+      "tip_hi": "बिहार प्रांतीय किसान सभा=1929 (सोनेपुर); अखिल भारतीय किसान सभा = 1936 (लखनऊ)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mendel's Law of Independent Assortment states that alleles of two or more different genes get sorted into gametes independently of one another, demonstrated by the classic 9:3:3:1 dihybrid phenotypic ratio.",
-      "tip_hi": "Monohybrid phenotypic ratio = 3:1 (Law of Segregation); Dihybrid phenotypic ratio = 9:3:3:1 (Law of Independent Assortment)."
+      "explanation_hi": "मेंडल के स्वतंत्र वर्गीकरण के नियम में कहा गया है कि दो या दो से अधिक विभिन्न जीनों के एलील एक दूसरे से स्वतंत्र रूप से युग्मकों में क्रमबद्ध हो जाते हैं, जो क्लासिक 9:3:3:1 डायहाइब्रिड फेनोटाइपिक अनुपात द्वारा प्रदर्शित होता है।",
+      "tip_hi": "मोनोहाइब्रिड फेनोटाइपिक अनुपात = 3:1 (पृथक्करण का नियम); डायहाइब्रिड फेनोटाइपिक अनुपात = 9:3:3:1 (स्वतंत्र वर्गीकरण का नियम)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -815,7 +815,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "On 25 जुलाई 1857, the sepoy soldiers of the 7th, 8th, and 40th Native Infantry regiments at Danapur revolted against General Lloyd, crossed the सोन नदी River, and joined बाबू कुंवर सिंह at Jagdishpur/Arrah.",
-      "tip_hi": "Danapur mutiny regiments = 7th, 8th, and 40th Native Infantry (25 जुलाई 1857)."
+      "tip_hi": "दानापुर विद्रोह रेजिमेंट = 7वीं, 8वीं और 40वीं नेटिव इन्फैंट्री (25 जुलाई 1857)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In the Battle of Plassey on 23 जून 1757, Mir Jafar (Mir Bakshi) conspired with Robert Clive and kept the major portion of the Nawab's troops standing inactive on the battlefield, leading to Siraj-ud-Daulah's defeat.",
-      "tip_hi": "Battle of Plassey (23 जून 1757) = Robert Clive vs Siraj-ud-Daulah; Traitor = Mir Jafar."
+      "explanation_hi": "23 जून 1757 को प्लासी की लड़ाई में, मीर जाफ़र (मीर बख्शी) ने रॉबर्ट क्लाइव के साथ साजिश रची और नवाब की सेना के बड़े हिस्से को युद्ध के मैदान में निष्क्रिय रखा, जिससे सिराज-उद-दौला की हार हुई।",
+      "tip_hi": "प्लासी का युद्ध (23 जून 1757) = रॉबर्ट क्लाइव बनाम सिराज-उद-दौला; गद्दार = मीर जाफ़र."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lord Cornwallis enacted the Permanent Settlement in 1793 in Bengal and Bihar with John Shore. Zamindars were recognized as owners of the land with fixed revenue dues (10/11th to British Company, 1/11th to Zamindar).",
-      "tip_hi": "Permanent Settlement (1793) = Lord Cornwallis (Bengal, Bihar, Orissa); Ryotwari = Thomas Munro; Mahalwari = Holt Mackenzie."
+      "explanation_hi": "लॉर्ड कार्नवालिस ने 1793 में जॉन शोर के साथ बंगाल और बिहार में स्थायी बंदोबस्त लागू किया। जमींदारों को निश्चित राजस्व बकाया के साथ भूमि के मालिकों के रूप में मान्यता दी गई थी (ब्रिटिश कंपनी को 10/11वां, जमींदार को 1/11वां)।",
+      "tip_hi": "स्थायी बंदोबस्त (1793) = लॉर्ड कार्नवालिस (बंगाल, बिहार, उड़ीसा); रयोतवारी = थॉमस मुनरो; महलवारी = होल्ट मैकेंज़ी।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Launched in 2016 under Saat Nischay-1 and continued under Saat Nischay-2, 'Har Ghar Nal Ka Jal' aims to provide piped potable drinking water to all households in Bihar without discrimination.",
-      "tip_hi": "Piped tap water scheme in Bihar = Har Ghar Nal Ka Jal (Saat Nischay)."
+      "explanation_hi": "सात निश्चय-1 के तहत 2016 में शुरू किया गया और सात निश्चय-2 के तहत जारी, 'हर घर नल का जल' का लक्ष्य बिना किसी भेदभाव के बिहार के सभी घरों में पाइप से पीने योग्य पानी उपलब्ध कराना है।",
+      "tip_hi": "बिहार में पाइप नल जल योजना = हर घर नल का जल (सात निश्चय)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -1003,7 +1003,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kaimur Wildlife Sanctuary, situated in Kaimur and Rohtas districts over the Vindhyan plateau, covers an area of approx. 1,504.96 sq किमी, making it the largest wildlife sanctuary in Bihar.",
+      "explanation_hi": "कैमूर वन्यजीव अभयारण्य, विंध्य पठार के ऊपर कैमूर और रोहतास जिलों में स्थित है, जो लगभग क्षेत्रफल में फैला हुआ है। 1,504.96 वर्ग किमी, जो इसे बिहार का सबसे बड़ा वन्यजीव अभयारण्य बनाता है।",
       "tip_hi": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq किमी); Only National Park = वाल्मीकि राष्ट्रीय उद्यान."
     },
     {
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Syed Ahmad of Rae Bareli founded the movement in India. When he visited Patna in 1821, he appointed Maulvi Wilayat Ali and Maulvi Inayat Ali as his chief khalifas (deputies), who organized Sadikpur (Patna) as the vital logistical and financial headquarters of the Wahhabi movement. क्योंकि all three were paramount leaders, (D) is the official key.",
-      "tip_hi": "Wahhabi Movement in Patna: Founder in India = Syed Ahmad Barelvi; Patna operational leaders = Wilayat Ali & Inayat Ali. Triggers Option (D)."
+      "explanation_hi": "रायबरेली के सैयद अहमद ने भारत में आंदोलन की स्थापना की। जब उन्होंने 1821 में पटना का दौरा किया, तो उन्होंने मौलवी विलायत अली और मौलवी इनायत अली को अपना प्रमुख खलीफा (प्रतिनिधि) नियुक्त किया, जिन्होंने सादिकपुर (पटना) को वहाबी आंदोलन के महत्वपूर्ण रसद और वित्तीय मुख्यालय के रूप में संगठित किया। क्योंकि तीनों सर्वोपरि नेता थे, (डी) आधिकारिक कुंजी है।",
+      "tip_hi": "पटना में वहाबी आंदोलन: भारत में संस्थापक = सैयद अहमद बरेलवी; पटना परिचालन नेता = विलायत अली और इनायत अली। ट्रिगर विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The total geographical area of Bihar is 94,163 sq किमी (approx. 2.86% of India's total geographical area), ranking it as the 12th largest State in India by territory.",
-      "tip_hi": "Total Area of Bihar = 94,163 sq किमी (2.86% of India's land area; 12th in area, 3rd in population).\nAnswer Key Summary Table — Set 8 (Questions 281 to 320)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "बिहार का कुल भौगोलिक क्षेत्रफल 94,163 वर्ग किमी (भारत के कुल भौगोलिक क्षेत्रफल का लगभग 2.86%) है, जो क्षेत्रफल के हिसाब से इसे भारत का 12वां सबसे बड़ा राज्य मानता है।",
+      "tip_hi": "बिहार का कुल क्षेत्रफल = 94,163 वर्ग किमी (भारत के भूमि क्षेत्र का 2.86%; क्षेत्रफल में 12वां, जनसंख्या में तीसरा)।\nउत्तर कुंजी सारांश तालिका - सेट 8 (प्रश्न 281 से 320)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

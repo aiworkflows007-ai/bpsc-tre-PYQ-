@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Downstream speed (D) = 36 / 3 = 12 किमी/h. Upstream speed (U) = 24 / 4 = 6 किमी/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/h. (Speed of boat in still water = (12 + 6)/2 = 9 किमी/h).",
-      "tip_hi": "Current speed = (Downstream - Upstream) / 2 = (12 - 6) / 2 = 3 किमी/h."
+      "tip_hi": "वर्तमान गति = (डाउनस्ट्रीम - अपस्ट्रीम) / 2 = (12 - 6) / 2 = 3 किमी/घंटा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Simple Interest = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200.",
-      "tip_hi": "SI = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200."
+      "explanation_hi": "साधारण ब्याज = (पी * आर * टी) / 100 = (5000 * 8 * 3) / 100 = 50 * 24 = ₹1,200।",
+      "tip_hi": "एसआई = 5000 * 0.08 * 3 = 400 * 3 = ₹1,200।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रतिशत reduction in consumption = [R / (100 + R)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%.",
-      "tip_hi": "Formula: R/(100 + R) * 100 = 25/125 * 100 = 20%."
+      "explanation_hi": "खपत में प्रतिशत कमी = [आर / (100 + आर)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = (1/5) * 100 = 20%।",
+      "tip_hi": "सूत्र: आर/(100 + आर) * 100 = 25/125 * 100 = 20%।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ratio of profit = (Capital A * Time A) : (Capital B * Time B) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.",
-      "tip_hi": "Profit ratio = Investment * Time = 4*10 : 5*8 = 40 : 40 = 1 : 1."
+      "explanation_hi": "लाभ का अनुपात = (पूंजी ए * समय ए) : (पूंजी बी * समय बी) = (4 * 10) : (5 * 8) = 40 : 40 = 1 : 1.",
+      "tip_hi": "लाभ अनुपात = निवेश * समय = 4*10 : 5*8 = 40 : 40 = 1 : 1."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of trapezium = (1/2) * (Sum of parallel sides) * Height = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 sq सेमी.",
-      "tip_hi": "Area = 1/2 * (a + b) * h = 1/2 * 24 * 8 = 96 cm²."
+      "explanation_hi": "समलंब का क्षेत्रफल = (1/2) * (समानांतर भुजाओं का योग) * ऊँचाई = (1/2) * (14 + 10) * 8 = (1/2) * 24 * 8 = 12 * 8 = 96 वर्ग सेमी।",
+      "tip_hi": "क्षेत्रफल = 1/2 * (ए + बी) * एच = 1/2 * 24 * 8 = 96 सेमी²।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pens ⊂ Pencils, and Pencils ∩ Erasers = ∅. Since Pens are inside Pencils, Pens ∩ Erasers = ∅ (Conclusion I holds). Since All pens are pencils, some pencils are pens (Conclusion II holds).",
-      "tip_hi": "Disjoint set property: Both conclusions I and II logically follow."
+      "explanation_hi": "पेन ⊂ पेंसिल, और पेंसिल ∩ इरेज़र = ∅. चूँकि पेन पेंसिल के अंदर होते हैं, पेन ∩ इरेज़र = ∅ (निष्कर्ष I मान्य है)। चूँकि सभी पेन पेंसिल हैं, कुछ पेंसिल पेन हैं (निष्कर्ष II मान्य है)।",
+      "tip_hi": "असंयुक्त सेट गुण: दोनों निष्कर्ष I और II तार्किक रूप से अनुसरण करते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pattern is (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (Or differences double: 5, 10, 20, 40, 80; 78 + 80 = 158).",
-      "tip_hi": "Multiply by 2 and add 2: 78 * 2 + 2 = 156 + 2 = 158."
+      "explanation_hi": "पैटर्न है (*2 + 2): 3*2+2 = 8; 8*2+2 = 18; 18*2+2 = 38; 38*2+2 = 78; 78*2+2 = 158. (या अंतर दोगुना: 5, 10, 20, 40, 80; 78 + 80 = 158)।",
+      "tip_hi": "2 से गुणा करें और 2 जोड़ें: 78 * 2 + 2 = 156 + 2 = 158।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A transformer operates on Faraday's law of mutual electromagnetic induction between two magnetically coupled primary and secondary coils wound on a laminated iron core. It cannot step-up or step-down direct current (DC).",
-      "tip_hi": "Transformer works on Mutual Induction and operates only on Alternating Current (AC)."
+      "explanation_hi": "एक ट्रांसफार्मर लैमिनेटेड लोहे के कोर पर लगे दो चुंबकीय रूप से युग्मित प्राथमिक और माध्यमिक कॉइल के बीच आपसी विद्युत चुम्बकीय प्रेरण के फैराडे के नियम पर काम करता है। यह डायरेक्ट करंट (DC) को ऊपर या नीचे नहीं बढ़ा सकता है।",
+      "tip_hi": "ट्रांसफार्मर म्यूचुअल इंडक्शन पर काम करता है और केवल अल्टरनेटिंग करंट (एसी) पर काम करता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Temporary hardness is due to calcium bicarbonate Ca(HCO3)2 and magnesium bicarbonate Mg(HCO3)2. Boiling decomposes them into insoluble carbonates: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2. Permanent hardness is due to chlorides and sulphates of Ca and Mg.",
-      "tip_hi": "Temporary hardness = Bicarbonates of Ca & Mg (removed by boiling); Permanent hardness = Chlorides & Sulphates of Ca & Mg."
+      "explanation_hi": "अस्थायी कठोरता कैल्शियम बाइकार्बोनेट Ca(HCO3)2 और मैग्नीशियम बाइकार्बोनेट Mg(HCO3)2 के कारण होती है। उबालने से वे अघुलनशील कार्बोनेट में विघटित हो जाते हैं: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2। स्थायी कठोरता Ca और Mg के क्लोराइड और सल्फेट के कारण होती है।",
+      "tip_hi": "अस्थायी कठोरता = सीए और एमजी के बाइकार्बोनेट (उबलने से हटा दिया गया); स्थायी कठोरता = Ca और Mg के क्लोराइड और सल्फेट।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -329,7 +329,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of क्षारीय zinc carbonate and acts as a sacrificial sacrificial anode क्योंकि its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
-      "tip_hi": "Galvanization = Coating of Zinc (Zn) on Iron (Fe)."
+      "tip_hi": "गैल्वनीकरण = लोहे (Fe) पर जिंक (Zn) की कोटिंग।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vitamin D (cholecalciferol) is required for intestinal absorption of calcium and phosphorus. Deficiency in children impairs bone mineralization, causing rickets (bowlegs, knock-knees, pigeon chest). In adults, it causes osteomalacia.",
-      "tip_hi": "Vitamin D deficiency = Rickets (in children) / Osteomalacia (in adults); Vitamin C = Scurvy; Vitamin B1 = Beriberi."
+      "explanation_hi": "कैल्शियम और फास्फोरस के आंतों के अवशोषण के लिए विटामिन डी (कोलेकल्सीफेरॉल) आवश्यक है। बच्चों में इसकी कमी से हड्डियों के खनिजकरण में कमी आती है, जिससे रिकेट्स (बाउलेग्स, नॉक-नीज़, पिजन चेस्ट) होता है। वयस्कों में, यह ऑस्टियोमलेशिया का कारण बनता है।",
+      "tip_hi": "विटामिन डी की कमी = रिकेट्स (बच्चों में) / ऑस्टियोमलेशिया (वयस्कों में); विटामिन सी = स्कर्वी; विटामिन बी1 = बेरीबेरी."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Blood group AB Positive possesses both A and B antigens on RBC surfaces and lacks anti-A, anti-B, and anti-Rh antibodies in plasma. Hence, it can receive blood cells from all ABO and Rh types without agglutination.",
-      "tip_hi": "Universal Recipient = AB Positive; Universal Donor = O Negative."
+      "explanation_hi": "रक्त समूह एबी पॉजिटिव में आरबीसी सतहों पर ए और बी दोनों एंटीजन होते हैं और प्लाज्मा में एंटी-ए, एंटी-बी और एंटी-आरएच एंटीबॉडी की कमी होती है। इसलिए, यह बिना एग्लूटिनेशन के सभी एबीओ और आरएच प्रकारों से रक्त कोशिकाएं प्राप्त कर सकता है।",
+      "tip_hi": "सार्वभौमिक प्राप्तकर्ता = एबी पॉजिटिव; सार्वभौम दाता = हे नकारात्मक।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under Lindeman's 10% law, only ~10% of chemical energy is transferred and incorporated into consumer biomass at the successive trophic level. Therefore, approximately 90% is dissipated as heat, cellular श्वसन, and unconsumed waste.",
-      "tip_hi": "Energy Transferred = 10%; Energy Lost as heat/श्वसन = 90%."
+      "explanation_hi": "लिंडमैन के 10% कानून के तहत, केवल ~10% रासायनिक ऊर्जा को क्रमिक पोषी स्तर पर उपभोक्ता बायोमास में स्थानांतरित और शामिल किया जाता है। इसलिए, लगभग 90% गर्मी, सेलुलर श्वसन और बिना उपभोग किए गए अपशिष्ट के रूप में नष्ट हो जाता है।",
+      "tip_hi": "हस्तांतरित ऊर्जा = 10%; ऊष्मा/श्वसन के रूप में नष्ट हुई ऊर्जा = 90%।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -464,7 +464,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Despite losing his left arm crossing the गंगा नदी, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 अप्रैल 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 अप्रैल as 'Vijay Utsav'.",
-      "tip_hi": "Kunwar Singh's victory over Captain Le Grand = 23 अप्रैल 1858 (Celebrated as Vijay Diwas in Bihar)."
+      "tip_hi": "कैप्टन ले ग्रैंड पर कुँवर सिंह की विजय = 23 अप्रैल 1858 (बिहार में विजय दिवस के रूप में मनाया जाता है)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Mazharul Haque started 'The Motherland' on 30 सितम्बर 1921 from Sadaqat Ashram to propagate Hindu-Muslim unity and the non-cooperation program, facing colonial censorship and imprisonment for his fiery editorials.",
-      "tip_hi": "'The Motherland' (1921) = Founded by Maulana Mazharul Haque from Sadaqat Ashram."
+      "explanation_hi": "मौलाना मजहरुल हक ने अपने उग्र संपादकीय के लिए औपनिवेशिक सेंसरशिप और कारावास का सामना करते हुए, हिंदू-मुस्लिम एकता और असहयोग कार्यक्रम का प्रचार करने के लिए 30 सितंबर 1921 को सदाकत आश्रम से 'द मदरलैंड' की शुरुआत की।",
+      "tip_hi": "'द मदरलैंड' (1921) = सदाकत आश्रम के मौलाना मजहरुल हक द्वारा स्थापित।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -572,7 +572,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In Champaran district, Salt Satyagraha began on 15 अप्रैल 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt मार्च.",
-      "tip_hi": "Salt Satyagraha in Champaran = Led by Bipin Bihari Varma; In Patna = Ambika Kant Sinha (Nakhas Pind)."
+      "tip_hi": "चंपारण में नमक सत्याग्रह = बिपिन बिहारी वर्मा के नेतृत्व में; पटना में = अंबिका कांत सिन्हा (नखास पिंड)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -707,7 +707,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "'Loo' is the strong, scorching dry summer wind blowing from the Thar Desert eastward across northern India and Bihar के दौरान afternoon घंटे, causing heatstroke. Norwesters (Kalbaishakhi) are thunderstorm showers.",
-      "tip_hi": "Hot dry summer wind = Loo; Thunderstorm pre-monsoon rain = Kalbaishakhi (Norwesters)."
+      "tip_hi": "गर्म शुष्क ग्रीष्म हवा = लू; आंधी-तूफ़ान प्री-मानसून वर्षा = कालबैशाखी (नॉर्वेस्टर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -761,7 +761,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Jindhagada Peak (also के रूप में जाना जाता है Arma Konda) in the Araku Valley of Andhra Pradesh has an elevation of 1,690 metres, making it the highest peak of the Eastern Ghats. Mahendragiri (1,501 m) is in Odisha.",
-      "tip_hi": "Highest of Eastern Ghats = Jindhagada / Arma Konda (1,690 m); Highest of Western Ghats = Anamudi (2,695 m)."
+      "tip_hi": "पूर्वी घाट का उच्चतम भाग = जिंदहागाड़ा / अरमा कोंडा (1,690 मीटर); पश्चिमी घाट का उच्चतम भाग = अनामुडी (2,695 मीटर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Luni flows southwest through Rajasthan and Gujarat for ~495 किमी and is lost in the marshy saline sands of the Rann of Kutch without reaching the sea, representing an inland drainage system.",
-      "tip_hi": "Luni River = Inland drainage, terminates in the Rann of Kutch."
+      "explanation_hi": "लूनी ~495 किमी तक राजस्थान और गुजरात से होकर दक्षिण-पश्चिम में बहती है और समुद्र तक पहुंचे बिना कच्छ के रण की दलदली खारी रेत में खो जाती है, जो एक अंतर्देशीय जल निकासी प्रणाली का प्रतिनिधित्व करती है।",
+      "tip_hi": "लूनी नदी = अंतर्देशीय जल निकासी, कच्छ के रण में समाप्त होती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 243D(3) mandates that not less than one-third of total seats shall be reserved for women in all Panchayats. (Note: States like Bihar have increased this reservation to 50% under state law, but the baseline constitutional requirement is 1/3rd).",
-      "tip_hi": "Constitutional minimum (Art. 243D) = Not less than 1/3rd; Bihar State Law = 50% reservation."
+      "explanation_hi": "अनुच्छेद 243डी(3) कहता है कि सभी पंचायतों में महिलाओं के लिए कुल सीटों में से कम से कम एक तिहाई सीटें आरक्षित की जाएंगी। (नोट: बिहार जैसे राज्यों ने राज्य कानून के तहत इस आरक्षण को 50% तक बढ़ा दिया है, लेकिन आधारभूत संवैधानिक आवश्यकता 1/3 है)।",
+      "tip_hi": "संवैधानिक न्यूनतम (अनुच्छेद 243डी) = 1/3 से कम नहीं; बिहार राज्य कानून = 50% आरक्षण।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Public health, sanitation, hospitals, and dispensaries fall under Entry 6 of List II (State List). Education, forests, and weights & measures are in the Concurrent List (List III).",
-      "tip_hi": "Public Health, Police, Agriculture, Local Govt = State List; Defence, Railways, Banking = Union List; Education, Forests = Concurrent List."
+      "explanation_hi": "सार्वजनिक स्वास्थ्य, स्वच्छता, अस्पताल और औषधालय सूची II (राज्य सूची) की प्रविष्टि 6 के अंतर्गत आते हैं। शिक्षा, वन और बाट एवं माप समवर्ती सूची (सूची III) में हैं।",
+      "tip_hi": "सार्वजनिक स्वास्थ्य, पुलिस, कृषि, स्थानीय सरकार = राज्य सूची; रक्षा, रेलवे, बैंकिंग = संघ सूची; शिक्षा, वन = समवर्ती सूची।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar Diwas 2023 marked the 111th anniversary of the State's creation, organized under the focal theme 'Yuva Shakti - Bihar Ki Pragati', emphasizing youth empowerment and self-employment initiatives.",
-      "tip_hi": "Bihar Diwas 2023 Theme = 'Yuva Shakti - Bihar Ki Pragati'."
+      "explanation_hi": "बिहार दिवस 2023 ने राज्य के निर्माण की 111वीं वर्षगांठ को चिह्नित किया, जिसे मुख्य थीम 'युवा शक्ति - बिहार की प्रगति' के तहत आयोजित किया गया, जिसमें युवा सशक्तिकरण और स्वरोजगार पहल पर जोर दिया गया।",
+      "tip_hi": "बिहार दिवस 2023 थीम = 'युवा शक्ति - बिहार की प्रगति'।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pragyan rover is a 26 किग्रा, 6-wheeled robotic vehicle equipped with rocker-bogie suspension and two scientific payloads (APXS and LIBS) to conduct in-situ chemical and elemental analysis of lunar soil.",
-      "tip_hi": "Pragyan rover has 6 wheels, weighed 26 किग्रा, deployed from Vikram lander."
+      "explanation_hi": "प्रज्ञान रोवर एक 26 किलोग्राम, 6-पहियों वाला रोबोटिक वाहन है जो चंद्र मिट्टी का इन-सीटू रासायनिक और मौलिक विश्लेषण करने के लिए रॉकर-बोगी सस्पेंशन और दो वैज्ञानिक पेलोड (एपीएक्सएस और एलआईबीएस) से सुसज्जित है।",
+      "tip_hi": "विक्रम लैंडर से तैनात किए गए प्रज्ञान रोवर में 6 पहिए हैं, जिनका वजन 26 किलोग्राम है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Swedish Academy awarded the 2023 Nobel Prize in Literature to Norwegian playwright and novelist Jon Fosse, written in Norwegian Nynorsk.",
-      "tip_hi": "Nobel Prize Literature 2023 = Jon Fosse (Norway); 2022 = Annie Ernaux (France)."
+      "explanation_hi": "स्वीडिश अकादमी ने नॉर्वेजियन नाटककार और नॉर्वेजियन नाइनोर्स्क में लिखे गए उपन्यासकार जॉन फॉसे को साहित्य में 2023 का नोबेल पुरस्कार दिया।",
+      "tip_hi": "नोबेल पुरस्कार साहित्य 2023 = जॉन फॉसे (नॉर्वे); 2022 = एनी एर्नाक्स (फ्रांस)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let CP = 100. Marked Price = 120. Discount = 10% of 120 = 12. Selling Price = 120 - 12 = 108. Profit % = 108 - 100 = 8%.",
-      "tip_hi": "Net % = 20 - 10 - (20*10)/100 = 10 - 2 = 8% profit."
+      "explanation_hi": "माना सीपी = 100। अंकित मूल्य = 120। छूट = 120 का 10% = 12। विक्रय मूल्य = 120 - 12 = 108। लाभ% = 108 - 100 = 8%।",
+      "tip_hi": "शुद्ध % = 20 - 10 - (20*10)/100 = 10 - 2 = 8% लाभ।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Built in red sandstone between 1540 and 1545 by architect Mir Muhammad Aliwal Khan, Sher Shah Suri's tomb stands on an octagonal stone plinth in an artificial lake at Sasaram in Rohtas district.",
-      "tip_hi": "Tomb of Sher Shah Suri = Sasaram (Rohtas district); Architect = Aliwal Khan."
+      "explanation_hi": "वास्तुकार मीर मुहम्मद अलीवाल खान द्वारा 1540 और 1545 के बीच लाल बलुआ पत्थर से निर्मित, शेर शाह सूरी का मकबरा रोहतास जिले के सासाराम में एक कृत्रिम झील में एक अष्टकोणीय पत्थर के चबूतरे पर स्थित है।",
+      "tip_hi": "शेरशाह सूरी का मकबरा = सासाराम (रोहतास जिला); वास्तुकार = अलीवाल खान."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1085,7 +1085,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of योजना आयोग) chaired the 9-member committee that submitted the Draft National Education Policy in मई 2019, which formed the basis of NEP 2020.",
-      "tip_hi": "NEP 2020 Drafting Committee Chairman = Dr. K. Kasturirangan.\nAnswer Key Summary Table — Set 11 (Questions 401 to 440)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "tip_hi": "एनईपी 2020 मसौदा समिति के अध्यक्ष = डॉ. के. कस्तूरीरंगन।\nउत्तर कुंजी सारांश तालिका - सेट 11 (प्रश्न 401 से 440)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

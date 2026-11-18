@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "For tripling, SI = 2P in 8 वर्ष, so interest rate = 2P/(P * 8) = 25%. For becoming 9 times, SI = 8P. Time = 8P / (P * 0.25) = 32 वर्ष.",
+      "explanation_hi": "तीन गुना के लिए, 8 वर्षों में SI = 2P, इसलिए ब्याज दर = 2P/(P * 8) = 25%। 9 बार बनने पर SI = 8P. समय = 8पी/(पी*0.25) = 32 वर्ष।",
       "tip_hi": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष."
     },
     {
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of a rhombus = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 sq सेमी.",
-      "tip_hi": "Area of rhombus = 1/2 * product of diagonals = 1/2 * 16 * 12 = 96 cm²."
+      "explanation_hi": "एक समचतुर्भुज का क्षेत्रफल = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 वर्ग सेमी।",
+      "tip_hi": "समचतुर्भुज का क्षेत्रफल = 1/2 * विकर्णों का गुणनफल = 1/2 * 16 * 12 = 96 सेमी²।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total of 6 numbers = 6 * 30 = 180. Sum of first four = 4 * 25 = 100. Sum of last three = 3 * 35 = 105. Sum of (first 4 + last 3) = 100 + 105 = 205 (includes 4th number twice). Fourth number = 205 - 180 = 25.",
-      "tip_hi": "Overlapping number = (Sum of 1st set + Sum of 2nd set) - Total Sum = (100 + 105) - 180 = 25."
+      "explanation_hi": "6 संख्याओं का कुल = 6 * 30 = 180। पहले चार का योग = 4 * 25 = 100। अंतिम तीन का योग = 3 * 35 = 105। (पहले 4 + अंतिम 3) का योग = 100 + 105 = 205 (चौथी संख्या दो बार शामिल है)। चौथी संख्या = 205 - 180 = 25.",
+      "tip_hi": "ओवरलैपिंग संख्या = (पहले सेट का योग + दूसरे सेट का योग) - कुल योग = (100 + 105) - 180 = 25।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total distance = 140 + 160 = 300 m. Relative speed in opposite direction = 60 + 48 = 108 किमी/h = 108 * (5/18) = 30 m/s. Crossing time = 300 / 30 = 10 सेकंड.",
-      "tip_hi": "Distance = L1 + L2 = 300 m; Relative speed = 60 + 48 = 108 किमी/h = 30 m/s. Time = 300/30 = 10 s."
+      "explanation_hi": "कुल दूरी = 140 + 160 = 300 मीटर. विपरीत दिशा में सापेक्ष गति = 60 + 48 = 108 किमी/घंटा = 108 * (5/18) = 30 मीटर/सेकेंड। पार करने का समय = 300/30 = 10 सेकंड।",
+      "tip_hi": "दूरी = एल1 + एल2 = 300 मीटर; सापेक्ष गति = 60 + 48 = 108 किमी/घंटा = 30 मीटर/सेकेंड। समय = 300/30 = 10 सेकंड।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "27 = 3^3, 64 = 4^3, 125 = 5^3, 216 = 6^3 are all perfect cubes. 144 is a perfect square (12^2) but not a perfect cube.",
-      "tip_hi": "All numbers except 144 are perfect cubes of consecutive integers (3, 4, 5, 6)."
+      "explanation_hi": "27 = 3^3, 64 = 4^3, 125 = 5^3, 216 = 6^3 सभी पूर्ण घन हैं। 144 एक पूर्ण वर्ग (12^2) है लेकिन एक पूर्ण घन नहीं है।",
+      "tip_hi": "144 को छोड़कर सभी संख्याएँ क्रमागत पूर्णांकों (3, 4, 5, 6) के पूर्ण घन हैं।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Substituting operators: 18 * 14 + 16 / 4 - 10. Following BODMAS: 16 / 4 = 4; 18 * 14 = 252; 252 + 4 - 10 = 256 - 10 = 246.",
-      "tip_hi": "BODMAS: 18*14 + 16/4 - 10 = 252 + 4 - 10 = 246."
+      "explanation_hi": "प्रतिस्थापन ऑपरेटर: 18 * 14 + 16/4 - 10. निम्नलिखित बोडमास: 16/4 = 4; 18*14 = 252; 252 + 4 - 10 = 256 - 10 = 246.",
+      "tip_hi": "बोडमास: 18*14 + 16/4 - 10 = 252 + 4 - 10 = 246।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Universal affirmative premise: Petals ⊂ Flowers ⊂ Plants. Therefore, Petals ⊂ Plants (Conclusion I holds). Since Petals are a subset of Plants, some plants are definitely petals (Conclusion II holds).",
-      "tip_hi": "Concentric circles: Petals inside Flowers inside Plants => Both I and II definitely follow."
+      "explanation_hi": "सार्वभौमिक सकारात्मक आधार: पंखुड़ियाँ ⊂ फूल ⊂ पौधे। इसलिए, पंखुड़ियाँ ⊂ पौधे (निष्कर्ष I मान्य है)। चूँकि पंखुड़ियाँ पौधों का एक उपसमूह हैं, कुछ पौधे निश्चित रूप से पंखुड़ियाँ हैं (निष्कर्ष II)।",
+      "tip_hi": "संकेंद्रित वृत्त: पौधों के अंदर फूलों के अंदर पंखुड़ियाँ => I और II दोनों निश्चित रूप से अनुसरण करते हैं।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Newton's सेकंड Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction जोड़े.",
-      "tip_hi": "1st Law = Definition of Force & Inertia; 2nd Law = Measure of Force (F = ma); 3rd Law = Action-Reaction."
+      "tip_hi": "पहला नियम = बल और जड़ता की परिभाषा; दूसरा नियम = बल का माप (F = ma); तीसरा नियम = क्रिया-प्रतिक्रिया।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The SI unit of electric charge is the Coulomb (C), defined as the quantity of electricity transferred by a current of 1 ampere in 1 सेकंड (1 C = 1 A·s). Ampere is current, and Volt is electric potential.",
-      "tip_hi": "Charge = Coulomb (C); Current = Ampere (A); Potential = Volt (V); Resistance = Ohm (Ω)."
+      "explanation_hi": "विद्युत आवेश की SI इकाई कूलम्ब (C) है, जिसे 1 सेकंड में 1 एम्पीयर की धारा द्वारा हस्तांतरित बिजली की मात्रा के रूप में परिभाषित किया गया है (1 C = 1 A·s)। एम्पीयर धारा है और वोल्ट विद्युत विभव है।",
+      "tip_hi": "चार्ज = कूलम्ब (सी); करंट = एम्पीयर (ए); विभव = वोल्ट (वी); प्रतिरोध = ओम (Ω)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The cerebellum (hindbrain) coordinates motor activities, precision of voluntary movements, and equilibrium. The cerebrum controls conscious thought and memory, while the medulla oblongata controls involuntary vitals (heartbeat, श्वसन).",
-      "tip_hi": "Balance & posture = Cerebellum; Memory & intelligence = Cerebrum; Heartbeat & breathing = Medulla Oblongata."
+      "explanation_hi": "सेरिबैलम (पश्चमस्तिष्क) मोटर गतिविधियों, स्वैच्छिक आंदोलनों की सटीकता और संतुलन का समन्वय करता है। सेरेब्रम सचेत विचार और स्मृति को नियंत्रित करता है, जबकि मेडुला ऑबोंगटा अनैच्छिक महत्वपूर्ण अंगों (दिल की धड़कन, श्वसन) को नियंत्रित करता है।",
+      "tip_hi": "संतुलन और मुद्रा = सेरिबैलम; स्मृति एवं बुद्धि = सेरेब्रम; दिल की धड़कन और सांस लेना = मेडुला ओब्लांगेटा।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rusting is an irreversible chemical oxidation reaction where iron reacts with atmospheric oxygen in the presence of water to form hydrated ferric oxide: 4Fe + 3O2 + 2xH2O -> 2Fe2O3 · xH2O. It increases the mass of the iron object.",
-      "tip_hi": "Rusting is a chemical change, oxidation reaction, and increases the weight of iron."
+      "explanation_hi": "जंग लगना एक अपरिवर्तनीय रासायनिक ऑक्सीकरण प्रतिक्रिया है जहां लोहा पानी की उपस्थिति में वायुमंडलीय ऑक्सीजन के साथ प्रतिक्रिया करके हाइड्रेटेड फेरिक ऑक्साइड बनाता है: 4Fe + 3O2 + 2xH2O -> 2Fe2O3 · xH2O। इससे लोहे की वस्तु का द्रव्यमान बढ़ जाता है।",
+      "tip_hi": "जंग लगना एक रासायनिक परिवर्तन, ऑक्सीकरण प्रतिक्रिया है और लोहे का वजन बढ़ाता है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -382,7 +382,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Methanogenic archaebacteria operating in anaerobic conditions of waterlogged rice paddies and the rumen of ruminant livestock produce massive quantities of biogenic मीथेन (CH4), a potent greenhouse gas.",
+      "explanation_hi": "पानी से भरे चावल के खेतों और जुगाली करने वाले पशुओं के रुमेन की अवायवीय स्थितियों में काम करने वाले मिथेनोजेनिक आर्कबैक्टीरिया भारी मात्रा में बायोजेनिक मीथेन (सीएच 4), एक शक्तिशाली ग्रीनहाउस गैस का उत्पादन करते हैं।",
       "tip_hi": "Paddy fields & cattle belching = मीथेन (CH4); Coal mines & marsh gas = मीथेन."
     },
     {
@@ -437,7 +437,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "A light वर्ष is the astronomical distance that light travels in निर्वात in one Julian वर्ष (approx. 9.46 * 10^12 किमी or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
-      "tip_hi": "Light वर्ष & Parsec = Units of astronomical distance; 1 Parsec ≈ 3.26 Light वर्ष."
+      "tip_hi": "प्रकाश वर्ष और पारसेक = खगोलीय दूरी की इकाइयाँ; 1 पारसेक ≈ 3.26 प्रकाश वर्ष।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -518,7 +518,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In 1908, a meeting में आयोजित किया गया था Patna under Nawab Sarfaraz Hussain Khan where the Bihar Provincial Congress Committee was formally constituted, choosing Syed Hasan Imam as its first permanent राष्ट्रपति.",
-      "tip_hi": "Bihar Provincial Congress Committee formed = 1908 (Patna conference under Nawab Sarfaraz Hussain Khan)."
+      "tip_hi": "बिहार प्रांतीय कांग्रेस कमेटी का गठन = 1908 (नवाब सरफराज हुसैन खान के अधीन पटना सम्मेलन)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Western disturbances are extra-tropical cyclonic storms originating over the Mediterranean Sea and steered eastward by the subtropical westerly jet stream. They bring crucial winter rain (Mahawat) beneficial for Rabi crops (wheat).",
-      "tip_hi": "Northwest India winter rain = Western Disturbances; Coromandel (Tamil Nadu) coast winter rain = Retreating Monsoon."
+      "explanation_hi": "पश्चिमी विक्षोभ अतिरिक्त उष्णकटिबंधीय चक्रवाती तूफान हैं जो भूमध्य सागर के ऊपर उत्पन्न होते हैं और उपोष्णकटिबंधीय पश्चिमी जेट स्ट्रीम द्वारा पूर्व की ओर बढ़ते हैं। वे रबी फसलों (गेहूं) के लिए महत्वपूर्ण शीतकालीन वर्षा (महावत) लाते हैं।",
+      "tip_hi": "उत्तर पश्चिमी भारत में शीतकालीन वर्षा = पश्चिमी विक्षोभ; कोरोमंडल (तमिलनाडु) तट पर शीतकालीन वर्षा = लौटता हुआ मानसून।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -598,7 +598,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Regur (black cotton soil) is derived from the weathering of basaltic Deccan trap lava rocks (Maharashtra, Gujarat, MP). It is rich in clay, possesses high moisture retention capacity, and is ideal for cotton cultivation.",
+      "explanation_hi": "रेगुर (काली कपास मिट्टी) बेसाल्टिक डेक्कन ट्रैप लावा चट्टानों (महाराष्ट्र, गुजरात, एमपी) के अपक्षय से प्राप्त होती है। यह चिकनी मिट्टी से भरपूर है, इसमें उच्च नमी बनाए रखने की क्षमता है और यह कपास की खेती के लिए आदर्श है।",
       "tip_hi": "काली मिट्टी (रेगुर मिट्टी) = Regur = Basaltic lava = Cotton cultivation."
     },
     {
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established by Ramkrishna Dalmia under the Rohtas Industries conglomerate in the 1930s, Dalmianagar was one of India's largest integrated industrial complexes, housing cement plants, sugar mills, paper factories, and chemical works.",
-      "tip_hi": "Dalmianagar (Rohtas) = Cement, Paper, Sugar, Chemicals; Barauni (Begusarai) = Oil Refinery, Fertilizer."
+      "explanation_hi": "1930 के दशक में रोहतास उद्योग समूह के तहत रामकृष्ण डालमिया द्वारा स्थापित, डालमियानगर भारत के सबसे बड़े एकीकृत औद्योगिक परिसरों में से एक था, जिसमें सीमेंट संयंत्र, चीनी मिलें, कागज कारखाने और रासायनिक कार्य शामिल थे।",
+      "tip_hi": "डालमियानगर (रोहतास) = सीमेंट, कागज, चीनी, रसायन; बरौनी (बेगूसराय) = तेलशोधक कारखाना, उर्वरक।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Built along the ancient Uttarapatha and reconstructed by Sher Shah Suri (Sadak-e-Azam), the Grand Trunk Road connected Sonargaon (Bangladesh) to Peshawar. In Bihar, it traverses the southern plains through Kaimur, Rohtas, Aurangabad, and Gaya.",
-      "tip_hi": "Sadak-e-Azam / Grand Trunk Road = Built by Sher Shah Suri (tomb at Sasaram)."
+      "explanation_hi": "प्राचीन उत्तरापथ के साथ निर्मित और शेर शाह सूरी (सड़क-ए-आज़म) द्वारा पुनर्निर्मित, ग्रैंड ट्रंक रोड सोनारगांव (बांग्लादेश) को पेशावर से जोड़ती थी। बिहार में, यह कैमूर, रोहतास, औरंगाबाद और गया से होते हुए दक्षिणी मैदानी इलाकों को पार करती है।",
+      "tip_hi": "सड़क-ए-आज़म / ग्रैंड ट्रंक रोड = शेर शाह सूरी द्वारा निर्मित (सासाराम में मकबरा)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -761,7 +761,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "On 31 दिसम्बर 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th वित्त आयोग. N.K. Singh headed the 15th वित्त आयोग.",
-      "tip_hi": "16th वित्त आयोग Chairman = Dr. Arvind Panagariya; 15th FC Chairman = N. K. Singh."
+      "tip_hi": "16वें वित्त आयोग के अध्यक्ष = डॉ. अरविंद पनगढ़िया; 15वें एफसी अध्यक्ष = एन.के. सिंह।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "SP = CP * (100 - Loss%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190.",
-      "tip_hi": "15% of 1400 = 210. SP = 1400 - 210 = ₹1,190."
+      "explanation_hi": "एसपी = सीपी * (100 - हानि%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190।",
+      "tip_hi": "1400 का 15% = 210. एसपी = 1400 - 210 = ₹1,190।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Volume ratio = (r1/r2)^3 = 64/27 => r1/r2 = 4/3. Surface area ratio = (r1/r2)^2 = (4/3)^2 = 16/9.",
-      "tip_hi": "Volume ratio = a^3 : b^3 = 64 : 27 => Radius ratio = 4 : 3 => Area ratio = 4^2 : 3^2 = 16 : 9."
+      "explanation_hi": "आयतन अनुपात = (आर1/आर2)^3 = 64/27 => आर1/आर2 = 4/3। सतह क्षेत्रफल अनुपात = (r1/r2)^2 = (4/3)^2 = 16/9.",
+      "tip_hi": "आयतन अनुपात = a^3 : b^3 = 64 : 27 => त्रिज्या अनुपात = 4 : 3 => क्षेत्रफल अनुपात = 4^2 : 3^2 = 16 : 9."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -842,7 +842,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The pale yellow colour of normal urine is due to the pigment urochrome (urobilin), a breakdown end-product of हीमोग्लोबिन degradation excreted by the kidneys.",
-      "tip_hi": "Urine yellow pigment = Urochrome; Bile yellow pigment = Bilirubin."
+      "tip_hi": "मूत्र का पीला रंग = यूरोक्रोम; पित्त पीला वर्णक = बिलीरुबिन।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pascal's Principle states that pressure applied to an enclosed, incompressible fluid is transmitted undiminished equally in all directions throughout the fluid and to the walls of its container.",
-      "tip_hi": "Hydraulic lift / brakes = Pascal's Law; Aeroplane wing lift = Bernoulli's Principle; Buoyancy = Archimedes' Principle."
+      "explanation_hi": "पास्कल के सिद्धांत में कहा गया है कि एक बंद, असम्पीडित तरल पदार्थ पर लगाया गया दबाव पूरे तरल पदार्थ में और उसके कंटेनर की दीवारों पर सभी दिशाओं में समान रूप से प्रसारित होता है।",
+      "tip_hi": "हाइड्रोलिक लिफ्ट/ब्रेक = पास्कल का नियम; हवाई जहाज का पंख लिफ्ट = बर्नौली का सिद्धांत; उत्प्लावन = आर्किमिडीज़ का सिद्धांत।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -949,7 +949,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The northeastern floodplain districts—Purnia, Katihar, and Kishanganj—form the primary jute-producing belt of Bihar due to alluvial soils and high rainfall (>140 सेमी). Purnia is the largest single producer, but Katihar and Kishanganj are also major producers, making (D) the official key.",
+      "explanation_hi": "जलोढ़ मिट्टी और उच्च वर्षा (>140 सेमी) के कारण उत्तरपूर्वी बाढ़ क्षेत्र वाले जिले-पूर्णिया, कटिहार और किशनगंज-बिहार की प्राथमिक जूट उत्पादक बेल्ट बनाते हैं। पूर्णिया सबसे बड़ा एकल उत्पादक है, लेकिन कटिहार और किशनगंज भी प्रमुख उत्पादक हैं, जो (डी) को आधिकारिक कुंजी बनाते हैं।",
       "tip_hi": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) उपर्युक्त में से एक से अधिक is correct."
     },
     {
@@ -977,7 +977,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Conducted in two phases के दौरान 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 अक्टूबर 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
-      "tip_hi": "Bihar Caste Survey released on 2 अक्टूबर 2023: EBC (36%) + OBC (27%) = 63% total backward classes."
+      "tip_hi": "2 अक्टूबर 2023 को जारी बिहार जाति सर्वेक्षण: ईबीसी (36%) + ओबीसी (27%) = 63% कुल पिछड़ा वर्ग।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -1004,7 +1004,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Aditya-L1 was launched on 2 सितम्बर 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million किमी from Earth, to study solar coronal heating and solar wind flares.",
-      "tip_hi": "India's solar mission = Aditya-L1 (PSLV-C57); Destination = Lagrange point 1 (L1)."
+      "tip_hi": "भारत का सौर मिशन =आदित्य-L1 (PSLV-C57); गंतव्य = लैग्रेंज बिंदु 1 (एल1)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Unlike the USA which features dual citizenship (Federal and State), India adopted a single uniform citizenship for the entire nation, borrowed directly from the British parliamentary and constitutional model.",
-      "tip_hi": "UK borrowings: Parliamentary system, Rule of Law, Single Citizenship, Bicameralism, Cabinet system."
+      "explanation_hi": "संयुक्त राज्य अमेरिका के विपरीत, जहां दोहरी नागरिकता (संघीय और राज्य) की सुविधा है, भारत ने पूरे देश के लिए एक समान नागरिकता अपनाई, जो सीधे ब्रिटिश संसदीय और संवैधानिक मॉडल से उधार ली गई थी।",
+      "tip_hi": "यूके उधार: संसदीय प्रणाली, कानून का शासन, एकल नागरिकता, द्विसदनीयवाद, कैबिनेट प्रणाली।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "National Highway 19 (formerly NH 2) is part of the Golden Quadrilateral connecting Delhi and Kolkata via Mathura, Agra, Kanpur, Allahabad, Varanasi, Mohania, Sasaram, Aurangabad, Dobhi, Dhanbad, and Asansol.",
-      "tip_hi": "Delhi-Kolkata corridor through Sasaram = NH 19 (old NH 2)."
+      "explanation_hi": "राष्ट्रीय राजमार्ग 19 (पूर्व में NH 2) मथुरा, आगरा, कानपुर, इलाहाबाद, वाराणसी, मोहनिया, सासाराम, औरंगाबाद, डोभी, धनबाद और आसनसोल के माध्यम से दिल्ली और कोलकाता को जोड़ने वाले स्वर्णिम चतुर्भुज का हिस्सा है।",
+      "tip_hi": "सासाराम से होकर दिल्ली-कोलकाता कॉरिडोर = NH 19 (पुराना NH 2)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",

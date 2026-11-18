@@ -19,7 +19,6 @@ async function run() {
     'about:blank'
   ], { stdio: 'ignore' })
 
-  // Wait for chrome debugging port
   let wsUrl = null
   for (let i = 0; i < 20; i++) {
     await sleep(300)
@@ -37,7 +36,6 @@ async function run() {
     process.exit(1)
   }
 
-  console.log('Connected to Chrome DevTools Protocol at', wsUrl)
   const ws = new WebSocket(wsUrl)
   await new Promise(r => ws.onopen = r)
 
@@ -59,8 +57,8 @@ async function run() {
     })
   }
 
-  // Create new target
-  const newTarget = await send('Target.createTarget', { url: 'http://localhost:5173/#/app?category=gk_gs' })
+  // Target local server directly
+  const newTarget = await send('Target.createTarget', { url: 'http://localhost:5173/#/app' })
   const targetId = newTarget.result.targetId
   const attachRes = await send('Target.attachToTarget', { targetId, flatten: true })
   const sessionId = attachRes.result.sessionId
@@ -90,94 +88,60 @@ async function run() {
     return res.result?.result?.value
   }
 
-  // 1. Screenshot GK/GS Chooser
-  console.log('Step 1: GK/GS Chooser')
-  await takeScreenshot('live_render_gkgs_chooser.png')
-
-  // 2. Click Biology Track
-  console.log('Step 2: Clicking Biology Subject Card')
+  // Set currentSetId to computer science to test the exact user's question
+  console.log('Testing Computer Science Question 3 (from user screenshot)...')
   await evalJs(`
-    const cards = Array.from(document.querySelectorAll('.gkgs-choice-card'));
-    const bioCard = cards.find(c => c.textContent.includes('Biology') || c.textContent.includes('जीव विज्ञान'));
-    if (bioCard) bioCard.click();
+    localStorage.setItem('tre-ready:v2:currentSetId', JSON.stringify('bpsc-tre4-computer-science-pgt-80q'));
+    location.hash = '#/app/practice';
   `)
-  await sleep(1000)
-  await takeScreenshot('live_render_gkgs_biology_sets.png')
+  await sleep(1200)
 
-  // 3. Click Set 1 practice
-  console.log('Step 3: Clicking Start Set 1 Test')
+  // Navigate to Question 3
   await evalJs(`
-    const btn = Array.from(document.querySelectorAll('.set-action-btn')).find(b => b.textContent.includes('Start Set 1'));
-    if (btn) btn.click();
+    const qButtons = document.querySelectorAll('.palette button');
+    if (qButtons.length >= 3) qButtons[2].click();
   `)
-  await sleep(1000)
+  await sleep(500)
 
-  // 4. In Practice Question: Click Show Solution
-  console.log('Step 4: Opening In-Question Solution (English mode)')
+  // Open solution in English
   await evalJs(`
     const solBtn = document.querySelector('.toggle-solution-btn');
     if (solBtn) solBtn.click();
   `)
   await sleep(500)
-  await takeScreenshot('live_render_gkgs_q1_english_sol.png')
+  await takeScreenshot('cs_q3_english_sol.png')
 
-  const q1En = await evalJs(`({
+  const csQ3En = await evalJs(`({
     question: document.querySelector('.question-area h1')?.textContent,
     options: Array.from(document.querySelectorAll('.options button span')).map(s => s.textContent),
     answer: document.querySelector('.ans-pill')?.textContent,
     explanation: document.querySelector('.sol-explanation p')?.textContent,
     tip: document.querySelector('.tip-box')?.textContent
   })`)
-  console.log('Q1 English details:', JSON.stringify(q1En, null, 2))
+  console.log('CS Q3 English Solution:', JSON.stringify(csQ3En, null, 2))
 
-  // 5. Toggle to Hindi
-  console.log('Step 5: Toggling to Hindi')
+  // Toggle to Hindi using the in-solution toggle button!
+  console.log('Toggling to Hindi via In-Solution Toggle button...')
   await evalJs(`
-    const langBtn = document.querySelector('.lang-toggle-btn');
-    if (langBtn) langBtn.click();
+    const inSolBtn = document.querySelector('.practice-solution-card .lang-toggle-btn');
+    if (inSolBtn) inSolBtn.click();
+    else {
+      const topBtn = document.querySelector('.lang-toggle-btn');
+      if (topBtn) topBtn.click();
+    }
   `)
   await sleep(500)
-  await takeScreenshot('live_render_gkgs_q1_hindi_sol.png')
+  await takeScreenshot('cs_q3_hindi_sol.png')
 
-  const q1Hi = await evalJs(`({
+  const csQ3Hi = await evalJs(`({
     question: document.querySelector('.question-area h1')?.textContent,
     options: Array.from(document.querySelectorAll('.options button span')).map(s => s.textContent),
     answer: document.querySelector('.ans-pill')?.textContent,
     explanation: document.querySelector('.sol-explanation p')?.textContent,
     tip: document.querySelector('.tip-box')?.textContent
   })`)
-  console.log('Q1 Hindi details:', JSON.stringify(q1Hi, null, 2))
+  console.log('CS Q3 Hindi Solution:', JSON.stringify(csQ3Hi, null, 2))
 
-  // 6. Select Option C and Submit to view Results
-  console.log('Step 6: Answering Q1 and submitting test to verify Results screen')
-  await evalJs(`
-    const optC = document.querySelectorAll('.options button')[2];
-    if (optC) optC.click();
-    const submitBtn = document.querySelector('button.submit');
-    if (submitBtn) submitBtn.click();
-  `)
-  await sleep(1000)
-  await takeScreenshot('live_render_gkgs_results_english.png')
-
-  // 7. Toggle Results to Hindi
-  console.log('Step 7: Toggling Results to Hindi')
-  await evalJs(`
-    const resLangBtn = document.querySelector('.results .lang-toggle-btn');
-    if (resLangBtn) resLangBtn.click();
-  `)
-  await sleep(600)
-  await takeScreenshot('live_render_gkgs_results_hindi.png')
-
-  const resDetails = await evalJs(`({
-    title: document.querySelector('.results h1')?.textContent,
-    choice: document.querySelector('.result-grid article p:nth-of-type(1)')?.textContent,
-    officialAns: document.querySelector('.result-grid article p:nth-of-type(2)')?.textContent,
-    expl: document.querySelector('.result-grid article p:nth-of-type(3)')?.textContent,
-    tip: document.querySelector('.result-grid article .tip-box')?.textContent
-  })`)
-  console.log('Results Hindi details:', JSON.stringify(resDetails, null, 2))
-
-  // Close chrome
   ws.close()
   chrome.kill()
   console.log('Verification finished successfully!')

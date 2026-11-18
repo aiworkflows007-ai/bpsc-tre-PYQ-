@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In निर्वात, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 किमी/s).",
-      "tip_hi": "Speed of light c = 3 × 10^8 m/s = 3 × 10^5 किमी/s."
+      "tip_hi": "प्रकाश की गति c = 3 × 10^8 मी/से = 3 × 10^5 किमी/सेकेंड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formulated by Archimedes of Syracuse, this principle governs flotation, hydrometers, submarines, and lactometers. The apparent loss of weight of the immersed body equals the weight of displaced liquid.",
-      "tip_hi": "Flotation & hydrometer = Archimedes' Principle; Hydraulic lift = Pascal's Law; Fluid velocity & pressure = Bernoulli."
+      "explanation_hi": "सिरैक्यूज़ के आर्किमिडीज़ द्वारा तैयार किया गया यह सिद्धांत प्लवनशीलता, हाइड्रोमीटर, पनडुब्बी और लैक्टोमीटर को नियंत्रित करता है। डूबे हुए शरीर के वजन में स्पष्ट कमी विस्थापित तरल के वजन के बराबर होती है।",
+      "tip_hi": "प्लवन एवं हाइड्रोमीटर = आर्किमिडीज़ का सिद्धांत; हाइड्रोलिक लिफ्ट = पास्कल का नियम; द्रव वेग और दबाव = बर्नौली."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -113,7 +113,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "के दौरान the Non-Cooperation movement, महात्मा गांधी opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 फरवरी 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
-      "tip_hi": "Bihar Vidyapeeth inaugurated by Gandhi on 6 Feb 1921; Mazharul Haque (Chancellor), Brajkishore Prasad (Vice-Chancellor)."
+      "tip_hi": "6 फरवरी 1921 को गांधी जी द्वारा बिहार विद्यापीठ का उद्घाटन; मजहरुल हक (चांसलर), ब्रजकिशोर प्रसाद (कुलपति)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jaglal Choudhary led the mass uprising in Garkha and Siwan, burning the police station and establishing swarajist administration. Phulena Prasad Srivastava was also martyred while hoisting the flag at Maharajganj police station in Siwan.",
-      "tip_hi": "Siwan Quit India leaders = Jaglal Choudhary and Phulena Prasad Srivastava."
+      "explanation_hi": "जगलाल चौधरी ने गरखा और सीवान में जन विद्रोह का नेतृत्व किया, पुलिस स्टेशन को जला दिया और स्वराजवादी प्रशासन की स्थापना की। फुलेना प्रसाद श्रीवास्तव भी सीवान के महाराजगंज थाने पर झंडा फहराने के दौरान शहीद हो गये थे.",
+      "tip_hi": "सीवान भारत छोड़ो नेता = जगलाल चौधरी एवं फुलेना प्रसाद श्रीवास्तव।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Babu Mahesh Narayan, editor of 'The Bihar Times' and 'The Biharee', was the intellectual architect of the movement for Bihar's separation from Bengal along with Dr. Sachchidananda Sinha.",
-      "tip_hi": "Intellectual architect of Bihar separation = Babu Mahesh Narayan ('The Bihar Times' / 'The Biharee')."
+      "explanation_hi": "'द बिहार टाइम्स' और 'द बिहारी' के संपादक बाबू महेश नारायण डॉ. सच्चिदानंद सिन्हा के साथ बिहार को बंगाल से अलग करने के आंदोलन के बौद्धिक वास्तुकार थे।",
+      "tip_hi": "बिहार अलगाव के बौद्धिक सूत्रधार = बाबू महेश नारायण ('द बिहार टाइम्स'/'द बिहारी')।"
     }
   ]
 }

@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The eye lens focuses incident light rays onto the रेटिना, a light-sensitive screen at the back of the eye containing photoreceptor rods and cones that generate electrical impulses.",
+      "explanation_hi": "आंख का लेंस आपतित प्रकाश किरणों को रेटिना पर केंद्रित करता है, आंख के पीछे एक प्रकाश-संवेदनशील स्क्रीन होती है जिसमें फोटोरिसेप्टर छड़ें और शंकु होते हैं जो विद्युत आवेग उत्पन्न करते हैं।",
       "tip_hi": "कॉर्निया = transparent front window; आईरिस = regulates पुतली diameter; रेटिना = screen where real and inverted image is formed."
     },
     {
@@ -85,7 +85,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Convection involves macroscopic mass movement of fluid particles due to density gradients under gravity. Therefore, it occurs exclusively in fluids (द्रव and गैस).",
+      "explanation_hi": "संवहन में गुरुत्वाकर्षण के तहत घनत्व प्रवणता के कारण द्रव कणों का स्थूल द्रव्यमान संचलन शामिल होता है। इसलिए, यह विशेष रूप से तरल पदार्थों (तरल पदार्थ और गैसों) में होता है।",
       "tip_hi": "Conduction = ठोस (fixed particles); Convection = Fluids (द्रव & गैस); Radiation = निर्वात & transparent media (no material medium required)."
     },
     {
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The optical power of a lens is defined as the reciprocal of its focal length expressed in metres (P = 1/f). Its SI unit is dioptre (D = m^-1).",
-      "tip_hi": "Candela = luminous intensity; Dioptre = lens power. Always convert focal length to metres before applying P = 1/f."
+      "explanation_hi": "लेंस की ऑप्टिकल शक्ति को मीटर (पी = 1/एफ) में व्यक्त इसकी फोकल लंबाई के व्युत्क्रम के रूप में परिभाषित किया गया है। इसकी SI इकाई डायोप्टर (D = m^-1) है।",
+      "tip_hi": "कैंडेला = चमकदार तीव्रता; डायोप्टर = लेंस शक्ति. P = 1/f लगाने से पहले हमेशा फोकल लंबाई को मीटर में बदलें।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Optical fibres consist of a high refractive index core surrounded by lower refractive index cladding. Light launched at an angle exceeding the critical angle undergoes repeated पूर्ण आंतरिक परावर्तन without signal leakage.",
-      "tip_hi": "Two conditions for TIR: (1) Light must travel from denser to rarer medium, and (2) Angle of incidence must exceed critical angle."
+      "tip_hi": "टीआईआर के लिए दो शर्तें: (1) प्रकाश को सघन माध्यम से विरल माध्यम तक यात्रा करनी चाहिए, और (2) घटना का कोण क्रांतिक कोण से अधिक होना चाहिए।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Crookes glass contains cerium oxide (CeO2), which absorbs harmful high-energy ultraviolet radiation while remaining transparent to visible light, making it ideal for sunglasses.",
-      "tip_hi": "Crookes glass = absorbs UV rays (sunglasses); Pyrex glass = heat-resistant borosilicate (lab apparatus); Flint glass = optical lenses and prisms."
+      "explanation_hi": "क्रुक्स ग्लास में सेरियम ऑक्साइड (CeO2) होता है, जो दृश्य प्रकाश के लिए पारदर्शी रहते हुए हानिकारक उच्च-ऊर्जा पराबैंगनी विकिरण को अवशोषित करता है, जो इसे धूप के चश्मे के लिए आदर्श बनाता है।",
+      "tip_hi": "क्रुक्स ग्लास = यूवी किरणों को अवशोषित करता है (धूप का चश्मा); पाइरेक्स ग्लास = गर्मी प्रतिरोधी बोरोसिलिकेट (प्रयोगशाला उपकरण); फ्लिंट ग्लास = ऑप्टिकल लेंस और प्रिज्म।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "All electromagnetic waves (gamma rays, X-rays, UV, visible light, infrared, microwaves, and radio waves) propagate through free space (निर्वात) at the universal speed of light c = 1 / sqrt(mu_0 * epsilon_0) approx. 3 × 10^8 m/s.",
-      "tip_hi": "Notice unit exponents carefully: 3 × 10^8 m/s = 3 × 10^5 km/s = 3 × 10^10 cm/s."
+      "explanation_hi": "सभी विद्युत चुम्बकीय तरंगें (गामा किरणें, एक्स-रे, यूवी, दृश्य प्रकाश, अवरक्त, माइक्रोवेव और रेडियो तरंगें) प्रकाश की सार्वभौमिक गति c = 1 / sqrt (mu_0 * epsilon_0) लगभग मुक्त स्थान (वैक्यूम) के माध्यम से फैलती हैं। 3 × 10^8 मी/से.",
+      "tip_hi": "इकाई घातांक पर ध्यान से ध्यान दें: 3 × 10^8 मी/से = 3 × 10^5 किमी/सेकंड = 3 × 10^10 सेमी/से."
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Because gravitational attraction is a central force, the net external torque acting on an orbiting planet about the Sun is zero (tau = r × F = 0). Consequently, its orbital angular momentum L = m * r^2 * omega remains constant, yielding constant areal velocity (dA/dt = L / 2m).",
-      "tip_hi": "Kepler's 1st Law = Law of Elliptical Orbits; Kepler's 2nd Law = Conservation of Angular Momentum; Kepler's 3rd Law = Harmonic Law (T^2 proportional to R^3)."
+      "explanation_hi": "चूँकि गुरुत्वाकर्षण आकर्षण एक केंद्रीय बल है, सूर्य के चारों ओर परिक्रमा करने वाले ग्रह पर लगने वाला शुद्ध बाहरी बलाघूर्ण शून्य (tau = r × F = 0) है। नतीजतन, इसका कक्षीय कोणीय संवेग L = m * r^2 * ओमेगा स्थिर रहता है, जिससे स्थिर क्षेत्रीय वेग (dA/dt = L / 2m) प्राप्त होता है।",
+      "tip_hi": "केप्लर का प्रथम नियम = अण्डाकार कक्षाओं का नियम; केप्लर का दूसरा नियम = कोणीय संवेग का संरक्षण; केप्लर का तीसरा नियम = हार्मोनिक नियम (T^2 R^3 के समानुपाती)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Speed is a scalar quantity possessing magnitude only, without directional dependence. Displacement and velocity are vector quantities requiring both magnitude and spatial direction.",
-      "tip_hi": "Scalars = Speed, Distance, Mass, Time, Work, Energy, Power; Vectors = Velocity, Displacement, Acceleration, Force, Momentum."
+      "explanation_hi": "गति एक अदिश राशि है जिसमें दिशात्मक निर्भरता के बिना केवल परिमाण होता है। विस्थापन और वेग सदिश राशियाँ हैं जिनके लिए परिमाण और स्थानिक दिशा दोनों की आवश्यकता होती है।",
+      "tip_hi": "अदिश = गति, दूरी, द्रव्यमान, समय, कार्य, ऊर्जा, शक्ति; सदिश = वेग, विस्थापन, त्वरण, बल, संवेग।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Photovoltaic (solar) cells exploit the photoelectric/photovoltaic effect across a semiconductor p-n junction (such as silicon) to convert absorbed solar photons directly into electric current.",
-      "tip_hi": "Chemical to Electrical = Voltaic/Dry cell; Solar to Electrical = Photovoltaic (solar) cell; Mechanical to Electrical = Dynamo/Generator."
+      "explanation_hi": "फोटोवोल्टिक (सौर) कोशिकाएं अवशोषित सौर फोटोन को सीधे विद्युत प्रवाह में परिवर्तित करने के लिए अर्धचालक पी-एन जंक्शन (जैसे सिलिकॉन) पर फोटोइलेक्ट्रिक/फोटोवोल्टिक प्रभाव का उपयोग करती हैं।",
+      "tip_hi": "रसायन से विद्युत = वोल्टाइक/शुष्क सेल; सौर से विद्युत = फोटोवोल्टिक (सौर) सेल; मैकेनिकल से इलेक्ट्रिकल = डायनमो/जनरेटर।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A carburettor mixes atomized petrol with intake air in stoichiometric proportion before induction into the cylinder for spark ignition. Diesel engines utilize ईंधन injectors instead of carburettors.",
-      "tip_hi": "Petrol engine = Spark ignition + Carburettor; Diesel engine = Compression ignition + ईंधन injector (no spark plug or carburettor)."
+      "explanation_hi": "स्पार्क इग्निशन के लिए सिलेंडर में प्रेरण से पहले एक कार्बोरेटर स्टोइकोमेट्रिक अनुपात में सेवन वायु के साथ परमाणुकृत पेट्रोल को मिलाता है। डीजल इंजन कार्बोरेटर के बजाय ईंधन इंजेक्टर का उपयोग करते हैं।",
+      "tip_hi": "पेट्रोल इंजन = स्पार्क इग्निशन + कार्बोरेटर; डीजल इंजन = कम्प्रेशन इग्निशन + ईंधन इंजेक्टर (कोई स्पार्क प्लग या कार्बोरेटर नहीं)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lenz's law states that induced electromotive force opposes the magnetic flux change producing it. Mechanical work done in overcoming this opposing magnetic force is converted into electrical energy, satisfying conservation of energy.",
-      "tip_hi": "Kirchhoff's 1st Law (Junction) = Conservation of Charge; Kirchhoff's 2nd Law (Loop) = Conservation of Energy; Lenz's Law = Conservation of Energy."
+      "explanation_hi": "लेन्ज़ का नियम बताता है कि प्रेरित इलेक्ट्रोमोटिव बल इसे उत्पन्न करने वाले चुंबकीय प्रवाह परिवर्तन का विरोध करता है। इस विरोधी चुंबकीय बल पर काबू पाने के लिए किया गया यांत्रिक कार्य विद्युत ऊर्जा में परिवर्तित हो जाता है, जिससे ऊर्जा का संरक्षण होता है।",
+      "tip_hi": "किरचॉफ का पहला नियम (जंक्शन) = आवेश का संरक्षण; किरचॉफ का दूसरा नियम (लूप) = ऊर्जा संरक्षण; लेन्ज़ का नियम = ऊर्जा संरक्षण।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Cosmic rays are high-energy relativistic charged particles originating from outer space, consisting predominantly of positive protons (approx. 90%), alpha particles (9%), and heavier atomic nuclei.",
-      "tip_hi": "Cosmic rays are particulate radiation (positively charged nuclei), not photons or electromagnetic waves."
+      "explanation_hi": "कॉस्मिक किरणें बाहरी अंतरिक्ष से उत्पन्न होने वाले उच्च-ऊर्जा सापेक्ष आवेशित कण हैं, जिनमें मुख्य रूप से सकारात्मक प्रोटॉन (लगभग 90%), अल्फा कण (9%) और भारी परमाणु नाभिक होते हैं।",
+      "tip_hi": "कॉस्मिक किरणें कणीय विकिरण (सकारात्मक आवेशित नाभिक) हैं, फोटॉन या विद्युत चुम्बकीय तरंगें नहीं।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Beta rays are high-speed streams of energetic electrons (beta-) or positrons (beta+) emitted during nuclear decay, possessing mass and charge. Gamma rays and X-rays are massless, chargeless electromagnetic waves.",
-      "tip_hi": "EM Waves: Radio, Microwave, Infrared, Visible, UV, X-rays, Gamma rays. Non-EM Particulate Streams: Alpha rays (He nuclei), Beta rays (electrons), Cathode rays."
+      "explanation_hi": "बीटा किरणें परमाणु क्षय के दौरान उत्सर्जित ऊर्जावान इलेक्ट्रॉनों (बीटा-) या पॉज़िट्रॉन (बीटा+) की उच्च गति वाली धाराएं हैं, जिनमें द्रव्यमान और आवेश होता है। गामा किरणें और एक्स-रे द्रव्यमान रहित, आवेश रहित विद्युत चुम्बकीय तरंगें हैं।",
+      "tip_hi": "ईएम तरंगें: रेडियो, माइक्रोवेव, इन्फ्रारेड, दृश्यमान, यूवी, एक्स-रे, गामा किरणें। गैर-ईएम पार्टिकुलेट धाराएँ: अल्फा किरणें (He नाभिक), बीटा किरणें (इलेक्ट्रॉन), कैथोड किरणें।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Semiconductors have a negative temperature coefficient of resistance (alpha < 0). Thermal energy breaks covalent bonds, liberating covalent electrons into the conduction band, vastly increasing charge carrier concentration and lowering resistance.",
-      "tip_hi": "Metals (Conductors) = Resistance increases on heating; Semiconductors & Electrolytes = Resistance decreases on heating."
+      "explanation_hi": "अर्धचालकों में प्रतिरोध का नकारात्मक तापमान गुणांक होता है (अल्फा <0)। तापीय ऊर्जा सहसंयोजक बंधनों को तोड़ती है, सहसंयोजक इलेक्ट्रॉनों को चालन बैंड में मुक्त करती है, जिससे चार्ज वाहक एकाग्रता में काफी वृद्धि होती है और प्रतिरोध कम होता है।",
+      "tip_hi": "धातु (कंडक्टर) = गरम करने पर प्रतिरोध बढ़ता है; अर्धचालक और इलेक्ट्रोलाइट्स = गर्म करने पर प्रतिरोध कम हो जाता है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Internal energy is a thermodynamic state function dependent solely on temperature (U = f(T)). In any completed cyclic process, the system returns to its initial thermodynamic state (Delta U = 0), so net internal energy remains unchanged.",
-      "tip_hi": "For any cyclic process: Delta U = 0 (Internal energy change is zero); therefore Q = W (First Law of Thermodynamics)."
+      "explanation_hi": "आंतरिक ऊर्जा एक थर्मोडायनामिक अवस्था फ़ंक्शन है जो पूरी तरह से तापमान (यू = एफ (टी)) पर निर्भर है। किसी भी पूर्ण चक्रीय प्रक्रिया में, सिस्टम अपनी प्रारंभिक थर्मोडायनामिक स्थिति (डेल्टा यू = 0) पर लौट आता है, इसलिए शुद्ध आंतरिक ऊर्जा अपरिवर्तित रहती है।",
+      "tip_hi": "किसी भी चक्रीय प्रक्रिया के लिए: डेल्टा यू = 0 (आंतरिक ऊर्जा परिवर्तन शून्य है); इसलिए Q = W (ऊष्मप्रवैगिकी का पहला नियम)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Uranium-235 is a naturally occurring fissile isotope that readily undergoes nuclear fission upon capturing low-energy thermal neutrons, sustaining controlled chain reactions in nuclear power reactors.",
-      "tip_hi": "Fissile isotopes that split directly with thermal neutrons: U-235, Pu-239, U-233. Fertile isotopes requiring transmutation: U-238, Th-232."
+      "explanation_hi": "यूरेनियम-235 एक प्राकृतिक रूप से पाया जाने वाला विखंडनीय आइसोटोप है जो कम ऊर्जा वाले थर्मल न्यूट्रॉन को ग्रहण करने पर आसानी से परमाणु विखंडन से गुजरता है, जिससे परमाणु ऊर्जा रिएक्टरों में नियंत्रित श्रृंखला प्रतिक्रियाएं बनी रहती हैं।",
+      "tip_hi": "विखंडनीय आइसोटोप जो थर्मल न्यूट्रॉन के साथ सीधे विभाजित होते हैं: यू-235, पीयू-239, यू-233। रूपांतरण की आवश्यकता वाले उपजाऊ आइसोटोप: U-238, Th-232।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Acoustic velocity increases with temperature at the rate of approx. 0.61 m/s per °C: v_t = v_0 + 0.61 * t = 332 + 0.61 * 35 = 332 + 21.35 = 353.35 m/s approx. 353 m/s.",
-      "tip_hi": "Rule of thumb: Velocity of sound increases by 0.61 m/s for every 1°C increase in temperature."
+      "explanation_hi": "तापमान के साथ ध्वनिक वेग लगभग की दर से बढ़ता है। 0.61 मी/से प्रति डिग्री सेल्सियस: v_t = v_0 + 0.61 * t = 332 + 0.61 * 35 = 332 + 21.35 = 353.35 मी/से लगभग। 353 मी/से.",
+      "tip_hi": "सामान्य नियम: तापमान में प्रत्येक 1°C वृद्धि पर ध्वनि का वेग 0.61 m/s बढ़ जाता है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ferromagnetic materials (such as iron, cobalt, and nickel) contain microscopic regions called magnetic domains (approx. 10^17 to 10^21 atoms each) where exchange coupling aligns atomic dipoles in a spontaneous common direction.",
-      "tip_hi": "Domains = Ferromagnetic only; Diamagnetic = Weakly repelled; Paramagnetic = Weakly attracted with randomly oriented dipoles."
+      "explanation_hi": "लौहचुंबकीय सामग्री (जैसे लोहा, कोबाल्ट और निकल) में सूक्ष्म क्षेत्र होते हैं जिन्हें चुंबकीय डोमेन कहा जाता है (प्रत्येक में लगभग 10^17 से 10^21 परमाणु) जहां विनिमय युग्मन परमाणु द्विध्रुवों को एक सहज सामान्य दिशा में संरेखित करता है।",
+      "tip_hi": "डोमेन = केवल लौहचुंबकीय; प्रतिचुंबकीय = कमजोर रूप से प्रतिकर्षित; अनुचुंबकीय = बेतरतीब ढंग से उन्मुख द्विध्रुवों के साथ कमजोर रूप से आकर्षित।"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -544,7 +544,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The frequency of light depends exclusively on the atomic oscillations of the generating source. During अपवर्तन across media boundaries, velocity and wavelength decrease proportionally (v = f * lambda), leaving frequency invariant.",
+      "explanation_hi": "प्रकाश की आवृत्ति विशेष रूप से उत्पन्न स्रोत के परमाणु दोलनों पर निर्भर करती है। मीडिया सीमाओं के पार अपवर्तन के दौरान, वेग और तरंग दैर्ध्य आनुपातिक रूप से कम हो जाते हैं (v = f * लैम्ब्डा), जिससे आवृत्ति अपरिवर्तित रहती है।",
       "tip_hi": "In अपवर्तन: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change proportionally; Wave slows down and bends towards normal in denser media.\nSection 2: Chemistry (रसायन विज्ञान) — Questions 21 to 40\nPeriodic Trends, Molecular Structure, Coordination Chemistry, Organic Mechanisms & Thermochemistry"
     },
     {
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An intensive property is independent of the size or quantity of matter in the thermodynamic system. Refractive index, density, temperature, and pressure are intensive, whereas mass and volume are extensive.",
-      "tip_hi": "Extensive = depends on sample size (Mass, Volume, Enthalpy, Heat capacity); Intensive = independent of sample size (Density, Refractive index, Temperature, Viscosity)."
+      "explanation_hi": "एक गहन गुण थर्मोडायनामिक प्रणाली में पदार्थ के आकार या मात्रा से स्वतंत्र होता है। अपवर्तनांक, घनत्व, तापमान और दबाव गहन हैं, जबकि द्रव्यमान और आयतन व्यापक हैं।",
+      "tip_hi": "व्यापक = नमूना आकार (द्रव्यमान, आयतन, एन्थैल्पी, ताप क्षमता) पर निर्भर करता है; गहन = नमूना आकार से स्वतंत्र (घनत्व, अपवर्तक सूचकांक, तापमान, चिपचिपापन)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Second ionization removes an electron from the unipositive cation. O+ has the stable half-filled electronic configuration 2s^2 2p^3, requiring the highest removal energy, making its second IP greater than that of F+ (2p^4), N+ (2p^2), and C+ (2p^1).",
-      "tip_hi": "Always write the electronic configuration of the M+ cation when analyzing 2nd Ionization Potential. O+ is 2p^3 (half-filled stability), hence O has the highest 2nd IP."
+      "explanation_hi": "दूसरा आयनीकरण एक इलेक्ट्रॉन को एकधनात्मक धनायन से हटा देता है। O+ में स्थिर आधा-भरा इलेक्ट्रॉनिक कॉन्फ़िगरेशन 2s^2 2p^3 है, जिसके लिए उच्चतम निष्कासन ऊर्जा की आवश्यकता होती है, जिससे इसका दूसरा IP F+ (2p^4), N+ (2p^2), और C+ (2p^1) से अधिक हो जाता है।",
+      "tip_hi": "द्वितीय आयनीकरण विभव का विश्लेषण करते समय हमेशा M+ धनायन का इलेक्ट्रॉनिक विन्यास लिखें। O+ 2p^3 (आधी-भरी स्थिरता) है, इसलिए O का दूसरा IP उच्चतम है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "All three elements belong to Group 2 (alkaline earth metals). Down a periodic group, principal quantum shells are progressively added, so atomic radius increases: Be (period 2) < Mg (period 3) < Ca < Sr < Ba < Ra (period 7, largest).",
-      "tip_hi": "Periodic trend: Atomic radius increases down a group (due to increasing shells) and decreases across a period left-to-right (due to increasing effective nuclear charge)."
+      "explanation_hi": "सभी तीन तत्व समूह 2 (क्षारीय पृथ्वी धातु) से संबंधित हैं। एक आवधिक समूह के नीचे, मुख्य क्वांटम कोश उत्तरोत्तर जुड़ते जाते हैं, इसलिए परमाणु त्रिज्या बढ़ती है: Be (अवधि 2) < Mg (अवधि 3) < Ca < Sr < Ba < Ra (अवधि 7, सबसे बड़ी)।",
+      "tip_hi": "आवधिक प्रवृत्ति: परमाणु त्रिज्या एक समूह में नीचे की ओर बढ़ती है (कोशों में वृद्धि के कारण) और बाएं से दाएं (प्रभावी परमाणु चार्ज में वृद्धि के कारण) अवधि में घटती है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The number of angular nodes (nodal planes) for any atomic subshell equals its azimuthal quantum number (l). For a p-orbital, l = 1; specifically, the p_x orbital has exactly one nodal plane, which is the yz-plane.",
-      "tip_hi": "Nodal planes = l. s-orbital (l=0) has 0; p-orbital (l=1) has 1; d-orbital (l=2) has 2 (except d_z^2 which has 2 nodal cones)."
+      "explanation_hi": "किसी भी परमाणु उपकोश के लिए कोणीय नोड्स (नोडल विमानों) की संख्या उसके अज़ीमुथल क्वांटम संख्या (एल) के बराबर होती है। पी-ऑर्बिटल के लिए, एल = 1; विशेष रूप से, p_x ऑर्बिटल में बिल्कुल एक नोडल प्लेन होता है, जो yz-प्लेन है।",
+      "tip_hi": "नोडल तल = एल. s-ऑर्बिटल (l=0) में 0 है; पी-ऑर्बिटल (एल=1) में 1 है; d-ऑर्बिटल (l=2) में 2 हैं (d_z^2 को छोड़कर जिसमें 2 नोडल शंकु हैं)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ethanol (C2H5OH) contains hydrogen directly bonded to highly electronegative oxygen (O-H), establishing strong intermolecular hydrogen bonding. Diethyl ether lacks O-H bonds, and triethylamine lacks N-H bonds.",
-      "tip_hi": "Hydrogen bonding requires H bonded directly to F, O, or N (FON). Ethers and tertiary amines have no अम्लीय H on heteroatoms."
+      "explanation_hi": "इथेनॉल (C2H5OH) में हाइड्रोजन सीधे अत्यधिक विद्युत ऋणात्मक ऑक्सीजन (O-H) से जुड़ा होता है, जो मजबूत अंतर-आणविक हाइड्रोजन बंधन स्थापित करता है। डायथाइल ईथर में ओ-एच बांड का अभाव है, और ट्राइथाइलमाइन में एन-एच बांड का अभाव है।",
+      "tip_hi": "हाइड्रोजन बॉन्डिंग के लिए H को सीधे F, O, या N (FON) से बॉन्ड करने की आवश्यकता होती है। ईथर और तृतीयक ऐमीन में हेटेरोएटम पर कोई अम्लीय H नहीं होता है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In sodium nitroprusside, the nitrosyl ligand exists as the nitrosonium cation (NO+). Setting up the coordination sphere charge equation: x + 5(-1) + 1(+1) = -2 yields x - 4 = -2, so x = +2.",
-      "tip_hi": "Nitroprusside trap: NO is coordinated as NO+ (positive nitrosyl), NOT उदासीन NO. Hence Fe is in the +2 oxidation state."
+      "explanation_hi": "सोडियम नाइट्रोप्रासाइड में, नाइट्रोसिल लिगैंड नाइट्रोसोनियम धनायन (NO+) के रूप में मौजूद होता है। समन्वय क्षेत्र आवेश समीकरण स्थापित करना: x + 5(-1) + 1(+1) = -2 प्राप्त होता है x - 4 = -2, इसलिए x = +2।",
+      "tip_hi": "नाइट्रोप्रासाइड ट्रैप: NO को NO+ (पॉजिटिव नाइट्रोसिल) के रूप में समन्वित किया जाता है, तटस्थ NO के रूप में नहीं। अतः Fe +2 ऑक्सीकरण अवस्था में है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Structure (NC)2C=C(CN)2: Contains one central C=C double bond (1 sigma, 1 pi), four C-C single bonds (4 sigma), and four -C#N cyano triple bonds (4 sigma, 8 pi). Total = 1+4+4 = 9 sigma bonds and 1+8 = 9 pi bonds.",
-      "tip_hi": "Single bond = 1 sigma; Double bond = 1 sigma + 1 pi; Triple bond = 1 sigma + 2 pi. Sum carefully: 4 nitriles give 4 sigma and 8 pi."
+      "explanation_hi": "संरचना (NC)2C=C(CN)2: इसमें एक केंद्रीय C=C डबल बॉन्ड (1 सिग्मा, 1 pi), चार C-C सिंगल बॉन्ड (4 सिग्मा), और चार -C#N सायनो ट्रिपल बॉन्ड (4 सिग्मा, 8 pi) शामिल हैं। कुल = 1+4+4 = 9 सिग्मा बांड और 1+8 = 9 पाई बांड।",
+      "tip_hi": "एकल बंधन = 1 सिग्मा; दोहरा बंधन = 1 सिग्मा + 1 पाई; ट्रिपल बॉन्ड = 1 सिग्मा + 2 पाई। ध्यान से योग करें: 4 नाइट्राइल 4 सिग्मा और 8 पाई देते हैं।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Nylons (such as Nylon-6,6 and Nylon-6) are condensation polymers joined by recurring amide linkages (-CO-NH-), classifying them as polyamides. Polythene is an addition polyalkene, and Bakelite is a phenol-formaldehyde resin.",
-      "tip_hi": "Polyamides = Nylon 6, Nylon 6,6; Polyesters = Terylene / Dacron; Phenol resins = Bakelite; Addition polymers = Polythene, PVC, Teflon."
+      "explanation_hi": "नायलॉन (जैसे नायलॉन-6,6 और नायलॉन-6) संघनन पॉलिमर हैं जो आवर्ती एमाइड लिंकेज (-सीओ-एनएच-) से जुड़ते हैं, उन्हें पॉलियामाइड के रूप में वर्गीकृत करते हैं। पॉलिथीन एक अतिरिक्त पॉलीऐल्कीन है, और बैकेलाइट एक फिनोल-फॉर्मेल्डिहाइड राल है।",
+      "tip_hi": "पॉलियामाइड्स = नायलॉन 6, नायलॉन 6,6; पॉलिएस्टर = टेरिलीन / डैक्रॉन; फिनोल रेजिन = बैकेलाइट; अतिरिक्त पॉलिमर = पॉलिथीन, पीवीसी, टेफ्लॉन।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ammoniacal cuprous chloride reacts selectively with terminal alkynes possessing अम्लीय acetylenic hydrogen atoms (H-C#C-R) to form red copper acetylide precipitates. But-2-yne (CH3-C#C-CH3) is an internal alkyne with no terminal sp-hybridized hydrogen.",
-      "tip_hi": "Red ppt with Cu2Cl2 / white ppt with Tollens' reagent requires a terminal alkyne (-C#CH). Internal alkynes (R-C#C-R) give no reaction."
+      "explanation_hi": "अमोनियाक क्यूप्रस क्लोराइड अम्लीय एसिटाइलीनिक हाइड्रोजन परमाणुओं (H-C#C-R) वाले टर्मिनल एल्केनीज़ के साथ चयनात्मक रूप से प्रतिक्रिया करके लाल कॉपर एसिटाइलाइड अवक्षेप बनाता है। But-2-yne (CH3-C#C-CH3) एक आंतरिक एल्केनी है जिसमें कोई टर्मिनल एसपी-हाइब्रिडाइज्ड हाइड्रोजन नहीं है।",
+      "tip_hi": "Cu2Cl2 के साथ लाल पीपीटी / टॉलेंस अभिकर्मक के साथ सफेद पीपीटी के लिए एक टर्मिनल एल्काइन (-C#CH) की आवश्यकता होती है। आंतरिक एल्केनीज़ (R-C#C-R) कोई प्रतिक्रिया नहीं देते हैं।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The triphenylmethyl (trityl) carbocation, (C6H5)3C+, is exceptionally stabilized because the positive charge is delocalized over three aromatic phenyl rings across nine contributing canonical resonance structures.",
-      "tip_hi": "Carbocation stability: Triphenylmethyl > Diphenylmethyl > Benzyl > Allyl approx. 3° alkyl > 2° alkyl > 1° alkyl > methyl."
+      "explanation_hi": "ट्राइफेनिलमिथाइल (ट्राइटाइल) कार्बोकेशन, (C6H5)3C+, असाधारण रूप से स्थिर है क्योंकि सकारात्मक चार्ज नौ योगदान देने वाले कैनोनिकल अनुनाद संरचनाओं में तीन सुगंधित फिनाइल रिंगों पर डेलोकलाइज़ किया गया है।",
+      "tip_hi": "कार्बोकेशन स्थिरता: ट्राइफेनिलमिथाइल > डिफेनिलमिथाइल > बेंजाइल > एलिल लगभग। 3° एल्काइल > 2° एल्काइल > 1° एल्काइल > मिथाइल।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "2-Chloropropanoic acid (CH3CHClCOOH) possesses an electronegative chlorine atom at the alpha-carbon, exerting a strong electron-withdrawing inductive effect (-I effect) that disperses negative charge on the carboxylate anion, stabilizing it.",
-      "tip_hi": "I effect increases acid strength. Closer the halogen to the -COOH group (alpha > beta > gamma), stronger the acid."
+      "explanation_hi": "2-क्लोरोप्रोपेनोइक एसिड (CH3CHClCOOH) में अल्फा-कार्बन में एक इलेक्ट्रोनगेटिव क्लोरीन परमाणु होता है, जो एक मजबूत इलेक्ट्रॉन-निकासी प्रेरक प्रभाव (-I प्रभाव) डालता है जो कार्बोक्जलेट आयन पर नकारात्मक चार्ज फैलाता है, इसे स्थिर करता है।",
+      "tip_hi": "इसके प्रभाव से अम्ल शक्ति बढ़ती है। हैलोजन -COOH समूह (अल्फा > बीटा > गामा) के जितना करीब होगा, एसिड उतना ही मजबूत होगा।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A nucleophile is an electron-rich Lewis base capable of donating an electron pair. Tertiary amines (R3N) carry an unshared non-bonding lone pair of electrons on nitrogen. SO3 and NO2+ are electron-deficient electrophiles.",
-      "tip_hi": "Nucleophile = lone pair or negative charge (R3N, NH3, H2O, OH-); Electrophile = positive charge or incomplete octet (NO2+, AlCl3, SO3)."
+      "explanation_hi": "न्यूक्लियोफाइल एक इलेक्ट्रॉन-समृद्ध लुईस बेस है जो एक इलेक्ट्रॉन जोड़ी दान करने में सक्षम है। तृतीयक एमाइन (R3N) नाइट्रोजन पर इलेक्ट्रॉनों की एक असंबद्ध गैर-बंधन अकेली जोड़ी ले जाती है। SO3 और NO2+ इलेक्ट्रॉन की कमी वाले इलेक्ट्रोफाइल हैं।",
+      "tip_hi": "न्यूक्लियोफाइल = एकाकी युग्म या ऋणात्मक आवेश (R3N, NH3, H2O, OH-); इलेक्ट्रोफाइल = धनात्मक आवेश या अधूरा ऑक्टेट (NO2+, AlCl3, SO3)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Markownikoff's rule applies strictly to the addition of an unsymmetrical polar reagent (like HBr) across an unsymmetrical alkene (like propene, CH3CH=CH2), directing the electrophilic H+ to the carbon holding more hydrogens.",
-      "tip_hi": "Markownikoff's rule prerequisites: Both the alkene AND the adding reagent must be unsymmetrical (CH3-CH=CH2 + H-Br)."
+      "explanation_hi": "मार्काउनिकॉफ़ का नियम एक असममित एल्कीन (जैसे प्रोपेन, CH3CH=CH2) में एक असममित ध्रुवीय अभिकर्मक (जैसे HBr) को जोड़ने पर सख्ती से लागू होता है, जो इलेक्ट्रोफिलिक H+ को अधिक हाइड्रोजन रखने वाले कार्बन की ओर निर्देशित करता है।",
+      "tip_hi": "मार्काउनिकॉफ़ के नियम की पूर्वापेक्षाएँ: एल्कीन और जोड़ने वाला अभिकर्मक दोनों असममित होने चाहिए (CH3-CH=CH2 + H-Br)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ethers and monohydric alcohols of formula CnH2n+2O are functional isomers. Diethyl ether (C4H10O) has 4 carbons; tert-butyl alcohol (CH3)3C-OH also has molecular formula C4H10O, making it an isomer.",
-      "tip_hi": "Count carbons first: Diethyl ether = 4 carbons. (CH3)2CHOH has 3 carbons; (C2H5)2CHOH has 5 carbons; (CH3)3C-OH has 4 carbons."
+      "explanation_hi": "CnH2n+2O सूत्र के ईथर और मोनोहाइड्रिक अल्कोहल कार्यात्मक आइसोमर्स हैं। डायथाइल ईथर (C4H10O) में 4 कार्बन होते हैं; टर्ट-ब्यूटाइल अल्कोहल (CH3)3C-OH का आणविक सूत्र C4H10O भी है, जो इसे एक आइसोमर बनाता है।",
+      "tip_hi": "पहले कार्बन गिनें: डायथाइल ईथर = 4 कार्बन। (CH3)2CHOH में 3 कार्बन हैं; (C2H5)2CHOH में 5 कार्बन हैं; (CH3)3C-OH में 4 कार्बन हैं।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Phosphorus is larger in size and less electronegative than nitrogen, so its lone pair occupies a diffused, almost non-hybridized 3s orbital with lower electron density, making PH3 a substantially weaker Lewis base than NH3.",
-      "tip_hi": "Basicity of Group 15 hydrides decreases down the group: NH3 > PH3 > AsH3 > SbH3 > BiH3."
+      "explanation_hi": "फॉस्फोरस आकार में बड़ा है और नाइट्रोजन की तुलना में कम विद्युतीय है, इसलिए इसकी अकेली जोड़ी कम इलेक्ट्रॉन घनत्व के साथ एक विसरित, लगभग गैर-संकरित 3s कक्षक में रहती है, जिससे PH3 NH3 की तुलना में काफी कमजोर लुईस बेस बन जाता है।",
+      "tip_hi": "समूह 15 हाइड्राइड्स की मौलिकता समूह में नीचे की ओर घटती जाती है: NH3 > PH3 > AsH3 > SbH3 > BiH3।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ammonium dichromate decomposes thermally via internal redox to produce nitrogen gas, chromic oxide, and steam: (NH4)2Cr2O7 -> N2 + Cr2O3 + 4 H2O. Potassium dichromate and chlorates liberate oxygen gas on heating.",
-      "tip_hi": "Heating (NH4)2Cr2O7 gives nitrogen (N2) gas (the 'chemical volcano' reaction); it does NOT release oxygen."
+      "explanation_hi": "नाइट्रोजन गैस, क्रोमिक ऑक्साइड और भाप का उत्पादन करने के लिए अमोनियम डाइक्रोमेट आंतरिक रेडॉक्स के माध्यम से थर्मल रूप से विघटित होता है: (NH4)2Cr2O7 -> N2 + Cr2O3 + 4 H2O। गर्म करने पर पोटैशियम डाइक्रोमेट और क्लोरेट्स ऑक्सीजन गैस मुक्त करते हैं।",
+      "tip_hi": "(NH4)2Cr2O7 को गर्म करने से नाइट्रोजन (N2) गैस ('रासायनिक ज्वालामुखी' प्रतिक्रिया) मिलती है; यह ऑक्सीजन नहीं छोड़ता."
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In the presence of light and air, chloroform slowly oxidizes to produce the extremely toxic, suffocating gas carbonyl chloride (phosgene, COCl2): 2 CHCl3 + O2 -> 2 COCl2 + 2 HCl.",
-      "tip_hi": "To prevent toxic phosgene formation, chloroform is stored in dark brown bottles filled to the brim with 1% ethanol added as a negative catalyst."
+      "explanation_hi": "प्रकाश और हवा की उपस्थिति में, क्लोरोफॉर्म धीरे-धीरे ऑक्सीकरण होकर अत्यधिक जहरीली, दम घोंटने वाली गैस कार्बोनिल क्लोराइड (फॉस्जीन, COCl2) उत्पन्न करता है: 2 CHCl3 + O2 -> 2 COCl2 + 2 HCl।",
+      "tip_hi": "जहरीली फॉस्जीन के निर्माण को रोकने के लिए, क्लोरोफॉर्म को गहरे भूरे रंग की बोतलों में भरा जाता है, जिसमें नकारात्मक उत्प्रेरक के रूप में 1% इथेनॉल मिलाया जाता है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aspirin is 2-acetoxybenzoic acid (acetylsalicylic acid), synthesized industrially via acetylation of the phenolic -OH group of salicylic acid with acetic anhydride in the presence of concentrated sulfuric acid.",
-      "tip_hi": "Aspirin = Acetyl salicylic acid (analgesic/antipyretic); Oil of wintergreen = Methyl salicylate; Salol = Phenyl salicylate."
+      "explanation_hi": "एस्पिरिन 2-एसिटॉक्सीबेन्जोइक एसिड (एसिटाइलसैलिसिलिक एसिड) है, जिसे सांद्र सल्फ्यूरिक एसिड की उपस्थिति में एसिटिक एनहाइड्राइड के साथ सैलिसिलिक एसिड के फेनोलिक -ओएच समूह के एसिटिलीकरण के माध्यम से औद्योगिक रूप से संश्लेषित किया जाता है।",
+      "tip_hi": "एस्पिरिन = एसिटाइल सैलिसिलिक एसिड (एनाल्जेसिक/एंटीपायरेटिक); विंटरग्रीन का तेल = मिथाइल सैलिसिलेट; सैलोल = फिनाइल सैलिसिलेट।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ethylidene chloride, CH3CHCl2 (a gem-dihalide), undergoes nucleophilic substitution with aqueous KOH to form an unstable gem-diol [CH3CH(OH)2], which spontaneously eliminates a water molecule to yield acetaldehyde (CH3CHO).",
-      "tip_hi": "Gem-dihalide with two halogens on the end carbon (R-CHX2) yields an aldehyde; gem-dihalide on an internal carbon (R-CX2-R) yields a ketone."
+      "explanation_hi": "एथिलिडीन क्लोराइड, CH3CHCl2 (एक रत्न-डाइहैलाइड), एक अस्थिर रत्न-डायोल [CH3CH(OH)2] बनाने के लिए जलीय KOH के साथ न्यूक्लियोफिलिक प्रतिस्थापन से गुजरता है, जो एसीटैल्डिहाइड (CH3CHO) उत्पन्न करने के लिए पानी के अणु को स्वचालित रूप से समाप्त कर देता है।",
+      "tip_hi": "अंतिम कार्बन (R-CHX2) पर दो हैलोजन के साथ जेम-डायहैलाइड एक एल्डिहाइड उत्पन्न करता है; आंतरिक कार्बन (R-CX2-R) पर जेम-डायहैलाइड एक कीटोन उत्पन्न करता है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A more negative standard reduction potential signifies a greater tendency to lose electrons (undergo oxidation) and therefore a stronger reducing capability. Metal X with E° = -3.05 V is the most powerful reducing agent.",
-      "tip_hi": "Standard Reduction Potential rule: More negative E° value = Stronger reducing agent (e.g., Lithium). More positive E° value = Stronger oxidizing agent (e.g., Fluorine).\nSection 3: Botany / Plant Sciences (वनस्पति विज्ञान) — Questions 41 to 60\nPlant Morphology & Anatomy, Photosynthesis, Taxonomic Classifications, Phytohormones & Economic Botany"
+      "explanation_hi": "एक अधिक नकारात्मक मानक कमी क्षमता इलेक्ट्रॉनों को खोने (ऑक्सीकरण से गुजरना) की एक बड़ी प्रवृत्ति और इसलिए एक मजबूत कम करने की क्षमता का प्रतीक है। E° = -3.05 V के साथ धातु X सबसे शक्तिशाली अपचायक है।",
+      "tip_hi": "मानक न्यूनीकरण विभव नियम: अधिक नकारात्मक E° मान = मजबूत कम करने वाला एजेंट (जैसे, लिथियम)। अधिक सकारात्मक E° मान = मजबूत ऑक्सीकरण एजेंट (उदाहरण के लिए, फ्लोरीन)।\nधारा 3: वनस्पति विज्ञान / पादप विज्ञान (वनस्पति विज्ञान) - प्रश्न 41 से 60\nपादप आकृति विज्ञान और शरीर रचना, प्रकाश संश्लेषण, वर्गीकरण वर्गीकरण, फाइटोहोर्मोन और आर्थिक वनस्पति विज्ञान"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -1111,7 +1111,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Chloroplasts are double-membrane organelles containing chlorophyll pigments; light-dependent reactions occur on the thylakoid grana membranes, while the light-independent Calvin cycle occurs in the stroma.",
+      "explanation_hi": "क्लोरोप्लास्ट दोहरे झिल्ली वाले अंग हैं जिनमें क्लोरोफिल वर्णक होते हैं; प्रकाश-निर्भर प्रतिक्रियाएं थायलाकोइड ग्रैना झिल्ली पर होती हैं, जबकि प्रकाश-स्वतंत्र केल्विन चक्र स्ट्रोमा में होता है।",
       "tip_hi": "माइटोकॉन्ड्रिया = Cellular respiration (Powerhouse of cell); Ribosomes = Protein synthesis; Chloroplasts = Photosynthesis (Kitchen of cell)."
     },
     {
@@ -1165,8 +1165,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Phycobiliprotein pigments, notably red phycoerythrin and blue phycocyanin, occur water-solubly in Cyanophyceae (blue-green algae) and Rhodophyceae (red algae). Since both classes contain these pigments, Option (D) is triggered.",
-      "tip_hi": "Chlorophyceae (Green algae) = Chlorophyll a, b; Phaeophyceae (Brown algae) = Fucoxanthin; Rhodophyceae (Red algae) = r-Phycoerythrin & r-Phycocyanin."
+      "explanation_hi": "फ़ाइकोबिलिप्रोटीन वर्णक, विशेष रूप से लाल फ़ाइकोएरीथ्रिन और नीला फ़ाइकोसायनिन, सायनोफ़ाइसी (नीला-हरा शैवाल) और रोडोफ़ाइसी (लाल शैवाल) में पानी में घुलनशील होते हैं। चूँकि दोनों वर्गों में ये रंगद्रव्य होते हैं, विकल्प (डी) चालू हो जाता है।",
+      "tip_hi": "क्लोरोफाइसी (हरा शैवाल) = क्लोरोफिल ए, बी; फियोफाइसी (भूरा शैवाल) = फ्यूकोक्सैन्थिन; रोडोफाइसी (लाल शैवाल) = आर-फाइकोएरिथ्रिन और आर-फाइकोसायनिन।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1192,8 +1192,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In the genus Ficus (fig, banyan, gular), the fleshy, flask-shaped receptacle with a tiny apical pore bears microscopic flowers internally, constituting an edible hypanthodium inflorescence (syconus fruit).",
-      "tip_hi": "Fig (अंजीर) and Gular = Hypanthodium inflorescence; Pineapple and Mulberry = Sorosis fruit developing from spike/spadix/catkin."
+      "explanation_hi": "जीनस फ़िकस (अंजीर, बरगद, गूलर) में, छोटे शीर्ष छिद्र के साथ मांसल, फ्लास्क के आकार का पात्र आंतरिक रूप से सूक्ष्म फूल धारण करता है, जो एक खाद्य हाइपैन्थोडियम पुष्पक्रम (साइकोनस फल) का निर्माण करता है।",
+      "tip_hi": "अंजीर (अंजीर) और गूलर = हाइपैन्थोडियम पुष्पक्रम; अनानास और शहतूत = स्पाइक/स्पैडिक्स/कैटकिन से विकसित होने वाला सोरोसिस फल।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1219,8 +1219,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In racemose inflorescences, the main floral axis continues indeterminate growth, bearing flowers laterally in acropetal succession (oldest flowers at the base, progressively younger buds towards the apex).",
-      "tip_hi": "Racemose = Indeterminate growth, Acropetal succession (youngest at apex); Cymose = Determinate growth, Basipetal succession (youngest at base)."
+      "explanation_hi": "रेसमोस पुष्पक्रम में, मुख्य पुष्प अक्ष में अनिश्चित वृद्धि जारी रहती है, जिसमें पार्श्व में एक्रोपेटल क्रम में फूल आते हैं (आधार पर सबसे पुराने फूल, शीर्ष की ओर उत्तरोत्तर छोटी कलियाँ)।",
+      "tip_hi": "रेसमोस = अनिश्चित वृद्धि, एक्रोपेटल उत्तराधिकार (शीर्ष पर सबसे कम उम्र); सिमोज़ = निर्धारित वृद्धि, बासिपेटल उत्तराधिकार (आधार पर सबसे छोटा)।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1246,8 +1246,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mannose is a six-carbon aldohexose sugar with formula C6H12O6 (a C-2 epimer of glucose). Cellulose is a complex structural polysaccharide, while xylulose is a five-carbon ketopentose.",
-      "tip_hi": "Hexoses (6 Carbons) = Glucose, Fructose, Galactose, Mannose; Pentoses (5 Carbons) = Ribose, Deoxyribose, Xylulose; Polysaccharides = Starch, Cellulose."
+      "explanation_hi": "मैनोज़ एक छह-कार्बन एल्डोहेक्सोज़ शर्करा है जिसका सूत्र C6H12O6 (ग्लूकोज का एक C-2 एपिमर) है। सेलूलोज़ एक जटिल संरचनात्मक पॉलीसेकेराइड है, जबकि ज़ाइलुलोज़ एक पांच-कार्बन केटोपेंटोज़ है।",
+      "tip_hi": "हेक्सोज (6 कार्बन) = ग्लूकोज, फ्रुक्टोज, गैलेक्टोज, मैनोज; पेंटोज़ (5 कार्बन) = राइबोज़, डीऑक्सीराइबोज़, ज़ाइलुलोज़; पॉलीसेकेराइड = स्टार्च, सेलूलोज़।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1273,8 +1273,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Carl Linnaeus established an artificial system of plant classification (known as the sexual system) based purely on superficial morphological characteristics, primarily the numerical count of stamens and styles.",
-      "tip_hi": "Artificial System = Linnaeus (stamen numbers); Natural System = Bentham & Hooker; Phylogenetic System = Engler & Prantl, Hutchinson."
+      "explanation_hi": "कार्ल लिनिअस ने पौधों के वर्गीकरण (यौन प्रणाली के रूप में जाना जाता है) की एक कृत्रिम प्रणाली की स्थापना की, जो पूरी तरह से सतही रूपात्मक विशेषताओं, मुख्य रूप से पुंकेसर और शैलियों की संख्यात्मक गणना पर आधारित थी।",
+      "tip_hi": "कृत्रिम प्रणाली = लिनिअस (पुंकेसर संख्या); प्राकृतिक प्रणाली = बेंथम और हूकर; फ़ाइलोजेनेटिक सिस्टम = एंगलर और प्रांटल, हचिंसन।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1300,8 +1300,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Abscisic acid (ABA) is synthesized rapidly in leaves under drought stress, causing potassium ion efflux from stomatal guard cells, reducing turgor pressure and promoting rapid stomatal closure to conserve water.",
-      "tip_hi": "Plant Stress Hormone = Abscisic Acid (ABA); Fruit Ripening Gas = Ethylene; Cell Division Promoter = Cytokinin; Stem Elongation = Gibberellin."
+      "explanation_hi": "सूखे के तनाव के तहत पत्तियों में एब्सिसिक एसिड (एबीए) तेजी से संश्लेषित होता है, जिससे स्टोमेटल गार्ड कोशिकाओं से पोटेशियम आयन का प्रवाह होता है, स्फीति दबाव कम होता है और पानी के संरक्षण के लिए तेजी से स्टोमेटल बंद होने को बढ़ावा मिलता है।",
+      "tip_hi": "पादप तनाव हार्मोन = एब्सिसिक एसिड (एबीए); फल पकाने वाली गैस = एथिलीन; कोशिका विभाजन प्रवर्तक = साइटोकिनिन; तना बढ़ाव = जिबरेलिन।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1327,8 +1327,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gibberellic acid promotes stem internode elongation, seed germination, and delays leaf senescence. Leaf fall (abscission) is induced by abscisic acid (ABA) and ethylene, making pair (B) factually incorrect.",
-      "tip_hi": "Gibberellins delay senescence and breakdown dormancy; they NEVER promote leaf fall or abscission."
+      "explanation_hi": "जिबरेलिक एसिड तने के इंटरनोड बढ़ाव, बीज के अंकुरण को बढ़ावा देता है और पत्तियों की जीर्णता में देरी करता है। पत्ती का गिरना (एब्सकिशन) एब्सिसिक एसिड (एबीए) और एथिलीन से प्रेरित होता है, जिससे जोड़ी (बी) तथ्यात्मक रूप से गलत हो जाती है।",
+      "tip_hi": "गिबरेलिन्स बुढ़ापा और निष्क्रियता में देरी करता है; वे कभी भी पत्ती गिरने या विच्छेदन को बढ़ावा नहीं देते।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1354,8 +1354,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In axile placentation, the multilocular ovary's septa meet at a central axis bearing the ovules, as observed in Citrus (lemon/orange), tomato, and China rose. Argemone exhibits parietal placentation, and Dianthus shows free-central.",
-      "tip_hi": "Placentation examples: Axile = Citrus, Tomato, China rose; Parietal = Mustard, Argemone; Free-central = Dianthus, Primrose; Marginal = Pea."
+      "explanation_hi": "एक्साइल प्लेसेंटेशन में, बहुकोशिकीय अंडाशय का सेप्टा बीजांड वाले केंद्रीय अक्ष पर मिलता है, जैसा कि साइट्रस (नींबू/संतरा), टमाटर और चाइना गुलाब में देखा गया है। आर्जीमोन पार्श्विका प्लेसेंटेशन प्रदर्शित करता है, और डायन्थस मुक्त-केंद्रीय दिखाता है।",
+      "tip_hi": "प्लेसेंटेशन उदाहरण: एक्साइल = साइट्रस, टमाटर, चाइना गुलाब; पार्श्विका = सरसों, आर्जीमोन; फ्री-सेंट्रल = डायन्थस, प्रिमरोज़; सीमांत = मटर."
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1381,8 +1381,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Adiantum caudatum produces adventitious buds at the tips of its arching fronds. When the frond tips touch moist soil, they produce roots and daughter plantlets, creating a walking habit across ground surfaces.",
-      "tip_hi": "Walking fern (Adiantum) reproduces vegetatively via leaf-tip rooting; it does NOT physically walk or possess motile spores."
+      "explanation_hi": "एडियंटम कॉडेटम अपने धनुषाकार मोर्चों की युक्तियों पर साहसिक कलियाँ पैदा करता है। जब पत्तों की युक्तियाँ नम मिट्टी को छूती हैं, तो वे जड़ें और बेटी पौधे पैदा करती हैं, जिससे जमीन की सतहों पर चलने की आदत बन जाती है।",
+      "tip_hi": "वॉकिंग फ़र्न (एडियंटम) पत्ती-टिप रूटिंग के माध्यम से वानस्पतिक रूप से प्रजनन करता है; यह शारीरिक रूप से नहीं चलता है या इसमें गतिशील बीजाणु नहीं हैं।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1408,8 +1408,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In the groundnut (Arachis hypogaea), flowers are aerial, but after fertilization, the floral peg elongates downward into the soil by positive geotropism, where the fruit (pod) matures underground.",
-      "tip_hi": "Groundnut is a geocarpic fruit (subterranean legume); Potato is an underground stem tuber; Onion is a modified underground tunicated bulb."
+      "explanation_hi": "मूंगफली (अराचिस हाइपोगिया) में, फूल हवाई होते हैं, लेकिन निषेचन के बाद, पुष्प खूंटी सकारात्मक भू-अनुवर्तन द्वारा मिट्टी में नीचे की ओर बढ़ जाती है, जहां फल (फली) भूमिगत रूप से परिपक्व होती है।",
+      "tip_hi": "मूंगफली एक जियोकार्पिक फल (भूमिगत फलियां) है; आलू एक भूमिगत तना कंद है; प्याज एक संशोधित भूमिगत ट्यूनिकेटेड बल्ब है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1462,8 +1462,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Leghaemoglobin is an oxygen-scavenging haemoprotein synthesized collaboratively by राइजोबियम bacteroids and legume plant cells that maintains strict anaerobic conditions around oxygen-sensitive nitrogenase.",
-      "tip_hi": "The enzyme nitrogenase is destroyed by free O2. Leghaemoglobin binds oxygen away from it, turning the interior of active nodules pink."
+      "explanation_hi": "लेगहीमोग्लोबिन एक ऑक्सीजन-स्कैवेंजिंग हेमोप्रोटीन है जिसे राइजोबियम बैक्टेरॉइड्स और फलियां पौधों की कोशिकाओं द्वारा सहयोगात्मक रूप से संश्लेषित किया जाता है जो ऑक्सीजन-संवेदनशील नाइट्रोजनेज़ के आसपास सख्त अवायवीय स्थितियों को बनाए रखता है।",
+      "tip_hi": "एंजाइम नाइट्रोजनेज़ मुक्त O2 द्वारा नष्ट हो जाता है। लेगहीमोग्लोबिन ऑक्सीजन को अपने से दूर बांध लेता है, जिससे सक्रिय पिंडों का आंतरिक भाग गुलाबी हो जाता है।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1489,8 +1489,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "C4 plants exhibit Kranz anatomy. Initial carboxylation by PEP carboxylase occurs in mesophyll cells forming C4 acids, which are transported to bundle sheath cells where Rubisco carries out the final Calvin cycle.",
-      "tip_hi": "C4 plants division of labor: Mesophyll cells = PEP carboxylase (initial C4 acid formation); Bundle sheath cells = Rubisco + Calvin Cycle (C3 pathway)."
+      "explanation_hi": "C4 पौधे क्रांज़ शरीर रचना का प्रदर्शन करते हैं। पीईपी कार्बोक्सिलेज़ द्वारा प्रारंभिक कार्बोक्सिलेशन मेसोफिल कोशिकाओं में होता है जो सी 4 एसिड बनाते हैं, जिन्हें बंडल शीथ कोशिकाओं में ले जाया जाता है जहां रुबिस्को अंतिम केल्विन चक्र को पूरा करता है।",
+      "tip_hi": "C4 पौधे श्रम का विभाजन: मेसोफिल कोशिकाएं = PEP कार्बोक्सिलेज (प्रारंभिक C4 एसिड गठन); बंडल शीथ कोशिकाएँ = रुबिस्को + केल्विन चक्र (C3 मार्ग)।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1516,8 +1516,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In gymnosperms, endosperm is the female gametophyte tissue developed directly from the functional megaspore before fertilization, making it haploid (n). In angiosperms, double fertilization forms triploid (3n) endosperm.",
-      "tip_hi": "Gymnosperm endosperm = Haploid (n), formed BEFORE fertilization; Angiosperm endosperm = Triploid (3n), formed AFTER double fertilization."
+      "explanation_hi": "जिम्नोस्पर्म में, एंडोस्पर्म मादा गैमेटोफाइट ऊतक है जो निषेचन से पहले कार्यात्मक मेगास्पोर से सीधे विकसित होता है, जो इसे अगुणित (एन) बनाता है। आवृतबीजी पौधों में, दोहरे निषेचन से त्रिगुणित (3n) भ्रूणपोष बनता है।",
+      "tip_hi": "जिम्नोस्पर्म एंडोस्पर्म = अगुणित (एन), निषेचन से पहले गठित; एंजियोस्पर्म एंडोस्पर्म = ट्रिपलोइड (3n), दोहरे निषेचन के बाद बनता है।"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -1543,7 +1543,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "During fruit ripening, green chlorophyll pigments degrade while thylakoids dissolve, transforming photosynthetic chloroplasts into non-photosynthetic chromoplasts rich in carotenoid and lycopene pigments.",
+      "explanation_hi": "फल पकने के दौरान, हरे क्लोरोफिल वर्णक नष्ट हो जाते हैं जबकि थायलाकोइड्स घुल जाते हैं, जिससे प्रकाश संश्लेषक क्लोरोप्लास्ट कैरोटीनॉयड और लाइकोपीन वर्णकों से भरपूर गैर-प्रकाश संश्लेषक क्रोमोप्लास्ट में बदल जाते हैं।",
       "tip_hi": "Plastid transformation during ripening: Green हरितलवक (क्लोरोप्लास्ट) -> Red/Yellow Chromoplast. Amyloplasts store starch; Leucoplasts are colorless."
     },
     {
@@ -1570,8 +1570,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Nitrification occurs in two sequential biological steps: Nitrosomonas oxidizes ammonia/ammonium ions into nitrite (NO2-), and Nitrobacter subsequent oxidizes nitrite into nitrate (NO3-).",
-      "tip_hi": "Step 1: Ammonia -> Nitrite (Nitrosomonas & Nitrococcus); Step 2: Nitrite -> Nitrate (Nitrobacter). Azotobacter is free-living N2 fixer."
+      "explanation_hi": "नाइट्रीकरण दो अनुक्रमिक जैविक चरणों में होता है: नाइट्रोसोमोनास अमोनिया/अमोनियम आयनों को नाइट्राइट (NO2-) में ऑक्सीकरण करता है, और नाइट्रोबैक्टर बाद में नाइट्राइट को नाइट्रेट (NO3-) में ऑक्सीकरण करता है।",
+      "tip_hi": "चरण 1: अमोनिया -> नाइट्राइट (नाइट्रोसोमोनस और नाइट्रोकोकस); चरण 2: नाइट्राइट -> नाइट्रेट (नाइट्रोबैक्टर)। एज़ोटोबैक्टर मुक्त-जीवित N2 फिक्सर है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1597,8 +1597,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Agar-agar is a sulfated galactan polysaccharide derived from cell walls of red algae (Rhodophyceae), primarily Gelidium and Gracilaria. Sargassum yields alginates, and Ulothrix is a green alga.",
-      "tip_hi": "Agar-agar = Gelidium & Gracilaria (Red algae); Alginic acid / Algin = Laminaria & Fucus (Brown algae); Carrageenan = Chondrus crispus (Red alga)."
+      "explanation_hi": "अगर-अगर एक सल्फेटेड गैलेक्टन पॉलीसेकेराइड है जो लाल शैवाल (रोडोफाइसी), मुख्य रूप से गेलिडियम और ग्रेसिलेरिया की कोशिका दीवारों से प्राप्त होता है। सारगैसम से एल्गिनेट प्राप्त होता है और उलोथ्रिक्स एक हरा शैवाल है।",
+      "tip_hi": "अगर-अगर = गेलिडियम और ग्रेसिलेरिया (लाल शैवाल); एल्गिनिक एसिड / एल्गिन = लैमिनारिया और फ़्यूकस (भूरा शैवाल); कैरेजेनन = चोंड्रस क्रिस्पस (लाल शैवाल)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1624,8 +1624,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Floridean starch synthesized in Rhodophyceae consists of branched alpha-glucan polymers connected by alpha-(1,4) and alpha-(1,6) glycosidic linkages, mirroring the molecular branching of amylopectin and animal glycogen.",
-      "tip_hi": "Stored foods: Chlorophyceae = Starch; Phaeophyceae = Laminarin and Mannitol; Rhodophyceae = Floridean starch (structurally like amylopectin & glycogen).\nSection 4: Zoology & Human Physiology (जंतु विज्ञान एवं मानव कार्यिकी) — Questions 61 to 80\nDigestive & Excretory Systems, Cellular Immunology, Evolutionary Connecting Links, Genetics & Molecular Biology"
+      "explanation_hi": "रोडोफाइसी में संश्लेषित फ्लोरिडियन स्टार्च में अल्फा-(1,4) और अल्फा-(1,6) ग्लाइकोसिडिक लिंकेज से जुड़े शाखित अल्फा-ग्लूकन पॉलिमर होते हैं, जो एमाइलोपेक्टिन और पशु ग्लाइकोजन की आणविक शाखाओं को प्रतिबिंबित करते हैं।",
+      "tip_hi": "भंडारित खाद्य पदार्थ: क्लोरोफाइसी = स्टार्च; फियोफाइसी = लैमिनारिन और मैनिटोल; रोडोफाइसी = फ्लोरिडियन स्टार्च (संरचनात्मक रूप से एमाइलोपेक्टिन और ग्लाइकोजन की तरह)।\nधारा 4: प्राणीशास्त्र एवं मानव शरीर क्रिया विज्ञान (जंतु एवं मानव शरीर विज्ञान) - प्रश्न 61 से 80\nपाचन और उत्सर्जन प्रणाली, सेलुलर इम्यूनोलॉजी, विकासवादी कनेक्टिंग लिंक, जेनेटिक्स और आणविक जीवविज्ञान"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -1651,8 +1651,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Oxyntic (also called parietal) cells in the gastric mucosa secrete hydrochloric acid (which lowers stomach pH to 1.5-2.0 to activate pepsinogen) and Castle's intrinsic factor (essential for vitamin B12 absorption).",
-      "tip_hi": "Oxyntic/Parietal cells = HCl & Intrinsic Factor; Chief/Zymogenic cells = Pepsinogen & Prorennin; Goblet cells = Mucus."
+      "explanation_hi": "गैस्ट्रिक म्यूकोसा में ऑक्सीनटिक (पार्श्विका भी कहा जाता है) कोशिकाएं हाइड्रोक्लोरिक एसिड (जो पेप्सिनोजेन को सक्रिय करने के लिए पेट के पीएच को 1.5-2.0 तक कम करती है) और कैसल के आंतरिक कारक (विटामिन बी 12 अवशोषण के लिए आवश्यक) का स्राव करती हैं।",
+      "tip_hi": "ऑक्सीनटिक/पार्श्विका कोशिकाएं = एचसीएल और आंतरिक कारक; मुख्य/ज़ाइमोजेनिक कोशिकाएँ = पेप्सिनोजन और प्रोरेनिन; गॉब्लेट कोशिकाएँ = बलगम।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -1679,7 +1679,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Secretin is released by duodenum S-cells in response to अम्लीय chyme, stimulating the exocrine अग्न्याशय to secrete watery pancreatic juice rich in bicarbonate ions to neutralize stomach acid.",
-      "tip_hi": "Secretin = stimulates pancreatic bicarbonate and water secretion; Cholecystokinin (CCK) = stimulates gallbladder bile ejection and pancreatic digestive enzymes."
+      "tip_hi": "सीक्रेटिन = अग्नाशयी बाइकार्बोनेट और जल स्राव को उत्तेजित करता है; कोलेसीस्टोकिनिन (सीसीके) = पित्ताशय की थैली से पित्त निष्कासन और अग्नाशयी पाचन एंजाइमों को उत्तेजित करता है।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -1705,7 +1705,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पेप्सिन is the active proteolytic enzyme of the stomach, converted from inactive pepsinogen by gastric HCl; it operates optimally at pH 1.5-2.0 to cleave complex proteins into proteoses and peptones.",
+      "explanation_hi": "पेप्सिन पेट का सक्रिय प्रोटियोलिटिक एंजाइम है, जो गैस्ट्रिक एचसीएल द्वारा निष्क्रिय पेप्सिनोजन से परिवर्तित होता है; यह जटिल प्रोटीन को प्रोटिओज़ और पेप्टोन में विभाजित करने के लिए पीएच 1.5-2.0 पर इष्टतम रूप से संचालित होता है।",
       "tip_hi": "पेप्सिन = operates in अम्लीय medium (pH 1.5-2.0) in stomach; ट्रिप्सिन = operates in alkaline medium (pH 7.8-8.5) in small intestine."
     },
     {
@@ -1732,7 +1732,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each human kidney contains approximately one million nephrons comprising a glomerulus, Bowman's capsule, and renal tubules that perform blood ultrafiltration, selective reabsorption, and tubular secretion.",
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग दस लाख नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल और गुर्दे की नलिकाएं शामिल होती हैं जो रक्त अल्ट्राफिल्ट्रेशन, चयनात्मक पुनर्अवशोषण और ट्यूबलर स्राव करती हैं।",
       "tip_hi": "नेफ्रॉन (वृक्काणु) = Excretory and filtration unit of Kidney; Neuron = Structural and functional unit of Nervous system."
     },
     {
@@ -1759,8 +1759,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "B-lymphocytes proliferate and differentiate into effector plasma cells, which secrete specific immunoglobulin proteins (antibodies) into circulating blood to neutralize invading pathogens.",
-      "tip_hi": "B-Lymphocytes = Humoral immunity (produce antibodies); T-Lymphocytes = Cell-mediated immunity; Thrombocytes = Blood clotting."
+      "explanation_hi": "बी-लिम्फोसाइट्स बढ़ते हैं और प्रभावकारी प्लाज्मा कोशिकाओं में विभेदित होते हैं, जो हमलावर रोगजनकों को बेअसर करने के लिए रक्त संचार में विशिष्ट इम्युनोग्लोबुलिन प्रोटीन (एंटीबॉडी) का स्राव करते हैं।",
+      "tip_hi": "बी-लिम्फोसाइट्स = हास्य प्रतिरक्षा (एंटीबॉडी का उत्पादन); टी-लिम्फोसाइट्स = कोशिका-मध्यस्थ प्रतिरक्षा; थ्रोम्बोसाइट्स = रक्त का थक्का जमना।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -1786,8 +1786,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Alveolar gas exchange is a passive biophysical process governed by Fick's law of simple diffusion down partial pressure concentration gradients without cellular ATP expenditure.",
-      "tip_hi": "Gas exchange in lungs and tissues is strictly driven by simple physical diffusion based on partial pressure differences (pO2 and pCO2)."
+      "explanation_hi": "वायुकोशीय गैस विनिमय एक निष्क्रिय बायोफिजिकल प्रक्रिया है जो सेलुलर एटीपी व्यय के बिना आंशिक दबाव एकाग्रता ग्रेडियेंट के नीचे सरल प्रसार के फ़िक के नियम द्वारा शासित होती है।",
+      "tip_hi": "फेफड़ों और ऊतकों में गैस विनिमय सख्ती से आंशिक दबाव अंतर (pO2 और pCO2) के आधार पर सरल भौतिक प्रसार द्वारा संचालित होता है।"
     },
     {
       "source": "BPSC Middle School & PRT Class 1-5",
@@ -1813,7 +1813,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Peristalsis is an involuntary reflex characterized by coordinated circular muscle contraction behind the food bolus and longitudinal muscle relaxation ahead of it, propelling food down the digestive tract.",
+      "explanation_hi": "पेरिस्टलसिस एक अनैच्छिक प्रतिवर्त है जो भोजन के बोलस के पीछे समन्वित गोलाकार मांसपेशी संकुचन और उसके आगे अनुदैर्ध्य मांसपेशी विश्राम द्वारा विशेषता है, जो भोजन को पाचन तंत्र में धकेलता है।",
       "tip_hi": "Peristalsis = Muscular wave movement propelling food through gut; Translocation = फ्लोएम (भोजन संवहन) nutrient transport; Transpiration = Water vapor loss from leaves."
     },
     {
@@ -1840,8 +1840,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The ureters are bilateral muscular ducts that transport urine from the renal pelvis of each kidney into the urinary bladder. The urethra discharges urine from the bladder to the exterior.",
-      "tip_hi": "Kidney to Bladder = Ureter (द्वि-पार्श्वी नलिका); Bladder to Outside = Urethra (मूत्रमार्ग)."
+      "explanation_hi": "मूत्रवाहिनी द्विपक्षीय पेशीय नलिकाएं हैं जो प्रत्येक गुर्दे के वृक्क श्रोणि से मूत्र को मूत्राशय में ले जाती हैं। मूत्रमार्ग मूत्राशय से मूत्र को बाहर की ओर प्रवाहित करता है।",
+      "tip_hi": "गुर्दे से मूत्राशय = मूत्रवाहिनी (द्वि-पार्श्व नलिका); मूत्राशय से बाहर की ओर = मूत्रमार्ग (मूत्रमार्ग)।"
     },
     {
       "source": "BPSC Middle School Question Paper - Science",
@@ -1867,8 +1867,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Nodes of Ranvier are periodic uninsulated gaps along the myelinated axons of neurons where voltage-gated sodium channels are concentrated, facilitating rapid saltatory conduction of nerve impulses.",
-      "tip_hi": "Nodes of Ranvier = Gaps in the myelin sheath along neuron axons enabling fast saltatory impulse conduction."
+      "explanation_hi": "रैनवियर के नोड्स न्यूरॉन्स के माइलिनेटेड अक्षतंतु के साथ आवधिक अनइंसुलेटेड अंतराल हैं जहां वोल्टेज-गेटेड सोडियम चैनल केंद्रित होते हैं, जो तंत्रिका आवेगों के तेजी से नमकीन संचालन की सुविधा प्रदान करते हैं।",
+      "tip_hi": "रैनवियर के नोड्स = न्यूरॉन अक्षतंतु के साथ माइलिन म्यान में अंतराल जो तेजी से नमकीन आवेग संचालन को सक्षम करता है।"
     },
     {
       "source": "BPSC Middle School Question Paper - Science",
@@ -1894,8 +1894,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Archaeopteryx possessed avian characteristics (feathers, wings, wishbone) alongside reptilian features (beak with teeth, long bony tail, clawed digits), establishing that birds evolved from theropod reptiles.",
-      "tip_hi": "Archaeopteryx = Connecting link between Reptiles and Birds; Ichthyostega = Connecting link between Fishes and Amphibians; Platypus = Reptiles and Mammals."
+      "explanation_hi": "आर्कियोप्टेरिक्स में एवियन विशेषताएं (पंख, पंख, विशबोन) के साथ-साथ सरीसृप विशेषताएं (दांतों के साथ चोंच, लंबी हड्डी वाली पूंछ, पंजे वाले अंक) थे, जिससे यह स्थापित हुआ कि पक्षी थेरोपॉड सरीसृपों से विकसित हुए थे।",
+      "tip_hi": "आर्कियोप्टेरिक्स = सरीसृप और पक्षियों के बीच जोड़ने वाली कड़ी; इचथियोस्टेगा = मछलियों और उभयचरों के बीच जोड़ने वाली कड़ी; प्लैटिपस = सरीसृप और स्तनधारी।"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -1921,8 +1921,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dengue is caused by the Dengue virus (DENV 1-4), an arthropod-borne single-stranded positive-sense RNA virus belonging to the family Flaviviridae, transmitted by Aedes aegypti mosquitoes.",
-      "tip_hi": "Dengue virus genome = Single-stranded RNA (Flavivirus / Arbovirus); Vector = Day-biting female Aedes aegypti mosquito."
+      "explanation_hi": "डेंगू डेंगू वायरस (DENV 1-4) के कारण होता है, जो फ्लेविविरिडे परिवार से संबंधित एक आर्थ्रोपॉड-जनित एकल-फंसे सकारात्मक-भावना आरएनए वायरस है, जो एडीज एजिप्टी मच्छरों द्वारा फैलता है।",
+      "tip_hi": "डेंगू वायरस जीनोम = सिंगल-स्ट्रैंडेड आरएनए (फ्लैविवायरस / आर्बोवायरस); वेक्टर = दिन में काटने वाली मादा एडीज एजिप्टी मच्छर।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -1948,8 +1948,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Malaria is caused by Plasmodium species and transmitted by female Anopheles mosquitoes, which require blood meals to nourish developing eggs. Male mosquitoes feed exclusively on plant nectar.",
-      "tip_hi": "Malaria = Female Anopheles (Plasmodium parasite); Dengue/Chikungunya = Female Aedes (Flavivirus); Filariasis = Female Culex (Wuchereria worm)."
+      "explanation_hi": "मलेरिया प्लास्मोडियम प्रजाति के कारण होता है और मादा एनोफिलिस मच्छरों द्वारा फैलता है, जिन्हें विकासशील अंडों को पोषण देने के लिए रक्त भोजन की आवश्यकता होती है। नर मच्छर विशेष रूप से पौधे के रस पर भोजन करते हैं।",
+      "tip_hi": "मलेरिया = मादा एनोफ़ेलीज़ (प्लाज्मोडियम परजीवी); डेंगू/चिकनगुनिया = महिला एडीज (फ्लैविवायरस); फाइलेरिया = मादा क्यूलेक्स (वुचेरेरिया कृमि)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1975,8 +1975,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ribosomes (often termed 'protein factories' of the cell) translate mRNA codon sequences into polypeptide chains by catalyzing peptide bond formation between linked amino acids.",
-      "tip_hi": "Ribosomes = Protein synthesis; Smooth Endoplasmic Reticulum = Lipid and steroid synthesis; Golgi Apparatus = Packaging and secretion."
+      "explanation_hi": "राइबोसोम (अक्सर कोशिका के 'प्रोटीन कारखाने' कहा जाता है) जुड़े अमीनो एसिड के बीच पेप्टाइड बंधन गठन को उत्प्रेरित करके एमआरएनए कोडन अनुक्रमों को पॉलीपेप्टाइड श्रृंखलाओं में अनुवादित करते हैं।",
+      "tip_hi": "राइबोसोम = प्रोटीन संश्लेषण; चिकना एंडोप्लाज्मिक रेटिकुलम = लिपिड और स्टेरॉयड संश्लेषण; गोल्गी उपकरण = पैकेजिंग और स्राव।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -2002,8 +2002,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Monotremes (order Monotremata), including the spiny anteater (Echidna / Tachyglossus) and the duck-billed platypus (Ornithorhynchus), are primitive egg-laying (oviparous) mammals that nourish hatched young with milk.",
-      "tip_hi": "Egg-laying mammals (Prototheria / Monotremes) = Echidna and Platypus; Marsupials (Pouched) = Kangaroo; Placental mammals = Loris, Humans."
+      "explanation_hi": "मोनोट्रेम (ऑर्डर मोनोट्रेमाटा), जिसमें स्पाइनी एंटईटर (इकिडना / टैचीग्लोसस) और डक-बिल्ड प्लैटिपस (ऑर्निथोरहिन्चस) शामिल हैं, आदिम अंडे देने वाले (ओविपेरस) स्तनधारी हैं जो दूध के साथ नवजात शिशुओं का पोषण करते हैं।",
+      "tip_hi": "अंडे देने वाले स्तनधारी (प्रोटोथेरिया / मोनोट्रेम्स) = इकिडना और प्लैटिपस; मार्सुपियल्स (पाउच्ड) = कंगारू; अपरा स्तनधारी = लोरिस, मनुष्य।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -2029,8 +2029,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Prorennin is secreted by gastric chief cells in infant gastric juice and activated by HCl into active rennin, which coagulates soluble milk casein into insoluble calcium paracaseinate for digestion by पेप्सिन.",
-      "tip_hi": "Rennin (with double 'n') is a milk-coagulating enzyme in infant gastric juice; Renin (with single 'n') is a kidney hormone in the RAAS blood pressure system."
+      "explanation_hi": "प्रोरेनिन शिशु के गैस्ट्रिक रस में गैस्ट्रिक प्रमुख कोशिकाओं द्वारा स्रावित होता है और एचसीएल द्वारा सक्रिय रेनिन में सक्रिय होता है, जो पेप्सिन द्वारा पाचन के लिए घुलनशील दूध कैसिइन को अघुलनशील कैल्शियम पैराकेसिनेट में जमा देता है।",
+      "tip_hi": "रेनिन (डबल 'एन' के साथ) शिशु के गैस्ट्रिक जूस में दूध को जमाने वाला एंजाइम है; रेनिन (एकल 'एन' के साथ) आरएएएस रक्तचाप प्रणाली में एक किडनी हार्मोन है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -2056,8 +2056,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Intercostal muscles occupy the intercostal spaces between adjacent ribs; their external and internal sets contract and relax to alter the antero-posterior and transverse dimensions of the thoracic cavity during breathing.",
-      "tip_hi": "External and internal intercostal muscles are located strictly between the ribs, functioning in pulmonary ventilation."
+      "explanation_hi": "इंटरकोस्टल मांसपेशियां आसन्न पसलियों के बीच इंटरकोस्टल रिक्त स्थान पर कब्जा कर लेती हैं; उनके बाहरी और आंतरिक सेट सांस लेने के दौरान वक्ष गुहा के पूर्व-पश्च और अनुप्रस्थ आयामों को बदलने के लिए सिकुड़ते और आराम करते हैं।",
+      "tip_hi": "बाहरी और आंतरिक इंटरकोस्टल मांसपेशियां पसलियों के बीच सख्ती से स्थित होती हैं, जो फुफ्फुसीय वेंटिलेशन में कार्य करती हैं।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -2083,8 +2083,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Collagen is the primary insoluble fibrous protein of the extracellular matrix and connective tissues (tendons, skin, ligaments, bones, and cartilage), constituting approx. 30% of total body protein mass in animals.",
-      "tip_hi": "Most abundant protein in the Animal Kingdom = Collagen; Most abundant protein in the entire Biosphere = Rubisco (in green plants)."
+      "explanation_hi": "कोलेजन बाह्य कोशिकीय मैट्रिक्स और संयोजी ऊतकों (कण्डरा, त्वचा, स्नायुबंधन, हड्डियों और उपास्थि) का प्राथमिक अघुलनशील रेशेदार प्रोटीन है, जो लगभग बनता है। पशुओं में कुल शरीर प्रोटीन द्रव्यमान का 30%।",
+      "tip_hi": "पशु जगत में सर्वाधिक प्रचुर प्रोटीन = कोलेजन; संपूर्ण जीवमंडल में सर्वाधिक प्रचुर प्रोटीन = रूबिस्को (हरे पौधों में)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -2111,7 +2111,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Thyroxine (T4) is an iodinated amino acid derivative synthesized from tyrosine in the थायरॉयड ग्रंथि gland. In contrast, aldosterone and estrogen are lipid-soluble steroid hormones synthesized from cholesterol.",
-      "tip_hi": "Steroid Hormones (from cholesterol) = Cortisol, Aldosterone, Estrogen, Progesterone, Testosterone; Amino Acid Derivatives = Thyroxine, Epinephrine."
+      "tip_hi": "स्टेरॉयड हार्मोन (कोलेस्ट्रॉल से) = कोर्टिसोल, एल्डोस्टेरोन, एस्ट्रोजन, प्रोजेस्टेरोन, टेस्टोस्टेरोन; अमीनो एसिड डेरिवेटिव = थायरोक्सिन, एपिनेफ्रिन।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -2137,8 +2137,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The genetic code is a triplet code: three consecutive ribonucleotide bases on mRNA constitute a codon specifying one particular amino acid (yielding 4^3 = 64 possible codons, proved by Nirenberg, Khorana, and Holley).",
-      "tip_hi": "Triplet code: 3 bases = 1 codon = 1 amino acid. There are 64 codons in total: 61 sense codons and 3 nonsense/stop codons (UAA, UAG, UGA)."
+      "explanation_hi": "आनुवंशिक कोड एक त्रिक कोड है: एमआरएनए पर तीन लगातार राइबोन्यूक्लियोटाइड आधार एक विशेष अमीनो एसिड को निर्दिष्ट करने वाले कोडन का निर्माण करते हैं (4^3 = 64 संभावित कोडन उत्पन्न करते हैं, जो निरेनबर्ग, खोराना और होली द्वारा सिद्ध किया गया है)।",
+      "tip_hi": "त्रिक कोड: 3 क्षार = 1 कोडन = 1 अमीनो एसिड। कुल मिलाकर 64 कोडन हैं: 61 सेंस कोडन और 3 नॉनसेंस/स्टॉप कोडन (यूएए, यूएजी, यूजीए)।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -2164,8 +2164,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Charles Darwin's revolutionary masterwork 'On the Origin of Species by Means of Natural Selection' was officially published in London on 24th November 1859, proposing the theory of biological evolution by natural selection.",
-      "tip_hi": "Milestone science publication dates: 1859 = Darwin's 'Origin of Species'; 1866 = Mendel's laws of inheritance published; 1953 = Watson & Crick DNA double helix.\nMaster Answer Key & Topic Index (Questions 1 to 80)\nQ. No.\nDiscipline\nCore Scientific Topic\nOfficial Key"
+      "explanation_hi": "चार्ल्स डार्विन की क्रांतिकारी कृति 'प्राकृतिक चयन के माध्यम से प्रजातियों की उत्पत्ति पर' 24 नवंबर 1859 को आधिकारिक तौर पर लंदन में प्रकाशित हुई थी, जिसमें प्राकृतिक चयन द्वारा जैविक विकास के सिद्धांत का प्रस्ताव दिया गया था।",
+      "tip_hi": "मील का पत्थर विज्ञान प्रकाशन तिथियाँ: 1859 = डार्विन की 'प्रजातियों की उत्पत्ति'; 1866 = मेंडल के वंशानुक्रम के नियम प्रकाशित; 1953 = वॉटसन और क्रिक डीएनए डबल हेलिक्स।\nमास्टर उत्तर कुंजी एवं विषय सूचकांक (प्रश्न 1 से 80)\nप्र. नहीं.\nअनुशासन\nमूल वैज्ञानिक विषय\nआधिकारिक कुंजी"
     }
   ]
 }

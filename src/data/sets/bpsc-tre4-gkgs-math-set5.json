@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Area of a rhombus = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 sq सेमी.",
-      "tip_hi": "Area of rhombus = 1/2 * product of diagonals = 1/2 * 16 * 12 = 96 cm²."
+      "explanation_hi": "एक समचतुर्भुज का क्षेत्रफल = (1/2) * d1 * d2 = (1/2) * 16 * 12 = 96 वर्ग सेमी।",
+      "tip_hi": "समचतुर्भुज का क्षेत्रफल = 1/2 * विकर्णों का गुणनफल = 1/2 * 16 * 12 = 96 सेमी²।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total of 6 numbers = 6 * 30 = 180. Sum of first four = 4 * 25 = 100. Sum of last three = 3 * 35 = 105. Sum of (first 4 + last 3) = 100 + 105 = 205 (includes 4th number twice). Fourth number = 205 - 180 = 25.",
-      "tip_hi": "Overlapping number = (Sum of 1st set + Sum of 2nd set) - Total Sum = (100 + 105) - 180 = 25."
+      "explanation_hi": "6 संख्याओं का कुल = 6 * 30 = 180। पहले चार का योग = 4 * 25 = 100। अंतिम तीन का योग = 3 * 35 = 105। (पहले 4 + अंतिम 3) का योग = 100 + 105 = 205 (चौथी संख्या दो बार शामिल है)। चौथी संख्या = 205 - 180 = 25.",
+      "tip_hi": "ओवरलैपिंग संख्या = (पहले सेट का योग + दूसरे सेट का योग) - कुल योग = (100 + 105) - 180 = 25।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total distance = 140 + 160 = 300 m. Relative speed in opposite direction = 60 + 48 = 108 किमी/h = 108 * (5/18) = 30 m/s. Crossing time = 300 / 30 = 10 सेकंड.",
-      "tip_hi": "Distance = L1 + L2 = 300 m; Relative speed = 60 + 48 = 108 किमी/h = 30 m/s. Time = 300/30 = 10 s."
+      "explanation_hi": "कुल दूरी = 140 + 160 = 300 मीटर. विपरीत दिशा में सापेक्ष गति = 60 + 48 = 108 किमी/घंटा = 108 * (5/18) = 30 मीटर/सेकेंड। पार करने का समय = 300/30 = 10 सेकंड।",
+      "tip_hi": "दूरी = एल1 + एल2 = 300 मीटर; सापेक्ष गति = 60 + 48 = 108 किमी/घंटा = 30 मीटर/सेकेंड। समय = 300/30 = 10 सेकंड।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The cerebellum (hindbrain) coordinates motor activities, precision of voluntary movements, and equilibrium. The cerebrum controls conscious thought and memory, while the medulla oblongata controls involuntary vitals (heartbeat, श्वसन).",
-      "tip_hi": "Balance & posture = Cerebellum; Memory & intelligence = Cerebrum; Heartbeat & breathing = Medulla Oblongata."
+      "explanation_hi": "सेरिबैलम (पश्चमस्तिष्क) मोटर गतिविधियों, स्वैच्छिक आंदोलनों की सटीकता और संतुलन का समन्वय करता है। सेरेब्रम सचेत विचार और स्मृति को नियंत्रित करता है, जबकि मेडुला ऑबोंगटा अनैच्छिक महत्वपूर्ण अंगों (दिल की धड़कन, श्वसन) को नियंत्रित करता है।",
+      "tip_hi": "संतुलन और मुद्रा = सेरिबैलम; स्मृति एवं बुद्धि = सेरेब्रम; दिल की धड़कन और सांस लेना = मेडुला ओब्लांगेटा।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "A light वर्ष is the astronomical distance that light travels in निर्वात in one Julian वर्ष (approx. 9.46 * 10^12 किमी or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
-      "tip_hi": "Light वर्ष & Parsec = Units of astronomical distance; 1 Parsec ≈ 3.26 Light वर्ष."
+      "tip_hi": "प्रकाश वर्ष और पारसेक = खगोलीय दूरी की इकाइयाँ; 1 पारसेक ≈ 3.26 प्रकाश वर्ष।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "SP = CP * (100 - Loss%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190.",
-      "tip_hi": "15% of 1400 = 210. SP = 1400 - 210 = ₹1,190."
+      "explanation_hi": "एसपी = सीपी * (100 - हानि%)/100 = 1400 * 85/100 = 14 * 85 = ₹1,190।",
+      "tip_hi": "1400 का 15% = 210. एसपी = 1400 - 210 = ₹1,190।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Volume ratio = (r1/r2)^3 = 64/27 => r1/r2 = 4/3. Surface area ratio = (r1/r2)^2 = (4/3)^2 = 16/9.",
-      "tip_hi": "Volume ratio = a^3 : b^3 = 64 : 27 => Radius ratio = 4 : 3 => Area ratio = 4^2 : 3^2 = 16 : 9."
+      "explanation_hi": "आयतन अनुपात = (आर1/आर2)^3 = 64/27 => आर1/आर2 = 4/3। सतह क्षेत्रफल अनुपात = (r1/r2)^2 = (4/3)^2 = 16/9.",
+      "tip_hi": "आयतन अनुपात = a^3 : b^3 = 64 : 27 => त्रिज्या अनुपात = 4 : 3 => क्षेत्रफल अनुपात = 4^2 : 3^2 = 16 : 9."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -247,7 +247,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inflow rate = 1/8 tank/hr. Net inflow with leak = 1/10 tank/hr. Leakage rate = 1/8 - 1/10 = (5 - 4)/40 = 1/40 tank/hr. Time to empty full tank = 40 घंटे.",
+      "explanation_hi": "अंतर्वाह दर = 1/8 टैंक/घंटा। रिसाव के साथ शुद्ध प्रवाह = 1/10 टैंक/घंटा। रिसाव दर = 1/8 - 1/10 = (5 - 4)/40 = 1/40 टैंक/घंटा। पूरी टंकी खाली करने का समय = 40 घंटे.",
       "tip_hi": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 घंटे."
     },
     {
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to Rayleigh scattering law, intensity of scattered light varies inversely as the fourth power of wavelength (I ∝ 1/λ^4). क्योंकि blue light has a shorter wavelength than red light, it is scattered much more strongly by fine gas molecules in the upper atmosphere.",
-      "tip_hi": "Blue sky = Rayleigh Scattering (I ∝ 1/λ^4); Red sunrise/sunset = Scattering of longer wavelengths; Clouds appear white = Mie scattering."
+      "explanation_hi": "रेले प्रकीर्णन नियम के अनुसार, बिखरे हुए प्रकाश की तीव्रता तरंग दैर्ध्य की चौथी शक्ति (I ∝ 1/λ^4) के विपरीत भिन्न होती है। चूँकि नीली रोशनी की तरंगदैर्ध्य लाल रोशनी की तुलना में कम होती है, यह ऊपरी वायुमंडल में महीन गैस अणुओं द्वारा अधिक मजबूती से बिखरती है।",
+      "tip_hi": "नीला आकाश = रेले स्कैटरिंग (I ∝ 1/λ^4); लाल सूर्योदय/सूर्यास्त = लंबी तरंग दैर्ध्य का प्रकीर्णन; बादल सफेद दिखाई देना=मि बिखरना।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Babu Amar Singh, younger brother of Kunwar Singh, established a parallel revolutionary administration in the Kaimur hills and Shahabad forests, maintaining fierce guerrilla resistance against British columns until late 1859.",
-      "tip_hi": "Guerrilla resistance in Kaimur after Kunwar Singh = Amar Singh."
+      "explanation_hi": "कुँवर सिंह के छोटे भाई बाबू अमर सिंह ने कैमूर पहाड़ियों और शाहाबाद के जंगलों में एक समानांतर क्रांतिकारी प्रशासन की स्थापना की, जिसने 1859 के अंत तक ब्रिटिश स्तंभों के खिलाफ भयंकर गुरिल्ला प्रतिरोध बनाए रखा।",
+      "tip_hi": "कुँवर सिंह = अमर सिंह के बाद कैमूर में गुरिल्ला प्रतिरोध।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Enacted on 11 नवम्बर 1908, the Chhotanagpur Tenancy Act (CNT Act) legally recognized the Khuntkatti (joint tribal ownership) rights of Mundas, banned beth-begari (forced unpaid labour), and strictly prohibited the transfer of tribal land to non-tribals.",
-      "tip_hi": "Chhotanagpur Tenancy Act passed = 1908 (Direct result of Birsa Munda's revolt)."
+      "explanation_hi": "11 नवंबर 1908 को अधिनियमित, छोटानागपुर किरायेदारी अधिनियम (सीएनटी अधिनियम) ने मुंडाओं के खुंटकट्टी (संयुक्त आदिवासी स्वामित्व) अधिकारों को कानूनी रूप से मान्यता दी, बेथ-बेगारी (जबरन अवैतनिक श्रम) पर प्रतिबंध लगा दिया, और आदिवासी भूमि को गैर-आदिवासियों को हस्तांतरित करने पर सख्ती से रोक लगा दी।",
+      "tip_hi": "छोटानागपुर काश्तकारी अधिनियम पारित = 1908 (बिरसा मुंडा के विद्रोह का प्रत्यक्ष परिणाम)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar Diwas is celebrated annually on 22 मार्च to mark the दिन in 1912 when the British government issued the official notification carving the Province of Bihar and Orissa out of the Bengal Presidency.",
-      "tip_hi": "Bihar Diwas = 22 मार्च (Notification of 1912 separation from Bengal)."
+      "explanation_hi": "बिहार दिवस प्रतिवर्ष 22 मार्च को 1912 में उस दिन को चिह्नित करने के लिए मनाया जाता है जब ब्रिटिश सरकार ने बिहार और उड़ीसा प्रांत को बंगाल प्रेसीडेंसी से अलग करने की आधिकारिक अधिसूचना जारी की थी।",
+      "tip_hi": "बिहार दिवस = 22 मार्च (1912 में बंगाल से अलग होने की अधिसूचना)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -410,7 +410,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "On mixing with water, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform जिप्सम (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
-      "tip_hi": "POP setting = Rehydration back to जिप्सम (CaSO4 · 2H2O)."
+      "tip_hi": "पीओपी सेटिंग = जिप्सम में पुनर्जलीकरण (CaSO4 · 2H2O)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Perimeter of circle = 2πr. Perimeter of square = 4a. Given 2πr = 4a => a = (πr)/2. Area of circle = πr^2. Area of square = a^2 = (π^2 r^2)/4. Ratio = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11.",
-      "tip_hi": "Ratio of Area(Circle) to Area(Square) when perimeters are equal is always 14 : 11."
+      "explanation_hi": "वृत्त का परिमाप = 2πr. वर्ग का परिमाप = 4a. दिया गया है 2πr = 4a => a = (πr)/2. वृत्त का क्षेत्रफल = πr^2. वर्ग का क्षेत्रफल = a^2 = (π^2 r^2)/4. अनुपात = (πr^2) / [(π^2 r^2)/4] = 4/π = 4 / (22/7) = 28/22 = 14/11।",
+      "tip_hi": "जब परिमाप बराबर हों तो क्षेत्रफल (वृत्त) का क्षेत्रफल (वर्ग) से अनुपात हमेशा 14:11 होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mendel's Law of Independent Assortment states that alleles of two or more different genes get sorted into gametes independently of one another, demonstrated by the classic 9:3:3:1 dihybrid phenotypic ratio.",
-      "tip_hi": "Monohybrid phenotypic ratio = 3:1 (Law of Segregation); Dihybrid phenotypic ratio = 9:3:3:1 (Law of Independent Assortment)."
+      "explanation_hi": "मेंडल के स्वतंत्र वर्गीकरण के नियम में कहा गया है कि दो या दो से अधिक विभिन्न जीनों के एलील एक दूसरे से स्वतंत्र रूप से युग्मकों में क्रमबद्ध हो जाते हैं, जो क्लासिक 9:3:3:1 डायहाइब्रिड फेनोटाइपिक अनुपात द्वारा प्रदर्शित होता है।",
+      "tip_hi": "मोनोहाइब्रिड फेनोटाइपिक अनुपात = 3:1 (पृथक्करण का नियम); डायहाइब्रिड फेनोटाइपिक अनुपात = 9:3:3:1 (स्वतंत्र वर्गीकरण का नियम)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Launched in 2016 under Saat Nischay-1 and continued under Saat Nischay-2, 'Har Ghar Nal Ka Jal' aims to provide piped potable drinking water to all households in Bihar without discrimination.",
-      "tip_hi": "Piped tap water scheme in Bihar = Har Ghar Nal Ka Jal (Saat Nischay)."
+      "explanation_hi": "सात निश्चय-1 के तहत 2016 में शुरू किया गया और सात निश्चय-2 के तहत जारी, 'हर घर नल का जल' का लक्ष्य बिना किसी भेदभाव के बिहार के सभी घरों में पाइप से पीने योग्य पानी उपलब्ध कराना है।",
+      "tip_hi": "बिहार में पाइप नल जल योजना = हर घर नल का जल (सात निश्चय)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Syed Ahmad of Rae Bareli founded the movement in India. When he visited Patna in 1821, he appointed Maulvi Wilayat Ali and Maulvi Inayat Ali as his chief khalifas (deputies), who organized Sadikpur (Patna) as the vital logistical and financial headquarters of the Wahhabi movement. क्योंकि all three were paramount leaders, (D) is the official key.",
-      "tip_hi": "Wahhabi Movement in Patna: Founder in India = Syed Ahmad Barelvi; Patna operational leaders = Wilayat Ali & Inayat Ali. Triggers Option (D)."
+      "explanation_hi": "रायबरेली के सैयद अहमद ने भारत में आंदोलन की स्थापना की। जब उन्होंने 1821 में पटना का दौरा किया, तो उन्होंने मौलवी विलायत अली और मौलवी इनायत अली को अपना प्रमुख खलीफा (प्रतिनिधि) नियुक्त किया, जिन्होंने सादिकपुर (पटना) को वहाबी आंदोलन के महत्वपूर्ण रसद और वित्तीय मुख्यालय के रूप में संगठित किया। क्योंकि तीनों सर्वोपरि नेता थे, (डी) आधिकारिक कुंजी है।",
+      "tip_hi": "पटना में वहाबी आंदोलन: भारत में संस्थापक = सैयद अहमद बरेलवी; पटना परिचालन नेता = विलायत अली और इनायत अली। ट्रिगर विकल्प (डी)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "At compound interest, if P becomes 2P in 3 वर्ष, then 16P = (2^4)P will take 4 * 3 = 12 वर्ष.",
-      "tip_hi": "In CI, if money becomes 2^n times, Time = n * T1. Here 16 = 2^4, so Time = 4 * 3 = 12 वर्ष."
+      "explanation_hi": "चक्रवृद्धि ब्याज पर, यदि P 3 वर्षों में 2P हो जाता है, तो 16P = (2^4)P में 4 * 3 = 12 वर्ष लगेंगे।",
+      "tip_hi": "CI में, यदि पैसा 2^n गुना हो जाता है, तो समय = n * T1। यहाँ 16 = 2^4, इसलिए समय = 4 * 3 = 12 वर्ष।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -598,7 +598,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total possible outcomes = 6 * 6 = 36. Favourable outcomes giving sum 8: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. Probability = 5/36.",
+      "explanation_hi": "कुल संभावित परिणाम = 6 * 6 = 36। योग 8 देने वाले अनुकूल परिणाम: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 परिणाम। प्रायिकता = 5/36.",
       "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
     },
     {
@@ -625,7 +625,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Speed in m/s = 72 * (5/18) = 20 m/s. To pass a point object (standing man), distance = length of train = 180 m. Time = Distance / Speed = 180 / 20 = 9 सेकंड.",
+      "explanation_hi": "मी/से. में गति = 72 * (5/18) = 20 मी./से. एक बिंदु वस्तु (खड़े आदमी) को पार करने के लिए, दूरी = ट्रेन की लंबाई = 180 मीटर। समय = दूरी/गति = 180/20 = 9 सेकंड।",
       "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
     },
     {
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "LCM of 10, 12, 15 = 60 units total work. Daily efficiencies: A = 6, B = 5, C = 4 units/दिन. Total efficiency = 6 + 5 + 4 = 15 units/दिन. Time required = 60 / 15 = 4 दिन.",
-      "tip_hi": "Combined 1-दिन work = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => exactly 4 दिन."
+      "explanation_hi": "10, 12, 15 का एलसीएम = 60 इकाई कुल कार्य। दैनिक क्षमताएँ: ए = 6, बी = 5, सी = 4 इकाइयाँ/दिन। कुल दक्षता = 6 + 5 + 4 = 15 यूनिट/दिन। आवश्यक समय = 60/15 = 4 दिन।",
+      "tip_hi": "संयुक्त 1-दिन का कार्य = 1/10 + 1/12 + 1/15 = 15/60 = 1/4 => ठीक 4 दिन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Volume of cylinder = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * 7 * 10 = 1,540 cu सेमी.",
-      "tip_hi": "V = π r^2 h = 22/7 * 49 * 10 = 154 * 10 = 1,540 cm³."
+      "explanation_hi": "सिलेंडर का आयतन = π * r^2 * h = (22/7) * (7)^2 * 10 = (22/7) * 49 * 10 = 22 * ​​7 * 10 = 1,540 घन सेमी।",
+      "tip_hi": "वी = π आर^2 एच = 22/7 * 49 * 10 = 154 * 10 = 1,540 सेमी³।"
     }
   ]
 }

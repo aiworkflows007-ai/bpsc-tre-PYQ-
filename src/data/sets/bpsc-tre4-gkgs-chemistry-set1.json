@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Hydrated aluminium silicate (Al2O3 · 2SiO2 · 2H2O) corresponds to the mineral kaolinite, commercially के रूप में जाना जाता है china clay.",
-      "tip_hi": "Sand = SiO2; बॉक्साइट = Al2O3 · 2H2O; China Clay (Kaolin) includes the silicate unit 2SiO2."
+      "tip_hi": "रेत = SiO2; बॉक्साइट = Al2O3 · 2H2O; चाइना क्ले (काओलिन) में सिलिकेट इकाई 2SiO2 शामिल है।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sulphur dioxide (SO2), produced from burning fossil fuels and smelting ores, is a harmful primary atmospheric pollutant responsible for acid rain.",
-      "tip_hi": "Normal air: N2 (78%), O2 (21%), Ar (0.93%); Pollutant गैस: SO2, NO2, CO, O3 (tropospheric)."
+      "explanation_hi": "जीवाश्म ईंधन को जलाने और अयस्कों को गलाने से उत्पन्न सल्फर डाइऑक्साइड (SO2), एक हानिकारक प्राथमिक वायुमंडलीय प्रदूषक है जो अम्लीय वर्षा के लिए जिम्मेदार है।",
+      "tip_hi": "सामान्य हवा: N2 (78%), O2 (21%), Ar (0.93%); प्रदूषक गैसें: SO2, NO2, CO, O3 (क्षोभमंडल)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Alpha rays are streams of particulate helium nuclei (4_2 He 2+) carrying mass and charge, जबकि Gamma rays and X-rays are electromagnetic waves.",
-      "tip_hi": "Electromagnetic: Radio, Micro, IR, Visible, UV, X-rays, Gamma rays. Particulate: Alpha, Beta, Cathode rays."
+      "explanation_hi": "अल्फा किरणें द्रव्यमान और आवेश ले जाने वाले कण हीलियम नाभिक (4_2 He 2+) की धाराएं हैं, जबकि गामा किरणें और एक्स-रे विद्युत चुम्बकीय तरंगें हैं।",
+      "tip_hi": "विद्युतचुंबकीय: रेडियो, माइक्रो, आईआर, दृश्यमान, यूवी, एक्स-रे, गामा किरणें। कण: अल्फा, बीटा, कैथोड किरणें।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
@@ -139,8 +139,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "An electric fuse operates on जूल's heating effect (H = I^2 * R * t); high currents generate heat that melts the fuse wire, breaking the circuit.",
-      "tip_hi": "Fuse wire characteristics: High resistance and low melting point (typically tin-lead alloy)."
+      "explanation_hi": "एक विद्युत फ़्यूज़ जूल के ताप प्रभाव (H = I^2 * R * t) पर संचालित होता है; उच्च धाराएँ ऊष्मा उत्पन्न करती हैं जो फ़्यूज़ तार को पिघला देती हैं, जिससे सर्किट टूट जाता है।",
+      "tip_hi": "फ़्यूज़ तार की विशेषताएँ: उच्च प्रतिरोध और कम गलनांक (आमतौर पर टिन-सीसा मिश्र धातु)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Moseley demonstrated that X-ray frequency (√ν) is linearly related to atomic number (Z). The Modern Periodic Law states that properties of elements are periodic functions of their atomic numbers (number of nuclear protons), resolving anomalies in Mendeleev's atomic mass arrangement.",
-      "tip_hi": "Mendeleev = Atomic Mass; Modern Periodic Table (Moseley) = Atomic Number (Z)."
+      "explanation_hi": "मोसले ने प्रदर्शित किया कि एक्स-रे आवृत्ति (√ν) रैखिक रूप से परमाणु क्रमांक (Z) से संबंधित है। आधुनिक आवधिक कानून में कहा गया है कि तत्वों के गुण उनके परमाणु क्रमांक (परमाणु प्रोटॉन की संख्या) के आवधिक कार्य हैं, जो मेंडेलीव की परमाणु द्रव्यमान व्यवस्था में विसंगतियों को हल करते हैं।",
+      "tip_hi": "मेंडेलीव = परमाणु द्रव्यमान; आधुनिक आवर्त सारणी (मोसले) = परमाणु संख्या (Z)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Ralph Fitch visited Patna in 1586 के दौरान Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the गंगा नदी.",
-      "tip_hi": "First English traveler to visit Bihar/Patna = Ralph Fitch (1586, reign of Akbar)."
+      "tip_hi": "बिहार/पटना की यात्रा करने वाला प्रथम अंग्रेज यात्री = राल्फ फिच (1586, अकबर का शासनकाल)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -275,7 +275,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture सल्फ्यूरिक अम्ल (H2SO4).",
-      "tip_hi": "Pyrite in Bihar = Amjhor (Rohtas) - 95% of India's reserves; Fools' Gold."
+      "tip_hi": "बिहार में पाइराइट = अमझोर (रोहतास) - भारत का 95% भंडार; फ़ूल्स गोल्ड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Indian Standard Time (IST) is calculated based on 82°30' E longitude passing through Shankargarh fort / Mirzapur near Prayagraj. It passes through 5 States: UP, MP, Chhattisgarh, Odisha, and Andhra Pradesh, exactly 5 घंटे 30 मिनट ahead of GMT.",
-      "tip_hi": "Standard Meridian = 82°30' E (Mirzapur); Passes through 5 States (UP, MP, CG, Odisha, AP); IST = GMT + 5:30."
+      "explanation_hi": "भारतीय मानक समय (आईएसटी) की गणना प्रयागराज के निकट शंकरगढ़ किला/मिर्जापुर से गुजरने वाले 82°30' पूर्व देशांतर के आधार पर की जाती है। यह 5 राज्यों: यूपी, एमपी, छत्तीसगढ़, ओडिशा और आंध्र प्रदेश से होकर गुजरती है, जीएमटी से ठीक 5 घंटे 30 मिनट पहले।",
+      "tip_hi": "मानक याम्योत्तर = 82°30' पूर्व (मिर्जापुर); 5 राज्यों (यूपी, एमपी, सीजी, ओडिशा, एपी) से होकर गुजरता है; आईएसटी = जीएमटी + 5:30।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Temporary hardness is due to calcium bicarbonate Ca(HCO3)2 and magnesium bicarbonate Mg(HCO3)2. Boiling decomposes them into insoluble carbonates: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2. Permanent hardness is due to chlorides and sulphates of Ca and Mg.",
-      "tip_hi": "Temporary hardness = Bicarbonates of Ca & Mg (removed by boiling); Permanent hardness = Chlorides & Sulphates of Ca & Mg."
+      "explanation_hi": "अस्थायी कठोरता कैल्शियम बाइकार्बोनेट Ca(HCO3)2 और मैग्नीशियम बाइकार्बोनेट Mg(HCO3)2 के कारण होती है। उबालने से वे अघुलनशील कार्बोनेट में विघटित हो जाते हैं: Ca(HCO3)2 -> CaCO3↓ + H2O + CO2। स्थायी कठोरता Ca और Mg के क्लोराइड और सल्फेट के कारण होती है।",
+      "tip_hi": "अस्थायी कठोरता = सीए और एमजी के बाइकार्बोनेट (उबलने से हटा दिया गया); स्थायी कठोरता = Ca और Mg के क्लोराइड और सल्फेट।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -356,7 +356,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of क्षारीय zinc carbonate and acts as a sacrificial sacrificial anode क्योंकि its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
-      "tip_hi": "Galvanization = Coating of Zinc (Zn) on Iron (Fe)."
+      "tip_hi": "गैल्वनीकरण = लोहे (Fe) पर जिंक (Zn) की कोटिंग।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -383,7 +383,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "In Champaran district, Salt Satyagraha began on 15 अप्रैल 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt मार्च.",
-      "tip_hi": "Salt Satyagraha in Champaran = Led by Bipin Bihari Varma; In Patna = Ambika Kant Sinha (Nakhas Pind)."
+      "tip_hi": "चंपारण में नमक सत्याग्रह = बिपिन बिहारी वर्मा के नेतृत्व में; पटना में = अंबिका कांत सिन्हा (नखास पिंड)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Luni flows southwest through Rajasthan and Gujarat for ~495 किमी and is lost in the marshy saline sands of the Rann of Kutch without reaching the sea, representing an inland drainage system.",
-      "tip_hi": "Luni River = Inland drainage, terminates in the Rann of Kutch."
+      "explanation_hi": "लूनी ~495 किमी तक राजस्थान और गुजरात से होकर दक्षिण-पश्चिम में बहती है और समुद्र तक पहुंचे बिना कच्छ के रण की दलदली खारी रेत में खो जाती है, जो एक अंतर्देशीय जल निकासी प्रणाली का प्रतिनिधित्व करती है।",
+      "tip_hi": "लूनी नदी = अंतर्देशीय जल निकासी, कच्छ के रण में समाप्त होती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 243D(3) mandates that not less than one-third of total seats shall be reserved for women in all Panchayats. (Note: States like Bihar have increased this reservation to 50% under state law, but the baseline constitutional requirement is 1/3rd).",
-      "tip_hi": "Constitutional minimum (Art. 243D) = Not less than 1/3rd; Bihar State Law = 50% reservation."
+      "explanation_hi": "अनुच्छेद 243डी(3) कहता है कि सभी पंचायतों में महिलाओं के लिए कुल सीटों में से कम से कम एक तिहाई सीटें आरक्षित की जाएंगी। (नोट: बिहार जैसे राज्यों ने राज्य कानून के तहत इस आरक्षण को 50% तक बढ़ा दिया है, लेकिन आधारभूत संवैधानिक आवश्यकता 1/3 है)।",
+      "tip_hi": "संवैधानिक न्यूनतम (अनुच्छेद 243डी) = 1/3 से कम नहीं; बिहार राज्य कानून = 50% आरक्षण।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar Diwas 2023 marked the 111th anniversary of the State's creation, organized under the focal theme 'Yuva Shakti - Bihar Ki Pragati', emphasizing youth empowerment and self-employment initiatives.",
-      "tip_hi": "Bihar Diwas 2023 Theme = 'Yuva Shakti - Bihar Ki Pragati'."
+      "explanation_hi": "बिहार दिवस 2023 ने राज्य के निर्माण की 111वीं वर्षगांठ को चिह्नित किया, जिसे मुख्य थीम 'युवा शक्ति - बिहार की प्रगति' के तहत आयोजित किया गया, जिसमें युवा सशक्तिकरण और स्वरोजगार पहल पर जोर दिया गया।",
+      "tip_hi": "बिहार दिवस 2023 थीम = 'युवा शक्ति - बिहार की प्रगति'।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pragyan rover is a 26 किग्रा, 6-wheeled robotic vehicle equipped with rocker-bogie suspension and two scientific payloads (APXS and LIBS) to conduct in-situ chemical and elemental analysis of lunar soil.",
-      "tip_hi": "Pragyan rover has 6 wheels, weighed 26 किग्रा, deployed from Vikram lander."
+      "explanation_hi": "प्रज्ञान रोवर एक 26 किलोग्राम, 6-पहियों वाला रोबोटिक वाहन है जो चंद्र मिट्टी का इन-सीटू रासायनिक और मौलिक विश्लेषण करने के लिए रॉकर-बोगी सस्पेंशन और दो वैज्ञानिक पेलोड (एपीएक्सएस और एलआईबीएस) से सुसज्जित है।",
+      "tip_hi": "विक्रम लैंडर से तैनात किए गए प्रज्ञान रोवर में 6 पहिए हैं, जिनका वजन 26 किलोग्राम है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The repeating pattern is the 3-letter block 'a b b': a(b)b / a(b)b / (a)b(b) / a(a)b. Inserting 'b b a b a' yields consistent periodic repetition.",
-      "tip_hi": "Divide into equal repeating blocks of 3 letters: 'abb | abb | abb | abb'."
+      "explanation_hi": "दोहराव वाला पैटर्न 3-अक्षर वाला ब्लॉक 'ए बी बी' है: ए(बी)बी / ए(बी)बी / (ए)बी(बी) / ए(ए)बी। 'बी बी ए बी ए' डालने से लगातार आवधिक पुनरावृत्ति प्राप्त होती है।",
+      "tip_hi": "3 अक्षरों के समान दोहराव वाले ब्लॉकों में विभाजित करें: 'एबीबी |' एबीबी | एबीबी | अब्ब'."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Normal human body temperature is 37°C, which converts on Fahrenheit scale as: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F.",
-      "tip_hi": "Normal body temperature = 37°C = 98.6°F = 310.15 K."
+      "explanation_hi": "सामान्य मानव शरीर का तापमान 37°C होता है, जिसे फ़ारेनहाइट पैमाने पर इस प्रकार परिवर्तित किया जाता है: F = (9/5 * C) + 32 = (9/5 * 37) + 32 = 66.6 + 32 = 98.6°F।",
+      "tip_hi": "शरीर का सामान्य तापमान = 37°C = 98.6°F = 310.15 K."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Candela (cd) is one of the seven base SI units, measuring luminous intensity in a given direction. Lumen is the derived unit of luminous flux, and Lux is the unit of illuminance.",
-      "tip_hi": "Luminous Intensity = Candela (cd); Luminous Flux = Lumen; Illuminance = Lux."
+      "explanation_hi": "कैंडेला (सीडी) सात आधार एसआई इकाइयों में से एक है, जो किसी दिए गए दिशा में चमकदार तीव्रता को मापती है। लुमेन चमकदार प्रवाह की व्युत्पन्न इकाई है, और लक्स रोशनी की इकाई है।",
+      "tip_hi": "चमकदार तीव्रता = कैंडेला (सीडी); चमकदार प्रवाह = लुमेन; रोशनी = लक्स."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -680,7 +680,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Sir Isaac Newton demonstrated spectrum वर्ण विक्षेपण using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).",
-      "tip_hi": "Discovery of light spectrum through prism = Sir Isaac Newton."
+      "tip_hi": "प्रिज्म के माध्यम से प्रकाश स्पेक्ट्रम की खोज = सर आइजैक न्यूटन।"
     }
   ]
 }

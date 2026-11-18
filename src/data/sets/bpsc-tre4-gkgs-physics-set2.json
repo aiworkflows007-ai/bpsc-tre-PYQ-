@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Iron and steel is a heavy, weight-losing क्षारीय mineral industry क्योंकि both its inputs (iron ore, coal, limestone) and finished outputs are heavy and bulky. Describing it as a light industry is false.",
-      "tip_hi": "Heavy industries consume bulky raw materials (Iron & Steel); Light industries produce compact goods (Electronics, Watches)."
+      "tip_hi": "भारी उद्योग भारी कच्चे माल (लोहा और इस्पात) की खपत करते हैं; हल्के उद्योग कॉम्पैक्ट सामान (इलेक्ट्रॉनिक्स, घड़ियाँ) का उत्पादन करते हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -59,7 +59,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "The Seventh अनुसूची (अनुच्छेद 246) defines legislative powers divided into three lists: List I (Union List), List II (State List), and List III (Concurrent List).",
-      "tip_hi": "Schedules mnemonic: 7th = Division of Powers (Union, State, Concurrent Lists); 8th = Official Languages; 5th = Scheduled Areas."
+      "tip_hi": "अनुसूचियाँ स्मरणीय: 7वीं = शक्तियों का विभाजन (संघ, राज्य, समवर्ती सूचियाँ); आठवां = राजभाषाएँ; 5वां = अनुसूचित क्षेत्र।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 17 declares that 'Untouchability' is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of untouchability is an offence punishable in accordance with law.",
-      "tip_hi": "Enforced by संसद through the Protection of Civil Rights Act, 1955."
+      "explanation_hi": "अनुच्छेद 17 घोषित करता है कि 'अस्पृश्यता' को समाप्त कर दिया गया है और किसी भी रूप में इसका अभ्यास निषिद्ध है। अस्पृश्यता से उत्पन्न किसी भी विकलांगता को लागू करना कानून के अनुसार दंडनीय अपराध है।",
+      "tip_hi": "नागरिक अधिकार संरक्षण अधिनियम, 1955 के माध्यम से संसद द्वारा लागू किया गया।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A अवतल दर्पण forms real and inverted images in all positions except when the object is between Pole (P) and Focus (F), where it produces a virtual, erect, and enlarged image behind the mirror (used in shaving mirrors).",
-      "tip_hi": "Only position for virtual image in अवतल दर्पण = Object between Focus and Pole."
+      "explanation_hi": "एक अवतल दर्पण सभी स्थितियों में वास्तविक और उलटी छवियां बनाता है, सिवाय इसके कि जब वस्तु ध्रुव (पी) और फोकस (एफ) के बीच होती है, जहां यह दर्पण के पीछे एक आभासी, सीधी और बढ़ी हुई छवि बनाता है (शेविंग दर्पण में उपयोग किया जाता है)।",
+      "tip_hi": "अवतल दर्पण में आभासी छवि के लिए एकमात्र स्थिति = फोकस और ध्रुव के बीच वस्तु।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -275,7 +275,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Newton's सेकंड Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction जोड़े.",
-      "tip_hi": "1st Law = Definition of Force & Inertia; 2nd Law = Measure of Force (F = ma); 3rd Law = Action-Reaction."
+      "tip_hi": "पहला नियम = बल और जड़ता की परिभाषा; दूसरा नियम = बल का माप (F = ma); तीसरा नियम = क्रिया-प्रतिक्रिया।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The SI unit of electric charge is the Coulomb (C), defined as the quantity of electricity transferred by a current of 1 ampere in 1 सेकंड (1 C = 1 A·s). Ampere is current, and Volt is electric potential.",
-      "tip_hi": "Charge = Coulomb (C); Current = Ampere (A); Potential = Volt (V); Resistance = Ohm (Ω)."
+      "explanation_hi": "विद्युत आवेश की SI इकाई कूलम्ब (C) है, जिसे 1 सेकंड में 1 एम्पीयर की धारा द्वारा हस्तांतरित बिजली की मात्रा के रूप में परिभाषित किया गया है (1 C = 1 A·s)। एम्पीयर धारा है और वोल्ट विद्युत विभव है।",
+      "tip_hi": "चार्ज = कूलम्ब (सी); करंट = एम्पीयर (ए); विभव = वोल्ट (वी); प्रतिरोध = ओम (Ω)."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Resistance of filament = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. When operated at V' = 110 V, Power P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W.",
-      "tip_hi": "When voltage is halved (220V to 110V), power becomes (1/2)^2 = 1/4th of rated power = 100 / 4 = 25 W."
+      "explanation_hi": "फिलामेंट का प्रतिरोध = V^2 / P = (220)^2 / 100 = 48400 / 100 = 484 Ω. जब V' = 110 V पर संचालित किया जाता है, तो पावर P' = (V')^2 / R = (110)^2 / 484 = 12100 / 484 = 25 W।",
+      "tip_hi": "जब वोल्टेज आधा (220V से 110V) कर दिया जाता है, तो पावर (1/2)^2 = रेटेड पावर का 1/4th = 100/4 = 25 W हो जाती है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -383,7 +383,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "Founded in 1918 by डॉ. राजेंद्र प्रसाद and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
-      "tip_hi": "'The Searchlight' editor = Murli Manohar Prasad; 'The Motherland' founder = Mazharul Haque."
+      "tip_hi": "'द सर्चलाइट' संपादक = मुरली मनोहर प्रसाद; 'द मदरलैंड' के संस्थापक = मजहरुल हक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Battle of Buxar established sovereign British administrative supremacy over northern India, leading directly to the Treaty of Allahabad (1765) granting Diwani rights of Bengal, Bihar, and Orissa to Robert Clive.",
-      "tip_hi": "Battle of Buxar = 22 अक्टूबर 1764 (Major Hector Munro vs Mir Qasim + Shuja-ud-Daula + Shah Alam II)."
+      "explanation_hi": "बक्सर की लड़ाई ने उत्तरी भारत पर संप्रभु ब्रिटिश प्रशासनिक वर्चस्व स्थापित किया, जिससे सीधे तौर पर इलाहाबाद की संधि (1765) हुई, जिसके तहत रॉबर्ट क्लाइव को बंगाल, बिहार और उड़ीसा की दीवानी का अधिकार दिया गया।",
+      "tip_hi": "बक्सर की लड़ाई = 22 अक्टूबर 1764 (मेजर हेक्टर मुनरो बनाम मीर कासिम + शुजा-उद-दौला + शाह आलम द्वितीय)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In the Battle of Plassey on 23 जून 1757, Mir Jafar (Mir Bakshi) conspired with Robert Clive and kept the major portion of the Nawab's troops standing inactive on the battlefield, leading to Siraj-ud-Daulah's defeat.",
-      "tip_hi": "Battle of Plassey (23 जून 1757) = Robert Clive vs Siraj-ud-Daulah; Traitor = Mir Jafar."
+      "explanation_hi": "23 जून 1757 को प्लासी की लड़ाई में, मीर जाफ़र (मीर बख्शी) ने रॉबर्ट क्लाइव के साथ साजिश रची और नवाब की सेना के बड़े हिस्से को युद्ध के मैदान में निष्क्रिय रखा, जिससे सिराज-उद-दौला की हार हुई।",
+      "tip_hi": "प्लासी का युद्ध (23 जून 1757) = रॉबर्ट क्लाइव बनाम सिराज-उद-दौला; गद्दार = मीर जाफ़र."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulvi Ahmadullah Shah of Faizabad mobilized thousands in Awadh, defeating British forces under Sir हेनरी Lawrence at Chinhat. British officers praised him as a courageous warrior and an implacable enemy.",
+      "explanation_hi": "फैजाबाद के मौलवी अहमदुल्ला शाह ने चिनहट में सर हेनरी लॉरेंस के नेतृत्व में ब्रिटिश सेना को हराकर अवध में हजारों लोगों को संगठित किया। ब्रिटिश अधिकारियों ने उन्हें एक साहसी योद्धा और एक अजेय शत्रु के रूप में सराहा।",
       "tip_hi": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = बाबू कुंवर सिंह."
     }
   ]
