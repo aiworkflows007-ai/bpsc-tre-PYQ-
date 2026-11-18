@@ -1,0 +1,821 @@
+{
+  "id": "bpsc-tre4-cs-pgt-set3",
+  "title": "Computer Science Practice Set 3 (PGT Class 11-12 — Part 3)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Computer Science",
+  "filename": "bpsc-tre4-cs-pgt-set3.json",
+  "question_count": 30,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "An attribute of one table matching the primary key of another table is called as",
+      "hi": "एक टेबल का ऐट्रिब्यूट, जो दूसरे टेबल की प्राइमरी की से मैच करता हो, कहलाता है",
+      "options": [
+        "foreign",
+        "secondary",
+        "candidate",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "foreign",
+      "explanation": "Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key.",
+      "tip": "Cross-table linkage / Referential constraint = Foreign Key; Uniquely identifying records within a relation = Primary Key.",
+      "id": 1,
+      "options_hi": [
+        "foreign",
+        "secondary",
+        "candidate",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "क्रॉस-टेबल लिंकेज / रेफ़रेंशियल बाधा = विदेशी कुंजी; किसी संबंध के भीतर विशिष्ट रूप से पहचाने जाने वाले रिकॉर्ड = प्राथमिक कुंजी।",
+      "tip_hi": "क्रॉस-टेबल लिंकेज / रेफ़रेंशियल बाधा = विदेशी कुंजी; किसी संबंध के भीतर विशिष्ट रूप से पहचाने जाने वाले रिकॉर्ड = प्राथमिक कुंजी।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If every non-key attribute is fully dependent on the primary key, then the relation will be in",
+      "hi": "अगर प्रत्येक नॉन-की ऐट्रिब्यूट पूरी तरह से प्राइमरी की पर निर्भर रहता है, तो रिलेशन होगा",
+      "options": [
+        "First Normal Form (1NF)",
+        "Second Normal Form (2NF)",
+        "Third Normal Form (3NF)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Second Normal Form (2NF)",
+      "explanation": "Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency.",
+      "tip": "Normal Forms: 1NF = Atomic values; 2NF = No partial dependency (Full functional dependency); 3NF = No transitive dependency.",
+      "id": 2,
+      "options_hi": [
+        "First Normal Form (1NF)",
+        "Second Normal Form (2NF)",
+        "Third Normal Form (3NF)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सामान्य रूप: 1NF = परमाणु मान; 2NF = कोई आंशिक निर्भरता नहीं (पूर्ण कार्यात्मक निर्भरता); 3NF = कोई सकर्मक निर्भरता नहीं।",
+      "tip_hi": "सामान्य रूप: 1NF = परमाणु मान; 2NF = कोई आंशिक निर्भरता नहीं (पूर्ण कार्यात्मक निर्भरता); 3NF = कोई सकर्मक निर्भरता नहीं।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In relational database, the data type of values in each column of a table is called",
+      "hi": "रिलेशनल डेटाबेस में, किसी टेबल के हरेक कॉलम के वैल्यू के डेटा टाइप को क्या कहा जाता है?",
+      "options": [
+        "attribute",
+        "domain",
+        "relation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "domain",
+      "explanation": "Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation.",
+      "tip": "Permissible pool of valid values = Domain; Column header = Attribute; Row tuple = Record; Table = Relation.",
+      "id": 3,
+      "options_hi": [
+        "attribute",
+        "domain",
+        "relation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वैध मानों का अनुमेय पूल = डोमेन; कॉलम हेडर = विशेषता; पंक्ति टुपल = रिकॉर्ड; तालिका = संबंध.",
+      "tip_hi": "वैध मानों का अनुमेय पूल = डोमेन; कॉलम हेडर = विशेषता; पंक्ति टुपल = रिकॉर्ड; तालिका = संबंध."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In relational database, the number of attributes of a relation is called the _____ of relation.",
+      "hi": "रिलेशनल डेटाबेस में, किसी रिलेशन के ऐट्रिब्यूटों की संख्या को रिलेशन का _____ कहा जाता है।",
+      "options": [
+        "domain",
+        "degree",
+        "cardinality",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "degree",
+      "explanation": "Count of Columns = Degree; Count of Rows = Cardinality.",
+      "tip": "Count of Columns = Degree; Count of Rows = Cardinality.",
+      "id": 4,
+      "options_hi": [
+        "domain",
+        "degree",
+        "cardinality",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "स्तम्भों की गिनती = डिग्री; पंक्तियों की गिनती = कार्डिनैलिटी।",
+      "tip_hi": "स्तम्भों की गिनती = डिग्री; पंक्तियों की गिनती = कार्डिनैलिटी।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following SQL commands is used to change the attribute values of one or more rows in a table?",
+      "hi": "निम्नांकित में से किस SQL कमांड का किसी टेबल के एक या एक से अधिक रो के ऐट्रिब्यूट वैल्यू को बदलने के लिए प्रयोग किया जाता है?",
+      "options": [
+        "Update",
+        "Insert",
+        "Alter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Update",
+      "explanation": "Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows).",
+      "tip": "Update = DML (modifies data values); Alter = DDL (modifies schema/columns); Insert = DML (adds new rows).",
+      "id": 5,
+      "options_hi": [
+        "Update",
+        "Insert",
+        "Alter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अद्यतन = डीएमएल (डेटा मान संशोधित करता है); परिवर्तन = डीडीएल (स्कीमा/कॉलम को संशोधित करता है); सम्मिलित करें = डीएमएल (नई पंक्तियाँ जोड़ता है)।",
+      "tip_hi": "अद्यतन = डीएमएल (डेटा मान संशोधित करता है); परिवर्तन = डीडीएल (स्कीमा/कॉलम को संशोधित करता है); सम्मिलित करें = डीएमएल (नई पंक्तियाँ जोड़ता है)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "To retrieve information from a database, which of the following SQL commands is used?",
+      "hi": "किसी डेटाबेस से सूचना को निकालने के लिए निम्नांकित में से किस SQL कमांड का प्रयोग किया जाता है?",
+      "options": [
+        "Display",
+        "Show",
+        "Select",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Select",
+      "explanation": "Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`.",
+      "tip": "Querying/Retrieving data = `SELECT`; Creating tables = `CREATE`; Removing tables = `DROP`.",
+      "id": 6,
+      "options_hi": [
+        "Display",
+        "Show",
+        "Select",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "डेटा पूछना/पुनर्प्राप्त करना = `चयन करें`; तालिकाएँ बनाना = `बनाएँ`; तालिकाएँ हटाना = `DROP`।",
+      "tip_hi": "डेटा पूछना/पुनर्प्राप्त करना = `चयन करें`; तालिकाएँ बनाना = `बनाएँ`; तालिकाएँ हटाना = `DROP`।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following SQL commands is used to modify the structure of a table?",
+      "hi": "निम्नांकित में से किस SQL कमांड का प्रयोग किसी टेबल के स्ट्रक्चर को बदलने के लिए प्रयोग किया जाता है?",
+      "options": [
+        "Alter",
+        "Modify",
+        "Update",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Alter",
+      "explanation": "`ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML).",
+      "tip": "`ALTER TABLE` alters table structure (DDL); `UPDATE` alters table rows/content (DML).",
+      "id": 7,
+      "options_hi": [
+        "Alter",
+        "Modify",
+        "Update",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'तालिका बदलें' तालिका संरचना (डीडीएल) को बदल देता है; `अद्यतन` तालिका पंक्तियों/सामग्री (डीएमएल) को बदल देता है।",
+      "tip_hi": "'तालिका बदलें' तालिका संरचना (डीडीएल) को बदल देता है; `अद्यतन` तालिका पंक्तियों/सामग्री (डीएमएल) को बदल देता है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following SQL keywords is used to display data from a table based on certain pattern?",
+      "hi": "निम्नांकित में से किस SQL कीवर्ड का प्रयोग किसी पैटर्न पर आधारित टेबल से डेटा को दर्शाने के लिए होता है?",
+      "options": [
+        "IN",
+        "LIKE",
+        "BETWEEN",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "LIKE",
+      "explanation": "Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`.",
+      "tip": "Pattern matching = `LIKE` (`%` and `_`); Membership check = `IN`; Range check = `BETWEEN`.",
+      "id": 8,
+      "options_hi": [
+        "IN",
+        "LIKE",
+        "BETWEEN",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पैटर्न मिलान = `पसंद` (`%` और `_`); सदस्यता जांच = `IN`; रेंज जांच = 'बीच'।",
+      "tip_hi": "पैटर्न मिलान = `पसंद` (`%` और `_`); सदस्यता जांच = `IN`; रेंज जांच = 'बीच'।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Degree and cardinality of a relation in relational database are 4 and 3 respectively. If 3 attributes and 4 tuples are added to the relation, what will be its new cardinality and degree?",
+      "hi": "रिलेशनल डेटा बेस में एक रिलेशन का डिग्री और कार्डिनलिटी क्रमशः 4 और 3 हैं। अगर 3 ऐट्रिब्यूट और 4 ट्यूपल उस रिलेशन में जोड़ दिया जाए, तो उस रिलेशन का नया कार्डिनलिटी और डिग्री क्या होगा?",
+      "options": [
+        "7, 6",
+        "7, 7",
+        "8, 6",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "7, 7",
+      "explanation": "Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7.",
+      "tip": "Degree = Attributes (4+3=7); Cardinality = Tuples (3+4=7). Result = 7, 7.",
+      "id": 9,
+      "options_hi": [
+        "7, 6",
+        "7, 7",
+        "8, 6",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "डिग्री = गुण (4+3=7); कार्डिनैलिटी = टुपल्स (3+4=7)। परिणाम = 7, 7.",
+      "tip_hi": "डिग्री = गुण (4+3=7); कार्डिनैलिटी = टुपल्स (3+4=7)। परिणाम = 7, 7."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which SQL command is used to remove a table from a database?",
+      "hi": "किसी डेटाबेस से टेबल को हटाने के लिए किस SQL कमांड का प्रयोग किया जाता है?",
+      "options": [
+        "DELETE",
+        "DROP",
+        "ERASE",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "DROP",
+      "explanation": "Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`.",
+      "tip": "Remove table schema completely = `DROP TABLE`; Remove all rows but preserve schema = `TRUNCATE` or `DELETE`.",
+      "id": 10,
+      "options_hi": [
+        "DELETE",
+        "DROP",
+        "ERASE",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "टेबल स्कीमा को पूरी तरह से हटा दें = `ड्रॉप टेबल`; सभी पंक्तियाँ हटाएँ लेकिन स्कीमा = `TRUNCATE` या `DELETE` सुरक्षित रखें।",
+      "tip_hi": "टेबल स्कीमा को पूरी तरह से हटा दें = `ड्रॉप टेबल`; सभी पंक्तियाँ हटाएँ लेकिन स्कीमा = `TRUNCATE` या `DELETE` सुरक्षित रखें।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The register that contains the address of the next instruction to be executed is called",
+      "hi": "वह रजिस्टर, जिसमें अगला इन्सट्रक्शन जो एक्जिक्यूट होने वाला होता है उसका ऐड्रेस होता है, कहलाता है",
+      "options": [
+        "program counter",
+        "instruction register",
+        "accumulator",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "program counter",
+      "explanation": "Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR).",
+      "tip": "Next instruction address = Program Counter (PC); Current instruction opcode = Instruction Register (IR).",
+      "id": 11,
+      "options_hi": [
+        "program counter",
+        "instruction register",
+        "accumulator",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अगला निर्देश पता = प्रोग्राम काउंटर (पीसी); वर्तमान निर्देश ऑपकोड = निर्देश रजिस्टर (आईआर)।",
+      "tip_hi": "अगला निर्देश पता = प्रोग्राम काउंटर (पीसी); वर्तमान निर्देश ऑपकोड = निर्देश रजिस्टर (आईआर)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The register that contains the instruction that is being executed is called",
+      "hi": "एक्जिक्यूट हो रहे इन्सट्रक्शन को रखनेवाले रजिस्टर को कहा जाता है",
+      "options": [
+        "accumulator",
+        "program counter",
+        "instruction register",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "instruction register",
+      "explanation": "Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR).",
+      "tip": "Address of instruction = Program Counter (PC); Body of executing instruction = Instruction Register (IR).",
+      "id": 12,
+      "options_hi": [
+        "accumulator",
+        "program counter",
+        "instruction register",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "निर्देश का पता = प्रोग्राम काउंटर (पीसी); निर्देश निष्पादित करने का निकाय = निर्देश रजिस्टर (आईआर)।",
+      "tip_hi": "निर्देश का पता = प्रोग्राम काउंटर (पीसी); निर्देश निष्पादित करने का निकाय = निर्देश रजिस्टर (आईआर)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The register which holds the address of location of memory to and from which data are to be transferred is known as",
+      "hi": "वह रजिस्टर, जिसमें मेमोरी के स्थान का पता होता है जहाँ से या जहाँ तक डेटा स्थानांतरित किया जाना होता है, कहलाता है",
+      "options": [
+        "index register",
+        "memory address register",
+        "memory buffer register",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "memory address register",
+      "explanation": "Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register).",
+      "tip": "Address holding register = MAR (Memory Address Register); Data holding register = MBR/MDR (Memory Buffer/Data Register).",
+      "id": 13,
+      "options_hi": [
+        "index register",
+        "memory address register",
+        "memory buffer register",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एड्रेस होल्डिंग रजिस्टर = मार्च (मेमोरी एड्रेस रजिस्टर); डेटा होल्डिंग रजिस्टर = एमबीआर/एमडीआर (मेमोरी बफर/डेटा रजिस्टर)।",
+      "tip_hi": "एड्रेस होल्डिंग रजिस्टर = मार्च (मेमोरी एड्रेस रजिस्टर); डेटा होल्डिंग रजिस्टर = एमबीआर/एमडीआर (मेमोरी बफर/डेटा रजिस्टर)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A storage device used to compensate the difference in flow of data is known as",
+      "hi": "डेटा के प्रवाह में अंतर की भरपाई के लिए उपयोग की जाने वाली स्टोरेज डिवाइस को क्या कहा जाता है?",
+      "options": [
+        "main memory",
+        "auxiliary memory",
+        "buffer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "buffer",
+      "explanation": "Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory.",
+      "tip": "Speed compensation / Flow rate mismatch = Buffer; Rapid cache lookup = Cache Memory.",
+      "id": 14,
+      "options_hi": [
+        "main memory",
+        "auxiliary memory",
+        "buffer",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "गति मुआवजा / प्रवाह दर बेमेल = बफर; तीव्र कैश लुकअप = कैश मेमोरी।",
+      "tip_hi": "गति मुआवजा / प्रवाह दर बेमेल = बफर; तीव्र कैश लुकअप = कैश मेमोरी।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Memory in which any location can be reached in a fixed amount of time after specifying its address is called",
+      "hi": "वह मेमोरी, जिसके किसी लोकेशन पर उस लोकेशन को बताने के बाद एक निश्चित समय में पहुँचा जा सकता है, कहलाती है",
+      "options": [
+        "Sequential Access Memory",
+        "Random Access Memory",
+        "Secondary Memory",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Random Access Memory",
+      "explanation": "Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape.",
+      "tip": "Uniform fixed access time regardless of address = Random Access Memory (RAM); Sequential search = Magnetic Tape.",
+      "id": 15,
+      "options_hi": [
+        "Sequential Access Memory",
+        "Random Access Memory",
+        "Secondary Memory",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पते की परवाह किए बिना समान निश्चित पहुंच समय = रैंडम एक्सेस मेमोरी (रैम); अनुक्रमिक खोज = चुंबकीय टेप।",
+      "tip_hi": "पते की परवाह किए बिना समान निश्चित पहुंच समय = रैंडम एक्सेस मेमोरी (रैम); अनुक्रमिक खोज = चुंबकीय टेप।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If (X567)_8 + (2YX5)_8 = (71YX)_8, then the values of X and Y are(",
+      "hi": "अगर (X567)_8 + (2YX5)_8 = (71YX)_8, तो X और Y के मान हैं)",
+      "options": [
+        "4, 3",
+        "3, 3",
+        "4, 4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "4, 3",
+      "explanation": "Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4.",
+      "tip": "Octal addition: Convert sum to decimal, divide by 8; remainder is current digit, quotient is carry. 7 + 5 = 12_10 = (1 * 8 + 4) -> digit 4, carry 1 -> X = 4.",
+      "id": 16,
+      "options_hi": [
+        "4, 3",
+        "3, 3",
+        "4, 4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अष्टाधारी जोड़: योग को दशमलव में बदलें, 8 से विभाजित करें; शेष वर्तमान अंक है, भागफल कैरी है। 7 + 5 = 12_10 = (1 * 8 + 4) -> अंक 4, कैरी 1 -> एक्स = 4।",
+      "tip_hi": "अष्टाधारी जोड़: योग को दशमलव में बदलें, 8 से विभाजित करें; शेष वर्तमान अंक है, भागफल कैरी है। 7 + 5 = 12_10 = (1 * 8 + 4) -> अंक 4, कैरी 1 -> एक्स = 4।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The range of the numbers that can be represented in 8-bit using 2's complement representation is",
+      "hi": "2's कॉम्प्लिमेन्ट रिप्रेजेन्टेशन का प्रयोग करके 8 बिट में रिप्रेजेन्ट होने वाली संख्याओं का रेन्ज है",
+      "options": [
+        "-128 to +128",
+        "-127 to +127",
+        "-128 to +127",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "-128 to +127",
+      "explanation": "2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767.",
+      "tip": "2's complement range formula: -2^(n-1) to +2^(n-1)-1. For 8 bits: -128 to +127. For 16 bits: -32768 to +32767.",
+      "id": 17,
+      "options_hi": [
+        "-128 to +128",
+        "-127 to +127",
+        "-128 to +127",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "2 का पूरक श्रेणी सूत्र: -2^(n-1) से +2^(n-1)-1। 8 बिट्स के लिए: -128 से +127. 16 बिट्स के लिए: -32768 से +32767।",
+      "tip_hi": "2 का पूरक श्रेणी सूत्र: -2^(n-1) से +2^(n-1)-1। 8 बिट्स के लिए: -128 से +127. 16 बिट्स के लिए: -32768 से +32767।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If (11X1Y)_8 = (12C9)_16, then the values of X and Y are(",
+      "hi": "अगर (11X1Y)_8 = (12C9)_16 हो, तो X और Y के मान हैं)",
+      "options": [
+        "5, 1",
+        "5, 7",
+        "3, 1",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "3, 1",
+      "explanation": "Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left.",
+      "tip": "Hex to Octal bridge: Convert Hex to 4-bit binary, regroup binary into 3-bit clusters from right to left.",
+      "id": 18,
+      "options_hi": [
+        "5, 1",
+        "5, 7",
+        "3, 1",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "हेक्स से ऑक्टल ब्रिज: हेक्स को 4-बिट बाइनरी में बदलें, बाइनरी को दाएं से बाएं 3-बिट क्लस्टर में पुनः समूहित करें।",
+      "tip_hi": "हेक्स से ऑक्टल ब्रिज: हेक्स को 4-बिट बाइनरी में बदलें, बाइनरी को दाएं से बाएं 3-बिट क्लस्टर में पुनः समूहित करें।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following 4-bit numbers equals its 2's complement?",
+      "hi": "निम्नांकित 4-बिट नम्बरों में से कौन-सा अपने 2's कॉम्प्लिमेन्ट के बराबर है?",
+      "options": [
+        "1010",
+        "0101",
+        "1000",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "1000",
+      "explanation": "The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement.",
+      "tip": "The most negative number in 2's complement (1 followed by all zeros) always equals its own 2's complement.",
+      "id": 19,
+      "options_hi": [
+        "1010",
+        "0101",
+        "1000",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "2 के पूरक में सबसे नकारात्मक संख्या (1 के बाद सभी शून्य) हमेशा अपने 2 के पूरक के बराबर होती है।",
+      "tip_hi": "2 के पूरक में सबसे नकारात्मक संख्या (1 के बाद सभी शून्य) हमेशा अपने 2 के पूरक के बराबर होती है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The number of 1's in the binary representation of the value of the decimal expression of 16^3 * 9 + 16^2 * 7 + 16 * 5 + 3 is",
+      "hi": "डेसिमल एक्सप्रेशन 16^3 * 9 + 16^2 * 7 + 16 * 5 + 3 के मान को बाइनरी रिप्रेजेन्टेशन में बदलने पर 1 की संख्या कितनी होगी?",
+      "options": [
+        "15",
+        "9",
+        "12",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "9",
+      "explanation": "Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9.",
+      "tip": "Powers of 16 form hexadecimal positional notation: (9753)_16. Sum the 1-bits of each hex digit: 2 + 3 + 2 + 2 = 9.",
+      "id": 20,
+      "options_hi": [
+        "15",
+        "9",
+        "12",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "16 की घातें हेक्साडेसिमल स्थितीय संकेतन बनाती हैं: (9753)_16। प्रत्येक हेक्स अंक के 1-बिट का योग करें: 2 + 3 + 2 + 2 = 9।",
+      "tip_hi": "16 की घातें हेक्साडेसिमल स्थितीय संकेतन बनाती हैं: (9753)_16। प्रत्येक हेक्स अंक के 1-बिट का योग करें: 2 + 3 + 2 + 2 = 9।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression x + x'y equals",
+      "hi": "बूलियन एक्सप्रेशन x + x'y बराबर है",
+      "options": [
+        "x + y",
+        "x + xy",
+        "y + yx",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "x + y",
+      "explanation": "Absorption & Redundancy rule: `A + A'B = A + B`.",
+      "tip": "Absorption & Redundancy rule: `A + A'B = A + B`.",
+      "id": 21,
+      "options_hi": [
+        "x + y",
+        "x + xy",
+        "y + yx",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अवशोषण और अतिरेक नियम: `ए + ए'बी = ए + बी`।",
+      "tip_hi": "अवशोषण और अतिरेक नियम: `ए + ए'बी = ए + बी`।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression AB + AB' + A'C + AC is independent of Boolean variable",
+      "hi": "बूलियन एक्सप्रेशन AB + AB' + A'C + AC बूलियन वैरिएबल _____ पर निर्भर नहीं है।",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B.",
+      "tip": "Factor out common terms: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. This is independent of B.",
+      "id": 22,
+      "options_hi": [
+        "A",
+        "B",
+        "C",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सामान्य पदों का गुणनखंड करें: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. यह B से स्वतंत्र है।",
+      "tip_hi": "सामान्य पदों का गुणनखंड करें: A(B+B') + C(A'+A) = A(1) + C(1) = A + C. यह B से स्वतंत्र है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression A + BC equals",
+      "hi": "बूलियन एक्सप्रेशन A + BC के बराबर है",
+      "options": [
+        "(A' + B)(A' + C)",
+        "(A + B)(A' + C)",
+        "(A + B)(A + C)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "(A + B)(A + C)",
+      "explanation": "Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C).",
+      "tip": "Distributive laws: A(B + C) = AB + AC, and A + BC = (A + B)(A + C).",
+      "id": 23,
+      "options_hi": [
+        "(A' + B)(A' + C)",
+        "(A + B)(A' + C)",
+        "(A + B)(A + C)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वितरणात्मक नियम: ए(बी + सी) = एबी + एसी, और ए + बीसी = (ए + बी)(ए + सी)।",
+      "tip_hi": "वितरणात्मक नियम: ए(बी + सी) = एबी + एसी, और ए + बीसी = (ए + बी)(ए + सी)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression x + xy will be equal to",
+      "hi": "बूलियन एक्सप्रेशन x + xy के बराबर होगा",
+      "options": [
+        "x",
+        "y",
+        "x + y",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "x",
+      "explanation": "Boolean Absorption Law: `x + xy = x`.",
+      "tip": "Boolean Absorption Law: `x + xy = x`.",
+      "id": 24,
+      "options_hi": [
+        "x",
+        "y",
+        "x + y",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बूलियन अवशोषण नियम: `x + xy = x`.",
+      "tip_hi": "बूलियन अवशोषण नियम: `x + xy = x`."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The Boolean expression x(x + y) is equal to(",
+      "hi": "बूलियन एक्सप्रेशन x(x + y) बराबर है)",
+      "options": [
+        "x",
+        "y",
+        "xy",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "x",
+      "explanation": "Dual Absorption Law: `x(x + y) = x`.",
+      "tip": "Dual Absorption Law: `x(x + y) = x`.",
+      "id": 25,
+      "options_hi": [
+        "x",
+        "y",
+        "xy",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "दोहरा अवशोषण नियम: `x(x + y) = x`.",
+      "tip_hi": "दोहरा अवशोषण नियम: `x(x + y) = x`."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "If x is a Boolean variable, then (((x')')')' will be(",
+      "hi": "अगर x बूलियन वैरिएबल है, तो (((x')')')' होगा)",
+      "options": [
+        "x'",
+        "x",
+        "x + x'",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "x",
+      "explanation": "Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x.",
+      "tip": "Even number of complement primes = variable itself (x); Odd number of complement primes = negated variable (x'). 4 is even \\rightarrow x.",
+      "id": 26,
+      "options_hi": [
+        "x'",
+        "x",
+        "x + x'",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पूरक अभाज्य संख्याओं की सम संख्या = स्वयं चर (x); पूरक अभाज्य संख्याओं की विषम संख्या = नकारात्मक चर (x')। 4 सम \\दाहिना तीर x है।",
+      "tip_hi": "पूरक अभाज्य संख्याओं की सम संख्या = स्वयं चर (x); पूरक अभाज्य संख्याओं की विषम संख्या = नकारात्मक चर (x')। 4 सम \\दाहिना तीर x है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In two-valued Boolean algebra, the maximum number of Boolean functions for two variables will be",
+      "hi": "दो मान वाले बूलियन अलजेब्रा में 2 वैरिएबलों के लिए अधिकतम बूलियन फंक्शन की संख्या होगी",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "16",
+      "explanation": "Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256.",
+      "tip": "Number of distinct Boolean functions of n variables = 2^(2^n). For 1 variable = 4; for 2 variables = 16; for 3 variables = 256.",
+      "id": 27,
+      "options_hi": [
+        "8",
+        "12",
+        "16",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "n चरों के विशिष्ट बूलियन फ़ंक्शंस की संख्या = 2^(2^n)। 1 चर के लिए = 4; 2 चरों के लिए = 16; 3 चरों के लिए = 256.",
+      "tip_hi": "n चरों के विशिष्ट बूलियन फ़ंक्शंस की संख्या = 2^(2^n)। 1 चर के लिए = 4; 2 चरों के लिए = 16; 3 चरों के लिए = 256."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Simplified Boolean function of Boolean function F = A'C + A'B + AB'C + BC is",
+      "hi": "बूलियन फंक्शन F = A'C + A'B + AB'C + BC का सरलीकृत बूलियन फंक्शन है",
+      "options": [
+        "F = C + A'B",
+        "F = A'B + B'C",
+        "F = BC + A'B",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "F = C + A'B",
+      "explanation": "Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B.",
+      "tip": "Group C terms: (A' + AB' + B)C = C. Combine with remaining term to get F = C + A'B.",
+      "id": 28,
+      "options_hi": [
+        "F = C + A'B",
+        "F = A'B + B'C",
+        "F = BC + A'B",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "समूह C पद: (A' + AB' + B)C = C. F = C + A'B प्राप्त करने के लिए शेष पद के साथ संयोजन करें।",
+      "tip_hi": "समूह C पद: (A' + AB' + B)C = C. F = C + A'B प्राप्त करने के लिए शेष पद के साथ संयोजन करें।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following logic gates is called universal gate?",
+      "hi": "निम्नांकित में से कौन-सा लॉजिक गेट, यूनिवर्सल गेट कहलाता है?",
+      "options": [
+        "AND",
+        "OR",
+        "NAND",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "NAND",
+      "explanation": "Universal Gates = NAND and NOR; Basic Gates = AND, OR, NOT.",
+      "tip": "Universal Gates = NAND and NOR; Basic Gates = AND, OR, NOT.",
+      "id": 29,
+      "options_hi": [
+        "AND",
+        "OR",
+        "NAND",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "यूनिवर्सल गेट्स = NAND और NOR; मूल द्वार = और, या, नहीं।",
+      "tip_hi": "यूनिवर्सल गेट्स = NAND और NOR; मूल द्वार = और, या, नहीं।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The minimum number of NAND gates required to implement Boolean function f = x'y + xy' is(",
+      "hi": "बूलियन फंक्शन f = x'y + xy' (XOR) को इम्प्लीमेन्ट करने के लिए न्यूनतम कितने NAND गेट चाहिए?)",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "4",
+      "explanation": "Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)\n(A)\n41\nError Rate Measurement\n(A)\n2\nMicroprocessor Generations (8085)\n(B)\n42\nHighest Speed Media (Fiber)\n(C)\n3\n3rd Gen Memory Limit (16 MB)\n(B)\n43\nSingle Backbone Topology (Bus)\n(A)\n4\nCPU on Single Chip (Microprocessor)\n(A)\n44\nWide Area Network (WAN)\n(A)\n5\nComputer on Single Chip\n(A)\n45\nIPv4 Address Length (32-bit)\n(C)\n6\nGaming Controller (Joystick)\n(C)\n46\nMAC Address Length (48-bit)\n(C)\n7\nNon-volatile Storage (ROM)\n(C)\n47\nUnauthorized Access (Hacking)\n(A)\n8\nLaser Storage Device (CD Drive)\n(A)\n48\nComputer Virus Characteristics\n(D)\n9\nAssembly to Machine (Assembler)\n(B)\n49\nUnauthorized Copying (Piracy)\n(B)\n10\nHigh-level to Machine (Compiler)\n(B)\n50\nHard Disk Table Corruption\n(D)\n11\nLine-by-line Execution (Interpreter)\n(C)\n51\nForeign Key Referential Link\n(A)\n12\nOS Identification vs DBMS\n(C)\n52\nFull Functional Dependency (2NF)\n(B)\n13\nOS Platform Function\n(B)\n53\nAttribute Permitted Values (Domain)\n(B)\n14\nSystem Tools (Scandisk/Format)\n(C)\n54\nAttribute Count (Degree)\n(B)\n15\nPermanent Deletion (Shift+Del)\n(B)\n55\nUpdating Row Values (UPDATE)\n(A)\n16\nComputer Main Subsystems\n(C)\n56\nData Retrieval Query (SELECT)\n(C)\n17\nHex Address Space FFFF (64K)\n(C)\n57\nModifying Table Schema (ALTER)\n(A)\n18\nMinimum Storage Cost (Tape)\n(C)\n58\nPattern Matching Predicate (LIKE)\n(B)\n19\nBinary Prefix Tera (2^40)\n(B)\n59\nDegree & Cardinality Calculation\n(B)\n20\nResident Memory Software (Loader)\n(A)\n60\nRemoving Table Object (DROP)\n(B)\n21\nPrefix to Postfix Conversion\n(A)\n61\nProgram Counter Next Address\n(A)\n22\nInfix to Postfix Data Structure\n(A)\n62\nInstruction Register Current Op\n(C)\n23\nQueue Rear & Front Access\n(B)\n63\nMemory Address Register (MAR)\n(B)\n24\nQueue Access Rule (FIFO)\n(A)\n64\nSpeed Mismatch Buffer\n(C)\n25\nStack Access Rule (LIFO)\n(B)\n65\nRandom Access Memory (RAM)\n(B)\n26\nConstructor Invocation Timing\n(A)\n66\nOctal Addition Arithmetic\n(A)\n27\nStructure Default Access (public)\n(A)\n67\n8-bit 2's Complement Range\n(C)\n28\nClass Default Access (private)\n(B)\n68\nHex to Octal Base Conversion\n(C)\n29\nClass Encapsulation Contents\n(C)\n69\nSelf 2's Complement (1000)\n(C)\n30\nC++ Access Specifier Count (3)\n(B)\n70\nBinary 1s Count in Hex Num\n(B)\n31\nScope Resolution Operator (::)\n(B)\n71\nBoolean Redundancy (x + x'y)\n(A)\n32\nCode Reusability (Inheritance)\n(B)\n72\nBoolean Variable Independence\n(D)\n33\nGlobal Scope Resolution (::i)\n(A)\n73\nOR Distributive Law (A+BC)\n(C)\n34\nInline Function Speedup\n(A)\n74\nAbsorption Law (x + xy = x)\n(A)\n35\nBitwise Left Shift (a<<2)\n(B)\n75\nDual Absorption (x(x+y) = x)\n(A)\n36\ncout Standard Stream Meaning\n(B)\n76\nEven Involutions Law (4 primes)\n(B)\n37\nProgram Definition\n(C)\n77\nTotal 2-Variable Functions (16)\n(C)\n38\nAlgorithmic Program Definition\n(C)\n78\nBoolean Function Simplification\n(A)\n39\nMaximum Reliability (Mesh)\n(C)\n79\nUniversal Gate (NAND Gate)\n(C)\n40\nTransport Layer Host-to-Host\n(B)\n80\nXOR NAND Gate Count (4 Gates)\n(B)\nPart-III: Computer Science — Practice Set 2 (Questions 81 to 160 [Secondary / TGT Computer])Focus: Network Routing, Fifth Generation Computing, Virtual Base Classes, Memory Operators, Stack Applications, Binary Heap Priority Queues, Database Normalization (3NF), and Boolean Equivalence.",
+      "tip": "Minimum NAND count benchmark: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5.\nMaster Answer Key & Topic Index — Set 1 (Questions 1 to 80)\nQ.No.\nTopic / Domain\nKey\nQ.No.\nTopic / Domain\nKey\n1\nCPU (Brain of Computer)\n(A)\n41\nError Rate Measurement\n(A)\n2\nMicroprocessor Generations (8085)\n(B)\n42\nHighest Speed Media (Fiber)\n(C)\n3\n3rd Gen Memory Limit (16 MB)\n(B)\n43\nSingle Backbone Topology (Bus)\n(A)\n4\nCPU on Single Chip (Microprocessor)\n(A)\n44\nWide Area Network (WAN)\n(A)\n5\nComputer on Single Chip\n(A)\n45\nIPv4 Address Length (32-bit)\n(C)\n6\nGaming Controller (Joystick)\n(C)\n46\nMAC Address Length (48-bit)\n(C)\n7\nNon-volatile Storage (ROM)\n(C)\n47\nUnauthorized Access (Hacking)\n(A)\n8\nLaser Storage Device (CD Drive)\n(A)\n48\nComputer Virus Characteristics\n(D)\n9\nAssembly to Machine (Assembler)\n(B)\n49\nUnauthorized Copying (Piracy)\n(B)\n10\nHigh-level to Machine (Compiler)\n(B)\n50\nHard Disk Table Corruption\n(D)\n11\nLine-by-line Execution (Interpreter)\n(C)\n51\nForeign Key Referential Link\n(A)\n12\nOS Identification vs DBMS\n(C)\n52\nFull Functional Dependency (2NF)\n(B)\n13\nOS Platform Function\n(B)\n53\nAttribute Permitted Values (Domain)\n(B)\n14\nSystem Tools (Scandisk/Format)\n(C)\n54\nAttribute Count (Degree)\n(B)\n15\nPermanent Deletion (Shift+Del)\n(B)\n55\nUpdating Row Values (UPDATE)\n(A)\n16\nComputer Main Subsystems\n(C)\n56\nData Retrieval Query (SELECT)\n(C)\n17\nHex Address Space FFFF (64K)\n(C)\n57\nModifying Table Schema (ALTER)\n(A)\n18\nMinimum Storage Cost (Tape)\n(C)\n58\nPattern Matching Predicate (LIKE)\n(B)\n19\nBinary Prefix Tera (2^40)\n(B)\n59\nDegree & Cardinality Calculation\n(B)\n20\nResident Memory Software (Loader)\n(A)\n60\nRemoving Table Object (DROP)\n(B)\n21\nPrefix to Postfix Conversion\n(A)\n61\nProgram Counter Next Address\n(A)\n22\nInfix to Postfix Data Structure\n(A)\n62\nInstruction Register Current Op\n(C)\n23\nQueue Rear & Front Access\n(B)\n63\nMemory Address Register (MAR)\n(B)\n24\nQueue Access Rule (FIFO)\n(A)\n64\nSpeed Mismatch Buffer\n(C)\n25\nStack Access Rule (LIFO)\n(B)\n65\nRandom Access Memory (RAM)\n(B)\n26\nConstructor Invocation Timing\n(A)\n66\nOctal Addition Arithmetic\n(A)\n27\nStructure Default Access (public)\n(A)\n67\n8-bit 2's Complement Range\n(C)\n28\nClass Default Access (private)\n(B)\n68\nHex to Octal Base Conversion\n(C)\n29\nClass Encapsulation Contents\n(C)\n69\nSelf 2's Complement (1000)\n(C)\n30\nC++ Access Specifier Count (3)\n(B)\n70\nBinary 1s Count in Hex Num\n(B)\n31\nScope Resolution Operator (::)\n(B)\n71\nBoolean Redundancy (x + x'y)\n(A)\n32\nCode Reusability (Inheritance)\n(B)\n72\nBoolean Variable Independence\n(D)\n33\nGlobal Scope Resolution (::i)\n(A)\n73\nOR Distributive Law (A+BC)\n(C)\n34\nInline Function Speedup\n(A)\n74\nAbsorption Law (x + xy = x)\n(A)\n35\nBitwise Left Shift (a<<2)\n(B)\n75\nDual Absorption (x(x+y) = x)\n(A)\n36\ncout Standard Stream Meaning\n(B)\n76\nEven Involutions Law (4 primes)\n(B)\n37\nProgram Definition\n(C)\n77\nTotal 2-Variable Functions (16)\n(C)\n38\nAlgorithmic Program Definition\n(C)\n78\nBoolean Function Simplification\n(A)\n39\nMaximum Reliability (Mesh)\n(C)\n79\nUniversal Gate (NAND Gate)\n(C)\n40\nTransport Layer Host-to-Host\n(B)\n80\nXOR NAND Gate Count (4 Gates)\n(B)\nPart-III: Computer Science — Practice Set 2 (Questions 81 to 160 [Secondary / TGT Computer])Focus: Network Routing, Fifth Generation Computing, Virtual Base Classes, Memory Operators, Stack Applications, Binary Heap Priority Queues, Database Normalization (3NF), and Boolean Equivalence.",
+      "id": 30,
+      "options_hi": [
+        "3",
+        "4",
+        "6",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "न्यूनतम NAND गणना बेंचमार्क: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5।\nमास्टर उत्तर कुंजी और विषय सूचकांक - सेट 1 (प्रश्न 1 से 80)\nप्र.सं.\nविषय/डोमेन\nकुंजी\nप्र.सं.\nविषय/डोमेन\nकुंजी\n1\nसीपीयू (कंप्यूटर का मस्तिष्क)\n(ए)\n41\nत्रुटि दर मापन\n(ए)\n2\nमाइक्रोप्रोसेसर पीढ़ी (8085)\n(बी)\n42\nउच्चतम गति मीडिया (फाइबर)\n(सी)\n3\nतीसरी पीढ़ी की मेमोरी सीमा (16 एमबी)\n(बी)\n43\nसिंगल बैकबोन टोपोलॉजी (बस)\n(ए)\n4\nसिंगल चिप पर सीपीयू (माइक्रोप्रोसेसर)\n(ए)\n44\nवाइड एरिया नेटवर्क (डब्ल्यूएएन)\n(ए)\n5\nसिंगल चिप पर कंप्यूटर\n(ए)\n45\nIPv4 पता लंबाई (32-बिट)\n(सी)\n6\nगेमिंग कंट्रोलर (जॉयस्टिक)\n(सी)\n46\nमैक पता लंबाई (48-बिट)\n(सी)\n7\nगैर-वाष्पशील भंडारण (ROM)\n(सी)\n47\nअनधिकृत पहुंच (हैकिंग)\n(ए)\n8\nलेजर स्टोरेज डिवाइस (सीडी ड्राइव)\n(ए)\n48\nकंप्यूटर वायरस के लक्षण\n(डी)\n9\nअसेंबली से मशीन (असेम्बलर)\n(बी)\n49\nअनधिकृत नकल (चोरी)\n(बी)\n10\nमशीन (संकलक) के लिए उच्च स्तरीय\n(बी)\n50\nहार्ड डिस्क तालिका भ्रष्टाचार\n(डी)\n11\nपंक्ति-दर-पंक्ति निष्पादन (दुभाषिया)\n(सी)\n51\nविदेशी कुंजी संदर्भात्मक लिंक\n(ए)\n12\nओएस पहचान बनाम डीबीएमएस\n(सी)\n52\nपूर्ण कार्यात्मक निर्भरता (2NF)\n(बी)\n13\nओएस प्लेटफ़ॉर्म फ़ंक्शन\n(बी)\n53\nगुण अनुमत मान (डोमेन)\n(बी)\n14\nसिस्टम उपकरण (स्कैंडिस्क/प्रारूप)\n(सी)\n54\nगुण गणना (डिग्री)\n(बी)\n15\nस्थायी विलोपन (Shift+Del)\n(बी)\n55\nपंक्ति मान अद्यतन किया जा रहा है (अद्यतन)\n(ए)\n16\nकंप्यूटर मुख्य सबसिस्टम\n(सी)\n56\nडेटा पुनर्प्राप्ति क्वेरी (चयन करें)\n(सी)\n17\nहेक्स एड्रेस स्पेस FFFF (64K)\n(सी)\n57\nसंशोधित तालिका स्कीमा (परिवर्तन)\n(ए)\n18\nन्यूनतम भंडारण लागत (टेप)\n(सी)\n58\nपैटर्न मिलान विधेय (जैसे)\n(बी)\n19\nबाइनरी प्रीफ़िक्स तेरा (2^40)\n(बी)\n59\nडिग्री और कार्डिनैलिटी गणना\n(बी)\n20\nरेजिडेंट मेमोरी सॉफ्टवेयर (लोडर)\n(ए)\n60\nटेबल ऑब्जेक्ट हटाना (ड्रॉप)\n(बी)\n21\nपोस्टफ़िक्स रूपांतरण के लिए उपसर्ग\n(ए)\n61\nप्रोग्राम काउंटर अगला पता\n(ए)\n22\nडेटा संरचना को पोस्टफ़िक्स करने के लिए इनफ़िक्स\n(ए)\n62\nअनुदेश रजिस्टर करेंट ऑप\n(सी)\n23\nकतार पीछे और सामने प्रवेश\n(बी)\n63\nमेमोरी एड्रेस रजिस्टर (मार्च)\n(बी)\n24\nकतार पहुंच नियम (फीफो)\n(ए)\n64\nगति बेमेल बफ़र\n(सी)\n25\nस्टैक एक्सेस नियम (LIFO)\n(बी)\n65\nरैंडम एक्सेस मेमोरी (रैम)\n(बी)\n26\nकंस्ट्रक्टर मंगलाचरण समय\n(ए)\n66\nअष्टाधारी जोड़ अंकगणित\n(ए)\n27\nसंरचना डिफ़ॉल्ट पहुंच (सार्वजनिक)\n(ए)\n67\n8-बिट 2 की पूरक सीमा\n(सी)\n28\nक्लास डिफॉल्ट एक्सेस (निजी)\n(बी)\n68\nहेक्स से ऑक्टल बेस रूपांतरण\n(सी)\n29\nक्लास एनकैप्सुलेशन सामग्री\n(सी)\n69\nस्वयं 2 का पूरक (1000)\n(सी)\n30\nC++ एक्सेस विनिर्देशक गणना (3)\n(बी)\n70\nहेक्स संख्या में बाइनरी 1एस गणना\n(बी)\n31\nस्कोप रेज़ोल्यूशन ऑपरेटर (::)\n(बी)\n71\nबूलियन अतिरेक (x + x'y)\n(ए)\n32\nकोड पुन: प्रयोज्यता (विरासत)\n(बी)\n72\nबूलियन वैरिएबल इंडिपेंडेंस\n(डी)\n33\nवैश्विक दायरा संकल्प (::i)\n(ए)\n73\nया वितरणात्मक कानून (ए+बीसी)\n(सी)\n34\nइनलाइन फ़ंक्शन स्पीडअप\n(ए)\n74\nअवशोषण नियम (x + xy = x)\n(ए)\n35\nबिटवाइज़ लेफ्ट शिफ्ट (a<<2)\n(बी)\n75\nदोहरा अवशोषण (x(x+y) = x)\n(ए)\n36\nकॉउट स्टैंडर्ड स्ट्रीम अर्थ\n(बी)\n76\nसम इन्वॉल्यूशन कानून (4 अभाज्य)\n(बी)\n37\nकार्यक्रम परिभाषा\n(सी)\n77\nकुल 2-परिवर्तनीय कार्य (16)\n(सी)\n38\nएल्गोरिथम प्रोग्राम परिभाषा\n(सी)\n78\nबूलियन फ़ंक्शन सरलीकरण\n(ए)\n39\nअधिकतम विश्वसनीयता (मेष)\n(सी)\n79\nयूनिवर्सल गेट (नंद गेट)\n(सी)\n40\nट्रांसपोर्ट लेयर होस्ट-टू-होस्ट\n(बी)\n80\nXOR NAND गेट गिनती (4 गेट)\n(बी)\nभाग-III: कंप्यूटर विज्ञान - अभ्यास सेट 2 (प्रश्न 81 से 160 [माध्यमिक / टीजीटी कंप्यूटर]) फोकस: नेटवर्क रूटिंग, पांचवीं पीढ़ी कंप्यूटिंग, वर्चुअल बेस क्लासेस, मेमोरी ऑपरेटर्स, स्टैक एप्लिकेशन, बाइनरी हीप प्राथमिकता कतार, डेटाबेस सामान्यीकरण (3एनएफ), और बूलियन समतुल्यता।",
+      "tip_hi": "न्यूनतम NAND गणना बेंचमार्क: NOT = 1, AND = 2, OR = 3, XOR = 4, XNOR = 5।\nमास्टर उत्तर कुंजी और विषय सूचकांक - सेट 1 (प्रश्न 1 से 80)\nप्र.सं.\nविषय/डोमेन\nकुंजी\nप्र.सं.\nविषय/डोमेन\nकुंजी\n1\nसीपीयू (कंप्यूटर का मस्तिष्क)\n(ए)\n41\nत्रुटि दर मापन\n(ए)\n2\nमाइक्रोप्रोसेसर पीढ़ी (8085)\n(बी)\n42\nउच्चतम गति मीडिया (फाइबर)\n(सी)\n3\nतीसरी पीढ़ी की मेमोरी सीमा (16 एमबी)\n(बी)\n43\nसिंगल बैकबोन टोपोलॉजी (बस)\n(ए)\n4\nसिंगल चिप पर सीपीयू (माइक्रोप्रोसेसर)\n(ए)\n44\nवाइड एरिया नेटवर्क (डब्ल्यूएएन)\n(ए)\n5\nसिंगल चिप पर कंप्यूटर\n(ए)\n45\nIPv4 पता लंबाई (32-बिट)\n(सी)\n6\nगेमिंग कंट्रोलर (जॉयस्टिक)\n(सी)\n46\nमैक पता लंबाई (48-बिट)\n(सी)\n7\nगैर-वाष्पशील भंडारण (ROM)\n(सी)\n47\nअनधिकृत पहुंच (हैकिंग)\n(ए)\n8\nलेजर स्टोरेज डिवाइस (सीडी ड्राइव)\n(ए)\n48\nकंप्यूटर वायरस के लक्षण\n(डी)\n9\nअसेंबली से मशीन (असेम्बलर)\n(बी)\n49\nअनधिकृत नकल (चोरी)\n(बी)\n10\nमशीन (संकलक) के लिए उच्च स्तरीय\n(बी)\n50\nहार्ड डिस्क तालिका भ्रष्टाचार\n(डी)\n11\nपंक्ति-दर-पंक्ति निष्पादन (दुभाषिया)\n(सी)\n51\nविदेशी कुंजी संदर्भात्मक लिंक\n(ए)\n12\nओएस पहचान बनाम डीबीएमएस\n(सी)\n52\nपूर्ण कार्यात्मक निर्भरता (2NF)\n(बी)\n13\nओएस प्लेटफ़ॉर्म फ़ंक्शन\n(बी)\n53\nगुण अनुमत मान (डोमेन)\n(बी)\n14\nसिस्टम उपकरण (स्कैंडिस्क/प्रारूप)\n(सी)\n54\nगुण गणना (डिग्री)\n(बी)\n15\nस्थायी विलोपन (Shift+Del)\n(बी)\n55\nपंक्ति मान अद्यतन किया जा रहा है (अद्यतन)\n(ए)\n16\nकंप्यूटर मुख्य सबसिस्टम\n(सी)\n56\nडेटा पुनर्प्राप्ति क्वेरी (चयन करें)\n(सी)\n17\nहेक्स एड्रेस स्पेस FFFF (64K)\n(सी)\n57\nसंशोधित तालिका स्कीमा (परिवर्तन)\n(ए)\n18\nन्यूनतम भंडारण लागत (टेप)\n(सी)\n58\nपैटर्न मिलान विधेय (जैसे)\n(बी)\n19\nबाइनरी प्रीफ़िक्स तेरा (2^40)\n(बी)\n59\nडिग्री और कार्डिनैलिटी गणना\n(बी)\n20\nरेजिडेंट मेमोरी सॉफ्टवेयर (लोडर)\n(ए)\n60\nटेबल ऑब्जेक्ट हटाना (ड्रॉप)\n(बी)\n21\nपोस्टफ़िक्स रूपांतरण के लिए उपसर्ग\n(ए)\n61\nप्रोग्राम काउंटर अगला पता\n(ए)\n22\nडेटा संरचना को पोस्टफ़िक्स करने के लिए इनफ़िक्स\n(ए)\n62\nअनुदेश रजिस्टर करेंट ऑप\n(सी)\n23\nकतार पीछे और सामने प्रवेश\n(बी)\n63\nमेमोरी एड्रेस रजिस्टर (मार्च)\n(बी)\n24\nकतार पहुंच नियम (फीफो)\n(ए)\n64\nगति बेमेल बफ़र\n(सी)\n25\nस्टैक एक्सेस नियम (LIFO)\n(बी)\n65\nरैंडम एक्सेस मेमोरी (रैम)\n(बी)\n26\nकंस्ट्रक्टर मंगलाचरण समय\n(ए)\n66\nअष्टाधारी जोड़ अंकगणित\n(ए)\n27\nसंरचना डिफ़ॉल्ट पहुंच (सार्वजनिक)\n(ए)\n67\n8-बिट 2 की पूरक सीमा\n(सी)\n28\nक्लास डिफॉल्ट एक्सेस (निजी)\n(बी)\n68\nहेक्स से ऑक्टल बेस रूपांतरण\n(सी)\n29\nक्लास एनकैप्सुलेशन सामग्री\n(सी)\n69\nस्वयं 2 का पूरक (1000)\n(सी)\n30\nC++ एक्सेस विनिर्देशक गणना (3)\n(बी)\n70\nहेक्स संख्या में बाइनरी 1एस गणना\n(बी)\n31\nस्कोप रेज़ोल्यूशन ऑपरेटर (::)\n(बी)\n71\nबूलियन अतिरेक (x + x'y)\n(ए)\n32\nकोड पुन: प्रयोज्यता (विरासत)\n(बी)\n72\nबूलियन वैरिएबल इंडिपेंडेंस\n(डी)\n33\nवैश्विक दायरा संकल्प (::i)\n(ए)\n73\nया वितरणात्मक कानून (ए+बीसी)\n(सी)\n34\nइनलाइन फ़ंक्शन स्पीडअप\n(ए)\n74\nअवशोषण नियम (x + xy = x)\n(ए)\n35\nबिटवाइज़ लेफ्ट शिफ्ट (a<<2)\n(बी)\n75\nदोहरा अवशोषण (x(x+y) = x)\n(ए)\n36\nकॉउट स्टैंडर्ड स्ट्रीम अर्थ\n(बी)\n76\nसम इन्वॉल्यूशन कानून (4 अभाज्य)\n(बी)\n37\nकार्यक्रम परिभाषा\n(सी)\n77\nकुल 2-परिवर्तनीय कार्य (16)\n(सी)\n38\nएल्गोरिथम प्रोग्राम परिभाषा\n(सी)\n78\nबूलियन फ़ंक्शन सरलीकरण\n(ए)\n39\nअधिकतम विश्वसनीयता (मेष)\n(सी)\n79\nयूनिवर्सल गेट (नंद गेट)\n(सी)\n40\nट्रांसपोर्ट लेयर होस्ट-टू-होस्ट\n(बी)\n80\nXOR NAND गेट गिनती (4 गेट)\n(बी)\nभाग-III: कंप्यूटर विज्ञान - अभ्यास सेट 2 (प्रश्न 81 से 160 [माध्यमिक / टीजीटी कंप्यूटर]) फोकस: नेटवर्क रूटिंग, पांचवीं पीढ़ी कंप्यूटिंग, वर्चुअल बेस क्लासेस, मेमोरी ऑपरेटर्स, स्टैक एप्लिकेशन, बाइनरी हीप प्राथमिकता कतार, डेटाबेस सामान्यीकरण (3एनएफ), और बूलियन समतुल्यता।"
+    }
+  ]
+}

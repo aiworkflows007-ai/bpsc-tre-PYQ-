@@ -1,16 +1,16 @@
 {
   "id": "bpsc-tre4-english-literature-80q",
-  "title": "English Literature Practice (80Q)",
+  "title": "English Literature Practice Set 4 (Full 80Q Master Mock)",
   "section": "subject",
   "section_name": "Part-III Subject Practice (80 Marks)",
   "subject": "English Literature",
-  "filename": "bpsc-tre4-english-literature-80q.docx",
+  "filename": "bpsc-tre4-english-literature-80q.json",
   "question_count": 80,
   "questions": [
     {
       "source": "Chaucer & Middle English",
       "en": "Who is considered the Father of English Poetry?",
-      "hi": "Who is considered the Father of English Poetry?",
+      "hi": "अंग्रेजी कविता का जनक किसे माना जाता है?",
       "options": [
         "William Shakespeare",
         "Geoffrey Chaucer",
@@ -37,7 +37,7 @@
     {
       "source": "Middle English Literature",
       "en": "How many pilgrims (excluding Chaucer and the Host) are introduced in the General Prologue to The Canterbury Tales?",
-      "hi": "How many pilgrims (excluding Chaucer and the Host) are introduced in the General Prologue to The Canterbury Tales?",
+      "hi": "कैंटरबरी टेल्स की सामान्य प्रस्तावना में कितने तीर्थयात्रियों (चॉसर और मेजबान को छोड़कर) का परिचय दिया गया है?",
       "options": [
         "29",
         "30",
@@ -64,7 +64,7 @@
     {
       "source": "Elizabethan Poetry",
       "en": "Which rhyme scheme is used in the Spenserian Stanza?",
-      "hi": "Which rhyme scheme is used in the Spenserian Stanza?",
+      "hi": "स्पेंसरियन छंद में किस छंद योजना का उपयोग किया जाता है?",
       "options": [
         "ababbcbcc",
         "ababcdcd",
@@ -91,7 +91,7 @@
     {
       "source": "Shakespearean Tragedy",
       "en": "In which play does Shakespeare write the famous line: 'Life's but a walking shadow, a poor player / That struts and frets his hour upon the stage'?",
-      "hi": "In which play does Shakespeare write the famous line: 'Life's but a walking shadow, a poor player / That struts and frets his hour upon the stage'?",
+      "hi": "शेक्सपियर ने किस नाटक में प्रसिद्ध पंक्ति लिखी है: 'जीवन एक चलती हुई छाया है, एक गरीब खिलाड़ी / जो मंच पर अकड़ता है और अपना समय बर्बाद करता है'?",
       "options": [
         "Hamlet",
         "King Lear",
@@ -118,7 +118,7 @@
     {
       "source": "Shakespearean Sonnets",
       "en": "Shakespeare's sonnets consist of how many sonnets in total, and to whom are sonnets 1 to 126 generally addressed?",
-      "hi": "Shakespeare's sonnets consist of how many sonnets in total, and to whom are sonnets 1 to 126 generally addressed?",
+      "hi": "शेक्सपियर के सॉनेट में कुल कितने सॉनेट हैं, और सॉनेट 1 से 126 आम तौर पर किसे संबोधित हैं?",
       "options": [
         "154 sonnets; Fair Youth",
         "154 sonnets; Dark Lady",
@@ -145,7 +145,7 @@
     {
       "source": "17th Century Poetry",
       "en": "Who coined the phrase 'Metaphysical Poets' in his biographical work Lives of the Most Eminent English Poets?",
-      "hi": "Who coined the phrase 'Metaphysical Poets' in his biographical work Lives of the Most Eminent English Poets?",
+      "hi": "अपनी जीवनी कृति लाइव्स ऑफ द मोस्ट एमिनेंट इंग्लिश पोएट्स में 'मेटाफिजिकल पोएट्स' वाक्यांश किसने गढ़ा?",
       "options": [
         "John Dryden",
         "Samuel Johnson",
@@ -172,7 +172,7 @@
     {
       "source": "Metaphysical Conceits",
       "en": "John Donne's poem 'A Valediction: Forbidding Mourning' contains the celebrated conceit comparing two lovers' souls to",
-      "hi": "John Donne's poem 'A Valediction: Forbidding Mourning' contains the celebrated conceit comparing two lovers' souls to",
+      "hi": "जॉन डोने की कविता 'ए वैलेडिक्शन: फॉरबिडिंग मोरनिंग' में दो प्रेमियों की आत्माओं की तुलना करने वाला प्रसिद्ध दंभ शामिल है।",
       "options": [
         "two ships passing in the dark",
         "the twin compasses of a draughtsman",
@@ -199,7 +199,7 @@
     {
       "source": "Puritan Age & Epic",
       "en": "Milton's Paradise Lost was originally published in 1667 in how many books?",
-      "hi": "Milton's Paradise Lost was originally published in 1667 in how many books?",
+      "hi": "मिल्टन का पैराडाइज़ लॉस्ट मूल रूप से 1667 में कितनी पुस्तकों में प्रकाशित हुआ था?",
       "options": [
         "12 books",
         "10 books",
@@ -226,7 +226,7 @@
     {
       "source": "Milton's Poetry",
       "en": "What is the stated grand purpose of John Milton in writing Paradise Lost?",
-      "hi": "What is the stated grand purpose of John Milton in writing Paradise Lost?",
+      "hi": "पैराडाइज़ लॉस्ट लिखने में जॉन मिल्टन का कथित भव्य उद्देश्य क्या है?",
       "options": [
         "To narrate the fall of Lucifer and his angels",
         "To justify the ways of God to men",
@@ -253,7 +253,7 @@
     {
       "source": "Restoration Drama",
       "en": "Which Restoration dramatist wrote the famous comedy of manners The Way of the World (1700)?",
-      "hi": "Which Restoration dramatist wrote the famous comedy of manners The Way of the World (1700)?",
+      "hi": "किस रेस्टोरेशन नाटककार ने शिष्टाचार की प्रसिद्ध कॉमेडी द वे ऑफ द वर्ल्ड (1700) लिखी थी?",
       "options": [
         "William Wycherley",
         "William Congreve",
@@ -280,7 +280,7 @@
     {
       "source": "Augustan Age & Satire",
       "en": "Alexander Pope's The Rape of the Lock is a mock-heroic epic based on an actual incident involving the cutting of a lock of hair of",
-      "hi": "Alexander Pope's The Rape of the Lock is a mock-heroic epic based on an actual incident involving the cutting of a lock of hair of",
+      "hi": "अलेक्जेंडर पोप की द रेप ऑफ द लॉक एक नकली-वीर महाकाव्य है जो एक वास्तविक घटना पर आधारित है जिसमें बालों का एक गुच्छा काटने की घटना शामिल है।",
       "options": [
         "Arabella Fermor",
         "Martha Blount",
@@ -307,7 +307,7 @@
     {
       "source": "Augustan Prose",
       "en": "Jonathan Swift's celebrated political allegory and prose satire Gulliver's Travels (1726) contains how many voyages?",
-      "hi": "Jonathan Swift's celebrated political allegory and prose satire Gulliver's Travels (1726) contains how many voyages?",
+      "hi": "जोनाथन स्विफ्ट के प्रसिद्ध राजनीतिक रूपक और गद्य व्यंग्य गुलिवर्स ट्रेवल्स (1726) में कितनी यात्राएँ शामिल हैं?",
       "options": [
         "3 voyages",
         "4 voyages",
@@ -334,7 +334,7 @@
     {
       "source": "18th Century Prose",
       "en": "Who compiled the first comprehensive and authoritative A Dictionary of the English Language in 1755?",
-      "hi": "Who compiled the first comprehensive and authoritative A Dictionary of the English Language in 1755?",
+      "hi": "1755 में अंग्रेजी भाषा का पहला व्यापक और आधिकारिक ए डिक्शनरी किसने संकलित किया था?",
       "options": [
         "James Boswell",
         "Samuel Johnson",
@@ -361,7 +361,7 @@
     {
       "source": "Romantic Movement",
       "en": "The publication of which work in 1798 is universally accepted as the formal commencement of the Romantic Movement in England?",
-      "hi": "The publication of which work in 1798 is universally accepted as the formal commencement of the Romantic Movement in England?",
+      "hi": "1798 में किस कार्य के प्रकाशन को इंग्लैंड में रोमांटिक आंदोलन की औपचारिक शुरुआत के रूप में सार्वभौमिक रूप से स्वीकार किया जाता है?",
       "options": [
         "Songs of Innocence and Experience by William Blake",
         "Lyrical Ballads by Wordsworth and Coleridge",
@@ -388,7 +388,7 @@
     {
       "source": "Romantic Literary Criticism",
       "en": "How did William Wordsworth famously define poetry in his 'Preface to Lyrical Ballads' (1800)?",
-      "hi": "How did William Wordsworth famously define poetry in his 'Preface to Lyrical Ballads' (1800)?",
+      "hi": "विलियम वर्ड्सवर्थ ने अपनी 'प्रीफेस टू लिरिकल बैलाड्स' (1800) में कविता को प्रसिद्ध रूप से कैसे परिभाषित किया?",
       "options": [
         "The spontaneous overflow of powerful feelings recollected in tranquillity",
         "The best words in the best order",
@@ -415,7 +415,7 @@
     {
       "source": "Keats & Romantic Poetry",
       "en": "Which Romantic poet authored the phrase 'Beauty is truth, truth beauty,—that is all / Ye know on earth, and all ye need to know'?",
-      "hi": "Which Romantic poet authored the phrase 'Beauty is truth, truth beauty,—that is all / Ye know on earth, and all ye need to know'?",
+      "hi": "किस रोमांटिक कवि ने यह वाक्यांश लिखा है 'सौंदर्य सत्य है, सत्य सौंदर्य है, - पृथ्वी पर बस इतना ही है / तुम सब जानते हो, और वह सब जो तुम्हें जानना आवश्यक है'?",
       "options": [
         "P. B. Shelley",
         "John Keats",
@@ -442,7 +442,7 @@
     {
       "source": "Pastoral Elegy",
       "en": "P. B. Shelley wrote his pastoral elegy Adonais (1821) to mourn the premature death of which fellow poet?",
-      "hi": "P. B. Shelley wrote his pastoral elegy Adonais (1821) to mourn the premature death of which fellow poet?",
+      "hi": "पी. बी. शेली ने किस साथी कवि की असामयिक मृत्यु पर शोक व्यक्त करने के लिए अपनी देहाती शोकगीत एडोनिस (1821) लिखी थी?",
       "options": [
         "Lord Byron",
         "John Keats",
@@ -469,7 +469,7 @@
     {
       "source": "19th Century Novel",
       "en": "Which female Romantic novelist wrote Pride and Prejudice, Sense and Sensibility, and Emma?",
-      "hi": "Which female Romantic novelist wrote Pride and Prejudice, Sense and Sensibility, and Emma?",
+      "hi": "किस महिला रोमांटिक उपन्यासकार ने प्राइड एंड प्रेजुडिस, सेंस एंड सेंसिबिलिटी और एम्मा लिखी?",
       "options": [
         "Charlotte Brontë",
         "Jane Austen",
@@ -496,7 +496,7 @@
     {
       "source": "Victorian Poetry",
       "en": "Who wrote the Victorian masterpiece In Memoriam A.H.H. (1850) that comforted Queen Victoria after Prince Albert's death?",
-      "hi": "Who wrote the Victorian masterpiece In Memoriam A.H.H. (1850) that comforted Queen Victoria after Prince Albert's death?",
+      "hi": "विक्टोरियन कृति इन मेमोरियम ए.एच.एच. किसने लिखी? (1850) जिसने प्रिंस अल्बर्ट की मृत्यु के बाद महारानी विक्टोरिया को सांत्वना दी?",
       "options": [
         "Robert Browning",
         "Alfred, Lord Tennyson",
@@ -523,7 +523,7 @@
     {
       "source": "Victorian Poetry",
       "en": "The dramatic monologue technique reached its highest psychological mastery in the Victorian poetry of",
-      "hi": "The dramatic monologue technique reached its highest psychological mastery in the Victorian poetry of",
+      "hi": "नाटकीय एकालाप तकनीक विक्टोरियन कविता में अपनी उच्चतम मनोवैज्ञानिक महारत तक पहुँच गई",
       "options": [
         "Alfred Tennyson",
         "Robert Browning",
@@ -550,7 +550,7 @@
     {
       "source": "Victorian Fiction",
       "en": "Charles Dickens's novel A Tale of Two Cities (1859) is set in which two historic cities during the French Revolution?",
-      "hi": "Charles Dickens's novel A Tale of Two Cities (1859) is set in which two historic cities during the French Revolution?",
+      "hi": "चार्ल्स डिकेंस का उपन्यास ए टेल ऑफ़ टू सिटीज़ (1859) फ्रांसीसी क्रांति के दौरान किन दो ऐतिहासिक शहरों पर आधारित है?",
       "options": [
         "London and Rome",
         "London and Paris",
@@ -577,7 +577,7 @@
     {
       "source": "Victorian Realism",
       "en": "Under what male pseudonym did Mary Ann Evans publish her masterly Victorian novels including Middlemarch and Silas Marner?",
-      "hi": "Under what male pseudonym did Mary Ann Evans publish her masterly Victorian novels including Middlemarch and Silas Marner?",
+      "hi": "किस पुरुष छद्म नाम के तहत मैरी एन इवांस ने मिडिलमार्च और सिलास मार्नर सहित अपने उत्कृष्ट विक्टोरियन उपन्यास प्रकाशित किए?",
       "options": [
         "Currer Bell",
         "George Eliot",
@@ -604,7 +604,7 @@
     {
       "source": "Hardy & Regional Novel",
       "en": "Thomas Hardy set the tragic plots of his major novels (such as Tess of the d'Urbervilles and The Mayor of Casterbridge) in the fictional semi-rural region called",
-      "hi": "Thomas Hardy set the tragic plots of his major novels (such as Tess of the d'Urbervilles and The Mayor of Casterbridge) in the fictional semi-rural region called",
+      "hi": "थॉमस हार्डी ने अपने प्रमुख उपन्यासों (जैसे टेस ऑफ द डी'उर्बरविल्स और द मेयर ऑफ कैस्टरब्रिज) के दुखद कथानक को काल्पनिक अर्ध-ग्रामीण क्षेत्र में सेट किया।",
       "options": [
         "Malgudi",
         "Barsetshire",
@@ -631,7 +631,7 @@
     {
       "source": "Late Victorian Drama",
       "en": "Who wrote the play The Importance of Being Earnest (1895), a supreme masterpiece of Victorian wit and epigrammatic satire?",
-      "hi": "Who wrote the play The Importance of Being Earnest (1895), a supreme masterpiece of Victorian wit and epigrammatic satire?",
+      "hi": "विक्टोरियन बुद्धि और महाकाव्य व्यंग्य की सर्वोच्च कृति नाटक द इंपोर्टेंस ऑफ बीइंग अर्नेस्ट (1895) किसने लिखा था?",
       "options": [
         "George Bernard Shaw",
         "Oscar Wilde",
@@ -658,7 +658,7 @@
     {
       "source": "Victorian Critical Poetry",
       "en": "Which poem by Matthew Arnold laments the receding 'Sea of Faith' in the face of Victorian scientific skepticism and industrialism?",
-      "hi": "Which poem by Matthew Arnold laments the receding 'Sea of Faith' in the face of Victorian scientific skepticism and industrialism?",
+      "hi": "मैथ्यू अर्नाल्ड की कौन सी कविता विक्टोरियन वैज्ञानिक संशयवाद और उद्योगवाद के सामने घटते 'आस्था के सागर' पर शोक व्यक्त करती है?",
       "options": [
         "The Scholar-Gipsy",
         "Thyrsis",
@@ -685,7 +685,7 @@
     {
       "source": "Modernist Poetry",
       "en": "T. S. Eliot's landmark modernist poem The Waste Land (1922) opens with which famous paradoxical line?",
-      "hi": "T. S. Eliot's landmark modernist poem The Waste Land (1922) opens with which famous paradoxical line?",
+      "hi": "टी. एस. एलियट की ऐतिहासिक आधुनिकतावादी कविता द वेस्ट लैंड (1922) किस प्रसिद्ध विरोधाभासी पंक्ति से शुरू होती है?",
       "options": [
         "April is the cruellest month",
         "Let us go then, you and I",
@@ -712,7 +712,7 @@
     {
       "source": "Modernist Fiction",
       "en": "Which modernist stream-of-consciousness novel by James Joyce depicts a single day (16th June 1904) in the life of Leopold Bloom in Dublin?",
-      "hi": "Which modernist stream-of-consciousness novel by James Joyce depicts a single day (16th June 1904) in the life of Leopold Bloom in Dublin?",
+      "hi": "जेम्स जॉयस का कौन सा आधुनिकतावादी धारा-चेतना उपन्यास डबलिन में लियोपोल्ड ब्लूम के जीवन के एक दिन (16 जून 1904) को दर्शाता है?",
       "options": [
         "A Portrait of the Artist as a Young Man",
         "Ulysses",
@@ -739,7 +739,7 @@
     {
       "source": "20th Century Drama",
       "en": "Who wrote the play Waiting for Godot (1953), the foremost exemplar of the Theatre of the Absurd?",
-      "hi": "Who wrote the play Waiting for Godot (1953), the foremost exemplar of the Theatre of the Absurd?",
+      "hi": "वेटिंग फॉर गोडोट (1953) नाटक किसने लिखा, जो थिएटर ऑफ़ द एब्सर्ड का सबसे प्रमुख उदाहरण है?",
       "options": [
         "Harold Pinter",
         "Samuel Beckett",
@@ -766,7 +766,7 @@
     {
       "source": "Classical Criticism (Aristotle)",
       "en": "In his Poetics, Aristotle defines 'Tragedy' as an imitation of an action that is serious, complete, and of a certain magnitude, effecting through pity and fear the purgation of such emotions, which he terms",
-      "hi": "In his Poetics, Aristotle defines 'Tragedy' as an imitation of an action that is serious, complete, and of a certain magnitude, effecting through pity and fear the purgation of such emotions, which he terms",
+      "hi": "अपने काव्यशास्त्र में, अरस्तू ने 'त्रासदी' को एक ऐसे कार्य की नकल के रूप में परिभाषित किया है जो गंभीर, पूर्ण और एक निश्चित परिमाण का है, जो दया और भय के माध्यम से ऐसी भावनाओं को दूर करता है, जिसे वह कहते हैं",
       "options": [
         "Hamartia",
         "Catharsis",
@@ -793,7 +793,7 @@
     {
       "source": "Classical Poetics",
       "en": "What is the term coined by Aristotle for the tragic flaw or fatal error of judgment that precipitates the hero's downfall?",
-      "hi": "What is the term coined by Aristotle for the tragic flaw or fatal error of judgment that precipitates the hero's downfall?",
+      "hi": "नायक के पतन का कारण बनने वाले दुखद दोष या निर्णय की घातक त्रुटि के लिए अरस्तू द्वारा गढ़ा गया शब्द क्या है?",
       "options": [
         "Peripeteia",
         "Hamartia",
@@ -820,7 +820,7 @@
     {
       "source": "Coleridge's Literary Theory",
       "en": "In Biographia Literaria (1817), S. T. Coleridge famously distinguished between two faculties of the poetic mind, namely",
-      "hi": "In Biographia Literaria (1817), S. T. Coleridge famously distinguished between two faculties of the poetic mind, namely",
+      "hi": "बायोग्राफिया लिटरेरिया (1817) में, एस. टी. कोलरिज ने काव्य मन की दो क्षमताओं के बीच प्रसिद्ध रूप से अंतर किया, अर्थात्",
       "options": [
         "Primary Imagination and Secondary Imagination",
         "Fancy and Imagination",
@@ -847,7 +847,7 @@
     {
       "source": "Romantic Criticism",
       "en": "Which celebrated critical phrase was formulated by S. T. Coleridge to describe the reader's mental state required to appreciate romantic and supernatural literature?",
-      "hi": "Which celebrated critical phrase was formulated by S. T. Coleridge to describe the reader's mental state required to appreciate romantic and supernatural literature?",
+      "hi": "रोमांटिक और अलौकिक साहित्य की सराहना करने के लिए आवश्यक पाठक की मानसिक स्थिति का वर्णन करने के लिए एस.टी. कोलरिज द्वारा कौन सा प्रसिद्ध आलोचनात्मक वाक्यांश तैयार किया गया था?",
       "options": [
         "Negative Capability",
         "Objective Correlative",
@@ -874,7 +874,7 @@
     {
       "source": "T. S. Eliot's Criticism",
       "en": "T. S. Eliot coined the concept of 'Objective Correlative' in which of his critical essays?",
-      "hi": "T. S. Eliot coined the concept of 'Objective Correlative' in which of his critical essays?",
+      "hi": "टी. एस. एलियट ने अपने किस आलोचनात्मक निबंध में 'ऑब्जेक्टिव कोरिलेटिव' की अवधारणा गढ़ी?",
       "options": [
         "Tradition and the Individual Talent",
         "Hamlet and His Problems",
@@ -901,7 +901,7 @@
     {
       "source": "Modernist Criticism",
       "en": "The critical concept of 'Dissociation of Sensibility'—the separation of thought from feeling that occurred in 17th-century English poetry—was advanced by",
-      "hi": "The critical concept of 'Dissociation of Sensibility'—the separation of thought from feeling that occurred in 17th-century English poetry—was advanced by",
+      "hi": "'संवेदनशीलता के पृथक्करण' की आलोचनात्मक अवधारणा - 17वीं शताब्दी की अंग्रेजी कविता में भावना से विचार का पृथक्करण - द्वारा आगे बढ़ाया गया था",
       "options": [
         "I. A. Richards",
         "T. S. Eliot",
@@ -928,7 +928,7 @@
     {
       "source": "New Criticism",
       "en": "Which foundational New Critical text was authored by W. K. Wimsatt Jr. and Monroe Beardsley regarding the error of judging a literary work by the author's intended meaning?",
-      "hi": "Which foundational New Critical text was authored by W. K. Wimsatt Jr. and Monroe Beardsley regarding the error of judging a literary work by the author's intended meaning?",
+      "hi": "किसी साहित्यिक कृति को लेखक के इच्छित अर्थ के आधार पर आंकने की त्रुटि के संबंध में डब्ल्यू. के. विम्सट जूनियर और मोनरो बियर्डस्ले द्वारा कौन सा मूलभूत नया आलोचनात्मक पाठ लिखा गया था?",
       "options": [
         "The Affective Fallacy",
         "The Intentional Fallacy",
@@ -955,7 +955,7 @@
     {
       "source": "Postcolonial Theory",
       "en": "Who authored the seminal postcolonial critical text Orientalism (1978), analyzing how the West historically constructed and represented the East as inferior, exotic, and irrational?",
-      "hi": "Who authored the seminal postcolonial critical text Orientalism (1978), analyzing how the West historically constructed and represented the East as inferior, exotic, and irrational?",
+      "hi": "मौलिक उत्तर-औपनिवेशिक आलोचनात्मक पाठ ओरिएंटलिज्म (1978) का लेखक कौन है, जिसमें यह विश्लेषण किया गया है कि पश्चिम ने ऐतिहासिक रूप से पूर्व को घटिया, विदेशी और अतार्किक के रूप में कैसे प्रस्तुत किया?",
       "options": [
         "Homi K. Bhabha",
         "Gayatri Chakravorty Spivak",
@@ -982,7 +982,7 @@
     {
       "source": "Subaltern Studies & Theory",
       "en": "The celebrated postcolonial essay 'Can the Subaltern Speak?' (1988), examining the systemic silencing of marginalized colonized subjects (particularly women), was written by",
-      "hi": "The celebrated postcolonial essay 'Can the Subaltern Speak?' (1988), examining the systemic silencing of marginalized colonized subjects (particularly women), was written by",
+      "hi": "प्रसिद्ध उत्तर-औपनिवेशिक निबंध 'कैन द सबाल्टर्न स्पीक?' (1988), हाशिए पर रहने वाले उपनिवेशित विषयों (विशेष रूप से महिलाओं) की प्रणालीगत चुप्पी की जांच करते हुए, द्वारा लिखा गया था",
       "options": [
         "Gayatri Chakravorty Spivak",
         "Edward Said",
@@ -1009,7 +1009,7 @@
     {
       "source": "Deconstruction & Theory",
       "en": "Who delivered the revolutionary 1966 Johns Hopkins lecture 'Structure, Sign, and Play in the Discourse of the Human Sciences', inaugurating Post-Structuralism and Deconstruction?",
-      "hi": "Who delivered the revolutionary 1966 Johns Hopkins lecture 'Structure, Sign, and Play in the Discourse of the Human Sciences', inaugurating Post-Structuralism and Deconstruction?",
+      "hi": "उत्तर-संरचनावाद और विखंडन का उद्घाटन करते हुए क्रांतिकारी 1966 जॉन्स हॉपकिन्स व्याख्यान 'मानव विज्ञान के प्रवचन में संरचना, संकेत और खेल' किसने दिया था?",
       "options": [
         "Roland Barthes",
         "Jacques Derrida",
@@ -1036,7 +1036,7 @@
     {
       "source": "Indian Writing in English",
       "en": "Rabindranath Tagore was awarded the Nobel Prize in Literature in 1913 for his translated collection of spiritual lyrics titled",
-      "hi": "Rabindranath Tagore was awarded the Nobel Prize in Literature in 1913 for his translated collection of spiritual lyrics titled",
+      "hi": "रवीन्द्रनाथ टैगोर को उनके आध्यात्मिक गीतों के अनुवादित संग्रह शीर्षक के लिए 1913 में साहित्य में नोबेल पुरस्कार से सम्मानित किया गया था",
       "options": [
         "The Post Office",
         "Gora",
@@ -1063,7 +1063,7 @@
     {
       "source": "Indian English Novel",
       "en": "Who wrote Untouchable (1935) and Coolie (1936), portraying the bitter socio-economic plight of marginalized outcasts in colonial India?",
-      "hi": "Who wrote Untouchable (1935) and Coolie (1936), portraying the bitter socio-economic plight of marginalized outcasts in colonial India?",
+      "hi": "औपनिवेशिक भारत में हाशिए पर रहने वाले बहिष्कृत लोगों की कड़वी सामाजिक-आर्थिक दुर्दशा को चित्रित करने वाली अनटचेबल (1935) और कुली (1936) किसने लिखी?",
       "options": [
         "R. K. Narayan",
         "Mulk Raj Anand",
@@ -1090,7 +1090,7 @@
     {
       "source": "R. K. Narayan & Malgudi",
       "en": "Which Indian English novelist created the celebrated fictional South Indian town of Malgudi?",
-      "hi": "Which Indian English novelist created the celebrated fictional South Indian town of Malgudi?",
+      "hi": "किस भारतीय अंग्रेजी उपन्यासकार ने प्रसिद्ध काल्पनिक दक्षिण भारतीय शहर मालगुडी की रचना की?",
       "options": [
         "Raja Rao",
         "R. K. Narayan",
@@ -1117,7 +1117,7 @@
     {
       "source": "Raja Rao & Gandhian Novel",
       "en": "Raja Rao's landmark novel Kanthapura (1938) narrates the impact of Gandhian non-violent agitation on a remote south Indian village through the oral storytelling voice of an old woman named",
-      "hi": "Raja Rao's landmark novel Kanthapura (1938) narrates the impact of Gandhian non-violent agitation on a remote south Indian village through the oral storytelling voice of an old woman named",
+      "hi": "राजा राव का ऐतिहासिक उपन्यास कांथापुरा (1938) एक बूढ़ी महिला की मौखिक कहानी के माध्यम से सुदूर दक्षिण भारतीय गांव पर गांधीवादी अहिंसक आंदोलन के प्रभाव का वर्णन करता है।",
       "options": [
         "Ratna",
         "Rangamma",
@@ -1144,7 +1144,7 @@
     {
       "source": "Indian English Poetry",
       "en": "Nissim Ezekiel, regarded as the father of modern post-independence Indian English poetry, wrote which autobiographical, ironical masterpiece about rural superstition?",
-      "hi": "Nissim Ezekiel, regarded as the father of modern post-independence Indian English poetry, wrote which autobiographical, ironical masterpiece about rural superstition?",
+      "hi": "निसिम ईजेकील, जिन्हें स्वतंत्रता के बाद की आधुनिक भारतीय अंग्रेजी कविता का जनक माना जाता है, ने ग्रामीण अंधविश्वास के बारे में कौन सी आत्मकथात्मक, विडंबनापूर्ण कृति लिखी है?",
       "options": [
         "'Enterprise'",
         "'Night of the Scorpion'",
@@ -1171,7 +1171,7 @@
     {
       "source": "Confessional Poetry",
       "en": "Which confessional Indian English poet authored 'An Introduction' and the autobiographical memoir My Story (1976)?",
-      "hi": "Which confessional Indian English poet authored 'An Introduction' and the autobiographical memoir My Story (1976)?",
+      "hi": "किस कन्फेशनल भारतीय अंग्रेजी कवि ने 'एन इंट्रोडक्शन' और आत्मकथात्मक संस्मरण माई स्टोरी (1976) लिखी है?",
       "options": [
         "Toru Dutt",
         "Sarojini Naidu",
@@ -1198,7 +1198,7 @@
     {
       "source": "Contemporary Postcolonial Fiction",
       "en": "Salman Rushdie's novel Midnight's Children (1981), which won both the Booker Prize and the 'Booker of Bookers', features a protagonist born at the exact stroke of India's independence midnight named",
-      "hi": "Salman Rushdie's novel Midnight's Children (1981), which won both the Booker Prize and the 'Booker of Bookers', features a protagonist born at the exact stroke of India's independence midnight named",
+      "hi": "सलमान रुश्दी के उपन्यास मिडनाइट्स चिल्ड्रन (1981), जिसने बुकर पुरस्कार और 'बुकर ऑफ बुकर्स' दोनों जीते, में भारत की आजादी के ठीक ठीक आधी रात को पैदा हुए एक नायक का नाम है।",
       "options": [
         "Omar Khayyam Shakil",
         "Saleem Sinai",
@@ -1225,7 +1225,7 @@
     {
       "source": "Contemporary Indian Fiction",
       "en": "Arundhati Roy won the Man Booker Prize in 1997 for her debut novel set in Ayemenem, Kerala, titled",
-      "hi": "Arundhati Roy won the Man Booker Prize in 1997 for her debut novel set in Ayemenem, Kerala, titled",
+      "hi": "अरुंधति रॉय ने 1997 में केरल के अयेमेनेम में लिखे अपने पहले उपन्यास के लिए मैन बुकर पुरस्कार जीता, जिसका शीर्षक था",
       "options": [
         "The Ministry of Utmost Happiness",
         "The God of Small Things",
@@ -1252,7 +1252,7 @@
     {
       "source": "Early Indian English Poetry",
       "en": "Who is revered as the 'Nightingale of India' (Bharat Kokila) for her lyrical poetry collections including The Golden Threshold (1905) and The Bird of Time?",
-      "hi": "Who is revered as the 'Nightingale of India' (Bharat Kokila) for her lyrical poetry collections including The Golden Threshold (1905) and The Bird of Time?",
+      "hi": "द गोल्डन थ्रेशोल्ड (1905) और द बर्ड ऑफ टाइम सहित उनके गीतात्मक काव्य संग्रहों के लिए 'नाइटिंगेल ऑफ इंडिया' (भारत कोकिला) के रूप में किसे सम्मानित किया जाता है?",
       "options": [
         "Toru Dutt",
         "Sarojini Naidu",
@@ -1279,7 +1279,7 @@
     {
       "source": "19th-Century Indian English Poetry",
       "en": "Which 19th-century Indian poetess wrote Ancient Ballads and Legends of Hindustan (1882) and the famous sonnet 'Our Casuarina Tree' before dying of tuberculosis at age 21?",
-      "hi": "Which 19th-century Indian poetess wrote Ancient Ballads and Legends of Hindustan (1882) and the famous sonnet 'Our Casuarina Tree' before dying of tuberculosis at age 21?",
+      "hi": "19वीं सदी की किस भारतीय कवयित्री ने 21 साल की उम्र में तपेदिक से मरने से पहले प्राचीन गाथागीत और लीजेंड्स ऑफ हिंदुस्तान (1882) और प्रसिद्ध सॉनेट 'अवर कैसुरिना ट्री' लिखी थी?",
       "options": [
         "Sarojini Naidu",
         "Toru Dutt",
@@ -1306,7 +1306,7 @@
     {
       "source": "American Transcendentalism",
       "en": "Who is recognized as the pioneer of American Transcendentalism and author of the landmark 1836 manifesto essay Nature and 'Self-Reliance'?",
-      "hi": "Who is recognized as the pioneer of American Transcendentalism and author of the landmark 1836 manifesto essay Nature and 'Self-Reliance'?",
+      "hi": "अमेरिकी ट्रान्सेंडैंटलिज्म के प्रणेता और 1836 के ऐतिहासिक घोषणापत्र निबंध नेचर एंड 'सेल्फ-रिलायंस' के लेखक के रूप में किसे मान्यता प्राप्त है?",
       "options": [
         "Henry David Thoreau",
         "Ralph Waldo Emerson",
@@ -1321,7 +1321,7 @@
       "tip": "Famous quote from Emerson's 'Self-Reliance': 'Whoso would be a man, must be a nonconformist.' Thoreau put Emerson's philosophy into practice at Walden Pond.",
       "id": 49,
       "options_hi": [
-        "हेनरी David Thoreau",
+        "Henry David Thoreau",
         "Ralph Waldo Emerson",
         "Walt Whitman",
         "उपर्युक्त में से एक से अधिक",
@@ -1333,7 +1333,7 @@
     {
       "source": "American Romanticism",
       "en": "Which classic American novel by Nathaniel Hawthorne deals with the Puritan guilt, sin, and redemption of Hester Prynne, who is condemned to wear an embroidered 'A'?",
-      "hi": "Which classic American novel by Nathaniel Hawthorne deals with the Puritan guilt, sin, and redemption of Hester Prynne, who is condemned to wear an embroidered 'A'?",
+      "hi": "नाथनियल हॉथोर्न का कौन सा क्लासिक अमेरिकी उपन्यास हेस्टर प्रिन के प्यूरिटन अपराध, पाप और मुक्ति से संबंधित है, जिसे कढ़ाई 'ए' पहनने की निंदा की जाती है?",
       "options": [
         "The House of the Seven Gables",
         "The Blithedale Romance",
@@ -1360,7 +1360,7 @@
     {
       "source": "19th Century American Fiction",
       "en": "Herman Melville dedicated his epic novel Moby-Dick (1851) to which friend and fellow author?",
-      "hi": "Herman Melville dedicated his epic novel Moby-Dick (1851) to which friend and fellow author?",
+      "hi": "हरमन मेलविले ने अपना महाकाव्य उपन्यास मोबी-डिक (1851) किस मित्र और साथी लेखक को समर्पित किया?",
       "options": [
         "Ralph Waldo Emerson",
         "Nathaniel Hawthorne",
@@ -1387,7 +1387,7 @@
     {
       "source": "American Poetry",
       "en": "Walt Whitman celebrated the American spirit, democracy, and free verse in his landmark poetry collection Leaves of Grass, first published in which year?",
-      "hi": "Walt Whitman celebrated the American spirit, democracy, and free verse in his landmark poetry collection Leaves of Grass, first published in which year?",
+      "hi": "वॉल्ट व्हिटमैन ने अपने ऐतिहासिक कविता संग्रह लीव्स ऑफ ग्रास में अमेरिकी भावना, लोकतंत्र और मुक्त छंद का जश्न मनाया, जो पहली बार किस वर्ष प्रकाशित हुआ था?",
       "options": [
         "1850",
         "1855",
@@ -1414,7 +1414,7 @@
     {
       "source": "The Lost Generation & 1920s",
       "en": "F. Scott Fitzgerald captured the glittering disillusionment, materialism, and moral decay of the 'Jazz Age' of the 1920s in which masterpiece?",
-      "hi": "F. Scott Fitzgerald captured the glittering disillusionment, materialism, and moral decay of the 'Jazz Age' of the 1920s in which masterpiece?",
+      "hi": "एफ. स्कॉट फिट्जगेराल्ड ने 1920 के दशक के 'जैज़ युग' के चमकदार मोहभंग, भौतिकवाद और नैतिक पतन को किस उत्कृष्ट कृति में चित्रित किया है?",
       "options": [
         "This Side of Paradise",
         "Tender Is the Night",
@@ -1441,7 +1441,7 @@
     {
       "source": "American Modernist Prose",
       "en": "Who developed the 'Iceberg Theory' (or theory of omission) in fiction, stating that seven-eighths of the story's meaning lies underwater, as exemplified in The Old Man and the Sea?",
-      "hi": "Who developed the 'Iceberg Theory' (or theory of omission) in fiction, stating that seven-eighths of the story's meaning lies underwater, as exemplified in The Old Man and the Sea?",
+      "hi": "कथा साहित्य में 'आइसबर्ग थ्योरी' (या चूक का सिद्धांत) किसने विकसित किया, जिसमें कहा गया कि कहानी का सात-आठवां हिस्सा पानी के नीचे है, जैसा कि द ओल्ड मैन एंड द सी में उदाहरण दिया गया है?",
       "options": [
         "William Faulkner",
         "Ernest Hemingway",
@@ -1468,7 +1468,7 @@
     {
       "source": "Modern American Drama",
       "en": "Arthur Miller's tragic masterpiece Death of a Salesman (1949) critiques the illusions of the American Dream through the pathetic breakdown and suicide of",
-      "hi": "Arthur Miller's tragic masterpiece Death of a Salesman (1949) critiques the illusions of the American Dream through the pathetic breakdown and suicide of",
+      "hi": "आर्थर मिलर की दुखद कृति डेथ ऑफ ए सेल्समैन (1949) दयनीय टूटन और आत्महत्या के माध्यम से अमेरिकी सपने के भ्रम की आलोचना करती है।",
       "options": [
         "Biff Loman",
         "Willy Loman",
@@ -1495,7 +1495,7 @@
     {
       "source": "Figures of Speech",
       "en": "Which figure of speech is defined as an explicit comparison between two essentially dissimilar things using the connecting words 'like' or 'as'?",
-      "hi": "Which figure of speech is defined as an explicit comparison between two essentially dissimilar things using the connecting words 'like' or 'as'?",
+      "hi": "किस अलंकार को 'पसंद' या 'जैसा' जोड़ने वाले शब्दों का उपयोग करके दो अनिवार्य रूप से भिन्न चीजों के बीच एक स्पष्ट तुलना के रूप में परिभाषित किया गया है?",
       "options": [
         "Metaphor",
         "Simile",
@@ -1522,7 +1522,7 @@
     {
       "source": "Figures of Speech",
       "en": "Identify the figure of speech in the sentence: 'The pen is mightier than the sword.'",
-      "hi": "Identify the figure of speech in the sentence: 'The pen is mightier than the sword.'",
+      "hi": "वाक्य में अलंकार पहचानें: 'कलम तलवार से अधिक शक्तिशाली है।'",
       "options": [
         "Synecdoche",
         "Metonymy",
@@ -1549,7 +1549,7 @@
     {
       "source": "Rhetoric & Prosody",
       "en": "In the line: 'Ten thousand saw I at a glance, / Tossing their heads in sprightly dance', which two figures of speech are employed by Wordsworth?",
-      "hi": "In the line: 'Ten thousand saw I at a glance, / Tossing their heads in sprightly dance', which two figures of speech are employed by Wordsworth?",
+      "hi": "पंक्ति में: 'दस हज़ार ने मुझे एक नज़र में देखा, / अपने सिर उछालकर नृत्य कर रहे थे', वर्ड्सवर्थ द्वारा भाषण के कौन से दो अलंकारों का प्रयोग किया गया है?",
       "options": [
         "Hyperbole and Personification",
         "Metaphor and Simile",
@@ -1576,7 +1576,7 @@
     {
       "source": "Figures of Speech",
       "en": "What figure of speech is formed by juxtaposing two contradictory words together, such as 'deafening silence' or 'bittersweet'?",
-      "hi": "What figure of speech is formed by juxtaposing two contradictory words together, such as 'deafening silence' or 'bittersweet'?",
+      "hi": "'बहरा कर देने वाली खामोशी' या 'कड़वा मीठा' जैसे दो विरोधाभासी शब्दों को एक साथ मिलाने से कौन सा अलंकार बनता है?",
       "options": [
         "Paradox",
         "Oxymoron",
@@ -1603,7 +1603,7 @@
     {
       "source": "English Prosody & Metre",
       "en": "In English metrics and prosody, an iambic foot consists of",
-      "hi": "In English metrics and prosody, an iambic foot consists of",
+      "hi": "अंग्रेजी मेट्रिक्स और प्रोसोडी में, एक आयंबिक फ़ुट होता है",
       "options": [
         "one stressed syllable followed by one unstressed syllable",
         "one unstressed syllable followed by one stressed syllable",
@@ -1630,7 +1630,7 @@
     {
       "source": "Voice Transformation",
       "en": "Change the following sentence into Passive Voice: 'Who wrote this famous novel?'",
-      "hi": "Change the following sentence into Passive Voice: 'Who wrote this famous novel?'",
+      "hi": "निम्नलिखित वाक्य को निष्क्रिय आवाज़ में बदलें: 'यह प्रसिद्ध उपन्यास किसने लिखा है?'",
       "options": [
         "By whom this famous novel was written?",
         "By whom was this famous novel written?",
@@ -1657,7 +1657,7 @@
     {
       "source": "Direct & Indirect Speech",
       "en": "Transform into Indirect Speech: He said to me, 'Where are you going for your vacation?'",
-      "hi": "Transform into Indirect Speech: He said to me, 'Where are you going for your vacation?'",
+      "hi": "अप्रत्यक्ष भाषण में परिवर्तन: उन्होंने मुझसे कहा, 'आप अपनी छुट्टियों के लिए कहाँ जा रहे हैं?'",
       "options": [
         "He asked me where was I going for my vacation.",
         "He asked me that where I was going for my vacation.",
@@ -1684,7 +1684,7 @@
     {
       "source": "Conditionals & Tenses",
       "en": "Identify the grammatically correct sentence involving conditional clauses:",
-      "hi": "Identify the grammatically correct sentence involving conditional clauses:",
+      "hi": "सशर्त उपवाक्यों से युक्त व्याकरणिक रूप से सही वाक्य को पहचानें:",
       "options": [
         "If it will rain, we will cancel the match.",
         "If it rains, we will cancel the match.",
@@ -1711,7 +1711,7 @@
     {
       "source": "Prepositions & Tenses",
       "en": "Choose the correct preposition to complete the sentence: 'He has been suffering from fever ______ Monday last.'",
-      "hi": "Choose the correct preposition to complete the sentence: 'He has been suffering from fever ______ Monday last.'",
+      "hi": "वाक्य को पूरा करने के लिए सही पूर्वसर्ग चुनें: 'वह पिछले सोमवार को ______ बुखार से पीड़ित था।'",
       "options": [
         "for",
         "since",
@@ -1738,7 +1738,7 @@
     {
       "source": "Subject-Verb Agreement",
       "en": "Select the correct option to fill in the blank: 'Neither the teacher nor the students ______ present in the auditorium.'",
-      "hi": "Select the correct option to fill in the blank: 'Neither the teacher nor the students ______ present in the auditorium.'",
+      "hi": "रिक्त स्थान को भरने के लिए सही विकल्प का चयन करें: 'न तो शिक्षक और न ही छात्र ______ सभागार में उपस्थित थे।'",
       "options": [
         "was",
         "were",
@@ -1765,7 +1765,7 @@
     {
       "source": "Clause Analysis",
       "en": "Identify the clause type of the underlined group of words: 'The girl who won the first prize in debate is my sister.'",
-      "hi": "Identify the clause type of the underlined group of words: 'The girl who won the first prize in debate is my sister.'",
+      "hi": "रेखांकित शब्दों के समूह के उपवाक्य प्रकार को पहचानें: 'वाद-विवाद में प्रथम पुरस्कार जीतने वाली लड़की मेरी बहन है।'",
       "options": [
         "Noun Clause",
         "Adjective (Relative) Clause",
@@ -1792,7 +1792,7 @@
     {
       "source": "Vocabulary (Antonyms)",
       "en": "What is the antonym of the word 'EPHEMERAL'?",
-      "hi": "What is the antonym of the word 'EPHEMERAL'?",
+      "hi": "'EPHEMERAL' शब्द का विलोम शब्द क्या है?",
       "options": [
         "Transient",
         "Fleeting",
@@ -1819,7 +1819,7 @@
     {
       "source": "Idioms & Phrases",
       "en": "What does the idiomatic expression 'Burn the midnight oil' mean?",
-      "hi": "What does the idiomatic expression 'Burn the midnight oil' mean?",
+      "hi": "मुहावरेदार अभिव्यक्ति 'आधी रात को तेल जलाओ' का क्या अर्थ है?",
       "options": [
         "To waste precious natural resources",
         "To work or study late into the night",
@@ -1846,7 +1846,7 @@
     {
       "source": "One-Word Substitution",
       "en": "A person who hates or distrusts all mankind is called a",
-      "hi": "A person who hates or distrusts all mankind is called a",
+      "hi": "वह व्यक्ति जो समस्त मानव जाति से घृणा करता है या उस पर अविश्वास करता है, कहलाता है?",
       "options": [
         "Philanthropist",
         "Misogynist",
@@ -1873,7 +1873,7 @@
     {
       "source": "Spelling Rules",
       "en": "Choose the correctly spelt word from the options below:",
-      "hi": "Choose the correctly spelt word from the options below:",
+      "hi": "नीचे दिए गए विकल्पों में से सही वर्तनी वाला शब्द चुनें:",
       "options": [
         "Accommodation",
         "Acommodation",
@@ -1900,7 +1900,7 @@
     {
       "source": "English Phonetics",
       "en": "In English phonetics and phonology, the total number of distinctive speech sounds (phonemes) in Received Pronunciation (RP) is",
-      "hi": "In English phonetics and phonology, the total number of distinctive speech sounds (phonemes) in Received Pronunciation (RP) is",
+      "hi": "अंग्रेजी ध्वन्यात्मकता और ध्वनिविज्ञान में, प्राप्त उच्चारण (आरपी) में विशिष्ट भाषण ध्वनियों (स्वनिम) की कुल संख्या है",
       "options": [
         "26 phonemes",
         "44 phonemes",
@@ -1927,7 +1927,7 @@
     {
       "source": "Phonetics & Phonology",
       "en": "How many pure vowel sounds (monophthongs) and diphthongs are there in English?",
-      "hi": "How many pure vowel sounds (monophthongs) and diphthongs are there in English?",
+      "hi": "अंग्रेजी में कितनी शुद्ध स्वर ध्वनियाँ (मोनोफथॉन्ग) और डिप्थॉन्ग हैं?",
       "options": [
         "12 pure vowels and 8 diphthongs",
         "10 pure vowels and 10 diphthongs",
@@ -1954,7 +1954,7 @@
     {
       "source": "Linguistics & Morphology",
       "en": "The minimal meaningful grammatical unit in the grammatical system of a language is termed a",
-      "hi": "The minimal meaningful grammatical unit in the grammatical system of a language is termed a",
+      "hi": "किसी भाषा की व्याकरणिक प्रणाली में न्यूनतम सार्थक व्याकरणिक इकाई को कहा जाता है",
       "options": [
         "Phoneme",
         "Morpheme",
@@ -1981,7 +1981,7 @@
     {
       "source": "Linguistics & Syntax",
       "en": "Who introduced the influential concept of 'Universal Grammar' and 'Language Acquisition Device' (LAD) in Generative Linguistics?",
-      "hi": "Who introduced the influential concept of 'Universal Grammar' and 'Language Acquisition Device' (LAD) in Generative Linguistics?",
+      "hi": "जनरेटिव लिंग्विस्टिक्स में 'यूनिवर्सल ग्रामर' और 'लैंग्वेज एक्विजिशन डिवाइस' (एलएडी) की प्रभावशाली अवधारणा किसने पेश की?",
       "options": [
         "Ferdinand de Saussure",
         "Noam Chomsky",
@@ -2008,7 +2008,7 @@
     {
       "source": "English Language Teaching (ELT)",
       "en": "Which traditional language teaching method relies heavily on translating literary passages into the mother tongue and memorizing bilingual vocabulary lists and explicit grammar rules?",
-      "hi": "Which traditional language teaching method relies heavily on translating literary passages into the mother tongue and memorizing bilingual vocabulary lists and explicit grammar rules?",
+      "hi": "कौन सी पारंपरिक भाषा शिक्षण पद्धति साहित्यिक अंशों का मातृभाषा में अनुवाद करने और द्विभाषी शब्दावली सूचियों और स्पष्ट व्याकरण नियमों को याद रखने पर बहुत अधिक निर्भर करती है?",
       "options": [
         "Direct Method",
         "Grammar-Translation Method (GTM)",
@@ -2035,7 +2035,7 @@
     {
       "source": "ELT Methodologies",
       "en": "The Direct Method of teaching English was developed as a direct reaction against the shortcomings of which method?",
-      "hi": "The Direct Method of teaching English was developed as a direct reaction against the shortcomings of which method?",
+      "hi": "अंग्रेजी पढ़ाने की प्रत्यक्ष विधि किस पद्धति की कमियों के विरुद्ध सीधी प्रतिक्रिया के रूप में विकसित की गई थी?",
       "options": [
         "Audio-Lingual Method",
         "Grammar-Translation Method",
@@ -2062,7 +2062,7 @@
     {
       "source": "Language Pedagogy",
       "en": "Who invented the 'Bilingual Method' of foreign language teaching as a middle path between GTM and the Direct Method?",
-      "hi": "Who invented the 'Bilingual Method' of foreign language teaching as a middle path between GTM and the Direct Method?",
+      "hi": "जीटीएम और प्रत्यक्ष पद्धति के बीच मध्य मार्ग के रूप में विदेशी भाषा शिक्षण की 'द्विभाषी पद्धति' का आविष्कार किसने किया?",
       "options": [
         "H. E. Palmer",
         "C. J. Dodson",
@@ -2089,7 +2089,7 @@
     {
       "source": "Modern ELT Approaches",
       "en": "In modern English language pedagogy, what does the acronym 'CLT' stand for?",
-      "hi": "In modern English language pedagogy, what does the acronym 'CLT' stand for?",
+      "hi": "आधुनिक अंग्रेजी भाषा शिक्षणशास्त्र में, संक्षिप्त नाम 'सीएलटी' का क्या अर्थ है?",
       "options": [
         "Cognitive Language Training",
         "Communicative Language Teaching",
@@ -2116,7 +2116,7 @@
     {
       "source": "Assessment & Evaluation",
       "en": "In language testing and evaluation, a test is defined as 'reliable' if it",
-      "hi": "In language testing and evaluation, a test is defined as 'reliable' if it",
+      "hi": "भाषा परीक्षण और मूल्यांकन में, किसी परीक्षण को 'विश्वसनीय' के रूप में परिभाषित किया जाता है",
       "options": [
         "measures precisely what it purports to measure",
         "produces consistent, stable results upon repeated administrations under identical conditions",
@@ -2143,7 +2143,7 @@
     {
       "source": "Four Language Skills (LSRW)",
       "en": "Which basic language skills are classified as 'Receptive' (passive) skills in language acquisition?",
-      "hi": "Which basic language skills are classified as 'Receptive' (passive) skills in language acquisition?",
+      "hi": "भाषा अधिग्रहण में कौन से बुनियादी भाषा कौशल को 'रिसेप्टिव' (निष्क्रिय) कौशल के रूप में वर्गीकृत किया गया है?",
       "options": [
         "Speaking and Writing",
         "Listening and Reading",

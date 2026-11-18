@@ -1,0 +1,821 @@
+{
+  "id": "bpsc-tre4-english-lit-set3",
+  "title": "English Literature Practice Set 3 (Modern Literature & Criticism — 30Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "English Literature",
+  "filename": "bpsc-tre4-english-lit-set3.json",
+  "question_count": 30,
+  "questions": [
+    {
+      "source": "19th Century American Fiction",
+      "en": "Herman Melville dedicated his epic novel Moby-Dick (1851) to which friend and fellow author?",
+      "hi": "हरमन मेलविले ने अपना महाकाव्य उपन्यास मोबी-डिक (1851) किस मित्र और साथी लेखक को समर्पित किया?",
+      "options": [
+        "Ralph Waldo Emerson",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nathaniel Hawthorne",
+      "explanation": "Melville's dedication reads: 'In token of my admiration for his genius, this book is inscribed to Nathaniel Hawthorne.' The novel chronicles Captain Ahab's obsessive pursuit of the white whale, Moby Dick, aboard the ship Pequod.",
+      "tip": "Moby-Dick opens with one of the most famous first lines in world literature: 'Call me Ishmael.'",
+      "id": 1,
+      "options_hi": [
+        "Ralph Waldo Emerson",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मेलविले के समर्पण में लिखा है: 'उनकी प्रतिभा के प्रति मेरी प्रशंसा के प्रतीक के रूप में, यह पुस्तक नाथनियल हॉथोर्न को लिखी गई है।' उपन्यास में कैप्टन अहाब द्वारा पेक्वॉड जहाज पर सफेद व्हेल, मोबी डिक की जुनूनी खोज का वर्णन किया गया है।",
+      "tip_hi": "मोबी-डिक विश्व साहित्य की सबसे प्रसिद्ध पहली पंक्तियों में से एक के साथ शुरुआत करता है: 'मुझे इश्माएल बुलाओ।'"
+    },
+    {
+      "source": "American Poetry",
+      "en": "Walt Whitman celebrated the American spirit, democracy, and free verse in his landmark poetry collection Leaves of Grass, first published in which year?",
+      "hi": "वॉल्ट व्हिटमैन ने अपने ऐतिहासिक कविता संग्रह लीव्स ऑफ ग्रास में अमेरिकी भावना, लोकतंत्र और मुक्त छंद का जश्न मनाया, जो पहली बार किस वर्ष प्रकाशित हुआ था?",
+      "options": [
+        "1850",
+        "1855",
+        "1865",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1855",
+      "explanation": "Walt Whitman self-published the first edition of Leaves of Grass in 1855 containing 12 untitled poems (including 'Song of Myself'). He spent the rest of his life revising and expanding it through nine successive editions until the 1892 'Deathbed Edition'.",
+      "tip": "Whitman is the 'Father of Free Verse' in American poetry. His celebrated elegies on Abraham Lincoln: 'O Captain! My Captain!' (rhymed) and 'When Lilacs Last in the Dooryard Bloom'd' (free verse).",
+      "id": 2,
+      "options_hi": [
+        "1850",
+        "1855",
+        "1865",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वॉल्ट व्हिटमैन ने 1855 में लीव्स ऑफ ग्रास का पहला संस्करण स्वयं प्रकाशित किया जिसमें 12 शीर्षक रहित कविताएं ('सॉन्ग ऑफ माईसेल्फ' सहित) शामिल थीं। उन्होंने अपना शेष जीवन 1892 के 'डेथबेड संस्करण' तक लगातार नौ संस्करणों के माध्यम से इसे संशोधित और विस्तारित करने में बिताया।",
+      "tip_hi": "व्हिटमैन अमेरिकी कविता में 'मुक्त छंद के जनक' हैं। अब्राहम लिंकन पर उनकी प्रसिद्ध शोकगीत: 'हे कप्तान! मेरे कप्तान!' (तुकबंदी) और 'व्हेन लिलैक्स लास्ट इन द डोरयार्ड ब्लूमड' (मुक्त छंद)।"
+    },
+    {
+      "source": "The Lost Generation & 1920s",
+      "en": "F. Scott Fitzgerald captured the glittering disillusionment, materialism, and moral decay of the 'Jazz Age' of the 1920s in which masterpiece?",
+      "hi": "एफ. स्कॉट फिट्जगेराल्ड ने 1920 के दशक के 'जैज़ युग' के चमकदार मोहभंग, भौतिकवाद और नैतिक पतन को किस उत्कृष्ट कृति में चित्रित किया है?",
+      "options": [
+        "This Side of Paradise",
+        "Tender Is the Night",
+        "The Great Gatsby",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "The Great Gatsby",
+      "explanation": "The Great Gatsby (1925), narrated by Nick Carraway, depicts the tragic romantic obsession of self-made millionaire Jay Gatsby with Daisy Buchanan on Long Island during the Roaring Twenties.",
+      "tip": "Key symbols: The green light at the end of Daisy's dock (yearning/American Dream), the Eyes of Dr. T. J. Eckleburg (indifferent divine judgment), the Valley of Ashes.",
+      "id": 3,
+      "options_hi": [
+        "This Side of Paradise",
+        "Tender Is the Night",
+        "The Great Gatsby",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "निक कैरवे द्वारा सुनाई गई द ग्रेट गैट्सबी (1925) में रोअरिंग ट्वेंटीज़ के दौरान लॉन्ग आइलैंड पर डेज़ी बुकानन के साथ स्व-निर्मित करोड़पति जे गैट्सबी के दुखद रोमांटिक जुनून को दर्शाया गया है।",
+      "tip_hi": "मुख्य प्रतीक: डेज़ी की गोदी के अंत में हरी रोशनी (लालसा/अमेरिकी सपना), डॉ. टी. जे. एकलेबर्ग की आंखें (उदासीन दैवीय निर्णय), राख की घाटी।"
+    },
+    {
+      "source": "American Modernist Prose",
+      "en": "Who developed the 'Iceberg Theory' (or theory of omission) in fiction, stating that seven-eighths of the story's meaning lies underwater, as exemplified in The Old Man and the Sea?",
+      "hi": "कथा साहित्य में 'आइसबर्ग थ्योरी' (या चूक का सिद्धांत) किसने विकसित किया, जिसमें कहा गया कि कहानी का सात-आठवां हिस्सा पानी के नीचे है, जैसा कि द ओल्ड मैन एंड द सी में उदाहरण दिया गया है?",
+      "options": [
+        "William Faulkner",
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ernest Hemingway",
+      "explanation": "Ernest Hemingway practiced the 'Iceberg Theory'—a minimalist, journalistic style where background emotion and profound thematic depth remain unstated beneath terse, declarative surface prose. He won the 1954 Nobel Prize after publishing The Old Man and the Sea (1952).",
+      "tip": "Hemingway Hero code: 'A man can be destroyed but not defeated' (uttered by Santiago in The Old Man and the Sea).",
+      "id": 4,
+      "options_hi": [
+        "William Faulkner",
+        "Ernest Hemingway",
+        "John Steinbeck",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अर्नेस्ट हेमिंग्वे ने 'आइसबर्ग थ्योरी' का अभ्यास किया - एक न्यूनतम, पत्रकारिता शैली जहां पृष्ठभूमि की भावना और गहन विषयगत गहराई संक्षिप्त, घोषणात्मक सतही गद्य के नीचे अस्थिर रहती है। उन्होंने द ओल्ड मैन एंड द सी (1952) प्रकाशित करने के बाद 1954 में नोबेल पुरस्कार जीता।",
+      "tip_hi": "हेमिंग्वे हीरो कोड: 'एक आदमी को नष्ट किया जा सकता है लेकिन हराया नहीं' (द ओल्ड मैन एंड द सी में सैंटियागो द्वारा कहा गया)।"
+    },
+    {
+      "source": "Modern American Drama",
+      "en": "Arthur Miller's tragic masterpiece Death of a Salesman (1949) critiques the illusions of the American Dream through the pathetic breakdown and suicide of",
+      "hi": "आर्थर मिलर की दुखद कृति डेथ ऑफ ए सेल्समैन (1949) दयनीय टूटन और आत्महत्या के माध्यम से अमेरिकी सपने के भ्रम की आलोचना करती है।",
+      "options": [
+        "Biff Loman",
+        "Willy Loman",
+        "Happy Loman",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Willy Loman",
+      "explanation": "Willy Loman, an aging traveling salesman, is destroyed by his hollow belief that superficial charm and 'being well-liked' guarantee prosperity, ultimately committing suicide so his son Biff can collect his $20,000 life insurance policy.",
+      "tip": "Arthur Miller defined modern common tragedy in his companion essay 'Tragedy and the Common Man' (1949), arguing that the common man is as apt a subject for tragedy as kings.\nSECTION 3: RHETORIC, PROSODY, ADVANCED GRAMMAR, PHONETICS & ELT PEDAGOGY (Q.56 to Q.80)",
+      "id": 5,
+      "options_hi": [
+        "Biff Loman",
+        "Willy Loman",
+        "Happy Loman",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "विली लोमन, एक वृद्ध ट्रैवलिंग सेल्समैन, अपने खोखले विश्वास से नष्ट हो जाता है कि सतही आकर्षण और 'अच्छी तरह से पसंद किया जाना' समृद्धि की गारंटी देता है, अंततः आत्महत्या कर लेता है ताकि उसका बेटा बिफ अपनी 20,000 डॉलर की जीवन बीमा पॉलिसी ले सके।",
+      "tip_hi": "आर्थर मिलर ने अपने साथी निबंध 'ट्रेजेडी एंड द कॉमन मैन' (1949) में आधुनिक आम त्रासदी को परिभाषित करते हुए तर्क दिया कि आम आदमी राजाओं की तरह ही त्रासदी का उपयुक्त विषय है।\nखंड 3: अलंकारिकता, छंदविद्या, उन्नत व्याकरण, ध्वन्यात्मकता और ईएलटी शिक्षाशास्त्र (प्रश्न.56 से प्र.80)"
+    },
+    {
+      "source": "Figures of Speech",
+      "en": "Which figure of speech is defined as an explicit comparison between two essentially dissimilar things using the connecting words 'like' or 'as'?",
+      "hi": "किस अलंकार को 'पसंद' या 'जैसा' जोड़ने वाले शब्दों का उपयोग करके दो अनिवार्य रूप से भिन्न चीजों के बीच एक स्पष्ट तुलना के रूप में परिभाषित किया गया है?",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Personification",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Simile",
+      "explanation": "A Simile is a figure of speech in which an explicit comparison is stated between two different entities using 'as' or 'like' (e.g., 'O my Luve is like a red, red rose' - Robert Burns).",
+      "tip": "Explicit comparison with 'as' or 'like' = Simile; Implicit/condensed comparison without 'as/like' = Metaphor ('Life is a dream').",
+      "id": 6,
+      "options_hi": [
+        "Metaphor",
+        "Simile",
+        "Personification",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "उपमा भाषण का एक अलंकार है जिसमें 'जैसा' या 'पसंद' का उपयोग करके दो अलग-अलग संस्थाओं के बीच एक स्पष्ट तुलना की जाती है (उदाहरण के लिए, 'ओ माई लव एक लाल, लाल गुलाब की तरह है' - रॉबर्ट बर्न्स)।",
+      "tip_hi": "'जैसे' या 'जैसे' के साथ स्पष्ट तुलना = उपमा; 'जैसा/पसंद' के बिना निहित/संक्षिप्त तुलना = रूपक ('जीवन एक सपना है')।"
+    },
+    {
+      "source": "Figures of Speech",
+      "en": "Identify the figure of speech in the sentence: 'The pen is mightier than the sword.'",
+      "hi": "वाक्य में अलंकार पहचानें: 'कलम तलवार से अधिक शक्तिशाली है।'",
+      "options": [
+        "Synecdoche",
+        "Metonymy",
+        "Hyperbole",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Metonymy",
+      "explanation": "Metonymy (Greek for 'change of name') substitutes the name of an attribute or closely associated object for the thing meant. Here, 'the pen' stands for the written word / press, and 'the sword' stands for military force.",
+      "tip": "Metonymy = associated object substitutes the concept ('the Crown' = monarchy, 'the White House' = US President); Synecdoche = part for the whole or whole for the part ('all hands on deck' = sailors).",
+      "id": 7,
+      "options_hi": [
+        "Synecdoche",
+        "Metonymy",
+        "Hyperbole",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अलंकार जिस में किसी पदार्थ के लिये उन का नाम कहा जाता है (ग्रीक में 'नाम परिवर्तन' के लिए) मतलब वाली चीज़ के लिए किसी विशेषता या निकट से जुड़ी वस्तु का नाम प्रतिस्थापित करता है। यहां, 'कलम' का अर्थ लिखित शब्द/प्रेस है, और 'तलवार' का अर्थ सैन्य बल है।",
+      "tip_hi": "अलंकार जिस में किसी पदार्थ के लिये उन का नाम कहा जाता है = संबंधित वस्तु अवधारणा को प्रतिस्थापित करती है ('क्राउन' = राजशाही, 'व्हाइट हाउस' = अमेरिकी राष्ट्रपति); सिनेकडोचे = संपूर्ण के लिए भाग या भाग के लिए संपूर्ण ('डेक पर सभी हाथ' = नाविक)।"
+    },
+    {
+      "source": "Rhetoric & Prosody",
+      "en": "In the line: 'Ten thousand saw I at a glance, / Tossing their heads in sprightly dance', which two figures of speech are employed by Wordsworth?",
+      "hi": "पंक्ति में: 'दस हज़ार ने मुझे एक नज़र में देखा, / अपने सिर उछालकर नृत्य कर रहे थे', वर्ड्सवर्थ द्वारा भाषण के कौन से दो अलंकारों का प्रयोग किया गया है?",
+      "options": [
+        "Hyperbole and Personification",
+        "Metaphor and Simile",
+        "Oxymoron and Paradox",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Hyperbole and Personification",
+      "explanation": "In 'Daffodils', 'Ten thousand saw I at a glance' is an obvious poetic exaggeration (Hyperbole), while 'Tossing their heads in sprightly dance' endows flowers with human emotional agency (Personification).",
+      "tip": "Exaggeration for poetic emphasis = Hyperbole; Endowing inanimate nature with human physical traits/feelings = Personification (or Pathetic Fallacy if nature sympathizes with human sorrow).",
+      "id": 8,
+      "options_hi": [
+        "Hyperbole and Personification",
+        "Metaphor and Simile",
+        "Oxymoron and Paradox",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'डैफोडिल्स' में, 'दस हज़ार ने मुझे एक नज़र में देखा' एक स्पष्ट काव्यात्मक अतिशयोक्ति (हाइपरबोले) है, जबकि 'स्परफुल डांस में अपने सिर उछालना' फूलों को मानवीय भावनात्मक एजेंसी (व्यक्तित्व) प्रदान करता है।",
+      "tip_hi": "काव्यात्मक जोर के लिए अतिशयोक्ति = अतिशयोक्ति; निर्जीव प्रकृति को मानवीय शारीरिक गुणों/भावनाओं से संपन्न करना = वैयक्तिकरण (या यदि प्रकृति मानवीय दुःख के प्रति सहानुभूति रखती है तो दयनीय भ्रांति)।"
+    },
+    {
+      "source": "Figures of Speech",
+      "en": "What figure of speech is formed by juxtaposing two contradictory words together, such as 'deafening silence' or 'bittersweet'?",
+      "hi": "'बहरा कर देने वाली खामोशी' या 'कड़वा मीठा' जैसे दो विरोधाभासी शब्दों को एक साथ मिलाने से कौन सा अलंकार बनता है?",
+      "options": [
+        "Paradox",
+        "Oxymoron",
+        "Antithesis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Oxymoron",
+      "explanation": "An Oxymoron is a compact verbal figure where two sharply contradictory terms are joined in a single phrase (e.g., 'cruel kindness', 'parting is such sweet sorrow'). A Paradox is an entire statement that appears self-contradictory but expresses a profound underlying truth.",
+      "tip": "Phrase-level contradictory words joined = Oxymoron; Sentence-level self-contradictory statement = Paradox ('The child is father of the man').",
+      "id": 9,
+      "options_hi": [
+        "Paradox",
+        "Oxymoron",
+        "Antithesis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ऑक्सीमोरोन एक संक्षिप्त मौखिक आकृति है जहां दो तीव्र विरोधाभासी शब्द एक ही वाक्यांश में जुड़ते हैं (उदाहरण के लिए, 'क्रूर दयालुता', 'बिदाई इतना मीठा दुःख है')। विरोधाभास एक संपूर्ण कथन है जो स्व-विरोधाभासी प्रतीत होता है लेकिन एक गहन अंतर्निहित सत्य को व्यक्त करता है।",
+      "tip_hi": "वाक्यांश-स्तरीय विरोधाभासी शब्द जुड़े = ऑक्सीमोरोन; वाक्य-स्तरीय स्व-विरोधाभासी कथन = विरोधाभास ('बच्चा आदमी का पिता है')।"
+    },
+    {
+      "source": "English Prosody & Metre",
+      "en": "In English metrics and prosody, an iambic foot consists of",
+      "hi": "अंग्रेजी मेट्रिक्स और प्रोसोडी में, एक आयंबिक फ़ुट होता है",
+      "options": [
+        "one stressed syllable followed by one unstressed syllable",
+        "one unstressed syllable followed by one stressed syllable",
+        "two unstressed syllables followed by one stressed syllable",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "one unstressed syllable followed by one stressed syllable",
+      "explanation": "An iamb (iambic foot) consists of an unstressed syllable followed by a stressed syllable (da-DUM / \\(\\cup\\) \\(-\\)). Trochee is the exact reverse: stressed followed by unstressed (DUM-da).",
+      "tip": "Poetic feet cheat sheet: Iamb = Unstressed + Stressed (\\(\\cup\\) \\(-\\)); Trochee = Stressed + Unstressed (\\(-\\) \\(\\cup\\)); Anapest = Two unstressed + Stressed (\\(\\cup\\) \\(\\cup\\) \\(-\\)); Dactyl = Stressed + Two unstressed (\\(-\\) \\(\\cup\\) \\(\\cup\\)).",
+      "id": 10,
+      "options_hi": [
+        "one stressed syllable followed by one unstressed syllable",
+        "one unstressed syllable followed by one stressed syllable",
+        "two unstressed syllables followed by one stressed syllable",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक आयंब (आयंबिक फ़ुट) में एक बिना तनाव वाला अक्षर होता है जिसके बाद एक तनावग्रस्त अक्षर होता है (दा-दम / \\(\\कप\\) \\(-\\))। ट्रोची बिल्कुल विपरीत है: तनाव के बाद तनाव रहित (DUM-da)।",
+      "tip_hi": "काव्यात्मक फ़ुट चीट शीट: आयंब = अनस्ट्रेस्ड + स्ट्रेस्ड (\\(\\कप\\) \\(-\\)); ट्रोची = तनावग्रस्त + अस्थिर (\\(-\\) \\(\\कप\\)); एनापेस्ट = दो अस्थिर + तनावग्रस्त (\\(\\कप\\) \\(\\कप\\) \\(-\\)); डैक्टाइल = तनावग्रस्त + दो अस्थिर (\\(-\\) \\(\\कप\\) \\(\\कप\\))।"
+    },
+    {
+      "source": "Voice Transformation",
+      "en": "Change the following sentence into Passive Voice: 'Who wrote this famous novel?'",
+      "hi": "निम्नलिखित वाक्य को निष्क्रिय आवाज़ में बदलें: 'यह प्रसिद्ध उपन्यास किसने लिखा है?'",
+      "options": [
+        "By whom this famous novel was written?",
+        "By whom was this famous novel written?",
+        "Whom was written this famous novel by?",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "By whom was this famous novel written?",
+      "explanation": "In interrogative passive transformations starting with 'Who': 'Who' changes to 'By whom', followed immediately by the auxiliary verb 'was', the subject 'this famous novel', and the past participle 'written?'.",
+      "tip": "Word order in interrogative passive: By whom + Auxiliary Verb + Subject + V3? Note that Option (A) incorrectly places the subject before the auxiliary verb.",
+      "id": 11,
+      "options_hi": [
+        "By whom this famous novel was written?",
+        "By whom was this famous novel written?",
+        "Whom was written this famous novel by?",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'कौन' से शुरू होने वाले प्रश्नवाचक निष्क्रिय परिवर्तनों में: 'कौन' 'किसके द्वारा' में बदल जाता है, इसके तुरंत बाद सहायक क्रिया 'था', विषय 'यह प्रसिद्ध उपन्यास', और भूत कृदंत 'लिखा हुआ?' आता है।",
+      "tip_hi": "प्रश्नवाचक निष्क्रिय में शब्द क्रम: किसके द्वारा + सहायक क्रिया + विषय + V3? ध्यान दें कि विकल्प (ए) गलत तरीके से विषय को सहायक क्रिया से पहले रखता है।"
+    },
+    {
+      "source": "Direct & Indirect Speech",
+      "en": "Transform into Indirect Speech: He said to me, 'Where are you going for your vacation?'",
+      "hi": "अप्रत्यक्ष भाषण में परिवर्तन: उन्होंने मुझसे कहा, 'आप अपनी छुट्टियों के लिए कहाँ जा रहे हैं?'",
+      "options": [
+        "He asked me where was I going for my vacation.",
+        "He asked me that where I was going for my vacation.",
+        "He asked me where I was going for my vacation.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "He asked me where I was going for my vacation.",
+      "explanation": "In indirect reporting of Wh-questions: reporting verb becomes 'asked', no conjunction 'that' is used, and the inverted interrogative word order ('where are you going') reverts to assertive statement word order ('where I was going').",
+      "tip": "Never use 'that' before Wh-question words (where, what, why) in indirect speech. The word order must be assertive: Wh-word + Subject + Verb.",
+      "id": 12,
+      "options_hi": [
+        "He asked me where was I going for my vacation.",
+        "He asked me that where I was going for my vacation.",
+        "He asked me where I was going for my vacation.",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Wh-प्रश्नों की अप्रत्यक्ष रिपोर्टिंग में: रिपोर्टिंग क्रिया 'पूछा गया' बन जाती है, कोई संयोजन 'वह' का उपयोग नहीं किया जाता है, और उलटा प्रश्नवाचक शब्द क्रम ('आप कहां जा रहे हैं') मुखर कथन शब्द क्रम ('मैं कहां जा रहा था') में बदल जाता है।",
+      "tip_hi": "अप्रत्यक्ष भाषण में क-प्रश्न शब्दों (कहां, क्या, क्यों) से पहले कभी भी 'वह' का प्रयोग न करें। शब्द क्रम मुखर होना चाहिए: क-शब्द + विषय + क्रिया।"
+    },
+    {
+      "source": "Conditionals & Tenses",
+      "en": "Identify the grammatically correct sentence involving conditional clauses:",
+      "hi": "सशर्त उपवाक्यों से युक्त व्याकरणिक रूप से सही वाक्य को पहचानें:",
+      "options": [
+        "If it will rain, we will cancel the match.",
+        "If it rains, we will cancel the match.",
+        "If it would rain, we will cancel the match.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "If it rains, we will cancel the match.",
+      "explanation": "In the First Conditional (real/probable future possibility), the conditional 'if-clause' takes the Simple Present tense ('If it rains'), while the main consequence clause takes the Simple Future tense ('we will cancel').",
+      "tip": "Rule: Future tense modals ('will', 'shall') are never used inside the conditional 'if-clause' or time clauses ('when', 'as soon as').",
+      "id": 13,
+      "options_hi": [
+        "If it will rain, we will cancel the match.",
+        "If it rains, we will cancel the match.",
+        "If it would rain, we will cancel the match.",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पहले सशर्त (वास्तविक/संभावित भविष्य की संभावना) में, सशर्त 'यदि-खंड' सरल वर्तमान काल ('यदि बारिश होती है') लेता है, जबकि मुख्य परिणाम खंड सरल भविष्य काल ('हम रद्द कर देंगे') लेता है।",
+      "tip_hi": "नियम: भविष्य काल मोडल्स ('इच्छा', 'करेगा') का उपयोग कभी भी सशर्त 'यदि-खंड' या समय खंड ('कब', 'जैसे ही') के अंदर नहीं किया जाता है।"
+    },
+    {
+      "source": "Prepositions & Tenses",
+      "en": "Choose the correct preposition to complete the sentence: 'He has been suffering from fever ______ Monday last.'",
+      "hi": "वाक्य को पूरा करने के लिए सही पूर्वसर्ग चुनें: 'वह पिछले सोमवार को ______ बुखार से पीड़ित था।'",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "since",
+      "explanation": "In Present Perfect Continuous tense, 'since' is used before a specific, definite point in time (e.g., 'Monday last', '7 o'clock', '1995'), whereas 'for' denotes an unanchored period/duration of time (e.g., 'for three days').",
+      "tip": "Point in time = 'since' (since morning, since childhood, since Monday); Period/duration of time = 'for' (for two hours, for five days).",
+      "id": 14,
+      "options_hi": [
+        "for",
+        "since",
+        "from",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रेजेंट परफेक्ट कंटीन्यूअस काल में, 'चूंकि' का उपयोग समय में एक विशिष्ट, निश्चित बिंदु से पहले किया जाता है (उदाहरण के लिए, 'पिछले सोमवार', '7 बजे', '1995'), जबकि 'के लिए' समय की एक असंबद्ध अवधि/अवधि को दर्शाता है (उदाहरण के लिए, 'तीन दिनों के लिए')।",
+      "tip_hi": "समय में बिंदु = 'से' (सुबह से, बचपन से, सोमवार से); समय की अवधि/अवधि = 'के लिए' (दो घंटे के लिए, पांच दिनों के लिए)।"
+    },
+    {
+      "source": "Subject-Verb Agreement",
+      "en": "Select the correct option to fill in the blank: 'Neither the teacher nor the students ______ present in the auditorium.'",
+      "hi": "रिक्त स्थान को भरने के लिए सही विकल्प का चयन करें: 'न तो शिक्षक और न ही छात्र ______ सभागार में उपस्थित थे।'",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "were",
+      "explanation": "Under the Rule of Proximity for correlative conjunctions ('either...or', 'neither...nor', 'not only...but also'), the verb must agree in number and person with the closest subject. Here, the plural noun 'students' is nearest to the verb, requiring 'were'.",
+      "tip": "Correlative conjunction verb agreement rule: Verb agrees with the subject closest to it. If the order were reversed ('Neither the students nor the teacher'), the verb would be singular ('was').",
+      "id": 15,
+      "options_hi": [
+        "was",
+        "were",
+        "is",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सहसंबद्ध संयोजनों के लिए निकटता के नियम के तहत ('या तो...या', 'न तो...न', 'न केवल...बल्कि'), क्रिया को संख्या और व्यक्ति में निकटतम विषय से सहमत होना चाहिए। यहाँ, बहुवचन संज्ञा 'छात्र' क्रिया के सबसे निकट है, जिसके लिए 'थे' की आवश्यकता होती है।",
+      "tip_hi": "सहसंबद्ध समुच्चयबोधक क्रिया सहमति नियम: क्रिया अपने निकटतम विषय से सहमत होती है। यदि क्रम उलट दिया जाए ('न तो छात्र और न ही शिक्षक'), तो क्रिया एकवचन होगी ('था')।"
+    },
+    {
+      "source": "Clause Analysis",
+      "en": "Identify the clause type of the underlined group of words: 'The girl who won the first prize in debate is my sister.'",
+      "hi": "रेखांकित शब्दों के समूह के उपवाक्य प्रकार को पहचानें: 'वाद-विवाद में प्रथम पुरस्कार जीतने वाली लड़की मेरी बहन है।'",
+      "options": [
+        "Noun Clause",
+        "Adjective (Relative) Clause",
+        "Adverb Clause of Reason",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Adjective (Relative) Clause",
+      "explanation": "The subordinate clause 'who won the first prize in debate' immediately qualifies and describes the antecedent noun 'The girl', functioning as an Adjective Clause (or Defining Relative Clause).",
+      "tip": "Clause identification: Answers 'who/what' = Noun Clause; Qualifies a preceding noun/pronoun = Adjective Clause; Modifies verb/tells time, reason, condition = Adverb Clause.",
+      "id": 16,
+      "options_hi": [
+        "Noun Clause",
+        "Adjective (Relative) Clause",
+        "Adverb Clause of Reason",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अधीनस्थ उपवाक्य 'जिसने वाद-विवाद में प्रथम पुरस्कार जीता' तुरंत पूर्ववर्ती संज्ञा 'लड़की' को अर्हता प्राप्त करता है और उसका वर्णन करता है, जो एक विशेषण उपवाक्य (या सापेक्ष उपवाक्य को परिभाषित करने) के रूप में कार्य करता है।",
+      "tip_hi": "उपवाक्य पहचान: उत्तर 'कौन/क्या' = संज्ञा उपवाक्य; पूर्ववर्ती संज्ञा/सर्वनाम को योग्य बनाता है = विशेषण उपवाक्य; क्रिया को संशोधित करता है/समय, कारण, स्थिति बताता है = क्रियाविशेषण उपवाक्य।"
+    },
+    {
+      "source": "Vocabulary (Antonyms)",
+      "en": "What is the antonym of the word 'EPHEMERAL'?",
+      "hi": "'EPHEMERAL' शब्द का विलोम शब्द क्या है?",
+      "options": [
+        "Transient",
+        "Fleeting",
+        "Permanent",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Permanent",
+      "explanation": "'Ephemeral' means lasting for a very short time, transient, or fleeting. Its direct antonym is 'Permanent' (everlasting or enduring).",
+      "tip": "Watch out for synonym traps! 'Transient' and 'Fleeting' are synonyms of ephemeral; 'Permanent' and 'Eternal' are antonyms.",
+      "id": 17,
+      "options_hi": [
+        "Transient",
+        "Fleeting",
+        "Permanent",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'क्षणिक' का अर्थ है बहुत कम समय तक चलने वाला, क्षणभंगुर या क्षणभंगुर। इसका सीधा विलोम शब्द 'परमानेंट' (हमेशा कायम रहने वाला) है।",
+      "tip_hi": "पर्यायवाची जाल से सावधान रहें! 'क्षणिक' और 'क्षणभंगुर' क्षणभंगुर के पर्यायवाची हैं; 'स्थायी' और 'शाश्वत' विपरीतार्थक शब्द हैं।"
+    },
+    {
+      "source": "Idioms & Phrases",
+      "en": "What does the idiomatic expression 'Burn the midnight oil' mean?",
+      "hi": "मुहावरेदार अभिव्यक्ति 'आधी रात को तेल जलाओ' का क्या अर्थ है?",
+      "options": [
+        "To waste precious natural resources",
+        "To work or study late into the night",
+        "To create unnecessary trouble",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "To work or study late into the night",
+      "explanation": "The idiom 'to burn the midnight oil' historically refers to staying awake and working or studying late into the night by the light of an oil lamp.",
+      "tip": "Idioms related to study & labor: 'Burn the midnight oil' = study late; 'Hit the books' = begin studying; 'Leave no stone unturned' = make every possible effort.",
+      "id": 18,
+      "options_hi": [
+        "To waste precious natural resources",
+        "To work or study late into the night",
+        "To create unnecessary trouble",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'आधी रात को तेल जलाना' मुहावरा ऐतिहासिक रूप से जागते रहने और तेल के दीपक की रोशनी में देर रात तक काम करने या अध्ययन करने को संदर्भित करता है।",
+      "tip_hi": "अध्ययन और परिश्रम से संबंधित मुहावरे: 'आधी रात को तेल जलाना' = देर से अध्ययन करना; 'किताबें मारो' = अध्ययन शुरू करो; 'कोई कसर न छोड़ना'=हर संभव प्रयास करना।"
+    },
+    {
+      "source": "One-Word Substitution",
+      "en": "A person who hates or distrusts all mankind is called a",
+      "hi": "वह व्यक्ति जो समस्त मानव जाति से घृणा करता है या उस पर अविश्वास करता है, कहलाता है?",
+      "options": [
+        "Philanthropist",
+        "Misogynist",
+        "Misanthrope",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Misanthrope",
+      "explanation": "A 'Misanthrope' (or misanthropist) is one who hates humanity. A 'Philanthropist' is a lover of mankind; a 'Misogynist' is a hater of women.",
+      "tip": "Root words: Mis/Misein = to hate; Anthropos = mankind; Gyne = woman; Gamos = marriage (misogamist). Phil = to love (philanthropist).",
+      "id": 19,
+      "options_hi": [
+        "Philanthropist",
+        "Misogynist",
+        "Misanthrope",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक 'मिसंथ्रोप' (या मिथ्याचारी) वह है जो मानवता से नफरत करता है। एक 'परोपकारी' मानव जाति का प्रेमी है; एक 'मिसोगिनिस्ट' महिलाओं से नफरत करने वाला होता है।",
+      "tip_hi": "मूल शब्द: मिस/मिसीन = नफरत करना; एन्थ्रोपोस = मानवजाति; स्त्री = स्त्री; गामोस = विवाह (गलत विवाह)। फिल = प्रेम करना (परोपकारी)।"
+    },
+    {
+      "source": "Spelling Rules",
+      "en": "Choose the correctly spelt word from the options below:",
+      "hi": "नीचे दिए गए विकल्पों में से सही वर्तनी वाला शब्द चुनें:",
+      "options": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Accommodation",
+      "explanation": "The correct orthographic spelling is 'Accommodation', featuring a double 'c' and a double 'm' (A-C-C-O-M-M-O-D-A-T-I-O-N).",
+      "tip": "BPSC frequently tests double-consonant spelling words: Accommodation (double c, double m), Embarrassment (double r, double s), Committee (double m, double t, double e).",
+      "id": 20,
+      "options_hi": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सही वर्तनी वर्तनी 'आवास' है, जिसमें एक डबल 'सी' और एक डबल 'एम' (ए-सी-सी-ओ-एम-एम-ओ-डी-ए-टी-आई-ओ-एन) शामिल है।",
+      "tip_hi": "बीपीएससी अक्सर डबल-व्यंजन वर्तनी वाले शब्दों का परीक्षण करता है: आवास (डबल सी, डबल एम), शर्मिंदगी (डबल आर, डबल एस), समिति (डबल एम, डबल टी, डबल ई)।"
+    },
+    {
+      "source": "English Phonetics",
+      "en": "In English phonetics and phonology, the total number of distinctive speech sounds (phonemes) in Received Pronunciation (RP) is",
+      "hi": "अंग्रेजी ध्वन्यात्मकता और ध्वनिविज्ञान में, प्राप्त उच्चारण (आरपी) में विशिष्ट भाषण ध्वनियों (स्वनिम) की कुल संख्या है",
+      "options": [
+        "26 phonemes",
+        "44 phonemes",
+        "48 phonemes",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "44 phonemes",
+      "explanation": "Standard British English (RP) contains 44 phonemes produced by the 26 letters of the alphabet, consisting of 24 consonant sounds and 20 vowel sounds (12 pure monophthongs and 8 diphthongs).",
+      "tip": "IPA Chart for English: 44 sounds total = 24 Consonants + 20 Vowels (12 Monophthongs/pure vowels + 8 Diphthongs/gliding vowels).",
+      "id": 21,
+      "options_hi": [
+        "26 phonemes",
+        "44 phonemes",
+        "48 phonemes",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मानक ब्रिटिश अंग्रेजी (आरपी) में वर्णमाला के 26 अक्षरों द्वारा निर्मित 44 स्वर हैं, जिनमें 24 व्यंजन ध्वनियाँ और 20 स्वर ध्वनियाँ (12 शुद्ध मोनोफथोंग और 8 डिप्थॉन्ग) शामिल हैं।",
+      "tip_hi": "अंग्रेजी के लिए आईपीए चार्ट: कुल 44 ध्वनियाँ = 24 व्यंजन + 20 स्वर (12 मोनोफथोंग/शुद्ध स्वर + 8 डिप्थॉन्ग/ग्लाइडिंग स्वर)।"
+    },
+    {
+      "source": "Phonetics & Phonology",
+      "en": "How many pure vowel sounds (monophthongs) and diphthongs are there in English?",
+      "hi": "अंग्रेजी में कितनी शुद्ध स्वर ध्वनियाँ (मोनोफथॉन्ग) और डिप्थॉन्ग हैं?",
+      "options": [
+        "12 pure vowels and 8 diphthongs",
+        "10 pure vowels and 10 diphthongs",
+        "14 pure vowels and 6 diphthongs",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "12 pure vowels and 8 diphthongs",
+      "explanation": "The 20 English vowel phonemes are divided into 12 monophthongs (single, unchanging vowel sounds like /iː/, /ɪ/, /e/, /æ/, etc.) and 8 diphthongs (gliding sounds like /eɪ/, /aɪ/, /ɔɪ/, /aʊ/, /əʊ/, /ɪə/, /eə/, /ʊə/).",
+      "tip": "Pure vowel = Monophthong (12); Gliding vowel = Diphthong (8); Combined vowel system = 20 vowel phonemes.",
+      "id": 22,
+      "options_hi": [
+        "12 pure vowels and 8 diphthongs",
+        "10 pure vowels and 10 diphthongs",
+        "14 pure vowels and 6 diphthongs",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "20 अंग्रेजी स्वर स्वरों को 12 मोनोफथोंगों (एकल, अपरिवर्तित स्वर ध्वनियाँ जैसे /iː/, /ɪ/, /e/, /æ/, आदि) और 8 डिप्थोंग्स (ग्लाइडिंग ध्वनियाँ जैसे /eɪ/, /aɪ/, /ɔɪ/, /aʊ/, /əʊ/, /ɪə/, /eə/,) में विभाजित किया गया है। /ʊə/).",
+      "tip_hi": "शुद्ध स्वर = मोनोफथोंग (12); ग्लाइडिंग स्वर = डिप्थॉन्ग (8); संयुक्त स्वर प्रणाली = 20 स्वर स्वर।"
+    },
+    {
+      "source": "Linguistics & Morphology",
+      "en": "The minimal meaningful grammatical unit in the grammatical system of a language is termed a",
+      "hi": "किसी भाषा की व्याकरणिक प्रणाली में न्यूनतम सार्थक व्याकरणिक इकाई को कहा जाता है",
+      "options": [
+        "Phoneme",
+        "Morpheme",
+        "Grapheme",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Morpheme",
+      "explanation": "A Morpheme is the smallest unit of language that carries grammatical meaning or function (e.g., 'un-', 'break', '-able' in 'unbreakable'). Phoneme is the smallest unit of sound, and Grapheme is the smallest unit of writing/letter.",
+      "tip": "Linguistic units: Smallest unit of sound = Phoneme; Smallest unit of meaning = Morpheme; Smallest unit of written script = Grapheme.",
+      "id": 23,
+      "options_hi": [
+        "Phoneme",
+        "Morpheme",
+        "Grapheme",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मॉर्फेम भाषा की सबसे छोटी इकाई है जो व्याकरणिक अर्थ या कार्य करती है (उदाहरण के लिए, 'अन-', 'ब्रेक', '-एबल' में 'अनब्रेकेबल')। फोनीम ध्वनि की सबसे छोटी इकाई है और ग्रैफेम लेखन/अक्षर की सबसे छोटी इकाई है।",
+      "tip_hi": "भाषाई इकाइयाँ: ध्वनि की सबसे छोटी इकाई = स्वनिम; अर्थ की सबसे छोटी इकाई = रूपिम; लिखित लिपि की सबसे छोटी इकाई = ग्रेफेम।"
+    },
+    {
+      "source": "Linguistics & Syntax",
+      "en": "Who introduced the influential concept of 'Universal Grammar' and 'Language Acquisition Device' (LAD) in Generative Linguistics?",
+      "hi": "जनरेटिव लिंग्विस्टिक्स में 'यूनिवर्सल ग्रामर' और 'लैंग्वेज एक्विजिशन डिवाइस' (एलएडी) की प्रभावशाली अवधारणा किसने पेश की?",
+      "options": [
+        "Ferdinand de Saussure",
+        "Noam Chomsky",
+        "B. F. Skinner",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Noam Chomsky",
+      "explanation": "Noam Chomsky in Syntactic Structures (1957) and Aspects of the Theory of Syntax (1965) challenged Skinner's behaviorist theory, positing that human children possess an innate biological Language Acquisition Device (LAD) programmed with Universal Grammar.",
+      "tip": "Chomsky = Nativist theory (innate LAD, Universal Grammar, Competence vs. Performance); Saussure = Structuralism (Langue vs. Parole, Signifier vs. Signified).",
+      "id": 24,
+      "options_hi": [
+        "Ferdinand de Saussure",
+        "Noam Chomsky",
+        "B. F. Skinner",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "नोम चॉम्स्की ने सिंटैक्टिक स्ट्रक्चर्स (1957) और एस्पेक्ट्स ऑफ द थ्योरी ऑफ सिंटैक्स (1965) में स्किनर के व्यवहारवादी सिद्धांत को चुनौती दी, जिसमें कहा गया कि मानव बच्चों के पास यूनिवर्सल ग्रामर के साथ प्रोग्राम किया गया एक जन्मजात जैविक भाषा अधिग्रहण उपकरण (एलएडी) होता है।",
+      "tip_hi": "चॉम्स्की = नेटिविस्ट सिद्धांत (जन्मजात बालक, सार्वभौमिक व्याकरण, क्षमता बनाम प्रदर्शन); सॉसर = संरचनावाद (लैंग्यू बनाम पैरोल, सिग्निफायर बनाम सिग्निफाइड)।"
+    },
+    {
+      "source": "English Language Teaching (ELT)",
+      "en": "Which traditional language teaching method relies heavily on translating literary passages into the mother tongue and memorizing bilingual vocabulary lists and explicit grammar rules?",
+      "hi": "कौन सी पारंपरिक भाषा शिक्षण पद्धति साहित्यिक अंशों का मातृभाषा में अनुवाद करने और द्विभाषी शब्दावली सूचियों और स्पष्ट व्याकरण नियमों को याद रखने पर बहुत अधिक निर्भर करती है?",
+      "options": [
+        "Direct Method",
+        "Grammar-Translation Method (GTM)",
+        "Audio-Lingual Method (ALM)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Grammar-Translation Method (GTM)",
+      "explanation": "The Grammar-Translation Method (GTM), historically known as the Prussian or Classical Method, emphasizes reading and writing skills through deductive teaching of grammar rules and word-for-word translation into the learner's L1, with little to no oral practice.",
+      "tip": "ELT Methods: GTM = mother tongue translation & deductive grammar; Direct Method = target language only, no translation; Audio-Lingual = habit formation & drills; CLT = communicative competence.",
+      "id": 25,
+      "options_hi": [
+        "Direct Method",
+        "Grammar-Translation Method (GTM)",
+        "Audio-Lingual Method (ALM)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "व्याकरण-अनुवाद विधि (जीटीएम), जिसे ऐतिहासिक रूप से प्रशियाई या शास्त्रीय विधि के रूप में जाना जाता है, व्याकरण नियमों के निगमनात्मक शिक्षण और शिक्षार्थी के एल1 में शब्द-दर-शब्द अनुवाद के माध्यम से पढ़ने और लिखने के कौशल पर जोर देती है, जिसमें बहुत कम या कोई मौखिक अभ्यास नहीं होता है।",
+      "tip_hi": "ईएलटी विधियां: जीटीएम = मातृभाषा अनुवाद और निगमनात्मक व्याकरण; प्रत्यक्ष विधि = केवल लक्ष्य भाषा, कोई अनुवाद नहीं; ऑडियो-भाषिक = आदत निर्माण और अभ्यास; सीएलटी = संचार क्षमता।"
+    },
+    {
+      "source": "ELT Methodologies",
+      "en": "The Direct Method of teaching English was developed as a direct reaction against the shortcomings of which method?",
+      "hi": "अंग्रेजी पढ़ाने की प्रत्यक्ष विधि किस पद्धति की कमियों के विरुद्ध सीधी प्रतिक्रिया के रूप में विकसित की गई थी?",
+      "options": [
+        "Audio-Lingual Method",
+        "Grammar-Translation Method",
+        "Bilingual Method",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Grammar-Translation Method",
+      "explanation": "The Direct Method (or Natural Method) arose in the late 19th century in reaction against GTM's neglect of spoken communication. It strictly bans the use of the native language (L1), teaching meaning through direct association, visual demonstration, and immersion in English.",
+      "tip": "Direct Method rule: Never translate, never use mother tongue, demonstrate and act out meaning directly in the target language.",
+      "id": 26,
+      "options_hi": [
+        "Audio-Lingual Method",
+        "Grammar-Translation Method",
+        "Bilingual Method",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जीटीएम द्वारा मौखिक संचार की उपेक्षा के खिलाफ प्रतिक्रिया में 19वीं सदी के अंत में प्रत्यक्ष विधि (या प्राकृतिक विधि) का उदय हुआ। यह मूल भाषा (एल1) के उपयोग, सीधे जुड़ाव, दृश्य प्रदर्शन और अंग्रेजी में तल्लीनता के माध्यम से अर्थ सिखाने पर सख्ती से प्रतिबंध लगाता है।",
+      "tip_hi": "प्रत्यक्ष विधि नियम: कभी भी अनुवाद न करें, कभी भी मातृभाषा का उपयोग न करें, लक्ष्य भाषा में सीधे अर्थ का प्रदर्शन और अभिनय न करें।"
+    },
+    {
+      "source": "Language Pedagogy",
+      "en": "Who invented the 'Bilingual Method' of foreign language teaching as a middle path between GTM and the Direct Method?",
+      "hi": "जीटीएम और प्रत्यक्ष पद्धति के बीच मध्य मार्ग के रूप में विदेशी भाषा शिक्षण की 'द्विभाषी पद्धति' का आविष्कार किसने किया?",
+      "options": [
+        "H. E. Palmer",
+        "C. J. Dodson",
+        "Michael West",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "C. J. Dodson",
+      "explanation": "C. J. Dodson of the University of Wales formulated the Bilingual Method in the 1960s. It allows the teacher (and only the teacher) to use the mother tongue (L1) sparingly to explain difficult concepts, eliminating the rigidity of the Direct Method while ensuring maximum communicative practice.",
+      "tip": "Bilingual Method key rule: Only the teacher is permitted to use the mother tongue to convey meaning; students practice strictly in the target language (L2).",
+      "id": 27,
+      "options_hi": [
+        "H. E. Palmer",
+        "C. J. Dodson",
+        "Michael West",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वेल्स विश्वविद्यालय के सी. जे. डोडसन ने 1960 के दशक में द्विभाषी पद्धति तैयार की। यह शिक्षक (और केवल शिक्षक) को कठिन अवधारणाओं को समझाने के लिए मातृभाषा (एल 1) का उपयोग करने की अनुमति देता है, जिससे अधिकतम संचार अभ्यास सुनिश्चित करते हुए प्रत्यक्ष विधि की कठोरता समाप्त हो जाती है।",
+      "tip_hi": "द्विभाषी विधि मुख्य नियम: केवल शिक्षक को अर्थ बताने के लिए मातृभाषा का उपयोग करने की अनुमति है; छात्र लक्ष्य भाषा (L2) में सख्ती से अभ्यास करते हैं।"
+    },
+    {
+      "source": "Modern ELT Approaches",
+      "en": "In modern English language pedagogy, what does the acronym 'CLT' stand for?",
+      "hi": "आधुनिक अंग्रेजी भाषा शिक्षणशास्त्र में, संक्षिप्त नाम 'सीएलटी' का क्या अर्थ है?",
+      "options": [
+        "Cognitive Language Training",
+        "Communicative Language Teaching",
+        "Comprehensive Literacy Testing",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Communicative Language Teaching",
+      "explanation": "CLT stands for Communicative Language Teaching, an approach that focuses on developing learners' 'communicative competence' (Dell Hymes) through meaningful real-world interaction, task-based communication, and fluency, rather than grammatical accuracy alone.",
+      "tip": "CLT core principles: Learner-centered, authentic materials, role-plays, fluency over mechanical accuracy, communicative competence as the ultimate goal.",
+      "id": 28,
+      "options_hi": [
+        "Cognitive Language Training",
+        "Communicative Language Teaching",
+        "Comprehensive Literacy Testing",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सीएलटी का मतलब है संचारी भाषा शिक्षण, एक दृष्टिकोण जो केवल व्याकरणिक सटीकता के बजाय सार्थक वास्तविक दुनिया की बातचीत, कार्य-आधारित संचार और प्रवाह के माध्यम से शिक्षार्थियों की 'संचार क्षमता' (डेल हाइम्स) विकसित करने पर केंद्रित है।",
+      "tip_hi": "सीएलटी के मूल सिद्धांत: शिक्षार्थी-केंद्रित, प्रामाणिक सामग्री, रोल-प्ले, यांत्रिक सटीकता पर प्रवाह, अंतिम लक्ष्य के रूप में संचार क्षमता।"
+    },
+    {
+      "source": "Assessment & Evaluation",
+      "en": "In language testing and evaluation, a test is defined as 'reliable' if it",
+      "hi": "भाषा परीक्षण और मूल्यांकन में, किसी परीक्षण को 'विश्वसनीय' के रूप में परिभाषित किया जाता है",
+      "options": [
+        "measures precisely what it purports to measure",
+        "produces consistent, stable results upon repeated administrations under identical conditions",
+        "is easy, cost-effective, and practical to administer and score",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "produces consistent, stable results upon repeated administrations under identical conditions",
+      "explanation": "Reliability in testing denotes consistency and stability of scores across repeated test administrations. In contrast, 'Validity' means measuring what the test intends to measure, and 'Usability/Practicability' refers to ease of administration and scoring.",
+      "tip": "Testing standards: Measures what it claims to measure = Validity; Yields consistent scores across occasions = Reliability; Feasible in time/money = Usability.",
+      "id": 29,
+      "options_hi": [
+        "measures precisely what it purports to measure",
+        "produces consistent, stable results upon repeated administrations under identical conditions",
+        "is easy, cost-effective, and practical to administer and score",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "परीक्षण में विश्वसनीयता बार-बार किए गए परीक्षण प्रशासनों में स्कोर की स्थिरता और स्थिरता को दर्शाती है। इसके विपरीत, 'वैधता' का अर्थ यह मापना है कि परीक्षण क्या मापना चाहता है, और 'प्रयोज्यता/व्यावहारिकता' का तात्पर्य प्रशासन और स्कोरिंग में आसानी से है।",
+      "tip_hi": "परीक्षण मानक: यह जो मापने का दावा करता है उसे मापता है = वैधता; विभिन्न अवसरों पर लगातार अंक प्राप्त करना = विश्वसनीयता; समय/धन में व्यवहार्य = उपयोगिता।"
+    },
+    {
+      "source": "Four Language Skills (LSRW)",
+      "en": "Which basic language skills are classified as 'Receptive' (passive) skills in language acquisition?",
+      "hi": "भाषा अधिग्रहण में कौन से बुनियादी भाषा कौशल को 'रिसेप्टिव' (निष्क्रिय) कौशल के रूप में वर्गीकृत किया गया है?",
+      "options": [
+        "Speaking and Writing",
+        "Listening and Reading",
+        "Listening and Speaking",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Listening and Reading",
+      "explanation": "The four fundamental language skills (LSRW) are grouped into Receptive (or Input/Passive) skills: Listening and Reading (where learners receive and decode language); and Productive (or Output/Active) skills: Speaking and Writing.",
+      "tip": "Four Skills Matrix: Receptive/Input = Listening & Reading; Productive/Output = Speaking & Writing. Natural acquisition order: L -> S -> R -> W.\nMASTER ANSWER KEY SUMMARY — PART-III ENGLISH (Q.1 TO Q.80)\nQ. No.\nDomain / Subject Area\nCore Literary / Linguistic Concept\nOfficial Key",
+      "id": 30,
+      "options_hi": [
+        "Speaking and Writing",
+        "Listening and Reading",
+        "Listening and Speaking",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "चार मौलिक भाषा कौशल (एलएसआरडब्ल्यू) को ग्रहणशील (या इनपुट/निष्क्रिय) कौशल में वर्गीकृत किया गया है: सुनना और पढ़ना (जहां शिक्षार्थी भाषा प्राप्त करते हैं और डिकोड करते हैं); और उत्पादक (या आउटपुट/सक्रिय) कौशल: बोलना और लिखना।",
+      "tip_hi": "चार कौशल मैट्रिक्स: ग्रहणशील/इनपुट = सुनना और पढ़ना; उत्पादक/आउटपुट = बोलना और लिखना। प्राकृतिक अधिग्रहण क्रम: एल -> एस -> आर -> डब्ल्यू।\nमास्टर उत्तर कुंजी सारांश - भाग-III अंग्रेजी (प्रश्न 1 से प्र.80)\nप्र. नहीं.\nडोमेन/विषय क्षेत्र\nमूल साहित्यिक/भाषाई अवधारणा\nआधिकारिक कुंजी"
+    }
+  ]
+}

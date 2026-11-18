@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-cs-tgt-set2",
+  "title": "Computer Science Practice Set 5 (TGT Class 9-10 — Part 2)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Computer Science",
+  "filename": "bpsc-tre4-cs-tgt-set2.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In modern C++ Standard Template Library / type traits, for what purpose is 'rank' used?",
+      "hi": "C++ में, 'rank' का उपयोग किस उद्देश्य के लिए किया जाता है?",
+      "options": [
+        "It returns the total byte size of each array dimension",
+        "It returns the maximum number of elements that can be stored in the array",
+        "It returns the dimension (number of dimensions) of the specified array type",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "It returns the dimension (number of dimensions) of the specified array type",
+      "explanation": "`std::rank<T>::value` in `<type_traits>` queries the compile-time type of an array and returns the number of dimensions (e.g., rank of `int[5]` is 1, rank of `int[3][4]` is 2).",
+      "tip": "Rank of an array = Dimension count (1D -> 1, 2D -> 2, 3D -> 3).",
+      "id": 1,
+      "options_hi": [
+        "It returns the total byte size of each array dimension",
+        "It returns the maximum number of elements that can be stored in the array",
+        "It returns the dimension (number of dimensions) of the specified array type",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "`<type_traits>` में `std::rank<T>::value` किसी सरणी के संकलन-समय प्रकार पर सवाल उठाता है और आयामों की संख्या लौटाता है (उदाहरण के लिए, `int[5]` की रैंक 1 है, `int[3][4]` की रैंक 2 है)।",
+      "tip_hi": "किसी सरणी की रैंक = आयाम गणना (1D -> 1, 2D -> 2, 3D -> 3)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is the scope of a local variable declared inside a user-defined function block?(",
+      "hi": "उपयोगकर्ता द्वारा परिभाषित फ़ंक्शन ब्लॉक में घोषित स्थानीय चर (variable) का स्कोप क्या होता है?)",
+      "options": [
+        "Whole program",
+        "Only inside the enclosing `{}` block",
+        "Inside the main function",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Only inside the enclosing `{}` block",
+      "explanation": "Block scope (local scope) dictates that variables declared inside a set of braces `{}` are created when execution enters the block and destroyed upon exiting, being invisible outside it.",
+      "tip": "Local variable scope = Only within the enclosing `{}` curly braces; Global variables = File/program scope.",
+      "id": 2,
+      "options_hi": [
+        "Whole program",
+        "Only inside the enclosing `{}` block",
+        "Inside the main function",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ब्लॉक स्कोप (स्थानीय स्कोप) निर्देश देता है कि ब्रेसिज़ के सेट के अंदर घोषित वेरिएबल `{}` तब बनाए जाते हैं जब निष्पादन ब्लॉक में प्रवेश करता है और बाहर निकलने पर नष्ट हो जाता है, इसके बाहर अदृश्य होता है।",
+      "tip_hi": "स्थानीय चर दायरा = केवल संलग्न `{}` घुंघराले ब्रेसिज़ के भीतर; वैश्विक चर = फ़ाइल/प्रोग्राम दायरा।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following statements is true about 'new' and 'malloc' in C++?I. The 'new' is an operator while 'malloc' is a library function.II. The 'new' invokes constructors, whereas 'malloc' does not invoke constructors.III. The 'malloc' returns a void pointer needing typecasting, whereas 'new' returns the typed pointer.(",
+      "hi": "न्यू (new) और मैलॉक (malloc) के बारे में कौन-सा/से कथन सत्य है/हैं?)",
+      "options": [
+        "Only I",
+        "Both I and II",
+        "Both II and III",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "All three statements I, II, and III are valid distinctions: `new` is a type-safe operator that calls constructors and returns `T*`, whereas `malloc` is an untyped C function that returns `void*` and does not call constructors.",
+      "tip": "Because statements I, II, and III are all factually correct, Option (D) ('More than one of the above') is triggered.",
+      "id": 3,
+      "options_hi": [
+        "Only I",
+        "Both I and II",
+        "Both II and III",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सभी तीन कथन I, II और III मान्य अंतर हैं: `new` एक प्रकार-सुरक्षित ऑपरेटर है जो कंस्ट्रक्टर्स को कॉल करता है और `T*` लौटाता है, जबकि `malloc` एक अनटाइप्ड C फ़ंक्शन है जो `void*` लौटाता है और कंस्ट्रक्टर्स को कॉल नहीं करता है।",
+      "tip_hi": "क्योंकि कथन I, II, और III सभी तथ्यात्मक रूप से सही हैं, विकल्प (डी) ('उपरोक्त में से एक से अधिक') ट्रिगर हो जाता है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which class members are inherited by derived classes in C++ but remain inaccessible directly within the derived class body?",
+      "hi": "C++ में कौन-से क्लास सदस्य व्युत्पन्न क्लास द्वारा विरासत में प्राप्त होते हैं, लेकिन सीधे उस क्लास में सुलभ नहीं होते हैं?",
+      "options": [
+        "Public members",
+        "Protected members",
+        "Private members",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Private members",
+      "explanation": "`private` members of a base class are inherited as part of the total memory layout of the derived class, but they cannot be accessed directly by derived class member functions (enforcing encapsulation).",
+      "tip": "Access inheritance rule: `public` & `protected` members are accessible in derived class; `private` members exist in object memory but are strictly inaccessible.",
+      "id": 4,
+      "options_hi": [
+        "Public members",
+        "Protected members",
+        "Private members",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बेस क्लास के `निजी` सदस्यों को व्युत्पन्न वर्ग के कुल मेमोरी लेआउट के हिस्से के रूप में विरासत में मिला है, लेकिन उन्हें व्युत्पन्न वर्ग सदस्य कार्यों (इनकैप्सुलेशन को लागू करने) द्वारा सीधे एक्सेस नहीं किया जा सकता है।",
+      "tip_hi": "एक्सेस इनहेरिटेंस नियम: `सार्वजनिक` और `संरक्षित` सदस्य व्युत्पन्न वर्ग में पहुंच योग्य हैं; `निजी` सदस्य ऑब्जेक्ट मेमोरी में मौजूद हैं लेकिन सख्ती से पहुंच योग्य नहीं हैं।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following statements regarding function resolution is completely true?I. In an object-oriented programming language, all function calls are resolved at compile-time.II. In a procedural programming language, all function calls are resolved at compile-time.",
+      "hi": "फ़ंक्शन रिज़ॉल्यूशन के संबंध में निम्नलिखित में से कौन-सा कथन पूर्णतः सत्य है?",
+      "options": [
+        "Only II",
+        "Only I",
+        "Both I and II",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Only II",
+      "explanation": "In procedural languages (C), all calls are statically bound at compile-time. In OOP languages, virtual function calls are dynamically bound at runtime (late binding), making Statement I false and Statement II true.",
+      "tip": "OOP uses dynamic/late runtime binding for virtual functions, so not all calls are resolved at compile time.",
+      "id": 5,
+      "options_hi": [
+        "Only II",
+        "Only I",
+        "Both I and II",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रक्रियात्मक भाषाओं (सी) में, सभी कॉल संकलन-समय पर स्थिर रूप से बाध्य होती हैं। ओओपी भाषाओं में, वर्चुअल फ़ंक्शन कॉल रनटाइम (देर से बाइंडिंग) पर गतिशील रूप से बाध्य होती हैं, जिससे कथन I गलत और कथन II सत्य हो जाता है।",
+      "tip_hi": "OOP वर्चुअल फ़ंक्शंस के लिए डायनामिक/लेट रनटाइम बाइंडिंग का उपयोग करता है, इसलिए सभी कॉलों को संकलन समय पर हल नहीं किया जाता है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What will happen if in a C++ program, an unnamed (anonymous) class is declared?(",
+      "hi": "यदि C++ प्रोग्राम में किसी अनाम (Anonymous) क्लास को घोषित किया जाए, तो क्या होगा?)",
+      "options": [
+        "It is not allowed in C++ under any circumstances",
+        "It will not have a constructor",
+        "It will not have a destructor",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "An anonymous class has no identifier name. Because constructors and destructors must share the name of their class (`ClassName()` and `~ClassName()`), an unnamed class can have neither a constructor nor a destructor.",
+      "tip": "Because an anonymous class has no name, it can have NEITHER a constructor NOR a destructor. Both (B) and (C) are true -> Select (D)!",
+      "id": 6,
+      "options_hi": [
+        "It is not allowed in C++ under any circumstances",
+        "It will not have a constructor",
+        "It will not have a destructor",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक अनाम वर्ग का कोई पहचानकर्ता नाम नहीं होता है। क्योंकि कंस्ट्रक्टर और डिस्ट्रक्टर को अपने वर्ग का नाम साझा करना होगा (`क्लासनाम()` और `~क्लासनाम()`), एक अनाम वर्ग में न तो कोई कंस्ट्रक्टर हो सकता है और न ही कोई डिस्ट्रक्टर।",
+      "tip_hi": "क्योंकि एक अनाम वर्ग का कोई नाम नहीं होता है, इसमें न तो कोई कंस्ट्रक्टर हो सकता है और न ही कोई डिस्ट्रक्टर। (बी) और (सी) दोनों सत्य हैं -> चुनें (डी)!"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How can compile-time (static) polymorphism be implemented in the C++ programming language?(C++",
+      "hi": "प्रोग्रामिंग भाषा में संकलन-समय (compile-time) बहुरूपता को कैसे कार्यान्वित किया जा सकता है?)",
+      "options": [
+        "By using function and operator overloading",
+        "By using template metaprogramming",
+        "By using virtual functions and dynamic dispatch",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Compile-time polymorphism is achieved through function overloading, operator overloading, and templates. Virtual functions implement runtime (dynamic) polymorphism.",
+      "tip": "Compile-time polymorphism = Overloading & Templates (Both A and B -> Option D); Runtime polymorphism = Virtual functions.",
+      "id": 7,
+      "options_hi": [
+        "By using function and operator overloading",
+        "By using template metaprogramming",
+        "By using virtual functions and dynamic dispatch",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "संकलन-समय बहुरूपता फ़ंक्शन ओवरलोडिंग, ऑपरेटर ओवरलोडिंग और टेम्पलेट्स के माध्यम से प्राप्त की जाती है। वर्चुअल फ़ंक्शंस रनटाइम (गतिशील) बहुरूपता को लागू करते हैं।",
+      "tip_hi": "संकलन-समय बहुरूपता = ओवरलोडिंग और टेम्प्लेट (ए और बी दोनों -> विकल्प डी); रनटाइम बहुरूपता = आभासी कार्य।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following terms refers to the wrapping up of data and functions into a single cohesive unit?",
+      "hi": "निम्नलिखित में से कौन-सा डेटा और उससे संबंधित फ़ंक्शंस को एक एकल इकाई में लपेटने को संदर्भित करता है?",
+      "options": [
+        "Modularity",
+        "Abstraction",
+        "Encapsulation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Encapsulation",
+      "explanation": "Encapsulation is the mechanism that binds data together with the functions that manipulate that data, shielding them from unauthorized external interference and misuse.",
+      "tip": "Wrapping data + code = Encapsulation; Hiding background implementation details = Abstraction; Reusability = Inheritance.",
+      "id": 8,
+      "options_hi": [
+        "Modularity",
+        "Abstraction",
+        "Encapsulation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एनकैप्सुलेशन वह तंत्र है जो डेटा को उन कार्यों के साथ जोड़ता है जो उस डेटा में हेरफेर करते हैं, उन्हें अनधिकृत बाहरी हस्तक्षेप और दुरुपयोग से बचाते हैं।",
+      "tip_hi": "रैपिंग डेटा + कोड = एनकैप्सुलेशन; पृष्ठभूमि कार्यान्वयन विवरण छिपाना = अमूर्तता; पुन: प्रयोज्यता = वंशानुक्रम।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Among the following, which statement accurately defines 'modularity' in software engineering?",
+      "hi": "निम्नलिखित में से कौन-सा कथन सॉफ्टवेयर इंजीनियरिंग में 'मॉड्यूलैरिटी' को सही ढंग से परिभाषित करता है?",
+      "options": [
+        "Modularity means hiding internal parts of the program from users",
+        "Modularity refers to dividing a program into smaller, manageable and independent sub-units",
+        "It refers to overloading the program's functions",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Modularity refers to dividing a program into smaller, manageable and independent sub-units",
+      "explanation": "Modularity is a software design technique that decomposes a complex system into smaller, self-contained, and interchangeable modules with well-defined interfaces.",
+      "tip": "Decomposition into independent modules = Modularity; Data hiding = Encapsulation/Abstraction.",
+      "id": 9,
+      "options_hi": [
+        "Modularity means hiding internal parts of the program from users",
+        "Modularity refers to dividing a program into smaller, manageable and independent sub-units",
+        "It refers to overloading the program's functions",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मॉड्यूलैरिटी एक सॉफ्टवेयर डिज़ाइन तकनीक है जो एक जटिल प्रणाली को अच्छी तरह से परिभाषित इंटरफेस के साथ छोटे, स्व-निहित और विनिमेय मॉड्यूल में विघटित करती है।",
+      "tip_hi": "स्वतंत्र मॉड्यूल में अपघटन = मॉड्यूलरिटी; डेटा छिपाना = एनकैप्सुलेशन/एब्स्ट्रैक्शन।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which one of the following is NOT an application of the stack data structure?(",
+      "hi": "निम्नलिखित में से कौन-सा स्टैक (Stack) डेटा संरचना का अनुप्रयोग नहीं है?)",
+      "options": [
+        "Asynchronous data transfer between processes",
+        "String reversal",
+        "Backtracking in maze and search algorithms",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Asynchronous data transfer between processes",
+      "explanation": "Asynchronous data transfer buffers (like print spoolers and I/O pipe buffers) operate on a First-In, First-Out (FIFO) basis using Queues. Stacks are used for string reversal, backtracking, and expression evaluation.",
+      "tip": "Asynchronous transfer / Buffering = Queue; Undo operations / Backtracking / Recursion = Stack.",
+      "id": 10,
+      "options_hi": [
+        "Asynchronous data transfer between processes",
+        "String reversal",
+        "Backtracking in maze and search algorithms",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एसिंक्रोनस डेटा ट्रांसफर बफ़र्स (जैसे प्रिंट स्पूलर और I/O पाइप बफ़र्स) क्यूज़ का उपयोग करके फ़र्स्ट-इन, फ़र्स्ट-आउट (FIFO) आधार पर काम करते हैं। स्टैक का उपयोग स्ट्रिंग रिवर्सल, बैकट्रैकिंग और अभिव्यक्ति मूल्यांकन के लिए किया जाता है।",
+      "tip_hi": "अतुल्यकालिक स्थानांतरण / बफरिंग = कतार; संचालन पूर्ववत करें / बैकट्रैकिंग / रिकर्सन = स्टैक।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following is the correct prefix notation for the infix expression `A + B * C`?(",
+      "hi": "इनफिक्स अभिव्यक्ति `A + B * C` का सही प्रीफिक्स (Prefix) रूप कौन-सा है?)",
+      "options": [
+        "`+ A * B C`",
+        "`A B C + *`",
+        "`+ A B * C`",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "`+ A * B C`",
+      "explanation": "Multiplication `*` has higher operator precedence than addition `+`. Thus `(B * C)` becomes `* B C`. Adding `A`: `+ A (* B C)` yields `+ A * B C`.",
+      "tip": "Precedence parsing: `B * C` -> `* B C`; then `A + (* B C)` -> `+ A * B C`.",
+      "id": 11,
+      "options_hi": [
+        "`+ A * B C`",
+        "`A B C + *`",
+        "`+ A B * C`",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "गुणन `*` में जोड़ `+` की तुलना में उच्च संचालिका प्राथमिकता है। इस प्रकार `(B * C)` `* B C` बन जाता है। `A`: `+ A (* B C)` जोड़ने पर `+ A * B C` प्राप्त होता है।",
+      "tip_hi": "प्राथमिकता पार्सिंग: `बी * सी` -> `* बी सी`; फिर `ए + (* बी सी)` -> `+ ए * बी सी`।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which data structure is fundamentally required to convert infix expressions to prefix notation?",
+      "hi": "इनफिक्स को प्रीफिक्स नोटेशन में बदलने के लिए किस डेटा संरचना की आवश्यकता होती है?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked list",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Stack",
+      "explanation": "Conversion algorithms (including reversal-based Shunting-yard algorithms) utilize an operator Stack to preserve and reverse operator priorities during notation transformation.",
+      "tip": "All expression conversions (Infix to Postfix, Infix to Prefix) and evaluations require a **Stack**.",
+      "id": 12,
+      "options_hi": [
+        "Queue",
+        "Stack",
+        "Linked list",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "रूपांतरण एल्गोरिदम (रिवर्सल-आधारित शंटिंग-यार्ड एल्गोरिदम सहित) नोटेशन परिवर्तन के दौरान ऑपरेटर प्राथमिकताओं को संरक्षित और रिवर्स करने के लिए एक ऑपरेटर स्टैक का उपयोग करते हैं।",
+      "tip_hi": "सभी अभिव्यक्ति रूपांतरण (इन्फिक्स से पोस्टफिक्स, इनफिक्स से प्रीफिक्स) और मूल्यांकन के लिए **स्टैक** की आवश्यकता होती है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which computer architecture and memory hierarchy property relies heavily on the contiguous layout of arrays?(",
+      "hi": "ऐरे के सन्निहित (contiguous) मेमोरी लेआउट पर कौन-सा कंप्यूटर आर्किटेक्चर गुण अत्यधिक निर्भर करता है?)",
+      "options": [
+        "Binary search tree indexing",
+        "Scheduling of processes",
+        "Spatial locality of reference",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Spatial locality of reference",
+      "explanation": "Arrays store elements in contiguous physical memory addresses. When one element is fetched into CPU cache, adjacent array elements are loaded into the same cache line, maximizing spatial locality.",
+      "tip": "Contiguous sequential memory = **Spatial Locality**; Re-accessing recently used memory = **Temporal Locality**.",
+      "id": 13,
+      "options_hi": [
+        "Binary search tree indexing",
+        "Scheduling of processes",
+        "Spatial locality of reference",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सारणी तत्वों को सन्निहित भौतिक स्मृति पतों में संग्रहीत करती है। जब एक तत्व को सीपीयू कैश में लाया जाता है, तो आसन्न सरणी तत्वों को उसी कैश लाइन में लोड किया जाता है, जिससे स्थानिक स्थानीयता अधिकतम हो जाती है।",
+      "tip_hi": "सन्निहित अनुक्रमिक स्मृति = **स्थानिक स्थानीयता**; हाल ही में उपयोग की गई मेमोरी को पुनः एक्सेस करना = **टेम्पोरल लोकैलिटी**।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The necessary condition that must be verified before performing a deletion operation from a queue is(",
+      "hi": "क्यू (Queue) से किसी तत्त्व को हटाने (dequeue) से पहले किस आवश्यक स्थिति की जाँच की जानी चाहिए?)",
+      "options": [
+        "Front value",
+        "Underflow condition",
+        "Overflow condition",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Underflow condition",
+      "explanation": "Attempting to delete an element from an empty data structure results in Underflow. Attempting to insert into a full structure results in Overflow.",
+      "tip": "Deletion pre-check = **Underflow** (is it empty?); Insertion pre-check = **Overflow** (is it full?).",
+      "id": 14,
+      "options_hi": [
+        "Front value",
+        "Underflow condition",
+        "Overflow condition",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "खाली डेटा संरचना से किसी तत्व को हटाने का प्रयास करने पर अंडरफ्लो होता है। पूर्ण संरचना में सम्मिलित करने का प्रयास करने से अतिप्रवाह होता है।",
+      "tip_hi": "विलोपन पूर्व जांच = **अंडरफ्लो** (क्या यह खाली है?); सम्मिलन पूर्व-जाँच = **अतिप्रवाह** (क्या यह पूर्ण है?)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which one of the following is NOT an application of the queue data structure?(",
+      "hi": "निम्नलिखित में से कौन-सा क्यू (Queue) डेटा संरचना का अनुप्रयोग नहीं है?)",
+      "options": [
+        "Data transferred asynchronously between two processes",
+        "Shared resource scheduling (e.g., CPU, disk, print spooler)",
+        "Balancing of parentheses and syntactic symbols",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Balancing of parentheses and syntactic symbols",
+      "explanation": "Parentheses checking and nested symbol balancing strictly require a Last-In, First-Out (LIFO) Stack. Queues are FIFO structures used in asynchronous I/O and job scheduling.",
+      "tip": "Balancing parentheses = Stack; Print spooling and CPU scheduling = Queue.",
+      "id": 15,
+      "options_hi": [
+        "Data transferred asynchronously between two processes",
+        "Shared resource scheduling (e.g., CPU, disk, print spooler)",
+        "Balancing of parentheses and syntactic symbols",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कोष्ठक की जाँच और नेस्टेड प्रतीक संतुलन के लिए कड़ाई से लास्ट-इन, फ़र्स्ट-आउट (LIFO) स्टैक की आवश्यकता होती है। कतारें FIFO संरचनाएं हैं जिनका उपयोग एसिंक्रोनस I/O और जॉब शेड्यूलिंग में किया जाता है।",
+      "tip_hi": "कोष्ठक को संतुलित करना = ढेर; प्रिंट स्पूलिंग और सीपीयू शेड्यूलिंग = कतार।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following is a standard depth-first traversal technique applied to binary trees?",
+      "hi": "निम्नलिखित में से कौन-सी बाइनरी ट्री में मानक डेप्थ-फर्स्ट ट्रैवर्सल तकनीक है?",
+      "options": [
+        "Preorder traversal",
+        "Inorder traversal",
+        "Postorder traversal",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "The three classic depth-first search (DFS) traversals for binary trees are Preorder (Node-Left-Right), Inorder (Left-Node-Right), and Postorder (Left-Right-Node).",
+      "tip": "All three (A), (B), and (C) are valid binary tree traversals, so select **(D) More than one of the above**.",
+      "id": 16,
+      "options_hi": [
+        "Preorder traversal",
+        "Inorder traversal",
+        "Postorder traversal",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बाइनरी ट्री के लिए तीन क्लासिक डेप्थ-फर्स्ट सर्च (डीएफएस) ट्रैवर्सल प्रीऑर्डर (नोड-लेफ्ट-राइट), इनऑर्डर (लेफ्ट-नोड-राइट) और पोस्टऑर्डर (लेफ्ट-राइट-नोड) हैं।",
+      "tip_hi": "तीनों (ए), (बी), और (सी) वैध बाइनरी ट्री ट्रैवर्सल हैं, इसलिए **(डी) उपरोक्त में से एक से अधिक** चुनें।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How can an array data structure be described in the best possible way?(",
+      "hi": "हम किसी ऐरे (Array) का सर्वोत्तम संभव तरीके से वर्णन कैसे कर सकते हैं?)",
+      "options": [
+        "Arrays are dynamic and immutable structures",
+        "Container that stores elements of similar data types in contiguous memory locations",
+        "The array is an associative non-linear data structure",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Container that stores elements of similar data types in contiguous memory locations",
+      "explanation": "An array is defined as a fixed-size, linear, contiguous collection of homogeneous elements of the same data type accessible via numerical indices.",
+      "tip": "Canonical array definition = Homogeneous elements (same type) stored in contiguous memory locations.",
+      "id": 17,
+      "options_hi": [
+        "Arrays are dynamic and immutable structures",
+        "Container that stores elements of similar data types in contiguous memory locations",
+        "The array is an associative non-linear data structure",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक सरणी को संख्यात्मक सूचकांकों के माध्यम से पहुंच योग्य समान डेटा प्रकार के सजातीय तत्वों के एक निश्चित आकार, रैखिक, सन्निहित संग्रह के रूप में परिभाषित किया गया है।",
+      "tip_hi": "कैनोनिकल सरणी परिभाषा = सजातीय तत्व (समान प्रकार) सन्निहित स्मृति स्थानों में संग्रहीत।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is another widely used name for a circular queue?(",
+      "hi": "सर्कुलर क्यू (Circular Queue) का दूसरा प्रचलित नाम क्या है?)",
+      "options": [
+        "Rectangle buffer",
+        "Square buffer",
+        "Ring buffer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Ring buffer",
+      "explanation": "In computer engineering and systems programming, a circular queue connects its last position back to the first position in a logical circle, and is universally referred to as a Ring Buffer or Circular Buffer.",
+      "tip": "Circular Queue = **Ring Buffer** (frequently used in hardware DMA and audio/video streaming).",
+      "id": 18,
+      "options_hi": [
+        "Rectangle buffer",
+        "Square buffer",
+        "Ring buffer",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कंप्यूटर इंजीनियरिंग और सिस्टम प्रोग्रामिंग में, एक गोलाकार कतार अपनी अंतिम स्थिति को तार्किक सर्कल में पहली स्थिति से जोड़ती है, और इसे सार्वभौमिक रूप से रिंग बफर या सर्कुलर बफर के रूप में जाना जाता है।",
+      "tip_hi": "सर्कुलर कतार = **रिंग बफ़र** (अक्सर हार्डवेयर डीएमए और ऑडियो/वीडियो स्ट्रीमिंग में उपयोग किया जाता है)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which operational limitation of linear queues determines the primary need for a circular queue?",
+      "hi": "रैखिक क्यू की कौन-सी परिचालन सीमा सर्कुलर क्यू की प्राथमिक आवश्यकता को निर्धारित करती है?",
+      "options": [
+        "To access the queue using priority levels",
+        "To avoid memory wastage caused by unused front slots after deletions",
+        "To bypass the FIFO principle",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "To avoid memory wastage caused by unused front slots after deletions",
+      "explanation": "In a standard linear array queue, dequeuing elements leaves empty spaces at the front that cannot be reused once `rear` hits the maximum bound. Circular queues wrap around to reuse these freed positions.",
+      "tip": "Primary motivation for Circular Queue = Reclaiming unused memory space at the front of the array.",
+      "id": 19,
+      "options_hi": [
+        "To access the queue using priority levels",
+        "To avoid memory wastage caused by unused front slots after deletions",
+        "To bypass the FIFO principle",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक मानक रैखिक सरणी कतार में, पंक्तिबद्ध तत्व सामने खाली स्थान छोड़ देते हैं जिनका 'रियर' अधिकतम सीमा तक पहुंचने के बाद पुन: उपयोग नहीं किया जा सकता है। इन मुक्त स्थितियों का पुन: उपयोग करने के लिए गोलाकार कतारें चारों ओर घूमती हैं।",
+      "tip_hi": "सर्कुलर कतार के लिए प्राथमिक प्रेरणा = सरणी के सामने अप्रयुक्त मेमोरी स्थान को पुनः प्राप्त करना।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which data structure provides the most efficient implementation for a priority queue?(",
+      "hi": "प्राथमिकता क्यू (Priority Queue) को लागू करने के लिए कौन-सी डेटा संरचना सबसे कुशल है?)",
+      "options": [
+        "Singly linked list",
+        "Unsorted array",
+        "Binary heap",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Binary heap",
+      "explanation": "A Binary Heap (min-heap or max-heap) implements Priority Queues with optimal \\(O(\\log N)\\) insertion and \\(O(\\log N)\\) extraction of the minimum/maximum element, outperforming \\(O(N)\\) arrays and linked lists.",
+      "tip": "Standard data structure for Priority Queue = **Binary Heap** (\\(O(\\log N)\\) operations).",
+      "id": 20,
+      "options_hi": [
+        "Singly linked list",
+        "Unsorted array",
+        "Binary heap",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक बाइनरी हीप (न्यूनतम-हीप या अधिकतम-हीप) इष्टतम \\(O(\\log N)\\) सम्मिलन और \\(O(\\log N)\\) न्यूनतम/अधिकतम तत्व के निष्कर्षण के साथ प्राथमिकता कतारों को लागू करता है, जो \\(O(N)\\) सरणियों और लिंक्ड सूचियों से बेहतर प्रदर्शन करता है।",
+      "tip_hi": "प्राथमिकता कतार के लिए मानक डेटा संरचना = **बाइनरी हीप** (\\(O(\\log N)\\) संचालन)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following data structures is implicitly utilized by computer hardware and compilers to execute recursive functions?(",
+      "hi": "रिकर्शन (Recursion) को निष्पादित करने के लिए कंपाइलर और हार्डवेयर द्वारा किस डेटा संरचना का अंतर्निहित उपयोग किया जाता है?)",
+      "options": [
+        "Stack (Call Stack)",
+        "Linked list",
+        "Array",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Stack (Call Stack)",
+      "explanation": "Each recursive invocation pushes an activation record (stack frame) containing return addresses, parameters, and local variables onto the system Call Stack, which unwinds in LIFO order upon return.",
+      "tip": "Function calls and recursion = System **Call Stack**.",
+      "id": 21,
+      "options_hi": [
+        "Stack (Call Stack)",
+        "Linked list",
+        "Array",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रत्येक पुनरावर्ती आह्वान एक सक्रियण रिकॉर्ड (स्टैक फ्रेम) को सिस्टम कॉल स्टैक पर धकेलता है जिसमें रिटर्न पते, पैरामीटर और स्थानीय चर होते हैं, जो वापसी पर LIFO क्रम में खुल जाता है।",
+      "tip_hi": "फ़ंक्शन कॉल और रिकर्सन = सिस्टम **कॉल स्टैक**।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following represents an essential structural property of a Red-Black Tree?(",
+      "hi": "निम्नलिखित में से कौन-सा लाल-काले ट्री (Red-Black Tree) का एक अनिवार्य संरचनात्मक गुण है?)",
+      "options": [
+        "The root node is always Black",
+        "Every newly inserted node is initially Red",
+        "If a node is Red, both of its children must be Black (no two consecutive Red nodes)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Standard Red-Black tree invariants state: (1) The root is black, (2) Newly inserted nodes are colored red, and (3) Red nodes cannot have red children (no consecutive reds).",
+      "tip": "All three options (A), (B), and (C) are fundamental rules of Red-Black Trees, leading directly to Option (D).",
+      "id": 22,
+      "options_hi": [
+        "The root node is always Black",
+        "Every newly inserted node is initially Red",
+        "If a node is Red, both of its children must be Black (no two consecutive Red nodes)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मानक लाल-काले वृक्ष अपरिवर्तनीय स्थिति बताते हैं: (1) जड़ काली है, (2) नए डाले गए नोड्स लाल रंग के हैं, और (3) लाल नोड्स में लाल बच्चे नहीं हो सकते हैं (कोई लगातार लाल नहीं)।",
+      "tip_hi": "सभी तीन विकल्प (ए), (बी), और (सी) लाल-काले पेड़ों के मूलभूत नियम हैं, जो सीधे विकल्प (डी) की ओर ले जाते हैं।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In a Double-Ended Queue (Deque) implemented using a singly linked list without backward pointers, what is the worst-case time complexity to delete an element from the rear end?(",
+      "hi": "एकल लिंक्ड सूची द्वारा कार्यान्वित डेक (Deque) में, पीछे के छोर (rear end) से किसी तत्त्व को हटाने की समय जटिलता क्या होगी?)",
+      "options": [
+        "O(1)",
+        "O(N log N)",
+        "O(N)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "O(N)",
+      "explanation": "In a singly linked list, although we maintain a `tail` pointer, deleting the tail requires updating the second-to-last node's `next` pointer to `NULL`. Finding this preceding node requires traversing \\(N-1\\) links, taking \\(O(N)\\) time.",
+      "tip": "Singly linked list: Delete from Front = \\(O(1)\\); Delete from Rear = \\(O(N)\\) (needs traversal). Doubly linked list achieves \\(O(1)\\).",
+      "id": 23,
+      "options_hi": [
+        "O(1)",
+        "O(N log N)",
+        "O(N)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एकल लिंक की गई सूची में, हालांकि हम एक `टेल` पॉइंटर बनाए रखते हैं, टेल को हटाने के लिए दूसरे-से-अंतिम नोड के `अगले` पॉइंटर को `NULL` में अपडेट करने की आवश्यकता होती है। इस पूर्ववर्ती नोड को खोजने के लिए \\(N-1\\) लिंक को पार करने की आवश्यकता होती है, जिसमें \\(O(N)\\) समय लगता है।",
+      "tip_hi": "एकल रूप से लिंक की गई सूची: सामने से हटाएँ = \\(O(1)\\); पीछे से हटाएँ = \\(O(N)\\) (ट्रैवर्सल की आवश्यकता है)। दोगुनी लिंक की गई सूची \\(O(1)\\) प्राप्त करती है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following constitutes the exact overflow condition if a linear queue is implemented using an array of size `MAX_SIZE`?(",
+      "hi": "यदि `MAX_SIZE` आकार वाले ऐरे का उपयोग करके रैखिक क्यू लागू की जाती है, तो अतिप्रवाह (Overflow) की सही स्थिति कौन-सी है?)",
+      "options": [
+        "`rear == MAX_SIZE - 1`",
+        "`rear == MAX_SIZE`",
+        "`rear == front + 1`",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "`rear == MAX_SIZE - 1`",
+      "explanation": "With zero-based indexing in an array of size `MAX_SIZE`, valid indices span `0` to `MAX_SIZE - 1`. When `rear` reaches index `MAX_SIZE - 1`, the queue cannot accommodate any further elements.",
+      "tip": "Array boundary: max index = `size - 1`. Therefore overflow occurs when `rear == MAX_SIZE - 1`.",
+      "id": 24,
+      "options_hi": [
+        "`rear == MAX_SIZE - 1`",
+        "`rear == MAX_SIZE`",
+        "`rear == front + 1`",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "`MAX_SIZE` आकार की सरणी में शून्य-आधारित अनुक्रमण के साथ, वैध सूचकांक `0` से `MAX_SIZE - 1` तक फैले होते हैं। जब `रियर` सूचकांक `MAX_SIZE - 1` तक पहुंचता है, तो कतार किसी भी अन्य तत्व को समायोजित नहीं कर सकती है।",
+      "tip_hi": "सरणी सीमा: अधिकतम सूचकांक = `आकार - 1`। इसलिए ओवरफ्लो तब होता है जब `रियर == MAX_SIZE - 1` होता है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following sorting algorithms is strictly based on the 'Divide-and-Conquer' algorithmic paradigm?(",
+      "hi": "निम्नलिखित में से कौन-सा सॉर्टिंग एल्गोरिदम 'फूट डालो और जीतो' (Divide-and-Conquer) रणनीति पर आधारित है?)",
+      "options": [
+        "Merge sort",
+        "Heap sort",
+        "Bubble sort",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Merge sort",
+      "explanation": "Merge Sort divides the unsorted list into \\(N\\) sublists until each contains 1 element, recursively sorts them, and merges them back together. Quick Sort and Merge Sort are classic Divide-and-Conquer algorithms.",
+      "tip": "Divide and Conquer sorting = Merge Sort & Quick Sort; Greedy sorting = Selection Sort; Heap-based = Heap Sort.",
+      "id": 25,
+      "options_hi": [
+        "Merge sort",
+        "Heap sort",
+        "Bubble sort",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मर्ज सॉर्ट अनसॉर्टेड सूची को \\(N\\) उप-सूचियों में तब तक विभाजित करता है जब तक कि प्रत्येक में 1 तत्व न हो, उन्हें पुनरावर्ती रूप से सॉर्ट करता है, और उन्हें वापस एक साथ मर्ज कर देता है। क्विक सॉर्ट और मर्ज सॉर्ट क्लासिक डिवाइड-एंड-कॉनकर एल्गोरिदम हैं।",
+      "tip_hi": "फूट डालो और जीतो सॉर्टिंग = मर्ज सॉर्ट और त्वरित सॉर्ट; लालची छँटाई = चयन छँटाई; ढेर-आधारित = ढेर क्रमबद्ध।"
+    }
+  ]
+}

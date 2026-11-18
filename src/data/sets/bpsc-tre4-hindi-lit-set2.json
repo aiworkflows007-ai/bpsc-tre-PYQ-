@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-hindi-lit-set2",
+  "title": "हिन्दी साहित्य अभ्यास सेट 2 (भक्तिकाल एवं रीतिकाल — 25Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Hindi Literature",
+  "filename": "bpsc-tre4-hindi-lit-set2.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | कृष्णभक्ति शाखा - अष्टछाप",
+      "en": "Who among the following is the founder of 'Ashtachhap'?",
+      "hi": "इनमें से कौन 'अष्टछाप' के संस्थापक हैं?",
+      "options": [
+        "श्री हरिराय",
+        "गोस्वामी विट्ठलनाथ",
+        "नंददास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "गोस्वामी विट्ठलनाथ",
+      "explanation": "Goswami Vitthalnath established Ashtachhap in 1565 AD by combining 4 disciples of his father Vallabhacharya (Kumbhandas, Surdas, Parmanandadas, Krishnadas) and 4 of his own disciples (Govindaswami, Chhitswami, Chaturbhujdas, Nanddas).",
+      "tip": "",
+      "id": 1,
+      "options_hi": [
+        "श्री हरिराय",
+        "गोस्वामी विट्ठलनाथ",
+        "नंददास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Goswami Vitthalnath established Ashtachhap in 1565 AD by combining 4 disciples of his father Vallabhacharya (Kumbhandas, Surdas, Parmanandadas, Krishnadas) and 4 of his own disciples (Govindaswami, Chhitswami, Chaturbhujdas, Nanddas).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | आंचलिक उपन्यास - रेणु",
+      "en": "Which of the following is a regional novel written by Phanishwar Nath 'Renu'?",
+      "hi": "निम्नलिखित में से कौन-सा फणीश्वर नाथ 'रेणु' विरचित आंचलिक उपन्यास है?",
+      "options": [
+        "मैला आँचल",
+        "तितली",
+        "परती परिकथा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "'Maila Aanchal' (1954 AD - story of Meriganj village of Purnia) and 'Parti Parikatha' (1957 AD - Paranpur village) both are famous regional novels of Phanishwar Nath Renu. 'Titli' is a novel by Jaishankar Prasad.",
+      "tip": "",
+      "id": 2,
+      "options_hi": [
+        "मैला आँचल",
+        "तितली",
+        "परती परिकथा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Maila Aanchal' (1954 AD - story of Meriganj village of Purnia) and 'Parti Parikatha' (1957 AD - Paranpur village) both are famous regional novels of Phanishwar Nath Renu. 'Titli' is a novel by Jaishankar Prasad.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Booklets - Advt. 24/2023 | राष्ट्रकवि दिनकर",
+      "en": "What is the name of the author of the poem 'Kurukshetra'?",
+      "hi": "'कुरुक्षेत्र' काव्य के लेखक का क्या नाम है?",
+      "options": [
+        "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+        "श्रीधर पाठक",
+        "मैथिलीशरण गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "उपर्युक्त में से कोई नहीं",
+      "explanation": "'Kurukshetra' (1946 AD) is an epoch-making treatise written by national poet Ramdhari Singh 'Dinkar', in which the philosophical analysis of war and peace has been done through the dialogue between Bhishma and Yudhishthir.",
+      "tip": "",
+      "id": 3,
+      "options_hi": [
+        "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+        "श्रीधर पाठक",
+        "मैथिलीशरण गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Kurukshetra' (1946 AD) is an epoch-making treatise written by national poet Ramdhari Singh 'Dinkar', in which the philosophical analysis of war and peace has been done through the dialogue between Bhishma and Yudhishthir.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Booklets - Advt. 24/2023 | भाषा का ऐतिहासिक विकास",
+      "en": "The generally accepted period of origin of Hindi language is considered to be",
+      "hi": "हिन्दी भाषा के उद्भव का सर्वमान्य काल माना जाता है",
+      "options": [
+        "500 ई० पू०",
+        "500 ई०",
+        "1000 ई०",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "1000 ई०",
+      "explanation": "Modern Indian Aryan languages ​​and Hindi are believed to have developed around 1000 AD (10th-11th century) from the northern form of Apabhramsha (Avahatta).",
+      "tip": "",
+      "id": 4,
+      "options_hi": [
+        "500 ई० पू०",
+        "500 ई०",
+        "1000 ई०",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Modern Indian Aryan languages ​​and Hindi are believed to have developed around 1000 AD (10th-11th century) from the northern form of Apabhramsha (Avahatta).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Booklets - Advt. 24/2023 | भारतीय नाट्यशास्त्र - नायक भेद",
+      "en": "What is a forgiving, serious, stable, self-respecting and determined hero called in Indian poetics?",
+      "hi": "भारतीय काव्यशास्त्र में क्षमाशील, गम्भीर, स्थिरचित्त, स्वाभिमानी एवं दृढ़-प्रतिज्ञ नायक को क्या कहा गया है?",
+      "options": [
+        "धीरललित",
+        "धीरोदात्त",
+        "धीरप्रशांत",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "धीरोदात्त",
+      "explanation": "There are four main types of heroes in poetics: 1. Dhirodatta (serious, forgiving, self-respecting like Ram), 2. Dhirodat (arrogant, angry like Ravana/Bhim), 3. Dhirlalit (art lover, happy like Udayan), 4. Dhirprashant (calm, Brahmin/Vaishya like Charudatta).",
+      "tip": "",
+      "id": 5,
+      "options_hi": [
+        "धीरललित",
+        "धीरोदात्त",
+        "धीरप्रशांत",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "There are four main types of heroes in poetics: 1. Dhirodatta (serious, forgiving, self-respecting like Ram), 2. Dhirodat (arrogant, angry like Ravana/Bhim), 3. Dhirlalit (art lover, happy like Udayan), 4. Dhirprashant (calm, Brahmin/Vaishya like Charudatta).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | इतिहास ग्रंथ - हजारी प्रसाद द्विवेदी",
+      "en": "Who is the author of the critical book 'Role of Hindi Literature' (1940 AD)?",
+      "hi": "'हिन्दी साहित्य की भूमिका' (1940 ई०) आलोचनात्मक ग्रंथ के लेखक कौन हैं?",
+      "options": [
+        "परशुराम चतुर्वेदी",
+        "हजारी प्रसाद द्विवेदी",
+        "गणपतिचन्द्र गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "हजारी प्रसाद द्विवेदी",
+      "explanation": "'Introduction to Hindi Literature' (1940), 'The Beginning of Hindi Literature' (1952) and 'Hindi Literature: Origin and Development' (1952) are the historical works of Acharya Hazari Prasad Dwivedi.",
+      "tip": "",
+      "id": 6,
+      "options_hi": [
+        "परशुराम चतुर्वेदी",
+        "हजारी प्रसाद द्विवेदी",
+        "गणपतिचन्द्र गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Introduction to Hindi Literature' (1940), 'The Beginning of Hindi Literature' (1952) and 'Hindi Literature: Origin and Development' (1952) are the historical works of Acharya Hazari Prasad Dwivedi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | इतिहास ग्रंथ - रामकुमार वर्मा",
+      "en": "He is the author of the book 'Critical History of Hindi Literature' (1938 AD)",
+      "hi": "'हिन्दी साहित्य का आलोचनात्मक इतिहास' (1938 ई०) ग्रंथ के लेखक हैं",
+      "options": [
+        "डॉ० रामकुमार वर्मा",
+        "बच्चन सिंह",
+        "नलिन विलोचन शर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "डॉ० रामकुमार वर्मा",
+      "explanation": "Dr. Ramkumar Verma in his book 'Critical History of Hindi Literature' discussed the Sandhi period and Charan period and considered Swayambhu as the first poet of Hindi.",
+      "tip": "",
+      "id": 7,
+      "options_hi": [
+        "डॉ० रामकुमार वर्मा",
+        "बच्चन सिंह",
+        "नलिन विलोचन शर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Ramkumar Verma in his book 'Critical History of Hindi Literature' discussed the Sandhi period and Charan period and considered Swayambhu as the first poet of Hindi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | इतिहास ग्रंथ - संत परंपरा",
+      "en": "Who is the author of the research book 'Saint Tradition of Northern India'?",
+      "hi": "'उत्तरी भारत की संत परम्परा' शोध-ग्रंथ के लेखक कौन हैं?",
+      "options": [
+        "परशुराम चतुर्वेदी",
+        "डॉ० नगेन्द्र",
+        "डॉ० रामविलास शर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "परशुराम चतुर्वेदी",
+      "explanation": "Pt. Parshuram Chaturvedi's book 'Sant Tradition of Northern India' is considered an important work for the authentic research of saint literature and Nirgun devotional poetry.",
+      "tip": "",
+      "id": 8,
+      "options_hi": [
+        "परशुराम चतुर्वेदी",
+        "डॉ० नगेन्द्र",
+        "डॉ० रामविलास शर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pt. Parshuram Chaturvedi's book 'Sant Tradition of Northern India' is considered an important work for the authentic research of saint literature and Nirgun devotional poetry.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | इतिहास ग्रंथ - बच्चन सिंह",
+      "en": "He is the author of 'Second History of Hindi Literature' (1996 AD)",
+      "hi": "'हिन्दी साहित्य का दूसरा इतिहास' (1996 ई०) के लेखक हैं",
+      "options": [
+        "बच्चन सिंह",
+        "गणपतिचन्द्र गुप्त",
+        "मैनेजर पांडेय",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "बच्चन सिंह",
+      "explanation": "Dr. Bachchan Singh re-evaluated the traditional view of history by writing 'Second History of Hindi Literature' (1996) and 'History of Modern Hindi Literature'.",
+      "tip": "",
+      "id": 9,
+      "options_hi": [
+        "बच्चन सिंह",
+        "गणपतिचन्द्र गुप्त",
+        "मैनेजर पांडेय",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Bachchan Singh re-evaluated the traditional view of history by writing 'Second History of Hindi Literature' (1996) and 'History of Modern Hindi Literature'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | इतिहास ग्रंथ - गणपतिचन्द्र गुप्त",
+      "en": "Who has written 'Scientific History of Hindi Literature' (1965 AD) in two parts?",
+      "hi": "'हिन्दी साहित्य का वैज्ञानिक इतिहास' (1965 ई०) दो भागों में किसने लिखा है?",
+      "options": [
+        "गणपतिचन्द्र गुप्त",
+        "विश्वनाथ त्रिपाठी",
+        "रामस्वरूप चतुर्वेदी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "गणपतिचन्द्र गुप्त",
+      "explanation": "Dr. Ganpati Chandra Gupta, in his 'Scientific History of Hindi Literature', considered Shalibhadra Suri (Bharateshwar Bahubali Raas, 1184 AD) as the first poet of Hindi.",
+      "tip": "",
+      "id": 10,
+      "options_hi": [
+        "गणपतिचन्द्र गुप्त",
+        "विश्वनाथ त्रिपाठी",
+        "रामस्वरूप चतुर्वेदी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. Ganpati Chandra Gupta, in his 'Scientific History of Hindi Literature', considered Shalibhadra Suri (Bharateshwar Bahubali Raas, 1184 AD) as the first poet of Hindi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | काल-विभाजन - ग्रियर्सन",
+      "en": "'Love poetry of Malik Muhammad Jayasi' - Which literary historian has suggested the above naming while dividing and naming the history of Hindi literature?",
+      "hi": "'मलिक मुहम्मद जायसी की प्रेम कविता' - हिन्दी साहित्य के इतिहास का काल-विभाजन और नामकरण करते हुए उपर्युक्त नामकरण किस साहित्येतिहासकार ने सुझाया है?",
+      "options": [
+        "आचार्य रामचन्द्र शुक्ल",
+        "हजारी प्रसाद द्विवेदी",
+        "डॉ० जॉर्ज ग्रियर्सन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "डॉ० जॉर्ज ग्रियर्सन",
+      "explanation": "Dr. George Abraham Grierson, in his book 'The Modern Vernacular Literature of Hindustan' (1888), gave this title in the form of chapters while making the first attempt at period division.",
+      "tip": "",
+      "id": 11,
+      "options_hi": [
+        "आचार्य रामचन्द्र शुक्ल",
+        "हजारी प्रसाद द्विवेदी",
+        "डॉ० जॉर्ज ग्रियर्सन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dr. George Abraham Grierson, in his book 'The Modern Vernacular Literature of Hindustan' (1888), gave this title in the form of chapters while making the first attempt at period division.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | अपभ्रंश एवं आधुनिक भाषाएँ",
+      "en": "Which of the following languages ​​developed from Brachad Apabhramsha?",
+      "hi": "निम्नलिखित में से किस भाषा का विकास ब्राचड़ अपभ्रंश से हुआ?",
+      "options": [
+        "मराठी",
+        "बिहारी हिन्दी",
+        "सिन्धी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "सिन्धी",
+      "explanation": "'Sindhi' language developed from Brachad Apabhramsha. Marathi developed from Maharashtri Apabhramsha, and Bihari Hindi developed from Magadhi Apabhramsha.",
+      "tip": "",
+      "id": 12,
+      "options_hi": [
+        "मराठी",
+        "बिहारी हिन्दी",
+        "सिन्धी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Sindhi' language developed from Brachad Apabhramsha. Marathi developed from Maharashtri Apabhramsha, and Bihari Hindi developed from Magadhi Apabhramsha.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | रीतिकाल - असत्य कथन",
+      "en": "Which pair related to the naming of Ritikaal by scholars is not true?",
+      "hi": "विद्वानों द्वारा रीतिकाल के नामकरण से सम्बन्धित कौन-सा युग्म सत्य नहीं है?",
+      "options": [
+        "रीतिकाल - आचार्य रामचन्द्र शुक्ल",
+        "अलंकृत काल - मिश्रबंधु",
+        "श्रृंगार काल - विश्वनाथ प्रसाद मिश्र",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "उपर्युक्त में से कोई नहीं",
+      "explanation": "All three pairs are authentic and true: Shukla ji named 'Riti Kaal', Mishrabandhu named it 'Alankrit Kaal' and Vishwanath Prasad Mishra named it 'Shringaar Kaal'. Hence the false pair is none (E).",
+      "tip": "",
+      "id": 13,
+      "options_hi": [
+        "रीतिकाल - आचार्य रामचन्द्र शुक्ल",
+        "अलंकृत काल - मिश्रबंधु",
+        "श्रृंगार काल - विश्वनाथ प्रसाद मिश्र",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "All three pairs are authentic and true: Shukla ji named 'Riti Kaal', Mishrabandhu named it 'Alankrit Kaal' and Vishwanath Prasad Mishra named it 'Shringaar Kaal'. Hence the false pair is none (E).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | आचार्य शुक्ल की इतिहास-दृष्टि",
+      "en": "Who are the scholars who exclude the works of Gorakhnath and Nath-Panthis from the category of pure literature by calling them 'mere communal teachings'?",
+      "hi": "गोरखनाथ तथा नाथ-पंथियों की रचनाओं को 'साम्प्रदायिक शिक्षा मात्र' कहकर शुद्ध साहित्य की कोटि से बहिष्कृत करने वाले विद्वान कौन हैं?",
+      "options": [
+        "आचार्य रामचन्द्र शुक्ल",
+        "हजारी प्रसाद द्विवेदी",
+        "डॉ० रामकुमार वर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "आचार्य रामचन्द्र शुक्ल",
+      "explanation": "Acharya Shukla had kept the religious works of Siddhas, Naths and Jains out of pure literature considering them as communal teachings, which was later refuted by Hazari Prasad Dwivedi.",
+      "tip": "",
+      "id": 14,
+      "options_hi": [
+        "आचार्य रामचन्द्र शुक्ल",
+        "हजारी प्रसाद द्विवेदी",
+        "डॉ० रामकुमार वर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acharya Shukla had kept the religious works of Siddhas, Naths and Jains out of pure literature considering them as communal teachings, which was later refuted by Hazari Prasad Dwivedi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | आदिकाल - चंदबरदाई की उपाधि",
+      "en": "Who is called 'King of verses' and 'King of Chhappayon' in Hindi literature?",
+      "hi": "हिन्दी साहित्य में 'छन्दों का बादशाह' तथा 'छप्पयों का राजा' किसे कहा जाता है?",
+      "options": [
+        "नरपतिनाल्ह",
+        "अमीर खुसरो",
+        "दलपति विजय",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "उपर्युक्त में से कोई नहीं",
+      "explanation": "The great poet Chandbardai is called the 'King of Chhappay' because of his unmatched use of Chhappay verse (Shiv Singh Sengar called him an expert of Chhappay). Option (E) is correct due to absence of Chandbardai.",
+      "tip": "",
+      "id": 15,
+      "options_hi": [
+        "नरपतिनाल्ह",
+        "अमीर खुसरो",
+        "दलपति विजय",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The great poet Chandbardai is called the 'King of Chhappay' because of his unmatched use of Chhappay verse (Shiv Singh Sengar called him an expert of Chhappay). Option (E) is correct due to absence of Chandbardai.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | संत काव्य - सुंदरदास",
+      "en": "Who was the most learned and well-educated saint poet in the saint poetry stream?",
+      "hi": "संत काव्यधारा में सर्वाधिक शास्त्रज्ञ और सुशिक्षित संत कवि कौन थे?",
+      "options": [
+        "कबीरदास",
+        "रैदास",
+        "सुंदरदास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "सुंदरदास",
+      "explanation": "Dadu Dayal's disciple Sant Sunderdas was a great scholar of Sanskrit, grammar and poetics. He composed 'Sundar Vilas' and 'Gyan Samudra' in Savaiya and Ghanakshari verses.",
+      "tip": "",
+      "id": 16,
+      "options_hi": [
+        "कबीरदास",
+        "रैदास",
+        "सुंदरदास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dadu Dayal's disciple Sant Sunderdas was a great scholar of Sanskrit, grammar and poetics. He composed 'Sundar Vilas' and 'Gyan Samudra' in Savaiya and Ghanakshari verses.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | रासो शब्द की व्युत्पत्ति",
+      "en": "Who has considered the origin of the word 'Raso' from 'Rasayan' based on the line of Bisaldev Raso?",
+      "hi": "'रासो' शब्द की उत्पत्ति बीसलदेव रासो की पंक्ति के आधार पर 'रसायण' से किसने मानी है?",
+      "options": [
+        "रामचन्द्र शुक्ल",
+        "गार्सा द तासी",
+        "हजारी प्रसाद द्विवेदी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "रामचन्द्र शुक्ल",
+      "explanation": "Acharya Shukla recited the line from 'Bisaldev Raso' 'Barah Sai Bahattoran Mazhari, Jeth Badi Navami Budhwari. On the basis of 'Nalah Rasayan Aarambhai...', the etymology of 'Raso' is believed to be from 'Rasayan'.",
+      "tip": "",
+      "id": 17,
+      "options_hi": [
+        "रामचन्द्र शुक्ल",
+        "गार्सा द तासी",
+        "हजारी प्रसाद द्विवेदी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acharya Shukla recited the line from 'Bisaldev Raso' 'Barah Sai Bahattoran Mazhari, Jeth Badi Navami Budhwari. On the basis of 'Nalah Rasayan Aarambhai...', the etymology of 'Raso' is believed to be from 'Rasayan'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | निराला - रचना कालक्रम",
+      "en": "According to the year of publication, the correct chronology of the following poetic works of Suryakant Tripathi 'Nirala' is",
+      "hi": "प्रकाशन-वर्ष के अनुसार सूर्यकांत त्रिपाठी 'निराला' की निम्नलिखित काव्य-कृतियों का सही कालानुक्रम है",
+      "options": [
+        "अर्चना, आराधना, अणिमा, गीतिका",
+        "आराधना, अणिमा, अर्चना, गीतिका",
+        "गीतिका, अणिमा, अर्चना, आराधना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "गीतिका, अणिमा, अर्चना, आराधना",
+      "explanation": "Publication years of Nirala ji's works: Geetika (1936 AD), Anima (1943 AD), Archana (1950 AD), Aradhana (1953 AD). Hence order (C) is completely correct.",
+      "tip": "",
+      "id": 18,
+      "options_hi": [
+        "अर्चना, आराधना, अणिमा, गीतिका",
+        "आराधना, अणिमा, अर्चना, गीतिका",
+        "गीतिका, अणिमा, अर्चना, आराधना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Publication years of Nirala ji's works: Geetika (1936 AD), Anima (1943 AD), Archana (1950 AD), Aradhana (1953 AD). Hence order (C) is completely correct.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | काव्यशास्त्र - शब्द-शक्ति (लक्षणा)",
+      "en": "Which of the following Lakshana is also called 'Ajahatsvartha Lakshana'?",
+      "hi": "निम्नलिखित में से किस लक्षणा को 'अजहत्स्वार्था लक्षणा' भी कहते हैं?",
+      "options": [
+        "लक्षण-लक्षणा",
+        "उपादान लक्षणा",
+        "विपरीत लक्षणा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "उपादान लक्षणा",
+      "explanation": "Where the main meaning is not completely abandoned but it is also embraced along with the goal (Na Jahati Swartham), it is called 'Ajahatsvartha' or 'Upadaan Lakshana' (eg - 'Kuntal Pravishanti' = spears are entering).",
+      "tip": "",
+      "id": 19,
+      "options_hi": [
+        "लक्षण-लक्षणा",
+        "उपादान लक्षणा",
+        "विपरीत लक्षणा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Where the main meaning is not completely abandoned but it is also embraced along with the goal (Na Jahati Swartham), it is called 'Ajahatsvartha' or 'Upadaan Lakshana' (eg - 'Kuntal Pravishanti' = spears are entering).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | संस्कृत काव्यशास्त्र - आचार्य कालक्रम",
+      "en": "Which of the following chronological order of Sanskrit Acharyas is correct?",
+      "hi": "निम्नलिखित में कालक्रमानुसार संस्कृत आचार्यों का कौन-सा क्रम सही है?",
+      "options": [
+        "भामह, मम्मट, दण्डी, आनन्दवर्धन",
+        "आनन्दवर्धन, भामह, मम्मट, दण्डी",
+        "भामह, दण्डी, आनन्दवर्धन, मम्मट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "भामह, दण्डी, आनन्दवर्धन, मम्मट",
+      "explanation": "Historical period of Acharyas: Bhamah (sixth century, Kavyalankar), Dandi (seventh century, Kavyadarsh), Anandvardhana (ninth century, Dhvanyaloka), Mammat (eleventh century, Kavyaprakash).",
+      "tip": "",
+      "id": 20,
+      "options_hi": [
+        "भामह, मम्मट, दण्डी, आनन्दवर्धन",
+        "आनन्दवर्धन, भामह, मम्मट, दण्डी",
+        "भामह, दण्डी, आनन्दवर्धन, मम्मट",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Historical period of Acharyas: Bhamah (sixth century, Kavyalankar), Dandi (seventh century, Kavyadarsh), Anandvardhana (ninth century, Dhvanyaloka), Mammat (eleventh century, Kavyaprakash).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | रस निष्पत्ति - व्याख्याकार",
+      "en": "Who among the interpreters of Bharatmuni's Rasa-sutra 'Vibhavanubhavavyabhicharisanyogadrasanishpattih' is the exponent of 'Etatism' (Aropism)?",
+      "hi": "भरतमुनि के रस-सूत्र 'विभावानुभावव्यभिचारिसंयोगाद्रसनिष्पत्तिः' के व्याख्याकारों में 'उत्पत्तिवाद' (आरोपवाद) के प्रतिपादक कौन हैं?",
+      "options": [
+        "भट्ट लोल्लट",
+        "शंकुक",
+        "भट्टनायक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भट्ट लोल्लट",
+      "explanation": "There are four major interpreters of Rasa-Sutra: 1. Bhatta Lollata (Genesisism/Mimamsa philosophy), 2. Shankuka (Anumitaism/Nyaya philosophy), 3. Bhattanayaka (Bhuktiism/Samkhya philosophy), 4. Abhinavagupta (Expressionism/Shaiva philosophy).",
+      "tip": "",
+      "id": 21,
+      "options_hi": [
+        "भट्ट लोल्लट",
+        "शंकुक",
+        "भट्टनायक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "There are four major interpreters of Rasa-Sutra: 1. Bhatta Lollata (Genesisism/Mimamsa philosophy), 2. Shankuka (Anumitaism/Nyaya philosophy), 3. Bhattanayaka (Bhuktiism/Samkhya philosophy), 4. Abhinavagupta (Expressionism/Shaiva philosophy).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | पारिभाषिक शब्दावली एवं शब्द-शक्ति",
+      "en": "In which power of words lies the meaning of administrative and scientific terminology?",
+      "hi": "प्रशासनिक एवं वैज्ञानिक पारिभाषिक शब्दों का अर्थ किस शब्द-शक्ति में निहित रहता है?",
+      "options": [
+        "लक्षणा",
+        "अभिधा",
+        "व्यंजना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "अभिधा",
+      "explanation": "Definitional words have a definite, unambiguous and limited symbolic meaning, which is directly expressed by the 'abhidha word-power' which conveys the main meaning.",
+      "tip": "",
+      "id": 22,
+      "options_hi": [
+        "लक्षणा",
+        "अभिधा",
+        "व्यंजना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Definitional words have a definite, unambiguous and limited symbolic meaning, which is directly expressed by the 'abhidha word-power' which conveys the main meaning.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Hindi-English - Advt. 22/2023 | अलंकार - उत्प्रेक्षा",
+      "en": "“Sohat odhe yellow patu, shyaam saalune gaat. Manhu neelmani-sail par atpu paryo morning.” Which figure of speech has been used in the said couplet?",
+      "hi": "“सोहत ओढ़े पीत पटु, श्याम सलौने गात। मनहु नीलमनि-सैल पर आतपु परयो प्रभात॥” उक्त दोहे में किस अलंकार का प्रयोग हुआ है?",
+      "options": [
+        "उत्प्रेक्षा अलंकार",
+        "विभावना अलंकार",
+        "यमक अलंकार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उत्प्रेक्षा अलंकार",
+      "explanation": "In this couplet written by Biharilal, the darkness on the dark body of Shri Krishna has been compared to the possibility of morning sunshine on the sapphire mountain. The meaning word 'Manhu' is the identity of Utpreksha.",
+      "tip": "",
+      "id": 23,
+      "options_hi": [
+        "उत्प्रेक्षा अलंकार",
+        "विभावना अलंकार",
+        "यमक अलंकार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In this couplet written by Biharilal, the darkness on the dark body of Shri Krishna has been compared to the possibility of morning sunshine on the sapphire mountain. The meaning word 'Manhu' is the identity of Utpreksha.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Primary Teacher Question Booklet - Advt. 21/2023 | काव्यशास्त्र - ध्वनि संप्रदाय",
+      "en": "Who is the founder of 'Dhvani-Siddhanta' (Dhvani sect)?",
+      "hi": "'ध्वनि-सिद्धांत' (ध्वनि संप्रदाय) के प्रतिष्ठापक आचार्य कौन हैं?",
+      "options": [
+        "आचार्य विश्वनाथ",
+        "आचार्य आनंदवर्धन",
+        "पण्डितराज जगन्नाथ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "आचार्य आनंदवर्धन",
+      "explanation": "Kashmiri Acharya Anandvardhan of the ninth century established the Dhvani sect as 'Kavyasyatma Dhvani' (Sound is the soul of poetry) by writing the book 'Dhwanyalok'.",
+      "tip": "",
+      "id": 24,
+      "options_hi": [
+        "आचार्य विश्वनाथ",
+        "आचार्य आनंदवर्धन",
+        "पण्डितराज जगन्नाथ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kashmiri Acharya Anandvardhan of the ninth century established the Dhvani sect as 'Kavyasyatma Dhvani' (Sound is the soul of poetry) by writing the book 'Dhwanyalok'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Principal Question Paper - Advt. 26/2023 | काव्यशास्त्र - वक्रोक्ति संप्रदाय",
+      "en": "Who is the author of the book 'Vakroktijeevitam'?",
+      "hi": "'वक्रोक्तिजीवितम्' ग्रंथ के रचनाकार कौन हैं?",
+      "options": [
+        "वामन",
+        "भामह",
+        "कुंतक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "कुंतक",
+      "explanation": "Tenth-eleventh century Acharya Kuntak composed the book 'Vakroktijeevitam' and declared Vakrokti as the life/soul of poetry ('Vakroktih Kavyajeevitam').",
+      "tip": "",
+      "id": 25,
+      "options_hi": [
+        "वामन",
+        "भामह",
+        "कुंतक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Tenth-eleventh century Acharya Kuntak composed the book 'Vakroktijeevitam' and declared Vakrokti as the life/soul of poetry ('Vakroktih Kavyajeevitam').",
+      "tip_hi": ""
+    }
+  ]
+}

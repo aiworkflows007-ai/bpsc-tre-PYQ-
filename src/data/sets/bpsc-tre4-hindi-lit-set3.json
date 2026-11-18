@@ -1,0 +1,821 @@
+{
+  "id": "bpsc-tre4-hindi-lit-set3",
+  "title": "हिन्दी साहित्य अभ्यास सेट 3 (आधुनिक काल, गद्य एवं काव्यशास्त्र — 30Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Hindi Literature",
+  "filename": "bpsc-tre4-hindi-lit-set3.json",
+  "question_count": 30,
+  "questions": [
+    {
+      "source": "BPSC Middle School Sanskrit Booklet | काव्यशास्त्र - मम्मट",
+      "en": "Who is the author of the famous poetic book named 'Kavyaprakash'?",
+      "hi": "'काव्यप्रकाश' नामक सुप्रसिद्ध काव्यशास्त्रीय ग्रंथ के रचयिता कौन हैं?",
+      "options": [
+        "मम्मट",
+        "भामह",
+        "दण्डी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मम्मट",
+      "explanation": "Acharya Mammat (11th century) composed 'Kavyaprakash', which is considered to be a standard treatise on sound-establishment refuting the anti-sound views.",
+      "tip": "",
+      "id": 1,
+      "options_hi": [
+        "मम्मट",
+        "भामह",
+        "दण्डी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acharya Mammat (11th century) composed 'Kavyaprakash', which is considered to be a standard treatise on sound-establishment refuting the anti-sound views.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Sanskrit Booklet | काव्यशास्त्र - विश्वनाथ",
+      "en": "“Vakyaam Rasatakam Kaavyam” (Sentences full of interest are poetry) is this immortal poetic trait of which Acharya?",
+      "hi": "“वाक्यं रसात्मकं काव्यम्” (रसयुक्त वाक्य ही काव्य है) यह अमर काव्य-लक्षण किस आचार्य का है?",
+      "options": [
+        "आचार्य भामह",
+        "आचार्य मम्मट",
+        "पण्डितराज जगन्नाथ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "उपर्युक्त में से कोई नहीं",
+      "explanation": "This well-known characteristic is of Acharya Vishwanath of 14th century Utkal (Orissa), which is found in the first paragraph of his book 'Sahityadarpan'. Option (E) is correct as Vishwanath is not there.",
+      "tip": "",
+      "id": 2,
+      "options_hi": [
+        "आचार्य भामह",
+        "आचार्य मम्मट",
+        "पण्डितराज जगन्नाथ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This well-known characteristic is of Acharya Vishwanath of 14th century Utkal (Orissa), which is found in the first paragraph of his book 'Sahityadarpan'. Option (E) is correct as Vishwanath is not there.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle School Sanskrit Booklet | काव्यशास्त्र - जगन्नाथ",
+      "en": "Panditraj Jagannath, the author of the book 'Rasgangadhar' was a contemporary of which Mughal ruler?",
+      "hi": "'रसगंगाधर' ग्रंथ के रचयिता पण्डितराज जगन्नाथ किस मुगल शासक के समकालीन थे?",
+      "options": [
+        "अकबर",
+        "शाहजहाँ",
+        "जहांगीर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "शाहजहाँ",
+      "explanation": "Panditraj Jagannath was the last great Sanskrit poet of the 17th century. He was respected in the court of Mughal emperor Shahjahan, who gave him the title of 'Panditraj'.",
+      "tip": "",
+      "id": 3,
+      "options_hi": [
+        "अकबर",
+        "शाहजहाँ",
+        "जहांगीर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Panditraj Jagannath was the last great Sanskrit poet of the 17th century. He was respected in the court of Mughal emperor Shahjahan, who gave him the title of 'Panditraj'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Primary Teacher Question Booklet - Advt. 21/2023 | निबंध साहित्य - हजारी प्रसाद द्विवेदी",
+      "en": "Which of the following essay collections is not by Acharya Hazari Prasad Dwivedi?",
+      "hi": "निम्नलिखित में से कौन-सा निबंध संग्रह आचार्य हजारी प्रसाद द्विवेदी का नहीं है?",
+      "options": [
+        "अशोक के फूल",
+        "मजदूरी और प्रेम",
+        "कुटज",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "मजदूरी और प्रेम",
+      "explanation": "'Labor and Love' is a famous emotional essay by Sardar Purna Singh. 'Ashoka Ke Phool' (1948), 'Kutaj' (1964), 'Kalpalata', and 'Alok Parv' are the essays of Hazari Prasad Dwivedi.",
+      "tip": "",
+      "id": 4,
+      "options_hi": [
+        "अशोक के फूल",
+        "मजदूरी और प्रेम",
+        "कुटज",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Labor and Love' is a famous emotional essay by Sardar Purna Singh. 'Ashoka Ke Phool' (1948), 'Kutaj' (1964), 'Kalpalata', and 'Alok Parv' are the essays of Hazari Prasad Dwivedi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Primary Teacher Question Booklet - Advt. 21/2023 | उपन्यास और उपन्यासकार",
+      "en": "Which combination of novel and novelist is not correct?",
+      "hi": "उपन्यास और उपन्यासकार का कौन-सा युग्म सही नहीं है?",
+      "options": [
+        "जुलूस - फणीश्वरनाथ रेणु",
+        "अँधेरे बंद कमरे - नरेश मेहता",
+        "नई पौध - कमलेश्वर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "'Andhere Band Kamre' is a novel by Mohan Rakesh (not by Naresh Mehta) and 'Nai Paudh' is a novel by Nagarjuna (not by Kamleshwar). Option (D) is correct because two pairs are wrong.",
+      "tip": "",
+      "id": 5,
+      "options_hi": [
+        "जुलूस - फणीश्वरनाथ रेणु",
+        "अँधेरे बंद कमरे - नरेश मेहता",
+        "नई पौध - कमलेश्वर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Andhere Band Kamre' is a novel by Mohan Rakesh (not by Naresh Mehta) and 'Nai Paudh' is a novel by Nagarjuna (not by Kamleshwar). Option (D) is correct because two pairs are wrong.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Primary Teacher Question Booklet - Advt. 21/2023 | काव्यशास्त्र - शब्द-शक्ति परिभाषा",
+      "en": "The power of words through which direct knowledge of the directly indicated or main meaning is known is called",
+      "hi": "वह शब्द-शक्ति जिसके द्वारा साक्षात् संकेतित या मुख्य अर्थ का सीधा ज्ञान होता है, उसे कहते हैं",
+      "options": [
+        "अभिधा",
+        "लक्षणा",
+        "व्यंजना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अभिधा",
+      "explanation": "The business that conveys the main meaning (verbal meaning or directly indicated meaning) is called 'Abhidha Shabd-Shakti'. According to Mammat: 'Syadvachyortho'bhidheyastaduchyate'.",
+      "tip": "",
+      "id": 6,
+      "options_hi": [
+        "अभिधा",
+        "लक्षणा",
+        "व्यंजना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The business that conveys the main meaning (verbal meaning or directly indicated meaning) is called 'Abhidha Shabd-Shakti'. According to Mammat: 'Syadvachyortho'bhidheyastaduchyate'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | काव्य विधा वर्गीकरण",
+      "en": "Maithili Sharan Gupt's work 'Yashodhara' comes under which poetry genre?",
+      "hi": "मैथिलीशरण गुप्त की रचना 'यशोधरा' किस काव्य-विधा के अंतर्गत आती है?",
+      "options": [
+        "महाकाव्य",
+        "खण्डकाव्य",
+        "चम्पू काव्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "चम्पू काव्य",
+      "explanation": "'Yashodhara' (1932 AD) written by Maithili Sharan Gupt is a work written in mixed form of prose and poetry, hence it is called 'Champu Kavya' from the classical point of view.",
+      "tip": "",
+      "id": 7,
+      "options_hi": [
+        "महाकाव्य",
+        "खण्डकाव्य",
+        "चम्पू काव्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Yashodhara' (1932 AD) written by Maithili Sharan Gupt is a work written in mixed form of prose and poetry, hence it is called 'Champu Kavya' from the classical point of view.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | आदिकाल - जैन साहित्यकार",
+      "en": "Who among these are ancient Jain writers?",
+      "hi": "इनमें से कौन आदिकालीन जैन साहित्यकार हैं?",
+      "options": [
+        "चर्पट",
+        "नरपतिनाल्ह",
+        "नागार्जुन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "उपर्युक्त में से कोई नहीं",
+      "explanation": "Charpat and Nagarjuna are Siddhas/Yogis of Nath literature, and Narpatinalh is the poet of Raso literature (Veergatha). Prominent Jain writers are Shalibhadra Suri, Asagu, Jinadharma Suri, Swayambhu and Pushpadanta. Hence (E) is correct.",
+      "tip": "",
+      "id": 8,
+      "options_hi": [
+        "चर्पट",
+        "नरपतिनाल्ह",
+        "नागार्जुन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Charpat and Nagarjuna are Siddhas/Yogis of Nath literature, and Narpatinalh is the poet of Raso literature (Veergatha). Prominent Jain writers are Shalibhadra Suri, Asagu, Jinadharma Suri, Swayambhu and Pushpadanta. Hence (E) is correct.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | कवि एवं काल सुमेलन",
+      "en": "Which pair is correct if you match the following poets with their period?",
+      "hi": "निम्नलिखित कवियों को उनके काल से सुमेलित करने पर कौन-सा युग्म सही है?",
+      "options": [
+        "नाभादास - भक्तिकाल",
+        "चन्दबरदाई - आदिकाल",
+        "बदरीनारायण चौधरी 'प्रेमघन' - आधुनिक काल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "Chandbardai is a poet of ancient times; Nabhadas (author of 'Bhaktamal') belongs to the Bhakti period; And Premghan is a poet of modern times (Bharatendu Mandal). Option (D) is correct as all three are matched.",
+      "tip": "",
+      "id": 9,
+      "options_hi": [
+        "नाभादास - भक्तिकाल",
+        "चन्दबरदाई - आदिकाल",
+        "बदरीनारायण चौधरी 'प्रेमघन' - आधुनिक काल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Chandbardai is a poet of ancient times; Nabhadas (author of 'Bhaktamal') belongs to the Bhakti period; And Premghan is a poet of modern times (Bharatendu Mandal). Option (D) is correct as all three are matched.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | उपन्यास एवं उपन्यासकार सुमेलन",
+      "en": "Who is the author of the novel 'Tyagapatra' (1937 AD)?",
+      "hi": "उपन्यास 'त्यागपत्र' (1937 ई०) के लेखक कौन हैं?",
+      "options": [
+        "प्रेमचंद",
+        "जैनेन्द्र कुमार",
+        "जयशंकर प्रसाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "जैनेन्द्र कुमार",
+      "explanation": "'Tyagapatra' is a famous novel by psychoanalytic novelist Jainendra Kumar, in which the psychological suffering of the main character 'Mrinal' has been depicted.",
+      "tip": "",
+      "id": 10,
+      "options_hi": [
+        "प्रेमचंद",
+        "जैनेन्द्र कुमार",
+        "जयशंकर प्रसाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Tyagapatra' is a famous novel by psychoanalytic novelist Jainendra Kumar, in which the psychological suffering of the main character 'Mrinal' has been depicted.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | आचार्य शुक्ल - आधुनिक काल नामकरण",
+      "en": "Acharya Ramchandra Shukla has named the modern period of the history of Hindi literature as",
+      "hi": "आचार्य रामचंद्र शुक्ल ने हिन्दी साहित्य के इतिहास के आधुनिक काल का नामकरण किया है",
+      "options": [
+        "आधुनिक काल",
+        "स्वतंत्रता काल",
+        "गद्यकाल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "Acharya Shukla, while naming this period dually, has called this period both 'Prose period' on the basis of trend and 'Modern period' on the basis of general chronology. Hence option (D) is correct.",
+      "tip": "",
+      "id": 11,
+      "options_hi": [
+        "आधुनिक काल",
+        "स्वतंत्रता काल",
+        "गद्यकाल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acharya Shukla, while naming this period dually, has called this period both 'Prose period' on the basis of trend and 'Modern period' on the basis of general chronology. Hence option (D) is correct.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | हिन्दी पत्रकारिता",
+      "en": "Which of these prominent litterateurs is highly famous as a freedom fighter and fearless journalist?",
+      "hi": "इनमें से कौन प्रमुख साहित्यकार स्वतंत्रता सेनानी और निडर पत्रकार के रूप में अत्यधिक प्रसिद्ध हैं?",
+      "options": [
+        "सुदर्शन",
+        "श्यामसुंदर दास",
+        "गणेशशंकर विद्यार्थी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "गणेशशंकर विद्यार्थी",
+      "explanation": "Ganeshshankar Vidyarthi gave a new direction to the national movement and journalism by editing the famous national revolutionary weekly paper 'Pratap' (1913 AD) from Kanpur.",
+      "tip": "",
+      "id": 12,
+      "options_hi": [
+        "सुदर्शन",
+        "श्यामसुंदर दास",
+        "गणेशशंकर विद्यार्थी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ganeshshankar Vidyarthi gave a new direction to the national movement and journalism by editing the famous national revolutionary weekly paper 'Pratap' (1913 AD) from Kanpur.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | साहित्येतिहास ग्रंथ",
+      "en": "Who is the author of the literary history book 'Shiv Singh Saroj' (1883 AD)?",
+      "hi": "'शिवसिंह सरोज' (1883 ई०) साहित्येतिहास ग्रंथ के लेखक कौन हैं?",
+      "options": [
+        "शिवसिंह सेंगर",
+        "मिश्रबंधु",
+        "रामचंद्र शुक्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "शिवसिंह सेंगर",
+      "explanation": "'Shiv Singh Saroj' is the first history book of Hindi literature written by an Indian scholar in Hindi language, in which the biographies of about 1,000 language poets are given.",
+      "tip": "",
+      "id": 13,
+      "options_hi": [
+        "शिवसिंह सेंगर",
+        "मिश्रबंधु",
+        "रामचंद्र शुक्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Shiv Singh Saroj' is the first history book of Hindi literature written by an Indian scholar in Hindi language, in which the biographies of about 1,000 language poets are given.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | कामायनी - अलंकार",
+      "en": "“The blue dress is soft in the middle, the soft half-open body is opening, it is like the flower of lightning is blooming, the pink color is in the middle of the cloud forest.” Which figure of speech is there in the above passage?",
+      "hi": "“नील परिधान बीच सुकुमार, खुल रहा मृदुल अधखुला अंग। खिला हो ज्यों बिजली का फूल, मेघवन बीच गुलाबी रंग॥” उक्त पद्यांश में कौन-सा अलंकार है?",
+      "options": [
+        "उपमा",
+        "उत्प्रेक्षा",
+        "विरोधाभास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "उत्प्रेक्षा",
+      "explanation": "In this line of Shraddha Sarga of 'Kamayani' written by Jaishankar Prasad, the word 'jyon' has come and in the beauty of Shraddha in blue clothes, the possibility of lightning flower in the cloud forest has been suggested.",
+      "tip": "",
+      "id": 14,
+      "options_hi": [
+        "उपमा",
+        "उत्प्रेक्षा",
+        "विरोधाभास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In this line of Shraddha Sarga of 'Kamayani' written by Jaishankar Prasad, the word 'jyon' has come and in the beauty of Shraddha in blue clothes, the possibility of lightning flower in the cloud forest has been suggested.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | द्विवेदी युग - प्रियप्रवास",
+      "en": "\"The end of the day was near, the sky was turning a little red. Now the glow of the royal, Kamalini-Kul-Vallabha was on the tree-top.\" This is the opening line of which famous epic?",
+      "hi": "“दिवस का अवसान समीप था, गगन था कुछ लोहित हो चला। तरु-शिखा पर थी अब राजती, कमलिनी-कुल-वल्लभ की प्रभा॥” यह किस प्रसिद्ध महाकाव्य की प्रारंभिक पंक्ति है?",
+      "options": [
+        "साकेत",
+        "कामायनी",
+        "प्रियप्रवास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "प्रियप्रवास",
+      "explanation": "This is the first invocation line of 'Priyapravas' (1914 AD - 17 canto) written by Ayodhya Singh Upadhyay 'Hariaudh', which is considered the first epic of Khadi Boli Hindi.",
+      "tip": "",
+      "id": 15,
+      "options_hi": [
+        "साकेत",
+        "कामायनी",
+        "प्रियप्रवास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This is the first invocation line of 'Priyapravas' (1914 AD - 17 canto) written by Ayodhya Singh Upadhyay 'Hariaudh', which is considered the first epic of Khadi Boli Hindi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Middle Teacher Question Booklet Hindi | रस सिद्धांत - विभाव",
+      "en": "What is the nature of 'Vibhava' in the process of Rasa Nishpatti?",
+      "hi": "रस निष्पत्ति की प्रक्रिया में 'विभाव' का क्या स्वरूप है?",
+      "options": [
+        "विभाव भाव के उद्बोध का कारण है",
+        "विभाव स्थायीभाव है",
+        "विभाव अनुभाव है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "विभाव भाव के उद्बोध का कारण है",
+      "explanation": "Vibhava are those factors, circumstances or characters which awaken and stimulate the permanent feelings dormant in the heart of the heart. It has two types: support potential and excitation potential.",
+      "tip": "",
+      "id": 16,
+      "options_hi": [
+        "विभाव भाव के उद्बोध का कारण है",
+        "विभाव स्थायीभाव है",
+        "विभाव अनुभाव है",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vibhava are those factors, circumstances or characters which awaken and stimulate the permanent feelings dormant in the heart of the heart. It has two types: support potential and excitation potential.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | उपन्यास सुमेलन",
+      "en": "Who is the author of the satirical novel 'Raag Darbari' (1968 AD)?",
+      "hi": "'राग दरबारी' (1968 ई०) व्यंग्य उपन्यास के लेखक कौन हैं?",
+      "options": [
+        "मन्नू भंडारी",
+        "कृष्णा सोबती",
+        "श्रीलाल शुक्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "श्रीलाल शुक्ल",
+      "explanation": "'Raag Darbari' is a Sahitya Akademi award-winning satirical novel by Shrilal Shukla on the moral decline of the administrative system and politics of independent India, set in the background of Shivpalganj village.",
+      "tip": "",
+      "id": 17,
+      "options_hi": [
+        "मन्नू भंडारी",
+        "कृष्णा सोबती",
+        "श्रीलाल शुक्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Raag Darbari' is a Sahitya Akademi award-winning satirical novel by Shrilal Shukla on the moral decline of the administrative system and politics of independent India, set in the background of Shivpalganj village.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | कहानी - उसने कहा था",
+      "en": "He is the author of Hindi's first classic story 'Usne Kaha Tha' (1915 AD) based on flashback technique.",
+      "hi": "फ्लैशबैक (पूर्वदीप्ति) तकनीक पर आधारित हिन्दी की पहली कालजयी कहानी 'उसने कहा था' (1915 ई०) के लेखक हैं",
+      "options": [
+        "चंद्रधर शर्मा 'गुलेरी'",
+        "फणीश्वरनाथ रेणु",
+        "भीष्म साहनी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "चंद्रधर शर्मा 'गुलेरी'",
+      "explanation": "The author of the story 'Usne Kaha Tha' published in 'Saraswati' in June 1915 is Pt. Chandradhar Sharma Guleri. Its immortal characters are Lahna Singh, Subedarni, and Bodha Singh.",
+      "tip": "",
+      "id": 18,
+      "options_hi": [
+        "चंद्रधर शर्मा 'गुलेरी'",
+        "फणीश्वरनाथ रेणु",
+        "भीष्म साहनी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The author of the story 'Usne Kaha Tha' published in 'Saraswati' in June 1915 is Pt. Chandradhar Sharma Guleri. Its immortal characters are Lahna Singh, Subedarni, and Bodha Singh.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | अलंकार - उपमा के अंग",
+      "en": "What is 'Upameya' in 'Pipar Paat Saris Man Dola'?",
+      "hi": "'पीपर पात सरिस मन डोला' में 'उपमेय' क्या है?",
+      "options": [
+        "पीपर पात",
+        "मन",
+        "डोला",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "मन",
+      "explanation": "Four parts of simile: The one to be compared (Upameya) = 'mind'; Due to which simile is given (simile) = 'pepper leaf'; Similar word = 'Sari'; Same qualities (ordinary religion) = 'Dola'.",
+      "tip": "",
+      "id": 19,
+      "options_hi": [
+        "पीपर पात",
+        "मन",
+        "डोला",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Four parts of simile: The one to be compared (Upameya) = 'mind'; Due to which simile is given (simile) = 'pepper leaf'; Similar word = 'Sari'; Same qualities (ordinary religion) = 'Dola'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | अलंकार - विरोधाभास",
+      "en": "“No one can understand the speed of the lover's mind. As the black color grew older, it became brighter and brighter.” What ornament is there in this?",
+      "hi": "“या अनुरागी चित्त की, गति समुझै नहिं कोई। ज्यों-ज्यों बूड़ै स्याम रंग, त्यों-त्यों उज्जलु होई॥” इसमें कौन-सा अलंकार है?",
+      "options": [
+        "रूपक",
+        "उत्प्रेक्षा",
+        "विरोधाभास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "विरोधाभास",
+      "explanation": "In this couplet of Biharilal, the direct opposition of becoming bright (white/pure) by being immersed in black color (black color) has been shown, but the real meaning is for the mind to become sinless by being absorbed in the devotion of Shri Krishna.",
+      "tip": "",
+      "id": 20,
+      "options_hi": [
+        "रूपक",
+        "उत्प्रेक्षा",
+        "विरोधाभास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In this couplet of Biharilal, the direct opposition of becoming bright (white/pure) by being immersed in black color (black color) has been shown, but the real meaning is for the mind to become sinless by being absorbed in the devotion of Shri Krishna.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | अलंकार - उत्प्रेक्षा",
+      "en": "“Kaikai said very harsh words. I gave you a loan at some point.” What ornament is there in this?",
+      "hi": "“अति कटु वचन कहति कैकेई। मानहु लोन जरे पर देई॥” इसमें कौन-सा अलंकार है?",
+      "options": [
+        "विरोधाभास",
+        "उत्प्रेक्षा",
+        "रूपक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "उत्प्रेक्षा",
+      "explanation": "In this line written by Tulsidas, there is a possibility of 'sprinkling salt on the burn' in Kaikeyi's bitter words. The word 'Manhu' is indicative of Utpreksha Alankar.",
+      "tip": "",
+      "id": 21,
+      "options_hi": [
+        "विरोधाभास",
+        "उत्प्रेक्षा",
+        "रूपक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In this line written by Tulsidas, there is a possibility of 'sprinkling salt on the burn' in Kaikeyi's bitter words. The word 'Manhu' is indicative of Utpreksha Alankar.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | अलंकार - उपमा",
+      "en": "“The body like wax has now dissolved, the mind like lamp has now burnt.” What ornament is there in this?",
+      "hi": "“मोम-सा तन घुल चुका अब, दीप-सा मन जल चुका अब।” इसमें कौन-सा अलंकार है?",
+      "options": [
+        "उत्प्रेक्षा",
+        "उपमा",
+        "रूपक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "उपमा",
+      "explanation": "In this line written by Mahadevi Verma, an analogical comparison of the body with wax and the mind with a lamp has been made through the word 'sa'. Hence here there is Purnopama Alankar.",
+      "tip": "",
+      "id": 22,
+      "options_hi": [
+        "उत्प्रेक्षा",
+        "उपमा",
+        "रूपक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In this line written by Mahadevi Verma, an analogical comparison of the body with wax and the mind with a lamp has been made through the word 'sa'. Hence here there is Purnopama Alankar.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | छंद शास्त्र - चौपाई",
+      "en": "“As there is no fear in my eyes, my eyes are full of fear.” What rhyme scheme is there in it?",
+      "hi": "“अस कहि फिरि चितइ तेहि ओरा। सिय मुख ससि भय नयन चकोरा॥” इसमें किस छंद की योजना है?",
+      "options": [
+        "दोहा",
+        "सोरठा",
+        "चौपाई",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "चौपाई",
+      "explanation": "This is a line from 'Ramcharitmanas'. Chaupai is an even metered verse whose each stanza has 16-16 matras and at the end of the stanza there is prohibition of Jagan (.ཽ.) and Tagan (ཽ.).",
+      "tip": "",
+      "id": 23,
+      "options_hi": [
+        "दोहा",
+        "सोरठा",
+        "चौपाई",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This is a line from 'Ramcharitmanas'. Chaupai is an even metered verse whose each stanza has 16-16 matras and at the end of the stanza there is prohibition of Jagan (.ཽ.) and Tagan (ཽ.).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | छंद शास्त्र - रोला",
+      "en": "Which even matraic verse has 24 matras in each stanza and yeti on eleven and thirteen matras?",
+      "hi": "किस सम मात्रिक छंद के प्रत्येक चरण में 24 मात्राएँ होती हैं और ग्यारह तथा तेरह मात्राओं पर यति होती है?",
+      "options": [
+        "रोला",
+        "दोहा",
+        "गीतिका",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "रोला",
+      "explanation": "'Rola' is an even metered verse with 24 matras in each stanza and a pause at 11 and 13 matras. Couplet is a semi-uniform verse.",
+      "tip": "",
+      "id": 24,
+      "options_hi": [
+        "रोला",
+        "दोहा",
+        "गीतिका",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Rola' is an even metered verse with 24 matras in each stanza and a pause at 11 and 13 matras. Couplet is a semi-uniform verse.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | काव्य-गुण",
+      "en": "According to Acharya Mammat and Anandvardhan, how many main types of poetic qualities are generally accepted?",
+      "hi": "आचार्य मम्मट तथा आनंदवर्धन के अनुसार सामान्य रूप से काव्य-गुण के कितने मुख्य भेद स्वीकार किए गए हैं?",
+      "options": [
+        "तीन",
+        "पाँच",
+        "सात",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तीन",
+      "explanation": "Bharatmuni and Dandi had considered 10 qualities, but Acharya Bhamah, Anandvardhan and Mammat refined them and established three universally accepted poetic qualities: 1. Madhurya, 2. Oz, 3. Prasad.",
+      "tip": "",
+      "id": 25,
+      "options_hi": [
+        "तीन",
+        "पाँच",
+        "सात",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bharatmuni and Dandi had considered 10 qualities, but Acharya Bhamah, Anandvardhan and Mammat refined them and established three universally accepted poetic qualities: 1. Madhurya, 2. Oz, 3. Prasad.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | काव्य-गुण - ओज गुण",
+      "en": "“Leave their story behind, go to the plains of Jhansi. Where Lakshmibai fought, became a man among men.” What poetic quality is there in it?",
+      "hi": "“इनकी गाथा छोड़ चलो, झाँसी के मैदानों में। जहाँ लड़ी थी लक्ष्मीबाई, मर्द बनी मर्दानों में॥” इसमें कौन-सा काव्य-गुण है?",
+      "options": [
+        "माधुर्य",
+        "ओज",
+        "प्रसाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "ओज",
+      "explanation": "This line written by Subhadra Kumari Chauhan has heroic enthusiasm, luminous expansion of mind and the effect of conjuncts, which clearly expresses the quality of 'Ojas'.",
+      "tip": "",
+      "id": 26,
+      "options_hi": [
+        "माधुर्य",
+        "ओज",
+        "प्रसाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This line written by Subhadra Kumari Chauhan has heroic enthusiasm, luminous expansion of mind and the effect of conjuncts, which clearly expresses the quality of 'Ojas'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | काव्य-गुण - माधुर्य गुण",
+      "en": "“The playful rays of Charu Moon were playing in the water and land. Clear moonlight was spread in the golden and amber bottom.” What poetic quality is planned in these lines?",
+      "hi": "“चारु चंद्र की चंचल किरणें, खेल रही थीं जल-थल में। स्वच्छ चाँदनी बिछी हुई है, अवनि और अम्बर तल में॥” इन पंक्तियों में किस काव्य-गुण की योजना है?",
+      "options": [
+        "माधुर्य",
+        "ओज",
+        "प्रसाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "माधुर्य",
+      "explanation": "This line of 'Panchavati' written by Maithili Sharan Gupta has soft, sweet alliteration, pleasant alliteration and sweetness that melts the mind, which is a symptom of 'Madhurya Guna'.",
+      "tip": "",
+      "id": 27,
+      "options_hi": [
+        "माधुर्य",
+        "ओज",
+        "प्रसाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This line of 'Panchavati' written by Maithili Sharan Gupta has soft, sweet alliteration, pleasant alliteration and sweetness that melts the mind, which is a symptom of 'Madhurya Guna'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | रस शास्त्र - रसों की संख्या",
+      "en": "In Hindi, how many new rasas have been added by the later masters to the traditional 9 rasas of Sanskrit and are considered as 11 rasas?",
+      "hi": "हिन्दी में संस्कृत के परम्परागत 9 रसों में परवर्ती आचार्यों द्वारा कितने नए रस जोड़कर 11 रस माने गए हैं?",
+      "options": [
+        "दो",
+        "तीन",
+        "चार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "दो",
+      "explanation": "Navaras were valid in Sanskrit. Later Acharyas (Vishwanath, Rupagoswami etc.) added the 10th 'Vatsalya Rasa' (permanent feeling - affection) and the 11th 'Bhakti Rasa' (permanent feeling - love for God). Hence 2 new rasas were added.",
+      "tip": "",
+      "id": 28,
+      "options_hi": [
+        "दो",
+        "तीन",
+        "चार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Navaras were valid in Sanskrit. Later Acharyas (Vishwanath, Rupagoswami etc.) added the 10th 'Vatsalya Rasa' (permanent feeling - affection) and the 11th 'Bhakti Rasa' (permanent feeling - love for God). Hence 2 new rasas were added.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | रस शास्त्र - शांत रस",
+      "en": "What is the permanent meaning of Shanta Rasa?",
+      "hi": "शांत रस का स्थायी भाव क्या है?",
+      "options": [
+        "करुण",
+        "विस्मय",
+        "निर्वेद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "निर्वेद",
+      "explanation": "The permanent feeling of renunciation or mental peace arising from the insignificance of the world and the attainment of Tatvgyan is called 'Nirveda' (Sham), which results in Shanta Rasa.",
+      "tip": "",
+      "id": 29,
+      "options_hi": [
+        "करुण",
+        "विस्मय",
+        "निर्वेद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The permanent feeling of renunciation or mental peace arising from the insignificance of the world and the attainment of Tatvgyan is called 'Nirveda' (Sham), which results in Shanta Rasa.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | रस शास्त्र - भयानक रस",
+      "en": "“Baldhi, bisal, bikrala, like a web of flame, the ooze of darkness has spread to the Lank Lilybe.” What essence has matured in these lines?",
+      "hi": "“बालधी बिसाल बिकराल ज्वाल-जाल मानों, लंक लीलिबे को काल रसना पसारी है।” इन पंक्तियों में किस रस का परिपाक हुआ है?",
+      "options": [
+        "हास्य रस",
+        "भयानक रस",
+        "शांत रस",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "भयानक रस",
+      "explanation": "In the Lanka Dahan episode of 'Kavitavali' written by Tulsidas, seeing Hanuman ji's huge tail flaming in fire instills immense fear of death and time among the people of Lanka, hence it has a terrible flavor.",
+      "tip": "",
+      "id": 30,
+      "options_hi": [
+        "हास्य रस",
+        "भयानक रस",
+        "शांत रस",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In the Lanka Dahan episode of 'Kavitavali' written by Tulsidas, seeing Hanuman ji's huge tail flaming in fire instills immense fear of death and time among the people of Lanka, hence it has a terrible flavor.",
+      "tip_hi": ""
+    }
+  ]
+}

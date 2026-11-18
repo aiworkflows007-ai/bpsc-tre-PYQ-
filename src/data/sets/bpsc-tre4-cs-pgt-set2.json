@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-cs-pgt-set2",
+  "title": "Computer Science Practice Set 2 (PGT Class 11-12 — Part 2)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Computer Science",
+  "filename": "bpsc-tre4-cs-pgt-set2.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A constructor is called whenever",
+      "hi": "एक constructor को कॉल किया जाता है, जब कभी भी",
+      "options": [
+        "an object is created",
+        "a class is created",
+        "a class is declared",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "an object is created",
+      "explanation": "Declaring a class creates no object memory; object instantiation automatically triggers constructor execution.",
+      "tip": "Declaring a class creates no object memory; object instantiation automatically triggers constructor execution.",
+      "id": 1,
+      "options_hi": [
+        "an object is created",
+        "a class is created",
+        "a class is declared",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "किसी वर्ग की घोषणा करने से कोई ऑब्जेक्ट मेमोरी नहीं बनती; ऑब्जेक्ट इन्स्टेन्शियशन स्वचालित रूप से कंस्ट्रक्टर निष्पादन को ट्रिगर करता है।",
+      "tip_hi": "किसी वर्ग की घोषणा करने से कोई ऑब्जेक्ट मेमोरी नहीं बनती; ऑब्जेक्ट इन्स्टेन्शियशन स्वचालित रूप से कंस्ट्रक्टर निष्पादन को ट्रिगर करता है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "All members of a structure in C++ are _____ by default.",
+      "hi": "C++ में, structure के सभी सदस्य डिफॉल्ट रूप से _____ होते हैं।",
+      "options": [
+        "public",
+        "private",
+        "protected",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "public",
+      "explanation": "Fundamental C++ interview rule: `struct` = public by default; `class` = private by default.",
+      "tip": "Fundamental C++ interview rule: `struct` = public by default; `class` = private by default.",
+      "id": 2,
+      "options_hi": [
+        "public",
+        "private",
+        "protected",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मौलिक C++ साक्षात्कार नियम: `struct` = डिफ़ॉल्ट रूप से सार्वजनिक; `वर्ग` = डिफ़ॉल्ट रूप से निजी।",
+      "tip_hi": "मौलिक C++ साक्षात्कार नियम: `struct` = डिफ़ॉल्ट रूप से सार्वजनिक; `वर्ग` = डिफ़ॉल्ट रूप से निजी।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In C++, all members of a class are _____ by default.",
+      "hi": "C++ में, class के सभी सदस्य डिफॉल्ट रूप से _____ होते हैं।",
+      "options": [
+        "public",
+        "private",
+        "protected",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "private",
+      "explanation": "Structure vs Class access defaults is one of BPSC's most frequently repeated questions.",
+      "tip": "Structure vs Class access defaults is one of BPSC's most frequently repeated questions.",
+      "id": 3,
+      "options_hi": [
+        "public",
+        "private",
+        "protected",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "स्ट्रक्चर बनाम क्लास एक्सेस डिफॉल्ट बीपीएससी के सबसे अधिक बार दोहराए जाने वाले प्रश्नों में से एक है।",
+      "tip_hi": "स्ट्रक्चर बनाम क्लास एक्सेस डिफॉल्ट बीपीएससी के सबसे अधिक बार दोहराए जाने वाले प्रश्नों में से एक है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In C++, what does a class hold?",
+      "hi": "C++ में, class के अन्दर क्या होता है?",
+      "options": [
+        "Array",
+        "Data",
+        "Data and functions",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Data and functions",
+      "explanation": "Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods).",
+      "tip": "Object-Oriented Definition: Class encapsulates data members (attributes) and member functions (methods).",
+      "id": 4,
+      "options_hi": [
+        "Array",
+        "Data",
+        "Data and functions",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ऑब्जेक्ट-ओरिएंटेड परिभाषा: क्लास डेटा सदस्यों (विशेषताओं) और सदस्य कार्यों (विधियों) को समाहित करता है।",
+      "tip_hi": "ऑब्जेक्ट-ओरिएंटेड परिभाषा: क्लास डेटा सदस्यों (विशेषताओं) और सदस्य कार्यों (विधियों) को समाहित करता है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The number of access specifiers in class of C++ is",
+      "hi": "C++ के class में, access specifiers की संख्या है",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "3",
+      "explanation": "Remember the three C++ access specifiers: Public, Private, and Protected.",
+      "tip": "Remember the three C++ access specifiers: Public, Private, and Protected.",
+      "id": 5,
+      "options_hi": [
+        "2",
+        "3",
+        "4",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "तीन C++ एक्सेस विनिर्देशक याद रखें: सार्वजनिक, निजी और संरक्षित।",
+      "tip_hi": "तीन C++ एक्सेस विनिर्देशक याद रखें: सार्वजनिक, निजी और संरक्षित।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following is used to define the members of a class externally in C++?",
+      "hi": "निम्नांकित में से किसका C++ में class के सदस्यों को बाहर से परिभाषित करने के लिए प्रयोग किया जाता है?",
+      "options": [
+        ":",
+        "::",
+        "#",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "::",
+      "explanation": "Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator.",
+      "tip": "Single colon `:` = Inheritance & constructor initialization; Double colon `::` = Scope Resolution Operator.",
+      "id": 6,
+      "options_hi": [
+        ":",
+        "::",
+        "#",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एकल कोलन `:` = वंशानुक्रम और कंस्ट्रक्टर आरंभीकरण; डबल कोलन `::` = स्कोप रिज़ॉल्यूशन ऑपरेटर।",
+      "tip_hi": "एकल कोलन `:` = वंशानुक्रम और कंस्ट्रक्टर आरंभीकरण; डबल कोलन `::` = स्कोप रिज़ॉल्यूशन ऑपरेटर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which concept of C++ is used to reuse the written code?",
+      "hi": "C++ का कौन-सा concept लिखे गए code को दुबारा प्रयोग करने के लिए प्रयोग होता है?",
+      "options": [
+        "Polymorphism",
+        "Inheritance",
+        "Encapsulation",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Inheritance",
+      "explanation": "Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism.",
+      "tip": "Code Reusability = Inheritance; Data Security = Encapsulation; Function Overloading / Dynamic Binding = Polymorphism.",
+      "id": 7,
+      "options_hi": [
+        "Polymorphism",
+        "Inheritance",
+        "Encapsulation",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कोड पुन: प्रयोज्यता = वंशानुक्रम; डेटा सुरक्षा = एनकैप्सुलेशन; फ़ंक्शन ओवरलोडिंग/डायनामिक बाइंडिंग = बहुरूपता।",
+      "tip_hi": "कोड पुन: प्रयोज्यता = वंशानुक्रम; डेटा सुरक्षा = एनकैप्सुलेशन; फ़ंक्शन ओवरलोडिंग/डायनामिक बाइंडिंग = बहुरूपता।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What will be the output of the following program fragment?int i = 10;",
+      "hi": "निम्नलिखित प्रोग्राम अंश का आउटपुट क्या होगा?\n\nint i = 0;\nfor (i = 0; i < 20; i++) {\n  switch (i) {\n    case 0: i += 5;\n    case 1: i += 2;\n    case 5: i += 5;\n    default: i += 4;\n    break;\n  }\n  cout << i;\n}",
+      "options": [
+        "30, 10",
+        "30, 20",
+        "20, 30",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "30, 10",
+      "explanation": "Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable.",
+      "tip": "Unary `::identifier` always bypasses all enclosing local function scopes and accesses the global variable.",
+      "id": 8,
+      "options_hi": [
+        "30, 10",
+        "30, 20",
+        "20, 30",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "यूनरी `::identifier` हमेशा सभी संलग्न स्थानीय फ़ंक्शन स्कोप को बायपास करता है और वैश्विक चर तक पहुंचता है।",
+      "tip_hi": "यूनरी `::identifier` हमेशा सभी संलग्न स्थानीय फ़ंक्शन स्कोप को बायपास करता है और वैश्विक चर तक पहुंचता है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Choose the correct statement about inline function in C++.",
+      "hi": "C++ में, inline function के बारे में सही कथन को चुनें।",
+      "options": [
+        "It speeds up the execution.",
+        "It slows down the execution.",
+        "It decreases the code size.",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "It speeds up the execution.",
+      "explanation": "Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead.",
+      "tip": "Inline functions trade off larger binary executable size for faster execution speed by eliminating call overhead.",
+      "id": 9,
+      "options_hi": [
+        "It speeds up the execution.",
+        "It slows down the execution.",
+        "It decreases the code size.",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "इनलाइन फ़ंक्शंस कॉल ओवरहेड को समाप्त करके तेज़ निष्पादन गति के लिए बड़े बाइनरी निष्पादन योग्य आकार का व्यापार करते हैं।",
+      "tip_hi": "इनलाइन फ़ंक्शंस कॉल ओवरहेड को समाप्त करके तेज़ निष्पादन गति के लिए बड़े बाइनरी निष्पादन योग्य आकार का व्यापार करते हैं।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What will be the output of the following?int a = 5;",
+      "hi": "निम्नलिखित कोड का आउटपुट क्या होगा?\n\nint a = 5;\nint b = a++;\ncout << b << \" \" << a;",
+      "options": [
+        "FIRST 52 SECOND",
+        "FIRST 20 SECOND",
+        "SECOND 25 FIRST",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "FIRST 20 SECOND",
+      "explanation": "Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20.",
+      "tip": "Left shift: `x << n = x * 2^n`; Right shift: `x >> n = x / 2^n`. Here 5 * 2^2 = 20.",
+      "id": 10,
+      "options_hi": [
+        "FIRST 52 SECOND",
+        "FIRST 20 SECOND",
+        "SECOND 25 FIRST",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बायां बदलाव: `x << n = x * 2^n`; दायां शिफ्ट: `x >> n = x / 2^n`। यहाँ 5 * 2^2 = 20।",
+      "tip_hi": "बायां बदलाव: `x << n = x * 2^n`; दायां शिफ्ट: `x >> n = x / 2^n`। यहाँ 5 * 2^2 = 20।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "cout in C++ stands for",
+      "hi": "C++ में cout का प्रयोग किसके लिए होता है?",
+      "options": [
+        "class output",
+        "character output",
+        "common output",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "character output",
+      "explanation": "Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error.",
+      "tip": "Standard streams: `cin` = Character input; `cout` = Character output; `cerr` = Character error.",
+      "id": 11,
+      "options_hi": [
+        "class output",
+        "character output",
+        "common output",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मानक धाराएँ: `cin` = कैरेक्टर इनपुट; `काउट` = कैरेक्टर आउटपुट; `cerr` = वर्ण त्रुटि.",
+      "tip_hi": "मानक धाराएँ: `cin` = कैरेक्टर इनपुट; `काउट` = कैरेक्टर आउटपुट; `cerr` = वर्ण त्रुटि."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Group of instructions that directs a computer is called",
+      "hi": "कम्प्यूटर को दिशा देने वाले instructions के समूह को कहा जाता है",
+      "options": [
+        "memory",
+        "storage",
+        "program",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "program",
+      "explanation": "Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software.",
+      "tip": "Instruction set = Primitive machine commands; Ordered sequence of instructions = Program; Set of programs = Software.",
+      "id": 12,
+      "options_hi": [
+        "memory",
+        "storage",
+        "program",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "निर्देश सेट = आदिम मशीन कमांड; निर्देशों का क्रमबद्ध क्रम = कार्यक्रम; प्रोग्रामों का सेट = सॉफ्टवेयर।",
+      "tip_hi": "निर्देश सेट = आदिम मशीन कमांड; निर्देशों का क्रमबद्ध क्रम = कार्यक्रम; प्रोग्रामों का सेट = सॉफ्टवेयर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program consists of",
+      "hi": "कम्प्यूटर प्रोग्राम में होता है",
+      "options": [
+        "system flowchart",
+        "program flowchart",
+        "algorithms written in computer language",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "algorithms written in computer language",
+      "explanation": "Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language.",
+      "tip": "Algorithm = Step-by-step logic; Flowchart = Graphical representation; Program = Algorithmic code in programming language.",
+      "id": 13,
+      "options_hi": [
+        "system flowchart",
+        "program flowchart",
+        "algorithms written in computer language",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एल्गोरिथम = चरण-दर-चरण तर्क; फ़्लोचार्ट = चित्रमय प्रतिनिधित्व; प्रोग्राम = प्रोग्रामिंग भाषा में एल्गोरिथम कोड।",
+      "tip_hi": "एल्गोरिथम = चरण-दर-चरण तर्क; फ़्लोचार्ट = चित्रमय प्रतिनिधित्व; प्रोग्राम = प्रोग्रामिंग भाषा में एल्गोरिथम कोड।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The topology with highest reliability is",
+      "hi": "उच्चतम विश्वसनीयता वाली टोपोलॉजी है",
+      "options": [
+        "star",
+        "ring",
+        "mesh",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "mesh",
+      "explanation": "Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus.",
+      "tip": "Maximum fault tolerance & redundancy = Mesh; Most prevalent corporate LAN = Star; Single shared central backbone = Bus.",
+      "id": 14,
+      "options_hi": [
+        "star",
+        "ring",
+        "mesh",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अधिकतम दोष सहनशीलता और अतिरेक = मेष; सर्वाधिक प्रचलित कॉर्पोरेट लैन = स्टार; एकल साझा केंद्रीय रीढ़ = बस।",
+      "tip_hi": "अधिकतम दोष सहनशीलता और अतिरेक = मेष; सर्वाधिक प्रचलित कॉर्पोरेट लैन = स्टार; एकल साझा केंद्रीय रीढ़ = बस।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "End-to-end connectivity is provided from host-to-host in",
+      "hi": "होस्ट-से-होस्ट तक एंड-टू-एंड कनेक्टिविटी किस लेयर में प्रदान की जाती है?",
+      "options": [
+        "network layer",
+        "transport layer",
+        "session layer",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "transport layer",
+      "explanation": "Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer.",
+      "tip": "Hop-to-hop link delivery = Data Link Layer; Host-to-host routing across networks = Network Layer; End-to-end process delivery = Transport Layer.",
+      "id": 15,
+      "options_hi": [
+        "network layer",
+        "transport layer",
+        "session layer",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "हॉप-टू-हॉप लिंक डिलीवरी = डेटा लिंक परत; पूरे नेटवर्क में होस्ट-टू-होस्ट रूटिंग = नेटवर्क परत; एंड-टू-एंड प्रोसेस डिलीवरी = ट्रांसपोर्ट लेयर।",
+      "tip_hi": "हॉप-टू-हॉप लिंक डिलीवरी = डेटा लिंक परत; पूरे नेटवर्क में होस्ट-टू-होस्ट रूटिंग = नेटवर्क परत; एंड-टू-एंड प्रोसेस डिलीवरी = ट्रांसपोर्ट लेयर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The _____ measures the number of lost or garbled messages as a fraction of the total sent in the network.",
+      "hi": "नेटवर्क में भेजे गए कुल संदेशों में से खोए या विकृत संदेशों की संख्या को मापने वाला अनुपात है",
+      "options": [
+        "error rate",
+        "bit rate",
+        "baud rate",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "error rate",
+      "explanation": "Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER).",
+      "tip": "Bits transferred per second = Bit rate; Signal level transitions per second = Baud rate; Proportion of flawed bits = Bit Error Rate (BER).",
+      "id": 16,
+      "options_hi": [
+        "error rate",
+        "bit rate",
+        "baud rate",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रति सेकंड हस्तांतरित बिट्स = बिट दर; प्रति सेकंड सिग्नल स्तर परिवर्तन = बॉड दर; त्रुटिपूर्ण बिट्स का अनुपात = बिट त्रुटि दर (बीईआर)।",
+      "tip_hi": "प्रति सेकंड हस्तांतरित बिट्स = बिट दर; प्रति सेकंड सिग्नल स्तर परिवर्तन = बॉड दर; त्रुटिपूर्ण बिट्स का अनुपात = बिट त्रुटि दर (बीईआर)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following transmission media has highest transmission speed?",
+      "hi": "निम्नांकित में से किस ट्रांसमिशन मीडिया में ट्रांसमिशन गति सबसे अधिक होती है?",
+      "options": [
+        "Coaxial cable",
+        "Twisted-pair cable",
+        "Fiber-optic cable",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Fiber-optic cable",
+      "explanation": "Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP).",
+      "tip": "Bandwidth hierarchy: Fiber-optic cable >> Coaxial cable > Shielded Twisted Pair (STP) > Unshielded Twisted Pair (UTP).",
+      "id": 17,
+      "options_hi": [
+        "Coaxial cable",
+        "Twisted-pair cable",
+        "Fiber-optic cable",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बैंडविड्थ पदानुक्रम: फाइबर-ऑप्टिक केबल >> समाक्षीय केबल > शील्डेड ट्विस्टेड पेयर (एसटीपी) > अनशील्डेड ट्विस्टेड पेयर (यूटीपी)।",
+      "tip_hi": "बैंडविड्थ पदानुक्रम: फाइबर-ऑप्टिक केबल >> समाक्षीय केबल > शील्डेड ट्विस्टेड पेयर (एसटीपी) > अनशील्डेड ट्विस्टेड पेयर (यूटीपी)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "_____ topology uses a single backbone cable to connect all devices together.(_____",
+      "hi": "टोपोलॉजी, एक ही जोड़ (बैकबोन केबल) का प्रयोग सभी युक्तियों को एक साथ जोड़ने के लिए करती है।)",
+      "options": [
+        "Bus",
+        "Star",
+        "Ring",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Bus",
+      "explanation": "Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring.",
+      "tip": "Single linear backbone cable = Bus; Central switch/hub = Star; Circular unidirectional ring = Ring.",
+      "id": 18,
+      "options_hi": [
+        "Bus",
+        "Star",
+        "Ring",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सिंगल लीनियर बैकबोन केबल = बस; सेंट्रल स्विच/हब = स्टार; वृत्ताकार एकदिशीय वलय = वलय.",
+      "tip_hi": "सिंगल लीनियर बैकबोन केबल = बस; सेंट्रल स्विच/हब = स्टार; वृत्ताकार एकदिशीय वलय = वलय."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A _____ connects LANs across large geographical areas.",
+      "hi": "एक _____ बड़े भौगोलिक क्षेत्रों में फैले LAN को आपस में जोड़ता है।",
+      "options": [
+        "WAN",
+        "LAN",
+        "MAN",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "WAN",
+      "explanation": "Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN.",
+      "tip": "Room/Building = LAN; City-scale = MAN (Metropolitan Area Network); Country/Global scale = WAN.",
+      "id": 19,
+      "options_hi": [
+        "WAN",
+        "LAN",
+        "MAN",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कक्ष/भवन = LAN; सिटी-स्केल = MAN (मेट्रोपॉलिटन एरिया नेटवर्क); देश/वैश्विक पैमाना = WAN.",
+      "tip_hi": "कक्ष/भवन = LAN; सिटी-स्केल = MAN (मेट्रोपॉलिटन एरिया नेटवर्क); देश/वैश्विक पैमाना = WAN."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "In computer network, what is the size of IP address in IPv4?",
+      "hi": "कम्प्यूटर नेटवर्क के IPv4 में IP एड्रेस का साइज कितना होता है?",
+      "options": [
+        "8 bits",
+        "16 bits",
+        "32 bits",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "32 bits",
+      "explanation": "Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits.",
+      "tip": "Standard Network Addresses: IPv4 = 32 bits; MAC address = 48 bits; IPv6 = 128 bits.",
+      "id": 20,
+      "options_hi": [
+        "8 bits",
+        "16 bits",
+        "32 bits",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मानक नेटवर्क पते: आईपीवी4 = 32 बिट्स; मैक पता = 48 बिट्स; आईपीवी6 = 128 बिट्स।",
+      "tip_hi": "मानक नेटवर्क पते: आईपीवी4 = 32 बिट्स; मैक पता = 48 बिट्स; आईपीवी6 = 128 बिट्स।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What is the size of MAC address in computer network?",
+      "hi": "कम्प्यूटर नेटवर्क में MAC address का साइज कितना होता है?",
+      "options": [
+        "32 bits",
+        "16 bits",
+        "48 bits",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "48 bits",
+      "explanation": "MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer).",
+      "tip": "MAC address = 48 bits (Physical / Data Link Layer); IPv4 address = 32 bits (Logical / Network Layer).",
+      "id": 21,
+      "options_hi": [
+        "32 bits",
+        "16 bits",
+        "48 bits",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मैक पता = 48 बिट्स (भौतिक/डेटा लिंक परत); IPv4 पता = 32 बिट्स (तार्किक/नेटवर्क परत)।",
+      "tip_hi": "मैक पता = 48 बिट्स (भौतिक/डेटा लिंक परत); IPv4 पता = 32 बिट्स (तार्किक/नेटवर्क परत)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "What is the name given to the act of gaining illegal entry to computer files through remote terminals or microcomputers?",
+      "hi": "दूरस्थ टर्मिनलों या माइक्रोकम्प्यूटरों के माध्यम से कम्प्यूटर फाइलों में अवैध प्रवेश प्राप्त करने के कार्य को क्या नाम दिया गया है?",
+      "options": [
+        "Hacking",
+        "Decoding",
+        "Beating the system",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Hacking",
+      "explanation": "Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing.",
+      "tip": "Unauthorized system penetration = Hacking; Intercepting network packets = Sniffing; Deceptive identity theft = Phishing.",
+      "id": 22,
+      "options_hi": [
+        "Hacking",
+        "Decoding",
+        "Beating the system",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अनधिकृत सिस्टम प्रवेश = हैकिंग; नेटवर्क पैकेट को इंटरसेप्ट करना = सूँघना; भ्रामक पहचान की चोरी = फ़िशिंग.",
+      "tip_hi": "अनधिकृत सिस्टम प्रवेश = हैकिंग; नेटवर्क पैकेट को इंटरसेप्ट करना = सूँघना; भ्रामक पहचान की चोरी = फ़िशिंग."
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer virus is a software program which has the essential ability to",
+      "hi": "कम्प्यूटर वाइरस एक सॉफ्टवेयर प्रोग्राम है, जिसमें आवश्यक क्षमता होती है",
+      "options": [
+        "damage data",
+        "damage program",
+        "clone itself",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "clone itself",
+      "explanation": "Since virus definition includes both self-replication (cloning) and payload destruction, select Option (D).",
+      "tip": "Since virus definition includes both self-replication (cloning) and payload destruction, select Option (D).",
+      "id": 23,
+      "options_hi": [
+        "damage data",
+        "damage program",
+        "clone itself",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "चूँकि वायरस की परिभाषा में स्व-प्रतिकृति (क्लोनिंग) और पेलोड विनाश दोनों शामिल हैं, विकल्प (डी) का चयन करें।",
+      "tip_hi": "चूँकि वायरस की परिभाषा में स्व-प्रतिकृति (क्लोनिंग) और पेलोड विनाश दोनों शामिल हैं, विकल्प (डी) का चयन करें।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Copying computer program/software without the permission of its authors is called",
+      "hi": "कम्प्यूटर प्रोग्राम/सॉफ्टवेयर को उसके लेखक की अनुमति के बिना कॉपी करना कहलाता है",
+      "options": [
+        "larceny",
+        "software piracy",
+        "highway robbery",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "software piracy",
+      "explanation": "Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking.",
+      "tip": "Unauthorized reproduction of copyrighted software = Software Piracy; Unauthorized access to protected computers = Hacking.",
+      "id": 24,
+      "options_hi": [
+        "larceny",
+        "software piracy",
+        "highway robbery",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कॉपीराइट सॉफ़्टवेयर का अनधिकृत पुनरुत्पादन = सॉफ़्टवेयर चोरी; संरक्षित कंप्यूटरों तक अनधिकृत पहुंच = हैकिंग।",
+      "tip_hi": "कॉपीराइट सॉफ़्टवेयर का अनधिकृत पुनरुत्पादन = सॉफ़्टवेयर चोरी; संरक्षित कंप्यूटरों तक अनधिकृत पहुंच = हैकिंग।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A hard disk becomes totally inaccessible when a computer virus corrupts",
+      "hi": "हार्ड डिस्क पूरी तरह से अप्राप्य हो जाता है, जब कम्प्यूटर वाइरस _____ को दूषित करता है।",
+      "options": [
+        "partition table",
+        "file allocation table",
+        "root directory",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option (D).",
+      "tip": "In BPSC, multiple critical structural tables render disks inaccessible when corrupted, triggering Option (D).",
+      "id": 25,
+      "options_hi": [
+        "partition table",
+        "file allocation table",
+        "root directory",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बीपीएससी में, कई महत्वपूर्ण संरचनात्मक तालिकाएं दूषित होने पर डिस्क को पहुंच से बाहर कर देती हैं, जिससे विकल्प (डी) ट्रिगर हो जाता है।",
+      "tip_hi": "बीपीएससी में, कई महत्वपूर्ण संरचनात्मक तालिकाएं दूषित होने पर डिस्क को पहुंच से बाहर कर देती हैं, जिससे विकल्प (डी) ट्रिगर हो जाता है।"
+    }
+  ]
+}

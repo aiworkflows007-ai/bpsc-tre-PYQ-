@@ -57,60 +57,6 @@
       "question_count": 24
     },
     {
-      "id": "bpsc-tre4-computer-science-pgt-80q",
-      "title": "Computer Science Practice Set 1 (PGT Class 11-12 - 80Q)",
-      "section": "subject",
-      "section_name": "Part-III Subject Practice (80 Marks)",
-      "subject": "Computer Science",
-      "filename": "bpsc-tre-master-file3-computer-science.docx",
-      "question_count": 80
-    },
-    {
-      "id": "bpsc-tre4-computer-science-tgt-80q",
-      "title": "Computer Science Practice Set 2 (TGT Class 9-10 - 80Q)",
-      "section": "subject",
-      "section_name": "Part-III Subject Practice (80 Marks)",
-      "subject": "Computer Science",
-      "filename": "bpsc-tre-master-file3-computer-science.docx",
-      "question_count": 80
-    },
-    {
-      "id": "bpsc-tre4-english-literature-80q",
-      "title": "English Literature Practice (80Q)",
-      "section": "subject",
-      "section_name": "Part-III Subject Practice (80 Marks)",
-      "subject": "English Literature",
-      "filename": "bpsc-tre4-english-literature-80q.docx",
-      "question_count": 80
-    },
-    {
-      "id": "bpsc-tre4-hindi-literature-80q",
-      "title": "Hindi Literature Practice (80Q)",
-      "section": "subject",
-      "section_name": "Part-III Subject Practice (80 Marks)",
-      "subject": "Hindi Literature",
-      "filename": "bpsc-tre4-hindi-literature-80q.docx",
-      "question_count": 80
-    },
-    {
-      "id": "bpsc-tre4-sanskrit-80q",
-      "title": "Sanskrit Practice (80Q)",
-      "section": "subject",
-      "section_name": "Part-III Subject Practice (80 Marks)",
-      "subject": "Sanskrit",
-      "filename": "bpsc-tre4-sanskrit-80q.docx",
-      "question_count": 80
-    },
-    {
-      "id": "bpsc-tre4-science-80q",
-      "title": "Science Practice (80Q)",
-      "section": "subject",
-      "section_name": "Part-III Subject Practice (80 Marks)",
-      "subject": "Science",
-      "filename": "bpsc-tre4-science-80q.docx",
-      "question_count": 80
-    },
-    {
       "id": "bpsc-tre4-gkgs-biology-set1",
       "title": "General Science: Biology Set 1 (30Q)",
       "section": "gk_gs",
@@ -478,6 +424,222 @@
       "subject": "Full 40Q Mock Papers",
       "filename": "bpsc-tre-master-file2-general-studies-v2.docx",
       "question_count": 40
+    },
+    {
+      "id": "bpsc-tre4-cs-pgt-set1",
+      "title": "Computer Science Practice Set 1 (PGT Class 11-12 — Part 1)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-cs-pgt-set1.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-cs-pgt-set2",
+      "title": "Computer Science Practice Set 2 (PGT Class 11-12 — Part 2)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-cs-pgt-set2.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-cs-pgt-set3",
+      "title": "Computer Science Practice Set 3 (PGT Class 11-12 — Part 3)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-cs-pgt-set3.json",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-cs-tgt-set1",
+      "title": "Computer Science Practice Set 4 (TGT Class 9-10 — Part 1)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-cs-tgt-set1.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-cs-tgt-set2",
+      "title": "Computer Science Practice Set 5 (TGT Class 9-10 — Part 2)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-cs-tgt-set2.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-cs-tgt-set3",
+      "title": "Computer Science Practice Set 6 (TGT Class 9-10 — Part 3)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-cs-tgt-set3.json",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-computer-science-pgt-80q",
+      "title": "Computer Science Practice Set 7 (Full PGT 80Q Master Mock)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-computer-science-pgt-80q.json",
+      "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-computer-science-tgt-80q",
+      "title": "Computer Science Practice Set 8 (Full TGT 80Q Master Mock)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Computer Science",
+      "filename": "bpsc-tre4-computer-science-tgt-80q.json",
+      "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-science-set1",
+      "title": "Science Practice Set 1 (Physics & Mechanics — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Science",
+      "filename": "bpsc-tre4-science-set1.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-science-set2",
+      "title": "Science Practice Set 2 (Chemistry & Matter — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Science",
+      "filename": "bpsc-tre4-science-set2.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-science-set3",
+      "title": "Science Practice Set 3 (Biology & Life Sciences — 30Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Science",
+      "filename": "bpsc-tre4-science-set3.json",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-science-80q",
+      "title": "Science Practice Set 4 (Full Science 80Q Master Mock)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Science",
+      "filename": "bpsc-tre4-science-80q.json",
+      "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-hindi-lit-set1",
+      "title": "हिन्दी साहित्य अभ्यास सेट 1 (इतिहास एवं आदिकाल — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Hindi Literature",
+      "filename": "bpsc-tre4-hindi-lit-set1.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-hindi-lit-set2",
+      "title": "हिन्दी साहित्य अभ्यास सेट 2 (भक्तिकाल एवं रीतिकाल — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Hindi Literature",
+      "filename": "bpsc-tre4-hindi-lit-set2.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-hindi-lit-set3",
+      "title": "हिन्दी साहित्य अभ्यास सेट 3 (आधुनिक काल, गद्य एवं काव्यशास्त्र — 30Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Hindi Literature",
+      "filename": "bpsc-tre4-hindi-lit-set3.json",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-hindi-literature-80q",
+      "title": "हिन्दी साहित्य अभ्यास सेट 4 (संपूर्ण 80Q मास्टर मॉक टेस्ट)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Hindi Literature",
+      "filename": "bpsc-tre4-hindi-literature-80q.json",
+      "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-english-lit-set1",
+      "title": "English Literature Practice Set 1 (Chaucer & Renaissance — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "English Literature",
+      "filename": "bpsc-tre4-english-lit-set1.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-english-lit-set2",
+      "title": "English Literature Practice Set 2 (Romantic & Victorian Eras — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "English Literature",
+      "filename": "bpsc-tre4-english-lit-set2.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-english-lit-set3",
+      "title": "English Literature Practice Set 3 (Modern Literature & Criticism — 30Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "English Literature",
+      "filename": "bpsc-tre4-english-lit-set3.json",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-english-literature-80q",
+      "title": "English Literature Practice Set 4 (Full 80Q Master Mock)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "English Literature",
+      "filename": "bpsc-tre4-english-literature-80q.json",
+      "question_count": 80
+    },
+    {
+      "id": "bpsc-tre4-sanskrit-set1",
+      "title": "संस्कृत अभ्यास सेट 1 (माहेश्वर सूत्राणि एवं व्याकरण — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Sanskrit",
+      "filename": "bpsc-tre4-sanskrit-set1.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-sanskrit-set2",
+      "title": "संस्कृत अभ्यास सेट 2 (वैदिक साहित्य एवं उपनिषद् — 25Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Sanskrit",
+      "filename": "bpsc-tre4-sanskrit-set2.json",
+      "question_count": 25
+    },
+    {
+      "id": "bpsc-tre4-sanskrit-set3",
+      "title": "संस्कृत अभ्यास सेट 3 (संस्कृत नाटक, महाकाव्य एवं रससिद्धान्त — 30Q)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Sanskrit",
+      "filename": "bpsc-tre4-sanskrit-set3.json",
+      "question_count": 30
+    },
+    {
+      "id": "bpsc-tre4-sanskrit-80q",
+      "title": "संस्कृत अभ्यास सेट 4 (संपूर्ण संस्कृत 80Q मास्टर मॉक टेस्ट)",
+      "section": "subject",
+      "section_name": "Part-III Subject Practice (80 Marks)",
+      "subject": "Sanskrit",
+      "filename": "bpsc-tre4-sanskrit-80q.json",
+      "question_count": 80
     }
   ]
 }

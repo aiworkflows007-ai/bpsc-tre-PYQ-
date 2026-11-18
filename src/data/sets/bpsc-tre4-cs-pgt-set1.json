@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-cs-pgt-set1",
+  "title": "Computer Science Practice Set 1 (PGT Class 11-12 — Part 1)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Computer Science",
+  "filename": "bpsc-tre4-cs-pgt-set1.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The brain of computer is",
+      "hi": "कम्प्यूटर का दिमाग है",
+      "options": [
+        "CPU",
+        "memory",
+        "I/O device",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "CPU",
+      "explanation": "CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory.",
+      "tip": "CPU = Brain of Computer; ALU = Calculating engine; Control Unit = Supervisor; Registers = Fastest working memory.",
+      "id": 1,
+      "options_hi": [
+        "CPU",
+        "memory",
+        "I/O device",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सीपीयू = कंप्यूटर का मस्तिष्क; ALU = गणना इंजन; नियंत्रण इकाई = पर्यवेक्षक; रजिस्टर = सबसे तेज़ काम करने वाली मेमोरी।",
+      "tip_hi": "सीपीयू = कंप्यूटर का मस्तिष्क; ALU = गणना इंजन; नियंत्रण इकाई = पर्यवेक्षक; रजिस्टर = सबसे तेज़ काम करने वाली मेमोरी।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Intel 8085 microprocessor is of _____ generation.",
+      "hi": "इंटेल 8085 माइक्रोप्रोसेसर किस पीढ़ी का है?",
+      "options": [
+        "first",
+        "second",
+        "third",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "second",
+      "explanation": "Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386).",
+      "tip": "Generation memory rule: 1st Gen = 4-bit (4004); 2nd Gen = 8-bit (8080/8085); 3rd Gen = 16-bit (8086); 4th Gen = 32-bit (80386).",
+      "id": 2,
+      "options_hi": [
+        "first",
+        "second",
+        "third",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जनरेशन मेमोरी नियम: पहली पीढ़ी = 4-बिट (4004); दूसरी पीढ़ी = 8-बिट (8080/8085); तीसरी पीढ़ी = 16-बिट (8086); चौथी पीढ़ी = 32-बिट (80386)।",
+      "tip_hi": "जनरेशन मेमोरी नियम: पहली पीढ़ी = 4-बिट (4004); दूसरी पीढ़ी = 8-बिट (8080/8085); तीसरी पीढ़ी = 16-बिट (8086); चौथी पीढ़ी = 32-बिट (80386)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The maximum memory size of third generation microprocessor is",
+      "hi": "तीसरी पीढ़ी के माइक्रोप्रोसेसर की अधिकतम मेमोरी साइज होती है",
+      "options": [
+        "4 GB",
+        "16 MB",
+        "16 GB",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16 MB",
+      "explanation": "Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB.",
+      "tip": "Memory addressing limits: 8086 (20-bit address bus) = 1 MB; 80286 (24-bit address bus) = 16 MB; 80386 (32-bit address bus) = 4 GB.",
+      "id": 3,
+      "options_hi": [
+        "4 GB",
+        "16 MB",
+        "16 GB",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मेमोरी एड्रेसिंग सीमाएँ: 8086 (20-बिट एड्रेस बस) = 1 एमबी; 80286 (24-बिट एड्रेस बस) = 16 एमबी; 80386 (32-बिट एड्रेस बस) = 4 जीबी।",
+      "tip_hi": "मेमोरी एड्रेसिंग सीमाएँ: 8086 (20-बिट एड्रेस बस) = 1 एमबी; 80286 (24-बिट एड्रेस बस) = 16 एमबी; 80386 (32-बिट एड्रेस बस) = 4 जीबी।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "CPU on a single chip is called",
+      "hi": "एकल चिप पर CPU को कहा जाता है",
+      "options": [
+        "microprocessor",
+        "microcontroller",
+        "solid-state device",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "microprocessor",
+      "explanation": "CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller.",
+      "tip": "CPU fabricated on a single IC chip = Microprocessor; Complete computer system on a single IC chip = Microcontroller.",
+      "id": 4,
+      "options_hi": [
+        "microprocessor",
+        "microcontroller",
+        "solid-state device",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एकल आईसी चिप पर निर्मित सीपीयू = माइक्रोप्रोसेसर; एकल आईसी चिप पर संपूर्ण कंप्यूटर सिस्टम = माइक्रोकंट्रोलर।",
+      "tip_hi": "एकल आईसी चिप पर निर्मित सीपीयू = माइक्रोप्रोसेसर; एकल आईसी चिप पर संपूर्ण कंप्यूटर सिस्टम = माइक्रोकंट्रोलर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Computer on a single chip is called",
+      "hi": "एकल चिप पर कम्प्यूटर को कहा जाता है",
+      "options": [
+        "microcontroller",
+        "microprocessor",
+        "assembler",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "microcontroller",
+      "explanation": "Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller.",
+      "tip": "Pay close attention to wording: 'CPU on a chip' = Microprocessor; 'Computer on a chip' = Microcontroller.",
+      "id": 5,
+      "options_hi": [
+        "microcontroller",
+        "microprocessor",
+        "assembler",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "शब्दों पर पूरा ध्यान दें: 'एक चिप पर सीपीयू' = माइक्रोप्रोसेसर; 'कंप्यूटर ऑन ए चिप' = माइक्रोकंट्रोलर।",
+      "tip_hi": "शब्दों पर पूरा ध्यान दें: 'एक चिप पर सीपीयू' = माइक्रोप्रोसेसर; 'कंप्यूटर ऑन ए चिप' = माइक्रोकंट्रोलर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which one of the following is used for playing video games?",
+      "hi": "निम्नांकित में से किसका विडियो गेम खेलने के लिए प्रयोग किया जाता है?",
+      "options": [
+        "Mouse",
+        "Trackball",
+        "Joystick",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Joystick",
+      "explanation": "Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR).",
+      "tip": "Peripherals classification: CAD/CAM digitizer = Graphics Tablet; Gaming controller = Joystick; Document scanner = Optical Character Reader (OCR).",
+      "id": 6,
+      "options_hi": [
+        "Mouse",
+        "Trackball",
+        "Joystick",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "परिधीय वर्गीकरण: सीएडी/सीएएम डिजिटाइज़र = ग्राफिक्स टैबलेट; गेमिंग कंट्रोलर = जॉयस्टिक; दस्तावेज़ स्कैनर = ऑप्टिकल कैरेक्टर रीडर (ओसीआर)।",
+      "tip_hi": "परिधीय वर्गीकरण: सीएडी/सीएएम डिजिटाइज़र = ग्राफिक्स टैबलेट; गेमिंग कंट्रोलर = जॉयस्टिक; दस्तावेज़ स्कैनर = ऑप्टिकल कैरेक्टर रीडर (ओसीआर)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "_____ is used to store softwares that does not update.",
+      "hi": "_____ का प्रयोग ऐसे सॉफ्टवेयर को स्टोर करने के लिए किया जाता है, जिसको अपडेट करना नहीं पड़ता है।",
+      "options": [
+        "SRAM",
+        "DRAM",
+        "ROM",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "ROM",
+      "explanation": "Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh).",
+      "tip": "Permanent firmware = ROM; High-speed cache = SRAM (flip-flop based); Main dynamic system RAM = DRAM (capacitor-based, requires periodic refresh).",
+      "id": 7,
+      "options_hi": [
+        "SRAM",
+        "DRAM",
+        "ROM",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "स्थायी फ़र्मवेयर = ROM; हाई-स्पीड कैश = SRAM (फ्लिप-फ्लॉप आधारित); मुख्य गतिशील प्रणाली RAM = DRAM (कैपेसिटर-आधारित, समय-समय पर ताज़ा करने की आवश्यकता होती है)।",
+      "tip_hi": "स्थायी फ़र्मवेयर = ROM; हाई-स्पीड कैश = SRAM (फ्लिप-फ्लॉप आधारित); मुख्य गतिशील प्रणाली RAM = DRAM (कैपेसिटर-आधारित, समय-समय पर ताज़ा करने की आवश्यकता होती है)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following contains a laser?",
+      "hi": "निम्नांकित में से किसमें लेजर होता है?",
+      "options": [
+        "CD Drive",
+        "RAM",
+        "Hard Disk Drive",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "CD Drive",
+      "explanation": "Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape.",
+      "tip": "Laser diode technology = Optical storage (CD, DVD, Blu-ray, Laser printer); Magnetic induction = HDD, Magnetic Tape.",
+      "id": 8,
+      "options_hi": [
+        "CD Drive",
+        "RAM",
+        "Hard Disk Drive",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लेजर डायोड तकनीक = ऑप्टिकल स्टोरेज (सीडी, डीवीडी, ब्लू-रे, लेजर प्रिंटर); चुंबकीय प्रेरण = एचडीडी, चुंबकीय टेप।",
+      "tip_hi": "लेजर डायोड तकनीक = ऑप्टिकल स्टोरेज (सीडी, डीवीडी, ब्लू-रे, लेजर प्रिंटर); चुंबकीय प्रेरण = एचडीडी, चुंबकीय टेप।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program that converts an assembly language program into equivalent machine language program is called",
+      "hi": "एक कम्प्यूटर प्रोग्राम, जो एसेम्ब्ली भाषा के प्रोग्राम को समतुल्य मशीन भाषा के प्रोग्राम में बदल देता है, कहलाता है",
+      "options": [
+        "compiler",
+        "assembler",
+        "linker",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "assembler",
+      "explanation": "Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter.",
+      "tip": "Assembly code to Binary = Assembler; High-level to Binary (entire file) = Compiler; High-level to Execution (line-by-line) = Interpreter.",
+      "id": 9,
+      "options_hi": [
+        "compiler",
+        "assembler",
+        "linker",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "असेंबली कोड से बाइनरी = असेंबलर; उच्च-स्तरीय से बाइनरी (संपूर्ण फ़ाइल) = कंपाइलर; निष्पादन के लिए उच्च-स्तरीय (पंक्ति-दर-पंक्ति) = दुभाषिया।",
+      "tip_hi": "असेंबली कोड से बाइनरी = असेंबलर; उच्च-स्तरीय से बाइनरी (संपूर्ण फ़ाइल) = कंपाइलर; निष्पादन के लिए उच्च-स्तरीय (पंक्ति-दर-पंक्ति) = दुभाषिया।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program that converts a high-level language program into an equivalent machine language program is called",
+      "hi": "एक कम्प्यूटर प्रोग्राम, जो उच्च-स्तरीय भाषा के प्रोग्राम को मशीन भाषा के समतुल्य प्रोग्राम में बदलता है, उसको कहा जाता है",
+      "options": [
+        "assembler",
+        "compiler",
+        "loader",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "compiler",
+      "explanation": "Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions.",
+      "tip": "Compilers generate an independent object file; Interpreters do not produce object code files, directly executing intermediate instructions.",
+      "id": 10,
+      "options_hi": [
+        "assembler",
+        "compiler",
+        "loader",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कंपाइलर एक स्वतंत्र ऑब्जेक्ट फ़ाइल उत्पन्न करते हैं; दुभाषिए सीधे मध्यवर्ती निर्देशों को क्रियान्वित करते हुए ऑब्जेक्ट कोड फ़ाइलें नहीं बनाते हैं।",
+      "tip_hi": "कंपाइलर एक स्वतंत्र ऑब्जेक्ट फ़ाइल उत्पन्न करते हैं; दुभाषिए सीधे मध्यवर्ती निर्देशों को क्रियान्वित करते हुए ऑब्जेक्ट कोड फ़ाइलें नहीं बनाते हैं।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A computer program that translates high-level language program into machine language program statement-by-statement is called",
+      "hi": "एक कम्प्यूटर प्रोग्राम, जो उच्च-स्तरीय भाषा प्रोग्राम का कथन-दर-कथन मशीन भाषा प्रोग्राम में अनुवाद करता है, कहलाता है",
+      "options": [
+        "compiler",
+        "loader",
+        "interpreter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "interpreter",
+      "explanation": "Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**.",
+      "tip": "Look for the key phrases 'statement-by-statement' or 'line-by-line' \\rightarrow instantly select **Interpreter**.",
+      "id": 11,
+      "options_hi": [
+        "compiler",
+        "loader",
+        "interpreter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रमुख वाक्यांश 'कथन-दर-कथन' या 'पंक्ति-दर-पंक्ति' देखें \\rightarrow तुरंत **दुभाषिया** चुनें।",
+      "tip_hi": "प्रमुख वाक्यांश 'कथन-दर-कथन' या 'पंक्ति-दर-पंक्ति' देखें \\rightarrow तुरंत **दुभाषिया** चुनें।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following is not an operating system?",
+      "hi": "निम्नांकित में से कौन-सा ऑपरेटिंग सिस्टम नहीं है?",
+      "options": [
+        "Linux",
+        "Windows",
+        "Oracle",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Oracle",
+      "explanation": "Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2).",
+      "tip": "Always differentiate between Operating Systems (Linux, Windows, Unix, Android) and Relational Database Engines (Oracle, MySQL, DB2).",
+      "id": 12,
+      "options_hi": [
+        "Linux",
+        "Windows",
+        "Oracle",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "हमेशा ऑपरेटिंग सिस्टम (लिनक्स, विंडोज, यूनिक्स, एंड्रॉइड) और रिलेशनल डेटाबेस इंजन (ओरेकल, MySQL, DB2) के बीच अंतर करें।",
+      "tip_hi": "हमेशा ऑपरेटिंग सिस्टम (लिनक्स, विंडोज, यूनिक्स, एंड्रॉइड) और रिलेशनल डेटाबेस इंजन (ओरेकल, MySQL, DB2) के बीच अंतर करें।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "A software that runs on a computer hardware and serves as a platform for other softwares to run is called",
+      "hi": "कम्प्यूटर हार्डवेयर पर चलनेवाला एक सॉफ्टवेयर जो दूसरे सॉफ्टवेयर को चलाने के लिए प्लेटफॉर्म का काम करता है, कहलाता है",
+      "options": [
+        "system software",
+        "operating system",
+        "application software",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "operating system",
+      "explanation": "Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software.",
+      "tip": "Platform providing runtime environment for other programs = Operating System; Specific user productivity tool = Application Software.",
+      "id": 13,
+      "options_hi": [
+        "system software",
+        "operating system",
+        "application software",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अन्य प्रोग्रामों के लिए रनटाइम वातावरण प्रदान करने वाला प्लेटफ़ॉर्म = ऑपरेटिंग सिस्टम; विशिष्ट उपयोगकर्ता उत्पादकता उपकरण = एप्लिकेशन सॉफ़्टवेयर।",
+      "tip_hi": "अन्य प्रोग्रामों के लिए रनटाइम वातावरण प्रदान करने वाला प्लेटफ़ॉर्म = ऑपरेटिंग सिस्टम; विशिष्ट उपयोगकर्ता उत्पादकता उपकरण = एप्लिकेशन सॉफ़्टवेयर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following is not a system tool?",
+      "hi": "निम्नांकित में से कौन-सा सिस्टम टूल नहीं है?",
+      "options": [
+        "Scandisk",
+        "Format",
+        "Folder",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Folder",
+      "explanation": "System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects.",
+      "tip": "System tools are executable diagnostic utilities (Defrag, Format, Scandisk); Folders and files are organizational data objects.",
+      "id": 14,
+      "options_hi": [
+        "Scandisk",
+        "Format",
+        "Folder",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सिस्टम उपकरण निष्पादन योग्य नैदानिक ​​उपयोगिताएँ (डीफ़्रैग, फ़ॉर्मेट, स्कैंडिस्क) हैं; फ़ोल्डर और फ़ाइलें संगठनात्मक डेटा ऑब्जेक्ट हैं।",
+      "tip_hi": "सिस्टम उपकरण निष्पादन योग्य नैदानिक ​​उपयोगिताएँ (डीफ़्रैग, फ़ॉर्मेट, स्कैंडिस्क) हैं; फ़ोल्डर और फ़ाइलें संगठनात्मक डेटा ऑब्जेक्ट हैं।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The key/keys used to delete a file without allowing it to store in recycle bin is/are(",
+      "hi": "रिसाइकिल बिन में स्टोर किये बिना किसी फाइल को हटाने के लिए किस की (key) का प्रयोग किया जाता है?)",
+      "options": [
+        "Delete",
+        "Shift + Delete",
+        "Ctrl + Delete",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Shift + Delete",
+      "explanation": "Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion.",
+      "tip": "Simple Delete = Moves file to Recycle Bin (recoverable); Shift + Delete = Permanent disk deletion.",
+      "id": 15,
+      "options_hi": [
+        "Delete",
+        "Shift + Delete",
+        "Ctrl + Delete",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सरल डिलीट = फ़ाइल को रीसायकल बिन में ले जाता है (पुनर्प्राप्ति योग्य); Shift + Delete = स्थायी डिस्क विलोपन।",
+      "tip_hi": "सरल डिलीट = फ़ाइल को रीसायकल बिन में ले जाता है (पुनर्प्राप्ति योग्य); Shift + Delete = स्थायी डिस्क विलोपन।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The three main components of a digital computer system are",
+      "hi": "डिजिटल कम्प्यूटर सिस्टम के तीन मुख्य घटक हैं",
+      "options": [
+        "memory, I/O, DMA",
+        "ALU, CPU, memory",
+        "memory, CPU, I/O",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "memory, CPU, I/O",
+      "explanation": "System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers.",
+      "tip": "System level = CPU + Memory + I/O; CPU internal structure = ALU + Control Unit + Internal Registers.",
+      "id": 16,
+      "options_hi": [
+        "memory, I/O, DMA",
+        "ALU, CPU, memory",
+        "memory, CPU, I/O",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सिस्टम स्तर = सीपीयू + मेमोरी + आई/ओ; सीपीयू आंतरिक संरचना = ALU + नियंत्रण इकाई + आंतरिक रजिस्टर।",
+      "tip_hi": "सिस्टम स्तर = सीपीयू + मेमोरी + आई/ओ; सीपीयू आंतरिक संरचना = ALU + नियंत्रण इकाई + आंतरिक रजिस्टर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "FFFF will be the last memory location in a memory of size",
+      "hi": "कितने साइज के मेमोरी में आखिरी मेमोरी लोकेशन FFFF होगा?",
+      "options": [
+        "16K",
+        "32K",
+        "64K",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "64K",
+      "explanation": "Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K.",
+      "tip": "Hexadecimal address quick formula: 4 hex digits = 16 address bits -> 2^16 = 65,536 = 64K.",
+      "id": 17,
+      "options_hi": [
+        "16K",
+        "32K",
+        "64K",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "हेक्साडेसिमल पता त्वरित सूत्र: 4 हेक्स अंक = 16 पता बिट्स -> 2^16 = 65,536 = 64K।",
+      "tip_hi": "हेक्साडेसिमल पता त्वरित सूत्र: 4 हेक्स अंक = 16 पता बिट्स -> 2^16 = 65,536 = 64K।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The cost of storing a bit is minimum in",
+      "hi": "एक बिट को स्टोर करने का न्यूनतम खर्च _____ में होता है।",
+      "options": [
+        "cache",
+        "register",
+        "magnetic tape",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "magnetic tape",
+      "explanation": "Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access).",
+      "tip": "Storage cost hierarchy: Registers > Cache > RAM > HDD > Magnetic Tape (lowest cost per bit, slowest access).",
+      "id": 18,
+      "options_hi": [
+        "cache",
+        "register",
+        "magnetic tape",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "भंडारण लागत पदानुक्रम: रजिस्टर > कैश > रैम > एचडीडी > चुंबकीय टेप (प्रति बिट सबसे कम लागत, सबसे धीमी पहुंच)।",
+      "tip_hi": "भंडारण लागत पदानुक्रम: रजिस्टर > कैश > रैम > एचडीडी > चुंबकीय टेप (प्रति बिट सबसे कम लागत, सबसे धीमी पहुंच)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Tera means",
+      "hi": "Tera का अर्थ/मतलब होता है",
+      "options": [
+        "2^20",
+        "2^40",
+        "2^30",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "2^40",
+      "explanation": "Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB.",
+      "tip": "Binary power steps (powers of 10): 2^10 = KB, 2^20 = MB, 2^30 = GB, 2^40 = TB.",
+      "id": 19,
+      "options_hi": [
+        "2^20",
+        "2^40",
+        "2^30",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बाइनरी पावर चरण (10 की शक्तियाँ): 2^10 = केबी, 2^20 = एमबी, 2^30 = जीबी, 2^40 = टीबी।",
+      "tip_hi": "बाइनरी पावर चरण (10 की शक्तियाँ): 2^10 = केबी, 2^20 = एमबी, 2^30 = जीबी, 2^40 = टीबी।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which of the following system softwares resides always in main memory?",
+      "hi": "निम्नांकित में से कौन-सा सिस्टम सॉफ्टवेयर, मेन मेमोरी में हमेशा रहता है?",
+      "options": [
+        "Loader",
+        "Linker",
+        "Assembler",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Loader",
+      "explanation": "Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler.",
+      "tip": "Resident routine = Loader / OS Kernel; Transient development tools (invoked on demand) = Linker, Assembler, Compiler.",
+      "id": 20,
+      "options_hi": [
+        "Loader",
+        "Linker",
+        "Assembler",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "रेजिडेंट रूटीन = लोडर/ओएस कर्नेल; क्षणिक विकास उपकरण (मांग पर लागू) = लिंकर, असेंबलर, कंपाइलर।",
+      "tip_hi": "रेजिडेंट रूटीन = लोडर/ओएस कर्नेल; क्षणिक विकास उपकरण (मांग पर लागू) = लिंकर, असेंबलर, कंपाइलर।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The postfix equivalent of the prefix expression * + ab - cd is",
+      "hi": "प्रिफिक्स एक्सप्रेशन * + ab - cd का समतुल्य पोस्टफिक्स एक्सप्रेशन है",
+      "options": [
+        "ab+cd-*",
+        "abcd+-*",
+        "ab+cd*-",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ab+cd-*",
+      "explanation": "Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*.",
+      "tip": "Prefix to Infix: * (+ a b) (- c d) = (a + b) * (c - d). Infix to Postfix: (ab+) (cd-) * = ab+cd-*.",
+      "id": 21,
+      "options_hi": [
+        "ab+cd-*",
+        "abcd+-*",
+        "ab+cd*-",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "इनफ़िक्स के लिए उपसर्ग: * (+ ए बी) (- सी डी) = (ए + बी) * (सी - डी)। इनफ़िक्स से पोस्टफ़िक्स: (ab+) (cd-) * = ab+cd-*।",
+      "tip_hi": "इनफ़िक्स के लिए उपसर्ग: * (+ ए बी) (- सी डी) = (ए + बी) * (सी - डी)। इनफ़िक्स से पोस्टफ़िक्स: (ab+) (cd-) * = ab+cd-*।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Which data structure is used to convert infix notation to postfix notation?",
+      "hi": "इनफिक्स नोटेशन को पोस्टफिक्स नोटेशन में बदलने के लिए किस data structure का प्रयोग किया जाता है?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Stack",
+      "explanation": "Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure.",
+      "tip": "Expression parsing, evaluation, and parenthesis matching universally depend on the **Stack** data structure.",
+      "id": 22,
+      "options_hi": [
+        "Stack",
+        "Queue",
+        "Tree",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अभिव्यक्ति पार्सिंग, मूल्यांकन और कोष्ठक का सार्वभौमिक रूप से मिलान **स्टैक** डेटा संरचना पर निर्भर करता है।",
+      "tip_hi": "अभिव्यक्ति पार्सिंग, मूल्यांकन और कोष्ठक का सार्वभौमिक रूप से मिलान **स्टैक** डेटा संरचना पर निर्भर करता है।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "The data structure in which data are added at the rear and deleted from front is called(",
+      "hi": "वह data structure, जिसमें data पीछे (rear) से जोड़ा जाता है और आगे (front) से हटाया जाता है, कहलाता है)",
+      "options": [
+        "stack",
+        "queue",
+        "linked list",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "queue",
+      "explanation": "Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO).",
+      "tip": "Insert at Rear & Delete at Front = Queue (FIFO); Insert and Delete at the same Top end = Stack (LIFO).",
+      "id": 23,
+      "options_hi": [
+        "stack",
+        "queue",
+        "linked list",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पीछे से डालें और सामने से हटाएँ = कतार (फीफो); एक ही शीर्ष सिरे पर डालें और हटाएँ = स्टैक (LIFO)।",
+      "tip_hi": "पीछे से डालें और सामने से हटाएँ = कतार (फीफो); एक ही शीर्ष सिरे पर डालें और हटाएँ = स्टैक (LIFO)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Queue data structure uses",
+      "hi": "Queue data structure प्रयोग करता है",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "FIFO",
+      "explanation": "Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out).",
+      "tip": "Queue = FIFO (First-In, First-Out); Stack = LIFO (Last-In, First-Out).",
+      "id": 24,
+      "options_hi": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कतार = फीफो (फर्स्ट-इन, फर्स्ट-आउट); स्टैक = LIFO (अंतिम-प्रवेश, प्रथम-आउट)।",
+      "tip_hi": "कतार = फीफो (फर्स्ट-इन, फर्स्ट-आउट); स्टैक = LIFO (अंतिम-प्रवेश, प्रथम-आउट)।"
+    },
+    {
+      "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
+      "en": "Stack data structure uses",
+      "hi": "Stack data structure प्रयोग करता है",
+      "options": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "LIFO",
+      "explanation": "Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off.",
+      "tip": "Stack mnemonic: Think of a stack of plates—the last plate placed on top is the first one taken off.",
+      "id": 25,
+      "options_hi": [
+        "FIFO",
+        "LIFO",
+        "LILO",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "स्टैक स्मरक: प्लेटों के ढेर के बारे में सोचें - शीर्ष पर रखी आखिरी प्लेट सबसे पहले हटाई गई है।",
+      "tip_hi": "स्टैक स्मरक: प्लेटों के ढेर के बारे में सोचें - शीर्ष पर रखी आखिरी प्लेट सबसे पहले हटाई गई है।"
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-english-lit-set1",
+  "title": "English Literature Practice Set 1 (Chaucer & Renaissance — 25Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "English Literature",
+  "filename": "bpsc-tre4-english-lit-set1.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "Chaucer & Middle English",
+      "en": "Who is considered the Father of English Poetry?",
+      "hi": "अंग्रेजी कविता का जनक किसे माना जाता है?",
+      "options": [
+        "William Shakespeare",
+        "Geoffrey Chaucer",
+        "Edmund Spenser",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Geoffrey Chaucer",
+      "explanation": "Geoffrey Chaucer (c. 1340s–1400) is heralded as the 'Father of English Poetry' and 'Father of English Literature' for establishing the East Midland Middle English dialect as the primary standard national literary language in works like The Canterbury Tales.",
+      "tip": "John Dryden praised Chaucer as 'the father of English poetry', while Matthew Arnold criticized him for lacking 'high seriousness'.",
+      "id": 1,
+      "options_hi": [
+        "William Shakespeare",
+        "Geoffrey Chaucer",
+        "Edmund Spenser",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "द कैंटरबरी टेल्स जैसे कार्यों में ईस्ट मिडलैंड मिडिल इंग्लिश बोली को प्राथमिक मानक राष्ट्रीय साहित्यिक भाषा के रूप में स्थापित करने के लिए जेफ्री चौसर (सी. 1340-1400) को 'अंग्रेजी कविता के जनक' और 'अंग्रेजी साहित्य के जनक' के रूप में घोषित किया गया है।",
+      "tip_hi": "जॉन ड्राइडन ने चौसर की 'अंग्रेजी कविता के जनक' के रूप में प्रशंसा की, जबकि मैथ्यू अर्नोल्ड ने 'उच्च गंभीरता' की कमी के लिए उनकी आलोचना की।"
+    },
+    {
+      "source": "Middle English Literature",
+      "en": "How many pilgrims (excluding Chaucer and the Host) are introduced in the General Prologue to The Canterbury Tales?",
+      "hi": "कैंटरबरी टेल्स की सामान्य प्रस्तावना में कितने तीर्थयात्रियों (चॉसर और मेजबान को छोड़कर) का परिचय दिया गया है?",
+      "options": [
+        "29",
+        "30",
+        "31",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "29",
+      "explanation": "Chaucer explicitly states at the Tabard Inn in Southwark that there were 'wel nyne and twenty in a compaignye' (29 pilgrims). Including Chaucer himself makes 30, and the Host (Harry Bailly) makes 31.",
+      "tip": "Carefully read whether the question excludes or includes the narrator (Chaucer) and Harry Bailly. Only the pilgrims = 29; total party riding to Canterbury = 31.",
+      "id": 2,
+      "options_hi": [
+        "29",
+        "30",
+        "31",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "चौसर ने साउथवार्क में टैबर्ड इन में स्पष्ट रूप से कहा कि 'एक साथी में नाइन और बीस का स्वागत था' (29 तीर्थयात्री)। चौसर सहित स्वयं 30 और मेजबान (हैरी बैली) 31 बनाते हैं।",
+      "tip_hi": "ध्यान से पढ़ें कि क्या प्रश्न में वर्णनकर्ता (चॉसर) और हैरी बैली को शामिल नहीं किया गया है या शामिल नहीं किया गया है। केवल तीर्थयात्री = 29; कैंटरबरी तक यात्रा करने वाली कुल पार्टी = 31।"
+    },
+    {
+      "source": "Elizabethan Poetry",
+      "en": "Which rhyme scheme is used in the Spenserian Stanza?",
+      "hi": "स्पेंसरियन छंद में किस छंद योजना का उपयोग किया जाता है?",
+      "options": [
+        "ababbcbcc",
+        "ababcdcd",
+        "aabbccdde",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ababbcbcc",
+      "explanation": "Edmund Spenser invented the Spenserian stanza for The Faerie Queene. It consists of 9 lines: eight lines of iambic pentameter followed by a final twelve-syllable iambic hexameter (alexandrine), rhyming ababbcbcc.",
+      "tip": "Spenserian stanza formula: 9 lines, rhyme scheme ababbcbcc, 9th line = Alexandrine (6 feet / 12 syllables). Adopted later by Keats (The Eve of St. Agnes) and Shelley (Adonais).",
+      "id": 3,
+      "options_hi": [
+        "ababbcbcc",
+        "ababcdcd",
+        "aabbccdde",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एडमंड स्पेंसर ने द फेयरी क्वीन के लिए स्पेंसरियन छंद का आविष्कार किया। इसमें 9 पंक्तियाँ शामिल हैं: आयंबिक पेंटामीटर की आठ पंक्तियाँ और उसके बाद अंतिम बारह-अक्षर वाला आयंबिक हेक्सामीटर (अलेक्जेंड्राइन), तुकबंदी ababbcbcc।",
+      "tip_hi": "स्पेंसरियन छंद सूत्र: 9 पंक्तियाँ, तुकबंदी योजना ababbcbcc, 9वीं पंक्ति = एलेक्जेंड्राइन (6 फीट / 12 अक्षर)। बाद में कीट्स (द ईव ऑफ सेंट एग्नेस) और शेली (एडोनाइस) द्वारा अपनाया गया।"
+    },
+    {
+      "source": "Shakespearean Tragedy",
+      "en": "In which play does Shakespeare write the famous line: 'Life's but a walking shadow, a poor player / That struts and frets his hour upon the stage'?",
+      "hi": "शेक्सपियर ने किस नाटक में प्रसिद्ध पंक्ति लिखी है: 'जीवन एक चलती हुई छाया है, एक गरीब खिलाड़ी / जो मंच पर अकड़ता है और अपना समय बर्बाद करता है'?",
+      "options": [
+        "Hamlet",
+        "King Lear",
+        "Macbeth",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Macbeth",
+      "explanation": "This celebrated soliloquy is uttered by Macbeth in Act V, Scene 5 upon hearing of the death of Lady Macbeth, expressing the existential nihilism of human life as 'a tale told by an idiot, full of sound and fury, signifying nothing.'",
+      "tip": "Famous soliloquies: 'To be or not to be' = Hamlet; 'Tomorrow, and tomorrow, and tomorrow' = Macbeth; 'Blow, winds, and crack your cheeks' = King Lear.",
+      "id": 4,
+      "options_hi": [
+        "Hamlet",
+        "King Lear",
+        "Macbeth",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लेडी मैकबेथ की मृत्यु के बारे में सुनने पर एक्ट V, दृश्य 5 में मैकबेथ द्वारा यह प्रसिद्ध भाषण दिया गया है, जिसमें मानव जीवन के अस्तित्वगत शून्यवाद को 'एक बेवकूफ द्वारा बताई गई कहानी, ध्वनि और रोष से भरी, जिसका कोई मतलब नहीं है' के रूप में व्यक्त किया गया है।",
+      "tip_hi": "प्रसिद्ध आत्मभाषण: 'होना या न होना' = हेमलेट; 'कल, और कल, और कल' = मैकबेथ; 'हवाओं, उड़ाओ और अपने गाल चटकाओ' = किंग लियर।"
+    },
+    {
+      "source": "Shakespearean Sonnets",
+      "en": "Shakespeare's sonnets consist of how many sonnets in total, and to whom are sonnets 1 to 126 generally addressed?",
+      "hi": "शेक्सपियर के सॉनेट में कुल कितने सॉनेट हैं, और सॉनेट 1 से 126 आम तौर पर किसे संबोधित हैं?",
+      "options": [
+        "154 sonnets; Fair Youth",
+        "154 sonnets; Dark Lady",
+        "152 sonnets; Earl of Southampton",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "154 sonnets; Fair Youth",
+      "explanation": "Shakespeare published a collection of 154 sonnets in 1609 (by Thomas Thorpe). Sonnets 1 to 126 are addressed to a handsome young nobleman (the 'Fair Youth'), 127 to 152 to the 'Dark Lady', and 153–154 to Cupid.",
+      "tip": "Shakespearean Sonnet division: 1–126 = Fair Youth; 127–152 = Dark Lady; 153–154 = Allegorical/Cupid. Form: 3 quatrains + 1 rhyming couplet (abab cdcd efef gg).",
+      "id": 5,
+      "options_hi": [
+        "154 sonnets; Fair Youth",
+        "154 sonnets; Dark Lady",
+        "152 sonnets; Earl of Southampton",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "शेक्सपियर ने 1609 में (थॉमस थोरपे द्वारा) 154 सॉनेट्स का एक संग्रह प्रकाशित किया। सॉनेट 1 से 126 तक एक सुंदर युवा रईस ('फेयर यूथ') को संबोधित किया गया है, 127 से 152 को 'डार्क लेडी' और 153-154 को कामदेव को संबोधित किया गया है।",
+      "tip_hi": "शेक्सपियरियन सॉनेट प्रभाग: 1-126 = निष्पक्ष युवा; 127-152 = डार्क लेडी; 153-154 = रूपक/कामदेव। प्रपत्र: 3 चौपाइयां + 1 तुकांत दोहा (अबब सीडीसीडी ईएफईएफ जीजी)।"
+    },
+    {
+      "source": "17th Century Poetry",
+      "en": "Who coined the phrase 'Metaphysical Poets' in his biographical work Lives of the Most Eminent English Poets?",
+      "hi": "अपनी जीवनी कृति लाइव्स ऑफ द मोस्ट एमिनेंट इंग्लिश पोएट्स में 'मेटाफिजिकल पोएट्स' वाक्यांश किसने गढ़ा?",
+      "options": [
+        "John Dryden",
+        "Samuel Johnson",
+        "Alexander Pope",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Samuel Johnson",
+      "explanation": "Dr. Samuel Johnson coined the critical term in his essay on Abraham Cowley in Lives of the Poets (1779), noting that 'the metaphysical poets were men of learning... their wit was a kind of discordia concors.'",
+      "tip": "Dryden first used 'metaphysics' regarding Donne in satire ('he affects the metaphysics'), but Dr. Samuel Johnson established 'Metaphysical School/Poets' as a literary classification.",
+      "id": 6,
+      "options_hi": [
+        "John Dryden",
+        "Samuel Johnson",
+        "Alexander Pope",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "डॉ. सैमुअल जॉनसन ने लाइव्स ऑफ द पोएट्स (1779) में अब्राहम काउली पर अपने निबंध में आलोचनात्मक शब्द गढ़ा, जिसमें कहा गया था कि 'आध्यात्मिक कवि विद्वान व्यक्ति थे... उनकी बुद्धि एक प्रकार की कलहपूर्ण सहमति थी।'",
+      "tip_hi": "ड्राइडन ने सबसे पहले व्यंग्य में डोने के संबंध में 'मेटाफिजिक्स' का इस्तेमाल किया था ('वह मेटाफिजिक्स को प्रभावित करता है'), लेकिन डॉ. सैमुअल जॉनसन ने साहित्यिक वर्गीकरण के रूप में 'मेटाफिजिकल स्कूल/कवियों' की स्थापना की।"
+    },
+    {
+      "source": "Metaphysical Conceits",
+      "en": "John Donne's poem 'A Valediction: Forbidding Mourning' contains the celebrated conceit comparing two lovers' souls to",
+      "hi": "जॉन डोने की कविता 'ए वैलेडिक्शन: फॉरबिडिंग मोरनिंग' में दो प्रेमियों की आत्माओं की तुलना करने वाला प्रसिद्ध दंभ शामिल है।",
+      "options": [
+        "two ships passing in the dark",
+        "the twin compasses of a draughtsman",
+        "two tears reflecting the globe",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "the twin compasses of a draughtsman",
+      "explanation": "Donne uses a classic metaphysical conceit comparing the souls of separated lovers to the stiff twin legs of a drawing compass: 'If they be two, they are two so / As stiff twin compasses are two.'",
+      "tip": "A 'Metaphysical Conceit' is an extended, startling, highly intellectualized comparison between two drastically dissimilar things (e.g., lovers' souls and a geometric compass).",
+      "id": 7,
+      "options_hi": [
+        "two ships passing in the dark",
+        "the twin compasses of a draughtsman",
+        "two tears reflecting the globe",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "डोने एक क्लासिक आध्यात्मिक दंभ का उपयोग करते हुए अलग हुए प्रेमियों की आत्माओं की तुलना ड्राइंग कम्पास के कठोर जुड़वां पैरों से करते हैं: 'यदि वे दो हैं, तो वे दो हैं / जैसे कठोर जुड़वां कम्पास दो हैं।'",
+      "tip_hi": "'मेटाफिजिकल कॉन्सेप्ट' दो बेहद भिन्न चीजों (उदाहरण के लिए, प्रेमियों की आत्माएं और एक ज्यामितीय कम्पास) के बीच एक विस्तारित, चौंकाने वाली, अत्यधिक बौद्धिक तुलना है।"
+    },
+    {
+      "source": "Puritan Age & Epic",
+      "en": "Milton's Paradise Lost was originally published in 1667 in how many books?",
+      "hi": "मिल्टन का पैराडाइज़ लॉस्ट मूल रूप से 1667 में कितनी पुस्तकों में प्रकाशित हुआ था?",
+      "options": [
+        "12 books",
+        "10 books",
+        "24 books",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "10 books",
+      "explanation": "The first edition of John Milton's epic Paradise Lost was published in 1667 in 10 books. The second edition of 1674 was reorganized into 12 books (by dividing Books 7 and 10) to match Virgil's Aeneid.",
+      "tip": "First edition (1667) = 10 books; Second definitive edition (1674) = 12 books. Verse form = unrhymed iambic pentameter (blank verse).",
+      "id": 8,
+      "options_hi": [
+        "12 books",
+        "10 books",
+        "24 books",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जॉन मिल्टन के महाकाव्य पैराडाइज़ लॉस्ट का पहला संस्करण 1667 में 10 पुस्तकों में प्रकाशित हुआ था। 1674 के दूसरे संस्करण को वर्जिल की एनीड से मेल खाने के लिए 12 पुस्तकों (पुस्तकों 7 और 10 को विभाजित करके) में पुनर्गठित किया गया था।",
+      "tip_hi": "प्रथम संस्करण (1667) = 10 पुस्तकें; दूसरा निश्चित संस्करण (1674) = 12 पुस्तकें। छंद रूप = अव्यक्त आयंबिक पंचपद (रिक्त छंद)।"
+    },
+    {
+      "source": "Milton's Poetry",
+      "en": "What is the stated grand purpose of John Milton in writing Paradise Lost?",
+      "hi": "पैराडाइज़ लॉस्ट लिखने में जॉन मिल्टन का कथित भव्य उद्देश्य क्या है?",
+      "options": [
+        "To narrate the fall of Lucifer and his angels",
+        "To justify the ways of God to men",
+        "To defend the Puritan Revolution",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "To justify the ways of God to men",
+      "explanation": "In Book I (lines 25–26), Milton declares his epic invocation: 'That to the heighth of this great argument / I may assert Eternal Providence, / And justify the ways of God to men.'",
+      "tip": "Remember Milton's exact phrasing: 'justify the ways of God to men', contrasting with Alexander Pope's aim in An Essay on Man: 'vindicate the ways of God to man.'",
+      "id": 9,
+      "options_hi": [
+        "To narrate the fall of Lucifer and his angels",
+        "To justify the ways of God to men",
+        "To defend the Puritan Revolution",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पुस्तक I (पंक्तियाँ 25-26) में, मिल्टन ने अपने महाकाव्य आह्वान की घोषणा की: 'इस महान तर्क की पराकाष्ठा तक / मैं शाश्वत प्रोविडेंस पर जोर दे सकता हूं, / और मनुष्यों के लिए भगवान के तरीकों को उचित ठहरा सकता हूं।'",
+      "tip_hi": "मिल्टन के सटीक वाक्यांश को याद रखें: 'मनुष्यों के लिए ईश्वर के तरीकों को उचित ठहराएं', जो एन एसे ऑन मैन में अलेक्जेंडर पोप के उद्देश्य के विपरीत है: 'मनुष्यों के लिए ईश्वर के तरीकों को सही ठहराएं।'"
+    },
+    {
+      "source": "Restoration Drama",
+      "en": "Which Restoration dramatist wrote the famous comedy of manners The Way of the World (1700)?",
+      "hi": "किस रेस्टोरेशन नाटककार ने शिष्टाचार की प्रसिद्ध कॉमेडी द वे ऑफ द वर्ल्ड (1700) लिखी थी?",
+      "options": [
+        "William Wycherley",
+        "William Congreve",
+        "George Etherege",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "William Congreve",
+      "explanation": "William Congreve's masterpiece The Way of the World (featuring lovers Mirabell and Millamant and their famous 'proviso scene') represents the pinnacle of Restoration Comedy of Manners.",
+      "tip": "The Country Wife = William Wycherley; The Man of Mode = George Etherege; The Way of the World = William Congreve.",
+      "id": 10,
+      "options_hi": [
+        "William Wycherley",
+        "William Congreve",
+        "George Etherege",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "विलियम कांग्रेव की उत्कृष्ट कृति द वे ऑफ द वर्ल्ड (प्रेमियों मिराबेल और मिलमेंट और उनके प्रसिद्ध 'प्रोविज़ो दृश्य' की विशेषता) रेस्टोरेशन कॉमेडी ऑफ मैनर्स के शिखर का प्रतिनिधित्व करती है।",
+      "tip_hi": "द कंट्री वाइफ = विलियम विचर्ली; द मैन ऑफ मोड = जॉर्ज एथेरगे; दुनिया का रास्ता = विलियम कांग्रेव।"
+    },
+    {
+      "source": "Augustan Age & Satire",
+      "en": "Alexander Pope's The Rape of the Lock is a mock-heroic epic based on an actual incident involving the cutting of a lock of hair of",
+      "hi": "अलेक्जेंडर पोप की द रेप ऑफ द लॉक एक नकली-वीर महाकाव्य है जो एक वास्तविक घटना पर आधारित है जिसमें बालों का एक गुच्छा काटने की घटना शामिल है।",
+      "options": [
+        "Arabella Fermor",
+        "Martha Blount",
+        "Lady Mary Wortley Montagu",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Arabella Fermor",
+      "explanation": "Lord Petre clipped a lock of hair from Miss Arabella Fermor (represented as Belinda in the poem) without her permission, precipitating a bitter feud between two prominent Catholic families.",
+      "tip": "The Rape of the Lock: Mock-epic machinery includes Sylphs (Ariel - air), Gnomes (Umbriel - earth), Nymphs (water), Salamanders (fire), and the game of Ombre.",
+      "id": 11,
+      "options_hi": [
+        "Arabella Fermor",
+        "Martha Blount",
+        "Lady Mary Wortley Montagu",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लॉर्ड पेट्रे ने मिस अरबेला फ़र्मोर (कविता में बेलिंडा के रूप में प्रस्तुत) की अनुमति के बिना उसके बालों का एक गुच्छा काट दिया, जिससे दो प्रमुख कैथोलिक परिवारों के बीच कड़वाहट पैदा हो गई।",
+      "tip_hi": "द रेप ऑफ द लॉक: मॉक-एपिक मशीनरी में सिल्फ्स (एरियल - वायु), ग्नोम्स (अम्ब्रिएल - पृथ्वी), निम्फ्स (जल), सैलामैंडर (अग्नि), और ओम्ब्रे का खेल शामिल है।"
+    },
+    {
+      "source": "Augustan Prose",
+      "en": "Jonathan Swift's celebrated political allegory and prose satire Gulliver's Travels (1726) contains how many voyages?",
+      "hi": "जोनाथन स्विफ्ट के प्रसिद्ध राजनीतिक रूपक और गद्य व्यंग्य गुलिवर्स ट्रेवल्स (1726) में कितनी यात्राएँ शामिल हैं?",
+      "options": [
+        "3 voyages",
+        "4 voyages",
+        "5 voyages",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "4 voyages",
+      "explanation": "Gulliver undertakes 4 voyages: Part 1 - Lilliput (tiny people); Part 2 - Brobdingnag (giants); Part 3 - Laputa, Balnibarbi, Glubbdubdrib, Luggnagg, and Japan; Part 4 - Country of the Houyhnhnms (rational horses vs. Yahoos).",
+      "tip": "Sequence of Gulliver's Travels: 1. Lilliput (6 inches high) -> 2. Brobdingnag (60 feet high) -> 3. Laputa (flying island) -> 4. Houyhnhnms (virtuous horses).",
+      "id": 12,
+      "options_hi": [
+        "3 voyages",
+        "4 voyages",
+        "5 voyages",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "गुलिवर ने 4 यात्राएँ कीं: भाग 1 - लिलिपुट (छोटे लोग); भाग 2 - ब्रोबडिंगनाग (दिग्गज); भाग 3 - लापुटा, बाल्निबार्बी, ग्लुबडबड्रिब, लुग्गनाग, और जापान; भाग 4 - होउइन्ह्नम्स का देश (तर्कसंगत घोड़े बनाम याहूस)।",
+      "tip_hi": "गुलिवर्स ट्रेवल्स का क्रम: 1. लिलिपुट (6 इंच ऊंचा) -> 2. ब्रोबडिंगनाग (60 फीट ऊंचा) -> 3. लापुटा (उड़ता हुआ द्वीप) -> 4. होउइन्ह्नम्स (गुणी घोड़े)।"
+    },
+    {
+      "source": "18th Century Prose",
+      "en": "Who compiled the first comprehensive and authoritative A Dictionary of the English Language in 1755?",
+      "hi": "1755 में अंग्रेजी भाषा का पहला व्यापक और आधिकारिक ए डिक्शनरी किसने संकलित किया था?",
+      "options": [
+        "James Boswell",
+        "Samuel Johnson",
+        "Oliver Goldsmith",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Samuel Johnson",
+      "explanation": "Dr. Samuel Johnson single-handedly compiled A Dictionary of the English Language over nearly nine years, publishing it in two folio volumes on 15 April 1755, defining over 40,000 words with literary quotations.",
+      "tip": "Johnson's famous definition of lexicographer: 'a writer of dictionaries; a harmless drudge.' His life was chronicled by James Boswell in The Life of Samuel Johnson (1791).",
+      "id": 13,
+      "options_hi": [
+        "James Boswell",
+        "Samuel Johnson",
+        "Oliver Goldsmith",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "डॉ. सैमुअल जॉनसन ने लगभग नौ वर्षों में अकेले ही अंग्रेजी भाषा का एक शब्दकोश संकलित किया, इसे 15 अप्रैल 1755 को दो फोलियो खंडों में प्रकाशित किया, जिसमें साहित्यिक उद्धरणों के साथ 40,000 से अधिक शब्दों को परिभाषित किया गया।",
+      "tip_hi": "जॉनसन की कोशकार की प्रसिद्ध परिभाषा: 'शब्दकोशों का लेखक; एक हानिरहित कठिन परिश्रम।' उनके जीवन का वर्णन जेम्स बोसवेल ने द लाइफ ऑफ सैमुअल जॉनसन (1791) में किया है।"
+    },
+    {
+      "source": "Romantic Movement",
+      "en": "The publication of which work in 1798 is universally accepted as the formal commencement of the Romantic Movement in England?",
+      "hi": "1798 में किस कार्य के प्रकाशन को इंग्लैंड में रोमांटिक आंदोलन की औपचारिक शुरुआत के रूप में सार्वभौमिक रूप से स्वीकार किया जाता है?",
+      "options": [
+        "Songs of Innocence and Experience by William Blake",
+        "Lyrical Ballads by Wordsworth and Coleridge",
+        "Preface to Shakespeare by Samuel Johnson",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Lyrical Ballads by Wordsworth and Coleridge",
+      "explanation": "The joint, anonymous publication of Lyrical Ballads in 1798 by William Wordsworth and Samuel Taylor Coleridge launched English Romanticism. The celebrated 'Preface' explaining its revolutionary poetic theory was added in the 1800 edition.",
+      "tip": "Lyrical Ballads (1798) opens with Coleridge's 'The Rime of the Ancient Mariner' and concludes with Wordsworth's 'Lines Composed a Few Miles above Tintern Abbey'.",
+      "id": 14,
+      "options_hi": [
+        "Songs of Innocence and Experience by William Blake",
+        "Lyrical Ballads by Wordsworth and Coleridge",
+        "Preface to Shakespeare by Samuel Johnson",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "1798 में विलियम वर्ड्सवर्थ और सैमुअल टेलर कोलरिज द्वारा लिरिकल बैलाड्स के संयुक्त, गुमनाम प्रकाशन ने अंग्रेजी रोमांटिकतावाद की शुरुआत की। इसके क्रांतिकारी काव्य सिद्धांत की व्याख्या करने वाली प्रसिद्ध 'प्रस्तावना' 1800 संस्करण में जोड़ी गई थी।",
+      "tip_hi": "लिरिकल बैलाड्स (1798) कोलरिज के 'द राइम ऑफ द एंशिएंट मेरिनर' से शुरू होता है और वर्ड्सवर्थ की 'लाइन्स कंपोज्ड ए फ्यू माइल्स एबव टिनटर्न एबे' के साथ समाप्त होता है।"
+    },
+    {
+      "source": "Romantic Literary Criticism",
+      "en": "How did William Wordsworth famously define poetry in his 'Preface to Lyrical Ballads' (1800)?",
+      "hi": "विलियम वर्ड्सवर्थ ने अपनी 'प्रीफेस टू लिरिकल बैलाड्स' (1800) में कविता को प्रसिद्ध रूप से कैसे परिभाषित किया?",
+      "options": [
+        "The spontaneous overflow of powerful feelings recollected in tranquillity",
+        "The best words in the best order",
+        "Criticism of life governed by the laws of poetic truth and beauty",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "The spontaneous overflow of powerful feelings recollected in tranquillity",
+      "explanation": "Wordsworth defined poetry as 'the spontaneous overflow of powerful feelings: it takes its origin from emotion recollected in tranquillity.' Coleridge defined prose as 'words in their best order' and poetry as 'the best words in the best order.'",
+      "tip": "Definitions to memorize: Wordsworth = 'spontaneous overflow of powerful feelings'; Coleridge = 'the best words in the best order'; Matthew Arnold = 'criticism of life'.",
+      "id": 15,
+      "options_hi": [
+        "The spontaneous overflow of powerful feelings recollected in tranquillity",
+        "The best words in the best order",
+        "Criticism of life governed by the laws of poetic truth and beauty",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वर्ड्सवर्थ ने कविता को 'शक्तिशाली भावनाओं के सहज प्रवाह' के रूप में परिभाषित किया है: इसकी उत्पत्ति शांति में याद की गई भावना से होती है।' कोलरिज ने गद्य को 'शब्द अपने सर्वोत्तम क्रम में' और कविता को 'सर्वोत्तम क्रम में सर्वोत्तम शब्द' के रूप में परिभाषित किया।",
+      "tip_hi": "याद रखने योग्य परिभाषाएँ: वर्ड्सवर्थ = 'शक्तिशाली भावनाओं का सहज प्रवाह'; कोलरिज = 'सर्वोत्तम क्रम में सर्वोत्तम शब्द'; मैथ्यू अर्नोल्ड = 'जीवन की आलोचना'।"
+    },
+    {
+      "source": "Keats & Romantic Poetry",
+      "en": "Which Romantic poet authored the phrase 'Beauty is truth, truth beauty,—that is all / Ye know on earth, and all ye need to know'?",
+      "hi": "किस रोमांटिक कवि ने यह वाक्यांश लिखा है 'सौंदर्य सत्य है, सत्य सौंदर्य है, - पृथ्वी पर बस इतना ही है / तुम सब जानते हो, और वह सब जो तुम्हें जानना आवश्यक है'?",
+      "options": [
+        "P. B. Shelley",
+        "John Keats",
+        "Lord Byron",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "John Keats",
+      "explanation": "These famous concluding lines appear in John Keats's 'Ode on a Grecian Urn' (1819), encapsulating his aesthetic philosophy equating timeless art, truth, and supreme beauty.",
+      "tip": "Keats's major 1819 Odes: 'Ode to a Nightingale', 'Ode on a Grecian Urn', 'Ode on Melancholy', 'Ode to Psyche', 'To Autumn'. Concept of 'Negative Capability' = Keats.",
+      "id": 16,
+      "options_hi": [
+        "P. B. Shelley",
+        "John Keats",
+        "Lord Byron",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ये प्रसिद्ध समापन पंक्तियाँ जॉन कीट्स की 'ओड ऑन ए ग्रीसियन अर्न' (1819) में दिखाई देती हैं, जो उनके सौंदर्य दर्शन को कालातीत कला, सच्चाई और सर्वोच्च सुंदरता के बराबर बताती हैं।",
+      "tip_hi": "कीट्स के प्रमुख 1819 ओड्स: 'ओड टू ए नाइटिंगेल', 'ओड ऑन ए ग्रीसियन अर्न', 'ओड ऑन मेलानचोली', 'ओड टू साइकी', 'टू ऑटम'। 'नकारात्मक क्षमता' की अवधारणा = कीट्स।"
+    },
+    {
+      "source": "Pastoral Elegy",
+      "en": "P. B. Shelley wrote his pastoral elegy Adonais (1821) to mourn the premature death of which fellow poet?",
+      "hi": "पी. बी. शेली ने किस साथी कवि की असामयिक मृत्यु पर शोक व्यक्त करने के लिए अपनी देहाती शोकगीत एडोनिस (1821) लिखी थी?",
+      "options": [
+        "Lord Byron",
+        "John Keats",
+        "Robert Southey",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "John Keats",
+      "explanation": "Shelley composed the pastoral elegy Adonais in 55 Spenserian stanzas following the tragic death of John Keats in Rome from tuberculosis at age 25 in February 1821.",
+      "tip": "Famous English Elegies: Lycidas (Milton for Edward King); Adonais (Shelley for John Keats); In Memoriam (Tennyson for Arthur Henry Hallam); Thyrsis (Arnold for A.H. Clough).",
+      "id": 17,
+      "options_hi": [
+        "Lord Byron",
+        "John Keats",
+        "Robert Southey",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "फरवरी 1821 में 25 वर्ष की आयु में तपेदिक से रोम में जॉन कीट्स की दुखद मृत्यु के बाद शेली ने 55 स्पेंसरियन छंदों में देहाती शोकगीत एडोनिस की रचना की।",
+      "tip_hi": "प्रसिद्ध अंग्रेजी एलिगीज़: लाइकिडास (एडवर्ड किंग के लिए मिल्टन); एडोनिस (जॉन कीट्स के लिए शेली); मेमोरियम में (आर्थर हेनरी हॉलम के लिए टेनीसन); थायर्सिस (ए.एच. क्लॉ के लिए अर्नोल्ड)।"
+    },
+    {
+      "source": "19th Century Novel",
+      "en": "Which female Romantic novelist wrote Pride and Prejudice, Sense and Sensibility, and Emma?",
+      "hi": "किस महिला रोमांटिक उपन्यासकार ने प्राइड एंड प्रेजुडिस, सेंस एंड सेंसिबिलिटी और एम्मा लिखी?",
+      "options": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Mary Shelley",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jane Austen",
+      "explanation": "Jane Austen (1775–1817) masterfully depicted English landed gentry in domestic novels of manners, including Sense and Sensibility (1811), Pride and Prejudice (1813), and Emma (1815).",
+      "tip": "Austen described her art as working on 'the little bit (two inches wide) of ivory on which I work with so fine a brush.'",
+      "id": 18,
+      "options_hi": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Mary Shelley",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जेन ऑस्टेन (1775-1817) ने सेंस एंड सेंसिबिलिटी (1811), प्राइड एंड प्रेजुडिस (1813) और एम्मा (1815) सहित शिष्टाचार के घरेलू उपन्यासों में अंग्रेजी जमींदारों का उत्कृष्ट चित्रण किया।",
+      "tip_hi": "ऑस्टेन ने अपनी कला का वर्णन 'हाथीदांत के छोटे से टुकड़े (दो इंच चौड़े) पर काम करने के रूप में किया, जिस पर मैं बहुत अच्छे ब्रश से काम करता हूं।'"
+    },
+    {
+      "source": "Victorian Poetry",
+      "en": "Who wrote the Victorian masterpiece In Memoriam A.H.H. (1850) that comforted Queen Victoria after Prince Albert's death?",
+      "hi": "विक्टोरियन कृति इन मेमोरियम ए.एच.एच. किसने लिखी? (1850) जिसने प्रिंस अल्बर्ट की मृत्यु के बाद महारानी विक्टोरिया को सांत्वना दी?",
+      "options": [
+        "Robert Browning",
+        "Alfred, Lord Tennyson",
+        "Matthew Arnold",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Alfred, Lord Tennyson",
+      "explanation": "Alfred, Lord Tennyson spent 17 years writing In Memoriam to grieve the sudden death of his Cambridge friend Arthur Henry Hallam. Published in 1850, it led to his appointment as Poet Laureate succeeding Wordsworth.",
+      "tip": "In Memoriam Stanza: iambic tetrameter rhyming abba. Contains the famous line: ''Tis better to have loved and lost / Than never to have loved at all.'",
+      "id": 19,
+      "options_hi": [
+        "Robert Browning",
+        "Alfred, Lord Tennyson",
+        "Matthew Arnold",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अल्फ्रेड, लॉर्ड टेनीसन ने अपने कैम्ब्रिज मित्र आर्थर हेनरी हॉलम की आकस्मिक मृत्यु पर शोक व्यक्त करने के लिए इन मेमोरियम लिखने में 17 साल बिताए। 1850 में प्रकाशित, इसके कारण उन्हें वर्ड्सवर्थ के बाद कवि पुरस्कार विजेता के रूप में नियुक्त किया गया।",
+      "tip_hi": "मेमोरियम छंद में: आयंबिक टेट्रामीटर तुकबंदी अब्बा। इसमें प्रसिद्ध पंक्ति शामिल है: ''प्यार करना और खो देना बेहतर है / कभी प्यार न करने से बेहतर है।''"
+    },
+    {
+      "source": "Victorian Poetry",
+      "en": "The dramatic monologue technique reached its highest psychological mastery in the Victorian poetry of",
+      "hi": "नाटकीय एकालाप तकनीक विक्टोरियन कविता में अपनी उच्चतम मनोवैज्ञानिक महारत तक पहुँच गई",
+      "options": [
+        "Alfred Tennyson",
+        "Robert Browning",
+        "D. G. Rossetti",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Robert Browning",
+      "explanation": "Robert Browning perfected the dramatic monologue in poems like 'My Last Duchess', 'Fra Lippo Lippi', 'Andrea del Sarto', and 'Porphyria's Lover', revealing the speaker's hidden psyche through uninhibited speech to a silent auditor.",
+      "tip": "Dramatic Monologue components: Single speaker (not the poet), specific dramatic crisis, presence of a silent listener, and unwitting revelation of the speaker's true character.",
+      "id": 20,
+      "options_hi": [
+        "Alfred Tennyson",
+        "Robert Browning",
+        "D. G. Rossetti",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "रॉबर्ट ब्राउनिंग ने 'माई लास्ट डचेस', 'फ्रा लिप्पो लिप्पी', 'एंड्रिया डेल सार्टो' और 'पोर्फिरीयाज़ लवर' जैसी कविताओं में नाटकीय एकालाप को परिपूर्ण किया, और एक मूक लेखा परीक्षक के सामने निर्भीक भाषण के माध्यम से वक्ता के छिपे हुए मानस को प्रकट किया।",
+      "tip_hi": "नाटकीय एकालाप घटक: एकल वक्ता (कवि नहीं), विशिष्ट नाटकीय संकट, एक मूक श्रोता की उपस्थिति, और वक्ता के वास्तविक चरित्र का अनजाने रहस्योद्घाटन।"
+    },
+    {
+      "source": "Victorian Fiction",
+      "en": "Charles Dickens's novel A Tale of Two Cities (1859) is set in which two historic cities during the French Revolution?",
+      "hi": "चार्ल्स डिकेंस का उपन्यास ए टेल ऑफ़ टू सिटीज़ (1859) फ्रांसीसी क्रांति के दौरान किन दो ऐतिहासिक शहरों पर आधारित है?",
+      "options": [
+        "London and Rome",
+        "London and Paris",
+        "Paris and Vienna",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "London and Paris",
+      "explanation": "The novel opens with the celebrated line 'It was the best of times, it was the worst of times' and alternates its historical plot between London (England) and Paris (France) during the Reign of Terror.",
+      "tip": "Protagonist Sydney Carton sacrifices his life on the guillotine for Charles Darnay: 'It is a far, far better thing that I do, than I have ever done.'",
+      "id": 21,
+      "options_hi": [
+        "London and Rome",
+        "London and Paris",
+        "Paris and Vienna",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "उपन्यास प्रसिद्ध पंक्ति 'यह सबसे अच्छा समय था, यह सबसे बुरा समय था' के साथ शुरू होता है और आतंक के शासनकाल के दौरान लंदन (इंग्लैंड) और पेरिस (फ्रांस) के बीच अपने ऐतिहासिक कथानक को बदलता है।",
+      "tip_hi": "नायक सिडनी कार्टन ने चार्ल्स डार्ने के लिए गिलोटिन पर अपना जीवन बलिदान कर दिया: 'यह एक बहुत ही बेहतर काम है जो मैं करता हूं, जितना मैंने कभी किया है।'"
+    },
+    {
+      "source": "Victorian Realism",
+      "en": "Under what male pseudonym did Mary Ann Evans publish her masterly Victorian novels including Middlemarch and Silas Marner?",
+      "hi": "किस पुरुष छद्म नाम के तहत मैरी एन इवांस ने मिडिलमार्च और सिलास मार्नर सहित अपने उत्कृष्ट विक्टोरियन उपन्यास प्रकाशित किए?",
+      "options": [
+        "Currer Bell",
+        "George Eliot",
+        "Acton Bell",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "George Eliot",
+      "explanation": "Mary Ann Evans adopted the pen name 'George Eliot' to ensure her serious realist fiction would be judged on its merits rather than dismissed as light domestic female romance. Middlemarch (1871–72) is subtitled 'A Study of Provincial Life'.",
+      "tip": "Victorian Pseudonyms: Mary Ann Evans = George Eliot; Charlotte Brontë = Currer Bell; Emily Brontë = Ellis Bell; Anne Brontë = Acton Bell.",
+      "id": 22,
+      "options_hi": [
+        "Currer Bell",
+        "George Eliot",
+        "Acton Bell",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मैरी एन इवांस ने 'जॉर्ज एलियट' उपनाम अपनाया ताकि यह सुनिश्चित किया जा सके कि उनके गंभीर यथार्थवादी उपन्यास को हल्के घरेलू महिला रोमांस के रूप में खारिज करने के बजाय उसकी खूबियों के आधार पर आंका जाएगा। मिडिलमार्च (1871-72) का उपशीर्षक 'प्रांतीय जीवन का एक अध्ययन' है।",
+      "tip_hi": "विक्टोरियन छद्मनाम: मैरी एन इवांस = जॉर्ज एलियट; चार्लोट ब्रोंटे = क्यूरर बेल; एमिली ब्रोंटे = एलिस बेल; ऐनी ब्रोंटे = एक्टन बेल।"
+    },
+    {
+      "source": "Hardy & Regional Novel",
+      "en": "Thomas Hardy set the tragic plots of his major novels (such as Tess of the d'Urbervilles and The Mayor of Casterbridge) in the fictional semi-rural region called",
+      "hi": "थॉमस हार्डी ने अपने प्रमुख उपन्यासों (जैसे टेस ऑफ द डी'उर्बरविल्स और द मेयर ऑफ कैस्टरब्रिज) के दुखद कथानक को काल्पनिक अर्ध-ग्रामीण क्षेत्र में सेट किया।",
+      "options": [
+        "Malgudi",
+        "Barsetshire",
+        "Wessex",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Wessex",
+      "explanation": "Thomas Hardy revived the ancient Anglo-Saxon kingdom name 'Wessex' to designate the regional fictional landscape of south and south-west England where his fatalistic rural tragedies unfold.",
+      "tip": "Literary Geographies: Wessex = Thomas Hardy; Barsetshire = Anthony Trollope; Lake District = Wordsworth; Malgudi = R. K. Narayan; Yoknapatawpha = William Faulkner.",
+      "id": 23,
+      "options_hi": [
+        "Malgudi",
+        "Barsetshire",
+        "Wessex",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "थॉमस हार्डी ने दक्षिण और दक्षिण-पश्चिम इंग्लैंड के क्षेत्रीय काल्पनिक परिदृश्य को नामित करने के लिए प्राचीन एंग्लो-सैक्सन साम्राज्य के नाम 'वेसेक्स' को पुनर्जीवित किया, जहां उनकी भाग्यवादी ग्रामीण त्रासदियां सामने आईं।",
+      "tip_hi": "साहित्यिक भूगोल: वेसेक्स = थॉमस हार्डी; बार्सेटशायर = एंथोनी ट्रोलोप; लेक डिस्ट्रिक्ट = वर्ड्सवर्थ; मालगुडी = आर.के. नारायण; योकनापटावफा = विलियम फॉल्कनर।"
+    },
+    {
+      "source": "Late Victorian Drama",
+      "en": "Who wrote the play The Importance of Being Earnest (1895), a supreme masterpiece of Victorian wit and epigrammatic satire?",
+      "hi": "विक्टोरियन बुद्धि और महाकाव्य व्यंग्य की सर्वोच्च कृति नाटक द इंपोर्टेंस ऑफ बीइंग अर्नेस्ट (1895) किसने लिखा था?",
+      "options": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "J. M. Synge",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Oscar Wilde",
+      "explanation": "Oscar Wilde's farcical comedy of manners The Importance of Being Earnest, subtitled 'A Trivial Comedy for Serious People', satirizes Victorian earnestness, hypocrisy, and social propriety through characters like Jack Worthing, Algernon, and Lady Bracknell.",
+      "tip": "Wilde was the central figure of the Aesthetic Movement ('Art for Art's Sake' / l'art pour l'art). Famous character: Lady Bracknell and her interrogation about the handbag.",
+      "id": 24,
+      "options_hi": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "J. M. Synge",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ऑस्कर वाइल्ड की शिष्टाचार की हास्यास्पद कॉमेडी द इंपोर्टेंस ऑफ बीइंग अर्नेस्ट, उपशीर्षक 'ए ट्रिवियल कॉमेडी फॉर सीरियस पीपल', जैक वर्थिंग, अल्गर्नन और लेडी ब्रैक्नेल जैसे पात्रों के माध्यम से विक्टोरियन ईमानदारी, पाखंड और सामाजिक औचित्य पर व्यंग्य करती है।",
+      "tip_hi": "वाइल्ड एस्थेटिक मूवमेंट ('कला के लिए कला'/ल'आर्ट पौर ल'आर्ट) का केंद्रीय व्यक्ति था। प्रसिद्ध चरित्र: लेडी ब्रैकनेल और हैंडबैग के बारे में उनसे पूछताछ।"
+    },
+    {
+      "source": "Victorian Critical Poetry",
+      "en": "Which poem by Matthew Arnold laments the receding 'Sea of Faith' in the face of Victorian scientific skepticism and industrialism?",
+      "hi": "मैथ्यू अर्नाल्ड की कौन सी कविता विक्टोरियन वैज्ञानिक संशयवाद और उद्योगवाद के सामने घटते 'आस्था के सागर' पर शोक व्यक्त करती है?",
+      "options": [
+        "The Scholar-Gipsy",
+        "Thyrsis",
+        "Dover Beach",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Dover Beach",
+      "explanation": "In 'Dover Beach' (1867), Arnold uses the pebble-strewn beach of Dover at night to symbolize the retreat of religious faith, concluding that humanity is stranded 'as on a darkling plain / Swept with confused alarms of struggle and flight.'",
+      "tip": "'Sea of Faith' receding + 'melancholy, long, withdrawing roar' = Matthew Arnold's 'Dover Beach'.",
+      "id": 25,
+      "options_hi": [
+        "The Scholar-Gipsy",
+        "Thyrsis",
+        "Dover Beach",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'डोवर बीच' (1867) में, अर्नोल्ड धार्मिक आस्था की वापसी के प्रतीक के रूप में रात में डोवर के कंकड़-बिखरे समुद्र तट का उपयोग करता है, जिससे यह निष्कर्ष निकलता है कि मानवता 'एक अंधेरे मैदान पर फंसी हुई है / संघर्ष और उड़ान के भ्रमित अलार्म के साथ बह गई है।'",
+      "tip_hi": "'आस्था का सागर' पीछे हट रहा है + 'उदासी, लंबी, पीछे हटती दहाड़' = मैथ्यू अर्नोल्ड का 'डोवर बीच'।"
+    }
+  ]
+}

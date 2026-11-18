@@ -1,10 +1,10 @@
 {
   "id": "bpsc-tre4-computer-science-pgt-80q",
-  "title": "Computer Science Practice Set 1 (PGT Class 11-12 - 80Q)",
+  "title": "Computer Science Practice Set 7 (Full PGT 80Q Master Mock)",
   "section": "subject",
   "section_name": "Part-III Subject Practice (80 Marks)",
   "subject": "Computer Science",
-  "filename": "bpsc-tre-master-file3-computer-science.docx",
+  "filename": "bpsc-tre4-computer-science-pgt-80q.json",
   "question_count": 80,
   "questions": [
     {
@@ -874,7 +874,7 @@
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
       "en": "What will be the output of the following program fragment?int i = 10;",
-      "hi": "What will be the output of the following program fragment?int i = 10;",
+      "hi": "निम्नलिखित प्रोग्राम अंश का आउटपुट क्या होगा?\n\nint i = 0;\nfor (i = 0; i < 20; i++) {\n  switch (i) {\n    case 0: i += 5;\n    case 1: i += 2;\n    case 5: i += 5;\n    default: i += 4;\n    break;\n  }\n  cout << i;\n}",
       "options": [
         "30, 10",
         "30, 20",
@@ -928,7 +928,7 @@
     {
       "source": "BPSC TRE 1.0 — Senior Secondary CS (Advt. 26/2023)",
       "en": "What will be the output of the following?int a = 5;",
-      "hi": "What will be the output of the following?int a = 5;",
+      "hi": "निम्नलिखित कोड का आउटपुट क्या होगा?\n\nint a = 5;\nint b = a++;\ncout << b << \" \" << a;",
       "options": [
         "FIRST 52 SECOND",
         "FIRST 20 SECOND",

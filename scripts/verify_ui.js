@@ -106,9 +106,17 @@ async function run() {
   // Open solution in English
   await evalJs(`
     const solBtn = document.querySelector('.toggle-solution-btn');
-    if (solBtn) solBtn.click();
+    if (solBtn) {
+      solBtn.click();
+      solBtn.scrollIntoView({ behavior: 'instant', block: 'center' });
+    }
   `)
-  await sleep(500)
+  await sleep(600)
+  await evalJs(`
+    const solCard = document.querySelector('.practice-solution-card');
+    if (solCard) solCard.scrollIntoView({ behavior: 'instant', block: 'start' });
+  `)
+  await sleep(300)
   await takeScreenshot('cs_q3_english_sol.png')
 
   const csQ3En = await evalJs(`({
@@ -130,7 +138,12 @@ async function run() {
       if (topBtn) topBtn.click();
     }
   `)
-  await sleep(500)
+  await sleep(600)
+  await evalJs(`
+    const solCard = document.querySelector('.practice-solution-card');
+    if (solCard) solCard.scrollIntoView({ behavior: 'instant', block: 'start' });
+  `)
+  await sleep(300)
   await takeScreenshot('cs_q3_hindi_sol.png')
 
   const csQ3Hi = await evalJs(`({

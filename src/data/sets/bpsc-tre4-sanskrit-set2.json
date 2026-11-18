@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-sanskrit-set2",
+  "title": "संस्कृत अभ्यास सेट 2 (वैदिक साहित्य एवं उपनिषद् — 25Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Sanskrit",
+  "filename": "bpsc-tre4-sanskrit-set2.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Who is the author of Ashtadhyayi?",
+      "hi": "'अष्टाध्यायी' ग्रन्थस्य रचयिता कः अस्ति?",
+      "options": [
+        "महर्षि पाणिनिः",
+        "कात्यायनः",
+        "पतञ्जलिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "महर्षि पाणिनिः",
+      "explanation": "Sanskrit Vyakaranasya Sarvapramukh: Text: 'Ashtadhyayi' Maharshina Paninina Virachitah, Yasmin Ashtau Adhyaya: Almost 4000 Sutraani Cha Santi.",
+      "tip": "Munitrayam: Sutrakarah = Paninih; Vartikakarah = Katyayanah (Varruchih); Commentator = Patanjali (Mahabhashyam).",
+      "id": 1,
+      "options_hi": [
+        "महर्षि पाणिनिः",
+        "कात्यायनः",
+        "पतञ्जलिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sanskrit Vyakaranasya Sarvapramukh: Text: 'Ashtadhyayi' Maharshina Paninina Virachitah, Yasmin Ashtau Adhyaya: Almost 4000 Sutraani Cha Santi.",
+      "tip_hi": "Munitrayam: Sutrakarah = Paninih; Vartikakarah = Katyayanah (Varruchih); Commentator = Patanjali (Mahabhashyam)."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Who is not included in the 'Munitraya'?",
+      "hi": "संस्कृतव्याकरणे 'मुनित्रय' अन्तर्गतः कः न आगच्छति?",
+      "options": [
+        "पाणिनिः",
+        "पतञ्जलिः",
+        "भरतमुनिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "भरतमुनिः",
+      "explanation": "Grammar traditions Panini-Katyayana-Patanjalayah 'Munitrayam' Uchyante. Bharatmuni: Natyashastrasya praneta asti, na tu vyakaran-munitrayasya.",
+      "tip": "Grammar Munitray = Paninih, Katyayanh, Patanjalih. Bharatmunih = promoter of drama.",
+      "id": 2,
+      "options_hi": [
+        "पाणिनिः",
+        "पतञ्जलिः",
+        "भरतमुनिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Grammar traditions Panini-Katyayana-Patanjalayah 'Munitrayam' Uchyante. Bharatmuni: Natyashastrasya praneta asti, na tu vyakaran-munitrayasya.",
+      "tip_hi": "Grammar Munitray = Paninih, Katyayanh, Patanjalih. Bharatmunih = promoter of drama."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'भू' धातोः लट्लकारस्य प्रथमपुरुष-बहुवचने रूपं भवति",
+      "hi": "'भू' धातोः लट्लकारस्य प्रथमपुरुष-बहुवचने रूपं भवति",
+      "options": [
+        "भवति",
+        "भवतः",
+        "भवन्ति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "भवन्ति",
+      "explanation": "'Bhu' (Sattayam) Dhātoḥ Latlakare (Vartamaṇe) Rupani Bhavanti: Prathampurushe- Bhavati, Bhavatah, Bhavanti. Hence the plural 'Bhavanti' forms Siddhyati.",
+      "tip": "Lat Lakar First Person Form: Ekvachane = Bhavati; Dwivaachne = Bhavatha; Plural=Bhavanti.\nPart 2: Sanskrit literature, Mahakavyani, Roopkani, Vedic literature (Question 29: 55)",
+      "id": 3,
+      "options_hi": [
+        "भवति",
+        "भवतः",
+        "भवन्ति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Bhu' (Sattayam) Dhātoḥ Latlakare (Vartamaṇe) Rupani Bhavanti: Prathampurushe- Bhavati, Bhavatah, Bhavanti. Hence the plural 'Bhavanti' form Siddhyati.",
+      "tip_hi": "Lat Lakar First Person Form: Ekvachane = Bhavati; द्विवाचने = भवत्हा; Plural = Bhavanti.\nPart 2: Sanskrit literature, Mahakavyani, Roopkani, Vedic literature (Question 29: 55)"
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Who is honoured as 'Kavikulguru'?",
+      "hi": "संस्कृतसाहित्ये 'कविकुलगुरुः' इति उपाधिना कः विभूषितः?",
+      "options": [
+        "महाकवि कालिदासः",
+        "महाकवि भारविः",
+        "महाकवि बाणभट्टः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "महाकवि कालिदासः",
+      "explanation": "Jayadevan Prasannaraghave 'Kavikulguru: Kalidasa Vilasah' Iti Uktam. Kālidāsaḥ Upmāsamāraṭ Api Kāthyate ('Upama Kālidāsya').",
+      "tip": "Kalidasasya Upadhyah: Kavikulguruh, Upmasamrat, Deepshikha-Kalidash, Raghupatih.",
+      "id": 4,
+      "options_hi": [
+        "महाकवि कालिदासः",
+        "महाकवि भारविः",
+        "महाकवि बाणभट्टः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jayadevan Prasannaraghave 'Kavikulguru: Kalidasa Vilasah' Iti Uktam. Kālidāsaḥ Upmāsamāraṭ Api Kāthyate ('Upama Kālidāsya').",
+      "tip_hi": "Kalidasasya Upadhyah: Kavikulguruh, Upmasamrat, Deepshikha-Kalidash, Raghupatih."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "How many authentic works of Kalidasa are accepted?",
+      "hi": "कालिदासस्य कति प्रामाणिकाः कृतयः स्वीक्रियन्ते?",
+      "options": [
+        "पञ्च (5)",
+        "सप्त (7)",
+        "नव (9)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "सप्त (7)",
+      "explanation": "Kalidasasya Sapta Pramanik Grantha: Santi: Mahakavyadvayam (Raghuvansham, Kumarasambhavam), Khandakavyadvayam (Meghadootam, Ritusamharam), Natakatrayam (Abhijnanashakuntalam, Vikramorvasiyam, Malavikagnimitram).",
+      "tip": "Kalidasasya has 7 acts: 2 epics + 2 Khandakavyes + 3 dramas.",
+      "id": 5,
+      "options_hi": [
+        "पञ्च (5)",
+        "सप्त (7)",
+        "नव (9)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kalidasasya Sapta Pramanik Grantha: Santi: Mahakavyadvayam (Raghuvansham, Kumarasambhavam), Khandakavyadvayam (Meghadootam, Ritusamharam), Natakatrayam (Abhijnanashakuntalam, Vikramorvasiyam, Malavikagnimitram).",
+      "tip_hi": "Kalidasasya has 7 acts: 2 epics + 2 Khandakavyes + 3 dramas."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "How many acts are there in Abhijnanashakuntalam?",
+      "hi": "'अभिज्ञानशाकुन्तलम्' नाटके कति अङ्काः सन्ति?",
+      "options": [
+        "पञ्च (5)",
+        "सप्त (7)",
+        "दश (10)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "सप्त (7)",
+      "explanation": "Kalidasya's best drama 'Abhigyanshakuntale' Sapta (7) Ankaah Santi, Yasya Chaturtho'nkah Most famous: Marmasparshi cha manyate ('Kavyeshu Natakam Ramyam Tatra Ramya Shakuntala. Tatrapi Cha Chaturthoinkah').",
+      "tip": "Abhijnanashakuntalam = 7 points; Shringararapradhanam; Hero: Dushyant (Dhirodatta), Heroine Shakuntala. Chaturthe Anke 4 Shloka: Kyanstama.",
+      "id": 6,
+      "options_hi": [
+        "पञ्च (5)",
+        "सप्त (7)",
+        "दश (10)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kalidasya's best drama 'Abhigyanshakuntale' Sapta (7) Ankaah Santi, Yasya Chaturtho'nkah Most famous: Marmasparshi cha manyate ('Kavyeshu Natakam Ramyam Tatra Ramya Shakuntala. Tatrapi Cha Chaturthoinkah').",
+      "tip_hi": "Abhijnanashakuntalam = 7 points; Shringararaspradhanam; Hero: Dushyant (Dhirodatta), Heroine Shakuntala. Chaturthe Anke 4 Shloka: क्यंस्त्माः."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "How many cantos are in Raghuvamsham?",
+      "hi": "'रघुवंशम्' महाकाव्ये कति सर्गाः सन्ति?",
+      "options": [
+        "नवदश (19)",
+        "सप्तदश (17)",
+        "द्वाविंशतिः (22)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "नवदश (19)",
+      "explanation": "Mahakavi Kalidasvirchite 'Raghuvansham' Mahakavye Navadash (19) Sargah Santi, Yatra Dilip-Raghu-Aj-Dasaratha-Ramadina 31 Suryavanshiya-Rajanaam Varanam Vartate.",
+      "tip": "Sargaḥ: Raghuvansham = 19 Sargaḥ; Kumarasambhavam = 17 sargah; Kiratarjuniyam = 18 sargah; Shishupalavadham = 20 sargaḥ; Naishadhyacharitam = 22 sargah.",
+      "id": 7,
+      "options_hi": [
+        "नवदश (19)",
+        "सप्तदश (17)",
+        "द्वाविंशतिः (22)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mahakavi Kalidasvirchite 'Raghuvansham' Mahakavye Navadash (19) Sargah Santi, Yatra Dilip-Raghu-Aj-Dasaratha-Ramadina 31 Suryavanshiya-Rajanaam Varanam Vartate.",
+      "tip_hi": "Sargaḥ: Raghuvansham = 19 Sargaḥ; Kumarasambhavam = 17 sargah; Kiratarjuniyam = 18 sargah; Shishupalavadham = 20 sargaḥ; Naishadhyacharitam = 22 sargah."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which text is not counted in 'Brihattrayi'?",
+      "hi": "संस्कृतसाहित्ये 'बृहत्त्रयी' अन्तर्गतः कः ग्रन्थः न गण्यते?",
+      "options": [
+        "किरातार्जुनीयम्",
+        "शिशुपालवधम्",
+        "रघुवंशम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "रघुवंशम्",
+      "explanation": "Brihattrayee Trayah Grantha Santhi: Kiratarjuniyam (Bharavih), Shishupalavadham (Maghah), Naishadhiyacharitam (Shriharsha) - Sutram 'Kishinai'. 'Raghuvansham' tu Laghutrayam Aagachchhati.",
+      "tip": "Brihattrayee = Kiratarjuniyam (18), Shishupalavadham (20), Naishadhiyacharitam (22). Laghutrayi = Raghuvansham, Kumarasambhavam, Meghdootam (Kalidassya Trayah Grantha).",
+      "id": 8,
+      "options_hi": [
+        "किरातार्जुनीयम्",
+        "शिशुपालवधम्",
+        "रघुवंशम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Brihattrayee Trayah Grantha Santhi: Kiratarjuniyam (Bharavih), Shishupalavadham (Maghah), Naishadhiyacharitam (Shriharsha) - Sutram 'Kishinai'. 'Raghuvansham' tu Laghutrayyam Aagachchhati.",
+      "tip_hi": "Brihattrayee = Kiratarjuniyam (18), Shishupalavadham (20), Naishadhiyacharitam (22). Laghutrayi = Raghuvansham, Kumarasambhavam, Meghdootam (Kalidassya Trayah Grantha)."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'भारवेरर्थगौरवम्' इति प्रशंसोक्तिः कस्य कवेः कृते प्रसिद्धा? (For which poet is 'Bhāraverarthagauravam' famous?)",
+      "hi": "'भारवेरर्थगौरवम्' इति प्रशंसोक्तिः कस्य कवेः कृते प्रसिद्धा? (For which poet is 'Bhāraverarthagauravam' famous?)",
+      "options": [
+        "माघस्य",
+        "भारवेः",
+        "दण्डिनः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "भारवेः",
+      "explanation": "There is a famous verse: 'The beauty of similes is in Kālidāsa, the grandeur of meaning is in Bhāravi. Dandin: The elegance of words, and in the Magha, there are three qualities.' Therefore, the great poet Bharavi is famous for the grandeur of meaning.",
+      "tip": "Chatushtaya Guna Smrathu Kalidasah = Simile; Bharavih = Arthgauravam; Dandi = Padalalityam; Magah = Trio Sin.",
+      "id": 9,
+      "options_hi": [
+        "माघस्य",
+        "भारवेः",
+        "दण्डिनः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "There is a famous verse: 'The beauty of similes is in Kālidāsa, the grandeur of meaning is in Bhāravi. Dandin: The elegance of words, and in the Magha, there are three qualities.' Therefore, the great poet Bharavi is famous for the grandeur of meaning.",
+      "tip_hi": "Chatushtaya Guna Smrathu Kalidasah = Simile; Bharavih = Arthgauravam; Dandi = Padalalityam; Magah = Trio Gunah."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "What is the very first word of Kiratarjuniyam?",
+      "hi": "'किरातार्जुनीयम्' महाकाव्यस्य प्रथमः शब्दः कः अस्ति?",
+      "options": [
+        "श्रियः",
+        "नमः",
+        "कश्चित्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "श्रियः",
+      "explanation": "Kiratarjuniyasya Mangalacharanam 'Shriyah Kurunamadhipasya Palanim' Iti 'Shriyah' Shabden Prarabhyate, Pratyakshasargasya Cha Anthyah Shlokah 'Lakshmi' Shabden Samapyate.",
+      "tip": "Kiratarjuniyam = 'Shriyah' word in the beginning, 'Lakshmi' word in the beginning, Sargantah. Shishupalvadham = 'Shriyah' Shabden Aarambh, 'Shri' Shabden Sargantah.",
+      "id": 10,
+      "options_hi": [
+        "श्रियः",
+        "नमः",
+        "कश्चित्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kiratarjuniyasya Mangalacharanam 'Shriyah Kurunamadhipasya Palanim' Iti 'Shriyah' Shabden Prarabhyate, Pratyakshasargasya Cha Anthyah Shlokah 'Lakshmi' Shabden Samapyate.",
+      "tip_hi": "Kiratarjuniyam = 'Shriyah' word in the beginning, 'Lakshmi' word in the beginning, Sargantah. Shishupalvadham = 'Shriyah' Shabden Aarambh, 'Shri' Shabden Sargantah."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Who is the author of Shishupalavadham?",
+      "hi": "'शिशुपालवधम्' महाकाव्यस्य रचयिता कः अस्ति?",
+      "options": [
+        "महाकवि माघः",
+        "श्रीहर्षः",
+        "भारविः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "महाकवि माघः",
+      "explanation": "'Shishupalvadham' Mahakavyasya Praneta Mahakavih Magah Asti, Yasmin Vinshatih (20) Sargah Santi and Shishupalasya Vadhasya story narrated by Shri Krishna.",
+      "tip": "Magh: Rajasthansya Bhinmal-resident Asit. 'Navasargagate maghe navashabdo na vidyate'.",
+      "id": 11,
+      "options_hi": [
+        "महाकवि माघः",
+        "श्रीहर्षः",
+        "भारविः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Shishupalvadham' Mahakavyasya Praneta Mahakavih Magah Asti, Yasmin Vinshatih (20) Sargah Santi and Shishupalasya Vadhasya story narrated by Shri Krishna.",
+      "tip_hi": "Magh: Rajasthansya Bhinmal-resident Asit. 'Navasargagate maghe navashabdo na vidyate'."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Which work is famous as 'Vidvad-aushadham'?",
+      "hi": "'विद्वदौषधम्' इति नाम्ना कः ग्रन्थः प्रसिद्धः अस्ति?",
+      "options": [
+        "नैषधीयचरितम्",
+        "किरातार्जुनीयम्",
+        "कादम्बरी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "नैषधीयचरितम्",
+      "explanation": "Shriharshvirachitam 'Naishadhiyacharitam' scholarly-complex knowledge of knowledge similar to medicine ('Naishadham Viddaushadham'). Atra Dvavinshati (22) Sarga Santi.",
+      "tip": "Naishadhyacharitam = Viddaushadham; Nala-Damayantyaah Katha; Shringararapradhanam; Author Shriharsha (Kanyakubjanaresya Jayachandrasya Sabhapanditah).",
+      "id": 12,
+      "options_hi": [
+        "नैषधीयचरितम्",
+        "किरातार्जुनीयम्",
+        "कादम्बरी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Shriharshvirachitam 'Naishadhiyacharitam' scholarly-complex knowledge of knowledge similar to medicine ('Naishadham Viddaushadham'). Atra Dvavinshati (22) Sarga Santi.",
+      "tip_hi": "Naishadhyacharitam = Viddaushadham; Nala-Damayantyaah Katha; Shringararaspradhanam; Author Shriharsha (Kanyakubjanaresya Jayachandrasya Sabhapanditah)."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "From which work is this sukti taken?",
+      "hi": "'हितं मनोहारि च दुर्लभं वचः' इति सूक्तिः कस्मात् ग्रन्थात् उद्धृता?",
+      "options": [
+        "किरातार्जुनीयात्",
+        "रघुवंशात्",
+        "मेघदूतात्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "किरातार्जुनीयात्",
+      "explanation": "Iyan Sukti: Bharveh 'Kirataarjuniyam' Mahakavyasya Prathamsargaat Uditata, Yatra Vanechar: Yudhishthiram Prati Satyam Kintin Apriyam Vachanam Shravayan Idam Kathayati.",
+      "tip": "Kiratarjuniyasya Amar Suktayah: 'Hitam Manohari Cha Durlabham Vachah', 'Aho Duranta Balvadvidirodhita', 'Sahasa Viddhit Na Kriyam'.",
+      "id": 13,
+      "options_hi": [
+        "किरातार्जुनीयात्",
+        "रघुवंशात्",
+        "मेघदूतात्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Iyan Sukti: Bharveh 'Kirataarjuniyam' Mahakavyasya Prathamsargaat Uditata, Yatra Vanechar: Yudhishthiram Prati Satyam Kintin Apriyam Vachanam Shravayan Idam Kathayati.",
+      "tip_hi": "Kiratarjuniyasya Amar Suktayah: 'Hitam Manohari Cha Durlabham Vachah', 'Aho Duranta Balvadvidirodhita', 'Sahasa Viddhit Na Kriyam'."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "What is the predominant sentiment in Uttararamacharitam?",
+      "hi": "'उत्तररामचरितम्' नाटकस्य प्रधानः अङ्गीरसः कः अस्ति?",
+      "options": [
+        "वीररसः",
+        "करुणरसः",
+        "शृङ्गाररसः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "करुणरसः",
+      "explanation": "Bhavabhuteh 'Uttarramcharite' Karunarasah and Pradhanah Asti. Swayam Kavina Uktam: 'Eko rasah karun eva nimitbhedadbhinnah abyad prithgivaashrayate vivartaan'.",
+      "tip": "Bhavabhutih = Karunrasasya Murdhanyakavih. Uttararamacharita 7 ankah santi, tritiyoṃnkah 'chhayānkah' uchyate.",
+      "id": 14,
+      "options_hi": [
+        "वीररसः",
+        "करुणरसः",
+        "शृङ्गाररसः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bhavabhuteh 'Uttarramcharite' Karunarasah and Pradhanah Asti. Swayam Kavina Uktam: 'Eko rasah karun eva nimitbhedadbhinnah abyad prithgivaashrayate vivartaan'.",
+      "tip_hi": "Bhavabhutih = Karunrasasya Murdhanyakavih. Uttararamacharita 7 ankah santi, tritiyoṃnkah 'chhayānkah' uchyate."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Who authored Dashakumaracharitam?",
+      "hi": "'दशकुमारचरितम्' गद्यकाव्यस्य रचयिता कः अस्ति?",
+      "options": [
+        "दण्डी",
+        "बाणभट्टः",
+        "सुबन्धुः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "दण्डी",
+      "explanation": "Mahakavina Dandina 'Dashkumarcharitam' and 'Kavyadarsah' Iti Granthdvayam Rachitam. 'Dandinah Padalalityam' Iti Tasya Padvinyasachaturyam Prashansyate.",
+      "tip": "Dandi = Dashkumarcharitam (Gadyakavyam), Kavyadarsah (Kavyashashtram), Avantisundarikatha.",
+      "id": 15,
+      "options_hi": [
+        "दण्डी",
+        "बाणभट्टः",
+        "सुबन्धुः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mahakavina Dandina 'Dashkumarcharitam' and 'Kavyadarsah' Iti Granthdvayam Rachitam. 'Dandinah Padalalityam' Iti Tasya Padvinyasachaturyam Prashansyate.",
+      "tip_hi": "Dandi = Dashkumarcharitam (Gadyakavyam), Kavyadarsah (Kavyashashtram), Avantisundarikatha."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Whose prose work is Kadambari?",
+      "hi": "'कादम्बरी' कस्य कवेः गद्यरचना अस्ति?",
+      "options": [
+        "बाणभट्टस्य",
+        "दण्डिनः",
+        "सुबन्धोः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "बाणभट्टस्य",
+      "explanation": "'Kadambari' and 'Harshacharitam' great poet Banabhattasya Amargadyakritayah Stha. Banabhatta: Emperor Harshavardhanasya Sabhakavi: Asit. 'Banochchishtam Jagatsarvam' iti tasya khayatih.",
+      "tip": "Kadambari = story (Chandrapeedasya Pundarikasya cha Trijanamkatha); Harshacharitam = Akhyayika (Sanskritsya Prathama Historical Narrative).",
+      "id": 16,
+      "options_hi": [
+        "बाणभट्टस्य",
+        "दण्डिनः",
+        "सुबन्धोः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Kadambari' and 'Harshacharitam' great poet Banabhattasya Amargadyakritayah Stha. Banabhatta: Samrat Harshavardhanasya Sabhakavi: Asit. 'Banochchishtam Jagatsarvam' iti tasya khayatih.",
+      "tip_hi": "Kadambari = story (Chandrapeedasya Pundarikasya cha Trijanamkatha); Harshacharitam = Akhyayika (Sanskritsya Prathama Historical Narrative)."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "What is absent in Mudrarakshasam?",
+      "hi": "'मुद्राराक्षसम्' नाटके कस्य अभावः वर्तते?",
+      "options": [
+        "विदूषकस्य",
+        "नायिकायाः",
+        "शृङ्गाररसस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "Visakhadattvirchite 'Mudrarakshse' Vidushakasya Abhavah Asti, Nayikayaah Api Abhavah Asti, and Shringararasyapi Abhavah Vartate (Shuddham Politikam Natakam).",
+      "tip": "मुद्राराक्षसस्य अष्टिस्तम्: Vidushakarahitam, Nayikarahitam, Shringararahitam \\(\\rightarrow\\) Option: (D) More than one of the above answers.",
+      "id": 17,
+      "options_hi": [
+        "विदूषकस्य",
+        "नायिकायाः",
+        "शृङ्गाररसस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Visakhadattvirchite 'Mudrarakshse' Vidushakasya Abhavah Asti, Nayikayaah Api Abhavah Asti, and Shringararasyapi Abhavah Vartate (Shuddham Politikam Natakam).",
+      "tip_hi": "मुद्राराक्षसस्य विशेषतम्: Vidushakarahitam, Nayikarahitam, Shringararahitam \\(\\rightarrow\\) Option: (D) More than one of the above answers."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Which dramatic genre does Mricchakatikam belong to?",
+      "hi": "'मृच्छकटिकम्' रूपकस्य कः प्रभेदः अस्ति?",
+      "options": [
+        "नाटकम्",
+        "प्रकरणम्",
+        "भाणः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "प्रकरणम्",
+      "explanation": "Maharaj Shudrakavirachitam 'Mrichchakatikam' Dashasu Roopkeshu 'Prakaranam' Iti Prabhede Agachchhati, Yasmin Dash (10) Ankah Santi, Katha Cha Kavikalpita Loksambandhini Asti.",
+      "tip": "Roopakabhedah: Abhijnanashakuntalam = Drama; Mricchakatikam = case; Malatimadhavam = episode. Mricchakatikasya hero: Charudattah, heroine Vasantasena.",
+      "id": 18,
+      "options_hi": [
+        "नाटकम्",
+        "प्रकरणम्",
+        "भाणः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maharaj Shudrakavirachitam 'Mrichchakatikam' Dashasu Roopkeshu 'Prakaranam' Iti Prabhede Agachchhati, Yasmin Dash (10) Ankah Santi, Katha Cha Kavikalpita Loksambandhini Asti.",
+      "tip_hi": "Roopakabhedah: Abhijnanashakuntalam = Drama; Mricchakatikam = case; Malatimadhavam = episode. Mricchakatikasya hero: Charudattah, heroine Vasantasena."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Whose dramatic work is Swapnavasavadattam?",
+      "hi": "'स्वप्नवासवदत्तम्' कस्य नाटककारस्य रचना अस्ति?",
+      "options": [
+        "भासस्य",
+        "कालिदासस्य",
+        "शूद्रकस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भासस्य",
+      "explanation": "Mahakavi Bhasasya Trayodash (13) Natakeshu 'Swapnavasavadattam' kyanstamam shadankaatkam natakam asti, yatra udayan-vasavadattayoh pranayakatha varcharta.",
+      "tip": "Bhasasya 13 Natakaani T. Ganapathi Shastrana 1912 Tame Varshe Thiruvananthapuram: Praptani.",
+      "id": 19,
+      "options_hi": [
+        "भासस्य",
+        "कालिदासस्य",
+        "शूद्रकस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mahakavi Bhasasya Trayodash (13) Natakeshu 'Swapnavasavadattam' kyanstamam shadankaatkam natakam asti, yatra udayan-vasavadattayoh pranayakatha varcharta.",
+      "tip_hi": "Bhasasya 13 Natakaani T. Ganapathi Shastrana 1912 Tame Varshe Thiruvananthapuram: Praptani."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which metre is used throughout Meghadutam?",
+      "hi": "'मेघदूतम्' काव्ये कः छन्दः प्रयुक्तः अस्ति?",
+      "options": [
+        "मन्दाक्रान्ता",
+        "शार्दूलविक्रीडितम्",
+        "शिखरिणी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मन्दाक्रान्ता",
+      "explanation": "Kalidassya 'Meghdoote' Adyantam Kevalam 'Mandakranta' Chhandah and Prayuktah ('Mandakrantajaldhishadgairambho Natau Tadguru Chet'). Atra Vipralambhsringararasah asti.",
+      "tip": "Meghdootam = Mandakranta Chandah (17 Varnas, Yeti: 4, 6, 7 Varnas). Hero Yaksha, Heroine Yakshi, exile Ramgiri.",
+      "id": 20,
+      "options_hi": [
+        "मन्दाक्रान्ता",
+        "शार्दूलविक्रीडितम्",
+        "शिखरिणी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kalidassya 'Meghdoote' Adyantam Kevalam 'Mandakranta' Chhandah and Prayuktah ('Mandakrantajaldhishadgairambho Natau Tadguru Chet'). Atra Vipralambhsringararasah asti.",
+      "tip_hi": "Meghdootam = Mandakranta Chhandah (17 Varnas, Yeti: 4, 6, 7 Varnas). Hero Yaksha, Heroine Yakshi, exile Ramgiri."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Who is the author of Venisamharam?",
+      "hi": "'वेणीसंहारम्' नाटकस्य रचयिता कः अस्ति?",
+      "options": [
+        "भट्टनारायणः",
+        "मुरारिः",
+        "जयदेवः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भट्टनारायणः",
+      "explanation": "Mahabharat Kathadharitsya Veeraraspradhansya 'Venisamharam' drama pioneer Bhattnarayanah Asti, Yatra Bhimasya Pratigya and Draupadyaah Venibandhansya Katha Asti.",
+      "tip": "Venisamharam = 6 points; Bhattanarayanah; Hero: Bhimsenah; Angirasah Veerarasah.",
+      "id": 21,
+      "options_hi": [
+        "भट्टनारायणः",
+        "मुरारिः",
+        "जयदेवः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mahabharat Kathadharitsya Veeraraspradhansya 'Venisamharam' drama pioneer Bhattnarayanah Asti, Yatra Bhimasya Pratigya and Draupadyaah Venibandhansya Katha Asti.",
+      "tip_hi": "Venisamharam = 6 points; Bhattnarayanah; Hero: Bhimsenah; Angirasah Veerarasah."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Whose work is Gita Govindam?",
+      "hi": "'गीतगोविन्दम्' कस्य महाकवेः रचना अस्ति?",
+      "options": [
+        "जयदेवस्य",
+        "गोवर्धनाचार्यस्य",
+        "विद्यापतेः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "जयदेवस्य",
+      "explanation": "Utkalvasi great poet Jaydevavirchitam 'Geetgovindam' Dwadash (12) Sargeshu Vibhaktam Madhurashringaramayam Geetikavyam Asti, Yatra Radhakrishnayo: Raasleela Varcharta.",
+      "tip": "Geetagovindam = Jaidevah; 12 sargaḥ; 24 Regulations; 'Madhurkomalkantpadawali'.",
+      "id": 22,
+      "options_hi": [
+        "जयदेवस्य",
+        "गोवर्धनाचार्यस्य",
+        "विद्यापतेः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Utkalvasi great poet Jaydevavirchitam 'Geetgovindam' Dwadash (12) Sargeshu Vibhaktam Madhurashringaramayam Geetikavyam Asti, Yatra Radhakrishnayo: Raasleela Varcharta.",
+      "tip_hi": "Geetagovindam = Jaidevah; 12 sargaḥ; 24 Prabandha; 'Madhurkomalkantpadawali'."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Who is the author of Panchatantram?",
+      "hi": "'पञ्चतन्त्रम्' नीतिग्रन्थस्य रचयिता कः?",
+      "options": [
+        "विष्णुशर्मा",
+        "नारायणपण्डितः",
+        "सोमदेवः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "विष्णुशर्मा",
+      "explanation": "Pandit Vishnusharmana Rajputranam Shikshaartham 'Panchatantram' Rachitam, Yasmin Panch Tantrani Santi: Mitrabhedah, Mitraprapatih, Kaklukiyam, Labdhpranashah, Aparikshitkarakam.",
+      "tip": "Nitikatha Grantha: Panchatantram = Vishnusharma; Hitopadesh = Narayanpanditah; Kathasaritsagara = Somdev.",
+      "id": 23,
+      "options_hi": [
+        "विष्णुशर्मा",
+        "नारायणपण्डितः",
+        "सोमदेवः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Pandit Vishnusharmana Rajputranam Shikshaartham 'Panchatantram' Rachitam, Yasmin Panch Tantrani Santi: Mitrabhedah, Mitraprapatih, Kakolukiyam, Labdhpranashah, Aparikshitkarakam.",
+      "tip_hi": "Nitikatha Grantha: Panchatantram = Vishnusharma; Hitopadesh = Narayanpanditah; Kathasaritsagara = Somdev."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Whose work is Nitishatakam?",
+      "hi": "'नीतिशतकम्' कस्य कवेः मुक्तककाव्यम् अस्ति?",
+      "options": [
+        "भर्तृहरेः",
+        "अमरुकस्य",
+        "कल्हणस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भर्तृहरेः",
+      "explanation": "Maharaja Bhartriharina 'Shatakatrayam' composed: Nithishatakam, Shringarashatakam, Vairagyashatakam. Asya grammar book 'Vakyapadiyam' api ativa famous.",
+      "tip": "Bhartrihari = Shatakatrayam (policy, adornment, dispassion) + Vakyapadiyam (philosophical grammar treatise).",
+      "id": 24,
+      "options_hi": [
+        "भर्तृहरेः",
+        "अमरुकस्य",
+        "कल्हणस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maharaja Bhartriharina 'Shatakatrayam' composed: Nithishatakam, Shringarashatakam, Vairagyashatakam. Asya grammar book 'Vakyapadiyam' api ativa famous.",
+      "tip_hi": "Bhartrihari = Shatakatrayam (policy, adornment, dispassion) + Vakyapadiyam (philosophical grammar treatise)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Who authored Rajatarangini?",
+      "hi": "'राजतरङ्गिणी' ग्रन्थस्य रचयिता कः अस्ति?",
+      "options": [
+        "कल्हणः",
+        "बिल्हणः",
+        "जयानकः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "कल्हणः",
+      "explanation": "Kashmir's historical historian: 'Rajatarangini' book: written by great poet Kalhanen in 1148-1150 AD, Yasmin Ashtau (8) Tarangah Santi.",
+      "tip": "Rajtarangini = Kalhan (Kashmir's History); Vikramankadevcharitam = Bilhanah; Prithvirajvijayam = Jayanak.",
+      "id": 25,
+      "options_hi": [
+        "कल्हणः",
+        "बिल्हणः",
+        "जयानकः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kashmir's historical historian: 'Rajatarangini' book: written by great poet Kalhanen in 1148-1150 AD, Yasmin Ashtau (8) Tarangah Santi.",
+      "tip_hi": "Rajtarangini = Kalhan (Kashmirsya Itihasa); Vikramankadevcharitam = Bilhanah; Prithvirajvijayam = Jayanak."
+    }
+  ]
+}

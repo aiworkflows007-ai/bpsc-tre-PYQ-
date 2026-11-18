@@ -1,0 +1,821 @@
+{
+  "id": "bpsc-tre4-sanskrit-set3",
+  "title": "संस्कृत अभ्यास सेट 3 (संस्कृत नाटक, महाकाव्य एवं रससिद्धान्त — 30Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Sanskrit",
+  "filename": "bpsc-tre4-sanskrit-set3.json",
+  "question_count": 30,
+  "questions": [
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "The first hymn of Rigveda is dedicated to which deity?",
+      "hi": "ऋग्वेदस्य प्रथमं सूक्तम् कस्य देवस्य अस्ति?",
+      "options": [
+        "अग्नेः",
+        "इन्द्रस्य",
+        "वरुणस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अग्नेः",
+      "explanation": "Rigvedasya prathamandalasya prathaman suktam 'agnimile purohitam yajnasya devamritvijam' iti agniye pravidam asti. Asya Rishi: Madhuchchhandah, Chhandah Cha Gayatri Asti.",
+      "tip": "Rig Veda Pratham Suktam = Agni Suktam (1.1); Rigveda last suktam = cognition suktam (10.191).",
+      "id": 1,
+      "options_hi": [
+        "अग्नेः",
+        "इन्द्रस्य",
+        "वरुणस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Rigvedasya prathamandalasya prathaman suktam 'agnimile purohitam yajnasya devamritvijam' iti agniye pravidam asti. Asya Rishi: Madhuchchhandah, Chhandah Cha Gayatri Asti.",
+      "tip_hi": "Rig Veda Pratham Suktam = Agni Suktam (1.1); Rigveda last suktam = cognizance suktam (10.191)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "In which mandala of Rigveda is Gayatri Mantra found?",
+      "hi": "'गायत्री मन्त्रः' ऋग्वेदस्य कस्मिन् मण्डले वर्तते?",
+      "options": [
+        "तृतीये मण्डले",
+        "दशमे मण्डले",
+        "प्रथमे मण्डले",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तृतीये मण्डले",
+      "explanation": "Gayatri Mantra: ('Tatsaviturvarenyam Bhargo Devasya Dhimahi Dhiyo Yo Nah Prachodayat') Rigvedasya Tritiye Mandala (3.62.10) Vartate. Asya Rishi: Vishwamitra, Devta Cha Savita Asti.",
+      "tip": "Gayatri Mantra: Mandalam = Tritiyam; Rishi = Vishwamitra; Deity = Savita (Sun); Chhandah = Gayatri (24 letters).",
+      "id": 2,
+      "options_hi": [
+        "तृतीये मण्डले",
+        "दशमे मण्डले",
+        "प्रथमे मण्डले",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Gayatri Mantra: ('Tatsaviturvarenyam Bhargo Devasya Dhimahi Dhiyo Yo Nah Prachodayat') Rigvedasya Tritiye Mandala (3.62.10) Vartate. Asya Rishi: Vishwamitra, Devta Cha Savita Asti.",
+      "tip_hi": "Gayatri Mantra: Mandalam = Tritiyam; Rishi = Vishwamitra; Deity = Savita (Sun); Chhandah = Gayatri (24 letters)."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "From which Upanishad is 'Satyameva Jayate' taken?",
+      "hi": "'सत्यमेव जयते' इति वाक्यं कस्मात् उपनिषदः उद्धृतम्?",
+      "options": [
+        "मुण्डकोपनिषदः",
+        "माण्डूक्योपनिषदः",
+        "कठोपनिषदः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मुण्डकोपनिषदः",
+      "explanation": "Bharatasya Rashtriyam Adarshvakyam 'Satyamev Jayate Nanritam' Atharvavediy 'Mundakopanishadah' (3.1.6) Mantraat Udittam Asti.",
+      "tip": "Upanishad Sukta: Satyameva Jayate = Mundkopanishad; Nachiketa-yama Samvadah = Kathopanishad; Ahambrahmasmi = Brihadaranyaka Upanishad; Tattvamasi = Chhandogyopanishad.",
+      "id": 3,
+      "options_hi": [
+        "मुण्डकोपनिषदः",
+        "माण्डूक्योपनिषदः",
+        "कठोपनिषदः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bharatasya Rashtriyam Adarshvakyam 'Satyamev Jayate Nanritam' Atharvavediy 'Mundakopanishadah' (3.1.6) Mantraat Udittam Asti.",
+      "tip_hi": "Upanishad Sukta: Satyameva Jayate = Mundkopanishad; Nachiketa-yama Samvadah = Kathopanishad; Ahambrahmasmi = Brihadaranyaka Upanishad; Tattvamasi = Chhandogyopanishad."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "How many Vedangas are there?",
+      "hi": "वेदाङ्गानां संख्या कति अस्ति?",
+      "options": [
+        "चत्वारः (4)",
+        "षट् (6)",
+        "अष्टौ (8)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "षट् (6)",
+      "explanation": "Vedanga: Shat Santi: Shiksha (Ghraanam), Kalpah (Karau), Vyakaranam (Mukham), Niruktam (Shotram), Chhandah (Padau), Jyotisham (Chakshuh).",
+      "tip": "Shad Vedangani: 'Chhandah Padau Tu Vedasya Hastau Kalpoeth Pathyate. Jyotishamayanam chakshurniruktam shrotramuchyate. Shiksha Ghraanaam Tu Vedasya Mukham Vyakaranam Smritaam.",
+      "id": 4,
+      "options_hi": [
+        "चत्वारः (4)",
+        "षट् (6)",
+        "अष्टौ (8)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Vedanga: Shat Santi: Shiksha (Ghraanam), Kalpah (Karau), Vyakaranam (Mukham), Niruktam (Shrotram), Chhandah (Padau), Jyotisham (Chakshuh).",
+      "tip_hi": "Shad Vedangani: 'Chhandah Padau Tu Vedasya Hastau Kalpoeth Pathyate. Jyotishamayanam chakshurniruktam shrotramuchyate. Shiksha Ghraanam Tu Vedasya Mukham Vyakaranam Smritaam."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "How many chapters and verses in Bhagavad Gita?",
+      "hi": "श्रीमद्भगवद्गीतायां कति अध्यायाः कति च श्लोकाः सन्ति?",
+      "options": [
+        "18 अध्यायाः, 700 श्लोकाः",
+        "16 अध्यायाः, 650 श्लोकाः",
+        "20 अध्यायाः, 800 श्लोकाः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "18 अध्यायाः, 700 श्लोकाः",
+      "explanation": "Mahabharatasya Bhishmaparvanah (Chapters 25-42) Sampadbhutayan Srimadbhagvadgitayan Ashtadasha (18) Adhyaya: Saptashatam (700) Shloka: Cha Santi.",
+      "tip": "Bhagavad Gita = Mahabharatasya Bhishma Parva; 18 Adhyayah; 700 verses; Preacher: Shri Krishna, Listener: Arjun.\nPart 3: Krit-Taddhit-Streepratyayah, Shabdrupani, Dhaturupani, Chhandansi, Alankarah, Kavyashashtram Ch (Question 56: 80)",
+      "id": 5,
+      "options_hi": [
+        "18 अध्यायाः, 700 श्लोकाः",
+        "16 अध्यायाः, 650 श्लोकाः",
+        "20 अध्यायाः, 800 श्लोकाः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Mahabharatasya Bhishmaparvanah (Chapters 25-42) Sampadbhutayan Srimadbhagvadgitayan Ashtadasha (18) Adhyaya: Saptashatam (700) Shloka: Cha Santi.",
+      "tip_hi": "Bhagavad Gita = Mahabharatasya Bhishma Parva; 18 Adhyayah; 700 verses; Preacher: Shri Krishna, Listener: Arjun.\nPart 3: Krit-Taddhit-Streepratyayah, Shabdrupani, Dhaturupani, Chhandansi, Alankarah, Kavyashashtram Ch (Question 56: 80)"
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'गत्वा' इत्यत्र कः प्रत्ययः प्रयुक्तः अस्ति? (Which suffix is used in 'Gatvā'?)",
+      "hi": "'गत्वा' इत्यत्र कः प्रत्ययः प्रयुक्तः अस्ति? (Which suffix is used in 'Gatvā'?)",
+      "options": [
+        "क्त्वा",
+        "ल्यप्",
+        "तुमुन्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "क्त्वा",
+      "explanation": "'Gam + Ktva = Gatva'. 'समानकर्त्रक्योह पुर्वकाले' sutren preterite verbs 'क्त्वा' suffix 'भावती'.",
+      "tip": "Ktva Pratyyantah Avyaah Bhavati (Pathitva, Gatva, Kritva, Shrutva).",
+      "id": 6,
+      "options_hi": [
+        "क्त्वा",
+        "ल्यप्",
+        "तुमुन्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Gam + Ktva = Gatva'. 'समानकर्त्रक्योः पुर्वकाले' sutren preterite verbs 'क्त्वा' suffix 'भावती'.",
+      "tip_hi": "Ktva Pratyyantah Avyaah Bhavati (Pathitva, Gatva, Kritva, Shrutva)."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which suffix replaces Ktva when a prefix is present?",
+      "hi": "उपसर्गयुक्ते धातौ पूर्वकालिकक्रियायां कः प्रत्ययः भवति?",
+      "options": [
+        "ल्यप्",
+        "क्त्वा",
+        "शतृ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ल्यप्",
+      "explanation": "'Samaseinpurve ktwo lyap' sutren nam-bhinn-apasargyuktat dhatoh ktva-sthanae 'LYP' (Y) adeshah bhavati (Yatha- Aa + Gam + Lyp = Agatya/Aagamya; Vi + Has + Lyp = Vihasya).",
+      "tip": "If dhato: purvam prefix: asti, tada ktva sthanae 'lyap' (ante 'ya' drishyate): pranamya, vihasya, aadaya.",
+      "id": 7,
+      "options_hi": [
+        "ल्यप्",
+        "क्त्वा",
+        "शतृ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'समासेऽन्न्पूर्वे क्ट्वो ल्यप' सुत्रेन न्ं-भिन्न-अपसर्ग्युक्तत् धातोः क्त्वा-स्थाने 'LYP' (Y) अदेशः भावती (Yatha- Aa + Gam + Lyp = Agatya/Aagamya; Vi + Has + Lyp = Vihasya).",
+      "tip_hi": "If dhato: purvam prefix: asti, tada ktva sthanae 'lyap' (ante 'ya' drishyate): pranamya, vihasya, aadaya."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Which suffix is in 'Pathitum'?",
+      "hi": "'पठितुम्' इत्यत्र कः प्रत्ययः अस्ति?",
+      "options": [
+        "तुमुन्",
+        "तव्यत्",
+        "अनीयर्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तुमुन्",
+      "explanation": "'Tumunvulau kriyayan kriyaarthayam'. Path + Tumun = Pathitum (Pathnartham). Only 'Tum' remains.",
+      "tip": "Tumun Pratyayah Nimitarthakah/Kriyaarthakah Bhavati: Gantum (Gantum Ichchati), Pathitum, Patum, Kretum.",
+      "id": 8,
+      "options_hi": [
+        "तुमुन्",
+        "तव्यत्",
+        "अनीयर्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Tumunvulau kriyayan kriyaarthayam'. Path + Tumun = Pathitum (Pathnartham). Atra 'Tum' remains.",
+      "tip_hi": "Tumun Pratyayah Nimitarthakah/Kriyaarthakah Bhavati: Gantum (Gantum Ichchati), Pathitum, Patum, Kretum."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which suffix is in 'Kurvan'?",
+      "hi": "'कुर्वन्' पदे कः कृत्-प्रत्ययः अस्ति?",
+      "options": [
+        "शतृ",
+        "शानच्",
+        "क्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "शतृ",
+      "explanation": "'Lakshne hetvoh kriyayah' and 'Latah shatrishanchaavprathamasamanadhikarane'. Kri + Shatri = Kurvan (present-day Parasmapadibhya).",
+      "tip": "Present tense suffix: Parasmapadibhya = Shatri (reading, writing, Kurvan); आत्मनेपादिभ्यः = शानच (कुर्वानः, सेवमानः).",
+      "id": 9,
+      "options_hi": [
+        "शतृ",
+        "शानच्",
+        "क्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Lakshne hetvoh kriyayah' and 'Latah shatrishanchaavprathamasamanadhikarane'. Kri + Shatri = Kurvan (present-day Parasmapadibhyah).",
+      "tip_hi": "Present tense suffix: Parasmapadibhya = Shatri (reading, writing, Kurvan); आत्मनेपादिभ्यः = शानच (कुर्वानः, सेवमानः)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'सेवमानः' पदे कः प्रत्ययः प्रयुक्तः? (Which suffix is used in 'Sevamānah'?)",
+      "hi": "'सेवमानः' पदे कः प्रत्ययः प्रयुक्तः? (Which suffix is used in 'Sevamānah'?)",
+      "options": [
+        "शानच्",
+        "शतृ",
+        "क्तवतु",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "शानच्",
+      "explanation": "Sev (Atmanepadī) + Shanch = Sevmanah. Atra 'aan' avasishyate and 'muk' aagamen 'maan' bhavati.",
+      "tip": "Atmanepadhi dhato: present black 'shanach' suffix: sevamanah, vardhamanah, yachamanah.",
+      "id": 10,
+      "options_hi": [
+        "शानच्",
+        "शतृ",
+        "क्तवतु",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sev (Atmanepadī) + Shanch = Sevmanah. Atra 'aan' avasishyate and 'muk' aagamen 'maan' bhavati.",
+      "tip_hi": "Atmanepadhi dhato: present black 'shanach' suffix: sevamanah, vardhamanah, yachamanah."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'अज' शब्देन 'टाप्' प्रत्यये कृते किं रूपं सिद्ध्यति?",
+      "hi": "'अज' शब्देन 'टाप्' प्रत्यये कृते किं रूपं सिद्ध्यति?",
+      "options": [
+        "अजा",
+        "अजी",
+        "अजानी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अजा",
+      "explanation": "'अजद्यताशताप' Sutraen Ajadigane Pathitebhya: Akarantebhyascha Pratipadikebhya: Women 'ताप' (आ) suffix: Bhavati. Aj + Top = Aja.",
+      "tip": "Feminine suffixes: Top (Aja, Bala, Ashwa), Deep (Gauri, dancer), Geesh, Geen.",
+      "id": 11,
+      "options_hi": [
+        "अजा",
+        "अजी",
+        "अजानी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'अजाद्यताष्टाप' Sutraen Ajadigane Pathitebhya: Akarantebhyascha Pratipadikebhya: Women 'ताप' (आ) suffix: Bhavati. Aj + Top = Aja.",
+      "tip_hi": "Feminine suffixes: टाप (Aja, Bala, Ashwa), दीप (Gauri, dancer), गीष, गीन."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'मति' शब्दस्य पञ्चमी-विभक्तेः एकवचने रूपं भवति",
+      "hi": "'मति' शब्दस्य पञ्चमी-विभक्तेः एकवचने रूपं भवति",
+      "options": [
+        "मतेः",
+        "मत्याः",
+        "मत्याम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "Ikarant-feminine word 'Mati' Shabdsya Panchami-Shasthyo: Ekavachane Roopdvyam Bhavati: 'Mateah' (Ngiti Harswashch Sutreen Ghissanjyan) and 'MatyaH' (River Nouns). Hence, the two api forms are pure.",
+      "tip": "Mati Shabdasya Chaturthi, Panchami, Shashthi, Saptami Ekavachane Roopdvayam Bhavati: Matyai/Matye, MatyaH/MateH, Matyam/Matau. Two: Satyatvat (D) Uttaram.",
+      "id": 12,
+      "options_hi": [
+        "मतेः",
+        "मत्याः",
+        "मत्याम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Ikarant-feminine word 'Mati' Shabdsya Panchami-Shasthyo: Ekavachane Roopdvayam Bhavati: 'Mateah' (Ngiti Harswashch Sutreen Ghissanjyan) and 'MatyaH' (River Nouns). Hence, the two api forms are pure.",
+      "tip_hi": "Mati Shabdasya Chaturthi, Panchami, Shashthi, Saptami Ekavachane Roopdvayam Bhavati: Matyai/Matye, MatyaH/MateH, Matyam/Matau. Dvayo: Satyatvat (D) Uttaram."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'वारि' (नपुंसकलिङ्ग) शब्दस्य प्रथमा-द्वितीया बहुवचने रूपं भवति",
+      "hi": "'वारि' (नपुंसकलिङ्ग) शब्दस्य प्रथमा-द्वितीया बहुवचने रूपं भवति",
+      "options": [
+        "वारीणि",
+        "वारिणी",
+        "वारीणी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "वारीणि",
+      "explanation": "'Vaari' word form: Vaari, Varini, Varini. Pratmāyaḥ द्वितियाश्च plural 'varini' (long ikaarh, short ikaaryukt nakarah) form siddhyati.",
+      "tip": "Vaari Rupani: Vaari (singular), Varini (dvivachanam – short e, long e), Varini (plural e, long e).",
+      "id": 13,
+      "options_hi": [
+        "वारीणि",
+        "वारिणी",
+        "वारीणी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Vaari' word form: Vaari, Varini, Varini. प्रत्मायाः द्वितियाश्च plural 'varini' (long ikaarh, short ikaaryukt nakarah) form siddhyati.",
+      "tip_hi": "Vaari Rupani: Vaari (singular), Varini (dvivachanam – short e, long e), Varini (plural e, long e)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'अस्मद्' सर्वनामशब्दस्य द्वितीया-विभक्तौ वैकल्पिकानि रूपाणि कानि भवन्ति?",
+      "hi": "'अस्मद्' सर्वनामशब्दस्य द्वितीया-विभक्तौ वैकल्पिकानि रूपाणि कानि भवन्ति?",
+      "options": [
+        "मा, नौ, नः",
+        "मे, नौ, नः",
+        "ते, वाम्, वः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मा, नौ, नः",
+      "explanation": "'Asmad' Shabdsya Dwitiyayan Maam, Aavam, Asmaan Ityeshaam Sthanae 'Ma, Nau, Nah' Iti Aaltyakartadesha Bhavanti. Chaturthi-Shasthyo: 'Me, Nau, Nah' Bhavati.",
+      "tip": "Asmad Alpatriyadesha: Dwitiya = Ma, Nau, Nah; Chaturthi/Shashthi = me, nine, nah. Yushmadh Dwitiya = Twa, Vam, Vah; Chaturthi/Shashthi = Te, Vam, Vah.",
+      "id": 14,
+      "options_hi": [
+        "मा, नौ, नः",
+        "मे, नौ, नः",
+        "ते, वाम्, वः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Asmad' Shabdsya Dwitiyayan Maam, Aavam, Asmaan Ityeshaam Sthanae 'Ma, Nau, Nah' Iti Aaltyakartadesha Bhavanti. Chaturthi-Shasthyo: 'Me, Nau, Nah' Bhavati.",
+      "tip_hi": "असम्द अल्पत्रियादेषाः: Dwitiya = Ma, Nau, Nah; Chaturthi/Shashthi = me, nine, nah. Yushmadh Dwitiya = Twa, Vam, Vah; Chaturthi/Shashthi = Te, Vam, Vah."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'गम्' धातोः लृट्लकारस्य (भविष्यत्काले) प्रथमपुरुष-एकवचने रूपं किम्?",
+      "hi": "'गम्' धातोः लृट्लकारस्य (भविष्यत्काले) प्रथमपुरुष-एकवचने रूपं किम्?",
+      "options": [
+        "गमिष्यति",
+        "गच्छिष्यति",
+        "आगमिष्यति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "गमिष्यति",
+      "explanation": "'Gam' dhato: lritlakare 'gam' ityasya 'gachchh' order: na bhavati (kevalam shiti pare lat-lot-lang-vidhilingeshu gachchh bhavati). Lrti 'Gamishyati' form Bhavati.",
+      "tip": "गम् धातु भेदः: लत = गच्चती; Lot = Gachhatu; लं=अगच्छत; Vidhilinga = Gachet; Lṛt (future) = Gamishyati.",
+      "id": 15,
+      "options_hi": [
+        "गमिष्यति",
+        "गच्छिष्यति",
+        "आगमिष्यति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Gam' dhato: lritlakare 'gam' ityasya 'gachchh' order: na bhavati (kevalam shiti pare lat-lot-lang-vidhilingeshu gachchh bhavati). Lrti 'Gamishyati' form Bhavati.",
+      "tip_hi": "गम् धातु भेदः: लत = गच्छती; Lot = Gachhatu; लं = अगच्छत; विधिलिंग = गचेत; Lṛt (future) = Gamishyati."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'स्था' धातोः लोट्लकारस्य मध्यमपुरुष-एकवचने रूपं भवति",
+      "hi": "'स्था' धातोः लोट्लकारस्य मध्यमपुरुष-एकवचने रूपं भवति",
+      "options": [
+        "तिष्ठ",
+        "तिष्ठतु",
+        "स्थास्यति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तिष्ठ",
+      "explanation": "'Stha' Dhato: Lotlakare Rupani: Prathampurushe- Tishthatu, Tishthatam, Tishthantu; Madhyampurushe- Tishtha, Tishthatam, Tishthat. Hence the singular 'Tishtha' form is formed.",
+      "tip": "Lot Lakar Madhyampurush Singular 'Hi' suffix Look Bhavati: Path -> Path; Gum -> Gachch; Astha -> Tishtha.",
+      "id": 16,
+      "options_hi": [
+        "तिष्ठ",
+        "तिष्ठतु",
+        "स्थास्यति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Stha' Dhato: Lotlakare Rupani: Prathampurushe- Tishthatu, Tishthatam, Tishthantu; Madhyampurushe- Tishtha, Tishthatam, Tishthat. Hence the singular 'Tishtha' form is formed.",
+      "tip_hi": "Lot Lakar Madhyampurush Singular 'Hi' suffix लुक भावती: Path -> Path; गम -> गच्च; अस्थ -> तिष्ठ."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "How many syllables per quarter in Anushtubh metre?",
+      "hi": "'अनुष्टुप्' छन्दसि प्रतिपादं कति वर्णाः भवन्ति?",
+      "options": [
+        "अष्टौ (8)",
+        "एकादश (11)",
+        "द्वादश (12)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अष्टौ (8)",
+      "explanation": "'Shloke Shashtam Guru Gneyam Sarvatra Laghu Panchamam. द्विचतुष्पाद्योरहरस्वं सप्तमं दिर्घमन्योः॥' Anushtup Chandas: Pratyakshasmin Pade Ashtau (8) Varnah, Sampurne Cha Shloke 32 Varnah Bhavanti.",
+      "tip": "Number of stanzas: Anushtup = 8; Indravajra/Upendravajra = 11; Descendant/Drutavilambit = 12; Vasanthilaka = 14; Malini = 15; Mandakranta/Shikharini = 17; Shardulavikriditam = 19; Shragdhara = 21.",
+      "id": 17,
+      "options_hi": [
+        "अष्टौ (8)",
+        "एकादश (11)",
+        "द्वादश (12)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Shloke Shashtam Guru Gneyam Sarvatra Laghu Panchamam. द्विचतुष्पाद्योरह्रस्वं सप्तमं दिर्घमन्योः॥' Anushtup Chhandas: Pratyakshasmin Pade Ashtau (8) Varnah, Sampurne Cha Shloke 32 Varnah Bhavanti.",
+      "tip_hi": "Number of stanzas: Anushtup = 8; Indravajra/Upendravajra = 11; Descendant/Drutavilambit = 12; Vasanthilaka = 14; Malini = 15; Mandakranta/Shikharini = 17; Shardulavikriditam = 19; Sragdhara = 21."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "How many syllables in Indravajra metre?",
+      "hi": "'इन्द्रवज्रा' छन्दसः प्रत्येकस्मिन् पादे कति वर्णाः भवन्ति?",
+      "options": [
+        "एकादश (11)",
+        "द्वादश (12)",
+        "चतुर्दश (14)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "एकादश (11)",
+      "explanation": "'Syadindravajra if you wake up.' Atra Pratipadam Eleventh (11) Varnah Bhavanti (Ganakramah- Tagan, Tagan, Jagan, Gurudvayam).",
+      "tip": "11 Varnayuktani Chandansi: Indravajra (Ta, Ta, Ja, Ga, Ga); Upendravajra (ja, ta, ja, ga, ga); Sub-caste (Anayo: Mixture).",
+      "id": 18,
+      "options_hi": [
+        "एकादश (11)",
+        "द्वादश (12)",
+        "चतुर्दश (14)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Syadindravajra if you wake up.' Atra Pratipadam Eleventh (11) Varnah Bhavanti (Ganakramah- Tagan, Tagan, Jagan, Gurudvayam).",
+      "tip_hi": "11 Varnayuktani Chhandansi: Indravajra (Ta, Ta, Ja, Ga, Ga); Upendravajra (ja, ta, ja, ga, ga); Sub-caste (Anayo: Mixture)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'वागर्थाविव सम्पृक्तौ वागर्थप्रतिपत्तये। जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ॥' अत्र कः अलङ्कारः अस्ति?",
+      "hi": "'वागर्थाविव सम्पृक्तौ वागर्थप्रतिपत्तये। जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ॥' अत्र कः अलङ्कारः अस्ति?",
+      "options": [
+        "उपमा",
+        "रूपकम्",
+        "उत्प्रेक्षा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उपमा",
+      "explanation": "Kalidassya Raghuvansya Asmin Mangalacharane 'Iva' Vachakshabden Parvati Parameshwarayo: Vagarthen Saha Sadrishyam Pratipaditam, Soha Atra 'Upma' Alankar: Asti.",
+      "tip": "'Saadharmyampama bhede' (mammatah). Yatra 'Iva, Yatha, Similar, Sam' Ityadayah Sadrishyavaachakah Shabdaah Prayuktaah Syuah, Sa Upma.",
+      "id": 19,
+      "options_hi": [
+        "उपमा",
+        "रूपकम्",
+        "उत्प्रेक्षा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kalidassya Raghuvansya Asmin Mangalacharane 'Iva' Vachakshabden Parvati Parameshwarayo: Vagarthen Saha Sadrishyam Pratipaditam, Soha Atra 'Upma' Alankar: Asti.",
+      "tip_hi": "'Saadharmyamupama bhede' (mammatah). Yatra 'Iva, Yatha, Similar, Sam' Ityadayah Sadrishyavaachakah Shabdaah Prayuktaah Syuah, Sa Upma."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'लिम्पतीव तमोऽङ्गानि वर्षतीवाञ्जनं नभः' इत्यत्र कः अलङ्कारः अस्ति?",
+      "hi": "'लिम्पतीव तमोऽङ्गानि वर्षतीवाञ्जनं नभः' इत्यत्र कः अलङ्कारः अस्ति?",
+      "options": [
+        "उत्प्रेक्षा",
+        "उपमा",
+        "रूपकम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उत्प्रेक्षा",
+      "explanation": "'Sambhavanamthotpreksha prakritasya paratmana'. Atra AndhakarVyaapteH Anglepanen and NabhasH Anjanavarshanen Saham Sambhavna Krita Asti, hence 'Utpreksha' Alankarh Asti.",
+      "tip": "Utprekhayan Sambhavna Vyjyate. Vocabulary: Manye, Shanke, Dhruvam, Prathee, Nunam, 'Iva' (Kriyapadsya Yoge Limpativ).",
+      "id": 20,
+      "options_hi": [
+        "उत्प्रेक्षा",
+        "उपमा",
+        "रूपकम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Sambhavanamthotpreksha prakritasya paratmana'. Atra AndhakarVyapteH Anglepanen and NabhasH Anjanavarshanen Saham Sambhavna Krita Asti, hence 'Utpreksha' Alankarh Asti.",
+      "tip_hi": "Utprekshayan Sambhavna Vyjyate. Vocabulary: Manye, Shanke, Dhruvam, Prathee, Nunam, 'Iva' (Kriyapadsya Yoge Limpativ)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Non-difference of Upamana and Upameya is",
+      "hi": "'उपमानोपमेययोरभेदः' कस्य अलङ्कारस्य लक्षणम् अस्ति?",
+      "options": [
+        "रूपकस्य",
+        "उपमायाः",
+        "उत्प्रेक्षायाः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "रूपकस्य",
+      "explanation": "Kavyaprakashe mmamten uktam: 'Tadrupakambhedo ya upamanopmeyayoh'. Yatra upameyasya upmanasya ca abhedah alabyaate (yatha- mukhmeva chandrah), tatra rupakalankarah bhavati.",
+      "tip": "Alankar bhedah: Upma = analogy; Roopkam = Abhedaah; Utpreksha = possibility; Doubt: Doubt.",
+      "id": 21,
+      "options_hi": [
+        "रूपकस्य",
+        "उपमायाः",
+        "उत्प्रेक्षायाः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kavyaprakashe mmamten uktam: 'Tadrupakambhedo ya upamanopmeyayoh'. Yatra upameyasya upmanasya ca abhedah alabyaate (yatha- mukhmeva chandrah), tatra rupakalankarah bhavati.",
+      "tip_hi": "अलंकार भेदःः: Upma = analogy; Roopkam = Abhedaah; Utpreksha = possibility; Doubt: Doubt."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Who is the author of Dhvanyaloka?",
+      "hi": "'ध्वन्यालोकः' ग्रन्थस्य रचयिता कः अस्ति?",
+      "options": [
+        "आनन्दवर्धनः",
+        "अभिनवगुप्तः",
+        "मम्मटः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "आनन्दवर्धनः",
+      "explanation": "Dhvani-Siddhantsya Praneta Mahacharya: Anandvardhan: Navamshatabdya Kashmire 'Dhwanyalokam' Archayat. Asya famous commentary 'Lochan' written by Abhinavagupten.",
+      "tip": "ध्वणि-प्रवर्तकः = अनन्दवर्धनः ('Kavyasyatma dhvaniḥ'); Dhvanyalokalochana commentator = Abhinavagupta.",
+      "id": 22,
+      "options_hi": [
+        "आनन्दवर्धनः",
+        "अभिनवगुप्तः",
+        "मम्मटः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Dhvani-Siddhantsya Praneta Mahacharya: Anandvardhan: Navamshatabdya Kashmire 'Dhwanyalokam' Archayat. Asya famous commentary 'Lochan' written by Abhinavagupten.",
+      "tip_hi": "ध्वनि-प्रवर्तकः = अनन्दवर्धनः ('Kavyasyatma dhvaniḥ'); Dhvanyalokalochana commentator = Abhinavagupta."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Whose work is Kavyaprakasha?",
+      "hi": "'काव्यप्रकाशः' कस्य आलंकारिकस्य कृतिः अस्ति?",
+      "options": [
+        "मम्मटस्य",
+        "विश्वनाथस्य",
+        "जगन्नाथस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मम्मटस्य",
+      "explanation": "Kavyasastrasya Pramanikah Grantha 'Kavyaprakashah' Dashasu Ullaseshu Acharya Mamten (Kashmir Nivasina) Virachitah. Asya Kavyalakshanam: 'Taddoshau Shabdarthou Sagunavalanakriti re Kwapi'.",
+      "tip": "Kavyashastra GranthaH: KavyaprakashH = MammatH; Sahityadarpanah = Vishwanath; Rasgangadhar = Panditraj Jagannath.",
+      "id": 23,
+      "options_hi": [
+        "मम्मटस्य",
+        "विश्वनाथस्य",
+        "जगन्नाथस्य",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kavyasastrasya Pramanikah Grantha 'Kavyaprakashah' Dashasu Ullaseshu Acharya Mamten (Kashmir Nivasina) Virachitah. अस्य काव्यालक्ष्णम्: 'Taddoshau Shabdarthou Sagunavalanakriti re Kwapi'.",
+      "tip_hi": "Kavyashastra GranthaH: KavyaprakashH = MammatH; Sahityadarpanah = Vishwanath; Rasgangadhar = Panditraj Jagannath."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'वाक्यं रसात्मकं काव्यम्' इति काव्यलक्षणं केन प्रदत्तम्? (Who gave the definition 'Vākyam rasātmakam kāvyam'?)",
+      "hi": "'वाक्यं रसात्मकं काव्यम्' इति काव्यलक्षणं केन प्रदत्तम्? (Who gave the definition 'Vākyam rasātmakam kāvyam'?)",
+      "options": [
+        "आचार्य विश्वनाथेन",
+        "आचार्य मम्मटेन",
+        "आचार्य भामहेन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "आचार्य विश्वनाथेन",
+      "explanation": "Sahityadarpanasya Rachayitra Acharya Vishwanathen Mammatasya Kavyalakshanam Khandayitva Rasadhwanimayam 'Vakyaam Rasatakam Kaavyam' Iti Swakiyam Kaavyalakshanam Sthalaam.",
+      "tip": "Kavyalakshanani: Bhamah = Shabdarthou Sahitou Kavyam; Dandi = body tavdishtarthavyavacchinna phraseology; Mammatah = Taddoshou Shabdarthou...; Vishwanath = Vakyam Rasatakam Kavyam.",
+      "id": 24,
+      "options_hi": [
+        "आचार्य विश्वनाथेन",
+        "आचार्य मम्मटेन",
+        "आचार्य भामहेन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sahityadarpanasya Rachayitra Acharya Vishwanathen Mammatasya Kavyalakshanam Khandayitva Rasadhwanimayam 'Vakyaam Rasatakam Kaavyam' Iti Swakiyam Kaavyalakshanam Sthalaam.",
+      "tip_hi": "Kavyalakshanani: Bhamah = Shabdarthou Sahitou Kavyam; Dandi = body tavdishtarthavyavacchinna phraseology; मम्मतः = तद्दोशौ शब्दार्थौ...; Vishwanath = Vakyam Rasatakam Kavyam."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "According to Natyashastra, how many Rasas are there?",
+      "hi": "नाट्यशास्त्रानुसारं रसानां संख्या कति स्वीक्रियते?",
+      "options": [
+        "अष्टौ (8)",
+        "नव (9)",
+        "एकादश (11)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अष्टौ (8)",
+      "explanation": "Bharatmuneḥ Natyaśāstra Ashtau (8) Rasāḥ eva sakvārtaḥ santi ('Ashtau Natye Rasāḥ Smṛtāḥ'). Tatra Shantarasah Natye Na Sankarpaah. Poetry tu mammatadibhi navaamh 'shantah' accepted.",
+      "tip": "Natye Bharatmunimatavataram = 8 RasaH; Kavyashastra Mammatmatanusaram = 9 Rasaah (Ninth: Shantarasah, Permanent Nirvedah).",
+      "id": 25,
+      "options_hi": [
+        "अष्टौ (8)",
+        "नव (9)",
+        "एकादश (11)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bharatmuneḥ Natyaśāstra Ashtau (8) Rasāḥ eva sakvārtaḥ santi ('Ashtau Natye Rasāḥ Smṛtāḥ'). Tatra Shantarasah Natye Na Sankarpaah. Kavye tu mammatadibhi navaamh 'shantah' accepted.",
+      "tip_hi": "Natye Bharatmunimatavataram = 8 RasaH; Kavyashastra Mammatmatanusaram = 9 Rasaah (Ninth: Shantarasah, Permanent Nirvedah)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "रसनिष्पत्तौ भरतमुनेः रससूत्रस्य 'उत्पत्तिवाद' व्याख्याता कः अस्ति?",
+      "hi": "रसनिष्पत्तौ भरतमुनेः रससूत्रस्य 'उत्पत्तिवाद' व्याख्याता कः अस्ति?",
+      "options": [
+        "भट्टलोल्लटः",
+        "शङ्कुकः",
+        "भट्टनायकः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भट्टलोल्लटः",
+      "explanation": "Bharatamuneh Rasasutrasya 'Vibhavanubhavavyabhicharisanyogadrasanishpattih' Chatvarah Lishthatarah Santih Bhattaloltah (Utpattivaadh/Mimamsa), Shankukah (Anumitivadah/Nyayah), Bhattanayakah (Bhuktivaadh/Sankhyah), Abhinavaguptah (Abhivyaktavadah/Vedanta-Shaiva).",
+      "tip": "Rasasutra लिष्ठतारः: भत्तलोललतह = उत्तिक्वादः; शंचुकः = अनुमितिवादः; Bhattanayakah = Bhuktiwadah; Abhinavagupta = expressionism.",
+      "id": 26,
+      "options_hi": [
+        "भट्टलोल्लटः",
+        "शङ्कुकः",
+        "भट्टनायकः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bharatamuneh Rasasutrasya 'Vibhavanubhavavyabhicharisanyogadrasanishpattih' Chatvarah लिष्ठतारः संतिः भत्तलोल्तः (Utpattivaadh/Mimamsa), Shankukah (Anumitivadah/Nyayah), Bhattanayakah (Bhuktivaadh/Sankhyah), Abhinavaguptah (Abhivyaktavadah/Vedanta-Shaiva).",
+      "tip_hi": "Rasasutra लिष्ठतारः: भत्तलोललतः = उत्तिक्वादःः; शंचुकः = अनुमितिवादः; Bhattanayakah = Bhuktiwadah; Abhinavagupta = expressionism."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "What is the Sthayi Bhava of Vira Rasa?",
+      "hi": "'वीररसस्य' स्थायी भावः कः अस्ति?",
+      "options": [
+        "उत्साहः",
+        "क्रोधः",
+        "विस्मयः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उत्साहः",
+      "explanation": "Veerrassya permanent feeling 'Usaah' asti. Krodha: raudrasya, awe: adhavasya, rati: shringarasya, humor: hamasyasya, permanent feeling: bhaavati.",
+      "tip": "Permanent Bhavah: Shringaarh = Ratih; Hasamah = Hasah; Karunah = sorrow; Raudrah = anger; Veerah = Enthusiasm; Ghurbhah = Bhayam; Bibhatsah = Jugupsa; Adhvabandham = Vashmayah; Shantah = Nirvedah/Shamah.",
+      "id": 27,
+      "options_hi": [
+        "उत्साहः",
+        "क्रोधः",
+        "विस्मयः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Veerrassya permanent feeling 'Utsaah' asti. Krodha: raudrasya, awe: adhavasya, rati: shringarasya, humor: hamasyasya, permanent feeling: bhaavati.",
+      "tip_hi": "Permanent Bhavah: Shringaarh = Ratih; हसामः = हासः; Karunah = sorrow; Raudrah = anger; Veerah = Enthusiasm; घुर्भःः = भायम्; Bibhatsah = Jugupsa; अध्वाबंधम = वश्मयः; Shantah = Nirvedah/Shamah."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "The primary power denoting literal sense is",
+      "hi": "शब्दस्य मुख्यार्थं बोधयित्री प्रथमा शक्तिः का अस्ति?",
+      "options": [
+        "अभिधा",
+        "लक्षणा",
+        "व्यञ्जना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अभिधा",
+      "explanation": "'Samyushostra mukhno vyadosyabhidhochyate'. Sakshat Santikartham (Main meaning or Vachyartham) Pratipadayitri Shabdshakti: 'Abhidha' Kathiate.",
+      "tip": "शब्दशक्त्यः तिस्रः: 1. Abhidha (Vachyaarth/Mukyaarth); 2. Lakshna (target, main meaning); 3. Euphemism (Euphemism/Sound).",
+      "id": 28,
+      "options_hi": [
+        "अभिधा",
+        "लक्षणा",
+        "व्यञ्जना",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'सम्यूष्योष्ठस्त्रा मुख्यो व्यादोऽस्याभिधोच्यते'. Sakshat Santikartham (Main meaning or Vachyartham) Pratipadayitri Shabdshakti: 'Abhidha' Kathiate.",
+      "tip_hi": "शब्दशक्त्यः तिस्रः: 1. Abhidha (वच्यार्थः/मुक्यार्थः); 2. Lakshna (target, main meaning); 3. Euphemism (Euphemism/Sound)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "Sahitya Akademi Award is given in how many languages?",
+      "hi": "संस्कृतभाषायै साहित्य अकादमी पुरस्कारः कति भारतीयभाषासु दीयते?",
+      "options": [
+        "द्वाविंशतिः (22)",
+        "चतुर्विंशतिः (24)",
+        "अष्टाविंशतिः (28)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चतुर्विंशतिः (24)",
+      "explanation": "Sahitya Akademi Award: Bharatasya Samvidhansya Ashtamsuchya Pariganitasu 22 Bhashasu and Anglo-Rajasthani-Sahitasu Chaturvinshati: (24) Bhashasu Prativarsham Pradiyate.",
+      "tip": "8th Schedule of the Constitution = 22 Languages; Sahitya Academy = 24 Languages ​​(22 + English + Rajasthani).",
+      "id": 29,
+      "options_hi": [
+        "द्वाविंशतिः (22)",
+        "चतुर्विंशतिः (24)",
+        "अष्टाविंशतिः (28)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sahitya Akademi Award: Bharatasya Samvidhansya Ashtamsuchya Pariganitasu 22 Bhashasu and Anglo-Rajasthani-Sahitasu Chaturvinshati: (24) Bhashasu Prativarsham Pradiyate.",
+      "tip_hi": "8th Schedule of the Constitution = 22 Languages; Sahitya Akademi = 24 Languages ​​(22 + English + Rajasthani)."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Which is the most ancient Veda?",
+      "hi": "सर्वप्राचीनः वेदः कः अस्ति?",
+      "options": [
+        "ऋग्वेदः",
+        "सामवेदः",
+        "यजुर्वेदः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "ऋग्वेदः",
+      "explanation": "Manavjaateh Sarvaprachin: Granth: 'Rigveda' Asti, Yasmin 10 Mandalani, 1028 Suktani, 10,580 Richah Cha Santi. Asya pradhanritvik kathyate 'hota'.",
+      "tip": "Veda-Ritvik Sambandha: Rigveda = happens; Yajurvedah = Adhvaryuh; Samaveda = originator; Atharvaveda = Brahma.\nBPSC TRE 4.0 Sanskrit - Complete Answer Key (Master Answer Key Q1-Q80)\nquestion\nAnswer\nquestion\nAnswer\nquestion\nAnswer\nquestion\nAnswer",
+      "id": 30,
+      "options_hi": [
+        "ऋग्वेदः",
+        "सामवेदः",
+        "यजुर्वेदः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Manavjaateh Sarvaprachin: Granth: 'Rigveda' Asti, Yasmin 10 Mandalani, 1028 Suktani, 10,580 Richah Cha Santi. Asya pradhanritvik 'hota' kathyate.",
+      "tip_hi": "Veda-Ritvik Sambandha: Rigveda = happens; Yajurvedah = Adhvaryuh; सामवेदः = originator; Atharvaveda = Brahma.\nBPSC TRE 4.0 Sanskrit - Complete Answer Key (Master Answer Key Q1-Q80)\nquestion\nAnswer\nquestion\nAnswer\nquestion\nAnswer\nquestion\nAnswer"
+    }
+  ]
+}

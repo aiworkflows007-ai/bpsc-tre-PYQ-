@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-science-set1",
+  "title": "Science Practice Set 1 (Physics & Mechanics — 25Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Science",
+  "filename": "bpsc-tre4-science-set1.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The human eye forms the image of an object on its",
+      "hi": "मानव आँख में किसी वस्तु का प्रतिबिम्ब बनता है",
+      "options": [
+        "cornea",
+        "retina",
+        "pupil",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "retina",
+      "explanation": "The eye lens focuses incident light rays onto the retina, a light-sensitive screen at the back of the eye containing photoreceptor rods and cones that generate electrical impulses.",
+      "tip": "Cornea = transparent front window; Iris = regulates pupil diameter; Retina = screen where real and inverted image is formed.",
+      "id": 1,
+      "options_hi": [
+        "कॉर्निया",
+        "रेटिना",
+        "पुतली",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "आंख का लेंस आपतित प्रकाश किरणों को रेटिना पर केंद्रित करता है, आंख के पीछे एक प्रकाश-संवेदनशील स्क्रीन होती है जिसमें फोटोरिसेप्टर छड़ें और शंकु होते हैं जो विद्युत आवेग उत्पन्न करते हैं।",
+      "tip_hi": "कॉर्निया = पारदर्शी सामने की खिड़की; आईरिस = पुतली के व्यास को नियंत्रित करता है; रेटिना = स्क्रीन जहां वास्तविक और उलटा प्रतिबिम्ब बनता है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Soundwaves travel fastest in",
+      "hi": "ध्वनि तरंगों का सबसे तीव्र प्रगमन होता है",
+      "options": [
+        "solids",
+        "liquids",
+        "vacuum",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "solids",
+      "explanation": "Mechanical sound waves propagate via particle collisions; higher elasticity and closer atomic packing in solids yield the highest acoustic velocity (approx. 5100 m/s in steel vs. 1500 m/s in water and 343 m/s in air).",
+      "tip": "Sound velocity order: Solids > Liquids > Gases >> Vacuum (0 m/s, cannot travel through vacuum).",
+      "id": 2,
+      "options_hi": [
+        "ठोस",
+        "द्रव",
+        "निर्वात",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "यांत्रिक ध्वनि तरंगें कण टकराव के माध्यम से फैलती हैं; ठोस पदार्थों में उच्च लोच और निकट परमाणु पैकिंग से उच्चतम ध्वनिक वेग (स्टील में लगभग 5100 मीटर/सेकेंड बनाम पानी में 1500 मीटर/सेकंड और हवा में 343 मीटर/सेकेंड) प्राप्त होता है।",
+      "tip_hi": "ध्वनि वेग क्रम: ठोस > तरल पदार्थ > गैसें >> निर्वात (0 m/s, निर्वात के माध्यम से यात्रा नहीं कर सकता)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Transfer of heat by convection can take place in",
+      "hi": "संवहन द्वारा ऊष्मा का स्थानान्तरण हो सकता है",
+      "options": [
+        "solids and liquids",
+        "solids and vacuum",
+        "gases and liquids",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "gases and liquids",
+      "explanation": "Convection involves macroscopic mass movement of fluid particles due to density gradients under gravity. Therefore, it occurs exclusively in fluids (liquids and gases).",
+      "tip": "Conduction = Solids (fixed particles); Convection = Fluids (Liquids & Gases); Radiation = Vacuum & transparent media (no material medium required).",
+      "id": 3,
+      "options_hi": [
+        "ठोस and द्रव",
+        "ठोस and निर्वात",
+        "गैस and द्रव",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "संवहन में गुरुत्वाकर्षण के तहत घनत्व प्रवणता के कारण द्रव कणों का स्थूल द्रव्यमान संचलन शामिल होता है। इसलिए, यह विशेष रूप से तरल पदार्थों (तरल पदार्थ और गैसों) में होता है।",
+      "tip_hi": "चालन = ठोस (स्थिर कण); संवहन = तरल पदार्थ (तरल पदार्थ और गैसें); विकिरण = निर्वात एवं पारदर्शी मीडिया (किसी भौतिक माध्यम की आवश्यकता नहीं)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The power of a lens is measured in",
+      "hi": "लेंस की शक्ति मापी जाती है",
+      "options": [
+        "dioptre",
+        "aeon",
+        "candela",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "dioptre",
+      "explanation": "The optical power of a lens is defined as the reciprocal of its focal length expressed in metres (P = 1/f). Its SI unit is dioptre (D = m^-1).",
+      "tip": "Candela = luminous intensity; Dioptre = lens power. Always convert focal length to metres before applying P = 1/f.",
+      "id": 4,
+      "options_hi": [
+        "dioptre",
+        "aeon",
+        "candela",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लेंस की ऑप्टिकल शक्ति को मीटर (पी = 1/एफ) में व्यक्त इसकी फोकल लंबाई के व्युत्क्रम के रूप में परिभाषित किया गया है। इसकी SI इकाई डायोप्टर (D = m^-1) है।",
+      "tip_hi": "कैंडेला = चमकदार तीव्रता; डायोप्टर = लेंस शक्ति. P = 1/f लगाने से पहले हमेशा फोकल लंबाई को मीटर में बदलें।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The phenomenon used in optical fibre for transmission of light energy is\n(",
+      "hi": "प्रकाशीय तन्तु (ऑप्टिकल फाइबर) में प्रकाश ऊर्जा के संचरण हेतु प्रयुक्त परिघटना है)",
+      "options": [
+        "total internal reflection",
+        "diffraction",
+        "refraction",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "total internal reflection",
+      "explanation": "Optical fibres consist of a high refractive index core surrounded by lower refractive index cladding. Light launched at an angle exceeding the critical angle undergoes repeated total internal reflection without signal leakage.",
+      "tip": "Two conditions for TIR: (1) Light must travel from denser to rarer medium, and (2) Angle of incidence must exceed critical angle.",
+      "id": 5,
+      "options_hi": [
+        "पूर्ण आंतरिक परावर्तन",
+        "diffraction",
+        "अपवर्तन",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ऑप्टिकल फाइबर में एक उच्च अपवर्तक सूचकांक कोर होता है जो कम अपवर्तक सूचकांक आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर प्रक्षेपित प्रकाश सिग्नल रिसाव के बिना बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
+      "tip_hi": "टीआईआर के लिए दो शर्तें: (1) प्रकाश को सघन माध्यम से विरल माध्यम तक यात्रा करनी चाहिए, और (2) घटना का कोण क्रांतिक कोण से अधिक होना चाहिए।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following types of glass can cut ultraviolet (UV) rays?",
+      "hi": "निम्नलिखित में से काँच का कौन-सा प्रकार पराबैंगनी किरणों को काट सकता है?",
+      "options": [
+        "Crookes glass",
+        "Jena glass",
+        "Pyrex glass",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Crookes glass",
+      "explanation": "Crookes glass contains cerium oxide (CeO2), which absorbs harmful high-energy ultraviolet radiation while remaining transparent to visible light, making it ideal for sunglasses.",
+      "tip": "Crookes glass = absorbs UV rays (sunglasses); Pyrex glass = heat-resistant borosilicate (lab apparatus); Flint glass = optical lenses and prisms.",
+      "id": 6,
+      "options_hi": [
+        "Crookes glass",
+        "Jena glass",
+        "Pyrex glass",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "क्रुक्स ग्लास में सेरियम ऑक्साइड (CeO2) होता है, जो दृश्य प्रकाश के लिए पारदर्शी रहते हुए हानिकारक उच्च-ऊर्जा पराबैंगनी विकिरण को अवशोषित करता है, जो इसे धूप के चश्मे के लिए आदर्श बनाता है।",
+      "tip_hi": "क्रुक्स ग्लास = यूवी किरणों को अवशोषित करता है (धूप का चश्मा); पाइरेक्स ग्लास = गर्मी प्रतिरोधी बोरोसिलिकेट (प्रयोगशाला उपकरण); फ्लिंट ग्लास = ऑप्टिकल लेंस और प्रिज्म।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The velocity of electromagnetic waves in vacuum is",
+      "hi": "निर्वात में विद्युत्-चुम्बकीय तरंगों का वेग होता है",
+      "options": [
+        "3 × 10^8 m/s",
+        "3 × 10^7 m/s",
+        "3 × 10^6 m/s",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "3 × 10^8 m/s",
+      "explanation": "All electromagnetic waves (gamma rays, X-rays, UV, visible light, infrared, microwaves, and radio waves) propagate through free space (vacuum) at the universal speed of light c = 1 / sqrt(mu_0 * epsilon_0) approx. 3 × 10^8 m/s.",
+      "tip": "Notice unit exponents carefully: 3 × 10^8 m/s = 3 × 10^5 km/s = 3 × 10^10 cm/s.",
+      "id": 7,
+      "options_hi": [
+        "3 × 10^8 m/s",
+        "3 × 10^7 m/s",
+        "3 × 10^6 m/s",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सभी विद्युत चुम्बकीय तरंगें (गामा किरणें, एक्स-रे, यूवी, दृश्य प्रकाश, अवरक्त, माइक्रोवेव और रेडियो तरंगें) प्रकाश की सार्वभौमिक गति c = 1 / sqrt (mu_0 * epsilon_0) लगभग मुक्त स्थान (वैक्यूम) के माध्यम से फैलती हैं। 3 × 10^8 मी/से.",
+      "tip_hi": "इकाई घातांक पर ध्यान से ध्यान दें: 3 × 10^8 मी/से = 3 × 10^5 किमी/सेकंड = 3 × 10^10 सेमी/से."
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Kepler's second law (law of areas) is based on the conservation of\n(",
+      "hi": "केप्लर का द्वितीय नियम (क्षेत्रफलीय चाल का नियम) किस संरक्षण पर आधारित है?)",
+      "options": [
+        "Newton's first law",
+        "Newton's second law",
+        "conservation of angular momentum",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "conservation of angular momentum",
+      "explanation": "Because gravitational attraction is a central force, the net external torque acting on an orbiting planet about the Sun is zero (tau = r × F = 0). Consequently, its orbital angular momentum L = m * r^2 * omega remains constant, yielding constant areal velocity (dA/dt = L / 2m).",
+      "tip": "Kepler's 1st Law = Law of Elliptical Orbits; Kepler's 2nd Law = Conservation of Angular Momentum; Kepler's 3rd Law = Harmonic Law (T^2 proportional to R^3).",
+      "id": 8,
+      "options_hi": [
+        "Newton's first law",
+        "Newton's second law",
+        "conservation of angular momentum",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "चूँकि गुरुत्वाकर्षण आकर्षण एक केंद्रीय बल है, सूर्य के चारों ओर परिक्रमा करने वाले ग्रह पर लगने वाला शुद्ध बाहरी बलाघूर्ण शून्य (tau = r × F = 0) है। नतीजतन, इसका कक्षीय कोणीय संवेग L = m * r^2 * ओमेगा स्थिर रहता है, जिससे स्थिर क्षेत्रीय वेग (dA/dt = L / 2m) प्राप्त होता है।",
+      "tip_hi": "केप्लर का प्रथम नियम = अण्डाकार कक्षाओं का नियम; केप्लर का दूसरा नियम = कोणीय संवेग का संरक्षण; केप्लर का तीसरा नियम = हार्मोनिक नियम (T^2 R^3 के समानुपाती)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following is not a vector quantity?",
+      "hi": "निम्नलिखित में से कौन-सी सदिश राशि नहीं है?",
+      "options": [
+        "Speed",
+        "Displacement",
+        "Velocity",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Speed",
+      "explanation": "Speed is a scalar quantity possessing magnitude only, without directional dependence. Displacement and velocity are vector quantities requiring both magnitude and spatial direction.",
+      "tip": "Scalars = Speed, Distance, Mass, Time, Work, Energy, Power; Vectors = Velocity, Displacement, Acceleration, Force, Momentum.",
+      "id": 9,
+      "options_hi": [
+        "Speed",
+        "Displacement",
+        "Velocity",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "गति एक अदिश राशि है जिसमें दिशात्मक निर्भरता के बिना केवल परिमाण होता है। विस्थापन और वेग सदिश राशियाँ हैं जिनके लिए परिमाण और स्थानिक दिशा दोनों की आवश्यकता होती है।",
+      "tip_hi": "अदिश = गति, दूरी, द्रव्यमान, समय, कार्य, ऊर्जा, शक्ति; सदिश = वेग, विस्थापन, त्वरण, बल, संवेग।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Solar energy is converted into electric energy through",
+      "hi": "सौर ऊर्जा को विद्युत् ऊर्जा में किसके द्वारा परिवर्तित किया जाता है?",
+      "options": [
+        "voltaic cells",
+        "dry cells",
+        "photovoltaic cells",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "photovoltaic cells",
+      "explanation": "Photovoltaic (solar) cells exploit the photoelectric/photovoltaic effect across a semiconductor p-n junction (such as silicon) to convert absorbed solar photons directly into electric current.",
+      "tip": "Chemical to Electrical = Voltaic/Dry cell; Solar to Electrical = Photovoltaic (solar) cell; Mechanical to Electrical = Dynamo/Generator.",
+      "id": 10,
+      "options_hi": [
+        "voltaic cells",
+        "dry cells",
+        "photovoltaic cells",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "फोटोवोल्टिक (सौर) कोशिकाएं अवशोषित सौर फोटोन को सीधे विद्युत प्रवाह में परिवर्तित करने के लिए अर्धचालक पी-एन जंक्शन (जैसे सिलिकॉन) पर फोटोइलेक्ट्रिक/फोटोवोल्टिक प्रभाव का उपयोग करती हैं।",
+      "tip_hi": "रसायन से विद्युत = वोल्टाइक/शुष्क सेल; सौर से विद्युत = फोटोवोल्टिक (सौर) सेल; मैकेनिकल से इलेक्ट्रिकल = डायनमो/जनरेटर।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "In which of the following heat engines is a carburettor used?",
+      "hi": "निम्नलिखित प्रकार के ऊष्मा इंजनों में से किसमें कार्बुरेटर का प्रयोग किया जाता है?",
+      "options": [
+        "Petrol engine",
+        "Diesel engine",
+        "Steam engine",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Petrol engine",
+      "explanation": "A carburettor mixes atomized petrol with intake air in stoichiometric proportion before induction into the cylinder for spark ignition. Diesel engines utilize fuel injectors instead of carburettors.",
+      "tip": "Petrol engine = Spark ignition + Carburettor; Diesel engine = Compression ignition + Fuel injector (no spark plug or carburettor).",
+      "id": 11,
+      "options_hi": [
+        "Petrol engine",
+        "Diesel engine",
+        "Steam engine",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "स्पार्क इग्निशन के लिए सिलेंडर में प्रेरण से पहले एक कार्बोरेटर स्टोइकोमेट्रिक अनुपात में सेवन वायु के साथ परमाणुकृत पेट्रोल को मिलाता है। डीजल इंजन कार्बोरेटर के बजाय ईंधन इंजेक्टर का उपयोग करते हैं।",
+      "tip_hi": "पेट्रोल इंजन = स्पार्क इग्निशन + कार्बोरेटर; डीजल इंजन = कम्प्रेशन इग्निशन + ईंधन इंजेक्टर (कोई स्पार्क प्लग या कार्बोरेटर नहीं)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Lenz's law is based on the conservation of",
+      "hi": "लेन्ज का नियम किस संरक्षण नियम पर आधारित है?",
+      "options": [
+        "energy",
+        "charge",
+        "momentum",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "energy",
+      "explanation": "Lenz's law states that induced electromotive force opposes the magnetic flux change producing it. Mechanical work done in overcoming this opposing magnetic force is converted into electrical energy, satisfying conservation of energy.",
+      "tip": "Kirchhoff's 1st Law (Junction) = Conservation of Charge; Kirchhoff's 2nd Law (Loop) = Conservation of Energy; Lenz's Law = Conservation of Energy.",
+      "id": 12,
+      "options_hi": [
+        "energy",
+        "charge",
+        "momentum",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लेन्ज़ का नियम बताता है कि प्रेरित इलेक्ट्रोमोटिव बल इसे उत्पन्न करने वाले चुंबकीय प्रवाह परिवर्तन का विरोध करता है। इस विरोधी चुंबकीय बल पर काबू पाने के लिए किया गया यांत्रिक कार्य विद्युत ऊर्जा में परिवर्तित हो जाता है, जिससे ऊर्जा का संरक्षण होता है।",
+      "tip_hi": "किरचॉफ का पहला नियम (जंक्शन) = आवेश का संरक्षण; किरचॉफ का दूसरा नियम (लूप) = ऊर्जा संरक्षण; लेन्ज़ का नियम = ऊर्जा संरक्षण।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Cosmic rays are",
+      "hi": "कॉस्मिक किरणें हैं",
+      "options": [
+        "charged particles",
+        "uncharged particles",
+        "electromagnetic waves",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "charged particles",
+      "explanation": "Cosmic rays are high-energy relativistic charged particles originating from outer space, consisting predominantly of positive protons (approx. 90%), alpha particles (9%), and heavier atomic nuclei.",
+      "tip": "Cosmic rays are particulate radiation (positively charged nuclei), not photons or electromagnetic waves.",
+      "id": 13,
+      "options_hi": [
+        "charged particles",
+        "uncharged particles",
+        "electromagnetic waves",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कॉस्मिक किरणें बाहरी अंतरिक्ष से उत्पन्न होने वाले उच्च-ऊर्जा सापेक्ष आवेशित कण हैं, जिनमें मुख्य रूप से सकारात्मक प्रोटॉन (लगभग 90%), अल्फा कण (9%) और भारी परमाणु नाभिक होते हैं।",
+      "tip_hi": "कॉस्मिक किरणें कणीय विकिरण (सकारात्मक आवेशित नाभिक) हैं, फोटॉन या विद्युत चुम्बकीय तरंगें नहीं।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following is not an electromagnetic wave?",
+      "hi": "निम्नलिखित में से कौन-सी विद्युत्-चुम्बकीय तरंग नहीं है?",
+      "options": [
+        "Gamma ray",
+        "X-ray",
+        "Beta ray",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Beta ray",
+      "explanation": "Beta rays are high-speed streams of energetic electrons (beta-) or positrons (beta+) emitted during nuclear decay, possessing mass and charge. Gamma rays and X-rays are massless, chargeless electromagnetic waves.",
+      "tip": "EM Waves: Radio, Microwave, Infrared, Visible, UV, X-rays, Gamma rays. Non-EM Particulate Streams: Alpha rays (He nuclei), Beta rays (electrons), Cathode rays.",
+      "id": 14,
+      "options_hi": [
+        "Gamma ray",
+        "X-ray",
+        "Beta ray",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बीटा किरणें परमाणु क्षय के दौरान उत्सर्जित ऊर्जावान इलेक्ट्रॉनों (बीटा-) या पॉज़िट्रॉन (बीटा+) की उच्च गति वाली धाराएं हैं, जिनमें द्रव्यमान और आवेश होता है। गामा किरणें और एक्स-रे द्रव्यमान रहित, आवेश रहित विद्युत चुम्बकीय तरंगें हैं।",
+      "tip_hi": "ईएम तरंगें: रेडियो, माइक्रोवेव, इन्फ्रारेड, दृश्यमान, यूवी, एक्स-रे, गामा किरणें। गैर-ईएम पार्टिकुलेट धाराएँ: अल्फा किरणें (He नाभिक), बीटा किरणें (इलेक्ट्रॉन), कैथोड किरणें।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "On heating, the electrical resistance of a semiconductor",
+      "hi": "गर्म करने पर किसी अर्द्धचालक का विद्युत् प्रतिरोध",
+      "options": [
+        "increases",
+        "decreases",
+        "remains same",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "decreases",
+      "explanation": "Semiconductors have a negative temperature coefficient of resistance (alpha < 0). Thermal energy breaks covalent bonds, liberating covalent electrons into the conduction band, vastly increasing charge carrier concentration and lowering resistance.",
+      "tip": "Metals (Conductors) = Resistance increases on heating; Semiconductors & Electrolytes = Resistance decreases on heating.",
+      "id": 15,
+      "options_hi": [
+        "increases",
+        "decreases",
+        "remains same",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अर्धचालकों में प्रतिरोध का नकारात्मक तापमान गुणांक होता है (अल्फा <0)। तापीय ऊर्जा सहसंयोजक बंधनों को तोड़ती है, सहसंयोजक इलेक्ट्रॉनों को चालन बैंड में मुक्त करती है, जिससे चार्ज वाहक एकाग्रता में काफी वृद्धि होती है और प्रतिरोध कम होता है।",
+      "tip_hi": "धातु (कंडक्टर) = गरम करने पर प्रतिरोध बढ़ता है; अर्धचालक और इलेक्ट्रोलाइट्स = गर्म करने पर प्रतिरोध कम हो जाता है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Internal energy of an ideal gas in a cyclic thermodynamic process",
+      "hi": "चक्रीय प्रक्रम में किसी गैस की आन्तरिक ऊर्जा",
+      "options": [
+        "increases",
+        "decreases",
+        "remains unchanged",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "remains unchanged",
+      "explanation": "Internal energy is a thermodynamic state function dependent solely on temperature (U = f(T)). In any completed cyclic process, the system returns to its initial thermodynamic state (Delta U = 0), so net internal energy remains unchanged.",
+      "tip": "For any cyclic process: Delta U = 0 (Internal energy change is zero); therefore Q = W (First Law of Thermodynamics).",
+      "id": 16,
+      "options_hi": [
+        "increases",
+        "decreases",
+        "remains unchanged",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "आंतरिक ऊर्जा एक थर्मोडायनामिक अवस्था फ़ंक्शन है जो पूरी तरह से तापमान (यू = एफ (टी)) पर निर्भर है। किसी भी पूर्ण चक्रीय प्रक्रिया में, सिस्टम अपनी प्रारंभिक थर्मोडायनामिक स्थिति (डेल्टा यू = 0) पर लौट आता है, इसलिए शुद्ध आंतरिक ऊर्जा अपरिवर्तित रहती है।",
+      "tip_hi": "किसी भी चक्रीय प्रक्रिया के लिए: डेल्टा यू = 0 (आंतरिक ऊर्जा परिवर्तन शून्य है); इसलिए Q = W (ऊष्मप्रवैगिकी का पहला नियम)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following is considered a better nuclear fuel?",
+      "hi": "निम्नलिखित में से कौन-सा एक बेहतर नाभिकीय ईंधन है?",
+      "options": [
+        "Thorium 236",
+        "Uranium 235",
+        "Neptunium 239",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Uranium 235",
+      "explanation": "Uranium-235 is a naturally occurring fissile isotope that readily undergoes nuclear fission upon capturing low-energy thermal neutrons, sustaining controlled chain reactions in nuclear power reactors.",
+      "tip": "Fissile isotopes that split directly with thermal neutrons: U-235, Pu-239, U-233. Fertile isotopes requiring transmutation: U-238, Th-232.",
+      "id": 17,
+      "options_hi": [
+        "Thorium 236",
+        "Uranium 235",
+        "Neptunium 239",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "यूरेनियम-235 एक प्राकृतिक रूप से पाया जाने वाला विखंडनीय आइसोटोप है जो कम ऊर्जा वाले थर्मल न्यूट्रॉन को ग्रहण करने पर आसानी से परमाणु विखंडन से गुजरता है, जिससे परमाणु ऊर्जा रिएक्टरों में नियंत्रित श्रृंखला प्रतिक्रियाएं बनी रहती हैं।",
+      "tip_hi": "विखंडनीय आइसोटोप जो थर्मल न्यूट्रॉन के साथ सीधे विभाजित होते हैं: यू-235, पीयू-239, यू-233। रूपांतरण की आवश्यकता वाले उपजाऊ आइसोटोप: U-238, Th-232।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "If the speed of sound in air at 0°C is 332 m/s, then at 35°C the speed of sound in air will be approximately",
+      "hi": "यदि 0°C पर वायु में ध्वनि की चाल 332 मी०/से० है, तो 35°C पर वायु में ध्वनि की चाल लगभग होगी",
+      "options": [
+        "325 metres/second",
+        "353 metres/second",
+        "367 metres/second",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "353 metres/second",
+      "explanation": "Acoustic velocity increases with temperature at the rate of approx. 0.61 m/s per °C: v_t = v_0 + 0.61 * t = 332 + 0.61 * 35 = 332 + 21.35 = 353.35 m/s approx. 353 m/s.",
+      "tip": "Rule of thumb: Velocity of sound increases by 0.61 m/s for every 1°C increase in temperature.",
+      "id": 18,
+      "options_hi": [
+        "325 metres/second",
+        "353 metres/second",
+        "367 metres/second",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "तापमान के साथ ध्वनिक वेग लगभग की दर से बढ़ता है। 0.61 मी/से प्रति डिग्री सेल्सियस: v_t = v_0 + 0.61 * t = 332 + 0.61 * 35 = 332 + 21.35 = 353.35 मी/से लगभग। 353 मी/से.",
+      "tip_hi": "सामान्य नियम: तापमान में प्रत्येक 1°C वृद्धि पर ध्वनि का वेग 0.61 m/s बढ़ जाता है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Magnetic domains are formed in which of the following substances?",
+      "hi": "चुम्बकीय डोमेन निम्नलिखित में से किस पदार्थ में बनते हैं?",
+      "options": [
+        "Diamagnetic",
+        "Paramagnetic",
+        "Ferromagnetic",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Ferromagnetic",
+      "explanation": "Ferromagnetic materials (such as iron, cobalt, and nickel) contain microscopic regions called magnetic domains (approx. 10^17 to 10^21 atoms each) where exchange coupling aligns atomic dipoles in a spontaneous common direction.",
+      "tip": "Domains = Ferromagnetic only; Diamagnetic = Weakly repelled; Paramagnetic = Weakly attracted with randomly oriented dipoles.",
+      "id": 19,
+      "options_hi": [
+        "Diamagnetic",
+        "Paramagnetic",
+        "Ferromagnetic",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लौहचुंबकीय सामग्री (जैसे लोहा, कोबाल्ट और निकल) में सूक्ष्म क्षेत्र होते हैं जिन्हें चुंबकीय डोमेन कहा जाता है (प्रत्येक में लगभग 10^17 से 10^21 परमाणु) जहां विनिमय युग्मन परमाणु द्विध्रुवों को एक सहज सामान्य दिशा में संरेखित करता है।",
+      "tip_hi": "डोमेन = केवल लौहचुंबकीय; प्रतिचुंबकीय = कमजोर रूप से प्रतिकर्षित; अनुचुंबकीय = बेतरतीब ढंग से उन्मुख द्विध्रुवों के साथ कमजोर रूप से आकर्षित।"
+    },
+    {
+      "source": "BPSC Middle School & TGT Science",
+      "en": "Monochromatic light enters from one optical medium to another. Which one of the following physical properties does not change?",
+      "hi": "एकवर्णी प्रकाश एक माध्यम से दूसरे माध्यम में प्रवेश करता है। निम्नलिखित में से कौन-सा भौतिक गुण नहीं बदलता है?",
+      "options": [
+        "Frequency",
+        "Amplitude",
+        "Velocity",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Frequency",
+      "explanation": "The frequency of light depends exclusively on the atomic oscillations of the generating source. During refraction across media boundaries, velocity and wavelength decrease proportionally (v = f * lambda), leaving frequency invariant.",
+      "tip": "In refraction: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change proportionally; Wave slows down and bends towards normal in denser media.\nSection 2: Chemistry (रसायन विज्ञान) — Questions 21 to 40\nPeriodic Trends, Molecular Structure, Coordination Chemistry, Organic Mechanisms & Thermochemistry",
+      "id": 20,
+      "options_hi": [
+        "Frequency",
+        "Amplitude",
+        "Velocity",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रकाश की आवृत्ति विशेष रूप से उत्पन्न स्रोत के परमाणु दोलनों पर निर्भर करती है। मीडिया सीमाओं के पार अपवर्तन के दौरान, वेग और तरंग दैर्ध्य आनुपातिक रूप से कम हो जाते हैं (v = f * लैम्ब्डा), जिससे आवृत्ति अपरिवर्तित रहती है।",
+      "tip_hi": "अपवर्तन में: आवृत्ति (f) अपरिवर्तनीय रहती है; वेग (v) और तरंग दैर्ध्य (लैम्ब्डा) आनुपातिक रूप से बदलते हैं; सघन मीडिया में तरंग धीमी हो जाती है और सामान्य की ओर झुक जाती है।\nधारा 2: रसायन विज्ञान (रसायन विज्ञान) - प्रश्न 21 से 40\nआवधिक रुझान, आणविक संरचना, समन्वय रसायन विज्ञान, कार्बनिक तंत्र और थर्मोकैमिस्ट्री"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following is an intensive property?\n(",
+      "hi": "निम्नलिखित में से कौन-सा एक गहन (विशिष्ट) गुणधर्म है?)",
+      "options": [
+        "Refractive index",
+        "Volume",
+        "Mass",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Refractive index",
+      "explanation": "An intensive property is independent of the size or quantity of matter in the thermodynamic system. Refractive index, density, temperature, and pressure are intensive, whereas mass and volume are extensive.",
+      "tip": "Extensive = depends on sample size (Mass, Volume, Enthalpy, Heat capacity); Intensive = independent of sample size (Density, Refractive index, Temperature, Viscosity).",
+      "id": 21,
+      "options_hi": [
+        "Refractive index",
+        "Volume",
+        "Mass",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक गहन गुण थर्मोडायनामिक प्रणाली में पदार्थ के आकार या मात्रा से स्वतंत्र होता है। अपवर्तनांक, घनत्व, तापमान और दबाव गहन हैं, जबकि द्रव्यमान और आयतन व्यापक हैं।",
+      "tip_hi": "व्यापक = नमूना आकार (द्रव्यमान, आयतन, एन्थैल्पी, ताप क्षमता) पर निर्भर करता है; गहन = नमूना आकार से स्वतंत्र (घनत्व, अपवर्तक सूचकांक, तापमान, चिपचिपापन)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The decreasing order of second ionization potential of Carbon (C), Nitrogen (N), Oxygen (O), and Fluorine (F) is\n(",
+      "hi": "कार्बन (C), नाइट्रोजन (N), ऑक्सीजन (O) और फ्लोरीन (F) के द्वितीय आयनन विभव का घटता क्रम है)",
+      "options": [
+        ", Nitrogen (N), Oxygen (O), and Fluorine (F) is\n(कार्बन",
+        ", नाइट्रोजन (N), ऑक्सीजन (O) और फ्लोरीन (F) के द्वितीय आयनन विभव का घटता क्रम है)",
+        "O > F > N > C",
+        "C > N > O > F",
+        "O > N > F > C"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "O > F > N > C",
+      "explanation": "Second ionization removes an electron from the unipositive cation. O+ has the stable half-filled electronic configuration 2s^2 2p^3, requiring the highest removal energy, making its second IP greater than that of F+ (2p^4), N+ (2p^2), and C+ (2p^1).",
+      "tip": "Always write the electronic configuration of the M+ cation when analyzing 2nd Ionization Potential. O+ is 2p^3 (half-filled stability), hence O has the highest 2nd IP.",
+      "id": 22,
+      "options_hi": [
+        ", Nitrogen (N), Oxygen (O), and Fluorine (F) is\n(कार्बन",
+        ", नाइट्रोजन (N), ऑक्सीजन (O) और फ्लोरीन (F) के द्वितीय आयनन विभव का घटता क्रम है)",
+        "O > F > N > C",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "दूसरा आयनीकरण एक इलेक्ट्रॉन को एकधनात्मक धनायन से हटा देता है। O+ में स्थिर आधा-भरा इलेक्ट्रॉनिक कॉन्फ़िगरेशन 2s^2 2p^3 है, जिसके लिए उच्चतम निष्कासन ऊर्जा की आवश्यकता होती है, जिससे इसका दूसरा IP F+ (2p^4), N+ (2p^2), और C+ (2p^1) से अधिक हो जाता है।",
+      "tip_hi": "द्वितीय आयनीकरण विभव का विश्लेषण करते समय हमेशा M+ धनायन का इलेक्ट्रॉनिक विन्यास लिखें। O+ 2p^3 (आधी-भरी स्थिरता) है, इसलिए O का दूसरा IP उच्चतम है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following elements has the largest atomic size?",
+      "hi": "निम्नलिखित में से किसका परमाणु आकार सबसे बड़ा है?",
+      "options": [
+        "Mg",
+        "Be",
+        "Ra",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Ra",
+      "explanation": "All three elements belong to Group 2 (alkaline earth metals). Down a periodic group, principal quantum shells are progressively added, so atomic radius increases: Be (period 2) < Mg (period 3) < Ca < Sr < Ba < Ra (period 7, largest).",
+      "tip": "Periodic trend: Atomic radius increases down a group (due to increasing shells) and decreases across a period left-to-right (due to increasing effective nuclear charge).",
+      "id": 23,
+      "options_hi": [
+        "Mg",
+        "Be",
+        "Ra",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सभी तीन तत्व समूह 2 (क्षारीय पृथ्वी धातु) से संबंधित हैं। एक आवधिक समूह के नीचे, मुख्य क्वांटम कोश उत्तरोत्तर जुड़ते जाते हैं, इसलिए परमाणु त्रिज्या बढ़ती है: Be (अवधि 2) < Mg (अवधि 3) < Ca < Sr < Ba < Ra (अवधि 7, सबसे बड़ी)।",
+      "tip_hi": "आवधिक प्रवृत्ति: परमाणु त्रिज्या एक समूह में नीचे की ओर बढ़ती है (कोशों में वृद्धि के कारण) और बाएं से दाएं (प्रभावी परमाणु चार्ज में वृद्धि के कारण) अवधि में घटती है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The number of nodal planes in a p_x-orbital is",
+      "hi": "p_x-कक्षक में नोडल तलों की संख्या होती है",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "1",
+      "explanation": "The number of angular nodes (nodal planes) for any atomic subshell equals its azimuthal quantum number (l). For a p-orbital, l = 1; specifically, the p_x orbital has exactly one nodal plane, which is the yz-plane.",
+      "tip": "Nodal planes = l. s-orbital (l=0) has 0; p-orbital (l=1) has 1; d-orbital (l=2) has 2 (except d_z^2 which has 2 nodal cones).",
+      "id": 24,
+      "options_hi": [
+        "1",
+        "2",
+        "3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "किसी भी परमाणु उपकोश के लिए कोणीय नोड्स (नोडल विमानों) की संख्या उसके अज़ीमुथल क्वांटम संख्या (एल) के बराबर होती है। पी-ऑर्बिटल के लिए, एल = 1; विशेष रूप से, p_x ऑर्बिटल में बिल्कुल एक नोडल प्लेन होता है, जो yz-प्लेन है।",
+      "tip_hi": "नोडल तल = एल. s-ऑर्बिटल (l=0) में 0 है; पी-ऑर्बिटल (एल=1) में 1 है; d-ऑर्बिटल (l=2) में 2 हैं (d_z^2 को छोड़कर जिसमें 2 नोडल शंकु हैं)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Intermolecular hydrogen bonding is strongest in which of the following compounds?",
+      "hi": "निम्नलिखित यौगिकों में से किसमें अंतराआण्विक हाइड्रोजन बंधन सबसे प्रबल होगा?",
+      "options": [
+        "C2H5OC2H5",
+        "(C2H5)3N",
+        "C2H5OH",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "C2H5OH",
+      "explanation": "Ethanol (C2H5OH) contains hydrogen directly bonded to highly electronegative oxygen (O-H), establishing strong intermolecular hydrogen bonding. Diethyl ether lacks O-H bonds, and triethylamine lacks N-H bonds.",
+      "tip": "Hydrogen bonding requires H bonded directly to F, O, or N (FON). Ethers and tertiary amines have no acidic H on heteroatoms.",
+      "id": 25,
+      "options_hi": [
+        "C2H5OC2H5",
+        "(C2H5)3N",
+        "C2H5OH",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "इथेनॉल (C2H5OH) में हाइड्रोजन सीधे अत्यधिक विद्युत ऋणात्मक ऑक्सीजन (O-H) से जुड़ा होता है, जो मजबूत अंतर-आणविक हाइड्रोजन बंधन स्थापित करता है। डायथाइल ईथर में ओ-एच बांड का अभाव है, और ट्राइथाइलमाइन में एन-एच बांड का अभाव है।",
+      "tip_hi": "हाइड्रोजन बॉन्डिंग के लिए H को सीधे F, O, या N (FON) से बॉन्ड करने की आवश्यकता होती है। ईथर और तृतीयक ऐमीन में हेटेरोएटम पर कोई अम्लीय H नहीं होता है।"
+    }
+  ]
+}

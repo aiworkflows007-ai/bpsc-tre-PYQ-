@@ -1,10 +1,10 @@
 {
   "id": "bpsc-tre4-computer-science-tgt-80q",
-  "title": "Computer Science Practice Set 2 (TGT Class 9-10 - 80Q)",
+  "title": "Computer Science Practice Set 8 (Full TGT 80Q Master Mock)",
   "section": "subject",
   "section_name": "Part-III Subject Practice (80 Marks)",
   "subject": "Computer Science",
-  "filename": "bpsc-tre-master-file3-computer-science.docx",
+  "filename": "bpsc-tre4-computer-science-tgt-80q.json",
   "question_count": 80,
   "questions": [
     {
@@ -388,7 +388,7 @@
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
       "en": "What will be the output of the following C++ code?`void square(int* x, int* y) { *x = (*x) * --(*y); }``int main() { int number = 30; square(&number, &number); cout << number; }`",
-      "hi": "What will be the output of the following C++ code?`void square(int* x, int* y) { *x = (*x) * --(*y); }``int main() { int number = 30; square(&number, &number); cout << number; }`",
+      "hi": "निम्नलिखित C++ कोड का आउटपुट क्या होगा?\n\nvoid square(int *p) {\n  *p = (*p) * (*p);\n}\nint main() {\n  int x = 6;\n  square(&x);\n  cout << x;\n}",
       "options": [
         "30",
         "870",

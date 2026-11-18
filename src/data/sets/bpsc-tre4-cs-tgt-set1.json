@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-cs-tgt-set1",
+  "title": "Computer Science Practice Set 4 (TGT Class 9-10 — Part 1)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Computer Science",
+  "filename": "bpsc-tre4-cs-tgt-set1.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In computer networks, the primary protocol responsible for routing packets across heterogeneous networks at Layer 3 is",
+      "hi": "कम्प्यूटर नेटवर्क में लेयर 3 पर विभिन्न नेटवर्कों में पैकेट रूटिंग के लिए मुख्य प्रोटोकॉल कौन-सा है?",
+      "options": [
+        "TCP",
+        "IP (Internet Protocol)",
+        "HTTP",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "IP (Internet Protocol)",
+      "explanation": "The Internet Protocol (IP) operates at Layer 3 (Network Layer) of the OSI model, handling logical addressing and host-to-host packet routing across internetworks. TCP operates at Layer 4 (Transport).",
+      "tip": "Layer 3 (Network) = IP, Routers, Packets; Layer 4 (Transport) = TCP/UDP, Port numbers, Segments.",
+      "id": 1,
+      "options_hi": [
+        "TCP",
+        "IP (Internet Protocol)",
+        "HTTP",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "इंटरनेट प्रोटोकॉल (आईपी) ओएसआई मॉडल के लेयर 3 (नेटवर्क लेयर) पर काम करता है, जो इंटरनेटवर्क में लॉजिकल एड्रेसिंग और होस्ट-टू-होस्ट पैकेट रूटिंग को संभालता है। टीसीपी लेयर 4 (ट्रांसपोर्ट) पर काम करता है।",
+      "tip_hi": "परत 3 (नेटवर्क) = आईपी, राउटर, पैकेट; परत 4 (परिवहन) = टीसीपी/यूडीपी, पोर्ट संख्या, खंड।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "When a key is pressed on keyboard, which standard is used for converting the keystroke into the corresponding bits?",
+      "hi": "जब कीबोर्ड पर एक कुंजी दबाई जाती है, तो कीस्ट्रोक को संबंधित बिट्स में परिवर्तित करने के लिए किस मानक का उपयोग किया जाता है?",
+      "options": [
+        "ANSI",
+        "ASCII",
+        "EBCDIC",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "ASCII",
+      "explanation": "The American Standard Code for Information Interchange (ASCII) is the universal character encoding standard that maps alphanumeric keystrokes into 7-bit or 8-bit binary codes recognized by computer controllers.",
+      "tip": "Standard PC keystroke mapping = ASCII (7-bit standard, 8-bit extended); IBM mainframes traditionally used EBCDIC.",
+      "id": 2,
+      "options_hi": [
+        "ANSI",
+        "ASCII",
+        "EBCDIC",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अमेरिकन स्टैंडर्ड कोड फॉर इंफॉर्मेशन इंटरचेंज (एएससीआईआई) सार्वभौमिक कैरेक्टर एन्कोडिंग मानक है जो अल्फ़ान्यूमेरिक कीस्ट्रोक्स को कंप्यूटर नियंत्रकों द्वारा मान्यता प्राप्त 7-बिट या 8-बिट बाइनरी कोड में मैप करता है।",
+      "tip_hi": "मानक पीसी कीस्ट्रोक मैपिंग = ASCII (7-बिट मानक, 8-बिट विस्तारित); आईबीएम मेनफ्रेम पारंपरिक रूप से ईबीसीडीआईसी का उपयोग करते हैं।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What difference do the fifth generation computers have from other generation computers?",
+      "hi": "पाँचवीं पीढ़ी के कंप्यूटरों में अन्य पीढ़ी के कंप्यूटरों से क्या मुख्य अंतर है?",
+      "options": [
+        "Technological advancement (Artificial Intelligence & Ultra Large Scale Integration)",
+        "Object-oriented programming",
+        "Scientific code",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Technological advancement (Artificial Intelligence & Ultra Large Scale Integration)",
+      "explanation": "Fifth-generation computing devices are characterized by parallel processing hardware and Artificial Intelligence (AI) algorithms utilizing ULSI (Ultra Large Scale Integration), differentiating them from earlier silicon microprocessor generations.",
+      "tip": "Computer Generations: 1st = Vacuum tubes; 2nd = Transistors; 3rd = Integrated Circuits (IC); 4th = VLSI Microprocessors; 5th = ULSI & Artificial Intelligence.",
+      "id": 3,
+      "options_hi": [
+        "Technological advancement (Artificial Intelligence & Ultra Large Scale Integration)",
+        "Object-oriented programming",
+        "Scientific code",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पांचवीं पीढ़ी के कंप्यूटिंग उपकरणों को यूएलएसआई (अल्ट्रा लार्ज स्केल इंटीग्रेशन) का उपयोग करने वाले समानांतर प्रसंस्करण हार्डवेयर और आर्टिफिशियल इंटेलिजेंस (एआई) एल्गोरिदम की विशेषता है, जो उन्हें पहले की सिलिकॉन माइक्रोप्रोसेसर पीढ़ियों से अलग करती है।",
+      "tip_hi": "कंप्यूटर पीढ़ी: प्रथम = वैक्यूम ट्यूब; दूसरा = ट्रांजिस्टर; तीसरा = इंटीग्रेटेड सर्किट (आईसी); चौथा = वीएलएसआई माइक्रोप्रोसेसर; 5वां = यूएलएसआई और आर्टिफिशियल इंटेलिजेंस।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Source code is available to view, modify and redistribute in",
+      "hi": "स्रोत कोड देखने, संशोधित करने और पुनर्वितरित करने के लिए किसमें उपलब्ध रहता है?",
+      "options": [
+        "open source software",
+        "licensed software",
+        "proprietary software",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "open source software",
+      "explanation": "Open-source software licenses (e.g., GNU GPL, Apache, MIT) grant users the legal rights to inspect, alter, enhance, and freely redistribute the underlying human-readable source code.",
+      "tip": "Free to modify & distribute = Open Source; Closed binary without source code = Proprietary/Commercial (e.g., MS Windows).",
+      "id": 4,
+      "options_hi": [
+        "open source software",
+        "licensed software",
+        "proprietary software",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "ओपन-सोर्स सॉफ़्टवेयर लाइसेंस (उदाहरण के लिए, जीएनयू जीपीएल, अपाचे, एमआईटी) उपयोगकर्ताओं को अंतर्निहित मानव-पठनीय स्रोत कोड का निरीक्षण, परिवर्तन, वृद्धि और स्वतंत्र रूप से पुनर्वितरित करने का कानूनी अधिकार प्रदान करते हैं।",
+      "tip_hi": "संशोधित और वितरित करने के लिए नि:शुल्क = खुला स्रोत; स्रोत कोड के बिना बंद बाइनरी = मालिकाना/वाणिज्यिक (उदाहरण के लिए, एमएस विंडोज़)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Machine language is(",
+      "hi": "मशीनी भाषा (Machine Language) होती है)",
+      "options": [
+        "machine dependent",
+        "difficult to program",
+        "error prone",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "Machine language consists of raw binary 0s and 1s directly executed by the CPU. It is strictly architecture-dependent, exceptionally tedious and difficult for humans to write, and highly prone to programmer errors.",
+      "tip": "All three statements (A), (B), and (C) are classic limitations of raw binary machine code, making Option (D) the official answer.",
+      "id": 5,
+      "options_hi": [
+        "machine dependent",
+        "difficult to program",
+        "error prone",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मशीन भाषा में सीपीयू द्वारा सीधे निष्पादित कच्चे बाइनरी 0s और 1s होते हैं। यह पूरी तरह से वास्तुकला पर निर्भर है, असाधारण रूप से थकाऊ है और मनुष्यों के लिए इसे लिखना कठिन है, और प्रोग्रामर त्रुटियों की अत्यधिक संभावना है।",
+      "tip_hi": "सभी तीन कथन (ए), (बी), और (सी) कच्चे बाइनरी मशीन कोड की क्लासिक सीमाएं हैं, जो विकल्प (डी) को आधिकारिक उत्तर बनाते हैं।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "An assembly language is a/an(",
+      "hi": "एक असेम्ब्ली भाषा (Assembly Language) है)",
+      "options": [
+        "low-level programming language",
+        "middle-level programming language",
+        "internet-based programming language",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "low-level programming language",
+      "explanation": "Assembly language is a low-level programming language that provides mnemonic representations of machine instructions with a nearly 1:1 correspondence to processor opcodes, requiring an assembler to produce machine code.",
+      "tip": "Low-level languages = Machine Language (Binary) & Assembly Language (Mnemonics like MOV, ADD); High-level = C++, Java, Python.",
+      "id": 6,
+      "options_hi": [
+        "low-level programming language",
+        "middle-level programming language",
+        "internet-based programming language",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "असेंबली भाषा एक निम्न-स्तरीय प्रोग्रामिंग भाषा है जो प्रोसेसर ऑपकोड के साथ लगभग 1:1 पत्राचार के साथ मशीन निर्देशों का स्मरणीय प्रतिनिधित्व प्रदान करती है, जिसके लिए एक असेंबलर को मशीन कोड का उत्पादन करने की आवश्यकता होती है।",
+      "tip_hi": "निम्न-स्तरीय भाषाएँ = मशीन भाषा (बाइनरी) और असेंबली भाषा (MOV, ADD जैसे निमोनिक्स); उच्च-स्तरीय = सी++, जावा, पायथन।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "A compiler is a translating program which",
+      "hi": "कंपाइलर एक अनुवाद करने वाला प्रोग्राम है, जो",
+      "options": [
+        "translates instructions of a high-level language into machine language",
+        "translates entire source program into machine language program at once",
+        "is not involved in program's execution directly",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "A compiler converts high-level programming language source code into executable machine code by translating the entire source program at once before execution time, fulfilling both (A) and (B).",
+      "tip": "Because both (A) (translates high-level to machine) and (B) (translates entire program at once) describe compiler functionality, Option (D) is triggered.",
+      "id": 7,
+      "options_hi": [
+        "translates instructions of a high-level language into machine language",
+        "translates entire source program into machine language program at once",
+        "is not involved in program's execution directly",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक कंपाइलर (ए) और (बी) दोनों को पूरा करते हुए, निष्पादन समय से पहले एक बार में पूरे स्रोत प्रोग्राम का अनुवाद करके उच्च-स्तरीय प्रोग्रामिंग भाषा स्रोत कोड को निष्पादन योग्य मशीन कोड में परिवर्तित करता है।",
+      "tip_hi": "क्योंकि दोनों (ए) (उच्च-स्तरीय मशीन में अनुवाद करता है) और (बी) (एक ही बार में पूरे प्रोग्राम का अनुवाद करता है) कंपाइलर कार्यक्षमता का वर्णन करता है, विकल्प (डी) ट्रिगर होता है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following programming approaches is fundamentally adopted by C++?",
+      "hi": "निम्नलिखित में से कौन-सा दृष्टिकोण C++ द्वारा मुख्य रूप से उपयोग किया जाता है?",
+      "options": [
+        "Left-right approach",
+        "Top-down approach",
+        "Bottom-up approach",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Bottom-up approach",
+      "explanation": "Object-Oriented Programming languages like C++ follow a Bottom-up design paradigm where low-level objects and classes are created first and aggregated together to form larger subsystems. Procedural C uses Top-down.",
+      "tip": "Paradigm rule: Object-Oriented (C++, Java) = Bottom-Up; Procedural / Structured (C, Pascal) = Top-Down.",
+      "id": 8,
+      "options_hi": [
+        "Left-right approach",
+        "Top-down approach",
+        "Bottom-up approach",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "C++ जैसी ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषाएं बॉटम-अप डिज़ाइन प्रतिमान का पालन करती हैं, जहां निम्न-स्तरीय ऑब्जेक्ट और कक्षाएं पहले बनाई जाती हैं और बड़े सबसिस्टम बनाने के लिए एक साथ एकत्रित की जाती हैं। प्रक्रियात्मक सी टॉप-डाउन का उपयोग करता है।",
+      "tip_hi": "प्रतिमान नियम: ऑब्जेक्ट-ओरिएंटेड (सी++, जावा) = नीचे-ऊपर; प्रक्रियात्मक/संरचित (सी, पास्कल) = ऊपर से नीचे।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is virtual inheritance in C++?(C++",
+      "hi": "में वर्चुअल इन्हेरिटन्स (Virtual Inheritance) क्या होता है?)",
+      "options": [
+        "C++ technique to enhance mul",
+        "C++ technique to ensure that a private member of the base class can be accessed somehow",
+        "C++ technique to avoid mul",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "C++ technique to avoid multiple copies of the base class into children/derived class",
+      "explanation": "Virtual inheritance resolves the ambiguity of the 'Diamond Problem' in multipath inheritance by ensuring that only one shared sub-object instance of an indirect base class is included in the most derived class.",
+      "tip": "Virtual base class = Solves Diamond problem by ensuring exactly one shared copy of the base class.",
+      "id": 9,
+      "options_hi": [
+        "C++ technique to enhance mul",
+        "C++ technique to ensure that a private member of the base class can be accessed somehow",
+        "C++ technique to avoid mul",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वर्चुअल इनहेरिटेंस मल्टीपाथ इनहेरिटेंस में 'डायमंड प्रॉब्लम' की अस्पष्टता को यह सुनिश्चित करके हल करता है कि अप्रत्यक्ष बेस क्लास का केवल एक साझा उप-ऑब्जेक्ट उदाहरण सबसे व्युत्पन्न क्लास में शामिल है।",
+      "tip_hi": "वर्चुअल बेस क्लास = बेस क्लास की बिल्कुल एक साझा प्रतिलिपि सुनिश्चित करके डायमंड समस्या का समाधान करता है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What happens if the following C++ statement is compiled and executed?`int* ptr = NULL;``delete ptr;`",
+      "hi": "यदि निम्नलिखित C++ कथन संकलित और निष्पादित किया जाए, तो क्या होगा?",
+      "options": [
+        "The program is not semantically correct",
+        "The program is compiled and executed successfully",
+        "The program is compiled successfully but throws an error during runtime",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "The program is compiled and executed successfully",
+      "explanation": "In standard C++, applying the `delete` operator to a null pointer (`NULL` or `nullptr`) is explicitly guaranteed by the language standard to be a safe no-operation that compiles and executes without runtime error.",
+      "tip": "Deleting a NULL pointer in C++ is completely safe and valid; the compiler simply does nothing.",
+      "id": 10,
+      "options_hi": [
+        "The program is not semantically correct",
+        "The program is compiled and executed successfully",
+        "The program is compiled successfully but throws an error during runtime",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मानक C++ में, 'डिलीट' ऑपरेटर को एक नल पॉइंटर ('NULL' या 'nullptr') पर लागू करना भाषा मानक द्वारा स्पष्ट रूप से एक सुरक्षित नो-ऑपरेशन होने की गारंटी देता है जो रनटाइम त्रुटि के बिना संकलित और निष्पादित होता है।",
+      "tip_hi": "C++ में NULL पॉइंटर को हटाना पूरी तरह से सुरक्षित और वैध है; संकलक बस कुछ नहीं करता है."
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is the difference between 'delete' and 'delete[]' in C++?",
+      "hi": "C++ में delete और delete[] के बीच क्या अंतर है?",
+      "options": [
+        "Delete is syntactically correct but delete is wrong and will give error",
+        "Delete is used to delete normal objects whereas delete is used to delete pointer objects",
+        "Delete is used to delete a single object whereas delete is used to delete mul",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Delete is used to delete a single object whereas delete[] is used to delete multiple (array of) objects",
+      "explanation": "Memory dynamically allocated with `new` must be freed with `delete`, which invokes a single destructor. Dynamically allocated arrays created with `new[]` must be deallocated with `delete[]` to invoke destructors for each element.",
+      "tip": "Match the operators: `new` -> `delete` (single object); `new[]` -> `delete[]` (array of objects).",
+      "id": 11,
+      "options_hi": [
+        "Delete is syntactically correct but delete is wrong and will give error",
+        "Delete is used to delete normal objects whereas delete is used to delete pointer objects",
+        "Delete is used to delete a single object whereas delete is used to delete mul",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "`नए` के साथ गतिशील रूप से आवंटित मेमोरी को `डिलीट` के साथ मुक्त किया जाना चाहिए, जो एकल विध्वंसक को आमंत्रित करता है। `new[]` के साथ बनाए गए गतिशील रूप से आवंटित सरणियों को प्रत्येक तत्व के लिए विध्वंसकों को आमंत्रित करने के लिए `delete[]` के साथ हटाया जाना चाहिए।",
+      "tip_hi": "ऑपरेटरों का मिलान करें: `नया` -> `हटाएं` (एकल ऑब्जेक्ट); `नया[]` -> `हटाएं[]` (वस्तुओं की श्रृंखला)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What happens if the following program is executed in C and C++?`#include<stdio.h>``int main(void) { int new = 5; printf(\"%d\", new); }`",
+      "hi": "यदि निम्नलिखित प्रोग्राम C और C++ में निष्पादित किया जाए, तो क्या होता है?",
+      "options": [
+        "Error in C and successful execution in C++",
+        "Error in both C and C++",
+        "Error in C++ and successful execution in C",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Error in C++ and successful execution in C",
+      "explanation": "In C, `new` is not a reserved keyword and can be used as a valid variable identifier. In C++, `new` is a built-in memory allocation operator keyword, causing a syntax compilation error.",
+      "tip": "`new`, `delete`, `class`, `template`, `virtual` are keywords in C++, but ordinary legal identifiers in C.",
+      "id": 12,
+      "options_hi": [
+        "Error in C and successful execution in C++",
+        "Error in both C and C++",
+        "Error in C++ and successful execution in C",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सी में, `नया` एक आरक्षित कीवर्ड नहीं है और इसे वैध चर पहचानकर्ता के रूप में उपयोग किया जा सकता है। C++ में, `new` एक अंतर्निहित मेमोरी आवंटन ऑपरेटर कीवर्ड है, जो सिंटैक्स संकलन त्रुटि उत्पन्न करता है।",
+      "tip_hi": "`नया`, `हटाएं`, `क्लास`, `टेम्पलेट`, `वर्चुअल` C++ में कीवर्ड हैं, लेकिन C में सामान्य कानूनी पहचानकर्ता हैं।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is the value of 'p' in the following C++ code snippet?`int p; bool a = true; bool b = false; int x = 10; int y = 5;``p = ((x | y) + (a + b));`",
+      "hi": "निम्नलिखित C++ कोड स्निपेट में 'p' का मान क्या है?",
+      "options": [
+        "12",
+        "16",
+        "2",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "16",
+      "explanation": "Bitwise OR: `x | y = 10 | 5 = 1010_2 | 0101_2 = 1111_2 = 15`. Boolean addition promoting to integers: `a + b = 1 + 0 = 1`. Thus `p = 15 + 1 = 16`.",
+      "tip": "Binary bitwise math: 10 = 1010; 5 = 0101; 10 | 5 = 1111 = 15. In arithmetic expressions, `true` evaluates to 1 and `false` to 0.",
+      "id": 13,
+      "options_hi": [
+        "12",
+        "16",
+        "2",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बिटवाइज़ या: `x | y = 10 | 5 = 1010_2 | 0101_2 = 1111_2 = 15`। पूर्णांकों को बढ़ावा देने वाला बूलियन जोड़: `a + b = 1 + 0 = 1`। इस प्रकार `पी = 15 + 1 = 16`।",
+      "tip_hi": "बाइनरी बिटवाइज़ गणित: 10 = 1010; 5 = 0101; 10 | 5 = 1111 = 15. अंकगणितीय अभिव्यक्तियों में, `सत्य` का मूल्यांकन 1 और `गलत` का मूल्यांकन 0 है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The C++ code which causes abnormal termination/behaviour of a program should be placed inside which block?",
+      "hi": "C++ कोड, जो किसी प्रोग्राम के असामान्य समापन/व्यवहार का कारण बन सकता है, उसे किस ब्लॉक के अंतर्गत लिखा जाना चाहिए?",
+      "options": [
+        "catch block",
+        "throw block",
+        "try block",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "try block",
+      "explanation": "Statements that may potentially raise runtime exceptions are enclosed within a `try` block. If an exception occurs, it is thrown (`throw`) and transferred to the matching `catch` handler block.",
+      "tip": "Code that might fail goes in `try`; code that handles the error goes in `catch`; keyword to initiate error is `throw`.",
+      "id": 14,
+      "options_hi": [
+        "catch block",
+        "throw block",
+        "try block",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वे कथन जो संभावित रूप से रनटाइम अपवाद बढ़ा सकते हैं, `कोशिश` ब्लॉक के भीतर संलग्न हैं। यदि कोई अपवाद होता है, तो इसे फेंक दिया जाता है ('थ्रो') और मिलान वाले 'कैच' हैंडलर ब्लॉक में स्थानांतरित कर दिया जाता है।",
+      "tip_hi": "जो कोड विफल हो सकता है वह 'कोशिश' में चला जाता है; त्रुटि को संभालने वाला कोड `कैच` में जाता है; त्रुटि प्रारंभ करने वाला कीवर्ड `फेंक` है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What will be the output of the following C++ code?`void square(int* x, int* y) { *x = (*x) * --(*y); }``int main() { int number = 30; square(&number, &number); cout << number; }`",
+      "hi": "निम्नलिखित C++ कोड का आउटपुट क्या होगा?\n\nvoid square(int *p) {\n  *p = (*p) * (*p);\n}\nint main() {\n  int x = 6;\n  square(&x);\n  cout << x;\n}",
+      "options": [
+        "30",
+        "870",
+        "Segmentation fault",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "870",
+      "explanation": "Both pointers `x` and `y` reference the same memory location `number` (30). Pre-decrement `--(*y)` decreases `number` from 30 to 29. Multiplication evaluates as `30 * 29 = 870` stored back into `*x`.",
+      "tip": "Aliasing pointer evaluation: `30 * 29 = 870`. Common BPSC programming puzzle.",
+      "id": 15,
+      "options_hi": [
+        "30",
+        "870",
+        "Segmentation fault",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "दोनों पॉइंटर्स `x` और `y` एक ही मेमोरी लोकेशन `नंबर` (30) को संदर्भित करते हैं। पूर्व-कमी `--(*y)` `संख्या` को 30 से घटाकर 29 कर देती है। गुणन का मूल्यांकन `30 * 29 = 870` के रूप में किया जाता है जो वापस `*x` में संग्रहीत होता है।",
+      "tip_hi": "अलियासिंग सूचक मूल्यांकन: `30 * 29 = 870`। सामान्य BPSC प्रोग्रामिंग पहेली।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Pick the INCORRECT statement about inline functions in C++.(C++",
+      "hi": "में इन्लाइन फ़ंक्शंस (Inline Functions) के बारे में ग़लत कथन चुनें।)",
+      "options": [
+        "They save overhead of a return call from a function",
+        "They are generally very large and complicated functions",
+        "These functions are inserted/substituted at the point of call",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "They are generally very large and complicated functions",
+      "explanation": "Inline functions should be small, simple utility routines (typically 1–3 lines). If large or complex functions with loops or recursion are inlined, it causes severe code bloat and the compiler ignores the inline request.",
+      "tip": "Statement (B) is false: inline functions should never be large or complicated; statements (A) and (C) are accurate definitions.",
+      "id": 16,
+      "options_hi": [
+        "They save overhead of a return call from a function",
+        "They are generally very large and complicated functions",
+        "These functions are inserted/substituted at the point of call",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "इनलाइन फ़ंक्शंस छोटे, सरल उपयोगिता रूटीन (आमतौर पर 1-3 लाइनें) होने चाहिए। यदि लूप या रिकर्सन के साथ बड़े या जटिल फ़ंक्शन इनलाइन हैं, तो यह गंभीर कोड ब्लोट का कारण बनता है और कंपाइलर इनलाइन अनुरोध को अनदेखा कर देता है।",
+      "tip_hi": "कथन (बी) गलत है: इनलाइन फ़ंक्शन कभी भी बड़े या जटिल नहीं होने चाहिए; कथन (ए) और (सी) सटीक परिभाषाएँ हैं।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "What is an abstract class in C++?(C++",
+      "hi": "में ऐब्सट्रैक्ट क्लास (Abstract Class) क्या है?)",
+      "options": [
+        "Any class in C++ from which another class is derived",
+        "Class specifically used as a base class with at least one virtual function",
+        "Class specifically used as a base class with at least one pure virtual function",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Class specifically used as a base class with at least one pure virtual function",
+      "explanation": "In C++, an abstract class is defined as any class containing at least one pure virtual function (syntax: `virtual void func() = 0;`). Abstract classes cannot be instantiated directly and serve as interfaces.",
+      "tip": "Normal virtual function = Polymorphism; **Pure virtual function (`= 0`) = Abstract Class** (cannot instantiate objects).",
+      "id": 17,
+      "options_hi": [
+        "Any class in C++ from which another class is derived",
+        "Class specifically used as a base class with at least one virtual function",
+        "Class specifically used as a base class with at least one pure virtual function",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "C++ में, एक अमूर्त वर्ग को किसी भी वर्ग के रूप में परिभाषित किया जाता है जिसमें कम से कम एक शुद्ध आभासी फ़ंक्शन होता है (वाक्यविन्यास: `वर्चुअल शून्य func() = 0;`)। सार कक्षाओं को सीधे प्रारंभ नहीं किया जा सकता है और वे इंटरफ़ेस के रूप में कार्य नहीं कर सकते हैं।",
+      "tip_hi": "सामान्य आभासी फलन = बहुरूपता; **शुद्ध आभासी फ़ंक्शन (`= 0`) = सार वर्ग** (वस्तुओं को त्वरित नहीं कर सकता)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following constructors is automatically provided by the C++ compiler if not explicitly defined in a class?",
+      "hi": "यदि किसी क्लास में परिभाषित नहीं किया गया है, तो निम्नलिखित में से कौन-सा कंस्ट्रक्टर C++ कंपाइलर द्वारा स्वचालित रूप से प्रदान किया जाता है?",
+      "options": [
+        "Copy constructor",
+        "Default constructor",
+        "Parameterized constructor",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "If no user-defined constructors exist, the C++ compiler automatically synthesizes both an implicit parameterless Default Constructor and an implicit Default Copy Constructor (performing memberwise copy).",
+      "tip": "The compiler provides both the Default Constructor AND the Copy Constructor automatically, triggering Option (D).",
+      "id": 18,
+      "options_hi": [
+        "Copy constructor",
+        "Default constructor",
+        "Parameterized constructor",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "यदि कोई उपयोगकर्ता-परिभाषित कंस्ट्रक्टर मौजूद नहीं है, तो C++ कंपाइलर स्वचालित रूप से एक अंतर्निहित पैरामीटर रहित डिफॉल्ट कंस्ट्रक्टर और एक अंतर्निहित डिफॉल्ट कॉपी कंस्ट्रक्टर (सदस्यवार कॉपी निष्पादित) दोनों को संश्लेषित करता है।",
+      "tip_hi": "कंपाइलर डिफॉल्ट कंस्ट्रक्टर और कॉपी कंस्ट्रक्टर दोनों को स्वचालित रूप से प्रदान करता है, विकल्प (डी) को ट्रिगर करता है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How do structures (`struct`) and classes (`class`) in C++ differ?",
+      "hi": "C++ में structures और classes किस प्रकार भिन्न हैं?",
+      "options": [
+        "In structures, members are private by default whereas in classes, they are public by default",
+        "In structures, members are public by default whereas in classes, they are private by default",
+        "Structures cannot have private members whereas classes can have",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "In structures, members are public by default whereas in classes, they are private by default",
+      "explanation": "The only syntactic distinction between `struct` and `class` in C++ is default access: `struct` members and base inheritance are `public` by default, whereas `class` members and inheritance are `private` by default.",
+      "tip": "BPSC core rule: `struct` = public by default (for C compatibility); `class` = private by default (for data hiding).",
+      "id": 19,
+      "options_hi": [
+        "In structures, members are private by default whereas in classes, they are public by default",
+        "In structures, members are public by default whereas in classes, they are private by default",
+        "Structures cannot have private members whereas classes can have",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "C++ में `struct` और `class` के बीच एकमात्र वाक्यात्मक अंतर डिफ़ॉल्ट पहुंच है: `struct` सदस्य और आधार वंशानुक्रम डिफ़ॉल्ट रूप से `public` होते हैं, जबकि `class` सदस्य और वंशानुक्रम डिफ़ॉल्ट रूप से `निजी` होते हैं।",
+      "tip_hi": "बीपीएससी मुख्य नियम: `struct` = डिफ़ॉल्ट रूप से सार्वजनिक (सी संगतता के लिए); `वर्ग` = डिफ़ॉल्ट रूप से निजी (डेटा छिपाने के लिए)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following features must be supported by any programming language to become a pure object-oriented programming language?",
+      "hi": "शुद्ध ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषा बनने के लिए किसी भी प्रोग्रामिंग भाषा द्वारा निम्नलिखित में से किस विशेषता का समर्थन किया जाना चाहिए?",
+      "options": [
+        "Encapsulation",
+        "Inheritance",
+        "Polymorphism",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "A pure object-oriented programming language (like Smalltalk) must strictly satisfy all foundational OOP pillars: Encapsulation, Inheritance, Polymorphism, and Abstraction, with all primitive types modeled as objects.",
+      "tip": "Pillars of OOP: Encapsulation, Inheritance, Polymorphism, Abstraction. All are mandatory, hence Option (D).",
+      "id": 20,
+      "options_hi": [
+        "Encapsulation",
+        "Inheritance",
+        "Polymorphism",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक शुद्ध ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषा (जैसे स्मॉलटॉक) को सभी मूलभूत ओओपी स्तंभों को सख्ती से संतुष्ट करना चाहिए: एनकैप्सुलेशन, इनहेरिटेंस, पॉलीमोर्फिज्म और एब्स्ट्रैक्शन, सभी आदिम प्रकारों को ऑब्जेक्ट के रूप में मॉडल किया गया है।",
+      "tip_hi": "ओओपी के स्तंभ: एनकैप्सुलेशन, वंशानुक्रम, बहुरूपता, अमूर्तता। सभी अनिवार्य हैं, इसलिए विकल्प (डी)।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "The programming language that has the inherent ability to define new data types is called(",
+      "hi": "वह प्रोग्रामिंग भाषा, जिसमें नए डेटा प्रकार (Data Types) बनाने की क्षमता होती है, कहलाती है)",
+      "options": [
+        "overloaded language",
+        "encapsulated language",
+        "extensible language",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "extensible language",
+      "explanation": "An extensible language allows programmers to define new data types (via classes and structures) along with user-defined operators that behave identically to built-in primitive language types.",
+      "tip": "Ability to define custom types and operators = Extensible language.",
+      "id": 21,
+      "options_hi": [
+        "overloaded language",
+        "encapsulated language",
+        "extensible language",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एक एक्स्टेंसिबल भाषा प्रोग्रामर को उपयोगकर्ता-परिभाषित ऑपरेटरों के साथ नए डेटा प्रकारों (कक्षाओं और संरचनाओं के माध्यम से) को परिभाषित करने की अनुमति देती है जो अंतर्निहित आदिम भाषा प्रकारों के समान व्यवहार करते हैं।",
+      "tip_hi": "कस्टम प्रकार और ऑपरेटरों को परिभाषित करने की क्षमता = एक्स्टेंसिबल भाषा।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Who is the original creator and designer of the C++ programming language?",
+      "hi": "इनमें से कौन C++ प्रोग्रामिंग भाषा का मूल निर्माता है?",
+      "options": [
+        "Dennis Ritchie and Brian Kernighan",
+        "Ken Thompson",
+        "Bjarne Stroustrup",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Bjarne Stroustrup",
+      "explanation": "Bjarne Stroustrup created C++ at Bell Laboratories in 1979 as an extension of the C language, originally naming it 'C with Classes'. Dennis Ritchie created C.",
+      "tip": "C Language = Dennis Ritchie; C++ = Bjarne Stroustrup; Java = James Gosling; Python = Guido van Rossum.",
+      "id": 22,
+      "options_hi": [
+        "Dennis Ritchie and Brian Kernighan",
+        "Ken Thompson",
+        "Bjarne Stroustrup",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बर्जने स्ट्रॉस्ट्रुप ने 1979 में C भाषा के विस्तार के रूप में बेल लेबोरेटरीज में C++ बनाया, मूल रूप से इसे 'C with Classes' नाम दिया गया। डेनिस रिची ने सी बनाया।",
+      "tip_hi": "सी भाषा = डेनिस रिची; सी++ = बज़्ने स्ट्रॉस्ट्रुप; जावा = जेम्स गोसलिंग; पायथन = गुइडो वैन रोसुम।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "Which of the following represents the correct syntax to read a single character from the console stream in C++?(C++",
+      "hi": "भाषा में कंसोल से एकल वर्ण (single character) को पढ़ने के लिए सही वाक्य विन्यास कौन-सा है?)",
+      "options": [
+        "read_ch()",
+        "getline_ch()",
+        "cin.get(ch)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "cin.get(ch)",
+      "explanation": "The member function `cin.get(char& ch)` reads the next single character (including whitespace and newlines) directly from the standard input stream into the specified character variable.",
+      "tip": "Single character input = `cin.get(ch)`; formatted extraction = `cin >> ch` (skips whitespace); string line = `getline(cin, str)`.",
+      "id": 23,
+      "options_hi": [
+        "read_ch()",
+        "getline_ch()",
+        "cin.get(ch)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सदस्य फ़ंक्शन `cin.get(char& ch)` अगले एकल वर्ण (व्हाट्सएप और न्यूलाइन सहित) को सीधे मानक इनपुट स्ट्रीम से निर्दिष्ट वर्ण चर में पढ़ता है।",
+      "tip_hi": "एकल वर्ण इनपुट = `cin.get(ch)`; स्वरूपित निष्कर्षण = `cin >> ch` (व्हाट्सएप छोड़ देता है); स्ट्रिंग लाइन = `गेटलाइन(सिन, स्ट्र)`।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "In C++, which expression correctly accesses the n-th element of an array named 'array'?",
+      "hi": "C++ में, कौन-सा व्यंजक 'array' नामक ऐरे के n-वें तत्त्व को सही ढंग से दर्शाता है?",
+      "options": [
+        "array;",
+        "array;",
+        "array;",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "array[n-1];",
+      "explanation": "Because C and C++ utilize zero-based array indexing, the first element is at index 0, the second at index 1, and the n-th element is situated at index position `n - 1`.",
+      "tip": "Zero-based indexing rule: First element = `arr[0]`; n-th element = `arr[n-1]`; `arr[n]` is out of bounds for an array of size n.",
+      "id": 24,
+      "options_hi": [
+        "array;",
+        "array;",
+        "array;",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "क्योंकि C और C++ शून्य-आधारित सरणी अनुक्रमण का उपयोग करते हैं, पहला तत्व सूचकांक 0 पर है, दूसरा सूचकांक 1 पर है, और n-वां तत्व सूचकांक स्थिति `n - 1` पर स्थित है।",
+      "tip_hi": "शून्य-आधारित अनुक्रमण नियम: पहला तत्व = `arr[0]`; n-वें तत्व = `arr[n-1]`; `arr[n]` आकार n की एक सरणी के लिए सीमा से बाहर है।"
+    },
+    {
+      "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
+      "en": "How many fundamental structural categories of arrays are there in the C++ programming language?",
+      "hi": "C++ प्रोग्रामिंग भाषा में ऐरे के मुख्य रूप से कितने संरचनात्मक प्रकार होते हैं?",
+      "options": [
+        "There are three types of arrays",
+        "There are four types of arrays",
+        "There are two types of arrays (Single-dimensional and Multidimensional)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "There are two types of arrays (Single-dimensional and Multidimensional)",
+      "explanation": "In standard computer science classification, arrays in C++ are categorized into two primary types: Single-dimensional (linear) arrays and Multidimensional arrays (2D matrices, 3D grids).",
+      "tip": "Array categories: 1D (Single-dimensional) and Multi-D (2D, 3D, etc.) = 2 types.",
+      "id": 25,
+      "options_hi": [
+        "There are three types of arrays",
+        "There are four types of arrays",
+        "There are two types of arrays (Single-dimensional and Multidimensional)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मानक कंप्यूटर विज्ञान वर्गीकरण में, C++ में सरणियों को दो प्राथमिक प्रकारों में वर्गीकृत किया गया है: एकल-आयामी (रैखिक) सरणियाँ और बहुआयामी सरणियाँ (2D मैट्रिक्स, 3D ग्रिड)।",
+      "tip_hi": "सरणी श्रेणियां: 1डी (एकल-आयामी) और मल्टी-डी (2डी, 3डी, आदि) = 2 प्रकार।"
+    }
+  ]
+}

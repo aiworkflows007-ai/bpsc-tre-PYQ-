@@ -479,6 +479,59 @@ export const GKGS_SUBJECT_CONFIG = [
   }
 ]
 
+export const PART3_SUBJECT_CONFIG = [
+  {
+    key: 'computer-science',
+    subject: 'Computer Science',
+    nameEn: 'Computer Science & Information Technology',
+    nameHi: 'कंप्यूटर साइंस (PGT & TGT)',
+    icon: '💻',
+    descEn: 'Computer Architecture, C++/OOP, Data Structures, DBMS, Networking, Boolean Algebra & Python',
+    descHi: 'कंप्यूटर संगठन, C++/OOP, डेटा संरचनाएं, DBMS, नेटवर्किंग, बूलियन बीजगणित एवं पायथन प्रोग्रामिंग',
+    tag: '8 Sets · 240 Qs · PGT & TGT'
+  },
+  {
+    key: 'science',
+    subject: 'Science',
+    nameEn: 'General Science (TGT Class 9-10)',
+    nameHi: 'सामान्य विज्ञान (TGT वर्ग 9-10)',
+    icon: '🔬',
+    descEn: 'Physics (Optics, Mechanics, Sound), Chemistry (Acids, Metals, Reactions) & Biology (Physiology, Cell Biology)',
+    descHi: 'भौतिक विज्ञान (प्रकाश, यांत्रिकी, ध्वनि), रसायन विज्ञान (अम्ल, धातु, रासायनिक समीकरण) एवं जीव विज्ञान (मानव शरीर क्रिया)',
+    tag: '4 Sets · 105 Qs · TGT Class 9-10'
+  },
+  {
+    key: 'hindi-literature',
+    subject: 'Hindi Literature',
+    nameEn: 'Hindi Language & Literature (हिन्दी साहित्य)',
+    nameHi: 'हिन्दी भाषा एवं साहित्य',
+    icon: '📖',
+    descEn: 'इतिहास-लेखन, आदिकाल, भक्तिकाल, रीतिकाल, आधुनिक काल, गद्य विधाएँ, व्याकरण एवं काव्यशास्त्र',
+    descHi: 'इतिहास-लेखन, आदिकाल, भक्तिकाल, रीतिकाल, आधुनिक काल, गद्य विधाएँ, व्याकरण एवं काव्यशास्त्र',
+    tag: '4 Sets · 105 Qs · TGT / PGT Specialization'
+  },
+  {
+    key: 'english-literature',
+    subject: 'English Literature',
+    nameEn: 'English Language & Literature',
+    nameHi: 'अंग्रेजी भाषा एवं साहित्य',
+    icon: '📚',
+    descEn: 'Chaucer, Elizabethan & Jacobean, Romantic & Victorian Eras, Modern Poetry, Drama & Literary Criticism',
+    descHi: 'चौसर काल, एलिजाबेथन युग, रोमांटिक एवं विक्टोरियन काल, आधुनिक कविता, नाटक एवं साहित्यिक समीक्षा',
+    tag: '4 Sets · 105 Qs · TGT / PGT Specialization'
+  },
+  {
+    key: 'sanskrit',
+    subject: 'Sanskrit',
+    nameEn: 'Sanskrit Language & Literature (संस्कृत साहित्य)',
+    nameHi: 'संस्कृत भाषा एवं साहित्य',
+    icon: '🕉️',
+    descEn: 'माहेश्वर सूत्राणि, प्रत्याहार, पाणिनीय व्याकरण, वैदिक साहित्य, सूक्त, संस्कृत नाटक एवं रससिद्धान्त',
+    descHi: 'माहेश्वर सूत्राणि, प्रत्याहार, पाणिनीय व्याकरण, वैदिक साहित्य, सूक्त, संस्कृत नाटक एवं रससिद्धान्त',
+    tag: '4 Sets · 105 Qs · TGT / PGT Specialization'
+  }
+]
+
 function AppHome({
   lang,
   setRoute,
@@ -504,6 +557,13 @@ function AppHome({
     }
     return null
   })
+  const [selectedPart3Subject, setSelectedPart3Subject] = useState<string | null>(() => {
+    if (initial === 'subject' && initialSubject) {
+      const match = PART3_SUBJECT_CONFIG.find(c => c.key === initialSubject)
+      if (match) return match.subject
+    }
+    return null
+  })
   const [selectedSet, setSelectedSet] = useState<SetMeta | null>(null)
   const [freeMode, setFreeMode] = useState<boolean>(() => prefs.get('free_mode_unlock_all', false))
 
@@ -521,6 +581,7 @@ function AppHome({
         setSelectedQualifyingSubject(null)
       }
       setSelectedGkGsSubject(null)
+      setSelectedPart3Subject(null)
     } else if (initial === 'gk_gs') {
       if (initialSubject) {
         const match = GKGS_SUBJECT_CONFIG.find(c => c.key === initialSubject)
@@ -529,9 +590,20 @@ function AppHome({
         setSelectedGkGsSubject(null)
       }
       setSelectedQualifyingSubject(null)
+      setSelectedPart3Subject(null)
+    } else if (initial === 'subject') {
+      if (initialSubject) {
+        const match = PART3_SUBJECT_CONFIG.find(c => c.key === initialSubject)
+        setSelectedPart3Subject(match ? match.subject : null)
+      } else {
+        setSelectedPart3Subject(null)
+      }
+      setSelectedQualifyingSubject(null)
+      setSelectedGkGsSubject(null)
     } else {
       setSelectedQualifyingSubject(null)
       setSelectedGkGsSubject(null)
+      setSelectedPart3Subject(null)
     }
   }, [initial, initialSubject])
 
@@ -546,8 +618,12 @@ function AppHome({
       if (!selectedGkGsSubject) return []
       return SETS_CATALOG.filter(s => s.section === 'gk_gs' && s.subject === selectedGkGsSubject)
     }
+    if (category === 'subject') {
+      if (!selectedPart3Subject) return []
+      return SETS_CATALOG.filter(s => s.section === 'subject' && s.subject === selectedPart3Subject)
+    }
     return SETS_CATALOG.filter(s => s.section === category)
-  }, [category, selectedQualifyingSubject, selectedGkGsSubject])
+  }, [category, selectedQualifyingSubject, selectedGkGsSubject, selectedPart3Subject])
 
   return (
     <main className="app-shell">
@@ -559,6 +635,7 @@ function AppHome({
             setCategory('')
             setSelectedQualifyingSubject(null)
             setSelectedGkGsSubject(null)
+            setSelectedPart3Subject(null)
             setSelectedSet(null)
             location.hash = '#/app'
           }}
@@ -577,6 +654,9 @@ function AppHome({
               }
               if (sec.id === 'gk_gs') {
                 setSelectedGkGsSubject(null)
+              }
+              if (sec.id === 'subject') {
+                setSelectedPart3Subject(null)
               }
               setSelectedSet(null)
               location.hash = `#/app?category=${sec.id}`
@@ -615,6 +695,10 @@ function AppHome({
             ? (lang === 'hi' ? 'भाग-2 सामान्य अध्ययन: विषय का चयन करें' : 'Part-II General Studies: Select Subject Track')
             : category === 'gk_gs' && selectedGkGsSubject
             ? `${selectedGkGsSubject} (${SETS_CATALOG.filter(s => s.section === 'gk_gs' && s.subject === selectedGkGsSubject).length} Sets)`
+            : category === 'subject' && !selectedPart3Subject
+            ? (lang === 'hi' ? 'भाग-3 मुख्य विषय: विषय का चयन करें' : 'Part-III Subject Practice: Select Subject Track')
+            : category === 'subject' && selectedPart3Subject
+            ? `${selectedPart3Subject} (${SETS_CATALOG.filter(s => s.section === 'subject' && s.subject === selectedPart3Subject).length} Sets)`
             : !selectedSet
             ? activeSection ? (lang === 'hi' ? activeSection.hi : activeSection.name) : t.chooseSub
             : selectedSet.title}
@@ -637,6 +721,10 @@ function AppHome({
                     if (sec.id === 'gk_gs') {
                       setSelectedGkGsSubject(null)
                     }
+                    if (sec.id === 'subject') {
+                      setSelectedPart3Subject(null)
+                    }
+                    setSelectedSet(null)
                     location.hash = `#/app?category=${sec.id}`
                   }}
                   key={sec.id}
@@ -796,10 +884,74 @@ function AppHome({
           </div>
         )}
 
+        {/* 2c. Part-III Subject Chooser */}
+        {category === 'subject' && !selectedPart3Subject && !selectedSet && (
+          <div className="gkgs-subject-chooser">
+            <div style={{ marginBottom: '16px' }}>
+              <button
+                className="back"
+                onClick={() => {
+                  setCategory('')
+                  location.hash = '#/app'
+                }}
+              >
+                ← {lang === 'hi' ? 'सभी परीक्षा खंड देखें' : 'Change exam section'}
+              </button>
+            </div>
+
+            <div className="gkgs-banner-hero" style={{ background: 'linear-gradient(135deg, #102a43 0%, #0e5f59 100%)' }}>
+              <span className="source-tag" style={{ background: '#f59e0b', color: '#102a43', fontSize: '11px', fontWeight: 800 }}>
+                PART-III SUBJECT PRACTICE · 80 MARKS MERIT SPECIALIZATION
+              </span>
+              <h2>{lang === 'hi' ? 'अपना मुख्य विषय चुनें (Choose Your Subject)' : 'Select Your Subject Specialization'}</h2>
+              <p>
+                {lang === 'hi'
+                  ? 'BPSC TRE 4.0 भाग-3 मुख्य विषय (80 अंक) TGT (वर्ग 9-10) एवं PGT (वर्ग 11-12) के लिए अंतिम मेरिट सूची का मुख्य आधार है। अपना विषय चुनें और 80% मास्टरी अनलॉक प्रणाली के साथ सेट-वाइज अभ्यास करें:'
+                  : 'BPSC TRE Part-III Subject Specialization carries 80 marks for TGT (Class 9-10) and PGT (Class 11-12). Choose your subject specialization to start set-wise practice with the 80% mastery unlock rule:'}
+              </p>
+            </div>
+
+            <div className="gkgs-cards-grid">
+              {PART3_SUBJECT_CONFIG.map(item => {
+                const count = SETS_CATALOG.filter(s => s.section === 'subject' && s.subject === item.subject).length
+                const totalQ = SETS_CATALOG.filter(s => s.section === 'subject' && s.subject === item.subject).reduce((acc, s) => acc + s.question_count, 0)
+                return (
+                  <div
+                    key={item.key}
+                    className="gkgs-choice-card"
+                    onClick={() => {
+                      setSelectedPart3Subject(item.subject)
+                      location.hash = `#/app?category=subject&subject=${item.key}`
+                    }}
+                  >
+                    <div>
+                      <div className="gkgs-card-top">
+                        <span className="gkgs-card-tag">{count} SETS · {totalQ} Qs</span>
+                        <div className="gkgs-card-icon">{item.icon}</div>
+                      </div>
+                      <h3>{lang === 'hi' ? item.nameHi : item.nameEn}</h3>
+                      <p>{lang === 'hi' ? item.descHi : item.descEn}</p>
+                      <div className="gkgs-card-features">
+                        <span>✓ {count} Set-Wise Tests ({totalQ} Authentic PYQs)</span>
+                        <span>✓ 80% Mastery Progression Unlock Rule</span>
+                        <span>✓ Bilingual (English / हिन्दी) with Detailed Solutions</span>
+                      </div>
+                    </div>
+                    <button className="gkgs-select-btn">
+                      {lang === 'hi' ? `${item.nameHi.split(' ')[0]} सेट अभ्यास शुरू करें →` : `Explore ${item.nameEn.split('(')[0]?.trim()} Sets →`}
+                    </button>
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        )}
+
         {/* 3. Sets List in Selected Category with 80% Progression */}
-        {((category && category !== 'qualifying' && category !== 'gk_gs') ||
+        {((category && category !== 'qualifying' && category !== 'gk_gs' && category !== 'subject') ||
           (category === 'qualifying' && selectedQualifyingSubject) ||
-          (category === 'gk_gs' && selectedGkGsSubject)) &&
+          (category === 'gk_gs' && selectedGkGsSubject) ||
+          (category === 'subject' && selectedPart3Subject)) &&
           !selectedSet && (
           <>
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px', flexWrap: 'wrap', gap: '10px' }}>
@@ -822,6 +974,16 @@ function AppHome({
                   }}
                 >
                   ← {lang === 'hi' ? 'सामान्य अध्ययन विषय बदलें (Change GK/GS Subject)' : 'Change GK/GS Subject'}
+                </button>
+              ) : category === 'subject' ? (
+                <button
+                  className="back"
+                  onClick={() => {
+                    setSelectedPart3Subject(null)
+                    location.hash = '#/app?category=subject'
+                  }}
+                >
+                  ← {lang === 'hi' ? 'मुख्य विषय बदलें (Change Subject)' : 'Change Subject Specialization'}
                 </button>
               ) : (
                 <button
@@ -998,8 +1160,8 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
     return SETS_DATA[activeSet.id] || []
   }, [activeSet])
 
-  const isEnglishOnly = activeSet.subject === 'English Language'
-  const isHindiOnly = activeSet.subject === 'General Hindi' || activeSet.subject === 'Hindi Literature' || activeSet.subject === 'Sanskrit'
+  const isEnglishOnly = activeSet.section === 'qualifying' && activeSet.subject === 'English Language'
+  const isHindiOnly = activeSet.section === 'qualifying' && activeSet.subject === 'General Hindi'
 
   const [index, setIndex] = useState(0)
   const [answers, setAnswers] = useState<Record<number, number>>(() => prefs.get(`draft_${activeSet.id}`, {}))
@@ -1266,8 +1428,8 @@ function Results({
   onNextSet?: (next: SetMeta) => void
   onRetry?: () => void
 }) {
-  const isEnglishOnly = activeSet.subject === 'English Language'
-  const isHindiOnly = activeSet.subject === 'General Hindi' || activeSet.subject === 'Hindi Literature' || activeSet.subject === 'Sanskrit'
+  const isEnglishOnly = activeSet.section === 'qualifying' && activeSet.subject === 'English Language'
+  const isHindiOnly = activeSet.section === 'qualifying' && activeSet.subject === 'General Hindi'
   const [resLang, setResLang] = useState<'en' | 'hi'>(() => {
     if (isEnglishOnly) return 'en'
     if (isHindiOnly) return 'hi'
@@ -1449,8 +1611,24 @@ function Results({
             {resLang === 'hi' ? '↻ इस सेट का पुनः प्रयास करें' : '↻ Re-attempt This Set'}
           </button>
         )}
-        <button className="secondary" onClick={() => setRoute(`/app?category=${activeSet.section}`)}>
-          {resLang === 'hi' ? 'इस खंड के सभी सेट देखें' : 'View all sets in this section'}
+        <button
+          className="secondary"
+          onClick={() => {
+            if (activeSet.section === 'qualifying') {
+              const subKey = activeSet.subject === 'English Language' ? 'english' : 'hindi'
+              setRoute(`/app?category=qualifying&subject=${subKey}`)
+            } else if (activeSet.section === 'gk_gs') {
+              const match = GKGS_SUBJECT_CONFIG.find(c => c.subject === activeSet.subject)
+              setRoute(`/app?category=gk_gs${match ? `&subject=${match.key}` : ''}`)
+            } else if (activeSet.section === 'subject') {
+              const match = PART3_SUBJECT_CONFIG.find(c => c.subject === activeSet.subject)
+              setRoute(`/app?category=subject${match ? `&subject=${match.key}` : ''}`)
+            } else {
+              setRoute(`/app?category=${activeSet.section}`)
+            }
+          }}
+        >
+          {resLang === 'hi' ? '← इस विषय के सभी सेट देखें' : '← Back to Subject Sets'}
         </button>
         <button className="secondary" onClick={() => setRoute('/app/analysis')}>
           {resLang === 'hi' ? 'विषयवार विश्लेषण देखें' : 'See topic analysis'}
@@ -1622,11 +1800,13 @@ function Static({ page, setRoute }: { page: string; setRoute: (x: string) => voi
 }
 
 function Root() {
+  const [fullHash, setFullHash] = useState(() => location.hash.slice(1) || '/')
   const [route, setRouteState] = useState(() => location.hash.slice(1).split('?')[0] || '/')
   const [lang, setLang] = useState<Lang>(() => prefs.get('language', 'en'))
 
   const setRoute = (r: string) => {
     location.hash = '#' + r
+    setFullHash(r)
     setRouteState(r.split('?')[0])
   }
 
@@ -1635,12 +1815,16 @@ function Root() {
   }, [lang])
 
   useEffect(() => {
-    const h = () => setRouteState(location.hash.slice(1).split('?')[0] || '/')
+    const h = () => {
+      const cur = location.hash.slice(1) || '/'
+      setFullHash(cur)
+      setRouteState(cur.split('?')[0])
+    }
     addEventListener('hashchange', h)
     return () => removeEventListener('hashchange', h)
   }, [])
 
-  const queryParams = new URLSearchParams(location.hash.split('?')[1] || '')
+  const queryParams = new URLSearchParams(fullHash.split('?')[1] || '')
   const initial = queryParams.get('category')
   const initialSubject = queryParams.get('subject')
 

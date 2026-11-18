@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-hindi-lit-set1",
+  "title": "हिन्दी साहित्य अभ्यास सेट 1 (इतिहास एवं आदिकाल — 25Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Hindi Literature",
+  "filename": "bpsc-tre4-hindi-lit-set1.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | इतिहास-लेखन परंपरा",
+      "en": "What is the name of the four-volume work written by the early historians of Hindi literature, Mishrabandhu?",
+      "hi": "हिन्दी साहित्य के प्रारंभिक इतिहासकार मिश्रबंधुओं द्वारा लिखित चार खंडों की रचना का क्या नाम है?",
+      "options": [
+        "मिश्रबंधु-इतिहास",
+        "मिश्रबंधु-परिहास",
+        "मिश्रबंधु-विनोद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "मिश्रबंधु-विनोद",
+      "explanation": "'Mishrabandhu-Vinod' composed by the Mishrabandhus (Ganeshbihari, Shyamabihari and Shukdevbihari Mishra) was published in four parts (the first three parts in 1913 AD and the fourth part in 1934 AD). The chronicles of about 5,000 poets are compiled in it.",
+      "tip": "",
+      "id": 1,
+      "options_hi": [
+        "मिश्रबंधु-इतिहास",
+        "मिश्रबंधु-परिहास",
+        "मिश्रबंधु-विनोद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Mishrabandhu-Vinod' composed by the Mishrabandhus (Ganeshbihari, Shyamabihari and Shukdevbihari Mishra) was published in four parts (the first three parts in 1913 AD and the fourth part in 1934 AD). The chronicles of about 5,000 poets are compiled in it.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | आदिकाल - रासो साहित्य",
+      "en": "Whose composition is the ancient 'Prithviraj Raso'?",
+      "hi": "आदिकालीन 'पृथ्वीराज रासो' किसकी रचना है?",
+      "options": [
+        "लूइपा",
+        "चंदबरदाई",
+        "नरपति नाल्ह",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चंदबरदाई",
+      "explanation": "The author of 'Prithviraj Raso' is Chandbardai, who is considered by Acharya Ramchandra Shukla as the first great poet of Hindi and 'Prithviraj Raso' is considered the first epic of Hindi.",
+      "tip": "",
+      "id": 2,
+      "options_hi": [
+        "लूइपा",
+        "चंदबरदाई",
+        "नरपति नाल्ह",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The author of 'Prithviraj Raso' is Chandbardai, who is considered by Acharya Ramchandra Shukla as the first great poet of Hindi and 'Prithviraj Raso' is considered the first epic of Hindi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | काल-विभाजन एवं नामकरण",
+      "en": "Who named the initial period of Hindi literature as 'Adikal'?",
+      "hi": "हिन्दी साहित्य के प्रारंभिक काल का 'आदिकाल' नामकरण किसने किया?",
+      "options": [
+        "ग्रियर्सन",
+        "डॉ० रामकुमार वर्मा",
+        "आचार्य हजारी प्रसाद द्विवेदी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "आचार्य हजारी प्रसाद द्विवेदी",
+      "explanation": "The name 'Adikaal' was given to the initial period by Acharya Hazari Prasad Dwivedi, which was universally accepted. Acharya Shukla called it 'Veergatha Kaal' (primordial period).",
+      "tip": "",
+      "id": 3,
+      "options_hi": [
+        "ग्रियर्सन",
+        "डॉ० रामकुमार वर्मा",
+        "आचार्य हजारी प्रसाद द्विवेदी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The name 'Adikaal' was given to the initial period by Acharya Hazari Prasad Dwivedi, which was universally accepted. Acharya Shukla called it 'Veergatha Kaal' (primordial period).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | भक्तिकाल - समय-सीमा",
+      "en": "According to Acharya Ramchandra Shukla, what is considered to be the time limit of Bhakti period?",
+      "hi": "आचार्य रामचंद्र शुक्ल के अनुसार भक्तिकाल की समय-सीमा क्या मानी गई है?",
+      "options": [
+        "सं० 1350 से 1700",
+        "सं० 1375 से 1700",
+        "सं० 1375 से 1730",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "सं० 1375 से 1700",
+      "explanation": "Acharya Shukla divided the period into eras: Adikaal (heroic period) = 1050 to 1375; Pre-medieval period (Bhakti period) = 1375 to 1700; Answer: Medieval period (Ritikal) = 1700 to 1900; Modern period = 1900 to 1984.",
+      "tip": "",
+      "id": 4,
+      "options_hi": [
+        "सं० 1350 से 1700",
+        "सं० 1375 से 1700",
+        "सं० 1375 से 1730",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acharya Shukla divided the period into eras: Adikaal (heroic period) = 1050 to 1375; Pre-medieval period (Bhakti period) = 1375 to 1700; Answer: Medieval period (Ritikal) = 1700 to 1900; Modern period = 1900 to 1984.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | संत काव्य - कबीर",
+      "en": "“Pothi padhi padhi jag mua, pandit bhaya nahi koi. If you study then you will be a pandit.” Which poet's these lines belong to?",
+      "hi": "“पोथी पढ़ि-पढ़ि जग मुआ, पंडित भया न कोय। ढाई आखर प्रेम का, पढ़े सो पंडित होय॥” ये पंक्तियाँ किस कवि की हैं?",
+      "options": [
+        "कबीरदास",
+        "गरीबदास",
+        "रैदास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "कबीरदास",
+      "explanation": "This famous Sakhi is of Kabir Das, the originator of the Gyanashrayi Nirgun Sant poetry stream, in which he has considered practical love as supreme compared to bookish erudition.",
+      "tip": "",
+      "id": 5,
+      "options_hi": [
+        "कबीरदास",
+        "गरीबदास",
+        "रैदास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This famous Sakhi is of Kabir Das, the originator of the Gyanashrayi Nirgun Sant poetry stream, in which he has considered practical love as supreme compared to bookish erudition.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | सूफी काव्य - प्रेमाख्यानक",
+      "en": "The main poet who wrote Sufi love stories in Hindi is",
+      "hi": "हिन्दी में सूफी प्रेमाख्यान लिखने वाले प्रमुख कवि हैं",
+      "options": [
+        "मलूकदास",
+        "वीरभान",
+        "मलिक मुहम्मद जायसी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "मलिक मुहम्मद जायसी",
+      "explanation": "Malik Muhammad Jayasi is a representative poet of Premashrayi Nirgun Sufi school of poetry, who composed the famous epic 'Padmavat' (1540 AD), 'Akhravat' and 'Aakhri Kalam' in Awadhi language.",
+      "tip": "",
+      "id": 6,
+      "options_hi": [
+        "मलूकदास",
+        "वीरभान",
+        "मलिक मुहम्मद जायसी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Malik Muhammad Jayasi is a representative poet of Premashrayi Nirgun Sufi school of poetry, who composed the famous epic 'Padmavat' (1540 AD), 'Akhravat' and 'Aakhri Kalam' in Awadhi language.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | रामभक्ति काव्य",
+      "en": "'Goswami' is prefixed to the name of which poet of the Bhakti period?",
+      "hi": "भक्तिकाल के किस कवि के नाम के पूर्व 'गोस्वामी' लगाया जाता है?",
+      "options": [
+        "ईश्वरदास",
+        "तुलसीदास",
+        "अग्रदास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "तुलसीदास",
+      "explanation": "The honorific title 'Goswami' (one who controls the senses) is prefixed to the name of Tulsidas, the top poet of Rambhakti poetry stream. He composed the classic epic 'Ramcharitmanas'.",
+      "tip": "",
+      "id": 7,
+      "options_hi": [
+        "ईश्वरदास",
+        "तुलसीदास",
+        "अग्रदास",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The honorific title 'Goswami' (one who controls the senses) is prefixed to the name of Tulsidas, the top poet of Rambhakti poetry stream. He composed the classic epic 'Ramcharitmanas'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | रीतिकाल - नामकरण",
+      "en": "Which scholar has given the name of 'ritual period' to the late medieval period?",
+      "hi": "उत्तरमध्यकाल को 'रीतिकाल' की संज्ञा किस विद्वान ने दी है?",
+      "options": [
+        "मिश्रबंधु",
+        "आचार्य हजारी प्रसाद द्विवेदी",
+        "आचार्य रामचंद्र शुक्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "आचार्य रामचंद्र शुक्ल",
+      "explanation": "Acharya Ramchandra Shukla named the post-medieval period as 'Ritikal' on the basis of abundance of epithets and predominance of poetic style.",
+      "tip": "",
+      "id": 8,
+      "options_hi": [
+        "मिश्रबंधु",
+        "आचार्य हजारी प्रसाद द्विवेदी",
+        "आचार्य रामचंद्र शुक्ल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Acharya Ramchandra Shukla named the post-medieval period as 'Ritikal' on the basis of abundance of epithets and predominance of poetic style.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | भारतेन्दु युग - राष्ट्रभाषा",
+      "en": "“One's own language is progress, the root of all progress. Without knowledge of one's own language, nothing can be lost.\" Whose statement is this?",
+      "hi": "“निज भाषा उन्नति अहै, सब उन्नति को मूल। बिन निज भाषा ज्ञान के, मिटे न हिय को सूल॥” यह किसका कथन है?",
+      "options": [
+        "भारतेन्दु हरिश्चन्द्र",
+        "बालकृष्ण भट्ट",
+        "मैथिलीशरण गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भारतेन्दु हरिश्चन्द्र",
+      "explanation": "Bharatendu Harishchandra, the father of modern Hindi literature, in his famous essay/lecture 'Lecture on the Progress of Hindi' had described the progress of the mother tongue as the basic basis of all progress.",
+      "tip": "",
+      "id": 9,
+      "options_hi": [
+        "भारतेन्दु हरिश्चन्द्र",
+        "बालकृष्ण भट्ट",
+        "मैथिलीशरण गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bharatendu Harishchandra, the father of modern Hindi literature, in his famous essay/lecture 'Lecture on the Progress of Hindi' had described the progress of the mother tongue as the basic basis of all progress.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | गद्य विधाएं - उपन्यास",
+      "en": "'Godaan' is a composition of which genre?",
+      "hi": "'गोदान' किस विधा की रचना है?",
+      "options": [
+        "कहानी",
+        "उपन्यास",
+        "संस्मरण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "उपन्यास",
+      "explanation": "'Godaan' (1936 AD) is a realistic novel written by Munshi Premchand, which is called the epic of Indian farmer life. Its main characters are Hori and Dhaniya.",
+      "tip": "",
+      "id": 10,
+      "options_hi": [
+        "कहानी",
+        "उपन्यास",
+        "संस्मरण",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Godaan' (1936 AD) is a realistic novel written by Munshi Premchand, which is called the epic of Indian farmer life. Its main characters are Hori and Dhaniya.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | वीर रस काव्य",
+      "en": "Who is the author of 'Haldighati' Prabandha-kavya?",
+      "hi": "'हल्दीघाटी' प्रबंध-काव्य के रचनाकार कौन हैं?",
+      "options": [
+        "माखनलाल चतुर्वेदी",
+        "श्यामनारायण पांडेय",
+        "सुभद्रा कुमारी चौहान",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "श्यामनारायण पांडेय",
+      "explanation": "'Haldighati' (1937–1939) is a very popular heroic management-oriented poem by Shyamnarayan Pandey based on the bravery of Maharana Pratap. For this he received 'Dev Award'.",
+      "tip": "",
+      "id": 11,
+      "options_hi": [
+        "माखनलाल चतुर्वेदी",
+        "श्यामनारायण पांडेय",
+        "सुभद्रा कुमारी चौहान",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Haldighati' (1937–1939) is a very popular heroic management-oriented poem by Shyamnarayan Pandey based on the bravery of Maharana Pratap. For this he received 'Dev Award'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | नाट्य साहित्य - जयशंकर प्रसाद",
+      "en": "It is a historical drama written by Jaishankar Prasad.",
+      "hi": "जयशंकर प्रसाद द्वारा रचित ऐतिहासिक नाटक है",
+      "options": [
+        "आधे-अधूरे",
+        "सबसे बड़ा आदमी",
+        "ध्रुवस्वामिनी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "ध्रुवस्वामिनी",
+      "explanation": "'Dhruvaswamini' (1933 AD) is Jaishankar Prasad's last and best historical problem play, in which the question of women's liberation and remarriage has been raised. 'Aadhe-Adhure' is a play by Mohan Rakesh.",
+      "tip": "",
+      "id": 12,
+      "options_hi": [
+        "आधे-अधूरे",
+        "सबसे बड़ा आदमी",
+        "ध्रुवस्वामिनी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Dhruvaswamini' (1933 AD) is Jaishankar Prasad's last and best historical problem play, in which the question of women's liberation and remarriage has been raised. 'Aadhe-Adhure' is a play by Mohan Rakesh.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | साहित्यिक मूल्यांकन",
+      "en": "Which period of Hindi literature was first called the 'Golden Age of Hindi Literature'?",
+      "hi": "हिन्दी साहित्य के किस काल को सर्वप्रथम 'हिन्दी साहित्य का स्वर्णयुग' कहा गया?",
+      "options": [
+        "भक्तिकाल",
+        "आदिकाल",
+        "आधुनिक काल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भक्तिकाल",
+      "explanation": "In view of the spiritual, cultural and sublime literary flourishing of the Bhakti period, Dr. George Abraham Grierson, in his historical treatise, first called it 'The Golden Age'.",
+      "tip": "",
+      "id": 13,
+      "options_hi": [
+        "भक्तिकाल",
+        "आदिकाल",
+        "आधुनिक काल",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "In view of the spiritual, cultural and sublime literary flourishing of the Bhakti period, Dr. George Abraham Grierson, in his historical treatise, first called it 'The Golden Age'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Teacher TGT Hindi - Advt. 23/2023 | छायावाद - पंत",
+      "en": "Sumitranandan Pant is the main pillar poet of which poetry stream of modern times?",
+      "hi": "सुमित्रानंदन पंत आधुनिक काल की किस काव्य-धारा के प्रमुख स्तंभ कवि हैं?",
+      "options": [
+        "प्रगतिवाद",
+        "प्रयोगवाद",
+        "छायावाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "छायावाद",
+      "explanation": "Sumitranandan Pant is considered a delicate poet of nature among the four main pillars of Chhayavad (Prasad, Pant, Nirala, Mahadevi). He received the first Hindi Jnanpith Award in 1968 for 'Chidambara'.",
+      "tip": "",
+      "id": 14,
+      "options_hi": [
+        "प्रगतिवाद",
+        "प्रयोगवाद",
+        "छायावाद",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sumitranandan Pant is considered a delicate poet of nature among the four main pillars of Chhayavad (Prasad, Pant, Nirala, Mahadevi). He received the first Hindi Jnanpith Award in 1968 for 'Chidambara'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | कहानी साहित्य",
+      "en": "Who among these is the author of the story 'Akashdeep'?",
+      "hi": "इनमें से कौन 'आकाशदीप' कहानी के रचयिता हैं?",
+      "options": [
+        "जयशंकर प्रसाद",
+        "चंद्रधर शर्मा गुलेरी",
+        "जैनेन्द्र कुमार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "जयशंकर प्रसाद",
+      "explanation": "'Akashdeep' (1929 AD) is a famous emotional and historical story by Jaishankar Prasad, whose main characters are Champa and Buddhagupta.",
+      "tip": "",
+      "id": 15,
+      "options_hi": [
+        "जयशंकर प्रसाद",
+        "चंद्रधर शर्मा गुलेरी",
+        "जैनेन्द्र कुमार",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Akashdeep' (1929 AD) is a famous emotional and historical story by Jaishankar Prasad, whose main characters are Champa and Buddhagupta.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | द्विवेदी युगीन निबंध",
+      "en": "Who among the following is the author of the satirical attack on the oppressive rule of Lord Curzon?",
+      "hi": "इनमें से कौन लॉर्ड कर्जन के दमनकारी शासन पर करारे व्यंग्यात्मक आघात करने वाले लेखक हैं?",
+      "options": [
+        "माधो मिश्र",
+        "सुदर्शन",
+        "बालमुकुंद गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "बालमुकुंद गुप्त",
+      "explanation": "Babu Balmukund Gupta had written a sharp satire on the imperialist policies and oppression of the then Viceroy Lord Curzon in the magazine 'Bharat Mitra' under the title 'Shivshambhu's Letters' (1904–1905).",
+      "tip": "",
+      "id": 16,
+      "options_hi": [
+        "माधो मिश्र",
+        "सुदर्शन",
+        "बालमुकुंद गुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Babu Balmukund Gupta had written a sharp satire on the imperialist policies and oppression of the then Viceroy Lord Curzon in the magazine 'Bharat Mitra' under the title 'Shivshambhu's Letters' (1904–1905).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | सिद्ध साहित्य - भाषा",
+      "en": "Which of the following is considered to be the language of the sayings of the Siddhas?",
+      "hi": "निम्नलिखित में से कौन-सी सिद्धों की बानियों की भाषा मानी जाती है?",
+      "options": [
+        "सधुक्कड़ी भाषा",
+        "संध्या भाषा",
+        "खिचड़ी भाषा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "संध्या भाषा",
+      "explanation": "The language of intuitive experiences and symbolic reversals of the Siddhas (84 Siddhas) has been called 'Sandhya Bhasha' (or Sandha Bhasha) by Munidatta and Advayavajra, which means light-dark mixed symbolism.",
+      "tip": "",
+      "id": 17,
+      "options_hi": [
+        "सधुक्कड़ी भाषा",
+        "संध्या भाषा",
+        "खिचड़ी भाषा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The language of intuitive experiences and symbolic reversals of the Siddhas (84 Siddhas) has been called 'Sandhya Bhasha' (or Sandha Bhasha) by Munidatta and Advayavajra, which means light-dark mixed symbolism.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | सिद्ध साहित्य - आदि कवि",
+      "en": "Who among these Siddha poets is generally considered to be the first Siddha poet?",
+      "hi": "इन सिद्ध कवियों में से कौन सर्वमान्य रूप से प्रथम सिद्ध कवि माने जाते हैं?",
+      "options": [
+        "लूइपा",
+        "कण्हपा",
+        "सरहपा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "सरहपा",
+      "explanation": "Among the 84 Siddhas, Sarhapa (Sarahpada / Rahulbhadra, 769 AD) is considered to be the first Siddha poet. Mahapandit Rahul Sankrityayan has accepted Sarhapa as the first poet of Hindi.",
+      "tip": "",
+      "id": 18,
+      "options_hi": [
+        "लूइपा",
+        "कण्हपा",
+        "सरहपा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Among the 84 Siddhas, Sarhapa (Sarahpada / Rahulbhadra, 769 AD) is considered to be the first Siddha poet. Mahapandit Rahul Sankrityayan has accepted Sarhapa as the first poet of Hindi.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | आधुनिक कहानी - अज्ञेय",
+      "en": "Which of the following is a story collection written by Sachchidanand Hiranand Vatsyayan 'Agyeya'?",
+      "hi": "निम्नलिखित में से कौन-सी सच्चिदानंद हीरानंद वात्स्यायन 'अज्ञेय' विरचित कहानी संग्रह है?",
+      "options": [
+        "गुण्डा",
+        "विपथगा",
+        "काला आदमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "विपथगा",
+      "explanation": "'Vipathaga' (1937 AD) is Agyeya ji's first story collection. 'Gunda' is the story of Jaishankar Prasad. Agyeya's other famous stories are 'Rose' (Gangrene), 'Sharanadata' and 'Letterbucks'.",
+      "tip": "",
+      "id": 19,
+      "options_hi": [
+        "गुण्डा",
+        "विपथगा",
+        "काला आदमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Vipathaga' (1937 AD) is Agyeya ji's first story collection. 'Gunda' is the story of Jaishankar Prasad. Agyeya's other famous stories are 'Rose' (Gangrene), 'Sharanadata' and 'Letterbucks'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | आदिकाल - विद्यापति",
+      "en": "Which of these was the name of the father of Maithil Kokil great poet Vidyapati?",
+      "hi": "इनमें से मैथिल कोकिल महाकवि विद्यापति के पिता का नाम क्या था?",
+      "options": [
+        "कमलापति ठाकुर",
+        "उमापति ठाकुर",
+        "रमापति ठाकुर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 4,
+      "answer_letter": "E",
+      "answer_text": "उपर्युक्त में से कोई नहीं",
+      "explanation": "The name of great poet Vidyapati's father was 'Ganapati Thakur', who was a scholar from the court of Mithila king. Since Ganpati Thakur was absent in options (A), (B), (C), the Commission considered (E) as the answer.",
+      "tip": "",
+      "id": 20,
+      "options_hi": [
+        "कमलापति ठाकुर",
+        "उमापति ठाकुर",
+        "रमापति ठाकुर",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "The name of great poet Vidyapati's father was 'Ganapati Thakur', who was a scholar from the court of Mithila king. Since Ganpati Thakur was absent in options (A), (B), (C), the Commission considered (E) as the answer.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | भारतेन्दु युग - काव्य पंक्तियाँ",
+      "en": "\"Rovhu sab milikai aavhu Bharat bhai. Ha ha! India's plight should not be seen.\" Who among the following is the author of the above lines?",
+      "hi": "“रोवहु सब मिलिकै आवहु भारत भाई। हा हा! भारत दुर्दशा न देखी जाई॥” इनमें से कौन उपर्युक्त पंक्तियों के रचयिता हैं?",
+      "options": [
+        "भारतेन्दु हरिश्चन्द्र",
+        "मैथिलीशरण गुप्त",
+        "प्रतापनारायण मिश्र",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "भारतेन्दु हरिश्चन्द्र",
+      "explanation": "This famous invocation song is quoted from the first act of Bhartendu Harishchandra's original drama 'Bharat Durdasha' (1880 AD), in which India's past glory and current decline has been lamented.",
+      "tip": "",
+      "id": 21,
+      "options_hi": [
+        "भारतेन्दु हरिश्चन्द्र",
+        "मैथिलीशरण गुप्त",
+        "प्रतापनारायण मिश्र",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This famous invocation song is quoted from the first act of Bhartendu Harishchandra's original drama 'Bharat Durdasha' (1880 AD), in which India's past glory and current decline has been lamented.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | नाट्य साहित्य - एकांकी / रूपक",
+      "en": "Which of the following plays of Jaishankar Prasad is considered to be written in symbolic style?",
+      "hi": "निम्नलिखित में से जयशंकर प्रसाद का कौन-सा नाटक प्रतीकात्मक शैली में रचित माना जाता है?",
+      "options": [
+        "विशाख",
+        "एक घूँट",
+        "चंद्रगुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "एक घूँट",
+      "explanation": "'Ek Ghoont' (1930 AD) is considered to be the first one-act and symbolic composition of modern Hindi. Prasad ji's completely symbolic allegory is the play 'Kamna' (1927 AD).",
+      "tip": "",
+      "id": 22,
+      "options_hi": [
+        "विशाख",
+        "एक घूँट",
+        "चंद्रगुप्त",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Ek Ghoont' (1930 AD) is considered to be the first one-act and symbolic composition of modern Hindi. Prasad ji's completely symbolic allegory is the play 'Kamna' (1927 AD).",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | छायावादी काव्य पंक्तियाँ",
+      "en": "“The past Vibhavari has woken up! The amber is drowning in the water, the light is falling in the stars.” Who is the author of these lines?",
+      "hi": "“बीती विभावरी जाग री! अम्बर पनघट में डुबो रही, तारा-घट ऊषा नागरी।” इन पंक्तियों के रचयिता कौन हैं?",
+      "options": [
+        "मैथिलीशरण गुप्त",
+        "जयशंकर प्रसाद",
+        "श्रीधर पाठक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "जयशंकर प्रसाद",
+      "explanation": "This famous awakening song has been taken from Jaishankar Prasad's poetry collection 'Lahar' (1935 AD). There is an excellent coordination of song metaphor and personification in it.",
+      "tip": "",
+      "id": 23,
+      "options_hi": [
+        "मैथिलीशरण गुप्त",
+        "जयशंकर प्रसाद",
+        "श्रीधर पाठक",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "This famous awakening song has been taken from Jaishankar Prasad's poetry collection 'Lahar' (1935 AD). There is an excellent coordination of song metaphor and personification in it.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | द्विवेदी युग - राष्ट्रकवि",
+      "en": "Who among these is the author of the poem 'Bharat-Bharati'?",
+      "hi": "इनमें से कौन 'भारत-भारती' काव्य के रचयिता हैं?",
+      "options": [
+        "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+        "मैथिलीशरण गुप्त",
+        "रामधारी सिंह 'दिनकर'",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "मैथिलीशरण गुप्त",
+      "explanation": "'Bharat-Bharati' (1912 AD) is a poetic work filled with national sentiments written by Maithilisharan Gupta. Due to the wide influence of this work in the freedom movement, Mahatma Gandhi gave him the title of 'National Poet'.",
+      "tip": "",
+      "id": 24,
+      "options_hi": [
+        "अयोध्या सिंह उपाध्याय 'हरिऔध'",
+        "मैथिलीशरण गुप्त",
+        "रामधारी सिंह 'दिनकर'",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Bharat-Bharati' (1912 AD) is a poetic work filled with national sentiments written by Maithilisharan Gupta. Due to the wide influence of this work in the freedom movement, Mahatma Gandhi gave him the title of 'National Poet'.",
+      "tip_hi": ""
+    },
+    {
+      "source": "BPSC Senior Secondary Hindi - Advt. 24/2023 | समकालीन कविता आंदोलन",
+      "en": "Who among the following is the major poet associated with 'Akavita Movement'?",
+      "hi": "इनमें से कौन 'अकविता आंदोलन' से संबंधित प्रमुख कवि हैं?",
+      "options": [
+        "सौमित्र मोहन",
+        "जगदीश चतुर्वेदी",
+        "लक्ष्मीकांत वर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "Jagdish Chaturvedi was the originator of the 'Akavita Movement' that started in the 1960s, and Soumitra Mohan (the famous poet 'Lukman Ali') was its main signatory. Since two options are correct, (D) is correct.",
+      "tip": "",
+      "id": 25,
+      "options_hi": [
+        "सौमित्र मोहन",
+        "जगदीश चतुर्वेदी",
+        "लक्ष्मीकांत वर्मा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Jagdish Chaturvedi was the originator of the 'Akavita Movement' that started in the 1960s, and Soumitra Mohan (the famous poet 'Lukman Ali') was its main signatory. Since two options are correct, (D) is correct.",
+      "tip_hi": ""
+    }
+  ]
+}

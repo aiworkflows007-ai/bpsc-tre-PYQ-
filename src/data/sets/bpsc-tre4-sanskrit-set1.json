@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-sanskrit-set1",
+  "title": "संस्कृत अभ्यास सेट 1 (माहेश्वर सूत्राणि एवं व्याकरण — 25Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Sanskrit",
+  "filename": "bpsc-tre4-sanskrit-set1.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "BPSC Teacher TGT Sanskrit",
+      "en": "How many Maheshwara Sutras are there?",
+      "hi": "माहेश्वरसूत्राणां संख्या कति अस्ति?",
+      "options": [
+        "द्वादश (12)",
+        "चतुर्दश (14)",
+        "षोडश (16)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चतुर्दश (14)",
+      "explanation": "Bhagwan Shankarasya Natarajarajasya Damrudhvaneh Nirgataani Chaturdash (14) Sutraani Santi, Yaih Pratyaharaanam Nirmanam Bhavati ('Nrittavasane Natarajarajao Nanad Dhakkan Navapanchavaram').",
+      "tip": "Navapanchavaram = 9 + 5 = 14 Maheshwar Sutraani ('Aiun' Aarabhya 'Hal' Paryantam). Abhyah 42 (va 44) Pratyaharah Nishpadyante.",
+      "id": 1,
+      "options_hi": [
+        "द्वादश (12)",
+        "चतुर्दश (14)",
+        "षोडश (16)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bhagwan Shankarasya Natarajarajasya Damrudhvaneh Nirgataani Chaturdash (14) Sutraani Santi, Yaih Pratyaharaanam Nirmanam Bhavati ('Nrittavasane Natarajarajao Nanad Dhakkan Navapanchavaram').",
+      "tip_hi": "Navapanchavaram = 9 + 5 = 14 Maheshwar Sutraani ('Aiun' Aarabhya 'Hal' Paryantam). Abhyah 42 (va 44) Pratyaharah Nishpadyante."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "Which characters come under the 'Ak' Pratyahara?",
+      "hi": "'अक्' प्रत्याहारस्य अन्तर्गतं के वर्णाः आगच्छन्ति?",
+      "options": [
+        "अ, इ, उ, ऋ, ऌ",
+        "अ, इ, उ, ऋ, ल",
+        "आ, ई, ऊ, ॠ, ॡ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अ, इ, उ, ऋ, ऌ",
+      "explanation": "Maheshwar Sutrayo: 'Aiun' and 'Rik' Ityanayo: 'Ak' Pratyahare Itsanjyakau 'N' and 'K' Vihay Panch Moolswara: (A, I, U, Ri, ऌ) Pariganitah Bhavanti.",
+      "tip": "'Akah Savarne Dirghah' Sutra 'Ak' Pratyaharasya Panch Hrasvaswarah (A, I, U, Ri, ऌ) and Grihyante.",
+      "id": 2,
+      "options_hi": [
+        "अ, इ, उ, ऋ, ऌ",
+        "अ, इ, उ, ऋ, ल",
+        "आ, ई, ऊ, ॠ, ॡ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Maheshwar Sutrayo: 'Aiun' and 'Rik' Ityanayo: 'Ak' Pratyahare Itsanjyakau 'N' and 'K' Vihay Panch Moolswara: (A, I, U, Ri, ऌ) Pariganitah Bhavanti.",
+      "tip_hi": "'Akah Savarne Dirghah' Sutra 'Ak' Pratyaharasya Panch Hrasvaswarah (A, I, U, Ri, ऌ) and Grihyante."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "What is the place of articulation for Ka-varga?",
+      "hi": "'क' वर्गस्य उच्चारणस्थानं किम् अस्ति?",
+      "options": [
+        "कण्ठः",
+        "तालु",
+        "मूर्धा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "कण्ठः",
+      "explanation": "Paniniyya Shikshaaya: Sutravaartham 'Akuhvisarjaniyaan Kanthah'. Hence 'A', Kavargah (K, Kh, Gh, Gh, एं), 'H' and Visargasya pronunciation place Kantha Bhavati.",
+      "tip": "Place of pronunciation Sutraani: Kanth = Akuhvisarjaniyanam; Palate = Ichuyasham; Murdha = Riturshanam; Dantaḥ = Lṛtulsānam; ओष्ठौ = उपूपध्मानियानाम्.",
+      "id": 3,
+      "options_hi": [
+        "कण्ठः",
+        "तालु",
+        "मूर्धा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Paniniyya Shikshaaya: Sutravaartham 'Akuhvisarjaniyaan Kanthah'. Hence 'A', Kavargah (K, Kh, Gh, Gh, ङ), 'H' and Visargasya pronunciation place Kantha Bhavati.",
+      "tip_hi": "Place of pronunciation Sutraani: Kanth = Akuhvisarjaniyanam; Palate = Ichuyasham; Murdha = Riturshanam; Dantaḥ = Lṛtulsānam; ओष्ठौ = उपूपध्मानियानाम्."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "By which sutra does sandhi occur in 'Daityarih'?",
+      "hi": "'दैत्यारिः' इत्यत्र केन सूत्रेण सन्धिः भवति?",
+      "options": [
+        "अकः सवर्णे दीर्घः",
+        "आद्गुणः",
+        "वृद्धिरेचि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अकः सवर्णे दीर्घः",
+      "explanation": "'Daitya + Arih = Daityarih'. Atra akardvayasya savarnadirghaikadeshah 'Akah savarne dirgah' sutraen jaayte.",
+      "tip": "Sauravandirgha Sandhi: a/aa + a/aa = aa; e/e + e/e = e; U/Oo + U/Oo = Oo; Ri + Ri = ॰.",
+      "id": 4,
+      "options_hi": [
+        "अकः सवर्णे दीर्घः",
+        "आद्गुणः",
+        "वृद्धिरेचि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Daitya + Arih = Daityarih'. Atra akardvayasya savarnadirghaikadeshah 'Akah savarne dirghah' sutraen jaayte.",
+      "tip_hi": "सौर्वन्दिर्घ संधिः: a/aa + a/aa = aa; e/e + e/e = e; U/Oo + U/Oo = Oo; Ri + Ri = ॰."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "What is the sandhi viccheda of 'Upendrah'?",
+      "hi": "'उपेन्द्रः' इत्यस्य सन्धिविच्छेदः कः अस्ति?",
+      "options": [
+        "उप + इन्द्रः",
+        "उपे + न्द्रः",
+        "उपा + इन्द्रः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "उप + इन्द्रः",
+      "explanation": "'Up + Indrah = Upendrah'. 'Adgunah' sutraen avarnaat (up) ichi pare (indrah) purvparyoah sthanae guna ekadeshah 'a' bhavati.",
+      "tip": "Guna Sandhi Ekadesha: A + E = A (Upendra); A + U = O (Sunrise); A + Ri = Ar (Maharshi); अ + ऌ = अल (तावलकारः).",
+      "id": 5,
+      "options_hi": [
+        "उप + इन्द्रः",
+        "उपे + न्द्रः",
+        "उपा + इन्द्रः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Up + Indrah = Upendrah'. 'Adgunah' sutraen avarnaat (up) ichi pare (indrah) purvparyoah sthanae guna ekadeshah 'a' bhavati.",
+      "tip_hi": "Guna Sandhi Ekadesha: A + E = A (Upendrah); A + U = O (Sunrise); A + Ri = Ar (Maharshi); अ + ऌ = अल (तावलकारः)."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'इको यणचि' सूत्रेण 'मध्वरिः' इत्यस्य सन्धिविच्छेदः भवति",
+      "hi": "'इको यणचि' सूत्रेण 'मध्वरिः' इत्यस्य सन्धिविच्छेदः भवति",
+      "options": [
+        "मधु + अरिः",
+        "मध्व + रिः",
+        "मधो + अरिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मधु + अरिः",
+      "explanation": "'Madhu + Arih = Madhvarih'. Yansandhau 'Ik' (Ukarasya) places beyond the unequal vowels 'Yan' (व) Adesh: Bhavati.",
+      "tip": "Yam Sandhi: E -> Ya (Ityalam); U -> V (Madhvarih, Swagatam); ऋ -> र (Pitragya); ऌ -> ल (लाकृतिः).",
+      "id": 6,
+      "options_hi": [
+        "मधु + अरिः",
+        "मध्व + रिः",
+        "मधो + अरिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Madhu + Arih = Madhvarih'. Yansandhau 'Ik' (Ukarasya) places beyond the unequal vowels 'Yan' (व) Adesh: Bhavati.",
+      "tip_hi": "यं संधिः: ई -> य (Ityalam); U -> V (Madhvarih, Swagatam); ऋ -> र (Pitragya); ऌ -> ल (लाकृतिः)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'नायकः' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Nāyakah'?)",
+      "hi": "'नायकः' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Nāyakah'?)",
+      "options": [
+        "एचोऽयवायावः",
+        "वृद्धिरेचि",
+        "एङि पररूपम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "एचोऽयवायावः",
+      "explanation": "'Nai + Akah = Nayakah'. Atra Aikarasya Sthanae 'Echoyavyavah' Sutren Achi Pare 'Aay' Adeshbh Bhavati (अन + आय + अकः = नायकः).",
+      "tip": "Aayadi sandhi: A -> Aay (Shayanam); I -> Iay (Nayakah); o -> av (pavanam); Au -> आव (पावकः).",
+      "id": 7,
+      "options_hi": [
+        "एचोऽयवायावः",
+        "वृद्धिरेचि",
+        "एङि पररूपम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Nai + Akah = Nayakah'. Atra Aikarasya Sthanae 'Echoyavyavah' Sutren Achi Pare 'Aay' Adeshbh Bhavati (अन + आय + अकः = नायकः).",
+      "tip_hi": "आयादी संधिः: A -> आय (शायनम्); आई -> आय (नायकः); o -> av (pavanam); Au -> आव (पावकः)."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'वागीशः' इत्यत्र कः सन्धिः अस्ति? (Which sandhi is present in 'Vāgīśah'?)",
+      "hi": "'वागीशः' इत्यत्र कः सन्धिः अस्ति? (Which sandhi is present in 'Vāgīśah'?)",
+      "options": [
+        "जश्त्व सन्धिः",
+        "श्चुत्व सन्धिः",
+        "ष्टुत्व सन्धिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "जश्त्व सन्धिः",
+      "explanation": "'Vaak + Ishaah = Vaagishah'. 'Jhalan Jashonte' Sutren Padant-Jhal (a) Sthane Jhash (c) Adesh: Bhavati.",
+      "tip": "Assimilation: क -> ग, छ -> झ, त -> ड, त -> ड, प -> ब (वागीशः, अजन्तह, शदाननः, जागदीशः).",
+      "id": 8,
+      "options_hi": [
+        "जश्त्व सन्धिः",
+        "श्चुत्व सन्धिः",
+        "ष्टुत्व सन्धिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Vaak + Ishaah = Vaagishah'. 'झलां जाशोंटे' सुत्रेन पदांत-झल(क) स्थाने झश (ग) आदेशः भावती.",
+      "tip_hi": "Assimilation: क् -> ग्, च् -> ज्, ट् -> ड्, त् -> द्, प् -> ब् (वागीशः, अजन्तः, षडाननः, जगदीशः)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'रामश्चिनोति' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Rāmaścinoti'?)",
+      "hi": "'रामश्चिनोति' इत्यत्र सन्धि-विधायकं सूत्रं किम्? (Which sutra governs sandhi in 'Rāmaścinoti'?)",
+      "options": [
+        "स्तोः श्चुना श्चुः",
+        "ष्टुना ष्टुः",
+        "झलां जश् झशि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "स्तोः श्चुना श्चुः",
+      "explanation": "'Rams + Chinoti = Ramshchinoti'. Atra 'stoh shchuna shchuh' sutren sakarasya chavargena yoge sati talavya-shakarah (sh) aadesh bhavati.",
+      "tip": "Schutva sandhih: sa/tavargasya sha/chavargena yoge sakarasya 'sh' and tavargasya chavargah bhavati (harishete, sachshisyah).",
+      "id": 9,
+      "options_hi": [
+        "स्तोः श्चुना श्चुः",
+        "ष्टुना ष्टुः",
+        "झलां जश् झशि",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Rams + Chinoti = Ramshchinoti'. Atra 'stoh shchuna shchuh' sutren sakarasya chavargena yoge sati talavya-shakarah (sh) aadesh bhavati.",
+      "tip_hi": "Schutva sandhih: sa/tavargasya sha/chavargena yoge sakarasya 'sh' and tavargasya chavargah bhavati (harishete, sachshisyah)."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "What is the sandhi viccheda of 'Manorathah'?",
+      "hi": "'मनोरथः' इत्यस्य सन्धिविच्छेदः कः?",
+      "options": [
+        "मनः + रथः",
+        "मनो + रथः",
+        "मनस् + अथः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "मनः + रथः",
+      "explanation": "'Manah + Rathah = Manorathah'. 'Hashi Cha' Sutren Aplutadatah Parasya Roah Hashi Pare Utvam Bhavati, Tatah Adgunah Sutren 'A + U = O' Jaayte.",
+      "tip": "Utva Visarga Sandhi: Manah + Harah = Manoharah; Manah + Rathah = Manorathah; Yash + Da = Yashoda; Tapah + Vanam = Tapovanam.",
+      "id": 10,
+      "options_hi": [
+        "मनः + रथः",
+        "मनो + रथः",
+        "मनस् + अथः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Manah + Rathah = Manorathah'. 'Hashi Cha' Sutren Aplutadatah Parasya Roah Hashi Pare Utvam Bhavati, Tatah Adgunah Sutren 'A + U = O' Jaayte.",
+      "tip_hi": "Utva Visarga Sandhi: Manah + Harah = Manoharah; Manah + Rathah = Manorathah; Yash + Da = Yashoda; Tapah + Vanam = Tapovanam."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "Which compound predominantly has the second member principal?",
+      "hi": "प्रायशः उत्तरपदप्रधानः समासः कः भवति?",
+      "options": [
+        "अव्ययीभावः",
+        "तत्पुरुषः",
+        "बहुव्रीहिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "तत्पुरुषः",
+      "explanation": "Siddhantkaumudyaam uktam: 'Prayen Uttarpradharpradhaanstatpurushah'. Purvapadpradhan: अव्यायीभावः, अन्यपद्प्रधन्ः बहुव्रीहिह, उभ्यपद्प्रधन्ः द्वंद्वः भावती.",
+      "tip": "Compound predominance: First element predominant: = Adverbial compound; Second element predominant: = Determinative compound; Both elements predominant: = Copulative compound; Other element predominant: = Descriptive compound.",
+      "id": 11,
+      "options_hi": [
+        "अव्ययीभावः",
+        "तत्पुरुषः",
+        "बहुव्रीहिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Siddhantkaumudyaam uktam: 'Prayen Uttarpradharpradhaanstatpurushah'. Purvapadpradhan: अव्यायीभावः, अन्यपद्प्रधान्ः बहुव्रीहिः, उभ्यपद्प्रधान्ः द्वंद्वः भावती.",
+      "tip_hi": "Compound predominance: First element predominant: = Adverbial compound; Second element predominant: = Determinative compound; Both elements predominant: = Copulative compound; Other element predominant: = Descriptive compound."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'यथाशक्ति' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Yathāśakti'?)",
+      "hi": "'यथाशक्ति' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Yathāśakti'?)",
+      "options": [
+        "अव्ययीभावः",
+        "तत्पुरुषः",
+        "कर्मधारयः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "अव्ययीभावः",
+      "explanation": "'Shaktim Anatikramaya = as per the power'. Atra 'Yatha' Iti Avyayasya Mataratanitivritti-Arthe Avyayibhava Samasah Bhavati.",
+      "tip": "Avyayibhava Yudhnanani: Yathashakti (Shaktim Anatikramaya), Upagangam (Gangayah Sameepam), Pratidinam (Dinam Dinam Prati).",
+      "id": 12,
+      "options_hi": [
+        "अव्ययीभावः",
+        "तत्पुरुषः",
+        "कर्मधारयः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Shaktim Anatikramaya = as per the power'. Atra 'Yatha' Iti Avyayasya Mataratanitivritti-Arthe Avyayibhava Samasah Bhavati.",
+      "tip_hi": "अव्यायीभाव युद्धानानी: Yathashakti (शक्तिम अनतिक्रम्य), Upagangam (गंगायः समीपम्), Pratidinam (दिनम् दिनम् प्रति)."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'घनश्यामः' इत्यस्य सामासिक-विग्रहः कः अस्ति? (What is the compound dissolution of 'Ghanaśyāmah'?)",
+      "hi": "'घनश्यामः' इत्यस्य सामासिक-विग्रहः कः अस्ति? (What is the compound dissolution of 'Ghanaśyāmah'?)",
+      "options": [
+        "घनः इव श्यामः",
+        "घनः च श्यामः",
+        "घने श्यामः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "घनः इव श्यामः",
+      "explanation": "'Upamānānī samānyavachanaiḥ' formula 'Ghanah iva shyamah = Ghanshyamah' etc. Upmana-purvapada karmadharaya samaasah bhavati.",
+      "tip": "Karmadharaya Upamana-Upameya: Ghanashyamah (Ghanah Eva Shyamah); Narasimha (Singhiva Narah); Chandramukham (Chandrah Iva Mukham).",
+      "id": 13,
+      "options_hi": [
+        "घनः इव श्यामः",
+        "घनः च श्यामः",
+        "घने श्यामः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Upamānānī samānyavachanaiḥ' formula 'Ghanah iva shyamah = Ghanshyamah' etc. Upmana-purvapada karmadharaya samaasah bhavati.",
+      "tip_hi": "Karmadharaya Upamana-Upameya: Ghanashyamah (Ghanah Eva Shyaamah); Narasimha (Singh iva Narah); Chandramukham (Chandrah Iva Mukham)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'पञ्चगवम्' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Pañcagavam'?)",
+      "hi": "'पञ्चगवम्' इत्यस्मिन् पदे कः समासः अस्ति? (Which compound is in 'Pañcagavam'?)",
+      "options": [
+        "द्विगुः",
+        "द्वन्द्वः",
+        "बहुव्रीहिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "द्विगुः",
+      "explanation": "'Sankhyapurvo Dviguh'. 'Panchanam Gavan Samahar = Panchgavam'. Samahare Dvigu: Nityam Napunskalinge Ekavachane Prayujyate.",
+      "tip": "Dvigu Samas: Nammavachak: Samaharparak: Cha Bhavati (Tribhuvanam, Panchavati, Shatabdi).",
+      "id": 14,
+      "options_hi": [
+        "द्विगुः",
+        "द्वन्द्वः",
+        "बहुव्रीहिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Sankhyapurvo Dviguh'. 'Panchanam Gavan Samahar = Panchgavam'. Samahare Dvigu: Nityam Napunskalinge Ekavachane Prayujyate.",
+      "tip_hi": "द्विगु समासः नम्मवाचकः समाहारपरकः च भावती (Tribhuvanam, Panchavati, Shatabdi)."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'पीताम्बरः' इत्यत्र कः समासः अस्ति? (Which compound is in 'Pītāmbarah'?)",
+      "hi": "'पीताम्बरः' इत्यत्र कः समासः अस्ति? (Which compound is in 'Pītāmbarah'?)",
+      "options": [
+        "कर्मधारयः",
+        "बहुव्रीहिः",
+        "तत्पुरुषः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "बहुव्रीहिः",
+      "explanation": "'Pitam Ambaram Yasya Sah = Pitambarah (Vishnu/Shri Krishna)'. anya Atrapadaradhatvaat bahuvrihi samaasah bhavati. If 'Pitambaram' is impotent, then it is Karmadharayah Bhavet.",
+      "tip": "लिंगभेदं पश्यतुः 'पिताम्बरः' (पुनलिंगः) = polygamous; 'Pitambaram' (Napunskalingah) = Karmadharayah (Pitam Vastram).",
+      "id": 15,
+      "options_hi": [
+        "कर्मधारयः",
+        "बहुव्रीहिः",
+        "तत्पुरुषः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Pitam Ambaram Yasya Sah = Pitambarah (Vishnu/Shri Krishna)'. Atra anyapadradhatvaat bahuvrihi samaasah bhavati. If 'Pitambaram' is impotent, then it is Karmadharayah Bhavet.",
+      "tip_hi": "लिंगभेदं पश्यतुः 'पिताम्बरः' (पुन्लिंगः) = बहुव्रीहिह; 'Pitambaram' (Napunskalingah) = Karmadharayah (Pitam Vastram)."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'मातापितरौ' इत्यत्र कः समासः? (Which compound is in 'Mātāpitarau'?)",
+      "hi": "'मातापितरौ' इत्यत्र कः समासः? (Which compound is in 'Mātāpitarau'?)",
+      "options": [
+        "इतरेतर द्वन्द्वः",
+        "समाहार द्वन्द्वः",
+        "एकशेष द्वन्द्वः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "इतरेतर द्वन्द्वः",
+      "explanation": "'Mother and father = mother and father'. Atra dwayoh padyoh abyad-abyad astitvaasya bodhanaat 'other conflict' samaasah asti. If only 'pitrau' is there, then one is still there.",
+      "tip": "द्वंद्भभदः: मतापितरौ = इतेरेतर द्वंद्भः; Panipadam = Samahar Dwandvah; Pitrau = one remaining conflict.",
+      "id": 16,
+      "options_hi": [
+        "इतरेतर द्वन्द्वः",
+        "समाहार द्वन्द्वः",
+        "एकशेष द्वन्द्वः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Mother and father = mother and father'. Atra dvayoh padyoh abyad-abyad astitvaasya bodhanaat 'other conflict' samaasah asti. If only 'pitrau' is there, then one is still there.",
+      "tip_hi": "द्वंद्भभेदः: मतापितरौ = इतेरेतर द्वंद्भः; Panipadam = Samahar Dwandvah; Pitrau = one remaining conflict."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "That which directly connects with the action is called",
+      "hi": "क्रियायाः साक्षात् अन्वयः येन सह भवति, तत् किम् उच्यते?",
+      "options": [
+        "कारकम्",
+        "समासः",
+        "सन्धिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "कारकम्",
+      "explanation": "Sanskritvyakarane karakasya lakshanam asti: 'kriyanvaayitvam karkatvam' or 'krijanakatvam karkatvam'. Sanskrit Shat Karkani Santi.",
+      "tip": "Sanskrit Shat Karakani: Karta, Karma, Karanam, Sampradanam, Apadanam, Adhikaranam. Sambandhsya sakshat anvayabhavat karkatvam na manyate.",
+      "id": 17,
+      "options_hi": [
+        "कारकम्",
+        "समासः",
+        "सन्धिः",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Sanskritvyakarane karakasya lakshanam asti: 'kriyanvaayitvam karkatvam' or 'krijanakatvam karkatvam'. Sanskrit Shat Karkani Santi.",
+      "tip_hi": "Sanskrit Shat Karakani: Karta, Karma, Karanam, Sampradanam, Apadanam, Adhikaranam. Sambandhsya sakshat anvayabhavat karkatvam na manyate."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'साधकतमं करणम्' सूत्रेण का विभक्तिः विधीयते? (Which case is prescribed by 'Sādhakatamam Karanam'?)",
+      "hi": "'साधकतमं करणम्' सूत्रेण का विभक्तिः विधीयते? (Which case is prescribed by 'Sādhakatamam Karanam'?)",
+      "options": [
+        "तृतीया",
+        "चतुर्थी",
+        "पञ्चमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "तृतीया",
+      "explanation": "Kriyasiddhau yat svavidham sahakam bhavati tasya sabhavajangya bhavati ('sadhakatam karanam'), and 'kartrakaranyostritiya' formula tasmin tritiya vibhaktih prayujyate.",
+      "tip": "Karana Karaka Tritiya: 'Sah Kalmen Likhti' (Kalmen = Tritiya); 'Ramen banane wali'.",
+      "id": 18,
+      "options_hi": [
+        "तृतीया",
+        "चतुर्थी",
+        "पञ्चमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Kriyasiddhau yat svavidham sahakam bhavati tasya karanasangya bhavati ('sadhakatam karanam'), and 'kartrakaranyostritiya' formula tasmin tritiya vibhaktih prayujyate.",
+      "tip_hi": "Karana Karaka Tritiya: 'सः कल्मेन लिखती' (Kalmen = Tritiya); 'Ramen banen hato wali'."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'अक्ष्णा काणः' इत्यत्र केन सूत्रेण तृतीया विभक्तिः अभवत्?",
+      "hi": "'अक्ष्णा काणः' इत्यत्र केन सूत्रेण तृतीया विभक्तिः अभवत्?",
+      "options": [
+        "येनाङ्गविकारः",
+        "इत्थम्भूतलक्षणे",
+        "हेतौ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "येनाङ्गविकारः",
+      "explanation": "'Yenāngvikārāḥ' sutravaḥarān yen vikaritān aṅgen anginah vikarah lakshtāte, tasmin vikritāṅge tritiya vibkitiḥ bhavati (yatha- akṣṇa kāṇah, padaṇa khanjaḥ, shirshana khalwaṭh).",
+      "tip": "अंगविकारे तृतियाह पादेन खंज़, कर्नेन बाधिराह, अक्ष्णा कानह -> सुत्रम: 'Yenāngvikāraḥ'.",
+      "id": 19,
+      "options_hi": [
+        "येनाङ्गविकारः",
+        "इत्थम्भूतलक्षणे",
+        "हेतौ",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Yenāngvikārāḥ' sutravaḥarān yen vikaritān aṅgen anginah vikarah lakshtāte, tasmin vikritāṅge tritiya vibkitiḥ bhavati (yatha- akṣṇa kāṇah, padaṇa khanjaḥ, shirshana khalwaṭh).",
+      "tip_hi": "अंगविकारे तृतियाः पादेन खंजः, कर्नेन बाधिरः, अक्ष्णा कानः -> सुत्रम्: 'Yenāngvikāraḥ'."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'नमः स्वस्तिस्वाहास्वधाऽलंवषड्योगाच्च' सूत्रेण का विभक्तिः प्रयुज्यते?",
+      "hi": "'नमः स्वस्तिस्वाहास्वधाऽलंवषड्योगाच्च' सूत्रेण का विभक्तिः प्रयुज्यते?",
+      "options": [
+        "तृतीया",
+        "चतुर्थी",
+        "पञ्चमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "चतुर्थी",
+      "explanation": "Namah, Swasti, Swaha, Swadha, Alam and Vashat Atesham Shabdanaan Yoge Sarvada Chaturthi Abhivatikah Bhavati (Yatha- Vishnave Namah, Agnaye Swaha, Daityebhyo Hariralam).",
+      "tip": "Updavibhakti Chaturthi: 'Shivaya Namah', 'Prajabhyah Swasti', 'Indray Vashat'.",
+      "id": 20,
+      "options_hi": [
+        "तृतीया",
+        "चतुर्थी",
+        "पञ्चमी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Namah, Swasti, Swaha, Swadha, Alam and Vashat Atesham Shabdanaan Yoge Sarvada Chaturthi Abhivatikah Bhavati (Yatha- Vishnave Namah, Agnaye Swaha, Daityebhyo Hariralam).",
+      "tip_hi": "Updavibhakti Chaturthi: 'Shivaya Namah', 'Prajabhyah Swasti', 'Indray Vashat'."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'रुच्यार्थानां प्रीयमाणः' सूत्रस्य उदाहरणं किम् अस्ति?",
+      "hi": "'रुच्यार्थानां प्रीयमाणः' सूत्रस्य उदाहरणं किम् अस्ति?",
+      "options": [
+        "बालकाय मोदकं रोचते",
+        "हरये रोचते भक्तिः",
+        "विप्राय गां ददाति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "You will use these 'Ruch' things (prasanno bhavati) as per your sampradansangya bhootva chaturthi bhavati. Atra 'balkay modakam rochte' and 'harye rochte bhaktih' dwe api shuddhodaharne stha.",
+      "tip": "द्व्योह विक्याल्यों: सत्त्वत् BPSC EXAMINATIONS Option: (D) More than one of the above Answer Bhavishati.",
+      "id": 21,
+      "options_hi": [
+        "बालकाय मोदकं रोचते",
+        "हरये रोचते भक्तिः",
+        "विप्राय गां ददाति",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'Ruch' dhatoh prayoge yah priyamaanh (prasanno bhavati) tasya sampradansangya bhootva chaturthi bhavati. Atra 'balkay modakam rochte' and 'harye rochte bhaktih' dwe api shuddhodaharne stha.",
+      "tip_hi": "द्व्योः विक्याल्यों: सत्त्त्वत् BPSC EXAMINATIONS Option: (D) More than one of the above Answer Bhavishati."
+    },
+    {
+      "source": "BPSC Middle School Sanskrit",
+      "en": "'ध्रुवमपायेऽपादानम्' सूत्रेण कस्याः विभक्तेः विधानं भवति?",
+      "hi": "'ध्रुवमपायेऽपादानम्' सूत्रेण कस्याः विभक्तेः विधानं भवति?",
+      "options": [
+        "पञ्चमी",
+        "चतुर्थी",
+        "षष्ठी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "पञ्चमी",
+      "explanation": "अपाये (विल्शेषे/प्रिथ्ग्भावकार्ये) यद ध्रुवम् (अवधिभूतम) तत अपादानसंज्ञाकं भावति, 'अपादाने पंचमी' सुत्रेन च तस्मिन पंचमी विभक्तिः प्रयुज्यते (यथा- व्रिक्षत पत्रां पताती).",
+      "tip": "Abhiyakaran Panchami: Vrikshaat Patram Patati; Village Importer; Asanat uttishthati.",
+      "id": 22,
+      "options_hi": [
+        "पञ्चमी",
+        "चतुर्थी",
+        "षष्ठी",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अपाये (विल्शेषे/प्रिथ्ग्भावकार्ये) यद ध्रुवम् (अवधिभूतम) तत अपादानसंज्ञाकं भवति, 'अपादाने पंचमी' सुत्रेन च तस्मिन पंचमी विभक्तिः प्रयुज्यते (यथा- व्रृक्षात पत्रां पताति).",
+      "tip_hi": "Abhiyakarane Panchami: Vrikshaat Patram Patati; Village Importer; Asanat uttishthati."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'यस्य च भावेन भावलक्षणम्' सूत्रस्य प्रसिद्धम् उदाहरणं किम्?",
+      "hi": "'यस्य च भावेन भावलक्षणम्' सूत्रस्य प्रसिद्धम् उदाहरणं किम्?",
+      "options": [
+        "गोषु दुह्यमानासु गतः",
+        "रुदति प्राव्रजीत्",
+        "गवां कृष्णा बहुक्षीरा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "गोषु दुह्यमानासु गतः",
+      "explanation": "Yasya Kriyaya Anyasyaah Kriyayaah Kalo Lakshyate Tatra Saptami VibhaktiH Bhavati (Saptami BhaavavibhaktiH). 'Goshu Duhyamanasu Gatah' and 'Surye Udite Kamalam Vikasati' Asya Mukhnodaharne Stah.",
+      "tip": "Sati-Saptami / Bhavalakshanam: 'Rame vanam gate dasharath pranan atyajat', 'Surye Udite'.",
+      "id": 23,
+      "options_hi": [
+        "गोषु दुह्यमानासु गतः",
+        "रुदति प्राव्रजीत्",
+        "गवां कृष्णा बहुक्षीरा",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Yasya Kriyaya Anyasyaah Kriyayaah Kalo Lakshyate Tatra Saptami VibhaktiH Bhavati (Saptami BhaavavibhaktiH). 'Goshu Duhyamanasu Gatah' and 'Surye Udite Kamalam Vikasati' Asya Mukhnodaharne Stah.",
+      "tip_hi": "Sati-Saptami / Bhavalakshanam: 'Rame vanam gate dasharath pranan atyajat', 'Surye Udite'."
+    },
+    {
+      "source": "BPSC TGT Sanskrit",
+      "en": "'हरये क्रुध्यति' इत्यत्र 'हरि' शब्दस्य सम्प्रदानसंज्ञा केन सूत्रेण भवति?",
+      "hi": "'हरये क्रुध्यति' इत्यत्र 'हरि' शब्दस्य सम्प्रदानसंज्ञा केन सूत्रेण भवति?",
+      "options": [
+        "क्रुधद्रुहेर्ष्यासूयार्थानां यं प्रति कोपः",
+        "क्रुधद्रुहोरुपसृष्टयोः कर्म",
+        "कर्मणा यमभिप्रेति स सम्प्रदानम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "क्रुधद्रुहेर्ष्यासूयार्थानां यं प्रति कोपः",
+      "explanation": "Krudh, Druh, Irshya, Asuy Dhatvarthanaam Prayogye Yam Prati Kopah Kriyate Tasya Sampradansanjna Bhavati and Chaturthi Abhivyaktiah Prayujyate ('Harye Krudhyati').",
+      "tip": "Caution: If Krudh/Druh Dhatoah Purvam Prefix: Syat (Yatha- Abhikrudhyati), Tarhi Dwitiya Bhavati ('Harim Abhikrudhyati').",
+      "id": 24,
+      "options_hi": [
+        "क्रुधद्रुहेर्ष्यासूयार्थानां यं प्रति कोपः",
+        "क्रुधद्रुहोरुपसृष्टयोः कर्म",
+        "कर्मणा यमभिप्रेति स सम्प्रदानम्",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Krudh, Druh, Irshya, Asuy Dhatvarthanaam Prayogye Yam Prati Kopah Kriyate Tasya Sampradansanjna Bhavati and Chaturthi Abhivyaktiah Prayujyate ('Harye Krudhyati').",
+      "tip_hi": "Caution: If Krudh/Druh Dhatoah Purvam Prefix: Syat (Yatha- Abhikrudhyati), Tarhi Dwitiya Bhavati ('Harim Abhikrudhyati')."
+    },
+    {
+      "source": "BPSC Senior Secondary Sanskrit",
+      "en": "'अपादाने पञ्चमी' सूत्रेण 'भीत्रार्थानां भयहेतुः' इत्यस्य उदाहरणं किम्?",
+      "hi": "'अपादाने पञ्चमी' सूत्रेण 'भीत्रार्थानां भयहेतुः' इत्यस्य उदाहरणं किम्?",
+      "options": [
+        "चौरात् बिभेति",
+        "वृक्षात् फलं पतति",
+        "सिंहात् त्रायते",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "उपर्युक्त में से एक से अधिक",
+      "explanation": "Bhi (भ्यार्थक) and त्र (रक्ष्ठर्थक) धातुनां प्रयोगे भायस्य यह हेतुः (करानां) Tasya Apadanasangya Bhavati. Atra 'Chauraat Bibheti' and 'Singhat Trayate' dwe api shuddhhe stah.",
+      "tip": "भायेहेतु अपादानः सर्पात बिभेती; व्याघ्रात त्रायते -> द्व्योः विक्याल्योः सद्भवात (D) उत्तरम्.",
+      "id": 25,
+      "options_hi": [
+        "चौरात् बिभेति",
+        "वृक्षात् फलं पतति",
+        "सिंहात् त्रायते",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "Bhi (भ्यार्थक) and त्रा (रक्षार्थक) धातुनां प्रयोगे भायस्य यह हेतुः (करानं) Tasya Apadanasangya Bhavati. Atra 'Chauraat Bibheti' and 'Singhat Trayate' dwe api shuddhhe stah.",
+      "tip_hi": "भायहेतु अपादानः सर्पात बिभेती; व्याघ्रात त्रायते -> द्व्योः विक्याल्योः सद्भावात (D) उत्तरम्."
+    }
+  ]
+}

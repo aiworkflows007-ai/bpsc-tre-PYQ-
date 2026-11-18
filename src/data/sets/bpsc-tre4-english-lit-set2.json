@@ -1,0 +1,686 @@
+{
+  "id": "bpsc-tre4-english-lit-set2",
+  "title": "English Literature Practice Set 2 (Romantic & Victorian Eras — 25Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "English Literature",
+  "filename": "bpsc-tre4-english-lit-set2.json",
+  "question_count": 25,
+  "questions": [
+    {
+      "source": "Modernist Poetry",
+      "en": "T. S. Eliot's landmark modernist poem The Waste Land (1922) opens with which famous paradoxical line?",
+      "hi": "टी. एस. एलियट की ऐतिहासिक आधुनिकतावादी कविता द वेस्ट लैंड (1922) किस प्रसिद्ध विरोधाभासी पंक्ति से शुरू होती है?",
+      "options": [
+        "April is the cruellest month",
+        "Let us go then, you and I",
+        "In my beginning is my end",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "April is the cruellest month",
+      "explanation": "Section I of The Waste Land ('The Burial of the Dead') begins: 'April is the cruellest month, breeding / Lilacs out of the dead land, mixing / Memory and desire', inverting Chaucer's joyful spring opening in the Canterbury Tales.",
+      "tip": "The Waste Land has 5 sections: 1. The Burial of the Dead; 2. A Game of Chess; 3. The Fire Sermon; 4. Death by Water; 5. What the Thunder Said. Dedicated to Ezra Pound ('il miglior fabbro').",
+      "id": 1,
+      "options_hi": [
+        "April is the cruellest month",
+        "Let us go then, you and I",
+        "In my beginning is my end",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "द वेस्ट लैंड ('द बरिअल ऑफ द डेड') का खंड I शुरू होता है: 'अप्रैल सबसे क्रूर महीना है, प्रजनन / मृत भूमि से लीलैक, मिश्रण / स्मृति और इच्छा', जो कैंटरबरी टेल्स में चौसर के आनंदमय वसंत के उद्घाटन को दर्शाता है।",
+      "tip_hi": "बंजर भूमि में 5 खंड हैं: 1. मृतकों का दफ़नाना; 2. शतरंज का खेल; 3. अग्नि उपदेश; 4. जल से मृत्यु; 5. थंडर ने क्या कहा। एज्रा पाउंड ('इल मिग्लियोर फैब्रो') को समर्पित।"
+    },
+    {
+      "source": "Modernist Fiction",
+      "en": "Which modernist stream-of-consciousness novel by James Joyce depicts a single day (16th June 1904) in the life of Leopold Bloom in Dublin?",
+      "hi": "जेम्स जॉयस का कौन सा आधुनिकतावादी धारा-चेतना उपन्यास डबलिन में लियोपोल्ड ब्लूम के जीवन के एक दिन (16 जून 1904) को दर्शाता है?",
+      "options": [
+        "A Portrait of the Artist as a Young Man",
+        "Ulysses",
+        "Finnegans Wake",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ulysses",
+      "explanation": "James Joyce's monumental novel Ulysses (1922) chronicles the encounters of Leopold Bloom, Stephen Dedalus, and Molly Bloom in Dublin over the course of Thursday, 16 June 1904 (now celebrated internationally as 'Bloomsday').",
+      "tip": "Ulysses parallels Homer's Odyssey across 18 episodes and concludes with Molly Bloom's unpunctuated 8-sentence stream-of-consciousness soliloquy ending in 'yes I said yes I will Yes.'",
+      "id": 2,
+      "options_hi": [
+        "A Portrait of the Artist as a Young Man",
+        "Ulysses",
+        "Finnegans Wake",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जेम्स जॉयस का स्मारकीय उपन्यास यूलिसिस (1922) गुरुवार, 16 जून 1904 (अब अंतरराष्ट्रीय स्तर पर 'ब्लूम्सडे' के रूप में मनाया जाता है) के दौरान डबलिन में लियोपोल्ड ब्लूम, स्टीफन डेडलस और मौली ब्लूम की मुठभेड़ों का वर्णन करता है।",
+      "tip_hi": "यूलिसिस 18 एपिसोड में होमर के ओडिसी की बराबरी करता है और मौली ब्लूम की अप्रकाशित 8-वाक्य धारा-चेतना के भाषण के साथ समाप्त होता है, जिसका अंत 'हां, मैंने कहा हां, मैं हां करूंगा।'"
+    },
+    {
+      "source": "20th Century Drama",
+      "en": "Who wrote the play Waiting for Godot (1953), the foremost exemplar of the Theatre of the Absurd?",
+      "hi": "वेटिंग फॉर गोडोट (1953) नाटक किसने लिखा, जो थिएटर ऑफ़ द एब्सर्ड का सबसे प्रमुख उदाहरण है?",
+      "options": [
+        "Harold Pinter",
+        "Samuel Beckett",
+        "Eugene Ionesco",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Samuel Beckett",
+      "explanation": "Irish playwright Samuel Beckett wrote Waiting for Godot (originally in French as En attendant Godot), where two tramps, Vladimir and Estragon, endlessly wait by a solitary tree for a mysterious figure named Godot who never arrives.",
+      "tip": "Critic Vivian Mercier famously summarized Waiting for Godot: 'a play where nothing happens, twice.' Key term: Theatre of the Absurd (coined by Martin Esslin).\nSECTION 2: LITERARY CRITICISM, THEORY, INDIAN WRITING IN ENGLISH & AMERICAN LITERATURE (Q.29 to Q.55)",
+      "id": 3,
+      "options_hi": [
+        "Harold Pinter",
+        "Samuel Beckett",
+        "Eugene Ionesco",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "आयरिश नाटककार सैमुअल बेकेट ने वेटिंग फॉर गोडोट (मूल रूप से फ्रेंच में एन अटेंडेंट गोडोट के रूप में) लिखा है, जहां दो आवारा, व्लादिमीर और एस्ट्रागन, गोडोट नामक एक रहस्यमय व्यक्ति के लिए एक अकेले पेड़ के पास अंतहीन इंतजार करते हैं जो कभी नहीं आता है।",
+      "tip_hi": "आलोचक विवियन मर्सिएर ने वेटिंग फॉर गोडोट का प्रसिद्ध सारांश प्रस्तुत किया: 'एक नाटक जहां कुछ भी नहीं होता, दो बार।' मुख्य शब्द: थिएटर ऑफ़ द एब्सर्ड (मार्टिन एस्लिन द्वारा गढ़ा गया)।\nखंड 2: साहित्यिक आलोचना, सिद्धांत, अंग्रेजी और अमेरिकी साहित्य में भारतीय लेखन (प्र.29 से प्र.55)"
+    },
+    {
+      "source": "Classical Criticism (Aristotle)",
+      "en": "In his Poetics, Aristotle defines 'Tragedy' as an imitation of an action that is serious, complete, and of a certain magnitude, effecting through pity and fear the purgation of such emotions, which he terms",
+      "hi": "अपने काव्यशास्त्र में, अरस्तू ने 'त्रासदी' को एक ऐसे कार्य की नकल के रूप में परिभाषित किया है जो गंभीर, पूर्ण और एक निश्चित परिमाण का है, जो दया और भय के माध्यम से ऐसी भावनाओं को दूर करता है, जिसे वह कहते हैं",
+      "options": [
+        "Hamartia",
+        "Catharsis",
+        "Anagnorisis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Catharsis",
+      "explanation": "Aristotle uses the Greek medical/ritual term 'Catharsis' (katharsis) to designate the therapeutic emotional purgation or purification of pity (eleos) and fear (phobos) experienced by the tragic audience.",
+      "tip": "Aristotelian Tragedy terms: Catharsis = emotional purgation; Hamartia = tragic error of judgment; Anagnorisis = recognition/discovery; Peripeteia = reversal of fortune; Hubris = insolent pride.",
+      "id": 4,
+      "options_hi": [
+        "Hamartia",
+        "Catharsis",
+        "Anagnorisis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अरस्तू ग्रीक चिकित्सा/अनुष्ठान शब्द 'कैथार्सिस' (कैथार्सिस) का उपयोग दुखद दर्शकों द्वारा अनुभव किए गए दया (एलोस) और भय (फ़ोबोस) के चिकित्सीय भावनात्मक शुद्धिकरण या शुद्धिकरण को निर्दिष्ट करने के लिए करता है।",
+      "tip_hi": "अरिस्टोटेलियन त्रासदी शब्द: रेचन = भावनात्मक शुद्धिकरण; हामार्टिया = निर्णय की दुखद त्रुटि; एनाग्नोरिसिस = पहचान/खोज; पेरिपेटिया = भाग्य का उलटफेर; अभिमान = घृणित अभिमान।"
+    },
+    {
+      "source": "Classical Poetics",
+      "en": "What is the term coined by Aristotle for the tragic flaw or fatal error of judgment that precipitates the hero's downfall?",
+      "hi": "नायक के पतन का कारण बनने वाले दुखद दोष या निर्णय की घातक त्रुटि के लिए अरस्तू द्वारा गढ़ा गया शब्द क्या है?",
+      "options": [
+        "Peripeteia",
+        "Hamartia",
+        "Nemesis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hamartia",
+      "explanation": "Hamartia (derived from Greek for 'missing the mark' in archery) denotes the tragic flaw, miscalculation, or moral blindness that brings about the tragic protagonist's ruin.",
+      "tip": "Othello's credulous jealousy, Hamlet's procrastination, and Macbeth's vaulting ambition are classic Shakespearean examples of Hamartia.",
+      "id": 5,
+      "options_hi": [
+        "Peripeteia",
+        "Hamartia",
+        "Nemesis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "हामार्टिया (तीरंदाजी में 'निशान चूकने' के लिए ग्रीक से लिया गया) दुखद दोष, गलत अनुमान या नैतिक अंधापन को दर्शाता है जो दुखद नायक के विनाश का कारण बनता है।",
+      "tip_hi": "ओथेलो की विश्वसनीय ईर्ष्या, हैमलेट की शिथिलता, और मैकबेथ की आक्रामक महत्वाकांक्षा हामार्टिया के क्लासिक शेक्सपियरियन उदाहरण हैं।"
+    },
+    {
+      "source": "Coleridge's Literary Theory",
+      "en": "In Biographia Literaria (1817), S. T. Coleridge famously distinguished between two faculties of the poetic mind, namely",
+      "hi": "बायोग्राफिया लिटरेरिया (1817) में, एस. टी. कोलरिज ने काव्य मन की दो क्षमताओं के बीच प्रसिद्ध रूप से अंतर किया, अर्थात्",
+      "options": [
+        "Primary Imagination and Secondary Imagination",
+        "Fancy and Imagination",
+        "Wit and Judgement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "answer_letter": "D",
+      "answer_text": "More than one of the above",
+      "explanation": "In Chapter XIII of Biographia Literaria, Coleridge introduces both distinctions: first, between Fancy (a mechanical, aggregating mode of memory) and Imagination (creative, synthetic power); and second, subdividing Imagination into 'Primary' (universal perception) and 'Secondary' (conscious artistic creation).",
+      "tip": "Because Coleridge formulates BOTH the Fancy vs. Imagination distinction and the Primary vs. Secondary Imagination division, BPSC Option (D) is triggered.",
+      "id": 6,
+      "options_hi": [
+        "Primary Imagination and Secondary Imagination",
+        "Fancy and Imagination",
+        "Wit and Judgement",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बायोग्राफिया लिटरेरिया के अध्याय XIII में, कोलरिज ने दोनों भेदों का परिचय दिया है: पहला, फैंसी (स्मृति का एक यांत्रिक, एकत्रित मोड) और कल्पना (रचनात्मक, सिंथेटिक शक्ति) के बीच; और दूसरा, कल्पना को 'प्राथमिक' (सार्वभौमिक धारणा) और 'माध्यमिक' (सचेत कलात्मक रचना) में उपविभाजित करना।",
+      "tip_hi": "क्योंकि कोलरिज फैंसी बनाम इमेजिनेशन भेद और प्राथमिक बनाम सेकेंडरी इमेजिनेशन डिवीजन दोनों को तैयार करता है, बीपीएससी विकल्प (डी) ट्रिगर होता है।"
+    },
+    {
+      "source": "Romantic Criticism",
+      "en": "Which celebrated critical phrase was formulated by S. T. Coleridge to describe the reader's mental state required to appreciate romantic and supernatural literature?",
+      "hi": "रोमांटिक और अलौकिक साहित्य की सराहना करने के लिए आवश्यक पाठक की मानसिक स्थिति का वर्णन करने के लिए एस.टी. कोलरिज द्वारा कौन सा प्रसिद्ध आलोचनात्मक वाक्यांश तैयार किया गया था?",
+      "options": [
+        "Negative Capability",
+        "Objective Correlative",
+        "Willing suspension of disbelief",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Willing suspension of disbelief",
+      "explanation": "In Chapter XIV of Biographia Literaria, Coleridge explains that in his contributions to Lyrical Ballads (such as 'The Ancient Mariner'), his endeavor was to transfer human interest to supernatural incidents, procuring 'that willing suspension of disbelief for the moment, which constitutes poetic faith.'",
+      "tip": "Match critical concepts to authors: Willing suspension of disbelief = Coleridge; Negative Capability = Keats; Objective Correlative = T. S. Eliot; Touchstone Method = Matthew Arnold.",
+      "id": 7,
+      "options_hi": [
+        "Negative Capability",
+        "Objective Correlative",
+        "Willing suspension of disbelief",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बायोग्राफिया लिटरेरिया के अध्याय XIV में, कोलरिज बताते हैं कि गीतात्मक गाथागीत (जैसे 'द एंशिएंट मेरिनर') में उनके योगदान में, उनका प्रयास मानवीय रुचि को अलौकिक घटनाओं में स्थानांतरित करना था, 'क्षण के लिए अविश्वास का वह इच्छुक निलंबन, जो काव्यात्मक विश्वास का गठन करता है।'",
+      "tip_hi": "लेखकों के साथ आलोचनात्मक अवधारणाओं का मिलान करें: अविश्वास का इच्छुक निलंबन = कोलरिज; नकारात्मक क्षमता = कीट्स; उद्देश्य सहसंबद्ध = टी.एस. एलियट; टचस्टोन विधि = मैथ्यू अर्नोल्ड।"
+    },
+    {
+      "source": "T. S. Eliot's Criticism",
+      "en": "T. S. Eliot coined the concept of 'Objective Correlative' in which of his critical essays?",
+      "hi": "टी. एस. एलियट ने अपने किस आलोचनात्मक निबंध में 'ऑब्जेक्टिव कोरिलेटिव' की अवधारणा गढ़ी?",
+      "options": [
+        "Tradition and the Individual Talent",
+        "Hamlet and His Problems",
+        "The Metaphysical Poets",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Hamlet and His Problems",
+      "explanation": "In 'Hamlet and His Problems' (1919), Eliot defined the 'objective correlative' as 'a set of objects, a situation, a chain of events which shall be the formula of that particular emotion', infamously declaring Shakespeare's Hamlet 'an artistic failure' because Hamlet's emotion exceeded the facts.",
+      "tip": "Eliot's landmark essays: 'Hamlet and His Problems' (Objective Correlative); 'The Metaphysical Poets' (Dissociation of Sensibility); 'Tradition and the Individual Talent' (Impersonal theory of poetry).",
+      "id": 8,
+      "options_hi": [
+        "Tradition and the Individual Talent",
+        "Hamlet and His Problems",
+        "The Metaphysical Poets",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'हेमलेट एंड हिज प्रॉब्लम्स' (1919) में, एलियट ने 'उद्देश्य सहसंबंध' को 'वस्तुओं का एक सेट, एक स्थिति, घटनाओं की एक श्रृंखला जो उस विशेष भावना का सूत्र होगा' के रूप में परिभाषित किया, कुख्यात रूप से शेक्सपियर के हेमलेट को 'एक कलात्मक विफलता' घोषित किया क्योंकि हेमलेट की भावना तथ्यों से अधिक थी।",
+      "tip_hi": "एलियट के ऐतिहासिक निबंध: 'हेमलेट और उसकी समस्याएं' (उद्देश्य सहसंबद्ध); 'द मेटाफिजिकल पोएट्स' (संवेदनशीलता का विघटन); 'परंपरा और व्यक्तिगत प्रतिभा' (कविता का अवैयक्तिक सिद्धांत)।"
+    },
+    {
+      "source": "Modernist Criticism",
+      "en": "The critical concept of 'Dissociation of Sensibility'—the separation of thought from feeling that occurred in 17th-century English poetry—was advanced by",
+      "hi": "'संवेदनशीलता के पृथक्करण' की आलोचनात्मक अवधारणा - 17वीं शताब्दी की अंग्रेजी कविता में भावना से विचार का पृथक्करण - द्वारा आगे बढ़ाया गया था",
+      "options": [
+        "I. A. Richards",
+        "T. S. Eliot",
+        "F. R. Leavis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "T. S. Eliot",
+      "explanation": "In 'The Metaphysical Poets' (1921), Eliot argued that poets like Donne possessed a mechanism of sensibility that could devour any kind of experience ('they felt their thought as immediately as the odour of a rose'), but in the 17th century a 'dissociation of sensibility' set in from Milton and Dryden onward.",
+      "tip": "Unified Sensibility = Metaphysical poets (thought and feeling fused); Dissociation of Sensibility = Post-Restoration poetry (intellect and emotion split).",
+      "id": 9,
+      "options_hi": [
+        "I. A. Richards",
+        "T. S. Eliot",
+        "F. R. Leavis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'द मेटाफिजिकल पोएट्स' (1921) में, एलियट ने तर्क दिया कि डोने जैसे कवियों के पास संवेदनशीलता का एक तंत्र था जो किसी भी प्रकार के अनुभव को निगल सकता था ('उन्हें अपने विचार तुरंत गुलाब की गंध की तरह महसूस होते थे'), लेकिन 17 वीं शताब्दी में मिल्टन और ड्राइडन के बाद से 'संवेदनशीलता का पृथक्करण' शुरू हो गया।",
+      "tip_hi": "एकीकृत संवेदनशीलता = आध्यात्मिक कवि (विचार और भावना जुड़े हुए); संवेदनशीलता का विच्छेदन = पुनर्स्थापन के बाद की कविता (बुद्धि और भावना का विभाजन)।"
+    },
+    {
+      "source": "New Criticism",
+      "en": "Which foundational New Critical text was authored by W. K. Wimsatt Jr. and Monroe Beardsley regarding the error of judging a literary work by the author's intended meaning?",
+      "hi": "किसी साहित्यिक कृति को लेखक के इच्छित अर्थ के आधार पर आंकने की त्रुटि के संबंध में डब्ल्यू. के. विम्सट जूनियर और मोनरो बियर्डस्ले द्वारा कौन सा मूलभूत नया आलोचनात्मक पाठ लिखा गया था?",
+      "options": [
+        "The Affective Fallacy",
+        "The Intentional Fallacy",
+        "Seven Types of Ambiguity",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "The Intentional Fallacy",
+      "explanation": "In 'The Intentional Fallacy' (1946), Wimsatt and Beardsley argued that an author's design or intention is neither available nor desirable as a standard for judging the success of a work of literary art. In 'The Affective Fallacy' (1949), they argued against judging poetry by its psychological emotional effect on the reader.",
+      "tip": "Wimsatt & Beardsley's two fallacies: Intentional Fallacy = confusing the poem with its author's intent; Affective Fallacy = confusing the poem with its emotional effect on the reader.",
+      "id": 10,
+      "options_hi": [
+        "The Affective Fallacy",
+        "The Intentional Fallacy",
+        "Seven Types of Ambiguity",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'द इंटेंशनल फॉलसी' (1946) में, विम्सट और बियर्डस्ले ने तर्क दिया कि किसी लेखक का डिज़ाइन या इरादा साहित्यिक कला के काम की सफलता का आकलन करने के लिए एक मानक के रूप में न तो उपलब्ध है और न ही वांछनीय है। 'द अफेक्टिव फॉलसी' (1949) में, उन्होंने पाठक पर इसके मनोवैज्ञानिक भावनात्मक प्रभाव के आधार पर कविता का मूल्यांकन करने के खिलाफ तर्क दिया।",
+      "tip_hi": "विम्सैट और बियर्डस्ले की दो भ्रांतियाँ: जानबूझकर भ्रांति = कविता को उसके लेखक के इरादे से भ्रमित करना; भावात्मक भ्रांति = पाठक पर अपने भावनात्मक प्रभाव से कविता को भ्रमित करना।"
+    },
+    {
+      "source": "Postcolonial Theory",
+      "en": "Who authored the seminal postcolonial critical text Orientalism (1978), analyzing how the West historically constructed and represented the East as inferior, exotic, and irrational?",
+      "hi": "मौलिक उत्तर-औपनिवेशिक आलोचनात्मक पाठ ओरिएंटलिज्म (1978) का लेखक कौन है, जिसमें यह विश्लेषण किया गया है कि पश्चिम ने ऐतिहासिक रूप से पूर्व को घटिया, विदेशी और अतार्किक के रूप में कैसे प्रस्तुत किया?",
+      "options": [
+        "Homi K. Bhabha",
+        "Gayatri Chakravorty Spivak",
+        "Edward W. Said",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Edward W. Said",
+      "explanation": "Palestinian-American scholar Edward Said published Orientalism in 1978, drawing upon Michel Foucault's concepts of discourse and power to demonstrate how Western colonial scholarship systematically produced an ideologically biased representation of the Orient.",
+      "tip": "Postcolonial Trinity: Edward Said (Orientalism); Homi Bhabha (Hybridity, Mimicry, Third Space); Gayatri Spivak ('Can the Subaltern Speak?', Strategic Essentialism).",
+      "id": 11,
+      "options_hi": [
+        "Homi K. Bhabha",
+        "Gayatri Chakravorty Spivak",
+        "Edward W. Said",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "फिलीस्तीनी-अमेरिकी विद्वान एडवर्ड सईद ने 1978 में ओरिएंटलिज्म प्रकाशित किया, जिसमें मिशेल फौकॉल्ट की प्रवचन और शक्ति की अवधारणाओं पर आधारित यह प्रदर्शित किया गया कि कैसे पश्चिमी औपनिवेशिक विद्वता ने व्यवस्थित रूप से ओरिएंट का एक वैचारिक रूप से पक्षपाती प्रतिनिधित्व तैयार किया।",
+      "tip_hi": "उत्तर औपनिवेशिक त्रिमूर्ति: एडवर्ड ने कहा (प्राच्यवाद); होमी भाभा (हाइब्रिडिटी, मिमिक्री, थर्ड स्पेस); गायत्री स्पिवक ('क्या सबाल्टर्न बोल सकते हैं?', रणनीतिक अनिवार्यतावाद)।"
+    },
+    {
+      "source": "Subaltern Studies & Theory",
+      "en": "The celebrated postcolonial essay 'Can the Subaltern Speak?' (1988), examining the systemic silencing of marginalized colonized subjects (particularly women), was written by",
+      "hi": "प्रसिद्ध उत्तर-औपनिवेशिक निबंध 'कैन द सबाल्टर्न स्पीक?' (1988), हाशिए पर रहने वाले उपनिवेशित विषयों (विशेष रूप से महिलाओं) की प्रणालीगत चुप्पी की जांच करते हुए, द्वारा लिखा गया था",
+      "options": [
+        "Gayatri Chakravorty Spivak",
+        "Edward Said",
+        "Frantz Fanon",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Gayatri Chakravorty Spivak",
+      "explanation": "Gayatri Chakravorty Spivak's influential essay examines how colonial archives and indigenous patriarchal structures mutually silence the subaltern woman, illustrated through the historical prohibition of Sati in colonial India.",
+      "tip": "The term 'Subaltern' was originally borrowed from Marxist theorist Antonio Gramsci's Prison Notebooks to denote socially subordinated, disenfranchised groups.",
+      "id": 12,
+      "options_hi": [
+        "Gayatri Chakravorty Spivak",
+        "Edward Said",
+        "Frantz Fanon",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "गायत्री चक्रवर्ती स्पिवक का प्रभावशाली निबंध इस बात की जांच करता है कि कैसे औपनिवेशिक अभिलेखागार और स्वदेशी पितृसत्तात्मक संरचनाएं पारस्परिक रूप से निम्नवर्गीय महिला को चुप कराती हैं, जो औपनिवेशिक भारत में सती के ऐतिहासिक निषेध के माध्यम से चित्रित किया गया है।",
+      "tip_hi": "'सबाल्टर्न' शब्द मूल रूप से सामाजिक रूप से अधीनस्थ, वंचित समूहों को दर्शाने के लिए मार्क्सवादी सिद्धांतकार एंटोनियो ग्राम्सी की जेल नोटबुक से लिया गया था।"
+    },
+    {
+      "source": "Deconstruction & Theory",
+      "en": "Who delivered the revolutionary 1966 Johns Hopkins lecture 'Structure, Sign, and Play in the Discourse of the Human Sciences', inaugurating Post-Structuralism and Deconstruction?",
+      "hi": "उत्तर-संरचनावाद और विखंडन का उद्घाटन करते हुए क्रांतिकारी 1966 जॉन्स हॉपकिन्स व्याख्यान 'मानव विज्ञान के प्रवचन में संरचना, संकेत और खेल' किसने दिया था?",
+      "options": [
+        "Roland Barthes",
+        "Jacques Derrida",
+        "Michel Foucault",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Jacques Derrida",
+      "explanation": "Jacques Derrida's lecture challenged structuralism's belief in a fixed, transcendent center or origin in linguistic structures, introducing key deconstructive concepts such as 'decentering', 'play', and later 'différance'.",
+      "tip": "Derrida coined 'Différance' (combining differing and deferring of meaning) and wrote Of Grammatology (1967). Famous quote: 'There is nothing outside the text' (Il n'y a pas de hors-texte).",
+      "id": 13,
+      "options_hi": [
+        "Roland Barthes",
+        "Jacques Derrida",
+        "Michel Foucault",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जैक्स डेरिडा के व्याख्यान ने भाषाई संरचनाओं में एक निश्चित, पारलौकिक केंद्र या उत्पत्ति में संरचनावाद के विश्वास को चुनौती दी, जिसमें 'डिसेंटरिंग', 'प्ले' और बाद में 'डिफरेंस' जैसी प्रमुख डिकंस्ट्रक्टिव अवधारणाओं को पेश किया गया।",
+      "tip_hi": "डेरिडा ने 'डिफ़रेंस' (अर्थ को अलग और अलग करने का संयोजन) गढ़ा और ऑफ़ ग्रामेटोलॉजी (1967) लिखा। प्रसिद्ध उद्धरण: 'पाठ के बाहर कुछ भी नहीं है' (Il n'y a pas de hors-texte)।"
+    },
+    {
+      "source": "Indian Writing in English",
+      "en": "Rabindranath Tagore was awarded the Nobel Prize in Literature in 1913 for his translated collection of spiritual lyrics titled",
+      "hi": "रवीन्द्रनाथ टैगोर को उनके आध्यात्मिक गीतों के अनुवादित संग्रह शीर्षक के लिए 1913 में साहित्य में नोबेल पुरस्कार से सम्मानित किया गया था",
+      "options": [
+        "The Post Office",
+        "Gora",
+        "Gitanjali (Song Offerings)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Gitanjali (Song Offerings)",
+      "explanation": "Rabindranath Tagore became the first non-European Nobel laureate in Literature in 1913 for Gitanjali (Song Offerings), published in English translation in 1912 with an introduction by W. B. Yeats.",
+      "tip": "Gitanjali contains 103 English prose poems translated by Tagore himself from his Bengali collections (Gitanjali, Gitimalya, Naivedya). Opens with 'Thou hast made me endless, such is thy pleasure.'",
+      "id": 14,
+      "options_hi": [
+        "The Post Office",
+        "Gora",
+        "Gitanjali (Song Offerings)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "रवीन्द्रनाथ टैगोर 1913 में गीतांजलि (गीत प्रस्तुतियाँ) के लिए साहित्य में पहले गैर-यूरोपीय नोबेल पुरस्कार विजेता बने, जो 1912 में डब्ल्यू.बी. येट्स द्वारा एक परिचय के साथ अंग्रेजी अनुवाद में प्रकाशित हुई थी।",
+      "tip_hi": "गीतांजलि में 103 अंग्रेजी गद्य कविताएँ शामिल हैं जिनका अनुवाद स्वयं टैगोर ने अपने बंगाली संग्रहों (गीतांजलि, गीतिमाल्य, नैवेद्य) से किया है। 'तूने मुझे अनंत बना दिया है, ऐसा तेरा आनंद है।' से आरंभ होता है।"
+    },
+    {
+      "source": "Indian English Novel",
+      "en": "Who wrote Untouchable (1935) and Coolie (1936), portraying the bitter socio-economic plight of marginalized outcasts in colonial India?",
+      "hi": "औपनिवेशिक भारत में हाशिए पर रहने वाले बहिष्कृत लोगों की कड़वी सामाजिक-आर्थिक दुर्दशा को चित्रित करने वाली अनटचेबल (1935) और कुली (1936) किसने लिखी?",
+      "options": [
+        "R. K. Narayan",
+        "Mulk Raj Anand",
+        "Raja Rao",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Mulk Raj Anand",
+      "explanation": "Mulk Raj Anand, one of the foundational 'Big Three' of Indian English fiction, wrote Untouchable (depicting a single day in the life of Bakha, a latrine cleaner) with a preface by E. M. Forster, and Coolie (chronicling Munoo's tragic exploitation).",
+      "tip": "The 'Big Three' of Indian English Novel: Mulk Raj Anand (social realism & protest), R. K. Narayan (gentle irony in Malgudi), and Raja Rao (philosophical & metaphysical prose).",
+      "id": 15,
+      "options_hi": [
+        "R. K. Narayan",
+        "Mulk Raj Anand",
+        "Raja Rao",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "भारतीय अंग्रेजी कथा साहित्य के संस्थापक 'बिग थ्री' में से एक, मुल्क राज आनंद ने ई. एम. फोर्स्टर की प्रस्तावना के साथ अनटचेबल (शौचालय साफ करने वाले बखा के जीवन के एक दिन का चित्रण) और कुली (मुनू के दुखद शोषण का विवरण) लिखी।",
+      "tip_hi": "भारतीय अंग्रेजी उपन्यास के 'बिग थ्री': मुल्क राज आनंद (सामाजिक यथार्थवाद और विरोध), आर. के. नारायण (मालगुडी में सौम्य व्यंग्य), और राजा राव (दार्शनिक और आध्यात्मिक गद्य)।"
+    },
+    {
+      "source": "R. K. Narayan & Malgudi",
+      "en": "Which Indian English novelist created the celebrated fictional South Indian town of Malgudi?",
+      "hi": "किस भारतीय अंग्रेजी उपन्यासकार ने प्रसिद्ध काल्पनिक दक्षिण भारतीय शहर मालगुडी की रचना की?",
+      "options": [
+        "Raja Rao",
+        "R. K. Narayan",
+        "Bhabani Bhattacharya",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "R. K. Narayan",
+      "explanation": "R. K. Narayan introduced the idyllic, microcosmic fictional town of Malgudi in his debut novel Swami and Friends (1935), subsequently setting almost all his novels and short stories (The Guide, The Bachelor of Arts, The English Teacher) there.",
+      "tip": "R. K. Narayan won the Sahitya Akademi Award in 1960 for The Guide (adapted into the iconic 1965 film starring Dev Anand).",
+      "id": 16,
+      "options_hi": [
+        "Raja Rao",
+        "R. K. Narayan",
+        "Bhabani Bhattacharya",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "आर.के. नारायण ने अपने पहले उपन्यास स्वामी एंड फ्रेंड्स (1935) में मालगुडी के रमणीय, सूक्ष्म काल्पनिक शहर का परिचय दिया, बाद में अपने लगभग सभी उपन्यास और लघु कथाएँ (द गाइड, द बैचलर ऑफ आर्ट्स, द इंग्लिश टीचर) वहीं स्थापित कीं।",
+      "tip_hi": "आर. के. नारायण ने 1960 में द गाइड (देव आनंद अभिनीत प्रतिष्ठित 1965 फिल्म पर आधारित) के लिए साहित्य अकादमी पुरस्कार जीता।"
+    },
+    {
+      "source": "Raja Rao & Gandhian Novel",
+      "en": "Raja Rao's landmark novel Kanthapura (1938) narrates the impact of Gandhian non-violent agitation on a remote south Indian village through the oral storytelling voice of an old woman named",
+      "hi": "राजा राव का ऐतिहासिक उपन्यास कांथापुरा (1938) एक बूढ़ी महिला की मौखिक कहानी के माध्यम से सुदूर दक्षिण भारतीय गांव पर गांधीवादी अहिंसक आंदोलन के प्रभाव का वर्णन करता है।",
+      "options": [
+        "Ratna",
+        "Rangamma",
+        "Achakka",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Achakka",
+      "explanation": "Kanthapura is narrated in the oral Sthala-purana style of traditional Harikatha by the grandmotherly narrator Achakka, chronicling young Moorthy's mobilization of the villagers under Mahatma Gandhi's call.",
+      "tip": "Raja Rao's famous Foreword to Kanthapura: 'We cannot write like the English. We should not. We cannot write only as Indians... Our method of expression has to be a dialect which will some day prove to be as distinctive and colorful as the Irish or the American.'",
+      "id": 17,
+      "options_hi": [
+        "Ratna",
+        "Rangamma",
+        "Achakka",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कंठपुरा को पारंपरिक हरिकथा की मौखिक स्थल-पुराण शैली में दादी कथावाचक अचक्का द्वारा सुनाया गया है, जो महात्मा गांधी के आह्वान के तहत युवा मूर्ति द्वारा ग्रामीणों की लामबंदी का वर्णन है।",
+      "tip_hi": "कंथापुरा में राजा राव की प्रसिद्ध प्रस्तावना: 'हम अंग्रेजों की तरह नहीं लिख सकते। हमें नहीं। हम केवल भारतीय के रूप में नहीं लिख सकते... हमारी अभिव्यक्ति की पद्धति एक बोली होनी चाहिए जो किसी दिन आयरिश या अमेरिकी की तरह विशिष्ट और रंगीन साबित होगी।'"
+    },
+    {
+      "source": "Indian English Poetry",
+      "en": "Nissim Ezekiel, regarded as the father of modern post-independence Indian English poetry, wrote which autobiographical, ironical masterpiece about rural superstition?",
+      "hi": "निसिम ईजेकील, जिन्हें स्वतंत्रता के बाद की आधुनिक भारतीय अंग्रेजी कविता का जनक माना जाता है, ने ग्रामीण अंधविश्वास के बारे में कौन सी आत्मकथात्मक, विडंबनापूर्ण कृति लिखी है?",
+      "options": [
+        "'Enterprise'",
+        "'Night of the Scorpion'",
+        "'Background, Casually'",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "'Night of the Scorpion'",
+      "explanation": "'Night of the Scorpion' (from The Exact Name, 1965) dramatizes a mother being stung by a scorpion on a rainy night, contrasting peasant folk rituals ('May the sins of your previous birth be burned away tonight') with the skeptical father's rationalist remedies, ending with the mother's selfless blessing.",
+      "tip": "Ezekiel's poetic volumes: A Time to Change (1952), The Unfinished Man (1960), The Exact Name (1965), Hymns in Darkness (1976).",
+      "id": 18,
+      "options_hi": [
+        "'Enterprise'",
+        "'Night of the Scorpion'",
+        "'Background, Casually'",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "'नाईट ऑफ द स्कॉर्पियन' (द एक्जेक्ट नेम, 1965 से) एक बरसात की रात में एक माँ को बिच्छू द्वारा काटे जाने का नाटक करता है, जो किसान लोक अनुष्ठानों ('आज रात आपके पिछले जन्म के पापों को जला दिया जाए') को संशयवादी पिता के तर्कवादी उपचारों के साथ विपरीत करता है, जो माँ के निस्वार्थ आशीर्वाद के साथ समाप्त होता है।",
+      "tip_hi": "ईजेकील के काव्य खंड: ए टाइम टू चेंज (1952), द अनफिनिश्ड मैन (1960), द एक्जेक्ट नेम (1965), हाइमन्स इन डार्कनेस (1976)।"
+    },
+    {
+      "source": "Confessional Poetry",
+      "en": "Which confessional Indian English poet authored 'An Introduction' and the autobiographical memoir My Story (1976)?",
+      "hi": "किस कन्फेशनल भारतीय अंग्रेजी कवि ने 'एन इंट्रोडक्शन' और आत्मकथात्मक संस्मरण माई स्टोरी (1976) लिखी है?",
+      "options": [
+        "Toru Dutt",
+        "Sarojini Naidu",
+        "Kamala Das",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Kamala Das",
+      "explanation": "Kamala Das (also known as Kamala Surayya / Madhavikutty) revolutionized Indian confessional poetry by boldly expressing female sexuality, personal identity, and emotional rebellion against patriarchal domesticity in 'An Introduction' ('I am Indian, very brown, born in Malabar...').",
+      "tip": "Key line from 'An Introduction': 'The language I speak / Becomes mine, its distortions, its queernesses / All mine, mine alone.' Confessional poets: Kamala Das, Sylvia Plath, Anne Sexton, Robert Lowell.",
+      "id": 19,
+      "options_hi": [
+        "Toru Dutt",
+        "Sarojini Naidu",
+        "Kamala Das",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कमला दास (जिन्हें कमला सुरैया/माधवीकुट्टी के नाम से भी जाना जाता है) ने 'एन इंट्रोडक्शन' ('मैं भारतीय हूं, बहुत भूरी हूं, मालाबार में पैदा हुई हूं...') में महिला कामुकता, व्यक्तिगत पहचान और पितृसत्तात्मक घरेलूता के खिलाफ भावनात्मक विद्रोह को साहसपूर्वक व्यक्त करके भारतीय इकबालिया कविता में क्रांति ला दी।",
+      "tip_hi": "'एन इंट्रोडक्शन' की मुख्य पंक्ति: 'जो भाषा मैं बोलता हूं/वह मेरी हो जाती है, उसकी विकृतियां, उसकी विचित्रताएं/सब मेरा, सिर्फ मेरा।' कन्फ़ेशनल कवि: कमला दास, सिल्विया प्लाथ, ऐनी सेक्स्टन, रॉबर्ट लोवेल।"
+    },
+    {
+      "source": "Contemporary Postcolonial Fiction",
+      "en": "Salman Rushdie's novel Midnight's Children (1981), which won both the Booker Prize and the 'Booker of Bookers', features a protagonist born at the exact stroke of India's independence midnight named",
+      "hi": "सलमान रुश्दी के उपन्यास मिडनाइट्स चिल्ड्रन (1981), जिसने बुकर पुरस्कार और 'बुकर ऑफ बुकर्स' दोनों जीते, में भारत की आजादी के ठीक ठीक आधी रात को पैदा हुए एक नायक का नाम है।",
+      "options": [
+        "Omar Khayyam Shakil",
+        "Saleem Sinai",
+        "Shiva",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Saleem Sinai",
+      "explanation": "Saleem Sinai, born at the stroke of midnight on 15 August 1947, possesses telepathic powers connecting him to all 1,001 children born during India's first hour of independence, making his personal biography an allegory of the nation's political history.",
+      "tip": "Midnight's Children popularized Magic Realism in Indian English literature, won the Booker Prize in 1981, and received the 25th and 40th anniversary 'Booker of Bookers' awards.",
+      "id": 20,
+      "options_hi": [
+        "Omar Khayyam Shakil",
+        "Saleem Sinai",
+        "Shiva",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "15 अगस्त 1947 की आधी रात को पैदा हुए सलीम सिनाई के पास टेलीपैथिक शक्तियां हैं जो उन्हें भारत की आजादी के पहले घंटे के दौरान पैदा हुए सभी 1,001 बच्चों से जोड़ती हैं, जिससे उनकी व्यक्तिगत जीवनी देश के राजनीतिक इतिहास का रूपक बन जाती है।",
+      "tip_hi": "मिडनाइट्स चिल्ड्रेन ने भारतीय अंग्रेजी साहित्य में जादुई यथार्थवाद को लोकप्रिय बनाया, 1981 में बुकर पुरस्कार जीता और 25वीं और 40वीं वर्षगांठ पर 'बुकर ऑफ बुकर्स' पुरस्कार प्राप्त किया।"
+    },
+    {
+      "source": "Contemporary Indian Fiction",
+      "en": "Arundhati Roy won the Man Booker Prize in 1997 for her debut novel set in Ayemenem, Kerala, titled",
+      "hi": "अरुंधति रॉय ने 1997 में केरल के अयेमेनेम में लिखे अपने पहले उपन्यास के लिए मैन बुकर पुरस्कार जीता, जिसका शीर्षक था",
+      "options": [
+        "The Ministry of Utmost Happiness",
+        "The God of Small Things",
+        "The Inheritance of Loss",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "The God of Small Things",
+      "explanation": "Arundhati Roy's semi-autobiographical lyrical novel The God of Small Things (1997) tells the tragic story of two dizygotic twins, Rahel and Estha, and their mother Ammu's forbidden inter-caste love with Velutha ('The God of Small Things').",
+      "tip": "The novel explores the transgressions of 'Love Laws' that dictate 'who should be loved, and how, and how much.' Roy was the first resident Indian citizen to win the Booker Prize.",
+      "id": 21,
+      "options_hi": [
+        "The Ministry of Utmost Happiness",
+        "The God of Small Things",
+        "The Inheritance of Loss",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अरुंधति रॉय का अर्ध-आत्मकथात्मक गीतात्मक उपन्यास द गॉड ऑफ स्मॉल थिंग्स (1997) दो द्वियुग्मज जुड़वां बच्चों राहेल और एस्था और उनकी मां अम्मू के वेलुथा ('द गॉड ऑफ स्मॉल थिंग्स') के साथ वर्जित अंतरजातीय प्रेम की दुखद कहानी बताता है।",
+      "tip_hi": "उपन्यास 'प्रेम कानूनों' के उल्लंघनों की पड़ताल करता है जो यह तय करते हैं कि 'किससे, और कैसे, और कितना प्यार किया जाना चाहिए।' रॉय बुकर पुरस्कार जीतने वाले पहले भारतीय नागरिक थे।"
+    },
+    {
+      "source": "Early Indian English Poetry",
+      "en": "Who is revered as the 'Nightingale of India' (Bharat Kokila) for her lyrical poetry collections including The Golden Threshold (1905) and The Bird of Time?",
+      "hi": "द गोल्डन थ्रेशोल्ड (1905) और द बर्ड ऑफ टाइम सहित उनके गीतात्मक काव्य संग्रहों के लिए 'नाइटिंगेल ऑफ इंडिया' (भारत कोकिला) के रूप में किसे सम्मानित किया जाता है?",
+      "options": [
+        "Toru Dutt",
+        "Sarojini Naidu",
+        "Kamala Das",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Sarojini Naidu",
+      "explanation": "Sarojini Naidu was given the sobriquet 'Bharat Kokila' by Mahatma Gandhi for the musical and rhythmic quality of her poems on Indian folk life ('Palanquin Bearers', 'In the Bazaars of Hyderabad', 'Coromandel Fishers').",
+      "tip": "Sarojini Naidu was the first Indian woman to become President of the Indian National Congress (Kanpur Session, 1925) and the first woman Governor of Uttar Pradesh.",
+      "id": 22,
+      "options_hi": [
+        "Toru Dutt",
+        "Sarojini Naidu",
+        "Kamala Das",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सरोजिनी नायडू को भारतीय लोक जीवन पर उनकी कविताओं की संगीतमय और लयबद्ध गुणवत्ता के लिए महात्मा गांधी द्वारा 'भारत कोकिला' उपनाम दिया गया था ('पैलक्विन बियरर्स', 'इन द बाज़ार्स ऑफ हैदराबाद', 'कोरोमंडल फिशर्स')।",
+      "tip_hi": "सरोजिनी नायडू भारतीय राष्ट्रीय कांग्रेस (कानपुर अधिवेशन, 1925) की अध्यक्ष बनने वाली पहली भारतीय महिला और उत्तर प्रदेश की पहली महिला राज्यपाल थीं।"
+    },
+    {
+      "source": "19th-Century Indian English Poetry",
+      "en": "Which 19th-century Indian poetess wrote Ancient Ballads and Legends of Hindustan (1882) and the famous sonnet 'Our Casuarina Tree' before dying of tuberculosis at age 21?",
+      "hi": "19वीं सदी की किस भारतीय कवयित्री ने 21 साल की उम्र में तपेदिक से मरने से पहले प्राचीन गाथागीत और लीजेंड्स ऑफ हिंदुस्तान (1882) और प्रसिद्ध सॉनेट 'अवर कैसुरिना ट्री' लिखी थी?",
+      "options": [
+        "Sarojini Naidu",
+        "Toru Dutt",
+        "Aru Dutt",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Toru Dutt",
+      "explanation": "Toru Dutt (1856–1877), writing in both English and French, authored 'Our Casuarina Tree', immortalizing the tree in her garden at Baugmaree as a symbol of nostalgic childhood memory and lost siblings (Abju and Aru).",
+      "tip": "'Our Casuarina Tree' blends the Romantic Keatsian ode style with Indian devotional and nature imagery, ending with a prayer that the tree be spared from oblivion.",
+      "id": 23,
+      "options_hi": [
+        "Sarojini Naidu",
+        "Toru Dutt",
+        "Aru Dutt",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "टोरू दत्त (1856-1877) ने अंग्रेजी और फ्रेंच दोनों भाषाओं में लिखते हुए 'आवर कैसुरीना ट्री' लिखा, जिसने बौग्मेरी में अपने बगीचे के पेड़ को बचपन की पुरानी यादों और खोए हुए भाई-बहनों (अब्जू और अरु) के प्रतीक के रूप में अमर बना दिया।",
+      "tip_hi": "'हमारा कैसुरीना ट्री' रोमांटिक कीट्सियन कविता शैली को भारतीय भक्ति और प्रकृति चित्रण के साथ मिश्रित करता है, जिसका अंत इस प्रार्थना के साथ होता है कि पेड़ को गुमनामी से बचाया जाए।"
+    },
+    {
+      "source": "American Transcendentalism",
+      "en": "Who is recognized as the pioneer of American Transcendentalism and author of the landmark 1836 manifesto essay Nature and 'Self-Reliance'?",
+      "hi": "अमेरिकी ट्रान्सेंडैंटलिज्म के प्रणेता और 1836 के ऐतिहासिक घोषणापत्र निबंध नेचर एंड 'सेल्फ-रिलायंस' के लेखक के रूप में किसे मान्यता प्राप्त है?",
+      "options": [
+        "Henry David Thoreau",
+        "Ralph Waldo Emerson",
+        "Walt Whitman",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Ralph Waldo Emerson",
+      "explanation": "Ralph Waldo Emerson led the Transcendentalist movement in 19th-century New England, emphasizing self-reliance, the divine presence in nature, and the 'Over-Soul' in his 1836 book Nature and 1841 essay 'Self-Reliance'.",
+      "tip": "Famous quote from Emerson's 'Self-Reliance': 'Whoso would be a man, must be a nonconformist.' Thoreau put Emerson's philosophy into practice at Walden Pond.",
+      "id": 24,
+      "options_hi": [
+        "Henry David Thoreau",
+        "Ralph Waldo Emerson",
+        "Walt Whitman",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "राल्फ वाल्डो एमर्सन ने 19वीं सदी के न्यू इंग्लैंड में ट्रान्सेंडैंटलिस्ट आंदोलन का नेतृत्व किया, जिसमें उन्होंने अपनी 1836 की पुस्तक नेचर और 1841 के निबंध 'सेल्फ-रिलायंस' में आत्मनिर्भरता, प्रकृति में दैवीय उपस्थिति और 'ओवर-सोल' पर जोर दिया।",
+      "tip_hi": "इमर्सन की 'सेल्फ-रिलायंस' का प्रसिद्ध उद्धरण: 'जो कोई भी आदमी होगा, वह एक गैर-अनुरूपवादी होगा।' थोरो ने एमर्सन के दर्शन को वाल्डेन पॉन्ड में व्यवहार में लाया।"
+    },
+    {
+      "source": "American Romanticism",
+      "en": "Which classic American novel by Nathaniel Hawthorne deals with the Puritan guilt, sin, and redemption of Hester Prynne, who is condemned to wear an embroidered 'A'?",
+      "hi": "नाथनियल हॉथोर्न का कौन सा क्लासिक अमेरिकी उपन्यास हेस्टर प्रिन के प्यूरिटन अपराध, पाप और मुक्ति से संबंधित है, जिसे कढ़ाई 'ए' पहनने की निंदा की जाती है?",
+      "options": [
+        "The House of the Seven Gables",
+        "The Blithedale Romance",
+        "The Scarlet Letter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "The Scarlet Letter",
+      "explanation": "The Scarlet Letter (1850) is set in 17th-century Puritan Boston. Hester Prynne is forced to wear the scarlet letter 'A' on her bosom for adultery, while her secret lover, Reverend Arthur Dimmesdale, dies tormented by unconfessed guilt.",
+      "tip": "The letter 'A' shifts symbolic meaning throughout the novel: Adultery -> Able -> Angel. Major characters: Hester Prynne, Arthur Dimmesdale, Roger Chillingworth, Pearl.",
+      "id": 25,
+      "options_hi": [
+        "The House of the Seven Gables",
+        "The Blithedale Romance",
+        "The Scarlet Letter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "द स्कार्लेट लेटर (1850) 17वीं सदी के प्यूरिटन बोस्टन में स्थापित है। हेस्टर प्रिन को व्यभिचार के लिए अपनी छाती पर लाल रंग का अक्षर 'ए' पहनने के लिए मजबूर किया जाता है, जबकि उसका गुप्त प्रेमी, रेवरेंड आर्थर डिम्सडेल, अघोषित अपराध से पीड़ित होकर मर जाता है।",
+      "tip_hi": "अक्षर 'ए' पूरे उपन्यास में प्रतीकात्मक अर्थ बदल देता है: व्यभिचार -> सक्षम -> देवदूत। प्रमुख पात्र: हेस्टर प्रिने, आर्थर डिम्सडेल, रोजर चिलिंगवर्थ, पर्ल।"
+    }
+  ]
+}

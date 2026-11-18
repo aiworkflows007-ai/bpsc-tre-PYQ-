@@ -1,0 +1,821 @@
+{
+  "id": "bpsc-tre4-science-set3",
+  "title": "Science Practice Set 3 (Biology & Life Sciences — 30Q)",
+  "section": "subject",
+  "section_name": "Part-III Subject Practice (80 Marks)",
+  "subject": "Science",
+  "filename": "bpsc-tre4-science-set3.json",
+  "question_count": 30,
+  "questions": [
+    {
+      "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
+      "en": "The fern Adiantum caudatum is popularly called the 'walking fern' because",
+      "hi": "फर्न एडिएन्टम को 'वॉकिंग फर्न' कहा जाता है, क्योंकि",
+      "options": [
+        "its spores are able to walk",
+        "it is dispersed through walking animals",
+        "it propagates vegetatively by its leaf",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "it propagates vegetatively by its leaf tips",
+      "explanation": "Adiantum caudatum produces adventitious buds at the tips of its arching fronds. When the frond tips touch moist soil, they produce roots and daughter plantlets, creating a walking habit across ground surfaces.",
+      "tip": "Walking fern (Adiantum) reproduces vegetatively via leaf-tip rooting; it does NOT physically walk or possess motile spores.",
+      "id": 1,
+      "options_hi": [
+        "its spores are able to walk",
+        "it is dispersed through walking animals",
+        "it propagates vegetatively by its leaf",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "एडियंटम कॉडेटम अपने धनुषाकार मोर्चों की युक्तियों पर साहसिक कलियाँ पैदा करता है। जब पत्तों की युक्तियाँ नम मिट्टी को छूती हैं, तो वे जड़ें और बेटी पौधे पैदा करती हैं, जिससे जमीन की सतहों पर चलने की आदत बन जाती है।",
+      "tip_hi": "वॉकिंग फ़र्न (एडियंटम) पत्ती-टिप रूटिंग के माध्यम से वानस्पतिक रूप से प्रजनन करता है; यह शारीरिक रूप से नहीं चलता है या इसमें गतिशील बीजाणु नहीं हैं।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following is a geocarpic fruit developing subterraneanly?\n(",
+      "hi": "निम्नलिखित में से कौन-सा एक भूमिगत विकसित होने वाला भू-फलीय (geocarpic) फल है?)",
+      "options": [
+        "potato",
+        "groundnut",
+        "onion",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "groundnut",
+      "explanation": "In the groundnut (Arachis hypogaea), flowers are aerial, but after fertilization, the floral peg elongates downward into the soil by positive geotropism, where the fruit (pod) matures underground.",
+      "tip": "Groundnut is a geocarpic fruit (subterranean legume); Potato is an underground stem tuber; Onion is a modified underground tunicated bulb.",
+      "id": 2,
+      "options_hi": [
+        "potato",
+        "groundnut",
+        "onion",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मूंगफली (अराचिस हाइपोगिया) में, फूल हवाई होते हैं, लेकिन निषेचन के बाद, पुष्प खूंटी सकारात्मक भू-अनुवर्तन द्वारा मिट्टी में नीचे की ओर बढ़ जाती है, जहां फल (फली) भूमिगत रूप से परिपक्व होती है।",
+      "tip_hi": "मूंगफली एक जियोकार्पिक फल (भूमिगत फलियां) है; आलू एक भूमिगत तना कंद है; प्याज एक संशोधित भूमिगत ट्यूनिकेटेड बल्ब है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Commercial Sunn hemp jute fibres are anatomically obtained from the plant's",
+      "hi": "व्यावसायिक सन हेम्प के रेशे पौधे के किस भाग से प्राप्त होते हैं?",
+      "options": [
+        "leaf",
+        "phloem",
+        "xylem",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "phloem",
+      "explanation": "Commercial fibres of Sunn hemp (Crotalaria juncea) and Jute (Corchorus) are sclerenchymatous bast fibres derived from secondary phloem tissue in the stem cortex.",
+      "tip": "Bast fibres = Secondary phloem (Jute, Hemp, Flax); Surface fibres = Epidermal seed hairs (Cotton); Leaf fibres = Sclerenchyma of monocot leaves (Sisal).",
+      "id": 3,
+      "options_hi": [
+        "leaf",
+        "फ्लोएम (भोजन संवहन)",
+        "जाइलम (जल संवहन)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "सुन्न हेम्प (क्रोटेलारिया जंसिया) और जूट (कोरकोरस) के वाणिज्यिक फाइबर, स्टेम कॉर्टेक्स में द्वितीयक फ्लोएम ऊतक से प्राप्त स्क्लेरेन्काइमेटस बास्ट फाइबर हैं।",
+      "tip_hi": "बास्ट फाइबर = द्वितीयक फ्लोएम (जूट, भांग, सन); सतही रेशे = एपिडर्मल बीज बाल (कपास); पत्ती के रेशे = मोनोकॉट पत्तियों का स्क्लेरेन्काइमा (सिसल)।"
+    },
+    {
+      "source": "BPSC Middle School & TGT Science",
+      "en": "Which specialized pigment is essential for symbiotic nitrogen fixation in leguminous root nodules?",
+      "hi": "दलहनी पौधों की जड़ ग्रंथिकाओं में सहजीवी नाइट्रोजन स्थिरीकरण के लिए कौन-सा वर्णक आवश्यक है?",
+      "options": [
+        "Anthocyanin",
+        "Leghaemoglobin",
+        "Phycocyanin",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Leghaemoglobin",
+      "explanation": "Leghaemoglobin is an oxygen-scavenging haemoprotein synthesized collaboratively by Rhizobium bacteroids and legume plant cells that maintains strict anaerobic conditions around oxygen-sensitive nitrogenase.",
+      "tip": "The enzyme nitrogenase is destroyed by free O2. Leghaemoglobin binds oxygen away from it, turning the interior of active nodules pink.",
+      "id": 4,
+      "options_hi": [
+        "Anthocyanin",
+        "Leghaemoglobin",
+        "Phycocyanin",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "लेगहीमोग्लोबिन एक ऑक्सीजन-स्कैवेंजिंग हेमोप्रोटीन है जिसे राइजोबियम बैक्टेरॉइड्स और फलियां पौधों की कोशिकाओं द्वारा सहयोगात्मक रूप से संश्लेषित किया जाता है जो ऑक्सीजन-संवेदनशील नाइट्रोजनेज़ के आसपास सख्त अवायवीय स्थितियों को बनाए रखता है।",
+      "tip_hi": "एंजाइम नाइट्रोजनेज़ मुक्त O2 द्वारा नष्ट हो जाता है। लेगहीमोग्लोबिन ऑक्सीजन को अपने से दूर बांध लेता है, जिससे सक्रिय पिंडों का आंतरिक भाग गुलाबी हो जाता है।"
+    },
+    {
+      "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
+      "en": "In C4 plants, the ultimate fixation of CO2 and synthesis of carbohydrates during the Calvin cycle occurs in the chloroplasts of",
+      "hi": "C4 पौधों में केल्विन चक्र के दौरान CO2 का अंतिम स्थिरीकरण और कार्बोहाइड्रेट का संश्लेषण किन कोशिकाओं के हरितलवक में होता है?",
+      "options": [
+        "guard cells",
+        "palisade mesophyll cells",
+        "bundle sheath cells",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "bundle sheath cells",
+      "explanation": "C4 plants exhibit Kranz anatomy. Initial carboxylation by PEP carboxylase occurs in mesophyll cells forming C4 acids, which are transported to bundle sheath cells where Rubisco carries out the final Calvin cycle.",
+      "tip": "C4 plants division of labor: Mesophyll cells = PEP carboxylase (initial C4 acid formation); Bundle sheath cells = Rubisco + Calvin Cycle (C3 pathway).",
+      "id": 5,
+      "options_hi": [
+        "guard cells",
+        "palisade mesophyll cells",
+        "bundle sheath cells",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "C4 पौधे क्रांज़ शरीर रचना का प्रदर्शन करते हैं। पीईपी कार्बोक्सिलेज़ द्वारा प्रारंभिक कार्बोक्सिलेशन मेसोफिल कोशिकाओं में होता है जो सी 4 एसिड बनाते हैं, जिन्हें बंडल शीथ कोशिकाओं में ले जाया जाता है जहां रुबिस्को अंतिम केल्विन चक्र को पूरा करता है।",
+      "tip_hi": "C4 पौधे श्रम का विभाजन: मेसोफिल कोशिकाएं = PEP कार्बोक्सिलेज (प्रारंभिक C4 एसिड गठन); बंडल शीथ कोशिकाएँ = रुबिस्को + केल्विन चक्र (C3 मार्ग)।"
+    },
+    {
+      "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
+      "en": "The ploidy level of the endosperm in gymnosperms is\n(",
+      "hi": "जिम्नोस्पर्म (अनावृतबीजी) में भ्रूणपोष की गुणसूत्र संख्या (प्लॉइडी स्तर) होती है)",
+      "options": [
+        "triploid (3n)",
+        "diploid (2n)",
+        "haploid (n)",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "haploid (n)",
+      "explanation": "In gymnosperms, endosperm is the female gametophyte tissue developed directly from the functional megaspore before fertilization, making it haploid (n). In angiosperms, double fertilization forms triploid (3n) endosperm.",
+      "tip": "Gymnosperm endosperm = Haploid (n), formed BEFORE fertilization; Angiosperm endosperm = Triploid (3n), formed AFTER double fertilization.",
+      "id": 6,
+      "options_hi": [
+        "triploid (3n)",
+        "diploid (2n)",
+        "haploid (n)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "जिम्नोस्पर्म में, एंडोस्पर्म मादा गैमेटोफाइट ऊतक है जो निषेचन से पहले कार्यात्मक मेगास्पोर से सीधे विकसित होता है, जो इसे अगुणित (एन) बनाता है। आवृतबीजी पौधों में, दोहरे निषेचन से त्रिगुणित (3n) भ्रूणपोष बनता है।",
+      "tip_hi": "जिम्नोस्पर्म एंडोस्पर्म = अगुणित (एन), निषेचन से पहले गठित; एंजियोस्पर्म एंडोस्पर्म = ट्रिपलोइड (3n), दोहरे निषेचन के बाद बनता है।"
+    },
+    {
+      "source": "BPSC Middle School & TGT Science",
+      "en": "An unripe green fruit turns yellow or red when it ripens because",
+      "hi": "एक कच्चा हरा फल पकने पर पीले या लाल रंग में परिवर्तित हो जाता है, क्योंकि",
+      "options": [
+        "chromoplast changes to chlorophyll",
+        "chromoplast changes to chromosome",
+        "chloroplast changes to chromoplast",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "chloroplast changes to chromoplast",
+      "explanation": "During fruit ripening, green chlorophyll pigments degrade while thylakoids dissolve, transforming photosynthetic chloroplasts into non-photosynthetic chromoplasts rich in carotenoid and lycopene pigments.",
+      "tip": "Plastid transformation during ripening: Green Chloroplast -> Red/Yellow Chromoplast. Amyloplasts store starch; Leucoplasts are colorless.",
+      "id": 7,
+      "options_hi": [
+        "chromoplast changes to chlorophyll",
+        "chromoplast changes to chromosome",
+        "हरितलवक (क्लोरोप्लास्ट) changes to chromoplast",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "फल पकने के दौरान, हरे क्लोरोफिल वर्णक नष्ट हो जाते हैं जबकि थायलाकोइड्स घुल जाते हैं, जिससे प्रकाश संश्लेषक क्लोरोप्लास्ट कैरोटीनॉयड और लाइकोपीन वर्णकों से भरपूर गैर-प्रकाश संश्लेषक क्रोमोप्लास्ट में बदल जाते हैं।",
+      "tip_hi": "पकने के दौरान प्लास्टिड परिवर्तन: हरा क्लोरोप्लास्ट -> लाल/पीला क्रोमोप्लास्ट। एमाइलोप्लास्ट स्टार्च को संग्रहित करते हैं; ल्यूकोप्लास्ट रंगहीन होते हैं।"
+    },
+    {
+      "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
+      "en": "Which chemotrophic nitrifying bacteria oxidizes ammonium salts into nitrites?",
+      "hi": "कौन-सा रसायनसंश्लेषी जीवाणु अमोनियम लवणों को नाइट्राइट में परिवर्तित करता है?",
+      "options": [
+        "Nitrobacter",
+        "Nitrosomonas",
+        "Azotobacter",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Nitrosomonas",
+      "explanation": "Nitrification occurs in two sequential biological steps: Nitrosomonas oxidizes ammonia/ammonium ions into nitrite (NO2-), and Nitrobacter subsequent oxidizes nitrite into nitrate (NO3-).",
+      "tip": "Step 1: Ammonia -> Nitrite (Nitrosomonas & Nitrococcus); Step 2: Nitrite -> Nitrate (Nitrobacter). Azotobacter is free-living N2 fixer.",
+      "id": 8,
+      "options_hi": [
+        "Nitrobacter",
+        "Nitrosomonas",
+        "Azotobacter",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "नाइट्रीकरण दो अनुक्रमिक जैविक चरणों में होता है: नाइट्रोसोमोनास अमोनिया/अमोनियम आयनों को नाइट्राइट (NO2-) में ऑक्सीकरण करता है, और नाइट्रोबैक्टर बाद में नाइट्राइट को नाइट्रेट (NO3-) में ऑक्सीकरण करता है।",
+      "tip_hi": "चरण 1: अमोनिया -> नाइट्राइट (नाइट्रोसोमोनस और नाइट्रोकोकस); चरण 2: नाइट्राइट -> नाइट्रेट (नाइट्रोबैक्टर)। एज़ोटोबैक्टर मुक्त-जीवित N2 फिक्सर है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The commercially valuable hydrocolloid 'Agar-agar' used in microbiological culture media is extracted from",
+      "hi": "सूक्ष्मजैविक संवर्धन माध्यम में प्रयुक्त व्यावसायिक 'एगार-एगार' किससे प्राप्त किया जाता है?",
+      "options": [
+        "Gelidium",
+        "Ulothrix",
+        "Sargassum",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Gelidium",
+      "explanation": "Agar-agar is a sulfated galactan polysaccharide derived from cell walls of red algae (Rhodophyceae), primarily Gelidium and Gracilaria. Sargassum yields alginates, and Ulothrix is a green alga.",
+      "tip": "Agar-agar = Gelidium & Gracilaria (Red algae); Alginic acid / Algin = Laminaria & Fucus (Brown algae); Carrageenan = Chondrus crispus (Red alga).",
+      "id": 9,
+      "options_hi": [
+        "Gelidium",
+        "Ulothrix",
+        "Sargassum",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अगर-अगर एक सल्फेटेड गैलेक्टन पॉलीसेकेराइड है जो लाल शैवाल (रोडोफाइसी), मुख्य रूप से गेलिडियम और ग्रेसिलेरिया की कोशिका दीवारों से प्राप्त होता है। सारगैसम से एल्गिनेट प्राप्त होता है और उलोथ्रिक्स एक हरा शैवाल है।",
+      "tip_hi": "अगर-अगर = गेलिडियम और ग्रेसिलेरिया (लाल शैवाल); एल्गिनिक एसिड / एल्गिन = लैमिनारिया और फ़्यूकस (भूरा शैवाल); कैरेजेनन = चोंड्रस क्रिस्पस (लाल शैवाल)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Floridean starch, the stored carbohydrate food reserve in red algae, has a structural similarity to",
+      "hi": "लाल शैवाल का संचित खाद्य 'फ्लोरिडियन स्टार्च' संरचनात्मक रूप से किसके समान होता है?",
+      "options": [
+        "amylopectin and glycogen",
+        "mannitol and algin",
+        "laminarin and cellulose",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "amylopectin and glycogen",
+      "explanation": "Floridean starch synthesized in Rhodophyceae consists of branched alpha-glucan polymers connected by alpha-(1,4) and alpha-(1,6) glycosidic linkages, mirroring the molecular branching of amylopectin and animal glycogen.",
+      "tip": "Stored foods: Chlorophyceae = Starch; Phaeophyceae = Laminarin and Mannitol; Rhodophyceae = Floridean starch (structurally like amylopectin & glycogen).\nSection 4: Zoology & Human Physiology (जंतु विज्ञान एवं मानव कार्यिकी) — Questions 61 to 80\nDigestive & Excretory Systems, Cellular Immunology, Evolutionary Connecting Links, Genetics & Molecular Biology",
+      "id": 10,
+      "options_hi": [
+        "amylopectin and glycogen",
+        "mannitol and algin",
+        "laminarin and cellulose",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "रोडोफाइसी में संश्लेषित फ्लोरिडियन स्टार्च में अल्फा-(1,4) और अल्फा-(1,6) ग्लाइकोसिडिक लिंकेज से जुड़े शाखित अल्फा-ग्लूकन पॉलिमर होते हैं, जो एमाइलोपेक्टिन और पशु ग्लाइकोजन की आणविक शाखाओं को प्रतिबिंबित करते हैं।",
+      "tip_hi": "भंडारित खाद्य पदार्थ: क्लोरोफाइसी = स्टार्च; फियोफाइसी = लैमिनारिन और मैनिटोल; रोडोफाइसी = फ्लोरिडियन स्टार्च (संरचनात्मक रूप से एमाइलोपेक्टिन और ग्लाइकोजन की तरह)।\nधारा 4: प्राणीशास्त्र एवं मानव शरीर क्रिया विज्ञान (जंतु एवं मानव शरीर विज्ञान) - प्रश्न 61 से 80\nपाचन और उत्सर्जन प्रणाली, सेलुलर इम्यूनोलॉजी, विकासवादी कनेक्टिंग लिंक, जेनेटिक्स और आणविक जीवविज्ञान"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "Hydrochloric acid (HCl) secreting cells present in the gastric glands of the stomach are called\n(",
+      "hi": "आमाशय की जठर ग्रंथियों में हाइड्रोक्लोरिक अम्ल (HCl) स्रावित करने वाली कोशिकाएँ कहलाती हैं)",
+      "options": [
+        "zymogen cells",
+        "goblet cells",
+        "oxyntic cells",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "oxyntic cells",
+      "explanation": "Oxyntic (also called parietal) cells in the gastric mucosa secrete hydrochloric acid (which lowers stomach pH to 1.5-2.0 to activate pepsinogen) and Castle's intrinsic factor (essential for vitamin B12 absorption).",
+      "tip": "Oxyntic/Parietal cells = HCl & Intrinsic Factor; Chief/Zymogenic cells = Pepsinogen & Prorennin; Goblet cells = Mucus.",
+      "id": 11,
+      "options_hi": [
+        "zymogen cells",
+        "goblet cells",
+        "oxyntic cells",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "गैस्ट्रिक म्यूकोसा में ऑक्सीनटिक (पार्श्विका भी कहा जाता है) कोशिकाएं हाइड्रोक्लोरिक एसिड (जो पेप्सिनोजेन को सक्रिय करने के लिए पेट के पीएच को 1.5-2.0 तक कम करती है) और कैसल के आंतरिक कारक (विटामिन बी 12 अवशोषण के लिए आवश्यक) का स्राव करती हैं।",
+      "tip_hi": "ऑक्सीनटिक/पार्श्विका कोशिकाएं = एचसीएल और आंतरिक कारक; मुख्य/ज़ाइमोजेनिक कोशिकाएँ = पेप्सिनोजन और प्रोरेनिन; गॉब्लेट कोशिकाएँ = बलगम।"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "The peptide hormone Secretin stimulates the secretory functioning of which digestive organ?",
+      "hi": "पेप्टाइड हॉर्मोन सीक्रेटिन किस पाचक अंग के स्रावण को उत्तेजित करता है?",
+      "options": [
+        "liver",
+        "pancreas",
+        "intestinal gland",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "pancreas",
+      "explanation": "Secretin is released by duodenum S-cells in response to acidic chyme, stimulating the exocrine pancreas to secrete watery pancreatic juice rich in bicarbonate ions to neutralize stomach acid.",
+      "tip": "Secretin = stimulates pancreatic bicarbonate and water secretion; Cholecystokinin (CCK) = stimulates gallbladder bile ejection and pancreatic digestive enzymes.",
+      "id": 12,
+      "options_hi": [
+        "liver",
+        "अग्न्याशय",
+        "intestinal gland",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "अम्लीय काइम के जवाब में डुओडेनम एस-कोशिकाओं द्वारा सेक्रेटिन जारी किया जाता है, जो पेट के एसिड को बेअसर करने के लिए बाइकार्बोनेट आयनों से भरपूर पानी वाले अग्नाशयी रस को स्रावित करने के लिए एक्सोक्राइन अग्न्याशय को उत्तेजित करता है।",
+      "tip_hi": "सीक्रेटिन = अग्नाशयी बाइकार्बोनेट और जल स्राव को उत्तेजित करता है; कोलेसीस्टोकिनिन (सीसीके) = पित्ताशय की थैली से पित्त निष्कासन और अग्नाशयी पाचन एंजाइमों को उत्तेजित करता है।"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "Which digestive enzyme hydrolyzes dietary proteins optimally at a strongly acidic pH around 1.6 to 2.0?\n(",
+      "hi": "कौन-सा पाचक एंजाइम अत्यधिक अम्लीय माध्यम (pH 1.6 से 2.0) पर प्रोटीन का पाचन करता है?)",
+      "options": [
+        "Trypsin",
+        "Pepsin",
+        "Peptidase",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "Pepsin",
+      "explanation": "Pepsin is the active proteolytic enzyme of the stomach, converted from inactive pepsinogen by gastric HCl; it operates optimally at pH 1.5-2.0 to cleave complex proteins into proteoses and peptones.",
+      "tip": "Pepsin = operates in acidic medium (pH 1.5-2.0) in stomach; Trypsin = operates in alkaline medium (pH 7.8-8.5) in small intestine.",
+      "id": 13,
+      "options_hi": [
+        "ट्रिप्सिन",
+        "पेप्सिन",
+        "Peptidase",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पेप्सिन पेट का सक्रिय प्रोटियोलिटिक एंजाइम है, जो गैस्ट्रिक एचसीएल द्वारा निष्क्रिय पेप्सिनोजन से परिवर्तित होता है; यह जटिल प्रोटीन को प्रोटिओज़ और पेप्टोन में विभाजित करने के लिए पीएच 1.5-2.0 पर इष्टतम रूप से संचालित होता है।",
+      "tip_hi": "पेप्सिन = पेट में अम्लीय माध्यम (पीएच 1.5-2.0) में काम करता है; ट्रिप्सिन = छोटी आंत में क्षारीय माध्यम (पीएच 7.8-8.5) में कार्य करता है।"
+    },
+    {
+      "source": "BPSC Middle School & Senior Secondary",
+      "en": "The basic structural and functional microscopic filtration unit of the human kidney is called\n(",
+      "hi": "मानव वृक्क (गुर्दे) की मूलभूत संरचनात्मक एवं क्रियात्मक निस्यंदन इकाई कहलाती है)",
+      "options": [
+        "Nephron",
+        "Neutron",
+        "Neuron",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Nephron",
+      "explanation": "Each human kidney contains approximately one million nephrons comprising a glomerulus, Bowman's capsule, and renal tubules that perform blood ultrafiltration, selective reabsorption, and tubular secretion.",
+      "tip": "Nephron = Excretory and filtration unit of Kidney; Neuron = Structural and functional unit of Nervous system.",
+      "id": 14,
+      "options_hi": [
+        "नेफ्रॉन (वृक्काणु)",
+        "Neutron",
+        "Neuron",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग दस लाख नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल और गुर्दे की नलिकाएं शामिल होती हैं जो रक्त अल्ट्राफिल्ट्रेशन, चयनात्मक पुनर्अवशोषण और ट्यूबलर स्राव करती हैं।",
+      "tip_hi": "नेफ्रॉन = गुर्दे की उत्सर्जन और निस्पंदन इकाई; न्यूरॉन = तंत्रिका तंत्र की संरचनात्मक और कार्यात्मक इकाई।"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "Which cellular component of human blood is directly responsible for producing circulating antibodies?\n(",
+      "hi": "मानव रक्त का कौन-सा कोशिकीय घटक प्रतिरक्षी (एंटीबॉडी) उत्पादन के लिए प्रत्यक्षतः उत्तरदायी है?)",
+      "options": [
+        "lymphocyte",
+        "thrombocyte",
+        "RBC",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "lymphocyte",
+      "explanation": "B-lymphocytes proliferate and differentiate into effector plasma cells, which secrete specific immunoglobulin proteins (antibodies) into circulating blood to neutralize invading pathogens.",
+      "tip": "B-Lymphocytes = Humoral immunity (produce antibodies); T-Lymphocytes = Cell-mediated immunity; Thrombocytes = Blood clotting.",
+      "id": 15,
+      "options_hi": [
+        "lymphocyte",
+        "thrombocyte",
+        "RBC",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "बी-लिम्फोसाइट्स बढ़ते हैं और प्रभावकारी प्लाज्मा कोशिकाओं में विभेदित होते हैं, जो हमलावर रोगजनकों को बेअसर करने के लिए रक्त संचार में विशिष्ट इम्युनोग्लोबुलिन प्रोटीन (एंटीबॉडी) का स्राव करते हैं।",
+      "tip_hi": "बी-लिम्फोसाइट्स = हास्य प्रतिरक्षा (एंटीबॉडी का उत्पादन); टी-लिम्फोसाइट्स = कोशिका-मध्यस्थ प्रतिरक्षा; थ्रोम्बोसाइट्स = रक्त का थक्का जमना।"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "The exchange of respiratory gases (O2 and CO2) across the pulmonary alveolar surface occurs through\n(",
+      "hi": "श्वसन सतह (कूपिकाओं) पर ऑक्सीजन और CO2 का विनिमय किस प्रक्रिया द्वारा होता है?)",
+      "options": [
+        "active transport",
+        "osmosis",
+        "diffusion",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "diffusion",
+      "explanation": "Alveolar gas exchange is a passive biophysical process governed by Fick's law of simple diffusion down partial pressure concentration gradients without cellular ATP expenditure.",
+      "tip": "Gas exchange in lungs and tissues is strictly driven by simple physical diffusion based on partial pressure differences (pO2 and pCO2).",
+      "id": 16,
+      "options_hi": [
+        "active transport",
+        "osmosis",
+        "diffusion",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "वायुकोशीय गैस विनिमय एक निष्क्रिय बायोफिजिकल प्रक्रिया है जो सेलुलर एटीपी व्यय के बिना आंशिक दबाव एकाग्रता ग्रेडियेंट के नीचे सरल प्रसार के फ़िक के नियम द्वारा शासित होती है।",
+      "tip_hi": "फेफड़ों और ऊतकों में गैस विनिमय सख्ती से आंशिक दबाव अंतर (pO2 और pCO2) के आधार पर सरल भौतिक प्रसार द्वारा संचालित होता है।"
+    },
+    {
+      "source": "BPSC Middle School & PRT Class 1-5",
+      "en": "The rhythmic contraction and expansion wave movements of the muscular wall of the food pipe (oesophagus) are known as",
+      "hi": "आहार नली की दीवार के संकुचन और विस्तार की लयबद्ध गति कहलाती है",
+      "options": [
+        "translocation",
+        "transpiration",
+        "peristaltic movement",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "peristaltic movement",
+      "explanation": "Peristalsis is an involuntary reflex characterized by coordinated circular muscle contraction behind the food bolus and longitudinal muscle relaxation ahead of it, propelling food down the digestive tract.",
+      "tip": "Peristalsis = Muscular wave movement propelling food through gut; Translocation = Phloem nutrient transport; Transpiration = Water vapor loss from leaves.",
+      "id": 17,
+      "options_hi": [
+        "translocation",
+        "transpiration",
+        "peristaltic movement",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "पेरिस्टलसिस एक अनैच्छिक प्रतिवर्त है जो भोजन के बोलस के पीछे समन्वित गोलाकार मांसपेशी संकुचन और उसके आगे अनुदैर्ध्य मांसपेशी विश्राम द्वारा विशेषता है, जो भोजन को पाचन तंत्र में धकेलता है।",
+      "tip_hi": "पेरिस्टलसिस = मांसपेशियों की तरंग गति जो भोजन को आंत के माध्यम से आगे बढ़ाती है; स्थानान्तरण = फ्लोएम पोषक तत्व परिवहन; वाष्पोत्सर्जन = पत्तियों से जलवाष्प की हानि।"
+    },
+    {
+      "source": "BPSC Middle School Question Paper - Science",
+      "en": "The paired muscular tube connecting each kidney with the urinary bladder in humans is the\n(",
+      "hi": "मानव शरीर में वृक्क (गुर्दे) को मूत्राशय से जोड़ने वाली नली कहलाती है)",
+      "options": [
+        "urethra",
+        "ureter",
+        "nephron",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "ureter",
+      "explanation": "The ureters are bilateral muscular ducts that transport urine from the renal pelvis of each kidney into the urinary bladder. The urethra discharges urine from the bladder to the exterior.",
+      "tip": "Kidney to Bladder = Ureter (द्वि-पार्श्वी नलिका); Bladder to Outside = Urethra (मूत्रमार्ग).",
+      "id": 18,
+      "options_hi": [
+        "urethra",
+        "ureter",
+        "नेफ्रॉन (वृक्काणु)",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मूत्रवाहिनी द्विपक्षीय पेशीय नलिकाएं हैं जो प्रत्येक गुर्दे के वृक्क श्रोणि से मूत्र को मूत्राशय में ले जाती हैं। मूत्रमार्ग मूत्राशय से मूत्र को बाहर की ओर प्रवाहित करता है।",
+      "tip_hi": "गुर्दे से मूत्राशय = मूत्रवाहिनी (द्वि-पार्श्व नलिका); मूत्राशय से बाहर की ओर = मूत्रमार्ग (मूत्रमार्ग)।"
+    },
+    {
+      "source": "BPSC Middle School Question Paper - Science",
+      "en": "The 'Nodes of Ranvier' are periodic microscopic gaps characteristically found in\n('",
+      "hi": "रैनवियर के नोड्स' (Nodes of Ranvier) सूक्ष्म रूप से किसमें पाए जाते हैं?)",
+      "options": [
+        "nerve cells",
+        "heart cells",
+        "liver cells",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "nerve cells",
+      "explanation": "Nodes of Ranvier are periodic uninsulated gaps along the myelinated axons of neurons where voltage-gated sodium channels are concentrated, facilitating rapid saltatory conduction of nerve impulses.",
+      "tip": "Nodes of Ranvier = Gaps in the myelin sheath along neuron axons enabling fast saltatory impulse conduction.",
+      "id": 19,
+      "options_hi": [
+        "nerve cells",
+        "heart cells",
+        "liver cells",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "रैनवियर के नोड्स न्यूरॉन्स के माइलिनेटेड अक्षतंतु के साथ आवधिक अनइंसुलेटेड अंतराल हैं जहां वोल्टेज-गेटेड सोडियम चैनल केंद्रित होते हैं, जो तंत्रिका आवेगों के तेजी से नमकीन संचालन की सुविधा प्रदान करते हैं।",
+      "tip_hi": "रैनवियर के नोड्स = न्यूरॉन अक्षतंतु के साथ माइलिन म्यान में अंतराल जो तेजी से नमकीन आवेग संचालन को सक्षम करता है।"
+    },
+    {
+      "source": "BPSC Middle School Question Paper - Science",
+      "en": "The celebrated fossil organism that represents an evolutionary connecting missing link between reptiles and birds is",
+      "hi": "सरीसृपों और पक्षियों के बीच की विकासवादी योजक कड़ी माना जाने वाला प्रसिद्ध जीवाश्म जीव है",
+      "options": [
+        "Archaeopteryx",
+        "Ichthyostega",
+        "Lycaenops",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Archaeopteryx",
+      "explanation": "Archaeopteryx possessed avian characteristics (feathers, wings, wishbone) alongside reptilian features (beak with teeth, long bony tail, clawed digits), establishing that birds evolved from theropod reptiles.",
+      "tip": "Archaeopteryx = Connecting link between Reptiles and Birds; Ichthyostega = Connecting link between Fishes and Amphibians; Platypus = Reptiles and Mammals.",
+      "id": 20,
+      "options_hi": [
+        "Archaeopteryx",
+        "Ichthyostega",
+        "Lycaenops",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "आर्कियोप्टेरिक्स में एवियन विशेषताएं (पंख, पंख, विशबोन) के साथ-साथ सरीसृप विशेषताएं (दांतों के साथ चोंच, लंबी हड्डी वाली पूंछ, पंजे वाले अंक) थे, जिससे यह स्थापित हुआ कि पक्षी थेरोपॉड सरीसृपों से विकसित हुए थे।",
+      "tip_hi": "आर्कियोप्टेरिक्स = सरीसृप और पक्षियों के बीच जोड़ने वाली कड़ी; इचथियोस्टेगा = मछलियों और उभयचरों के बीच जोड़ने वाली कड़ी; प्लैटिपस = सरीसृप और स्तनधारी।"
+    },
+    {
+      "source": "BPSC Middle School & TGT Science",
+      "en": "Dengue fever is caused by which of the following pathogens?",
+      "hi": "डेंगू ज्वर निम्नलिखित में से किस रोगजनक के कारण होता है?",
+      "options": [
+        "DNA-containing arbovirus",
+        "RNA-containing arbovirus",
+        "paramyxovirus",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "RNA-containing arbovirus",
+      "explanation": "Dengue is caused by the Dengue virus (DENV 1-4), an arthropod-borne single-stranded positive-sense RNA virus belonging to the family Flaviviridae, transmitted by Aedes aegypti mosquitoes.",
+      "tip": "Dengue virus genome = Single-stranded RNA (Flavivirus / Arbovirus); Vector = Day-biting female Aedes aegypti mosquito.",
+      "id": 21,
+      "options_hi": [
+        "DNA-containing arbovirus",
+        "RNA-containing arbovirus",
+        "paramyxovirus",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "डेंगू डेंगू वायरस (DENV 1-4) के कारण होता है, जो फ्लेविविरिडे परिवार से संबंधित एक आर्थ्रोपॉड-जनित एकल-फंसे सकारात्मक-भावना आरएनए वायरस है, जो एडीज एजिप्टी मच्छरों द्वारा फैलता है।",
+      "tip_hi": "डेंगू वायरस जीनोम = सिंगल-स्ट्रैंडेड आरएनए (फ्लैविवायरस / आर्बोवायरस); वेक्टर = दिन में काटने वाली मादा एडीज एजिप्टी मच्छर।"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "The protozoan parasite causing Malaria in humans is biological transmitted by the vector",
+      "hi": "मनुष्यों में मलेरिया रोग फैलाने वाला प्रोटोजोआ परजीवी किस वाहक द्वारा संचारित होता है?",
+      "options": [
+        "female Culex",
+        "male Anopheles",
+        "female Anopheles",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "female Anopheles",
+      "explanation": "Malaria is caused by Plasmodium species and transmitted by female Anopheles mosquitoes, which require blood meals to nourish developing eggs. Male mosquitoes feed exclusively on plant nectar.",
+      "tip": "Malaria = Female Anopheles (Plasmodium parasite); Dengue/Chikungunya = Female Aedes (Flavivirus); Filariasis = Female Culex (Wuchereria worm).",
+      "id": 22,
+      "options_hi": [
+        "female Culex",
+        "male Anopheles",
+        "female Anopheles",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मलेरिया प्लास्मोडियम प्रजाति के कारण होता है और मादा एनोफिलिस मच्छरों द्वारा फैलता है, जिन्हें विकासशील अंडों को पोषण देने के लिए रक्त भोजन की आवश्यकता होती है। नर मच्छर विशेष रूप से पौधे के रस पर भोजन करते हैं।",
+      "tip_hi": "मलेरिया = मादा एनोफ़ेलीज़ (प्लाज्मोडियम परजीवी); डेंगू/चिकनगुनिया = महिला एडीज (फ्लैविवायरस); फाइलेरिया = मादा क्यूलेक्स (वुचेरेरिया कृमि)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The primary biochemical function of cellular ribosomes is",
+      "hi": "कोशिकीय राइबोसोम का प्राथमिक जैव रासायनिक कार्य है",
+      "options": [
+        "photosynthesis",
+        "protein synthesis",
+        "fat synthesis",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "protein synthesis",
+      "explanation": "Ribosomes (often termed 'protein factories' of the cell) translate mRNA codon sequences into polypeptide chains by catalyzing peptide bond formation between linked amino acids.",
+      "tip": "Ribosomes = Protein synthesis; Smooth Endoplasmic Reticulum = Lipid and steroid synthesis; Golgi Apparatus = Packaging and secretion.",
+      "id": 23,
+      "options_hi": [
+        "photosynthesis",
+        "protein synthesis",
+        "fat synthesis",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "राइबोसोम (अक्सर कोशिका के 'प्रोटीन कारखाने' कहा जाता है) जुड़े अमीनो एसिड के बीच पेप्टाइड बंधन गठन को उत्प्रेरित करके एमआरएनए कोडन अनुक्रमों को पॉलीपेप्टाइड श्रृंखलाओं में अनुवादित करते हैं।",
+      "tip_hi": "राइबोसोम = प्रोटीन संश्लेषण; चिकना एंडोप्लाज्मिक रेटिकुलम = लिपिड और स्टेरॉयड संश्लेषण; गोल्गी उपकरण = पैकेजिंग और स्राव।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following exceptional mammals is oviparous (lays eggs)?\n(",
+      "hi": "निम्नलिखित में से कौन-सा अपवाद स्वरूप अण्डप्रजक (अण्डे देने वाला) स्तनधारी है?)",
+      "options": [
+        "Echidna",
+        "Kangaroo",
+        "Loris",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Echidna",
+      "explanation": "Monotremes (order Monotremata), including the spiny anteater (Echidna / Tachyglossus) and the duck-billed platypus (Ornithorhynchus), are primitive egg-laying (oviparous) mammals that nourish hatched young with milk.",
+      "tip": "Egg-laying mammals (Prototheria / Monotremes) = Echidna and Platypus; Marsupials (Pouched) = Kangaroo; Placental mammals = Loris, Humans.",
+      "id": 24,
+      "options_hi": [
+        "Echidna",
+        "Kangaroo",
+        "Loris",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "मोनोट्रेम (ऑर्डर मोनोट्रेमाटा), जिसमें स्पाइनी एंटईटर (इकिडना / टैचीग्लोसस) और डक-बिल्ड प्लैटिपस (ऑर्निथोरहिन्चस) शामिल हैं, आदिम अंडे देने वाले (ओविपेरस) स्तनधारी हैं जो दूध के साथ नवजात शिशुओं का पोषण करते हैं।",
+      "tip_hi": "अंडे देने वाले स्तनधारी (प्रोटोथेरिया / मोनोट्रेम्स) = इकिडना और प्लैटिपस; मार्सुपियल्स (पाउच्ड) = कंगारू; अपरा स्तनधारी = लोरिस, मनुष्य।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "The proteolytic enzyme Rennin, which curdles milk casein, is found in",
+      "hi": "दूध के केसीन को पचाने वाला प्रोटीयोलाइटिक एंजाइम रेनिन किसमें पाया जाता है?",
+      "options": [
+        "intestinal juice",
+        "gastric juice",
+        "bile juice",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "gastric juice",
+      "explanation": "Prorennin is secreted by gastric chief cells in infant gastric juice and activated by HCl into active rennin, which coagulates soluble milk casein into insoluble calcium paracaseinate for digestion by pepsin.",
+      "tip": "Rennin (with double 'n') is a milk-coagulating enzyme in infant gastric juice; Renin (with single 'n') is a kidney hormone in the RAAS blood pressure system.",
+      "id": 25,
+      "options_hi": [
+        "intestinal juice",
+        "gastric juice",
+        "bile juice",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "प्रोरेनिन शिशु के गैस्ट्रिक रस में गैस्ट्रिक प्रमुख कोशिकाओं द्वारा स्रावित होता है और एचसीएल द्वारा सक्रिय रेनिन में सक्रिय होता है, जो पेप्सिन द्वारा पाचन के लिए घुलनशील दूध कैसिइन को अघुलनशील कैल्शियम पैराकेसिनेट में जमा देता है।",
+      "tip_hi": "रेनिन (डबल 'एन' के साथ) शिशु के गैस्ट्रिक जूस में दूध को जमाने वाला एंजाइम है; रेनिन (एकल 'एन' के साथ) आरएएएस रक्तचाप प्रणाली में एक किडनी हार्मोन है।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Intercostal muscles are anatomically situated in which part of the human body?\n(",
+      "hi": "अंतरापर्शुक पेशियाँ (Intercostal muscles) मानव शरीर के किस भाग में स्थित होती हैं?)",
+      "options": [
+        "abdomen",
+        "diaphragm",
+        "ribs",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "ribs",
+      "explanation": "Intercostal muscles occupy the intercostal spaces between adjacent ribs; their external and internal sets contract and relax to alter the antero-posterior and transverse dimensions of the thoracic cavity during breathing.",
+      "tip": "External and internal intercostal muscles are located strictly between the ribs, functioning in pulmonary ventilation.",
+      "id": 26,
+      "options_hi": [
+        "abdomen",
+        "diaphragm",
+        "ribs",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "इंटरकोस्टल मांसपेशियां आसन्न पसलियों के बीच इंटरकोस्टल रिक्त स्थान पर कब्जा कर लेती हैं; उनके बाहरी और आंतरिक सेट सांस लेने के दौरान वक्ष गुहा के पूर्व-पश्च और अनुप्रस्थ आयामों को बदलने के लिए सिकुड़ते और आराम करते हैं।",
+      "tip_hi": "बाहरी और आंतरिक इंटरकोस्टल मांसपेशियां पसलियों के बीच सख्ती से स्थित होती हैं, जो फुफ्फुसीय वेंटिलेशन में कार्य करती हैं।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following is the most abundant structural protein in the animal kingdom?",
+      "hi": "जंतु जगत में सर्वाधिक प्रचुर मात्रा में पाया जाने वाला संरचनात्मक प्रोटीन कौन-सा है?",
+      "options": [
+        "Lectin",
+        "Haemoglobin",
+        "Collagen",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "Collagen",
+      "explanation": "Collagen is the primary insoluble fibrous protein of the extracellular matrix and connective tissues (tendons, skin, ligaments, bones, and cartilage), constituting approx. 30% of total body protein mass in animals.",
+      "tip": "Most abundant protein in the Animal Kingdom = Collagen; Most abundant protein in the entire Biosphere = Rubisco (in green plants).",
+      "id": 27,
+      "options_hi": [
+        "Lectin",
+        "Haemoglobin",
+        "Collagen",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "कोलेजन बाह्य कोशिकीय मैट्रिक्स और संयोजी ऊतकों (कण्डरा, त्वचा, स्नायुबंधन, हड्डियों और उपास्थि) का प्राथमिक अघुलनशील रेशेदार प्रोटीन है, जो लगभग बनता है। पशुओं में कुल शरीर प्रोटीन द्रव्यमान का 30%।",
+      "tip_hi": "पशु जगत में सर्वाधिक प्रचुर प्रोटीन = कोलेजन; संपूर्ण जीवमंडल में सर्वाधिक प्रचुर प्रोटीन = रूबिस्को (हरे पौधों में)।"
+    },
+    {
+      "source": "BPSC TGT Science - Advt. 23/2023",
+      "en": "Which of the following endocrine hormones is not a steroid hormone?",
+      "hi": "निम्नलिखित अंतःस्रावी हॉर्मोनों में से कौन-सा स्टीरॉइड हॉर्मोन नहीं है?",
+      "options": [
+        "Thyroxine",
+        "Aldosterone",
+        "Estrogen",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "answer_letter": "A",
+      "answer_text": "Thyroxine",
+      "explanation": "Thyroxine (T4) is an iodinated amino acid derivative synthesized from tyrosine in the thyroid gland. In contrast, aldosterone and estrogen are lipid-soluble steroid hormones synthesized from cholesterol.",
+      "tip": "Steroid Hormones (from cholesterol) = Cortisol, Aldosterone, Estrogen, Progesterone, Testosterone; Amino Acid Derivatives = Thyroxine, Epinephrine.",
+      "id": 28,
+      "options_hi": [
+        "Thyroxine",
+        "Aldosterone",
+        "Estrogen",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "थायरोक्सिन (T4) थायरॉयड ग्रंथि में टायरोसिन से संश्लेषित एक आयोडीन युक्त अमीनो एसिड व्युत्पन्न है। इसके विपरीत, एल्डोस्टेरोन और एस्ट्रोजन कोलेस्ट्रॉल से संश्लेषित लिपिड-घुलनशील स्टेरॉयड हार्मोन हैं।",
+      "tip_hi": "स्टेरॉयड हार्मोन (कोलेस्ट्रॉल से) = कोर्टिसोल, एल्डोस्टेरोन, एस्ट्रोजन, प्रोजेस्टेरोन, टेस्टोस्टेरोन; अमीनो एसिड डेरिवेटिव = थायरोक्सिन, एपिनेफ्रिन।"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "In molecular genetics, how many nitrogenous nucleotides constitute a single genetic codon?\n(",
+      "hi": "आणविक आनुवंशिकी में, एक आनुवंशिक कोडॉन (codon) में कितने न्यूक्लियोटाइड होते हैं?)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 2,
+      "answer_letter": "C",
+      "answer_text": "3",
+      "explanation": "The genetic code is a triplet code: three consecutive ribonucleotide bases on mRNA constitute a codon specifying one particular amino acid (yielding 4^3 = 64 possible codons, proved by Nirenberg, Khorana, and Holley).",
+      "tip": "Triplet code: 3 bases = 1 codon = 1 amino acid. There are 64 codons in total: 61 sense codons and 3 nonsense/stop codons (UAA, UAG, UGA).",
+      "id": 29,
+      "options_hi": [
+        "1",
+        "2",
+        "3",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "आनुवंशिक कोड एक त्रिक कोड है: एमआरएनए पर तीन लगातार राइबोन्यूक्लियोटाइड आधार एक विशेष अमीनो एसिड को निर्दिष्ट करने वाले कोडन का निर्माण करते हैं (4^3 = 64 संभावित कोडन उत्पन्न करते हैं, जो निरेनबर्ग, खोराना और होली द्वारा सिद्ध किया गया है)।",
+      "tip_hi": "त्रिक कोड: 3 क्षार = 1 कोडन = 1 अमीनो एसिड। कुल मिलाकर 64 कोडन हैं: 61 सेंस कोडन और 3 नॉनसेंस/स्टॉप कोडन (यूएए, यूएजी, यूजीए)।"
+    },
+    {
+      "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
+      "en": "Charles Darwin's epoch-making book 'On the Origin of Species by Means of Natural Selection' was originally published in the year",
+      "hi": "चार्ल्स डार्विन की युगांतरकारी पुस्तक 'ओरिजिन ऑफ स्पीशीज़' मूल रूप से किस वर्ष में प्रकाशित हुई थी?",
+      "options": [
+        "1849",
+        "1859",
+        "1869",
+        "More than one of the above",
+        "None of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B",
+      "answer_text": "1859",
+      "explanation": "Charles Darwin's revolutionary masterwork 'On the Origin of Species by Means of Natural Selection' was officially published in London on 24th November 1859, proposing the theory of biological evolution by natural selection.",
+      "tip": "Milestone science publication dates: 1859 = Darwin's 'Origin of Species'; 1866 = Mendel's laws of inheritance published; 1953 = Watson & Crick DNA double helix.\nMaster Answer Key & Topic Index (Questions 1 to 80)\nQ. No.\nDiscipline\nCore Scientific Topic\nOfficial Key",
+      "id": 30,
+      "options_hi": [
+        "1849",
+        "1859",
+        "1869",
+        "उपर्युक्त में से एक से अधिक",
+        "उपर्युक्त में से कोई नहीं"
+      ],
+      "explanation_hi": "चार्ल्स डार्विन की क्रांतिकारी कृति 'प्राकृतिक चयन के माध्यम से प्रजातियों की उत्पत्ति पर' 24 नवंबर 1859 को आधिकारिक तौर पर लंदन में प्रकाशित हुई थी, जिसमें प्राकृतिक चयन द्वारा जैविक विकास के सिद्धांत का प्रस्ताव दिया गया था।",
+      "tip_hi": "मील का पत्थर विज्ञान प्रकाशन तिथियाँ: 1859 = डार्विन की 'प्रजातियों की उत्पत्ति'; 1866 = मेंडल के वंशानुक्रम के नियम प्रकाशित; 1953 = वॉटसन और क्रिक डीएनए डबल हेलिक्स।\nमास्टर उत्तर कुंजी एवं विषय सूचकांक (प्रश्न 1 से 80)\nप्र. नहीं.\nअनुशासन\nमूल वैज्ञानिक विषय\nआधिकारिक कुंजी"
+    }
+  ]
+}
