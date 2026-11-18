@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Human Rights दिन is observed globally on 10th दिसम्बर to commemorate the adoption of the Universal Declaration of Human Rights (UDHR) by the UN General Assembly in 1948.",
-      "tip_hi": "24 अक्टूबर = United Nations दिन; 10 दिसम्बर = Human Rights दिन; 10 नवम्बर = World Science दिन for Peace."
+      "explanation_hi": "1948 में संयुक्त राष्ट्र महासभा द्वारा मानव अधिकारों की सार्वभौम घोषणा (यूडीएचआर) को अपनाने के उपलक्ष्य में 10 दिसंबर को विश्व स्तर पर मानवाधिकार दिवस मनाया जाता है।",
+      "tip_hi": "24 अक्टूबर = संयुक्त राष्ट्र दिवस; 10 दिसंबर = मानवाधिकार दिवस; 10 नवंबर = शांति के लिए विश्व विज्ञान दिवस।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -59,7 +59,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ताना भगत आंदोलन (1914) जात्रा भगत के नेतृत्व में छोटानागपुर की ओरांव जनजाति के बीच एक धार्मिक, कृषि और आदिवासी आंदोलन था, जो ब्रिटिश भूमि करों और साहूकारों का विरोध करता था।",
-      "tip_hi": "Tana Bhagats later allied with महात्मा गांधी's Non-Cooperation Movement, adopting non-violence and Khadi."
+      "tip_hi": "ताना भगत बाद में अहिंसा और खादी को अपनाते हुए महात्मा गांधी के असहयोग आंदोलन से जुड़ गए।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -113,7 +113,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "किसी भी घटना की प्रायिकता P(E) को 0 <= P(E) <= 1 को संतुष्ट करना होगा। -0.7 (नकारात्मक) और 1.2 (> 1) दोनों किसी घटना की प्रायिकताएं नहीं हो सकती हैं।",
-      "tip_hi": "Since both (B) and (C) violate the probability axiom [0, 1], Option (D) ('उपर्युक्त में से एक से अधिक') is correct."
+      "tip_hi": "चूँकि (बी) और (सी) दोनों संभाव्यता सिद्धांत [0, 1] का उल्लंघन करते हैं, विकल्प (डी) ('उपरोक्त में से एक से अधिक') सही है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Due to Earth's elliptical orbit, the maximum distance (approx. 152 million किमी) occurs at Aphelion (अपसौर) around जुलाई 4. The closest distance occurs at Perihelion (उपसौर, Jan 3).",
-      "tip_hi": "Mnemonic: 'A'phelion = 'A'way (furthest, जुलाई 4); 'P'erihelion = 'P'ass (closest, जनवरी 3)."
+      "explanation_hi": "पृथ्वी की अण्डाकार कक्षा के कारण, अधिकतम दूरी (लगभग 152 मिलियन किमी) 4 जुलाई के आसपास एपेलियन (अप्सौर) में होती है। निकटतम दूरी पेरिहेलियन (उपसौर, 3 जनवरी) में होती है।",
+      "tip_hi": "स्मरणीय: 'ए'फेलियन = 'ए'वे (सबसे दूर, 4 जुलाई); 'पेरीहेलियन = 'पास' (निकटतम, 3 जनवरी)।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -436,7 +436,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी delivered his historic 'Do or Die' call at the Gowalia Tank Maidan in Bombay on 8th अगस्त 1942 while launching the Quit India Movement.",
+      "explanation_hi": "महात्मा गांधी ने भारत छोड़ो आंदोलन की शुरुआत करते हुए 8 अगस्त 1942 को बॉम्बे के गोवालिया टैंक मैदान में अपना ऐतिहासिक 'करो या मरो' आह्वान किया था।",
       "tip_hi": "असहयोग (1920) ने एक वर्ष में स्वराज का वादा किया; भारत छोड़ो (1942) ने 'करो या मरो' मंत्र के साथ पूर्ण और तत्काल वापसी की मांग की।"
     },
     {
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मीथेन (CH4) accounts for 75% to 95% of compressed natural gas (CNG) and between 50% to 70% of biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) predominantly contains ब्यूटेन and प्रोपेन.",
-      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) (cooking gas cylinders) = ब्यूटेन and प्रोपेन (with ethyl mercaptan odorant)."
+      "explanation_hi": "मीथेन (CH4) संपीड़ित प्राकृतिक गैस (CNG) में 75% से 95% और बायोगैस (गोबर गैस) में 50% से 70% के बीच होता है। तरलीकृत पेट्रोलियम गैस (एलपीजी) में मुख्य रूप से ब्यूटेन और प्रोपेन होते हैं।",
+      "tip_hi": "सीएनजी और बायोगैस = मीथेन (CH4); एलपीजी (कुकिंग गैस सिलेंडर) = ब्यूटेन और प्रोपेन (एथिल मर्कैप्टन गंध के साथ)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Science",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, and renal tubule that filter blood and form urine.",
-      "tip_hi": "नेफ्रॉन (वृक्काणु) = वृक्क (गुर्दा) functional unit; Neuron = Nervous system unit; कूपिकाएं (एल्वियोली) = Respiratory gas exchange unit."
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग 1 से 1.2 मिलियन नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल और वृक्क नलिकाएं शामिल होती हैं जो रक्त को फ़िल्टर करती हैं और मूत्र बनाती हैं।",
+      "tip_hi": "नेफ्रॉन = किडनी कार्यात्मक इकाई; न्यूरॉन = तंत्रिका तंत्र इकाई; एल्वियोली = श्वसन गैस विनिमय इकाई।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "वर्ण विक्षेपण occurs क्योंकि light of different wavelengths travels at different speeds through the glass prism, resulting in differing angles of deviation (violet deviates the most, red the least).",
-      "tip_hi": "Rainbow formation involves अपवर्तन, वर्ण विक्षेपण, and पूर्ण आंतरिक परावर्तन in raindrops."
+      "explanation_hi": "फैलाव इसलिए होता है क्योंकि विभिन्न तरंग दैर्ध्य का प्रकाश कांच के प्रिज्म के माध्यम से अलग-अलग गति से यात्रा करता है, जिसके परिणामस्वरूप विचलन के अलग-अलग कोण होते हैं (बैंगनी सबसे अधिक विचलन करता है, लाल सबसे कम)।",
+      "tip_hi": "इंद्रधनुष निर्माण में वर्षा की बूंदों में अपवर्तन, फैलाव और पूर्ण आंतरिक प्रतिबिंब शामिल होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -544,7 +544,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Standard Meridian of India passes through Mirzapur (near Prayagraj, UP) along 82°30' E longitude, जो कि 5 घंटे and 30 मिनट ahead of Greenwich Mean Time (UTC+05:30).",
+      "explanation_hi": "भारत की मानक मध्याह्न रेखा 82°30' पूर्व देशांतर के साथ मिर्ज़ापुर (प्रयागराज, यूपी के पास) से होकर गुजरती है, जो ग्रीनविच मीन टाइम (UTC+05:30) से 5 घंटे 30 मिनट आगे है।",
       "tip_hi": "82°30' पूर्व मध्याह्न रेखा 5 राज्यों से होकर गुजरती है: उत्तर प्रदेश, मध्य प्रदेश, छत्तीसगढ़, ओडिशा और आंध्र प्रदेश।"
     },
     {
@@ -571,7 +571,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांवर झील (बेगूसराय) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River, designated as a Ramsar site in जुलाई 2020.",
+      "explanation_hi": "बेगुसराय जिले में कंवर झील एशिया की सबसे बड़ी मीठे पानी की ऑक्सबो झील है, जो बूढ़ी गंडक नदी के घुमावदार मोड़ से बनी है, जिसे जुलाई 2020 में रामसर साइट के रूप में नामित किया गया है।",
       "tip_hi": "ऑक्सबो झील का निर्माण = बूढ़ी गंडक नदी; स्थान=बेगूसराय; महत्व = भारत का 39वाँ रामसर स्थल।"
     },
     {
@@ -652,7 +652,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formula for sum of interior angles of an n-sided polygon = (n - 2) * 180 डिग्री. For a hexagon (n = 6): (6 - 2) * 180 = 4 * 180 = 720 डिग्री.",
+      "explanation_hi": "n-भुजा वाले बहुभुज के आंतरिक कोणों के योग का सूत्र = (n - 2) * 180 डिग्री। एक षट्भुज के लिए (n = 6): (6 - 2) * 180 = 4 * 180 = 720 डिग्री।",
       "tip_hi": "एक नियमित षट्भुज का प्रत्येक आंतरिक कोण = 720/6 = 120 डिग्री।"
     },
     {

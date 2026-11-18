@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "अंतर्वाह दर = 1/8 टैंक/घंटा। रिसाव के साथ शुद्ध प्रवाह = 1/10 टैंक/घंटा। रिसाव दर = 1/8 - 1/10 = (5 - 4)/40 = 1/40 टैंक/घंटा। पूरी टंकी खाली करने का समय = 40 घंटे.",
-      "tip_hi": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 घंटे."
+      "tip_hi": "रिसाव सूत्र: (ए * बी) / (बी - ए) = (8 * 10) / (10 - 8) = 80/2 = 40 घंटे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Adrenaline (epinephrine) increases हृदय rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the यकृत (लीवर) to release glucose rapidly into the bloodstream के दौरान acute emergencies.",
+      "explanation_hi": "एड्रेनालाईन (एपिनेफ्रिन) हृदय गति को बढ़ाता है, ब्रोन्किओल्स को फैलाता है, रक्तचाप को बढ़ाता है, और तीव्र आपात स्थिति के दौरान रक्तप्रवाह में ग्लूकोज को तेजी से छोड़ने के लिए यकृत में ग्लाइकोजेनोलिसिस को उत्तेजित करता है।",
       "tip_hi": "आपातकालीन हार्मोन / 3F हार्मोन (लड़ाई, उड़ान, डर) = एड्रेनालाईन।"
     },
     {
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी presided over the 39th Session of the Indian National Congress at Belgaum (now Belagavi, Karnataka) in दिसम्बर 1924. This was the only INC session ever presided over by Gandhi.",
-      "tip_hi": "Only Congress session presided by महात्मा गांधी = 1924 Belgaum Session (Karnataka)."
+      "explanation_hi": "महात्मा गांधी ने दिसंबर 1924 में बेलगाम (अब बेलगावी, कर्नाटक) में भारतीय राष्ट्रीय कांग्रेस के 39वें सत्र की अध्यक्षता की। यह एकमात्र कांग्रेस सत्र था जिसकी अध्यक्षता गांधी ने की थी।",
+      "tip_hi": "महात्मा गांधी की अध्यक्षता में एकमात्र कांग्रेस अधिवेशन = 1924 बेलगाम अधिवेशन (कर्नाटक)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Sachchidananda Sinha served as the temporary interim chairman on 9 दिसम्बर 1946. On 11 दिसम्बर 1946, डॉ. राजेंद्र प्रसाद was unanimously elected permanent राष्ट्रपति of the Constituent Assembly.",
-      "tip_hi": "Temporary Chairman (9 Dec 1946) = Dr. Sachchidananda Sinha; Permanent राष्ट्रपति (11 Dec 1946) = डॉ. राजेंद्र प्रसाद."
+      "explanation_hi": "डॉ. सच्चिदानंद सिन्हा ने 9 दिसंबर 1946 को अस्थायी अंतरिम अध्यक्ष के रूप में कार्य किया। 11 दिसंबर 1946 को डॉ. राजेंद्र प्रसाद को सर्वसम्मति से संविधान सभा का स्थायी अध्यक्ष चुना गया।",
+      "tip_hi": "अस्थायी अध्यक्ष (9 दिसंबर 1946) = डॉ. सच्चिदानंद सिन्हा; स्थायी राष्ट्रपति (11 दिसम्बर 1946) = डॉ. राजेंद्र प्रसाद।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -274,7 +274,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Founded in 1918 by डॉ. राजेंद्र प्रसाद and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
+      "explanation_hi": "1918 में डॉ. राजेंद्र प्रसाद और सच्चिदानंद सिन्हा द्वारा स्थापित, 'द सर्चलाइट' का संपादन मुरली मनोहर प्रसाद ने दशकों तक महान देशभक्तिपूर्ण विशिष्टता के साथ किया, और बिहार में सविनय अवज्ञा और किसान मुद्दों का समर्थन किया।",
       "tip_hi": "'द सर्चलाइट' संपादक = मुरली मनोहर प्रसाद; 'द मदरलैंड' के संस्थापक = मजहरुल हक।"
     },
     {
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 169 deals with the abolition or creation of Legislative Councils in States. The Legislative Assembly must pass a resolution by a special majority (majority of total membership and not less than 2/3rds present and voting), following which संसद मई enact a simple law.",
-      "tip_hi": "Creation or Abolition of Legislative Council = अनुच्छेद 169; Composition of Council = अनुच्छेद 171."
+      "explanation_hi": "अनुच्छेद 169 राज्यों में विधान परिषदों के उन्मूलन या निर्माण से संबंधित है। विधान सभा को विशेष बहुमत (कुल सदस्यता का बहुमत और उपस्थित और मतदान करने वाले कम से कम 2/3) द्वारा एक प्रस्ताव पारित करना होगा, जिसके बाद संसद एक सरल कानून बना सकती है।",
+      "tip_hi": "विधान परिषद का निर्माण या समाप्ति = अनुच्छेद 169; परिषद् की संरचना = अनुच्छेद 171."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -383,7 +383,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "42वें संशोधन ने प्रारंभिक विवरण को 'संप्रभु लोकतांत्रिक गणराज्य' से 'संप्रभु समाजवादी धर्मनिरपेक्ष लोकतांत्रिक गणराज्य' में संशोधित किया, और 'राष्ट्र की एकता' को 'राष्ट्र की एकता और अखंडता' में बदल दिया।",
-      "tip_hi": "42nd संशोधन 1976 added 3 words: Socialist, Secular, Integrity. (प्रस्तावना amended only once)."
+      "tip_hi": "42वें संशोधन 1976 में 3 शब्द जोड़े गए: समाजवादी, धर्मनिरपेक्ष, अखंडता। (प्रस्तावना में केवल एक बार संशोधन किया गया)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime जोड़े whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 जोड़े are possible: (13, 156) and (39, 52).",
-      "tip_hi": "ab = 2028 / 13^2 = 12. Co-prime factor जोड़े of 12 = (1, 12) and (3, 4) => exactly 2 जोड़े."
+      "explanation_hi": "माना संख्याएँ 13a और 13b हैं, जहाँ a और b सह-अभाज्य हैं। उत्पाद = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. सह-अभाज्य जोड़े जिनका उत्पाद 12 है: (1, 12) और (3, 4)। (नोट: (2, 6) सह-अभाज्य नहीं हैं)। इस प्रकार, ठीक 2 जोड़े संभव हैं: (13, 156) और (39, 52)।",
+      "tip_hi": "एबी = 2028 / 13^2 = 12. 12 के सह-अभाज्य कारक जोड़े = (1, 12) और (3, 4) => बिल्कुल 2 जोड़े।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -517,7 +517,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On mixing with water, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform जिप्सम (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
+      "explanation_hi": "पानी के साथ मिश्रित होने पर, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) एक एक्ज़ोथिर्मिक जलयोजन प्रतिक्रिया से गुजरता है, जो जिप्सम (CaSO4 · 2H2O) को सुधारने के लिए पानी के 1.5 अणुओं के साथ पुनः संयोजित होता है, जो एक इंटरलॉकिंग सुई की तरह कठोर नेटवर्क में क्रिस्टलीकृत हो जाता है।",
       "tip_hi": "पीओपी सेटिंग = जिप्सम में पुनर्जलीकरण (CaSO4 · 2H2O)।"
     },
     {
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in नवम्बर 1942, जयप्रकाश नारायण established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.",
-      "tip_hi": "Azad Dasta (Nepal, 1942) = जयप्रकाश नारायण (JP); Escaped from Hazaribagh Jail."
+      "explanation_hi": "नवंबर 1942 में दिवाली की रात हज़ारीबाग़ सेंट्रल जेल से भागने के बाद, जयप्रकाश नारायण ने सशस्त्र गुरिल्ला प्रशिक्षण और तोड़फोड़ संचार प्रदान करने के लिए नेपाल के तराई के बकरो का टापू क्षेत्र में आज़ाद दस्ता प्रशिक्षण शिविर की स्थापना की।",
+      "tip_hi": "आज़ाद दस्ता (नेपाल, 1942)=जयप्रकाश नारायण (जेपी); हज़ारीबाग़ जेल से भाग गये।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंडक नदी River (known in Nepal as the Saligrami or Narayani) enters Bihar at Valmikinagar in पश्चिम Champaran and forms the boundary between Bihar and UP before discharging into the गंगा नदी at Sonpur/Hajipur.",
-      "tip_hi": "गंडक नदी = Narayani / Saptagandaki; enters Bihar at Valmikinagar (पश्चिम Champaran); famous for Saligram stones."
+      "explanation_hi": "गंडक नदी (नेपाल में सालिग्रामी या नारायणी के नाम से जानी जाती है) पश्चिम चंपारण के वाल्मिकीनगर में बिहार में प्रवेश करती है और सोनपुर/हाजीपुर में गंगा में गिरने से पहले बिहार और यूपी के बीच सीमा बनाती है।",
+      "tip_hi": "गंडक = नारायणी/सप्तगंडकी; वाल्मिकीनगर (पश्चिमी चंपारण) में बिहार में प्रवेश करता है; सालिग्राम पत्थरों के लिए प्रसिद्ध है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 324 provides for the establishment of the चुनाव आयोग of India to conduct elections to संसद, State Legislatures, and the offices of राष्ट्रपति and Vice-राष्ट्रपति. Elections to Panchayats are conducted by State Election Commissions under अनुच्छेद 243K.",
-      "tip_hi": "चुनाव आयोग of India = अनुच्छेद 324; Adult Suffrage = अनुच्छेद 326; State चुनाव आयोग (Panchayats) = अनुच्छेद 243K."
+      "explanation_hi": "अनुच्छेद 324 संसद, राज्य विधानसभाओं और राष्ट्रपति और उपराष्ट्रपति के कार्यालयों के चुनाव कराने के लिए भारत के चुनाव आयोग की स्थापना का प्रावधान करता है। अनुच्छेद 243K के तहत राज्य चुनाव आयोगों द्वारा पंचायतों के चुनाव कराए जाते हैं।",
+      "tip_hi": "भारत का चुनाव आयोग = अनुच्छेद 324; वयस्क मताधिकार = अनुच्छेद 326; राज्य निर्वाचन आयोग (पंचायत) = अनुच्छेद 243K."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -706,7 +706,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The All India Kisan Sabha was established on 11 अप्रैल 1936 at the Lucknow Congress session. स्वामी सहजानंद सरस्वती was elected राष्ट्रपति and Prof. N. G. Ranga was appointed General Secretary.",
+      "explanation_hi": "अखिल भारतीय किसान सभा की स्थापना 11 अप्रैल 1936 को लखनऊ कांग्रेस अधिवेशन में हुई थी। स्वामी सहजानंद सरस्वती को अध्यक्ष चुना गया और प्रो. एन.जी. रंगा को महासचिव नियुक्त किया गया।",
       "tip_hi": "बिहार प्रांतीय किसान सभा=1929 (सोनेपुर); अखिल भारतीय किसान सभा = 1936 (लखनऊ)।"
     },
     {
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kishanganj, located at the eastern tip of Bihar (part of the Siliguri corridor area), borders Nepal to its उत्तर and पश्चिम Bengal (Darjeeling and Uttar Dinajpur districts) to its पूर्व.",
-      "tip_hi": "Borders both Nepal and पश्चिम Bengal = Kishanganj; Borders both Nepal and UP = पश्चिम Champaran."
+      "explanation_hi": "किशनगंज, बिहार के पूर्वी सिरे (सिलीगुड़ी कॉरिडोर क्षेत्र का हिस्सा) पर स्थित है, इसकी सीमा उत्तर में नेपाल और पूर्व में पश्चिम बंगाल (दार्जिलिंग और उत्तर दिनाजपुर जिले) से लगती है।",
+      "tip_hi": "नेपाल और पश्चिम बंगाल दोनों की सीमा = किशनगंज; नेपाल और यूपी दोनों की सीमा = पश्चिमी चंपारण।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gastric chief cells secrete pepsinogen, जो कि activated into पेप्सिन by हाइड्रोक्लोरिक अम्ल (HCl) (HCl, pH ~1.5 to 2.0). पेप्सिन cleaves complex dietary proteins into shorter peptides (proteoses and peptones).",
-      "tip_hi": "Protein पाचन enzymes: आमाशय (पेट) (अम्लीय) = पेप्सिन; अग्न्याशय/छोटी आंत (alkaline) = ट्रिप्सिन."
+      "explanation_hi": "गैस्ट्रिक मुख्य कोशिकाएं पेप्सिनोजेन स्रावित करती हैं, जो हाइड्रोक्लोरिक एसिड (एचसीएल, पीएच ~ 1.5 से 2.0) द्वारा पेप्सिन में सक्रिय होता है। पेप्सिन जटिल आहार प्रोटीन को छोटे पेप्टाइड्स (प्रोटिओस और पेप्टोन) में तोड़ देता है।",
+      "tip_hi": "प्रोटीन पाचन एंजाइम: पेट (अम्लीय) = पेप्सिन; अग्न्याशय/छोटी आंत (क्षारीय) = ट्रिप्सिन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -814,7 +814,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 25 जुलाई 1857, the sepoy soldiers of the 7th, 8th, and 40th Native Infantry regiments at Danapur revolted against General Lloyd, crossed the सोन नदी River, and joined बाबू कुंवर सिंह at Jagdishpur/Arrah.",
+      "explanation_hi": "25 जुलाई 1857 को, दानापुर में 7वीं, 8वीं और 40वीं नेटिव इन्फैंट्री रेजिमेंट के सिपाही सैनिकों ने जनरल लॉयड के खिलाफ विद्रोह किया, सोन नदी पार की और जगदीशपुर/आरा में बाबू कुँवर सिंह से जुड़ गए।",
       "tip_hi": "दानापुर विद्रोह रेजिमेंट = 7वीं, 8वीं और 40वीं नेटिव इन्फैंट्री (25 जुलाई 1857)।"
     },
     {
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 148 establishes an independent CAG of India appointed by the राष्ट्रपति. Under अनुच्छेद 149 and 151, the CAG audits all accounts related to expenditure from the Consolidated Fund of India and submits reports to संसद and State Legislatures.",
-      "tip_hi": "CAG of India = अनुच्छेद 148; Term = 6 वर्ष or 65 वर्ष of age; Guardian of Public Purse."
+      "explanation_hi": "अनुच्छेद 148 राष्ट्रपति द्वारा नियुक्त भारत के एक स्वतंत्र CAG की स्थापना करता है। अनुच्छेद 149 और 151 के तहत, CAG भारत की संचित निधि से व्यय से संबंधित सभी खातों का ऑडिट करता है और संसद और राज्य विधानमंडलों को रिपोर्ट प्रस्तुत करता है।",
+      "tip_hi": "भारत का CAG = अनुच्छेद 148; अवधि = 6 वर्ष या 65 वर्ष की आयु; सार्वजनिक धन का संरक्षक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the leadership of मुख्यमंत्री Nitish Kumar, the Bihar पंचायती राज Act 2006 was enacted, reserving 50% of all elected seats and office-bearer positions for women in ग्राम Panchayats, Panchayat Samitis, and Zilla Parishads.",
-      "tip_hi": "50% Women Reservation in Panchayats = Bihar पंचायती राज Act 2006 (First state in India)."
+      "explanation_hi": "मुख्यमंत्री नीतीश कुमार के नेतृत्व में, बिहार पंचायती राज अधिनियम 2006 लागू किया गया, जिसमें ग्राम पंचायतों, पंचायत समितियों और जिला परिषदों में महिलाओं के लिए सभी निर्वाचित सीटों और पदाधिकारी पदों में से 50% आरक्षित किया गया।",
+      "tip_hi": "पंचायतों में 50% महिला आरक्षण = बिहार पंचायती राज अधिनियम 2006 (भारत का पहला राज्य)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "National Highway 27 is the सेकंड longest national highway in India, connecting Porbandar in Gujarat to Silchar in Assam. In Bihar, it traverses Gopalganj, Motihari, Muzaffarpur, Darbhanga, Jhanjharpur, Supaul, and Purnia as the 4-lane पूर्व-पश्चिम Corridor.",
-      "tip_hi": "पूर्व-पश्चिम Corridor through उत्तर Bihar = NH 27 (Old NH 28 & 31)."
+      "explanation_hi": "राष्ट्रीय राजमार्ग 27 भारत का दूसरा सबसे लंबा राष्ट्रीय राजमार्ग है, जो गुजरात के पोरबंदर को असम के सिलचर से जोड़ता है। बिहार में, यह 4-लेन ईस्ट-वेस्ट कॉरिडोर के रूप में गोपालगंज, मोतिहारी, मुजफ्फरपुर, दरभंगा, झंझारपुर, सुपौल और पूर्णिया से होकर गुजरता है।",
+      "tip_hi": "उत्तर बिहार के माध्यम से पूर्व-पश्चिम गलियारा = NH 27 (पुराना NH 28 और 31)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -1004,7 +1004,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कैमूर वन्यजीव अभयारण्य, विंध्य पठार के ऊपर कैमूर और रोहतास जिलों में स्थित है, जो लगभग क्षेत्रफल में फैला हुआ है। 1,504.96 वर्ग किमी, जो इसे बिहार का सबसे बड़ा वन्यजीव अभयारण्य बनाता है।",
-      "tip_hi": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq किमी); Only National Park = वाल्मीकि राष्ट्रीय उद्यान."
+      "tip_hi": "बिहार में सबसे बड़ा वन्यजीव अभयारण्य = कैमूर वन्यजीव अभयारण्य (1,505 वर्ग किमी); एकमात्र राष्ट्रीय उद्यान=वाल्मीकि राष्ट्रीय उद्यान।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 44th संविधान संशोधन अधिनियम 1978 enacted by the Janata Party government under Morarji Desai deleted अनुच्छेद 19(1)(f) and अनुच्छेद 31 from Part III and inserted अनुच्छेद 300A in Part XII, converting property into a non-fundamental legal/constitutional right.",
-      "tip_hi": "Right to Property deleted from मौलिक अधिकार = 44th संशोधन 1978 (now अनुच्छेद 300A)."
+      "explanation_hi": "मोरारजी देसाई के नेतृत्व में जनता पार्टी सरकार द्वारा अधिनियमित 44वें संवैधानिक संशोधन अधिनियम 1978 ने भाग III से अनुच्छेद 19(1)(एफ) और अनुच्छेद 31 को हटा दिया और भाग XII में अनुच्छेद 300ए को शामिल कर दिया, जिससे संपत्ति एक गैर-मौलिक कानूनी/संवैधानिक अधिकार में परिवर्तित हो गई।",
+      "tip_hi": "संपत्ति का अधिकार मौलिक अधिकारों से हटा दिया गया = 44वाँ संशोधन 1978 (अब अनुच्छेद 300ए)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",

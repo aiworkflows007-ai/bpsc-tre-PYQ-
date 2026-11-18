@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "There are 90 डिग्री उत्तर, 90 डिग्री दक्षिण, and 1 Equator (0 डिग्री): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
+      "explanation_hi": "90 डिग्री उत्तर, 90 डिग्री दक्षिण और 1 भूमध्य रेखा (0 डिग्री) हैं: कुल 90 + 90 + 1 = 181 अक्षांश। (नोट: यदि ध्रुव बिंदुओं को छोड़कर केवल अक्षांश वृत्तों की गणना की जाए तो यह 179 है)।",
       "tip_hi": "अक्षांश की कुल समानताएँ = 181 (0° और दो 90° ध्रुवों सहित); अक्षांश वृत्त = 179."
     },
     {
@@ -58,7 +58,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती formally founded the Bihar Provincial Kisan Sabha in नवम्बर 1929 at the Sonepur Fair, with Shri Krishna Singh as its Secretary.",
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने नवंबर 1929 में सोनपुर मेले में औपचारिक रूप से बिहार प्रांतीय किसान सभा की स्थापना की, जिसके सचिव श्री कृष्ण सिंह थे।",
       "tip_hi": "प्रमुख वर्ष: 1929 = बिहार प्रांतीय किसान सभा (सोनेपुर); 1936 = अखिल भारतीय किसान सभा (स्वामी सहजानंद के अधीन लखनऊ)।"
     },
     {
@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sheohar has the highest जनसंख्या घनत्व in Bihar with 1,880 persons per sq किमी, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq किमी.",
+      "explanation_hi": "बिहार में शिवहर का जनसंख्या घनत्व 1,880 व्यक्ति प्रति वर्ग किमी के साथ सबसे अधिक है, इसके बाद पटना (1,823) का स्थान है। कैमूर (भभुआ) में सबसे कम घनत्व 488 व्यक्ति प्रति वर्ग किमी है।",
       "tip_hi": "घनत्व चरम: उच्चतम = शिवहर (1,880); न्यूनतम = कैमूर (488)."
     },
     {
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The सोन नदी river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the गंगा नदी just पश्चिम of Danapur / Maner in Patna district. Punpun joins गंगा नदी at Fatuha.",
-      "tip_hi": "सोन नदी meets गंगा नदी at Danapur/Maner; Punpun meets गंगा नदी at Fatuha; गंडक नदी meets गंगा नदी at Sonpur/Hajipur."
+      "explanation_hi": "सोन नदी रोहतास, औरंगाबाद और भोजपुर जिलों से होकर उत्तर-पूर्व की ओर बहती है और पटना जिले में दानापुर/मनेर के ठीक पश्चिम में गंगा में मिल जाती है। पुनपुन फतुहा में गंगा से मिलती है।",
+      "tip_hi": "दानापुर/मनेर में गंगा से मिला बेटा; पुनपुन फतुहा में गंगा से मिलती है; गंडक सोनपुर/हाजीपुर में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 1 जनवरी 2015 replacing the योजना आयोग, the प्रधानमंत्री serves as the ex-officio Chairperson of NITI Aayog.",
-      "tip_hi": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = प्रधानमंत्री."
+      "explanation_hi": "1 जनवरी 2015 को योजना आयोग की जगह स्थापित, प्रधान मंत्री नीति आयोग के पदेन अध्यक्ष के रूप में कार्य करते हैं।",
+      "tip_hi": "नीति आयोग, राष्ट्रीय विकास परिषद और अंतर-राज्य परिषद के अध्यक्ष = प्रधान मंत्री।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 76 provides that the राष्ट्रपति shall appoint a person qualified to be a Judge of the सर्वोच्च न्यायालय to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in संसद without voting rights.",
-      "tip_hi": "Attorney General for India = अनुच्छेद 76 (Union highest law officer); Advocate General = अनुच्छेद 165 (State)."
+      "explanation_hi": "अनुच्छेद 76 में प्रावधान है कि राष्ट्रपति सर्वोच्च न्यायालय के न्यायाधीश बनने के लिए योग्य व्यक्ति को भारत का अटॉर्नी जनरल नियुक्त करेगा, जिसे भारत की सभी अदालतों में सुनने का अधिकार होगा और मतदान के अधिकार के बिना संसद में बोलने का अधिकार होगा।",
+      "tip_hi": "भारत के अटॉर्नी जनरल = अनुच्छेद 76 (संघ का सर्वोच्च कानून अधिकारी); महाधिवक्ता = अनुच्छेद 165 (राज्य)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -356,7 +356,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जलोढ़ मिट्टी और उच्च वर्षा (>140 सेमी) के कारण उत्तरपूर्वी बाढ़ क्षेत्र वाले जिले-पूर्णिया, कटिहार और किशनगंज-बिहार की प्राथमिक जूट उत्पादक बेल्ट बनाते हैं। पूर्णिया सबसे बड़ा एकल उत्पादक है, लेकिन कटिहार और किशनगंज भी प्रमुख उत्पादक हैं, जो (डी) को आधिकारिक कुंजी बनाते हैं।",
-      "tip_hi": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) उपर्युक्त में से एक से अधिक is correct."
+      "tip_hi": "BPSC प्रश्न जाल: जब जूट के लिए पूर्णिया, कटिहार और किशनगंज एक साथ दिखाई देते हैं, तो विकल्प (D) उपरोक्त में से एक से अधिक सही है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -382,7 +382,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aditya-L1 was launched on 2 सितम्बर 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million किमी from Earth, to study solar coronal heating and solar wind flares.",
+      "explanation_hi": "आदित्य-एल1 को 2 सितंबर 2023 को पीएसएलवी-सी57 पर लॉन्च किया गया था और सौर कोरोनल हीटिंग और सौर पवन फ्लेयर्स का अध्ययन करने के लिए इसे पृथ्वी से 1.5 मिलियन किमी दूर लैग्रेंजियन पॉइंट 1 (एल1) के आसपास एक हेलो कक्षा में सफलतापूर्वक स्थापित किया गया था।",
       "tip_hi": "भारत का सौर मिशन =आदित्य-L1 (PSLV-C57); गंतव्य = लैग्रेंज बिंदु 1 (एल1)।"
     },
     {
@@ -410,7 +410,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कैमूर वन्यजीव अभयारण्य, विंध्य पठार के ऊपर कैमूर और रोहतास जिलों में स्थित है, जो लगभग क्षेत्रफल में फैला हुआ है। 1,504.96 वर्ग किमी, जो इसे बिहार का सबसे बड़ा वन्यजीव अभयारण्य बनाता है।",
-      "tip_hi": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq किमी); Only National Park = वाल्मीकि राष्ट्रीय उद्यान."
+      "tip_hi": "बिहार में सबसे बड़ा वन्यजीव अभयारण्य = कैमूर वन्यजीव अभयारण्य (1,505 वर्ग किमी); एकमात्र राष्ट्रीय उद्यान=वाल्मीकि राष्ट्रीय उद्यान।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The घाघरा नदी originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the गंगा नदी at Revelganj near Chhapra in Saran district.",
-      "tip_hi": "घाघरा नदी joins गंगा नदी at Revelganj (Chhapra); गंडक नदी joins at Sonpur; कोसी नदी joins at Kursela (Katihar)."
+      "explanation_hi": "घाघरा का उद्गम तिब्बत में मानसरोवर के निकट मापचाचुंगो ग्लेशियर से होता है। यह उत्तर प्रदेश से होकर बहती है (अयोध्या में सरयू के रूप में) और सारण जिले के छपरा के पास रेवेलगंज में गंगा के बाएं किनारे से मिलती है।",
+      "tip_hi": "घाघरा रेवेलगंज (छपरा) में गंगा से मिलती है; गंडक सोनपुर में मिलती है; कोसी कुर्सेला (कटिहार) में मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 157 prescribes that no person shall be eligible for appointment as राज्यपाल unless he is a citizen of India and has completed the age of 35 वर्ष.",
-      "tip_hi": "Minimum age for राष्ट्रपति, Vice-राष्ट्रपति, and राज्यपाल is 35 वर्ष."
+      "explanation_hi": "अनुच्छेद 157 में प्रावधान है कि कोई भी व्यक्ति राज्यपाल के रूप में नियुक्ति के लिए पात्र नहीं होगा जब तक कि वह भारत का नागरिक न हो और 35 वर्ष की आयु पूरी न कर चुका हो।",
+      "tip_hi": "राष्ट्रपति, उपराष्ट्रपति और राज्यपाल के लिए न्यूनतम आयु 35 वर्ष है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -571,7 +571,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inaugurated by मुख्यमंत्री Nitish Kumar on 15-17 जनवरी 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "explanation_hi": "15-17 जनवरी 2021 को मुख्यमंत्री नीतीश कुमार द्वारा उद्घाटन किया गया, पर्यावरण-पर्यटन और प्रवासी पक्षी संरक्षण को बढ़ावा देने के लिए जमुई जिले के नागी बांध और नकटी बांध पक्षी अभयारण्यों के जुड़वां जलाशयों में 'कलरव' मनाया गया।",
       "tip_hi": "प्रथम राज्य पक्षी महोत्सव 'कलरव' = नागी-नकटी पक्षी अभयारण्य (जमुई)।"
     }
   ]

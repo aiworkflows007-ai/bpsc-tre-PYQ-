@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "ब्लीचिंग पाउडर (CaOCl2) is chemically calcium oxychloride (CaOCl2), manufactured by reacting dry slaked lime with chlorine gas: Ca(OH)2 + Cl2 -> CaOCl2 + H2O.",
-      "tip_hi": "प्लास्टर ऑफ पेरिस = CaSO4·1/2H2O; जिप्सम = CaSO4·2H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; ब्लीचिंग पाउडर (CaOCl2) = CaOCl2."
+      "explanation_hi": "ब्लीचिंग पाउडर रासायनिक रूप से कैल्शियम ऑक्सीक्लोराइड (CaOCl2) है, जो सूखे बुझे हुए चूने को क्लोरीन गैस: Ca(OH)2 + Cl2 -> CaOCl2 + H2O के साथ प्रतिक्रिया करके निर्मित किया जाता है।",
+      "tip_hi": "प्लास्टर ऑफ पेरिस = CaSO4·1/2H2O; जिप्सम = CaSO4·2H2O; बेकिंग सोडा = NaHCO3; ब्लीचिंग पाउडर = CaOCl2."
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary Chemistry",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "धावन सोडा (Na2CO3·10H2O) is सोडियम कार्बोनेट decahydrate (Na2CO3·10H2O), containing 10 molecules of water of crystallization. Anhydrous सोडियम कार्बोनेट (Na2CO3) is termed soda ash.",
-      "tip_hi": "धावन सोडा (Na2CO3·10H2O) = Na2CO3·10H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; Caustic Soda = NaOH."
+      "explanation_hi": "वाशिंग सोडा सोडियम कार्बोनेट डिकाहाइड्रेट (Na2CO3·10H2O) है, जिसमें क्रिस्टलीकरण के पानी के 10 अणु होते हैं। निर्जल सोडियम कार्बोनेट (Na2CO3) को सोडा ऐश कहा जाता है।",
+      "tip_hi": "वाशिंग सोडा = Na2CO3·10H2O; बेकिंग सोडा = NaHCO3; कास्टिक सोडा = NaOH."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -112,8 +112,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पीतल (तांबा + जस्ता) is a non-ferrous alloy of Copper (approx. 70%) and Zinc (approx. 30%). कांस्य (तांबा + टिन) is an alloy of Copper and Tin.",
-      "tip_hi": "Memory trick: पीतल (तांबा + जस्ता) = Cu + Zn (पीतल); कांस्य (तांबा + टिन) = Cu + Sn (कांसा); सोल्डर (सीसा + टिन) = Pb + Sn (टांका)."
+      "explanation_hi": "पीतल तांबा (लगभग 70%) और जस्ता (लगभग 30%) का एक अलौह मिश्र धातु है। कांस्य तांबे और टिन का एक मिश्र धातु है।",
+      "tip_hi": "मेमोरी ट्रिक: पीतल = Cu + Zn (पीतल); कांस्य = Cu + Sn (कांसा); सोल्डर = पीबी + एसएन (टांका)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster Examination",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बिहार का कुल क्षेत्रफल 94,163 वर्ग किलोमीटर है, जो भारत के कुल भौगोलिक क्षेत्र का लगभग 2.86% है, यह भारत में भूमि क्षेत्र के अनुसार 12वें स्थान पर है।",
-      "tip_hi": "Bihar area: 94,163 sq किमी; 2.86% of India; 3rd largest State by population (जनगणना 2011)."
+      "tip_hi": "बिहार क्षेत्र: 94,163 वर्ग किमी; भारत का 2.86%; जनसंख्या के हिसाब से तीसरा सबसे बड़ा राज्य (जनगणना 2011)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ant stings inject methanoic acid (common name फॉर्मिक अम्ल, HCOOH). It is neutralized by applying mild क्षारीय substances such as बेकिंग सोडा (NaHCO3) (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
-      "tip_hi": "फॉर्मिक अम्ल = Ant sting; Vinegar = एसिटिक अम्ल; Tomato = ऑक्सालिक अम्ल; Tamarind = टार्टरिक अम्ल."
+      "explanation_hi": "चींटी के डंक से मेथेनोइक एसिड (सामान्य नाम फॉर्मिक एसिड, HCOOH) निकलता है। बेकिंग सोडा (सोडियम हाइड्रोजन कार्बोनेट) या कैलामाइन लोशन (जिंक कार्बोनेट) जैसे हल्के बुनियादी पदार्थ लगाने से इसे बेअसर किया जाता है।",
+      "tip_hi": "फॉर्मिक एसिड = चींटी का डंक; सिरका = एसिटिक अम्ल; टमाटर = ऑक्सालिक एसिड; इमली = टार्टरिक एसिड."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्लास्टर ऑफ पेरिस is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating जिप्सम (CaSO4 · 2H2O) at 373 K (100°C).",
-      "tip_hi": "जिप्सम = dihydrate (2H2O); प्लास्टर ऑफ पेरिस = hemihydrate (1/2 H2O)."
+      "explanation_hi": "प्लास्टर ऑफ पेरिस कैल्शियम सल्फेट हेमीहाइड्रेट, CaSO4 · 1/2H2O (या 2CaSO4 · H2O) है, जो जिप्सम (CaSO4 · 2H2O) को 373 K (100°C) पर गर्म करने से बनता है।",
+      "tip_hi": "जिप्सम = डाइहाइड्रेट (2H2O); प्लास्टर ऑफ पेरिस = हेमीहाइड्रेट (1/2 H2O)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 61st संविधान संशोधन अधिनियम of 1988 amended अनुच्छेद 326 of the Constitution, lowering the voting age from 21 to 18 वर्ष. It came into force on 28 मार्च 1989 under Rajiv Gandhi's government.",
-      "tip_hi": "Voting age reduction (21 to 18) = 61st संशोधन 1988 (अनुच्छेद 326)."
+      "explanation_hi": "1988 के 61वें संवैधानिक संशोधन अधिनियम ने संविधान के अनुच्छेद 326 में संशोधन किया, जिससे मतदान की आयु 21 से घटाकर 18 वर्ष कर दी गई। यह 28 मार्च 1989 को राजीव गांधी की सरकार के तहत लागू हुआ।",
+      "tip_hi": "मतदान की आयु में कमी (21 से 18) = 61वाँ संशोधन 1988 (अनुच्छेद 326)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -355,7 +355,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The कोसी नदी River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 किमी over 250 वर्ष, causing repeated disasters.",
+      "explanation_hi": "कोसी नदी तिब्बत/नेपाल (सप्तकोशी) से निकलती है और भीमनगर (सुपौल) में बिहार में प्रवेश करती है। भारी गाद भार और टूटे हुए चैनलों के कारण, यह 250 वर्षों में 130 किमी से अधिक पश्चिम की ओर स्थानांतरित हो गया है, जिससे बार-बार आपदाएँ आती हैं।",
       "tip_hi": "बिहार का दुःख=कोसी; बंगाल का दुःख = दामोदर."
     },
     {
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बेकिंग सोडा (NaHCO3) is सोडियम बाइकार्बोनेट / sodium hydrogen carbonate, NaHCO3. When heated के दौरान baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
-      "tip_hi": "बेकिंग सोडा (NaHCO3) = NaHCO3 (Bicarbonate); धावन सोडा (Na2CO3·10H2O) = Na2CO3 · 10H2O."
+      "explanation_hi": "बेकिंग सोडा सोडियम बाइकार्बोनेट/सोडियम हाइड्रोजन कार्बोनेट, NaHCO3 है। बेकिंग के दौरान गर्म करने पर, यह विघटित होकर CO2 गैस छोड़ता है, जिससे ब्रेड या केक का बैटर फूल जाता है और स्पंजी हो जाता है।",
+      "tip_hi": "बेकिंग सोडा = NaHCO3 (बाइकार्बोनेट); वाशिंग सोडा = Na2CO3 · 10H2O."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -409,7 +409,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in नवम्बर 1932 to avenge the martyrdom of भगत सिंह, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 मई 1934.",
+      "explanation_hi": "बैकुंठ शुक्ल ने भगत सिंह, सुखदेव और राजगुरु की शहादत का बदला लेने के लिए नवंबर 1932 में बेतिया में गद्दार फणींद्र नाथ घोष की हत्या कर दी। उन्हें गिरफ्तार किया गया, दोषी ठहराया गया और 14 मई 1934 को गया सेंट्रल जेल में फांसी दे दी गई।",
       "tip_hi": "अनुमोदक फणीन्द्र नाथ घोष की हत्या = बैकुंठ शुक्ल (गया जेल में फाँसी 1934)।"
     },
     {
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.",
-      "tip_hi": "सोडियम बाइकार्बोनेट = Fire extinguishers + बेकिंग सोडा (NaHCO3)."
+      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) सोडा-एसिड अग्निशामक में एसिड के साथ प्रतिक्रिया करके बड़ी मात्रा में कार्बन डाइऑक्साइड (CO2) गैस छोड़ता है जो आग को बुझाती है।",
+      "tip_hi": "सोडियम बाइकार्बोनेट = अग्निशामक यंत्र + बेकिंग सोडा।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -544,7 +544,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Conducted in two phases के दौरान 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 अक्टूबर 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
+      "explanation_hi": "2023 के दौरान दो चरणों में आयोजित, बिहार जाति-आधारित सर्वेक्षण के निष्कर्ष आधिकारिक तौर पर गांधी जयंती (2 अक्टूबर 2023) को जारी किए गए थे, जिसमें ईबीसी 36.01%, ओबीसी 27.13%, एससी 19.65%, एसटी 1.68% और सामान्य श्रेणी 15.52% दर्ज की गई थी।",
       "tip_hi": "2 अक्टूबर 2023 को जारी बिहार जाति सर्वेक्षण: ईबीसी (36%) + ओबीसी (27%) = 63% कुल पिछड़ा वर्ग।"
     },
     {
@@ -679,7 +679,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its केंद्रक (नाभिक).",
+      "explanation_hi": "प्रोटियम (1H1) की द्रव्यमान संख्या A = 1 और परमाणु संख्या Z = 1 है। न्यूट्रॉन की संख्या N = A - Z = 1 - 1 = 0 है। यह प्रकृति में एकमात्र स्थिर आइसोटोप है जिसके नाभिक में कोई न्यूट्रॉन नहीं है।",
       "tip_hi": "प्रोटियम में 0 न्यूट्रॉन हैं; ड्यूटेरियम में 1 न्यूट्रॉन होता है; ट्रिटियम में 2 न्यूट्रॉन होते हैं।"
     }
   ]

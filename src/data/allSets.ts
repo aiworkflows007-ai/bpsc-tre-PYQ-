@@ -6623,7 +6623,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "सभी तीन कथन I, II और III मान्य अंतर हैं: `new` एक प्रकार-सुरक्षित ऑपरेटर है जो कंस्ट्रक्टर्स को कॉल करता है और `T*` लौटाता है, जबकि `malloc` एक अनटाइप्ड C फ़ंक्शन है जो `void*` लौटाता है और कंस्ट्रक्टर्स को कॉल नहीं करता है।",
-      "tip_hi": "Because statements I, II, and III are all factually correct, Option (D) ('उपर्युक्त में से एक से अधिक') is triggered."
+      "tip_hi": "क्योंकि कथन I, II, और III सभी तथ्यात्मक रूप से सही हैं, विकल्प (डी) ('उपरोक्त में से एक से अधिक') ट्रिगर हो जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -6974,7 +6974,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बाइनरी ट्री के लिए तीन क्लासिक डेप्थ-फर्स्ट सर्च (डीएफएस) ट्रैवर्सल प्रीऑर्डर (नोड-लेफ्ट-राइट), इनऑर्डर (लेफ्ट-नोड-राइट) और पोस्टऑर्डर (लेफ्ट-राइट-नोड) हैं।",
-      "tip_hi": "All three (A), (B), and (C) are valid binary tree traversals, so select **(D) उपर्युक्त में से एक से अधिक**."
+      "tip_hi": "तीनों (ए), (बी), और (सी) वैध बाइनरी ट्री ट्रैवर्सल हैं, इसलिए **(डी) उपरोक्त में से एक से अधिक** चुनें।"
     },
     {
       "source": "BPSC TRE 2.0 — Secondary / TGT Computer (Advt. 23/2023)",
@@ -7999,7 +7999,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fiber-optic cables transmit digital pulses of light through high-purity glass cores via पूर्ण आंतरिक परावर्तन, providing terabit-per-second bandwidth with negligible attenuation and zero EMI.",
+      "explanation_hi": "फाइबर-ऑप्टिक केबल कुल आंतरिक प्रतिबिंब के माध्यम से उच्च शुद्धता वाले ग्लास कोर के माध्यम से प्रकाश के डिजिटल दालों को संचारित करते हैं, नगण्य क्षीणन और शून्य ईएमआई के साथ टेराबिट-प्रति-सेकंड बैंडविड्थ प्रदान करते हैं।",
       "tip_hi": "गति और बैंडविड्थ पदानुक्रम: **ऑप्टिकल फाइबर >> समाक्षीय केबल > मुड़ जोड़ी (Cat6/Cat5e)**।"
     },
     {
@@ -8027,7 +8027,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "`ड्रॉप टेबल टेबल_नाम;` एक डेटा डेफिनिशन लैंग्वेज (डीडीएल) कमांड है जो टेबल स्कीमा, इंडेक्स और सभी पंक्तियों को स्थायी रूप से हटा देता है। `DELETE` डीएमएल है और केवल पंक्तियों को हटाता है।",
-      "tip_hi": "Delete data rows only = `DELETE`; Remove data + schema permanently = `DROP TABLE`.\nMaster Answer Key & Topic Index — Set 2 (Questions 81 to 160)\nQ.No.\nTopic / Technical Concept\nKey\nQ.No.\nTopic / Technical Concept\nKey\n81\nNetwork Layer 3 IP Protocol\n(B)\n121\nBinary Tree Traversal Methods\n(D)\n82\nKeyboard Keystroke Standard (ASCII)\n(B)\n122\nHomogeneous Contiguous Array\n(B)\n83\n5th Gen AI & ULSI Advancement\n(A)\n123\nCircular Queue as Ring Buffer\n(C)\n84\nOpen Source Software Definition\n(A)\n124\nCircular Queue Memory Reclamation\n(B)\n85\nMachine Language Properties\n(D)\n125\nPriority Queue via Binary Heap\n(C)\n86\nAssembly Language Classification\n(A)\n126\nCall Stack in Recursion\n(A)\n87\nCompiler Functions & Translation\n(D)\n127\nRed-Black Tree Invariants\n(D)\n88\nC++ Bottom-Up Paradigm\n(C)\n128\nDeque Rear Deletion in SLL (O(N))\n(C)\n89\nVirtual Inheritance & Diamond Problem\n(C)\n129\nLinear Queue Overflow (MAX_SIZE - 1)\n(A)\n90\nSafe Deletion of NULL Pointer\n(B)\n130\nDivide and Conquer (Merge Sort)\n(A)\n91\ndelete vs delete[] Syntax\n(C)\n131\nDatabase Formal Definition\n(B)\n92\nKeyword 'new' in C vs C++\n(C)\n132\nSupported Database Data Types\n(D)\n93\nBitwise OR & Bool Evaluation\n(B)\n133\nTraditional Database Models\n(C)\n94\nException Handling 'try' Block\n(C)\n134\nDBMS Product Identification\n(C)\n95\nAliasing Pointer Output (870)\n(B)\n135\nDBMS Concurrency (Not Single-User)\n(B)\n96\nInline Function Misconception\n(B)\n136\nDatabase Engine vs Compiler Scope\n(C)\n97\nAbstract Class Definition (= 0)\n(C)\n137\nMetadata (Data about Data)\n(B)\n98\nCompiler Synthesized Constructors\n(D)\n138\nDBMS Middleware Interface Role\n(B)\n99\nStruct vs Class Access Specifiers\n(B)\n139\nSuperkey Uniqueness Property\n(C)\n100\nPillars of Pure OOP Languages\n(D)\n140\nSQL DELETE FROM Statement\n(A)\n101\nExtensible Language Definition\n(C)\n141\nSQL Catalogs and Schemas Hierarchy\n(C)\n102\nCreator of C++ (Bjarne Stroustrup)\n(C)\n142\nSQL Server db_accessadmin Role\n(B)\n103\nConsole Character Input (cin.get)\n(C)\n143\nHierarchical Model Filing Cabinets\n(C)\n104\nArray Element Access (n-1)\n(B)\n144\nSQL HAVING Clause with Aggregates\n(A)\n105\nArray Categories (1D and Multi-D)\n(C)\n145\nDBMS Utilities vs OS Scheduling\n(C)\n106\nType Traits Array Rank (Dimensions)\n(C)\n146\n3NF Normalization Sufficiency\n(B)\n107\nBlock Scope of Local Variables\n(B)\n147\nConsequences of Data Redundancy\n(D)\n108\nnew Operator vs malloc Function\n(D)\n148\nRAW / BLOB Binary Data Types\n(A)\n109\nInaccessible Private Inheritance\n(C)\n149\nX-NOR Logic Coincidence Gate\n(B)\n110\nStatic vs Dynamic Binding\n(A)\n150\nApplications of Boolean Algebra\n(D)\n111\nAnonymous Classes (No Constructor)\n(D)\n151\nSimplex Keyboard Communication\n(A)\n112\nCompile-Time Polymorphism\n(D)\n152\nBoolean Simplification (X + YZ)\n(B)\n113\nEncapsulation Definition\n(C)\n153\nBoolean Duality Principle\n(B)\n114\nModularity in Software Design\n(B)\n154\nWireless Transmission Media\n(D)\n115\nStack vs Queue Applications\n(A)\n155\nDNS Application Layer Protocol\n(B)\n116\nInfix to Prefix (A + B * C)\n(A)\n156\nTDM Time Slots Bit Serialization\n(C)\n117\nStack in Prefix Conversion\n(B)\n157\nTCP 3-Way Handshake & Reliability\n(D)\n118\nSpatial Locality in Arrays\n(C)\n158\nWeb Browser Classification\n(D)\n119\nQueue Underflow Condition\n(B)\n159\nOptical Fiber पूर्ण आंतरिक परावर्तन\n(C)\n120\nQueue Applications (Not Parentheses)\n(C)\n160\nSQL Permanent DROP TABLE Command\n(B)\nBPSC TRE 4.0: Computer Science 5-Option Elimination StrategyTactical Guidelines for Tackling Option (D) 'उपर्युक्त में से एक से अधिक' and Option (E) 'उपर्युक्त में से कोई नहीं' in Technical MCQs\n1. The 2-Check Rule for Option (D) in Technical Questions:Whenever you independently confirm that two choices satisfy the technical criteria (e.g., both Encapsulation and Polymorphism in pure OOP; both Default and Copy constructor; both Compiler and Assembler as translators; both Radio waves and Microwaves in wireless transmission), stop analyzing choice (C) and mark (D) ('उपर्युक्त में से एक से अधिक') immediately.2. The Missing Key Entity Trap for Option (E):BPSC question setters frequently construct questions testing famous computer algorithms, hardware pioneers, or units (e.g., Dijkstra's algorithm for shortest paths, Turing machine, or non-listed memory units) and deliberately omit the correct answer from (A), (B), and (C). Candidates who second-guess themselves often pick a plausible-looking distractor instead of selecting (E) ('उपर्युक्त में से कोई नहीं').3. Hardware vs. Software vs. Operating System Traps:Watch out for classification traps where system software utilities (e.g., compilers, defragmenters) are mixed with OS kernel responsibilities (e.g., CPU process scheduling), or database engines (Oracle, Db2) with internet search engines (Google). Operating system process scheduling and memory management belong to the OS kernel, not the DBMS.4. Default Access Specifier Distinctions:One of BPSC's most tested distinctions is structure vs. class default access. Remember: `struct` members and inheritance are PUBLIC by default (C compatibility); `class` members and inheritance are PRIVATE by default (encapsulation)."
+      "tip_hi": "केवल डेटा पंक्तियाँ हटाएँ = `DELETE`; डेटा + स्कीमा को स्थायी रूप से हटाएं = `ड्रॉप टेबल`।\nमास्टर उत्तर कुंजी और विषय सूचकांक - सेट 2 (प्रश्न 81 से 160)\nप्र.सं.\nविषय/तकनीकी अवधारणा\nकुंजी\nप्र.सं.\nविषय/तकनीकी अवधारणा\nकुंजी\n81\nनेटवर्क लेयर 3 आईपी प्रोटोकॉल\n(बी)\n121\nबाइनरी ट्री ट्रैवर्सल विधियाँ\n(डी)\n82\nकीबोर्ड कीस्ट्रोक मानक (ASCII)\n(बी)\n122\nसजातीय सन्निहित सरणी\n(बी)\n83\n5वीं पीढ़ी की एआई और यूएलएसआई उन्नति\n(ए)\n123\nरिंग बफ़र के रूप में गोलाकार कतार\n(सी)\n84\nओपन सोर्स सॉफ्टवेयर परिभाषा\n(ए)\n124\nसर्कुलर क्यू मेमोरी रिक्लेमेशन\n(बी)\n85\nमशीन भाषा गुण\n(डी)\n125\nबाइनरी हीप के माध्यम से प्राथमिकता कतार\n(सी)\n86\nअसेंबली भाषा वर्गीकरण\n(ए)\n126\nरिकर्सन में कॉल स्टैक\n(ए)\n87\nसंकलक कार्य एवं अनुवाद\n(डी)\n127\nलाल-काले वृक्ष अपरिवर्तनीय\n(डी)\n88\nसी++ बॉटम-अप प्रतिमान\n(सी)\n128\nSLL (O(N)) में डेक रियर विलोपन\n(सी)\n89\nआभासी विरासत और हीरे की समस्या\n(सी)\n129\nरैखिक कतार अतिप्रवाह (MAX_SIZE - 1)\n(ए)\n90\nNULL पॉइंटर का सुरक्षित विलोपन\n(बी)\n130\nफूट डालो और राज करो (मर्ज सॉर्ट)\n(ए)\n91\nडिलीट बनाम डिलीट[] सिंटैक्स\n(सी)\n131\nडेटाबेस औपचारिक परिभाषा\n(बी)\n92\nC बनाम C++ में कीवर्ड 'नया'\n(सी)\n132\nसमर्थित डेटाबेस डेटा प्रकार\n(डी)\n93\nबिटवाइज़ OR और बूल मूल्यांकन\n(बी)\n133\nपारंपरिक डेटाबेस मॉडल\n(सी)\n94\nअपवाद हैंडलिंग 'कोशिश' ब्लॉक\n(सी)\n134\nडीबीएमएस उत्पाद पहचान\n(सी)\n95\nअलियासिंग पॉइंटर आउटपुट (870)\n(बी)\n135\nडीबीएमएस समवर्ती (एकल-उपयोगकर्ता नहीं)\n(बी)\n96\nइनलाइन फ़ंक्शन ग़लतफ़हमी\n(बी)\n136\nडेटाबेस इंजन बनाम कंपाइलर स्कोप\n(सी)\n97\nसार वर्ग परिभाषा (= 0)\n(सी)\n137\nमेटाडेटा (डेटा के बारे में डेटा)\n(बी)\n98\nकंपाइलर सिंथेसाइज्ड कंस्ट्रक्टर्स\n(डी)\n138\nडीबीएमएस मिडलवेयर इंटरफ़ेस भूमिका\n(बी)\n99\nस्ट्रक्चर बनाम क्लास एक्सेस स्पेसिफायर\n(बी)\n139\nसुपरकी विशिष्टता संपत्ति\n(सी)\n100\nशुद्ध OOP भाषाओं के स्तंभ\n(डी)\n140\nएसक्यूएल स्टेटमेंट से हटाएं\n(ए)\n101\nविस्तारयोग्य भाषा परिभाषा\n(सी)\n141\nSQL कैटलॉग और स्कीमा पदानुक्रम\n(सी)\n102\nC++ के निर्माता (बजर्न स्ट्रॉस्ट्रुप)\n(सी)\n142\nSQL सर्वर db_accessadmin भूमिका\n(बी)\n103\nकंसोल कैरेक्टर इनपुट (cin.get)\n(सी)\n143\nपदानुक्रमित मॉडल फाइलिंग कैबिनेट\n(सी)\n104\nऐरे एलिमेंट एक्सेस (n-1)\n(बी)\n144\nएसक्यूएल में एग्रीगेट्स के साथ क्लॉज है\n(ए)\n105\nसारणी श्रेणियाँ (1डी और मल्टी-डी)\n(सी)\n145\nडीबीएमएस यूटिलिटीज बनाम ओएस शेड्यूलिंग\n(सी)\n106\nप्रकार लक्षण सरणी रैंक (आयाम)\n(सी)\n146\n3NF सामान्यीकरण पर्याप्तता\n(बी)\n107\nस्थानीय चर का ब्लॉक दायरा\n(बी)\n147\nडेटा अतिरेक के परिणाम\n(डी)\n108\nनया ऑपरेटर बनाम मॉलोक फ़ंक्शन\n(डी)\n148\nरॉ/ब्लॉब बाइनरी डेटा प्रकार\n(ए)\n109\nअप्राप्य निजी विरासत\n(सी)\n149\nएक्स-एनओआर तर्क संयोग गेट\n(बी)\n110\nस्टेटिक बनाम डायनेमिक बाइंडिंग\n(ए)\n150\nबूलियन बीजगणित के अनुप्रयोग\n(डी)\n111\nअनाम कक्षाएं (कोई कंस्ट्रक्टर नहीं)\n(डी)\n151\nसिम्प्लेक्स कीबोर्ड संचार\n(ए)\n112\nसंकलन-समय बहुरूपता\n(डी)\n152\nबूलियन सरलीकरण (X + YZ)\n(बी)\n113\nएनकैप्सुलेशन परिभाषा\n(सी)\n153\nबूलियन द्वैत सिद्धांत\n(बी)\n114\nसॉफ़्टवेयर डिज़ाइन में मॉड्यूलैरिटी\n(बी)\n154\nवायरलेस ट्रांसमिशन मीडिया\n(डी)\n115\nस्टैक बनाम कतार अनुप्रयोग\n(ए)\n155\nडीएनएस एप्लीकेशन लेयर प्रोटोकॉल\n(बी)\n116\nउपसर्ग से उपसर्ग (ए + बी * सी)\n(ए)\n156\nटीडीएम टाइम स्लॉट बिट क्रमांकन\n(सी)\n117\nउपसर्ग रूपांतरण में ढेर\n(बी)\n157\nटीसीपी 3-वे हैंडशेक और विश्वसनीयता\n(डी)\n118\nसरणियों में स्थानिक स्थानीयता\n(सी)\n158\nवेब ब्राउज़र वर्गीकरण\n(डी)\n119\nकतार अंडरफ़्लो स्थिति\n(बी)\n159\nऑप्टिकल फाइबर कुल आंतरिक परावर्तन\n(सी)\n120\nकतार अनुप्रयोग (कोष्ठक नहीं)\n(सी)\n160\nएसक्यूएल स्थायी ड्रॉप टेबल कमांड\n(बी)\nबीपीएससी टीआरई 4.0: कंप्यूटर विज्ञान 5-विकल्प उन्मूलन रणनीति तकनीकी एमसीक्यू में विकल्प (डी) 'उपरोक्त में से एक से अधिक' और विकल्प (ई) 'उपरोक्त में से कोई नहीं' से निपटने के लिए सामरिक दिशानिर्देश\n1. तकनीकी प्रश्नों में विकल्प (डी) के लिए 2-चेक नियम: जब भी आप स्वतंत्र रूप से पुष्टि करते हैं कि दो विकल्प तकनीकी मानदंडों को पूरा करते हैं (उदाहरण के लिए, शुद्ध ओओपी में एनकैप्सुलेशन और पॉलीमोर्फिज्म दोनों; डिफ़ॉल्ट और कॉपी कंस्ट्रक्टर दोनों; अनुवादक के रूप में कंपाइलर और असेंबलर दोनों; वायरलेस ट्रांसमिशन में रेडियो तरंगें और माइक्रोवेव दोनों), तुरंत विकल्प (सी) और मार्क (डी) ('उपरोक्त में से एक से अधिक') का विश्लेषण करना बंद कर दें। विकल्प (ई) के लिए गुम कुंजी एंटिटी ट्रैप: बीपीएससी प्रश्न सेटर्स अक्सर प्रसिद्ध कंप्यूटर एल्गोरिदम, हार्डवेयर अग्रदूतों, या इकाइयों (उदाहरण के लिए, सबसे छोटे पथ, ट्यूरिंग मशीन, या गैर-सूचीबद्ध मेमोरी इकाइयों के लिए डिज्क्स्ट्रा के एल्गोरिदम) का परीक्षण करने वाले प्रश्नों का निर्माण करते हैं और जानबूझकर (ए), (बी), और (सी) से सही उत्तर छोड़ देते हैं। जो उम्मीदवार खुद के बारे में दूसरा अनुमान लगाते हैं, वे अक्सर (ई) ('उपरोक्त में से कोई नहीं') चुनने के बजाय एक विश्वसनीय दिखने वाला ध्यान भटकाने वाला विकल्प चुनते हैं।3. हार्डवेयर बनाम सॉफ्टवेयर बनाम ऑपरेटिंग सिस्टम ट्रैप: वर्गीकरण ट्रैप से सावधान रहें जहां सिस्टम सॉफ्टवेयर उपयोगिताओं (जैसे, कंपाइलर, डीफ़्रेग्मेंटर) को ओएस कर्नेल जिम्मेदारियों (जैसे, सीपीयू प्रोसेस शेड्यूलिंग), या डेटाबेस इंजन (ओरेकल, डीबी 2) के साथ इंटरनेट सर्च इंजन (Google) के साथ मिलाया जाता है। ऑपरेटिंग सिस्टम प्रक्रिया शेड्यूलिंग और मेमोरी प्रबंधन OS कर्नेल से संबंधित हैं, DBMS.4 से नहीं। डिफ़ॉल्ट एक्सेस विनिर्देशक भेद: बीपीएससी के सबसे अधिक परीक्षण किए गए भेदों में से एक संरचना बनाम वर्ग डिफ़ॉल्ट एक्सेस है। याद रखें: `संरचना` सदस्य और वंशानुक्रम डिफ़ॉल्ट रूप से सार्वजनिक हैं (सी संगतता); `वर्ग` के सदस्य और विरासत डिफ़ॉल्ट रूप से निजी हैं (एनकैप्सुलेशन)।"
     }
   ],
   "bpsc-tre4-english-literature-80q": [
@@ -9081,7 +9081,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "रवींद्रनाथ टैगोर became the first non-European Nobel laureate in Literature in 1913 for Gitanjali (Song Offerings), published in English translation in 1912 with an introduction by W. B. Yeats.",
+      "explanation_hi": "रवीन्द्रनाथ टैगोर 1913 में गीतांजलि (गीत प्रस्तुतियाँ) के लिए साहित्य में पहले गैर-यूरोपीय नोबेल पुरस्कार विजेता बने, जो 1912 में डब्ल्यू.बी. येट्स द्वारा एक परिचय के साथ अंग्रेजी अनुवाद में प्रकाशित हुई थी।",
       "tip_hi": "गीतांजलि में 103 अंग्रेजी गद्य कविताएँ शामिल हैं जिनका अनुवाद स्वयं टैगोर ने अपने बंगाली संग्रहों (गीतांजलि, गीतिमाल्य, नैवेद्य) से किया है। 'तूने मुझे अनंत बना दिया है, ऐसा तेरा आनंद है।' से आरंभ होता है।"
     },
     {
@@ -9162,7 +9162,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kanthapura is narrated in the oral Sthala-purana style of traditional Harikatha by the grandmotherly narrator Achakka, chronicling young Moorthy's mobilization of the villagers under महात्मा गांधी's call.",
+      "explanation_hi": "कंठपुरा को पारंपरिक हरिकथा की मौखिक स्थल-पुराण शैली में दादी कथावाचक अचक्का द्वारा सुनाया गया है, जो महात्मा गांधी के आह्वान के तहत युवा मूर्ति द्वारा ग्रामीणों की लामबंदी का वर्णन है।",
       "tip_hi": "कंथापुरा में राजा राव की प्रसिद्ध प्रस्तावना: 'हम अंग्रेजों की तरह नहीं लिख सकते। हमें नहीं। हम केवल भारतीय के रूप में नहीं लिख सकते... हमारी अभिव्यक्ति की पद्धति एक बोली होनी चाहिए जो किसी दिन आयरिश या अमेरिकी की तरह विशिष्ट और रंगीन साबित होगी।'"
     },
     {
@@ -9297,7 +9297,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sarojini Naidu was given the sobriquet 'Bharat Kokila' by महात्मा गांधी for the musical and rhythmic quality of her poems on Indian folk life ('Palanquin Bearers', 'In the Bazaars of Hyderabad', 'Coromandel Fishers').",
+      "explanation_hi": "सरोजिनी नायडू को भारतीय लोक जीवन पर उनकी कविताओं की संगीतमय और लयबद्ध गुणवत्ता के लिए महात्मा गांधी द्वारा 'भारत कोकिला' उपनाम दिया गया था ('पैलक्विन बियरर्स', 'इन द बाज़ार्स ऑफ हैदराबाद', 'कोरोमंडल फिशर्स')।",
       "tip_hi": "सरोजिनी नायडू भारतीय राष्ट्रीय कांग्रेस (कानपुर अधिवेशन, 1925) की अध्यक्ष बनने वाली पहली भारतीय महिला और उत्तर प्रदेश की पहली महिला राज्यपाल थीं।"
     },
     {
@@ -14542,7 +14542,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "आंख का लेंस आपतित प्रकाश किरणों को रेटिना पर केंद्रित करता है, आंख के पीछे एक प्रकाश-संवेदनशील स्क्रीन होती है जिसमें फोटोरिसेप्टर छड़ें और शंकु होते हैं जो विद्युत आवेग उत्पन्न करते हैं।",
-      "tip_hi": "कॉर्निया = transparent front window; आईरिस = regulates पुतली diameter; रेटिना = screen where real and inverted image is formed."
+      "tip_hi": "कॉर्निया = पारदर्शी सामने की खिड़की; आईरिस = पुतली के व्यास को नियंत्रित करता है; रेटिना = स्क्रीन जहां वास्तविक और उलटा प्रतिबिम्ब बनता है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -14568,8 +14568,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mechanical ध्वनि तरंगें propagate via particle collisions; higher elasticity and closer atomic packing in ठोस yield the highest acoustic velocity (approx. 5100 m/s in steel vs. 1500 m/s in water and 343 m/s in air).",
-      "tip_hi": "Sound velocity order: ठोस > द्रव > गैस >> निर्वात (0 m/s, cannot travel through निर्वात)."
+      "explanation_hi": "यांत्रिक ध्वनि तरंगें कण टकराव के माध्यम से फैलती हैं; ठोस पदार्थों में उच्च लोच और निकट परमाणु पैकिंग से उच्चतम ध्वनिक वेग (स्टील में लगभग 5100 मीटर/सेकेंड बनाम पानी में 1500 मीटर/सेकंड और हवा में 343 मीटर/सेकेंड) प्राप्त होता है।",
+      "tip_hi": "ध्वनि वेग क्रम: ठोस > तरल पदार्थ > गैसें >> निर्वात (0 m/s, निर्वात के माध्यम से यात्रा नहीं कर सकता)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -14596,7 +14596,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "संवहन में गुरुत्वाकर्षण के तहत घनत्व प्रवणता के कारण द्रव कणों का स्थूल द्रव्यमान संचलन शामिल होता है। इसलिए, यह विशेष रूप से तरल पदार्थों (तरल पदार्थ और गैसों) में होता है।",
-      "tip_hi": "Conduction = ठोस (fixed particles); Convection = Fluids (द्रव & गैस); Radiation = निर्वात & transparent media (no material medium required)."
+      "tip_hi": "चालन = ठोस (स्थिर कण); संवहन = तरल पदार्थ (तरल पदार्थ और गैसें); विकिरण = निर्वात एवं पारदर्शी मीडिया (किसी भौतिक माध्यम की आवश्यकता नहीं)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -14649,7 +14649,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Optical fibres consist of a high refractive index core surrounded by lower refractive index cladding. Light launched at an angle exceeding the critical angle undergoes repeated पूर्ण आंतरिक परावर्तन without signal leakage.",
+      "explanation_hi": "ऑप्टिकल फाइबर में एक उच्च अपवर्तक सूचकांक कोर होता है जो कम अपवर्तक सूचकांक आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर प्रक्षेपित प्रकाश सिग्नल रिसाव के बिना बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
       "tip_hi": "टीआईआर के लिए दो शर्तें: (1) प्रकाश को सघन माध्यम से विरल माध्यम तक यात्रा करनी चाहिए, और (2) घटना का कोण क्रांतिक कोण से अधिक होना चाहिए।"
     },
     {
@@ -15055,7 +15055,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "प्रकाश की आवृत्ति विशेष रूप से उत्पन्न स्रोत के परमाणु दोलनों पर निर्भर करती है। मीडिया सीमाओं के पार अपवर्तन के दौरान, वेग और तरंग दैर्ध्य आनुपातिक रूप से कम हो जाते हैं (v = f * लैम्ब्डा), जिससे आवृत्ति अपरिवर्तित रहती है।",
-      "tip_hi": "In अपवर्तन: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change proportionally; Wave slows down and bends towards normal in denser media.\nSection 2: Chemistry (रसायन विज्ञान) — Questions 21 to 40\nPeriodic Trends, Molecular Structure, Coordination Chemistry, Organic Mechanisms & Thermochemistry"
+      "tip_hi": "अपवर्तन में: आवृत्ति (f) अपरिवर्तनीय रहती है; वेग (v) और तरंग दैर्ध्य (लैम्ब्डा) आनुपातिक रूप से बदलते हैं; सघन मीडिया में तरंग धीमी हो जाती है और सामान्य की ओर झुक जाती है।\nधारा 2: रसायन विज्ञान (रसायन विज्ञान) - प्रश्न 21 से 40\nआवधिक रुझान, आणविक संरचना, समन्वय रसायन विज्ञान, कार्बनिक तंत्र और थर्मोकैमिस्ट्री"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -15622,7 +15622,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "क्लोरोप्लास्ट दोहरे झिल्ली वाले अंग हैं जिनमें क्लोरोफिल वर्णक होते हैं; प्रकाश-निर्भर प्रतिक्रियाएं थायलाकोइड ग्रैना झिल्ली पर होती हैं, जबकि प्रकाश-स्वतंत्र केल्विन चक्र स्ट्रोमा में होता है।",
-      "tip_hi": "माइटोकॉन्ड्रिया = Cellular respiration (Powerhouse of cell); Ribosomes = Protein synthesis; Chloroplasts = Photosynthesis (Kitchen of cell)."
+      "tip_hi": "माइटोकॉन्ड्रिया = कोशिकीय श्वसन (कोशिका का पावरहाउस); राइबोसोम = प्रोटीन संश्लेषण; क्लोरोप्लास्ट = प्रकाश संश्लेषण (कोशिका की रसोई)।"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -15648,8 +15648,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "फ्लोएम (भोजन संवहन) conducts soluble organic substances synthesized during photosynthesis (predominantly sucrose) bidirectionally from source to sink via sieve tube elements and companion cells.",
-      "tip_hi": "जाइलम (जल संवहन) = Unidirectional transport of water and dissolved minerals; फ्लोएम (भोजन संवहन) = Bidirectional translocation of organic nutrients (food)."
+      "explanation_hi": "फ्लोएम प्रकाश संश्लेषण के दौरान संश्लेषित घुलनशील कार्बनिक पदार्थों (मुख्य रूप से सुक्रोज) को स्रोत से सिंक तक छलनी ट्यूब तत्वों और साथी कोशिकाओं के माध्यम से द्विदिश रूप से संचालित करता है।",
+      "tip_hi": "जाइलम = पानी और घुले हुए खनिजों का एकदिशात्मक परिवहन; फ्लोएम = जैविक पोषक तत्वों (भोजन) का द्विदिशीय स्थानांतरण।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -15945,8 +15945,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Commercial fibres of Sunn hemp (Crotalaria juncea) and Jute (Corchorus) are sclerenchymatous bast fibres derived from secondary फ्लोएम (भोजन संवहन) tissue in the stem cortex.",
-      "tip_hi": "Bast fibres = Secondary फ्लोएम (भोजन संवहन) (Jute, Hemp, Flax); Surface fibres = Epidermal seed hairs (Cotton); Leaf fibres = Sclerenchyma of monocot leaves (Sisal)."
+      "explanation_hi": "सुन्न हेम्प (क्रोटेलारिया जंसिया) और जूट (कोरकोरस) के वाणिज्यिक फाइबर, स्टेम कॉर्टेक्स में द्वितीयक फ्लोएम ऊतक से प्राप्त स्क्लेरेन्काइमेटस बास्ट फाइबर हैं।",
+      "tip_hi": "बास्ट फाइबर = द्वितीयक फ्लोएम (जूट, भांग, सन); सतही रेशे = एपिडर्मल बीज बाल (कपास); पत्ती के रेशे = मोनोकॉट पत्तियों का स्क्लेरेन्काइमा (सिसल)।"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -16054,7 +16054,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "फल पकने के दौरान, हरे क्लोरोफिल वर्णक नष्ट हो जाते हैं जबकि थायलाकोइड्स घुल जाते हैं, जिससे प्रकाश संश्लेषक क्लोरोप्लास्ट कैरोटीनॉयड और लाइकोपीन वर्णकों से भरपूर गैर-प्रकाश संश्लेषक क्रोमोप्लास्ट में बदल जाते हैं।",
-      "tip_hi": "Plastid transformation during ripening: Green हरितलवक (क्लोरोप्लास्ट) -> Red/Yellow Chromoplast. Amyloplasts store starch; Leucoplasts are colorless."
+      "tip_hi": "पकने के दौरान प्लास्टिड परिवर्तन: हरा क्लोरोप्लास्ट -> लाल/पीला क्रोमोप्लास्ट। एमाइलोप्लास्ट स्टार्च को संग्रहित करते हैं; ल्यूकोप्लास्ट रंगहीन होते हैं।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -16188,7 +16188,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Secretin is released by duodenum S-cells in response to अम्लीय chyme, stimulating the exocrine अग्न्याशय to secrete watery pancreatic juice rich in bicarbonate ions to neutralize stomach acid.",
+      "explanation_hi": "अम्लीय काइम के जवाब में डुओडेनम एस-कोशिकाओं द्वारा सेक्रेटिन जारी किया जाता है, जो पेट के एसिड को बेअसर करने के लिए बाइकार्बोनेट आयनों से भरपूर पानी वाले अग्नाशयी रस को स्रावित करने के लिए एक्सोक्राइन अग्न्याशय को उत्तेजित करता है।",
       "tip_hi": "सीक्रेटिन = अग्नाशयी बाइकार्बोनेट और जल स्राव को उत्तेजित करता है; कोलेसीस्टोकिनिन (सीसीके) = पित्ताशय की थैली से पित्त निष्कासन और अग्नाशयी पाचन एंजाइमों को उत्तेजित करता है।"
     },
     {
@@ -16216,7 +16216,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पेप्सिन पेट का सक्रिय प्रोटियोलिटिक एंजाइम है, जो गैस्ट्रिक एचसीएल द्वारा निष्क्रिय पेप्सिनोजन से परिवर्तित होता है; यह जटिल प्रोटीन को प्रोटिओज़ और पेप्टोन में विभाजित करने के लिए पीएच 1.5-2.0 पर इष्टतम रूप से संचालित होता है।",
-      "tip_hi": "पेप्सिन = operates in अम्लीय medium (pH 1.5-2.0) in stomach; ट्रिप्सिन = operates in alkaline medium (pH 7.8-8.5) in small intestine."
+      "tip_hi": "पेप्सिन = पेट में अम्लीय माध्यम (पीएच 1.5-2.0) में काम करता है; ट्रिप्सिन = छोटी आंत में क्षारीय माध्यम (पीएच 7.8-8.5) में कार्य करता है।"
     },
     {
       "source": "BPSC Middle School & Senior Secondary",
@@ -16243,7 +16243,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग दस लाख नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल और गुर्दे की नलिकाएं शामिल होती हैं जो रक्त अल्ट्राफिल्ट्रेशन, चयनात्मक पुनर्अवशोषण और ट्यूबलर स्राव करती हैं।",
-      "tip_hi": "नेफ्रॉन (वृक्काणु) = Excretory and filtration unit of Kidney; Neuron = Structural and functional unit of Nervous system."
+      "tip_hi": "नेफ्रॉन = गुर्दे की उत्सर्जन और निस्पंदन इकाई; न्यूरॉन = तंत्रिका तंत्र की संरचनात्मक और कार्यात्मक इकाई।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -16324,7 +16324,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पेरिस्टलसिस एक अनैच्छिक प्रतिवर्त है जो भोजन के बोलस के पीछे समन्वित गोलाकार मांसपेशी संकुचन और उसके आगे अनुदैर्ध्य मांसपेशी विश्राम द्वारा विशेषता है, जो भोजन को पाचन तंत्र में धकेलता है।",
-      "tip_hi": "Peristalsis = Muscular wave movement propelling food through gut; Translocation = फ्लोएम (भोजन संवहन) nutrient transport; Transpiration = Water vapor loss from leaves."
+      "tip_hi": "पेरिस्टलसिस = मांसपेशियों की तरंग गति जो भोजन को आंत के माध्यम से आगे बढ़ाती है; स्थानान्तरण = फ्लोएम पोषक तत्व परिवहन; वाष्पोत्सर्जन = पत्तियों से जलवाष्प की हानि।"
     },
     {
       "source": "BPSC Middle School Question Paper - Science",
@@ -16620,7 +16620,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Thyroxine (T4) is an iodinated amino acid derivative synthesized from tyrosine in the थायरॉयड ग्रंथि gland. In contrast, aldosterone and estrogen are lipid-soluble steroid hormones synthesized from cholesterol.",
+      "explanation_hi": "थायरोक्सिन (T4) थायरॉयड ग्रंथि में टायरोसिन से संश्लेषित एक आयोडीन युक्त अमीनो एसिड व्युत्पन्न है। इसके विपरीत, एल्डोस्टेरोन और एस्ट्रोजन कोलेस्ट्रॉल से संश्लेषित लिपिड-घुलनशील स्टेरॉयड हार्मोन हैं।",
       "tip_hi": "स्टेरॉयड हार्मोन (कोलेस्ट्रॉल से) = कोर्टिसोल, एल्डोस्टेरोन, एस्ट्रोजन, प्रोजेस्टेरोन, टेस्टोस्टेरोन; अमीनो एसिड डेरिवेटिव = थायरोक्सिन, एपिनेफ्रिन।"
     },
     {
@@ -16703,8 +16703,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लैक्टियल्स (दूधिया नलिकाएं) are specialized लसिका कोशिकाएं situated in the आंत्र रसांकुर (विली) that absorb dietary emulsified fats (chylomicrons) into the लसिका तंत्र.",
-      "tip_hi": "Do not get confused by 'lact-'; in human पाचन, लैक्टियल्स (दूधिया नलिकाएं) absorb fats, while blood capillaries absorb sugars and amino acids."
+      "explanation_hi": "लैक्टियल्स आंतों के विली में स्थित विशेष लसीका केशिकाएं हैं जो लसीका प्रणाली में आहार इमल्सीफाइड वसा (काइलोमाइक्रोन) को अवशोषित करती हैं।",
+      "tip_hi": "'लैक्ट-' से भ्रमित न हों; मानव पाचन में, लैक्टियल्स वसा को अवशोषित करते हैं, जबकि रक्त केशिकाएं शर्करा और अमीनो एसिड को अवशोषित करती हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -16730,8 +16730,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin) is secreted by salivary glands in the mouth, breaking down complex dietary starch into maltose and dextrin.",
-      "tip_hi": "Amylase operates at pH 6.8 in the mouth; पेप्सिन breaks down proteins in the आमाशय (पेट) in अम्लीय pH (1.5-2.0)."
+      "explanation_hi": "लार एमाइलेज (पीटालिन) मुंह में लार ग्रंथियों द्वारा स्रावित होता है, जो जटिल आहार स्टार्च को माल्टोज़ और डेक्सट्रिन में तोड़ देता है।",
+      "tip_hi": "एमाइलेज मुंह में पीएच 6.8 पर काम करता है; पेप्सिन अम्लीय pH (1.5-2.0) में पेट में प्रोटीन को तोड़ता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -16812,7 +16812,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "केल्विन चक्र (अंधेरे प्रतिक्रिया) के दौरान, कार्बन डाइऑक्साइड ग्लूकोज को संश्लेषित करने के लिए इलेक्ट्रॉनों और हाइड्रोजन आयनों को स्वीकार करता है, जो रासायनिक कमी का प्रतिनिधित्व करता है।",
-      "tip_hi": "In प्रकाश संश्लेषण: Water is oxidized to Oxygen, while CO2 is reduced to Carbohydrates."
+      "tip_hi": "प्रकाश संश्लेषण में: पानी ऑक्सीजन में ऑक्सीकृत हो जाता है, जबकि CO2 कार्बोहाइड्रेट में अपचयित हो जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -16839,7 +16839,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ट्रैकोमा एक संक्रामक जीवाणु नेत्र संक्रमण है जो क्लैमाइडिया ट्रैकोमैटिस के कारण होता है, जिससे आंतरिक पलकें खुरदरी हो जाती हैं और अंधापन हो सकता है।",
-      "tip_hi": "Common eye disorders in BPSC: Trachoma, Cataract, Glaucoma, अबिंदुकता (एस्टिग्मैटिज्म), and निकट दृष्टि दोष (मायोपिया)."
+      "tip_hi": "बीपीएससी में सामान्य नेत्र विकार: ट्रैकोमा, मोतियाबिंद, ग्लूकोमा, दृष्टिवैषम्य और मायोपिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -16920,7 +16920,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मैडम भीकाजी कामा ने 22 अगस्त 1907 को जर्मनी के स्टटगार्ट में अंतर्राष्ट्रीय समाजवादी सम्मेलन में भारतीय राष्ट्रीय ध्वज फहराया।",
-      "tip_hi": "Madam Bhikaji Cama is के रूप में जाना जाता है the 'Mother of Indian Revolution'; she published 'Bande Mataram' from Paris."
+      "tip_hi": "मैडम भीकाजी कामा को 'भारतीय क्रांति की जननी' के रूप में जाना जाता है; उन्होंने पेरिस से 'बंदे मातरम्' प्रकाशित किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -16973,8 +16973,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "हीमोग्लोबिन is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
-      "tip_hi": "Iron deficiency = हीमोग्लोबिन reduction => Nutritional Anaemia."
+      "explanation_hi": "हीमोग्लोबिन एक संयुग्मित मेटालोप्रोटीन है जिसमें चार लौह-पोर्फिरिन (हीम) समूह होते हैं। आयरन की कमी से माइक्रोसाइटिक हाइपोक्रोमिक एनीमिया होता है, जो थकान, पीली त्वचा और ऑक्सीजन परिवहन क्षमता में कमी की विशेषता है।",
+      "tip_hi": "आयरन की कमी = हीमोग्लोबिन में कमी => पोषण संबंधी एनीमिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -17027,7 +17027,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted डॉ. राजेंद्र प्रसाद and Gandhi, exposing the assassination plot.",
+      "explanation_hi": "मोतिहारी में नील की खेती करने वाले इरविन के आवास पर काम करने वाले कर्मचारी बटक मियां को गांधीजी को जहर मिला दूध का गिलास देने का आदेश दिया गया। इसके बजाय, उन्होंने हत्या की साजिश का पर्दाफाश करते हुए डॉ. राजेंद्र प्रसाद और गांधी को सचेत कर दिया।",
       "tip_hi": "चंपारण में गांधीजी की जान बचाई (1917) = बटक मियां (बेतिया/मोतिहारी)।"
     },
     {
@@ -17135,8 +17135,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Senescent लाल रक्त कणिकाएं (RBC) are engulfed by macrophages in the spleen and यकृत (लीवर). The heme ring of हीमोग्लोबिन is catabolized by heme oxygenase into biliverdin, जो कि reduced to bilirubin and excreted via bile into the intestine.",
-      "tip_hi": "Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of हीमोग्लोबिन."
+      "explanation_hi": "प्लीहा और यकृत में वृद्ध लाल रक्त कोशिकाएं मैक्रोफेज द्वारा घेर ली जाती हैं। हीमोग्लोबिन की हीम रिंग को हीम ऑक्सीजनेज़ द्वारा बिलीवरडीन में अपचयित किया जाता है, जो बिलीरुबिन में बदल जाता है और पित्त के माध्यम से आंत में उत्सर्जित होता है।",
+      "tip_hi": "पित्त वर्णक (बिलीरुबिन और बिलीवरडीन) = हीमोग्लोबिन का कैटाबोलिक क्षरण।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -17243,8 +17243,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In light-dependent reactions of प्रकाश संश्लेषण, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.",
-      "tip_hi": "Evolved Oxygen in प्रकाश संश्लेषण comes from Water (H2O), not from Carbon Dioxide."
+      "explanation_hi": "प्रकाश संश्लेषण की प्रकाश-निर्भर प्रतिक्रियाओं में, फोटोसिस्टम II पानी के अणुओं को विभाजित करता है: 2H2O -> 4H+ + 4e- + O2↑। सी.बी. वैन नील और रॉबर्ट हिल ने साबित किया कि विकसित ऑक्सीजन पानी से उत्पन्न होती है, CO2 से नहीं।",
+      "tip_hi": "प्रकाश संश्लेषण में विकसित ऑक्सीजन पानी (H2O) से आती है, कार्बन डाइऑक्साइड से नहीं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -17298,7 +17298,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ऑप्टिकल फाइबर में एक कोर होता है जो कम अपवर्तक सूचकांक के आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर कोर में प्रक्षेपित प्रकाश नगण्य सिग्नल हानि के साथ बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
-      "tip_hi": "ऑप्टिकल फाइबर = पूर्ण आंतरिक परावर्तन (TIR); Core refractive index > Cladding refractive index."
+      "tip_hi": "ऑप्टिकल फाइबर = कुल आंतरिक परावर्तन (टीआईआर); कोर अपवर्तक सूचकांक > क्लैडिंग अपवर्तक सूचकांक।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -17351,8 +17351,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 27 नवम्बर 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the सेकंड individual satyagrahi of Bihar.",
-      "tip_hi": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = जवाहरलाल नेहरू. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha."
+      "explanation_hi": "27 नवंबर 1940 को डॉ. श्रीकृष्ण सिंह ने पटना में युद्ध-विरोधी भाषण देकर बिहार में व्यक्तिगत सत्याग्रह का उद्घाटन किया और गिरफ्तार कर लिये गये। डॉ. अनुग्रह नारायण सिन्हा बिहार के दूसरे व्यक्तिगत सत्याग्रही थे।",
+      "tip_hi": "भारत में व्यक्तिगत सत्याग्रह: पहला = विनोबा भावे, दूसरा = जवाहरलाल नेहरू। बिहार में: प्रथम = श्रीकृष्ण सिंह, द्वितीय = अनुग्रह नारायण सिन्हा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -17433,7 +17433,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "शहरीकरण और सेलुलर विकिरण के कारण इसकी खतरनाक गिरावट के खिलाफ जागरूकता बढ़ाने के लिए हाउस स्पैरो (पासर डोमेस्टिकस) को 2013 में बिहार के राज्य पक्षी के रूप में नामित किया गया था।",
-      "tip_hi": "State Bird of Bihar = House Sparrow (गौरैया); 20 मार्च = World Sparrow दिन."
+      "tip_hi": "बिहार का राज्य पक्षी = घरेलू गौरैया (गौरैया); 20 मार्च = विश्व गौरैया दिवस."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -17486,8 +17486,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vinegar is produced by bacterial fermentation of ethanol by Acetobacter into dilute एसिटिक अम्ल (CH3COOH, 5-8% v/v), widely used as a food preservative and flavoring.",
-      "tip_hi": "Vinegar = एसिटिक अम्ल (CH3COOH); Curd = लैक्टिक अम्ल; Sour milk = लैक्टिक अम्ल."
+      "explanation_hi": "सिरका एसीटोबैक्टर द्वारा इथेनॉल के जीवाणु किण्वन द्वारा पतला एसिटिक एसिड (CH3COOH, 5-8% v/v) में उत्पादित किया जाता है, जिसका व्यापक रूप से खाद्य संरक्षक और स्वाद के रूप में उपयोग किया जाता है।",
+      "tip_hi": "सिरका = एसिटिक एसिड (CH3COOH); दही = लैक्टिक एसिड; खट्टा दूध = लैक्टिक एसिड."
     }
   ],
   "bpsc-tre4-gkgs-biology-set2": [
@@ -17542,8 +17542,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "माइटोकॉन्ड्रिया carry out the Krebs cycle and oxidative phosphorylation via inner membrane cristae to generate adenosine triphosphate (ATP), the universal chemical energy currency of eukaryotic cells.",
-      "tip_hi": "Powerhouse of Cell = माइटोकॉन्ड्रिया; Protein Factory = Ribosomes; Suicidal Bags = Lysosomes."
+      "explanation_hi": "माइटोकॉन्ड्रिया यूकेरियोटिक कोशिकाओं की सार्वभौमिक रासायनिक ऊर्जा मुद्रा, एडेनोसिन ट्राइफॉस्फेट (एटीपी) उत्पन्न करने के लिए आंतरिक झिल्ली क्राइस्टे के माध्यम से क्रेब्स चक्र और ऑक्सीडेटिव फॉस्फोराइलेशन को पूरा करता है।",
+      "tip_hi": "कोशिका का पावरहाउस = माइटोकॉन्ड्रिया; प्रोटीन फ़ैक्टरी = राइबोसोम; आत्मघाती थैलियाँ = लाइसोसोम।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -17596,7 +17596,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Normal adult blood pressure is 120/80 मिमी Hg, representing systolic pressure of 120 मिमी Hg के दौरान ventricular contraction and diastolic pressure of 80 मिमी Hg के दौरान ventricular relaxation, measured using a sphygmomanometer.",
+      "explanation_hi": "सामान्य वयस्क रक्तचाप 120/80 मिमी एचजी है, जो वेंट्रिकुलर संकुचन के दौरान 120 मिमी एचजी के सिस्टोलिक दबाव और वेंट्रिकुलर विश्राम के दौरान 80 मिमी एचजी के डायस्टोलिक दबाव का प्रतिनिधित्व करता है, जिसे स्फिग्मोमैनोमीटर का उपयोग करके मापा जाता है।",
       "tip_hi": "सामान्य बीपी = 120/80 मिमी एचजी (सिस्टोलिक = 120, डायस्टोलिक = 80); यंत्र = रक्तदाबमापी."
     },
     {
@@ -17623,8 +17623,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin, pH ~6.8) is secreted by salivary glands and hydrolyzes about 30% of dietary starch into maltose disaccharides in the oral cavity before swallowing.",
-      "tip_hi": "Starch digesting enzyme in mouth = लार एमाइलेज (टायलिन) (Ptyalin)."
+      "explanation_hi": "लार एमाइलेज (पाइलिन, पीएच ~ 6.8) लार ग्रंथियों द्वारा स्रावित होता है और निगलने से पहले मौखिक गुहा में लगभग 30% आहार स्टार्च को माल्टोज़ डिसैकराइड में हाइड्रोलाइज़ करता है।",
+      "tip_hi": "मुँह में स्टार्च पचाने वाला एन्जाइम = लार एमाइलेज (टायलिन)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -17650,8 +17650,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 32 itself is a मौलिक अधिकार (Right to Constitutional Remedies) described by Dr. Ambedkar as the 'हृदय and soul of the Constitution'. Under it, the सर्वोच्च न्यायालय issues prerogative writs.",
-      "tip_hi": "अनुच्छेद 32 = सर्वोच्च न्यायालय writ jurisdiction (मौलिक अधिकार); अनुच्छेद 226 = उच्च न्यायालय writ jurisdiction."
+      "explanation_hi": "अनुच्छेद 32 अपने आप में एक मौलिक अधिकार (संवैधानिक उपचार का अधिकार) है जिसे डॉ. अम्बेडकर ने 'संविधान का हृदय और आत्मा' बताया है। इसके तहत सर्वोच्च न्यायालय विशेषाधिकार रिट जारी करता है।",
+      "tip_hi": "अनुच्छेद 32 = उच्चतम न्यायालय रिट क्षेत्राधिकार (मौलिक अधिकार); अनुच्छेद 226 = उच्च न्यायालय का रिट क्षेत्राधिकार।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -17704,7 +17704,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Discovered by P. M. A. Millardet in Bordeaux (France) in 1882, Bordeaux mixture is a suspension of कॉपर सल्फेट (नीला थोथा) (CuSO4) and slaked lime (Ca(OH)2) in water, highly effective against downy mildew of grapevine and potato blight.",
+      "explanation_hi": "1882 में बोर्डो (फ्रांस) में पी. एम. ए. मिलार्डेट द्वारा खोजा गया, बोर्डो मिश्रण पानी में कॉपर सल्फेट (CuSO4) और बुझे हुए चूने (Ca (OH) 2) का एक निलंबन है, जो अंगूर और आलू के झुलसा रोग के खिलाफ अत्यधिक प्रभावी है।",
       "tip_hi": "बोर्डो मिश्रण = कॉपर सल्फेट + बुझा हुआ चूना (CuSO4 + Ca(OH)2)।"
     },
     {
@@ -17785,8 +17785,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in कोशिकाद्रव्य or bound to rough endoplasmic reticulum.",
-      "tip_hi": "Protein factory = Ribosomes; Powerhouse = माइटोकॉन्ड्रिया; Packaging centre = Golgi apparatus."
+      "explanation_hi": "राइबोसोम गैर-झिल्ली-बाध्य राइबोन्यूक्लियोप्रोटीन कॉम्प्लेक्स हैं जो आनुवंशिक एमआरएनए अनुक्रमों को पॉलीपेप्टाइड श्रृंखलाओं (प्रोटीन) में अनुवादित करते हैं। वे साइटोप्लाज्म में स्वतंत्र रूप से मौजूद होते हैं या खुरदरे एंडोप्लाज्मिक रेटिकुलम से बंधे होते हैं।",
+      "tip_hi": "प्रोटीन फ़ैक्टरी = राइबोसोम; पावरहाउस = माइटोकॉन्ड्रिया; पैकेजिंग केंद्र = गोल्गी उपकरण।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -17812,8 +17812,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing पूर्ण आंतरिक परावर्तन.",
-      "tip_hi": "Mirage in deserts = पूर्ण आंतरिक परावर्तन (TIR) + Atmospheric अपवर्तन."
+      "explanation_hi": "गर्म ज़मीन निचली वायु परतों को गर्म करती है, जिससे वे ऊपरी ठंडी परतों की तुलना में वैकल्पिक रूप से कम घनी हो जाती हैं। आकाश से प्रकाश की किरणें सामान्य से लगातार दूर मुड़ती रहती हैं जब तक कि आपतन कोण क्रांतिक कोण से अधिक न हो जाए, पूर्ण आंतरिक परावर्तन से गुजरती है।",
+      "tip_hi": "रेगिस्तान में मृगतृष्णा = कुल आंतरिक परावर्तन (टीआईआर) + वायुमंडलीय अपवर्तन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -17840,7 +17840,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "आपातकालीन शक्तियों के दुरुपयोग को रोकने के लिए (जैसा कि 1975 में 'आंतरिक गड़बड़ी' के बहाने हुआ था), 44वें संशोधन ने राष्ट्रीय आपातकालीन आधार को युद्ध, बाहरी आक्रमण, या 'सशस्त्र विद्रोह' तक सीमित कर दिया, जिसके लिए केंद्रीय मंत्रिमंडल की लिखित सिफारिश की आवश्यकता थी।",
-      "tip_hi": "44th संशोधन substituted 'Armed Rebellion' for 'Internal Disturbance' in अनुच्छेद 352."
+      "tip_hi": "44वें संशोधन ने अनुच्छेद 352 में 'आंतरिक अशांति' के स्थान पर 'सशस्त्र विद्रोह' को प्रतिस्थापित कर दिया।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -17920,8 +17920,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The well-drained alluvial tract along the Burhi गंडक नदी and कोसी नदी rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.",
-      "tip_hi": "Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi गंडक नदी & कोसी नदी plains)."
+      "explanation_hi": "बूढ़ी गंडक और कोसी नदियों (खगड़िया, बेगुसराय, समस्तीपुर और सहरसा को मिलाकर) के साथ अच्छी तरह से सूखा जलोढ़ पथ 'बिहार का मकई बेल्ट' बनाता है, जिसमें शीतकालीन मक्का उत्पादकता 50 क्विंटल/हेक्टेयर से अधिक दर्ज की जाती है।",
+      "tip_hi": "बिहार का मक्का का कटोरा = खगड़िया, बेगुसराय, समस्तीपुर (बूढ़ी गंडक और कोसी का मैदान)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -17947,7 +17947,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "काली मिट्टी (रेगुर मिट्टी) (Regur soil) is widespread across the Deccan lava trap, predominantly found in Maharashtra, Gujarat, Madhya Pradesh, and parts of Karnataka. As both Gujarat and Karnataka have it, (D) is correct.",
+      "explanation_hi": "काली मिट्टी (रेगुर मिट्टी) दक्कन लावा जाल में व्यापक रूप से फैली हुई है, जो मुख्य रूप से महाराष्ट्र, गुजरात, मध्य प्रदेश और कर्नाटक के कुछ हिस्सों में पाई जाती है। चूंकि गुजरात और कर्नाटक दोनों में यह है, (डी) सही है।",
       "tip_hi": "रेगुर/काली कपास मिट्टी कई प्रायद्वीपीय राज्यों तक फैली हुई है; जब गुजरात और कर्नाटक एक साथ दिखाई दें, तो विकल्प (डी) चुनें।"
     },
     {
@@ -18028,7 +18028,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Leaching is the pedological process where soluble plant nutrients and silica are washed downward through the soil profile in regions of heavy tropical rainfall, forming लेटराइट मिट्टी.",
+      "explanation_hi": "लीचिंग एक पेडोलॉजिकल प्रक्रिया है जहां घुलनशील पौधों के पोषक तत्व और सिलिका भारी उष्णकटिबंधीय वर्षा वाले क्षेत्रों में मिट्टी की प्रोफाइल के माध्यम से नीचे की ओर धुल जाते हैं, जिससे लेटराइट मिट्टी बनती है।",
       "tip_hi": "लीचिंग में सीधे तौर पर मिट्टी के खनिज और भारी वर्षा की स्थिति दोनों शामिल होती है, जो बीपीएससी की आधिकारिक कुंजी (डी) को प्रेरित करती है।"
     },
     {
@@ -18056,7 +18056,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "भारत में, आदिम स्लेश-एंड-बर्न शिफ्टिंग कृषि को मध्य प्रदेश में 'बेवर' या 'दहिया' और ओडिशा में 'पामा डाबी' या 'कोमान' कहा जाता है। 'मिल्पा' मेक्सिको/मध्य अमेरिका में प्रचलित है।",
-      "tip_hi": "Local names in India: Bewar (MP), Podu (Andhra), Pama Dabi (Odisha), Jhum (उत्तर-पूर्व). Milpa is Mexico."
+      "tip_hi": "भारत में स्थानीय नाम: बेवर (मध्य प्रदेश), पोडु (आंध्र), पामा डाबी (ओडिशा), झूम (उत्तर-पूर्व)। मिल्पा मेक्सिको है."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -18082,8 +18082,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the 73rd संविधान संशोधन अधिनियम, the 3-tier पंचायती राज structure comprises Zila Parishad (district level), Panchayat Samiti (block level), and ग्राम पंचायत (village level).",
-      "tip_hi": "Lowest level in rural governance = ग्राम पंचायत; Intermediate = Block/Panchayat Samiti; Apex = Zila Parishad."
+      "explanation_hi": "73वें संवैधानिक संशोधन अधिनियम के तहत, 3-स्तरीय पंचायती राज संरचना में जिला परिषद (जिला स्तर), पंचायत समिति (ब्लॉक स्तर), और ग्राम पंचायत (ग्राम स्तर) शामिल हैं।",
+      "tip_hi": "ग्रामीण शासन में निम्नतम स्तर = ग्राम पंचायत; मध्यवर्ती = ब्लॉक/पंचायत समिति; शीर्ष = जिला परिषद।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -18109,8 +18109,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Toads (Amphibians), Crocodiles (Reptiles), and Fish (Pisces) are poikilothermic (असमतापी (शीत-रक्त वाले)) ectotherms. Only birds (Aves) and mammals are homeothermic (समतापी (उष्ण-रक्त वाले)).",
-      "tip_hi": "समतापी (उष्ण-रक्त वाले) = Birds & Mammals only. Reptiles, amphibians, and fish are असमतापी (शीत-रक्त वाले); hence Option (E) is correct."
+      "explanation_hi": "टोड (उभयचर), मगरमच्छ (सरीसृप), और मछली (मीन) पोइकिलोथर्मिक (ठंडे खून वाले) एक्टोथर्म हैं। केवल पक्षी (एवेस) और स्तनधारी ही होमोथर्मिक (गर्म रक्त वाले) होते हैं।",
+      "tip_hi": "गर्म रक्त वाले = केवल पक्षी और स्तनधारी। सरीसृप, उभयचर और मछलियाँ ठंडे खून वाले होते हैं; इसलिए विकल्प (ई) सही है।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -18244,8 +18244,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "India shares its longest land border of 4,096.7 किमी with Bangladesh, spanning पश्चिम Bengal, Meghalaya, Mizoram, Assam, and Tripura.",
-      "tip_hi": "Border lengths mnemonic: Bangladesh (4,096.7 किमी) > China (3,488 किमी) > Pakistan (3,323 किमी) > Nepal (1,751 किमी)."
+      "explanation_hi": "भारत अपनी सबसे लंबी 4,096.7 किमी लंबी भूमि सीमा बांग्लादेश के साथ साझा करता है, जो पश्चिम बंगाल, मेघालय, मिजोरम, असम और त्रिपुरा तक फैली हुई है।",
+      "tip_hi": "सीमा की लंबाई स्मरणीय: बांग्लादेश (4,096.7 किमी) > चीन (3,488 किमी) > पाकिस्तान (3,323 किमी) > नेपाल (1,751 किमी)।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -18489,8 +18489,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rainbow formation involves अपवर्तन and वर्ण विक्षेपण of sunlight as it enters water droplets, followed by पूर्ण आंतरिक परावर्तन at the back of the droplet, and अपवर्तन again as it exits.",
-      "tip_hi": "Three-stage optical process: अपवर्तन -> वर्ण विक्षेपण -> पूर्ण आंतरिक परावर्तन."
+      "explanation_hi": "इंद्रधनुष के निर्माण में सूर्य के प्रकाश का अपवर्तन और फैलाव शामिल होता है क्योंकि यह पानी की बूंदों में प्रवेश करता है, इसके बाद बूंद के पीछे पूर्ण आंतरिक प्रतिबिंब होता है, और बाहर निकलने पर फिर से अपवर्तन होता है।",
+      "tip_hi": "तीन चरण वाली ऑप्टिकल प्रक्रिया: अपवर्तन -> फैलाव -> कुल आंतरिक परावर्तन।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -18516,8 +18516,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पीयूष ग्रंथि gland (hypophysis) is called the master gland क्योंकि its tropic hormones regulate the secretion of थायरॉयड ग्रंथि, अधिवृक्क ग्रंथि cortex, and gonads, under hypothalamus control.",
-      "tip_hi": "Master Gland = पीयूष ग्रंथि; Master of Master Gland = Hypothalamus."
+      "explanation_hi": "पिट्यूटरी ग्रंथि (हाइपोफिसिस) को मास्टर ग्रंथि कहा जाता है क्योंकि इसके ट्रोपिक हार्मोन हाइपोथैलेमस नियंत्रण के तहत थायरॉयड, अधिवृक्क प्रांतस्था और गोनाड के स्राव को नियंत्रित करते हैं।",
+      "tip_hi": "मास्टर ग्रंथि = पिट्यूटरी; मास्टर ग्रंथि का स्वामी = हाइपोथैलेमस।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -18543,7 +18543,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the presidency of जवाहरलाल नेहरू at the Lahore Session in दिसम्बर 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 जनवरी 1930 as Independence दिन.",
+      "explanation_hi": "दिसंबर 1929 में लाहौर अधिवेशन में जवाहरलाल नेहरू की अध्यक्षता में कांग्रेस ने 'पूर्ण स्वराज' को अपने अंतिम लक्ष्य के रूप में अपनाया और 26 जनवरी 1930 को स्वतंत्रता दिवस के रूप में मनाने का निर्णय लिया।",
       "tip_hi": "1929 लाहौर = पूर्ण स्वराज + रावी के तट पर तिरंगा फहराया गया।"
     },
     {
@@ -18597,7 +18597,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to फेफड़े, while pulmonary veins carry oxygenated blood from फेफड़े to left atrium.",
+      "explanation_hi": "आम तौर पर, धमनियां ऑक्सीजन युक्त रक्त ले जाती हैं और शिराएं ऑक्सीजन रहित रक्त ले जाती हैं। अपवाद फुफ्फुसीय रक्त वाहिकाएं हैं: फुफ्फुसीय धमनी ऑक्सीजन रहित रक्त को फेफड़ों तक ले जाती है, जबकि फुफ्फुसीय नसें ऑक्सीजन युक्त रक्त को फेफड़ों से बाएं आलिंद तक ले जाती हैं।",
       "tip_hi": "शिरा नियम का अपवाद: फुफ्फुसीय शिराएँ ऑक्सीजन युक्त रक्त ले जाती हैं।"
     },
     {
@@ -18651,8 +18651,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 32 guarantees the Right to Constitutional Remedies, empowering the सर्वोच्च न्यायालय to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under अनुच्छेद 226.",
-      "tip_hi": "सर्वोच्च न्यायालय Writs = अनुच्छेद 32 (हृदय & Soul of Constitution by Ambedkar); उच्च न्यायालय Writs = अनुच्छेद 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "अनुच्छेद 32 संवैधानिक उपचारों के अधिकार की गारंटी देता है, सर्वोच्च न्यायालय को रिट (बंदी प्रत्यक्षीकरण, परमादेश, निषेध, अधिकार-वारंटो, सर्टिओरारी) जारी करने का अधिकार देता है। उच्च न्यायालय अनुच्छेद 226 के तहत समानांतर रिट शक्तियाँ प्राप्त करते हैं।",
+      "tip_hi": "सुप्रीम कोर्ट रिट = अनुच्छेद 32 (अंबेडकर द्वारा संविधान का हृदय और आत्मा); उच्च न्यायालय रिट = अनुच्छेद 226।\nउत्तर कुंजी सारांश तालिका - सेट 5 (प्रश्न 161 से 200)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -18679,7 +18679,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "हीरे का अपवर्तनांक बहुत अधिक (2.42) होता है, जिसके परिणामस्वरूप लगभग 24.4° का असाधारण छोटा क्रांतिक कोण बनता है। ठीक से काटे गए हीरे में प्रवेश करने वाला प्रकाश उभरने से पहले कई पूर्ण आंतरिक प्रतिबिंबों से गुजरता है।",
-      "tip_hi": "Diamond brilliance = पूर्ण आंतरिक परावर्तन (TIR) + high refractive index (2.42)."
+      "tip_hi": "हीरे की चमक = कुल आंतरिक परावर्तन (टीआईआर) + उच्च अपवर्तनांक (2.42)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -18705,8 +18705,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Blood प्लेटलेट्स (रक्त बिम्बाणु) (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.",
-      "tip_hi": "Clotting cells = प्लेटलेट्स (रक्त बिम्बाणु) (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K."
+      "explanation_hi": "रक्त प्लेटलेट्स (थ्रोम्बोसाइट्स) थ्रोम्बोप्लास्टिन छोड़ते हैं, जो कैल्शियम आयनों की उपस्थिति में प्रोथ्रोम्बिन को थ्रोम्बिन में परिवर्तित करने का एक झरना शुरू करता है, अंततः एक फाइब्रिन जाल बनाता है जो रक्तस्राव को रोकता है।",
+      "tip_hi": "थक्का जमाने वाली कोशिकाएँ = प्लेटलेट्स (थ्रोम्बोसाइट्स); ऑक्सीजन परिवहन = आरबीसी; प्रतिरक्षा = डब्ल्यूबीसी; थक्का जमाने वाला विटामिन = विटामिन K."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -18732,7 +18732,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and सोडियम हाइड्रॉक्साइड (NaOH). It possesses a lustrous silk-like appearance and soft texture.",
+      "explanation_hi": "रेयॉन एक पुनर्जीवित सेल्युलोसिक फाइबर है जो कार्बन डाइसल्फ़ाइड और सोडियम हाइड्रॉक्साइड के साथ रासायनिक रूप से उपचारित शुद्ध लकड़ी के गूदे से निर्मित होता है। इसमें चमकदार रेशम जैसी उपस्थिति और मुलायम बनावट है।",
       "tip_hi": "कृत्रिम रेशम = रेयान (लकड़ी के गूदे से); प्रथम पूर्ण सिंथेटिक फाइबर = नायलॉन।"
     },
     {
@@ -18786,7 +18786,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 सितम्बर 1987 (commemorated globally as World Ozone दिन) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.",
+      "explanation_hi": "ओजोन परत को नुकसान पहुंचाने वाले पदार्थों पर मॉन्ट्रियल प्रोटोकॉल पर 16 सितंबर 1987 को सहमति हुई थी (विश्व स्तर पर विश्व ओजोन दिवस के रूप में मनाया जाता है) और 1989 में लागू हुआ, जिसमें 99% ओजोन-घटाने वाले पदार्थों को सफलतापूर्वक चरणबद्ध तरीके से समाप्त कर दिया गया।",
       "tip_hi": "ओजोन परत संरक्षण = मॉन्ट्रियल प्रोटोकॉल (1987); ग्रीनहाउस गैस कटौती = क्योटो प्रोटोकॉल (1997)।"
     },
     {
@@ -18867,8 +18867,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बॉक्साइट (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, बॉक्साइट is digested in hot सोडियम हाइड्रॉक्साइड (NaOH) to produce pure alumina, जो कि then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.",
-      "tip_hi": "Aluminium ore = बॉक्साइट; Iron ore = हेमेटाइट / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite."
+      "explanation_hi": "बॉक्साइट (Al2O3 · 2H2O) प्रमुख एल्यूमीनियम अयस्क है। बायर प्रक्रिया में, शुद्ध एल्यूमिना का उत्पादन करने के लिए बॉक्साइट को गर्म सोडियम हाइड्रॉक्साइड में पचाया जाता है, जिसे बाद में धातु एल्यूमीनियम का उत्पादन करने के लिए हॉल-हेरोल्ट सेल में इलेक्ट्रोलाइज किया जाता है।",
+      "tip_hi": "एल्युमीनियम अयस्क = बॉक्साइट; लौह अयस्क = हेमेटाइट/मैग्नेटाइट; सीसा अयस्क = गैलेना; तांबा अयस्क = चैलकोपाइराइट."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -18894,8 +18894,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पर्णहरिम (क्लोरोफिल) (predominantly पर्णहरिम (क्लोरोफिल) a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.",
-      "tip_hi": "Photosynthetic green pigment = पर्णहरिम (क्लोरोफिल) (central metal atom = Magnesium, Mg)."
+      "explanation_hi": "क्लोरोफिल (मुख्य रूप से क्लोरोफिल ए और बी) में एक मैग्नीशियम पोर्फिरिन रिंग होता है और हरे रंग की रोशनी को प्रतिबिंबित करते हुए मुख्य रूप से दृश्यमान स्पेक्ट्रम के नीले और लाल तरंग दैर्ध्य में प्रकाश को अवशोषित करता है।",
+      "tip_hi": "प्रकाश संश्लेषक हरा वर्णक = क्लोरोफिल (केंद्रीय धातु परमाणु = मैग्नीशियम, एमजी)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -18921,7 +18921,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-किमी stretch of the गंगा नदी from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.",
+      "explanation_hi": "1991 में स्थापित, विक्रमशिला गंगा डॉल्फिन अभयारण्य, सुल्तानगंज से भागलपुर जिले के कहलगांव तक गंगा के 60 किलोमीटर के विस्तार को कवर करता है, जो भारत के एकमात्र समर्पित डॉल्फिन अभयारण्य के रूप में संरक्षित है।",
       "tip_hi": "गंगा डॉल्फिन अभयारण्य = विक्रमशिला (भागलपुर); राष्ट्रीय जलीय जीव = गांगेय डॉल्फिन (प्लैटनिस्टा गैंगेटिका)।\nउत्तर कुंजी सारांश तालिका - सेट 6 (प्रश्न 201 से 240)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     },
     {
@@ -18975,8 +18975,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Iodine is essential for the synthesis of thyroxine (T4) and triiodothyronine (T3) by the थायरॉयड ग्रंथि gland. Iodine deficiency stimulates excessive TSH release, causing hyperplasia and enlargement of the थायरॉयड ग्रंथि gland (goitre).",
-      "tip_hi": "Goitre = थायरॉयड ग्रंथि Gland enlargement (Iodine deficiency); Hormone = Thyroxine."
+      "explanation_hi": "आयोडीन थायरॉयड ग्रंथि द्वारा थायरोक्सिन (T4) और ट्राईआयोडोथायरोनिन (T3) के संश्लेषण के लिए आवश्यक है। आयोडीन की कमी अत्यधिक टीएसएच रिलीज को उत्तेजित करती है, जिससे हाइपरप्लासिया और थायरॉयड ग्रंथि (गॉयटर) का विस्तार होता है।",
+      "tip_hi": "घेंघा = थायरॉयड ग्रंथि का बढ़ना (आयोडीन की कमी); हार्मोन = थायरोक्सिन."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -19003,7 +19003,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पानी से भरे चावल के खेतों और जुगाली करने वाले पशुओं के रुमेन की अवायवीय स्थितियों में काम करने वाले मिथेनोजेनिक आर्कबैक्टीरिया भारी मात्रा में बायोजेनिक मीथेन (सीएच 4), एक शक्तिशाली ग्रीनहाउस गैस का उत्पादन करते हैं।",
-      "tip_hi": "Paddy fields & cattle belching = मीथेन (CH4); Coal mines & marsh gas = मीथेन."
+      "tip_hi": "धान के खेत और मवेशियों की डकार = मीथेन (CH4); कोयला खदानें एवं दलदली गैस = मीथेन।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -19057,7 +19057,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "रेगुर (काली कपास मिट्टी) बेसाल्टिक डेक्कन ट्रैप लावा चट्टानों (महाराष्ट्र, गुजरात, एमपी) के अपक्षय से प्राप्त होती है। यह चिकनी मिट्टी से भरपूर है, इसमें उच्च नमी बनाए रखने की क्षमता है और यह कपास की खेती के लिए आदर्श है।",
-      "tip_hi": "काली मिट्टी (रेगुर मिट्टी) = Regur = Basaltic lava = Cotton cultivation."
+      "tip_hi": "काली मिट्टी = रेगुर = बेसाल्टिक लावा = कपास की खेती।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -19110,7 +19110,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The pale yellow colour of normal urine is due to the pigment urochrome (urobilin), a breakdown end-product of हीमोग्लोबिन degradation excreted by the kidneys.",
+      "explanation_hi": "सामान्य मूत्र का हल्का पीला रंग वर्णक यूरोक्रोम (यूरोबिलिन) के कारण होता है, जो कि गुर्दे द्वारा उत्सर्जित हीमोग्लोबिन क्षरण का एक टूटने वाला अंतिम उत्पाद है।",
       "tip_hi": "मूत्र का पीला रंग = यूरोक्रोम; पित्त पीला वर्णक = बिलीरुबिन।"
     }
   ],
@@ -19139,7 +19139,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Adrenaline (epinephrine) increases हृदय rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the यकृत (लीवर) to release glucose rapidly into the bloodstream के दौरान acute emergencies.",
+      "explanation_hi": "एड्रेनालाईन (एपिनेफ्रिन) हृदय गति को बढ़ाता है, ब्रोन्किओल्स को फैलाता है, रक्तचाप को बढ़ाता है, और तीव्र आपात स्थिति के दौरान रक्तप्रवाह में ग्लूकोज को तेजी से छोड़ने के लिए यकृत में ग्लाइकोजेनोलिसिस को उत्तेजित करता है।",
       "tip_hi": "आपातकालीन हार्मोन / 3F हार्मोन (लड़ाई, उड़ान, डर) = एड्रेनालाईन।"
     },
     {
@@ -19193,8 +19193,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी presided over the 39th Session of the Indian National Congress at Belgaum (now Belagavi, Karnataka) in दिसम्बर 1924. This was the only INC session ever presided over by Gandhi.",
-      "tip_hi": "Only Congress session presided by महात्मा गांधी = 1924 Belgaum Session (Karnataka)."
+      "explanation_hi": "महात्मा गांधी ने दिसंबर 1924 में बेलगाम (अब बेलगावी, कर्नाटक) में भारतीय राष्ट्रीय कांग्रेस के 39वें सत्र की अध्यक्षता की। यह एकमात्र कांग्रेस सत्र था जिसकी अध्यक्षता गांधी ने की थी।",
+      "tip_hi": "महात्मा गांधी की अध्यक्षता में एकमात्र कांग्रेस अधिवेशन = 1924 बेलगाम अधिवेशन (कर्नाटक)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -19220,8 +19220,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kishanganj, located at the eastern tip of Bihar (part of the Siliguri corridor area), borders Nepal to its उत्तर and पश्चिम Bengal (Darjeeling and Uttar Dinajpur districts) to its पूर्व.",
-      "tip_hi": "Borders both Nepal and पश्चिम Bengal = Kishanganj; Borders both Nepal and UP = पश्चिम Champaran."
+      "explanation_hi": "किशनगंज, बिहार के पूर्वी सिरे (सिलीगुड़ी कॉरिडोर क्षेत्र का हिस्सा) पर स्थित है, इसकी सीमा उत्तर में नेपाल और पूर्व में पश्चिम बंगाल (दार्जिलिंग और उत्तर दिनाजपुर जिले) से लगती है।",
+      "tip_hi": "नेपाल और पश्चिम बंगाल दोनों की सीमा = किशनगंज; नेपाल और यूपी दोनों की सीमा = पश्चिमी चंपारण।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -19247,8 +19247,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gastric chief cells secrete pepsinogen, जो कि activated into पेप्सिन by हाइड्रोक्लोरिक अम्ल (HCl) (HCl, pH ~1.5 to 2.0). पेप्सिन cleaves complex dietary proteins into shorter peptides (proteoses and peptones).",
-      "tip_hi": "Protein पाचन enzymes: आमाशय (पेट) (अम्लीय) = पेप्सिन; अग्न्याशय/छोटी आंत (alkaline) = ट्रिप्सिन."
+      "explanation_hi": "गैस्ट्रिक मुख्य कोशिकाएं पेप्सिनोजेन स्रावित करती हैं, जो हाइड्रोक्लोरिक एसिड (एचसीएल, पीएच ~ 1.5 से 2.0) द्वारा पेप्सिन में सक्रिय होता है। पेप्सिन जटिल आहार प्रोटीन को छोटे पेप्टाइड्स (प्रोटिओस और पेप्टोन) में तोड़ देता है।",
+      "tip_hi": "प्रोटीन पाचन एंजाइम: पेट (अम्लीय) = पेप्सिन; अग्न्याशय/छोटी आंत (क्षारीय) = ट्रिप्सिन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -19409,8 +19409,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 352 governs National Emergency. (अनुच्छेद 356 provides for राष्ट्रपति's Rule in States due to constitutional failure, and अनुच्छेद 360 provides for Financial Emergency).",
-      "tip_hi": "Emergency provisions: अनुच्छेद 352 = National; अनुच्छेद 356 = State (राष्ट्रपति's Rule); अनुच्छेद 360 = Financial."
+      "explanation_hi": "अनुच्छेद 352 राष्ट्रीय आपातकाल को नियंत्रित करता है। (अनुच्छेद 356 संवैधानिक विफलता के कारण राज्यों में राष्ट्रपति शासन का प्रावधान करता है, और अनुच्छेद 360 वित्तीय आपातकाल का प्रावधान करता है)।",
+      "tip_hi": "आपातकालीन प्रावधान: अनुच्छेद 352 = राष्ट्रीय; अनुच्छेद 356 = राज्य (राष्ट्रपति शासन); अनुच्छेद 360 = वित्तीय।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -19465,7 +19465,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hydrated aluminium silicate (Al2O3 · 2SiO2 · 2H2O) corresponds to the mineral kaolinite, commercially के रूप में जाना जाता है china clay.",
+      "explanation_hi": "हाइड्रेटेड एल्यूमीनियम सिलिकेट (Al2O3 · 2SiO2 · 2H2O) खनिज काओलिनाइट से मेल खाता है, जिसे व्यावसायिक रूप से चीनी मिट्टी के रूप में जाना जाता है।",
       "tip_hi": "रेत = SiO2; बॉक्साइट = Al2O3 · 2H2O; चाइना क्ले (काओलिन) में सिलिकेट इकाई 2SiO2 शामिल है।"
     },
     {
@@ -19492,8 +19492,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "दादाभाई नौरोजी founded the पूर्व India Association (1866) and served as MP in the British House of Commons, championing Indian rights in Britain.",
-      "tip_hi": "दादाभाई नौरोजी formulated the 'Drain of Wealth' theory in 'Poverty and Un-British Rule in India'."
+      "explanation_hi": "दादाभाई नौरोजी ने ईस्ट इंडिया एसोसिएशन (1866) की स्थापना की और ब्रिटेन में भारतीय अधिकारों की वकालत करते हुए ब्रिटिश हाउस ऑफ कॉमन्स में सांसद के रूप में कार्य किया।",
+      "tip_hi": "दादाभाई नौरोजी ने 'भारत में गरीबी और गैर-ब्रिटिश शासन' में 'धन के निकास' सिद्धांत का प्रतिपादन किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -19600,8 +19600,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed अवश्रव्य (इन्फ्रासोनिक) (produced by earthquakes, elephants), and frequencies above 20 kHz are termed पराध्वनि (अल्ट्रासोनिक) (utilized by bats, dolphins, and medical ultrasound).",
-      "tip_hi": "श्रव्य range = 20 Hz – 20 kHz; अवश्रव्य (इन्फ्रासोनिक) < 20 Hz; पराध्वनि (अल्ट्रासोनिक) > 20 kHz."
+      "explanation_hi": "मानव श्रवण की क्षमता 20 हर्ट्ज़ से 20,000 हर्ट्ज़ तक होती है। 20 हर्ट्ज से नीचे की आवृत्तियों को इन्फ़्रासोनिक (भूकंप, हाथियों द्वारा निर्मित) कहा जाता है, और 20 किलोहर्ट्ज़ से ऊपर की आवृत्तियों को अल्ट्रासोनिक (चमगादड़, डॉल्फ़िन और मेडिकल अल्ट्रासाउंड द्वारा उपयोग किया जाता है) कहा जाता है।",
+      "tip_hi": "श्रव्य सीमा = 20 हर्ट्ज - 20 किलोहर्ट्ज़; इन्फ्रासोनिक <20 हर्ट्ज; अल्ट्रासोनिक > 20 किलोहर्ट्ज़।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -19654,8 +19654,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मीथेन constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) consists primarily of ब्यूटेन and प्रोपेन.",
-      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन."
+      "explanation_hi": "मीथेन सीएनजी का 75-90% और बायोगैस (गोबर गैस) का 55-70% है। तरलीकृत पेट्रोलियम गैस (एलपीजी) में मुख्य रूप से ब्यूटेन और प्रोपेन होते हैं।",
+      "tip_hi": "सीएनजी और बायोगैस = मीथेन (CH4); एलपीजी = ब्यूटेन + प्रोपेन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -19681,7 +19681,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ralph Fitch visited Patna in 1586 के दौरान Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the गंगा नदी.",
+      "explanation_hi": "राल्फ़ फिच ने 1586 में अकबर के शासनकाल के दौरान पटना का दौरा किया और इसे गंगा के किनारे कपास, चीनी और अफ़ीम के समृद्ध व्यापार वाला एक समृद्ध वाणिज्यिक महानगर बताया।",
       "tip_hi": "बिहार/पटना की यात्रा करने वाला प्रथम अंग्रेज यात्री = राल्फ फिच (1586, अकबर का शासनकाल)।"
     },
     {
@@ -19708,7 +19708,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture सल्फ्यूरिक अम्ल (H2SO4).",
+      "explanation_hi": "रोहतास जिले के अमझोर में आयरन पाइराइट्स (FeS2) का भारत का प्रमुख भंडार है, जो कुल राष्ट्रीय भंडार का ~95% है, जिसका उपयोग पाइराइट्स, फॉस्फेट्स एंड केमिकल्स लिमिटेड (पीपीसीएल) द्वारा सल्फ्यूरिक एसिड के निर्माण के लिए किया जाता है।",
       "tip_hi": "बिहार में पाइराइट = अमझोर (रोहतास) - भारत का 95% भंडार; फ़ूल्स गोल्ड।"
     },
     {
@@ -19789,7 +19789,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of क्षारीय zinc carbonate and acts as a sacrificial sacrificial anode क्योंकि its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
+      "explanation_hi": "गैल्वनीकरण लोहे की चादरों पर पिघले जस्ते की परत चढ़ाता है। जिंक बुनियादी जिंक कार्बोनेट की एक अवरोधक परत बनाता है और एक बलि बलि एनोड के रूप में कार्य करता है क्योंकि इसकी ऑक्सीकरण क्षमता (-0.76 V) लोहे (-0.44 V) की तुलना में अधिक नकारात्मक है।",
       "tip_hi": "गैल्वनीकरण = लोहे (Fe) पर जिंक (Zn) की कोटिंग।"
     },
     {
@@ -19816,7 +19816,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Champaran district, Salt Satyagraha began on 15 अप्रैल 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt मार्च.",
+      "explanation_hi": "चंपारण जिले में, नमक सत्याग्रह 15 अप्रैल 1930 को बिपिन बिहारी वर्मा (जिला बोर्ड के अध्यक्ष) के नेतृत्व में गोआद में शुरू हुआ, जहां प्रतिबंधित नमक का निर्माण होता था। नमक मार्च का उद्घाटन करने वाले सारण और चंपारण बिहार के पहले दो जिले थे।",
       "tip_hi": "चंपारण में नमक सत्याग्रह = बिपिन बिहारी वर्मा के नेतृत्व में; पटना में = अंबिका कांत सिन्हा (नखास पिंड)।"
     },
     {
@@ -19843,8 +19843,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Burhi गंडक नदी originates from Chautarwa Chaur near the Someshwar hills in पश्चिम Champaran. It flows southeast through पूर्व Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the गंगा नदी near Khagaria.",
-      "tip_hi": "Burhi गंडक नदी origin = Someshwar Range (Chautarwa Chaur, पश्चिम Champaran); joins गंगा नदी at Khagaria."
+      "explanation_hi": "बूढ़ी गंडक पश्चिम चंपारण में सोमेश्वर पहाड़ियों के निकट चौतरवा चौर से निकलती है। खगड़िया के पास गंगा में मिलने से पहले यह पूर्वी चंपारण, मुजफ्फरपुर, समस्तीपुर और बेगुसराय से होकर दक्षिण-पूर्व में बहती है।",
+      "tip_hi": "बूढ़ी गंडक का उद्गम = सोमेश्वर श्रेणी (चौतरवा चौर, पश्चिमी चंपारण); खगड़िया में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -19870,8 +19870,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Balther soil is an अम्लीय, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of दक्षिण Bihar.",
-      "tip_hi": "Balther soil = Sandy, अम्लीय foothills soil of दक्षिण Bihar; Karail-Kewal = Heavy clayey alluvium."
+      "explanation_hi": "बाल्थर मिट्टी कैमूर, रोहतास, औरंगाबाद, गया, नवादा और बांका सीमा तलहटी में पाई जाने वाली कम पानी धारण वाली अम्लीय, रेतीली-दोमट से लेकर लौहयुक्त मिट्टी है। करैल-केवल दक्षिण बिहार का भारी मिट्टी वाला जलोढ़ है।",
+      "tip_hi": "बाल्थर मिट्टी = दक्षिण बिहार की रेतीली, अम्लीय तलहटी मिट्टी; करैल-केवल = भारी मिट्टीयुक्त जलोढ़।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -20032,8 +20032,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांस्य (तांबा + टिन) is an alloy of Copper (~88-90%) and Tin (~10-12%). पीतल (तांबा + जस्ता) is an alloy of Copper and Zinc. सोल्डर (सीसा + टिन) is an alloy of Lead and Tin.",
-      "tip_hi": "कांस्य (तांबा + टिन) = Copper + Tin (Cu + Sn); पीतल (तांबा + जस्ता) = Copper + Zinc (Cu + Zn); सोल्डर (सीसा + टिन) = Lead + Tin (Pb + Sn)."
+      "explanation_hi": "कांस्य तांबे (~88-90%) और टिन (~10-12%) का एक मिश्र धातु है। पीतल, तांबा और जस्ता का एक मिश्र धातु है। सोल्डर सीसा और टिन का एक मिश्रधातु है।",
+      "tip_hi": "कांस्य = तांबा + टिन (Cu + Sn); पीतल = तांबा + जस्ता (Cu + Zn); सोल्डर = लेड + टिन (पीबी + एसएन)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -20113,7 +20113,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sir Isaac Newton demonstrated spectrum वर्ण विक्षेपण using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).",
+      "explanation_hi": "सर आइजैक न्यूटन ने त्रिकोणीय ग्लास प्रिज्म का उपयोग करके स्पेक्ट्रम फैलाव का प्रदर्शन किया और सत्यापित किया कि कोई और रंग विभाजन नहीं हुआ, जिससे साबित हुआ कि सफेद सूरज की रोशनी स्वाभाविक रूप से बहुरंगी (VIBGYOR) है।",
       "tip_hi": "प्रिज्म के माध्यम से प्रकाश स्पेक्ट्रम की खोज = सर आइजैक न्यूटन।"
     }
   ],
@@ -20277,8 +20277,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Due to ill health, डॉ. राजेंद्र प्रसाद had not traveled to Bombay. Patna District Magistrate W. G. Archer arrested him from Sadaqat Ashram on 9 अगस्त 1942 and detained him in Bankipur Central Jail, where he wrote his autobiography 'Atmakatha'.",
-      "tip_hi": "डॉ. राजेंद्र प्रसाद detained in 1942 = Bankipur Jail (Patna); जयप्रकाश नारायण = Hazaribagh Jail."
+      "explanation_hi": "ख़राब स्वास्थ्य के कारण डॉ. राजेंद्र प्रसाद ने बम्बई की यात्रा नहीं की थी। 9 अगस्त 1942 को पटना के जिला मजिस्ट्रेट डब्ल्यू जी आर्चर ने उन्हें सदाकत आश्रम से गिरफ्तार कर लिया और बांकीपुर सेंट्रल जेल में बंद कर दिया, जहां उन्होंने अपनी आत्मकथा 'आत्मकथा' लिखी।",
+      "tip_hi": "1942 में डॉ. राजेंद्र प्रसाद को हिरासत में लिया गया = बांकीपुर जेल (पटना); जयप्रकाश नारायण=हजारीबाग जेल।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -20358,7 +20358,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lonar Lake is a hypersaline and alkaline crater lake formed by a high-velocity extraterrestrial meteorite impact into Deccan basalt rock के दौरान the Pleistocene epoch (~50,000 वर्ष ago).",
+      "explanation_hi": "लोनार झील एक अति लवणीय और क्षारीय क्रेटर झील है, जो प्लेइस्टोसिन युग (~50,000 वर्ष पूर्व) के दौरान डेक्कन बेसाल्ट चट्टान में एक उच्च-वेग अलौकिक उल्कापिंड के प्रभाव से बनी थी।",
       "tip_hi": "भारत में उल्कापिंड प्रभाव क्रेटर झील = लोनार झील (महाराष्ट्र, रामसर साइट)।"
     },
     {
@@ -20439,7 +20439,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Stalactites (hanging from cave ceilings) and stalagmites (rising from cave floors) are depositional landforms produced by कैल्शियम कार्बोनेट (CaCO3) precipitation in karst underground water topography.",
+      "explanation_hi": "स्टैलेक्टाइट्स (गुफा की छत से लटकते हुए) और स्टैलेग्माइट्स (गुफा के फर्श से उभरे हुए) कार्स्ट भूमिगत जल स्थलाकृति में कैल्शियम कार्बोनेट वर्षा द्वारा निर्मित निक्षेपण स्थलरूप हैं।",
       "tip_hi": "मेमोरी सहायता: स्टैलेक्टाइट छत को 'कसकर' रखता है; स्टैलागमाइट 'हो सकता है' जमीन से छत तक पहुंच जाए; दोनों कार्स्ट भूजल द्वारा निर्मित हैं।"
     },
     {
@@ -20520,8 +20520,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Salt Satyagraha in Bihar commenced in अप्रैल 1930, following Gandhiji's Dandi मार्च, with initial ground agitation organized on 15-16 अप्रैल 1930 in Champaran and Saran.",
-      "tip_hi": "Dandi मार्च began 12 मार्च 1930; Salt was broken on 6 अप्रैल 1930; Bihar salt agitation was initiated in mid-अप्रैल 1930."
+      "explanation_hi": "गांधीजी की दांडी यात्रा के बाद, बिहार में नमक सत्याग्रह अप्रैल 1930 में शुरू हुआ, जिसका प्रारंभिक जमीनी आंदोलन 15-16 अप्रैल 1930 को चंपारण और सारण में आयोजित किया गया था।",
+      "tip_hi": "दांडी मार्च 12 मार्च 1930 को शुरू हुआ; 6 अप्रैल 1930 को नमक तोड़ा गया; बिहार नमक आंदोलन अप्रैल 1930 के मध्य में शुरू किया गया था।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -20601,7 +20601,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Swatantra Party में स्थापित किया गया था 1959 by C. Rajagopalachari, advocating free enterprise, reduction of state control, and opposition to Nehru's socialist planning.",
+      "explanation_hi": "स्वतंत्र पार्टी की स्थापना 1959 में सी. राजगोपालाचारी ने की थी, जो मुक्त उद्यम, राज्य नियंत्रण में कमी और नेहरू की समाजवादी योजना के विरोध की वकालत करती थी।",
       "tip_hi": "स्वतंत्र पार्टी (1959) = सी. राजगोपालाचारी, मीनू मसानी, एन.जी. रंगा; स्वराज पार्टी (1923) = सी.आर. दास और मोतीलाल नेहरू।"
     },
     {
@@ -20628,7 +20628,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fumaroles (धुँआरे / वातिमुख) are vents emitting steam and volcanic गैस (SO2, CO2, H2S) के दौरान the dying/senescent phase of volcanism when magma has ceased erupting.",
+      "explanation_hi": "फ़्यूमरोल्स (धुँरे/वातिमुख) ज्वालामुखी के ख़त्म होने/बुढ़ापे चरण के दौरान भाप और ज्वालामुखीय गैसों (SO2, CO2, H2S) उत्सर्जित करने वाले छिद्र हैं जब मैग्मा फूटना बंद हो जाता है।",
       "tip_hi": "ज्वालामुखी जीवन चक्र: सक्रिय विस्फोट -> क्रेटर निर्माण -> गीजर/हॉट स्प्रिंग्स -> फ्यूमरोल्स (अंतिम मरने वाली गैसीय अवस्था)।"
     },
     {
@@ -20655,8 +20655,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "SONAR (Sound Navigation and Ranging) uses पराध्वनि (अल्ट्रासोनिक) ध्वनि तरंगें to map ocean depths and locate submerged objects, hills, valleys, and shipwrecks.",
-      "tip_hi": "SONAR = Underwater sound परावर्तन; RADAR = Atmospheric radio wave परावर्तन."
+      "explanation_hi": "सोनार (साउंड नेविगेशन एंड रेंजिंग) समुद्र की गहराई का मानचित्रण करने और जलमग्न वस्तुओं, पहाड़ियों, घाटियों और जहाजों के मलबे का पता लगाने के लिए अल्ट्रासोनिक ध्वनि तरंगों का उपयोग करता है।",
+      "tip_hi": "सोनार = पानी के नीचे ध्वनि प्रतिबिंब; राडार = वायुमंडलीय रेडियो तरंग प्रतिबिंब।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -20736,7 +20736,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Acids turn blue litmus red. Vinegar contains dilute एसिटिक अम्ल (CH3COOH, pH approx. 2.5), जबकि धावन सोडा (Na2CO3·10H2O) (Na2CO3) and बेकिंग सोडा (NaHCO3) (NaHCO3) are क्षारीय.",
+      "explanation_hi": "अम्ल नीले लिटमस को लाल कर देते हैं। सिरके में पतला एसिटिक एसिड (CH3COOH, pH लगभग 2.5) होता है, जबकि धोने का सोडा (Na2CO3) और बेकिंग सोडा (NaHCO3) बुनियादी होते हैं।",
       "tip_hi": "एसिड नीले से लाल हो जाता है ('एबीआर'); आधार लाल से नीला ('बीआरबी') हो जाता है। सिरका अम्लीय है; सोडा क्षारीय होते हैं."
     },
     {
@@ -20764,7 +20764,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जब पटना के जिला मजिस्ट्रेट डब्ल्यू.जी. आर्चर ने पुलिस को पटना सचिवालय पर तिरंगा फहराने का प्रयास कर रहे छात्रों पर गोली चलाने का आदेश दिया तो सात बहादुर छात्र स्वतंत्रता सेनानियों की मौके पर ही मौत हो गई।",
-      "tip_hi": "Remembered as 'The Seven Martyrs' (सात शहीद). A monumental कांस्य (तांबा + टिन) memorial stands in front of the Bihar Vidhan Sabha at Patna commemorating them."
+      "tip_hi": "'सात शहीद' के रूप में याद किया जाता है। उनकी स्मृति में पटना में बिहार विधान सभा के सामने एक विशाल कांस्य स्मारक खड़ा है।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary History",
@@ -20819,8 +20819,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "ब्लीचिंग पाउडर (CaOCl2) is chemically calcium oxychloride (CaOCl2), manufactured by reacting dry slaked lime with chlorine gas: Ca(OH)2 + Cl2 -> CaOCl2 + H2O.",
-      "tip_hi": "प्लास्टर ऑफ पेरिस = CaSO4·1/2H2O; जिप्सम = CaSO4·2H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; ब्लीचिंग पाउडर (CaOCl2) = CaOCl2."
+      "explanation_hi": "ब्लीचिंग पाउडर रासायनिक रूप से कैल्शियम ऑक्सीक्लोराइड (CaOCl2) है, जो सूखे बुझे हुए चूने को क्लोरीन गैस: Ca(OH)2 + Cl2 -> CaOCl2 + H2O के साथ प्रतिक्रिया करके निर्मित किया जाता है।",
+      "tip_hi": "प्लास्टर ऑफ पेरिस = CaSO4·1/2H2O; जिप्सम = CaSO4·2H2O; बेकिंग सोडा = NaHCO3; ब्लीचिंग पाउडर = CaOCl2."
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary Chemistry",
@@ -20846,8 +20846,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "धावन सोडा (Na2CO3·10H2O) is सोडियम कार्बोनेट decahydrate (Na2CO3·10H2O), containing 10 molecules of water of crystallization. Anhydrous सोडियम कार्बोनेट (Na2CO3) is termed soda ash.",
-      "tip_hi": "धावन सोडा (Na2CO3·10H2O) = Na2CO3·10H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; Caustic Soda = NaOH."
+      "explanation_hi": "वाशिंग सोडा सोडियम कार्बोनेट डिकाहाइड्रेट (Na2CO3·10H2O) है, जिसमें क्रिस्टलीकरण के पानी के 10 अणु होते हैं। निर्जल सोडियम कार्बोनेट (Na2CO3) को सोडा ऐश कहा जाता है।",
+      "tip_hi": "वाशिंग सोडा = Na2CO3·10H2O; बेकिंग सोडा = NaHCO3; कास्टिक सोडा = NaOH."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -20900,8 +20900,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पीतल (तांबा + जस्ता) is a non-ferrous alloy of Copper (approx. 70%) and Zinc (approx. 30%). कांस्य (तांबा + टिन) is an alloy of Copper and Tin.",
-      "tip_hi": "Memory trick: पीतल (तांबा + जस्ता) = Cu + Zn (पीतल); कांस्य (तांबा + टिन) = Cu + Sn (कांसा); सोल्डर (सीसा + टिन) = Pb + Sn (टांका)."
+      "explanation_hi": "पीतल तांबा (लगभग 70%) और जस्ता (लगभग 30%) का एक अलौह मिश्र धातु है। कांस्य तांबे और टिन का एक मिश्र धातु है।",
+      "tip_hi": "मेमोरी ट्रिक: पीतल = Cu + Zn (पीतल); कांस्य = Cu + Sn (कांसा); सोल्डर = पीबी + एसएन (टांका)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster Examination",
@@ -20928,7 +20928,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बिहार का कुल क्षेत्रफल 94,163 वर्ग किलोमीटर है, जो भारत के कुल भौगोलिक क्षेत्र का लगभग 2.86% है, यह भारत में भूमि क्षेत्र के अनुसार 12वें स्थान पर है।",
-      "tip_hi": "Bihar area: 94,163 sq किमी; 2.86% of India; 3rd largest State by population (जनगणना 2011)."
+      "tip_hi": "बिहार क्षेत्र: 94,163 वर्ग किमी; भारत का 2.86%; जनसंख्या के हिसाब से तीसरा सबसे बड़ा राज्य (जनगणना 2011)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -20981,8 +20981,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ant stings inject methanoic acid (common name फॉर्मिक अम्ल, HCOOH). It is neutralized by applying mild क्षारीय substances such as बेकिंग सोडा (NaHCO3) (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
-      "tip_hi": "फॉर्मिक अम्ल = Ant sting; Vinegar = एसिटिक अम्ल; Tomato = ऑक्सालिक अम्ल; Tamarind = टार्टरिक अम्ल."
+      "explanation_hi": "चींटी के डंक से मेथेनोइक एसिड (सामान्य नाम फॉर्मिक एसिड, HCOOH) निकलता है। बेकिंग सोडा (सोडियम हाइड्रोजन कार्बोनेट) या कैलामाइन लोशन (जिंक कार्बोनेट) जैसे हल्के बुनियादी पदार्थ लगाने से इसे बेअसर किया जाता है।",
+      "tip_hi": "फॉर्मिक एसिड = चींटी का डंक; सिरका = एसिटिक अम्ल; टमाटर = ऑक्सालिक एसिड; इमली = टार्टरिक एसिड."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -21008,8 +21008,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्लास्टर ऑफ पेरिस is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating जिप्सम (CaSO4 · 2H2O) at 373 K (100°C).",
-      "tip_hi": "जिप्सम = dihydrate (2H2O); प्लास्टर ऑफ पेरिस = hemihydrate (1/2 H2O)."
+      "explanation_hi": "प्लास्टर ऑफ पेरिस कैल्शियम सल्फेट हेमीहाइड्रेट, CaSO4 · 1/2H2O (या 2CaSO4 · H2O) है, जो जिप्सम (CaSO4 · 2H2O) को 373 K (100°C) पर गर्म करने से बनता है।",
+      "tip_hi": "जिप्सम = डाइहाइड्रेट (2H2O); प्लास्टर ऑफ पेरिस = हेमीहाइड्रेट (1/2 H2O)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -21062,8 +21062,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 61st संविधान संशोधन अधिनियम of 1988 amended अनुच्छेद 326 of the Constitution, lowering the voting age from 21 to 18 वर्ष. It came into force on 28 मार्च 1989 under Rajiv Gandhi's government.",
-      "tip_hi": "Voting age reduction (21 to 18) = 61st संशोधन 1988 (अनुच्छेद 326)."
+      "explanation_hi": "1988 के 61वें संवैधानिक संशोधन अधिनियम ने संविधान के अनुच्छेद 326 में संशोधन किया, जिससे मतदान की आयु 21 से घटाकर 18 वर्ष कर दी गई। यह 28 मार्च 1989 को राजीव गांधी की सरकार के तहत लागू हुआ।",
+      "tip_hi": "मतदान की आयु में कमी (21 से 18) = 61वाँ संशोधन 1988 (अनुच्छेद 326)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -21143,7 +21143,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The कोसी नदी River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 किमी over 250 वर्ष, causing repeated disasters.",
+      "explanation_hi": "कोसी नदी तिब्बत/नेपाल (सप्तकोशी) से निकलती है और भीमनगर (सुपौल) में बिहार में प्रवेश करती है। भारी गाद भार और टूटे हुए चैनलों के कारण, यह 250 वर्षों में 130 किमी से अधिक पश्चिम की ओर स्थानांतरित हो गया है, जिससे बार-बार आपदाएँ आती हैं।",
       "tip_hi": "बिहार का दुःख=कोसी; बंगाल का दुःख = दामोदर."
     },
     {
@@ -21170,8 +21170,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बेकिंग सोडा (NaHCO3) is सोडियम बाइकार्बोनेट / sodium hydrogen carbonate, NaHCO3. When heated के दौरान baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
-      "tip_hi": "बेकिंग सोडा (NaHCO3) = NaHCO3 (Bicarbonate); धावन सोडा (Na2CO3·10H2O) = Na2CO3 · 10H2O."
+      "explanation_hi": "बेकिंग सोडा सोडियम बाइकार्बोनेट/सोडियम हाइड्रोजन कार्बोनेट, NaHCO3 है। बेकिंग के दौरान गर्म करने पर, यह विघटित होकर CO2 गैस छोड़ता है, जिससे ब्रेड या केक का बैटर फूल जाता है और स्पंजी हो जाता है।",
+      "tip_hi": "बेकिंग सोडा = NaHCO3 (बाइकार्बोनेट); वाशिंग सोडा = Na2CO3 · 10H2O."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -21197,7 +21197,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in नवम्बर 1932 to avenge the martyrdom of भगत सिंह, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 मई 1934.",
+      "explanation_hi": "बैकुंठ शुक्ल ने भगत सिंह, सुखदेव और राजगुरु की शहादत का बदला लेने के लिए नवंबर 1932 में बेतिया में गद्दार फणींद्र नाथ घोष की हत्या कर दी। उन्हें गिरफ्तार किया गया, दोषी ठहराया गया और 14 मई 1934 को गया सेंट्रल जेल में फांसी दे दी गई।",
       "tip_hi": "अनुमोदक फणीन्द्र नाथ घोष की हत्या = बैकुंठ शुक्ल (गया जेल में फाँसी 1934)।"
     },
     {
@@ -21278,8 +21278,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.",
-      "tip_hi": "सोडियम बाइकार्बोनेट = Fire extinguishers + बेकिंग सोडा (NaHCO3)."
+      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) सोडा-एसिड अग्निशामक में एसिड के साथ प्रतिक्रिया करके बड़ी मात्रा में कार्बन डाइऑक्साइड (CO2) गैस छोड़ता है जो आग को बुझाती है।",
+      "tip_hi": "सोडियम बाइकार्बोनेट = अग्निशामक यंत्र + बेकिंग सोडा।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -21332,7 +21332,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Conducted in two phases के दौरान 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 अक्टूबर 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
+      "explanation_hi": "2023 के दौरान दो चरणों में आयोजित, बिहार जाति-आधारित सर्वेक्षण के निष्कर्ष आधिकारिक तौर पर गांधी जयंती (2 अक्टूबर 2023) को जारी किए गए थे, जिसमें ईबीसी 36.01%, ओबीसी 27.13%, एससी 19.65%, एसटी 1.68% और सामान्य श्रेणी 15.52% दर्ज की गई थी।",
       "tip_hi": "2 अक्टूबर 2023 को जारी बिहार जाति सर्वेक्षण: ईबीसी (36%) + ओबीसी (27%) = 63% कुल पिछड़ा वर्ग।"
     },
     {
@@ -21467,7 +21467,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its केंद्रक (नाभिक).",
+      "explanation_hi": "प्रोटियम (1H1) की द्रव्यमान संख्या A = 1 और परमाणु संख्या Z = 1 है। न्यूट्रॉन की संख्या N = A - Z = 1 - 1 = 0 है। यह प्रकृति में एकमात्र स्थिर आइसोटोप है जिसके नाभिक में कोई न्यूट्रॉन नहीं है।",
       "tip_hi": "प्रोटियम में 0 न्यूट्रॉन हैं; ड्यूटेरियम में 1 न्यूट्रॉन होता है; ट्रिटियम में 2 न्यूट्रॉन होते हैं।"
     }
   ],
@@ -21523,8 +21523,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), डॉ. राजेंद्र प्रसाद formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
-      "tip_hi": "Bihar Central Relief Committee (1934 Earthquake) = डॉ. राजेंद्र प्रसाद."
+      "explanation_hi": "1934 के भूकंप (परिमाण ~8.0) के बाद जेल से रिहा होने के तुरंत बाद, डॉ. राजेंद्र प्रसाद ने बिहार केंद्रीय राहत समिति का गठन किया और उसका नेतृत्व किया, जिसने पारदर्शिता के साथ देशव्यापी राहत कोष और सामग्री का समन्वय किया।",
+      "tip_hi": "बिहार केंद्रीय राहत समिति (1934 भूकंप) = डॉ. राजेंद्र प्रसाद।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -21577,7 +21577,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new संसद building, featuring the लोकसभा chamber styled on the National Bird Peacock and राज्यसभा on the National Flower Lotus.",
+      "explanation_hi": "अहमदाबाद स्थित वास्तुकार डॉ. बिमल पटेल (एचसीपी डिजाइन) ने त्रिकोणीय नए संसद भवन का डिजाइन तैयार किया, जिसमें लोकसभा कक्ष को राष्ट्रीय पक्षी मोर और राज्यसभा कक्ष को राष्ट्रीय फूल कमल पर डिजाइन किया गया है।",
       "tip_hi": "नए संसद भवन के वास्तुकार = डॉ. बिमल पटेल (एचसीपी डिजाइन, अहमदाबाद)।"
     }
   ],
@@ -21633,8 +21633,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lord Curzon's partition of Bengal took official effect on 16th अक्टूबर 1905, marked as a दिन of national mourning and Rakhi Bandhan across Bengal.",
-      "tip_hi": "Timeline of 1905: 20 जुलाई (Partition announced) -> 7 अगस्त (Boycott resolution at Calcutta) -> 16 अक्टूबर (Enforced)."
+      "explanation_hi": "लॉर्ड कर्जन द्वारा बंगाल का विभाजन 16 अक्टूबर 1905 को आधिकारिक रूप से प्रभावी हुआ, जिसे पूरे बंगाल में राष्ट्रीय शोक और राखी बंधन के दिन के रूप में मनाया गया।",
+      "tip_hi": "1905 की समयरेखा: 20 जुलाई (विभाजन की घोषणा) -> 7 अगस्त (कलकत्ता में बहिष्कार प्रस्ताव) -> 16 अक्टूबर (लागू)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -21660,8 +21660,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सिलियरी मांसपेशियां contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.",
-      "tip_hi": "Power of accommodation = सिलियरी मांसपेशियां; Regulates पुतली size and light entry = आईरिस."
+      "explanation_hi": "निकट की वस्तुओं को देखने के लिए सिलिअरी मांसपेशियाँ लेंस की वक्रता और शक्ति को बढ़ाने के लिए सिकुड़ती हैं, और दूर की वस्तुओं को देखने के लिए लेंस को समतल करने के लिए आराम करती हैं। इस क्षमता को 'समायोजन की शक्ति' कहा जाता है।",
+      "tip_hi": "आवास की शक्ति = सिलिअरी मांसपेशियाँ; पुतली के आकार और प्रकाश प्रवेश को नियंत्रित करता है = आईरिस।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -21687,8 +21687,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पलायन वेग ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 किमी/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 किमी/s (ve = √2 * vo).",
-      "tip_hi": "पलायन वेग from Earth = 11.2 किमी/s; from Moon = 2.4 किमी/s; Orbital velocity = 7.9 किमी/s."
+      "explanation_hi": "पलायन वेग ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 मीटर/सेकेंड = 11.2 किमी/सेकेंड। सतह के निकट कक्षीय वेग vo = √(gR) ≈ 7.9 किमी/सेकेंड (ve = √2 * vo)।",
+      "tip_hi": "पृथ्वी से पलायन वेग = 11.2 किमी/सेकेंड; चंद्रमा से = 2.4 किमी/सेकेंड; कक्षीय वेग = 7.9 किमी/सेकेंड."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -21714,7 +21714,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Despite losing his left arm crossing the गंगा नदी, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 अप्रैल 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 अप्रैल as 'Vijay Utsav'.",
+      "explanation_hi": "गंगा पार करते समय अपना बायाँ हाथ खोने के बावजूद, कुँवर सिंह ने जगदीशपुर में फिर से प्रवेश किया और 23 अप्रैल 1858 को कैप्टन ले ग्रैंड के नेतृत्व में ब्रिटिश सेना को हरा दिया। ले ग्रैंड मारा गया और ब्रिटिश टुकड़ी नष्ट हो गई। बिहार 23 अप्रैल को 'विजय उत्सव' के रूप में मनाता है।",
       "tip_hi": "कैप्टन ले ग्रैंड पर कुँवर सिंह की विजय = 23 अप्रैल 1858 (बिहार में विजय दिवस के रूप में मनाया जाता है)।"
     },
     {
@@ -21741,8 +21741,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 368 empowers संसद to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'क्षारीय Structure' doctrine (Kesavananda Bharati case 1973).",
-      "tip_hi": "संशोधन of Constitution = अनुच्छेद 368 (Part XX, borrowed from दक्षिण Africa)."
+      "explanation_hi": "अनुच्छेद 368 संसद को 'मूल संरचना' सिद्धांत (केशवानंद भारती मामला 1973) के अधीन, उसमें निर्धारित प्रक्रिया के अनुसार संविधान के किसी भी प्रावधान को जोड़ने, बदलने या निरस्त करने के माध्यम से संशोधित करने का अधिकार देता है।",
+      "tip_hi": "संविधान में संशोधन = अनुच्छेद 368 (भाग XX, दक्षिण अफ्रीका से उधार लिया गया)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -21849,8 +21849,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the राष्ट्रपति and the exercise thereof shall be regulated by law.",
-      "tip_hi": "Supreme Commander of Armed Forces = राष्ट्रपति of India (अनुच्छेद 53(2))."
+      "explanation_hi": "संविधान के अनुच्छेद 53(2) में प्रावधान है कि संघ के रक्षा बलों की सर्वोच्च कमान राष्ट्रपति में निहित होगी और इसका प्रयोग कानून द्वारा नियंत्रित किया जाएगा।",
+      "tip_hi": "सशस्त्र बलों का सर्वोच्च कमांडर = भारत का राष्ट्रपति (अनुच्छेद 53(2))।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -21876,8 +21876,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 72 grants pardoning powers to the राष्ट्रपति for offences against Union laws, court-martial sentences, and all death sentences. The राज्यपाल has corresponding pardoning powers under अनुच्छेद 161 (except court martial and death sentence pardon).",
-      "tip_hi": "Pardoning Power: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
+      "explanation_hi": "अनुच्छेद 72 राष्ट्रपति को संघीय कानूनों, कोर्ट-मार्शल सजाओं और सभी मौत की सजाओं के खिलाफ अपराधों को माफ करने की शक्तियां प्रदान करता है। राज्यपाल के पास अनुच्छेद 161 के तहत क्षमादान की शक्तियाँ हैं (कोर्ट मार्शल और मृत्युदंड क्षमा को छोड़कर)।",
+      "tip_hi": "क्षमादान शक्ति: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -21903,8 +21903,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "चुंबकीय फ्लक्स is measured in वेबर (Wb = टेस्ला * m^2). टेस्ला (T) is the unit of चुंबकीय फ्लक्स density / चुंबकीय क्षेत्र strength, and हेनरी (H) is the unit of inductance.",
-      "tip_hi": "चुंबकीय फ्लक्स = वेबर (Wb); चुंबकीय क्षेत्र = टेस्ला (T); Inductance = हेनरी (H)."
+      "explanation_hi": "चुंबकीय प्रवाह को वेबर (Wb = Tesla * m^2) में मापा जाता है। टेस्ला (टी) चुंबकीय प्रवाह घनत्व/चुंबकीय क्षेत्र शक्ति की इकाई है, और हेनरी (एच) प्रेरण की इकाई है।",
+      "tip_hi": "चुंबकीय प्रवाह = वेबर (डब्ल्यूबी); चुंबकीय क्षेत्र = टेस्ला (टी); अधिष्ठापन = हेनरी (एच)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -21930,8 +21930,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 72, the राष्ट्रपति has the exclusive power to pardon death sentences. Although अनुच्छेद 161 empowers the राज्यपाल to commute or suspend sentences, the राज्यपाल cannot grant an absolute pardon in death penalty cases.",
-      "tip_hi": "Absolute pardon for death sentence = राष्ट्रपति of India alone (अनुच्छेद 72)."
+      "explanation_hi": "अनुच्छेद 72 के तहत, राष्ट्रपति के पास मौत की सजा को माफ करने की विशेष शक्ति है। हालाँकि अनुच्छेद 161 राज्यपाल को सजा कम करने या निलंबित करने का अधिकार देता है, लेकिन राज्यपाल मृत्युदंड के मामलों में पूर्ण क्षमा नहीं दे सकता है।",
+      "tip_hi": "मृत्युदंड के लिए पूर्ण क्षमा = अकेले भारत के राष्ट्रपति (अनुच्छेद 72)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -21984,7 +21984,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "1 kWh = 1,000 Watts * 3,600 सेकंड = 3,600,000 वाट-सेकंड = 3.6 × 10^6 Joules.",
+      "explanation_hi": "1 kWh = 1,000 वॉट * 3,600 सेकंड = 3,600,000 वॉट-सेकंड = 3.6 × 10^6 जूल।",
       "tip_hi": "1 वाणिज्यिक विद्युत इकाई = 1 kWh = 3.6 * 10^6 J."
     },
     {
@@ -22038,8 +22038,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 123 empowers the राष्ट्रपति to promulgate Ordinances when either House of संसद is not in session, having the same force and effect as an Act of संसद. An अध्यादेश must be approved by संसद within 6 सप्ताह of reassembly.",
-      "tip_hi": "अध्यादेश promulgation: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
+      "explanation_hi": "अनुच्छेद 123 राष्ट्रपति को अध्यादेश प्रख्यापित करने का अधिकार देता है जब संसद का कोई भी सदन सत्र में नहीं होता है, जिसका बल और प्रभाव संसद के अधिनियम के समान होता है। किसी भी अध्यादेश को संसद की दोबारा बैठक के 6 सप्ताह के भीतर मंजूरी मिलनी चाहिए।",
+      "tip_hi": "अध्यादेश प्रख्यापन: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -22065,8 +22065,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 312 provides that if the राज्यसभा declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, संसद मई by law create new All-India Services.",
-      "tip_hi": "Exclusive special powers of राज्यसभा: अनुच्छेद 249 (State list legislation) and अनुच्छेद 312 (New All-India Services)."
+      "explanation_hi": "अनुच्छेद 312 में प्रावधान है कि यदि राज्यसभा उपस्थित और मतदान करने वाले कम से कम दो-तिहाई सदस्यों द्वारा समर्थित प्रस्ताव द्वारा घोषणा करती है कि यह राष्ट्रीय हित में आवश्यक है, तो संसद कानून द्वारा नई अखिल भारतीय सेवाएं बना सकती है।",
+      "tip_hi": "राज्यसभा की विशिष्ट विशेष शक्तियाँ: अनुच्छेद 249 (राज्य सूची विधान) और अनुच्छेद 312 (नई अखिल भारतीय सेवाएँ)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -22148,7 +22148,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Iron and steel is a heavy, weight-losing क्षारीय mineral industry क्योंकि both its inputs (iron ore, coal, limestone) and finished outputs are heavy and bulky. Describing it as a light industry is false.",
+      "explanation_hi": "लोहा और इस्पात एक भारी, वजन कम करने वाला बुनियादी खनिज उद्योग है क्योंकि इसके इनपुट (लौह अयस्क, कोयला, चूना पत्थर) और तैयार आउटपुट दोनों भारी और बोझिल हैं। इसे प्रकाश उद्योग के रूप में वर्णित करना गलत है।",
       "tip_hi": "भारी उद्योग भारी कच्चे माल (लोहा और इस्पात) की खपत करते हैं; हल्के उद्योग कॉम्पैक्ट सामान (इलेक्ट्रॉनिक्स, घड़ियाँ) का उत्पादन करते हैं।"
     },
     {
@@ -22175,7 +22175,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Seventh अनुसूची (अनुच्छेद 246) defines legislative powers divided into three lists: List I (Union List), List II (State List), and List III (Concurrent List).",
+      "explanation_hi": "सातवीं अनुसूची (अनुच्छेद 246) विधायी शक्तियों को तीन सूचियों में विभाजित करती है: सूची I (संघ सूची), सूची II (राज्य सूची), और सूची III (समवर्ती सूची)।",
       "tip_hi": "अनुसूचियाँ स्मरणीय: 7वीं = शक्तियों का विभाजन (संघ, राज्य, समवर्ती सूचियाँ); आठवां = राजभाषाएँ; 5वां = अनुसूचित क्षेत्र।"
     },
     {
@@ -22202,8 +22202,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 73rd and 74th Constitutional संशोधन Acts were enacted by संसद in 1992 and came into force in 1993 under the Prime Ministership of P. V. Narasimha Rao.",
-      "tip_hi": "73rd संशोधन (Panchayats) enforced 24 अप्रैल 1993; 74th संशोधन (Municipalities) enforced 1 जून 1993 के दौरान Narasimha Rao's tenure."
+      "explanation_hi": "73वें और 74वें संवैधानिक संशोधन अधिनियम 1992 में संसद द्वारा अधिनियमित किए गए और 1993 में पी. वी. नरसिम्हा राव के प्रधानमंत्रित्व काल में लागू हुए।",
+      "tip_hi": "73वां संशोधन (पंचायत) 24 अप्रैल 1993 को लागू हुआ; नरसिम्हा राव के कार्यकाल के दौरान 1 जून 1993 को 74वां संशोधन (नगर पालिकाएं) लागू किया गया।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -22229,8 +22229,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 42nd संविधान संशोधन अधिनियम, 1976 curtailed judicial review powers of the सर्वोच्च न्यायालय and High Courts, declaring that constitutional amendments could not be questioned in court.",
-      "tip_hi": "42nd संशोधन (1976) is के रूप में जाना जाता है the 'Mini-Constitution'; judicial review powers were later restored by the 44th संशोधन (1978)."
+      "explanation_hi": "42वें संवैधानिक संशोधन अधिनियम, 1976 ने सर्वोच्च न्यायालय और उच्च न्यायालयों की न्यायिक समीक्षा शक्तियों को कम कर दिया, यह घोषणा करते हुए कि संवैधानिक संशोधनों पर अदालत में सवाल नहीं उठाया जा सकता है।",
+      "tip_hi": "42वें संशोधन (1976) को 'लघु-संविधान' के नाम से जाना जाता है; न्यायिक समीक्षा की शक्तियाँ बाद में 44वें संशोधन (1978) द्वारा बहाल कर दी गईं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School General Studies",
@@ -22256,8 +22256,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in 1942, जयप्रकाश नारायण (JP) established the underground guerrilla force 'Azad Dasta' at Bakro ka Tapu in Nepal to disrupt British communications.",
-      "tip_hi": "Radio transmitter broadcast was managed by राम मनोहर लोहिया, but the overall founder and supreme leader of Azad Dasta was जयप्रकाश नारायण."
+      "explanation_hi": "1942 में दिवाली की रात हज़ारीबाग़ सेंट्रल जेल से भागने के बाद, जयप्रकाश नारायण (जेपी) ने ब्रिटिश संचार को बाधित करने के लिए नेपाल के बकरो का टापू में भूमिगत गुरिल्ला बल 'आजाद दस्ता' की स्थापना की।",
+      "tip_hi": "रेडियो ट्रांसमीटर प्रसारण का प्रबंधन राम मनोहर लोहिया द्वारा किया जाता था, लेकिन आज़ाद दस्ता के समग्र संस्थापक और सर्वोच्च नेता जयप्रकाश नारायण थे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science",
@@ -22337,8 +22337,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In निकट दृष्टि दोष (मायोपिया), light rays converge in front of the रेटिना. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the रेटिना.",
-      "tip_hi": "निकट दृष्टि दोष (मायोपिया) (Near-sighted) = अवतल लेंस; दूर दृष्टि दोष (हाइपरमेट्रोपिया) (Far-sighted) = उत्तल लेंस; अबिंदुकता (एस्टिग्मैटिज्म) = Cylindrical Lens."
+      "explanation_hi": "मायोपिया में प्रकाश किरणें रेटिना के सामने एकत्रित होती हैं। किरणों को मोड़ने के लिए उपयुक्त फोकल शक्ति का एक अपसारी (अवतल) लेंस आंख के सामने रखा जाता है ताकि वे रेटिना पर तेजी से ध्यान केंद्रित कर सकें।",
+      "tip_hi": "मायोपिया (निकट दृष्टि) = अवतल लेंस; हाइपरमेट्रोपिया (दूरदृष्टि) = उत्तल लेंस; दृष्टिवैषम्य = बेलनाकार लेंस।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -22364,8 +22364,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "When the Congress initially declined to form a government over the राज्यपाल's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 अप्रैल 1937, serving until Sri Krishna Singh took oath on 20 जुलाई 1937.",
-      "tip_hi": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress मुख्यमंत्री = Sri Krishna Singh."
+      "explanation_hi": "जब कांग्रेस ने शुरू में राज्यपाल की विशेष वीटो शक्तियों पर सरकार बनाने से इनकार कर दिया, तो मोहम्मद यूनुस (मुस्लिम स्वतंत्र पार्टी के नेता) ने 1 अप्रैल 1937 को अंतरिम मंत्रालय का गठन किया, जो 20 जुलाई 1937 को श्री कृष्ण सिंह के शपथ लेने तक कार्यरत रहे।",
+      "tip_hi": "बिहार के प्रथम प्रधानमंत्री = मोहम्मद यूनुस (अंतरिम); प्रथम कांग्रेस मुख्यमंत्री = श्रीकृष्ण सिंह।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -22391,7 +22391,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Newton's सेकंड Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction जोड़े.",
+      "explanation_hi": "न्यूटन का गति का दूसरा नियम बल की मात्रात्मक परिभाषा देता है: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (निरंतर द्रव्यमान के लिए)। पहला नियम जड़ता को परिभाषित करता है, और तीसरा नियम क्रिया-प्रतिक्रिया युग्म को परिभाषित करता है।",
       "tip_hi": "पहला नियम = बल और जड़ता की परिभाषा; दूसरा नियम = बल का माप (F = ma); तीसरा नियम = क्रिया-प्रतिक्रिया।"
     },
     {
@@ -22445,7 +22445,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 213 empowers the राज्यपाल to promulgate an अध्यादेश when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. राष्ट्रपति's अध्यादेश power is under अनुच्छेद 123.",
+      "explanation_hi": "अनुच्छेद 213 राज्यपाल को उस समय अध्यादेश प्रख्यापित करने का अधिकार देता है जब राज्य विधान सभा (या द्विसदनीय विधायिका में दोनों सदन) सत्र में नहीं चल रहे हों। राष्ट्रपति की अध्यादेश की शक्ति अनुच्छेद 123 के अंतर्गत है।",
       "tip_hi": "अध्यादेश Powers: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
     },
     {
@@ -22499,7 +22499,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Founded in 1918 by डॉ. राजेंद्र प्रसाद and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
+      "explanation_hi": "1918 में डॉ. राजेंद्र प्रसाद और सच्चिदानंद सिन्हा द्वारा स्थापित, 'द सर्चलाइट' का संपादन मुरली मनोहर प्रसाद ने दशकों तक महान देशभक्तिपूर्ण विशिष्टता के साथ किया, और बिहार में सविनय अवज्ञा और किसान मुद्दों का समर्थन किया।",
       "tip_hi": "'द सर्चलाइट' संपादक = मुरली मनोहर प्रसाद; 'द मदरलैंड' के संस्थापक = मजहरुल हक।"
     },
     {
@@ -22581,7 +22581,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "फैजाबाद के मौलवी अहमदुल्ला शाह ने चिनहट में सर हेनरी लॉरेंस के नेतृत्व में ब्रिटिश सेना को हराकर अवध में हजारों लोगों को संगठित किया। ब्रिटिश अधिकारियों ने उन्हें एक साहसी योद्धा और एक अजेय शत्रु के रूप में सराहा।",
-      "tip_hi": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = बाबू कुंवर सिंह."
+      "tip_hi": "1857 नेता: फैजाबाद = मौलवी अहमदुल्ला शाह; बरेली = खान बहादुर खान; दिल्ली = बख्त खान; बिहार = बाबू कुँवर सिंह."
     }
   ],
   "bpsc-tre4-gkgs-math-set1": [
@@ -22609,8 +22609,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "भारी जल (D2O) (D2O / Deuterium oxide) functions as a मंदक (Moderator) in thermal nuclear reactors to slow down fast fission neutrons to thermal speeds without excessive neutron absorption.",
-      "tip_hi": "मंदक (Moderator) = slows down neutrons (D2O, Graphite); नियंत्रक छड़ें = absorbs neutrons (Cadmium, Boron)."
+      "explanation_hi": "भारी पानी (D2O / ड्यूटेरियम ऑक्साइड) थर्मल परमाणु रिएक्टरों में एक मॉडरेटर के रूप में कार्य करता है जो अत्यधिक न्यूट्रॉन अवशोषण के बिना तेज विखंडन न्यूट्रॉन को थर्मल गति तक धीमा कर देता है।",
+      "tip_hi": "मॉडरेटर = न्यूट्रॉन को धीमा कर देता है (D2O, ग्रेफाइट); नियंत्रण छड़ें = न्यूट्रॉन (कैडमियम, बोरॉन) को अवशोषित करती हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -22718,7 +22718,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "अखिल भारतीय कांग्रेस कमेटी ने 8 अगस्त 1942 को गोवालिया टैंक मैदान, बॉम्बे में ऐतिहासिक भारत छोड़ो प्रस्ताव की आधिकारिक पुष्टि की।",
-      "tip_hi": "8 अगस्त 1942 = Resolution passed ('Do or Die'); 9 अगस्त 1942 = Operation Zero घंटे arrests launched."
+      "tip_hi": "8 अगस्त 1942 = संकल्प पारित ('करो या मरो'); 9 अगस्त 1942 = ऑपरेशन जीरो आवर गिरफ्तारियां शुरू की गईं।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -22744,7 +22744,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Swami Vidyanand led peasant movements across उत्तर Bihar (particularly against the Darbhanga Raj) के दौरान the Non-Cooperation period (1919-1922).",
+      "explanation_hi": "स्वामी विद्यानंद ने असहयोग काल (1919-1922) के दौरान पूरे उत्तर बिहार (विशेषकर दरभंगा राज के खिलाफ) में किसान आंदोलनों का नेतृत्व किया।",
       "tip_hi": "चम्पारण 1917 = राज कुमार शुक्ल; असहयोग 1919-22 = स्वामी विद्यानन्द; किसान सभा 1929-36 = स्वामी सहजानन्द।"
     },
     {
@@ -22798,7 +22798,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Marine phytoplankton, algae, and oceanic vegetation contribute over 50-70% of atmospheric oxygen production through global marine प्रकाश संश्लेषण.",
+      "explanation_hi": "समुद्री फाइटोप्लांकटन, शैवाल और समुद्री वनस्पति वैश्विक समुद्री प्रकाश संश्लेषण के माध्यम से वायुमंडलीय ऑक्सीजन उत्पादन में 50-70% से अधिक का योगदान करते हैं।",
       "tip_hi": "स्थलीय वनों में चूक न करें; महासागर फाइटोप्लांकटन पृथ्वी की अधिकांश ऑक्सीजन का उत्पादन करता है।"
     },
     {
@@ -22825,8 +22825,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी inaugurated Bihar Vidyapeeth at Patna on 6th फरवरी 1921 के दौरान the Non-Cooperation Movement to promote national education.",
-      "tip_hi": "Mazharul Haque was the first Chancellor and डॉ. राजेंद्र प्रसाद was the first Principal of Bihar Vidyapeeth.\nAnswer Key Summary Table — Set 1 (Q.1 to Q.40)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+      "explanation_hi": "राष्ट्रीय शिक्षा को बढ़ावा देने के लिए असहयोग आंदोलन के दौरान 6 फरवरी 1921 को महात्मा गांधी ने पटना में बिहार विद्यापीठ का उद्घाटन किया।",
+      "tip_hi": "मज़हरुल हक पहले चांसलर थे और डॉ. राजेंद्र प्रसाद बिहार विद्यापीठ के पहले प्राचार्य थे।\nउत्तर कुंजी सारांश तालिका - सेट 1 (प्र.1 से प्र.40)\nप्र. नहीं.\nबीपीएससी संस्करण और पेपर उत्पत्ति\nकोर कॉन्सेप्ट का परीक्षण किया गया\nआधिकारिक कुंजी"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -22960,7 +22960,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 किमी (g = GM/R^2). Furthermore, अपकेंद्रीय बल due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
+      "explanation_hi": "पृथ्वी एक चपटा गोलाकार है जिसकी भूमध्यरेखीय त्रिज्या ध्रुवीय त्रिज्या से ~21 किमी (g = GM/R^2) अधिक है। इसके अलावा, पृथ्वी के घूमने के कारण केन्द्रापसारक बल ध्रुवों पर शून्य और भूमध्य रेखा पर अधिकतम होता है। परिणामस्वरूप, 'g' ध्रुवों पर अधिकतम (~9.83 m/s^2) और भूमध्य रेखा पर न्यूनतम (~9.78 m/s^2) होता है।",
       "tip_hi": "'जी' का मान: ध्रुवों पर अधिकतम, भूमध्य रेखा पर न्यूनतम, पृथ्वी के केंद्र पर शून्य।"
     },
     {
@@ -22987,7 +22987,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the गंगा नदी in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of डॉ. राजेंद्र प्रसाद.",
+      "explanation_hi": "मौलाना मजहरुल हक ने पटना के दीघा में गंगा के तट पर अपने उदार मित्र खैरुन मियां द्वारा दान किये गये आम के बगीचे पर सदाकत आश्रम का निर्माण कराया। बाद में इसने बिहार कांग्रेस के मुख्यालय और डॉ. राजेंद्र प्रसाद के सेवानिवृत्ति गृह के रूप में कार्य किया।",
       "tip_hi": "मजहरुल हक द्वारा स्थापित सदाकत आश्रम; खैरुन मियां द्वारा दान में दी गई जमीन।"
     },
     {
@@ -23041,8 +23041,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांवर झील (बेगूसराय) (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River. It was designated as India's 39th Ramsar site in जुलाई 2020.",
-      "tip_hi": "Bihar's 1st Ramsar Site = कांवर झील (बेगूसराय) / Kabartal (Begusarai, 2020; Oxbow lake of Burhi गंडक नदी)."
+      "explanation_hi": "बेगुसराय जिले में कांवर झील (कबरतल) एशिया की सबसे बड़ी मीठे पानी की ऑक्सबो झील है, जो बूढ़ी गंडक नदी के घुमावदार मोड़ से बनी है। इसे जुलाई 2020 में भारत की 39वीं रामसर साइट के रूप में नामित किया गया था।",
+      "tip_hi": "बिहार का पहला रामसर स्थल = कांवर झील/कबरतल (बेगूसराय, 2020; बूढ़ी गंडक की ऑक्सबो झील)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -23068,7 +23068,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Downstream speed (D) = 36 / 3 = 12 किमी/h. Upstream speed (U) = 24 / 4 = 6 किमी/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/h. (Speed of boat in still water = (12 + 6)/2 = 9 किमी/h).",
+      "explanation_hi": "डाउनस्ट्रीम गति (डी) = 36/3 = 12 किमी/घंटा। धारा के प्रतिकूल गति (यू) = 24/4 = 6 किमी/घंटा। धारा की गति = (डी - यू) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/घंटा। (शांत पानी में नाव की गति = (12 + 6)/2 = 9 किमी/घंटा)।",
       "tip_hi": "वर्तमान गति = (डाउनस्ट्रीम - अपस्ट्रीम) / 2 = (12 - 6) / 2 = 3 किमी/घंटा।"
     },
     {
@@ -23257,8 +23257,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "While 22 मार्च 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 अप्रैल 1912 with Sir Charles Stuart Bayley as Lieutenant राज्यपाल.",
-      "tip_hi": "Bihar Diwas = 22 मार्च; Administrative inception = 1 अप्रैल 1912."
+      "explanation_hi": "जबकि 22 मार्च 1912 को घोषणा की तारीख थी (बिहार दिवस के रूप में मनाई गई), बिहार और उड़ीसा प्रांत कानूनी रूप से अस्तित्व में आए और 1 अप्रैल 1912 को लेफ्टिनेंट गवर्नर के रूप में सर चार्ल्स स्टुअर्ट बेले के साथ प्रशासनिक रूप से कार्य करना शुरू किया।",
+      "tip_hi": "बिहार दिवस = 22 मार्च; प्रशासनिक स्थापना = 1 अप्रैल 1912."
     }
   ],
   "bpsc-tre4-gkgs-math-set2": [
@@ -23286,8 +23286,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq किमी), followed by Jamui (21.34%) and Nawada (20.72%). पश्चिम Champaran has the largest absolute forest area (903.34 sq किमी).",
-      "tip_hi": "Highest Forest प्रतिशत = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq किमी); Lowest forest = Sheikhpura."
+      "explanation_hi": "कैमूर जिला अपने 31.56% क्षेत्र पर वन क्षेत्र (1,051.56 वर्ग किमी) के साथ बिहार में सबसे आगे है, इसके बाद जमुई (21.34%) और नवादा (20.72%) का स्थान है। पश्चिम चंपारण में सबसे बड़ा पूर्ण वन क्षेत्र (903.34 वर्ग किमी) है।",
+      "tip_hi": "उच्चतम वन प्रतिशत = कैमूर (31.56%); उच्चतम निरपेक्ष वन क्षेत्र = कैमूर (1,051 वर्ग किमी); सबसे निचला जंगल = शेखपुरा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -23313,8 +23313,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 356(3) mandates that a proclamation of राष्ट्रपति's Rule ceases to operate at the expiration of 2 माह unless approved by resolutions of both लोकसभा and राज्यसभा by simple majority. National Emergency (Art. 352) requires approval within 1 माह.",
-      "tip_hi": "Approval deadline: National Emergency (Art. 352) = 1 माह; राष्ट्रपति's Rule (Art. 356) = 2 माह; Financial Emergency (Art. 360) = 2 माह."
+      "explanation_hi": "अनुच्छेद 356(3) में कहा गया है कि राष्ट्रपति शासन की उद्घोषणा 2 महीने की समाप्ति पर लागू नहीं होती जब तक कि इसे लोकसभा और राज्यसभा दोनों के प्रस्तावों द्वारा साधारण बहुमत से अनुमोदित नहीं किया जाता। राष्ट्रीय आपातकाल (अनुच्छेद 352) के लिए 1 महीने के भीतर अनुमोदन की आवश्यकता होती है।",
+      "tip_hi": "अनुमोदन की समय सीमा: राष्ट्रीय आपातकाल (अनुच्छेद 352) = 1 महीना; राष्ट्रपति शासन (अनुच्छेद 356) = 2 महीने; वित्तीय आपातकाल (अनुच्छेद 360) = 2 महीने।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -23475,8 +23475,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Domestic एलपीजी (द्रवीभूत पेट्रोलियम गैस) consists primarily of n-ब्यूटेन and isobutane (~60%) along with प्रोपेन (~40%). A मिनट quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
-      "tip_hi": "एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन; Odorant for leak detection = Ethyl Mercaptan."
+      "explanation_hi": "घरेलू एलपीजी में मुख्य रूप से एन-ब्यूटेन और आइसोब्यूटेन (~60%) के साथ-साथ प्रोपेन (~40%) होता है। गैस लीक का पता लगाने के लिए दुर्गंधयुक्त बदबूदार एजेंट के रूप में एथिल मर्कैप्टन (एथेनथियोल, C2H5SH) की एक मिनट की मात्रा मिलाई जाती है।",
+      "tip_hi": "एलपीजी = ब्यूटेन + प्रोपेन; रिसाव का पता लगाने के लिए गंधक = एथिल मर्कैप्टन।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -23502,8 +23502,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 50 obligates the State to take steps to separate the judiciary from the executive in public services. अनुच्छेद 40 deals with village panchayats, and अनुच्छेद 51 deals with international peace.",
-      "tip_hi": "अनुच्छेद 50 = Separation of Judiciary from Executive; अनुच्छेद 40 = Panchayats; अनुच्छेद 44 = Uniform Civil Code."
+      "explanation_hi": "अनुच्छेद 50 राज्य को सार्वजनिक सेवाओं में न्यायपालिका को कार्यपालिका से अलग करने के लिए कदम उठाने के लिए बाध्य करता है। अनुच्छेद 40 ग्राम पंचायतों से संबंधित है, और अनुच्छेद 51 अंतरराष्ट्रीय शांति से संबंधित है।",
+      "tip_hi": "अनुच्छेद 50 = न्यायपालिका का कार्यपालिका से पृथक्करण; अनुच्छेद 40 = पंचायतें; अनुच्छेद 44 = समान नागरिक संहिता."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -23610,7 +23610,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Time difference = 15 मिनट = 15/60 = 1/4 घंटे. Distance = (S1 * S2) / (S2 - S1) * Time difference = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 किमी.",
+      "explanation_hi": "समय का अंतर = 15 मिनट = 15/60 = 1/4 घंटा। दूरी = (एस1 * एस2) / (एस2 - एस1) * समय अंतर = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 किमी।",
       "tip_hi": "D = (4 * 6)/2 * (15/60) = 12 * (1/4) = 3 किमी."
     },
     {
@@ -23746,7 +23746,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "15, 20, 25 का एलसीएम = 300 इकाई क्षमता। A की दक्षता = +20, B = +15, C = -12 यूनिट/घंटा। शुद्ध प्रवाह = 20 + 15 - 12 = 23 यूनिट/घंटा। आवश्यक समय = 300/23 घंटे = 13.04 घंटे।",
-      "tip_hi": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 घंटे."
+      "tip_hi": "शुद्ध दर = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => समय = 300/23 घंटे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -23963,8 +23963,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Human Rights दिन is observed globally on 10th दिसम्बर to commemorate the adoption of the Universal Declaration of Human Rights (UDHR) by the UN General Assembly in 1948.",
-      "tip_hi": "24 अक्टूबर = United Nations दिन; 10 दिसम्बर = Human Rights दिन; 10 नवम्बर = World Science दिन for Peace."
+      "explanation_hi": "1948 में संयुक्त राष्ट्र महासभा द्वारा मानव अधिकारों की सार्वभौम घोषणा (यूडीएचआर) को अपनाने के उपलक्ष्य में 10 दिसंबर को विश्व स्तर पर मानवाधिकार दिवस मनाया जाता है।",
+      "tip_hi": "24 अक्टूबर = संयुक्त राष्ट्र दिवस; 10 दिसंबर = मानवाधिकार दिवस; 10 नवंबर = शांति के लिए विश्व विज्ञान दिवस।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -23991,7 +23991,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ताना भगत आंदोलन (1914) जात्रा भगत के नेतृत्व में छोटानागपुर की ओरांव जनजाति के बीच एक धार्मिक, कृषि और आदिवासी आंदोलन था, जो ब्रिटिश भूमि करों और साहूकारों का विरोध करता था।",
-      "tip_hi": "Tana Bhagats later allied with महात्मा गांधी's Non-Cooperation Movement, adopting non-violence and Khadi."
+      "tip_hi": "ताना भगत बाद में अहिंसा और खादी को अपनाते हुए महात्मा गांधी के असहयोग आंदोलन से जुड़ गए।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -24045,7 +24045,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "किसी भी घटना की प्रायिकता P(E) को 0 <= P(E) <= 1 को संतुष्ट करना होगा। -0.7 (नकारात्मक) और 1.2 (> 1) दोनों किसी घटना की प्रायिकताएं नहीं हो सकती हैं।",
-      "tip_hi": "Since both (B) and (C) violate the probability axiom [0, 1], Option (D) ('उपर्युक्त में से एक से अधिक') is correct."
+      "tip_hi": "चूँकि (बी) और (सी) दोनों संभाव्यता सिद्धांत [0, 1] का उल्लंघन करते हैं, विकल्प (डी) ('उपरोक्त में से एक से अधिक') सही है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -24179,8 +24179,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Due to Earth's elliptical orbit, the maximum distance (approx. 152 million किमी) occurs at Aphelion (अपसौर) around जुलाई 4. The closest distance occurs at Perihelion (उपसौर, Jan 3).",
-      "tip_hi": "Mnemonic: 'A'phelion = 'A'way (furthest, जुलाई 4); 'P'erihelion = 'P'ass (closest, जनवरी 3)."
+      "explanation_hi": "पृथ्वी की अण्डाकार कक्षा के कारण, अधिकतम दूरी (लगभग 152 मिलियन किमी) 4 जुलाई के आसपास एपेलियन (अप्सौर) में होती है। निकटतम दूरी पेरिहेलियन (उपसौर, 3 जनवरी) में होती है।",
+      "tip_hi": "स्मरणीय: 'ए'फेलियन = 'ए'वे (सबसे दूर, 4 जुलाई); 'पेरीहेलियन = 'पास' (निकटतम, 3 जनवरी)।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -24368,7 +24368,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी delivered his historic 'Do or Die' call at the Gowalia Tank Maidan in Bombay on 8th अगस्त 1942 while launching the Quit India Movement.",
+      "explanation_hi": "महात्मा गांधी ने भारत छोड़ो आंदोलन की शुरुआत करते हुए 8 अगस्त 1942 को बॉम्बे के गोवालिया टैंक मैदान में अपना ऐतिहासिक 'करो या मरो' आह्वान किया था।",
       "tip_hi": "असहयोग (1920) ने एक वर्ष में स्वराज का वादा किया; भारत छोड़ो (1942) ने 'करो या मरो' मंत्र के साथ पूर्ण और तत्काल वापसी की मांग की।"
     },
     {
@@ -24395,8 +24395,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मीथेन (CH4) accounts for 75% to 95% of compressed natural gas (CNG) and between 50% to 70% of biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) predominantly contains ब्यूटेन and प्रोपेन.",
-      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) (cooking gas cylinders) = ब्यूटेन and प्रोपेन (with ethyl mercaptan odorant)."
+      "explanation_hi": "मीथेन (CH4) संपीड़ित प्राकृतिक गैस (CNG) में 75% से 95% और बायोगैस (गोबर गैस) में 50% से 70% के बीच होता है। तरलीकृत पेट्रोलियम गैस (एलपीजी) में मुख्य रूप से ब्यूटेन और प्रोपेन होते हैं।",
+      "tip_hi": "सीएनजी और बायोगैस = मीथेन (CH4); एलपीजी (कुकिंग गैस सिलेंडर) = ब्यूटेन और प्रोपेन (एथिल मर्कैप्टन गंध के साथ)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Science",
@@ -24422,8 +24422,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, and renal tubule that filter blood and form urine.",
-      "tip_hi": "नेफ्रॉन (वृक्काणु) = वृक्क (गुर्दा) functional unit; Neuron = Nervous system unit; कूपिकाएं (एल्वियोली) = Respiratory gas exchange unit."
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग 1 से 1.2 मिलियन नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल और वृक्क नलिकाएं शामिल होती हैं जो रक्त को फ़िल्टर करती हैं और मूत्र बनाती हैं।",
+      "tip_hi": "नेफ्रॉन = किडनी कार्यात्मक इकाई; न्यूरॉन = तंत्रिका तंत्र इकाई; एल्वियोली = श्वसन गैस विनिमय इकाई।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -24449,8 +24449,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "वर्ण विक्षेपण occurs क्योंकि light of different wavelengths travels at different speeds through the glass prism, resulting in differing angles of deviation (violet deviates the most, red the least).",
-      "tip_hi": "Rainbow formation involves अपवर्तन, वर्ण विक्षेपण, and पूर्ण आंतरिक परावर्तन in raindrops."
+      "explanation_hi": "फैलाव इसलिए होता है क्योंकि विभिन्न तरंग दैर्ध्य का प्रकाश कांच के प्रिज्म के माध्यम से अलग-अलग गति से यात्रा करता है, जिसके परिणामस्वरूप विचलन के अलग-अलग कोण होते हैं (बैंगनी सबसे अधिक विचलन करता है, लाल सबसे कम)।",
+      "tip_hi": "इंद्रधनुष निर्माण में वर्षा की बूंदों में अपवर्तन, फैलाव और पूर्ण आंतरिक प्रतिबिंब शामिल होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -24476,7 +24476,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Standard Meridian of India passes through Mirzapur (near Prayagraj, UP) along 82°30' E longitude, जो कि 5 घंटे and 30 मिनट ahead of Greenwich Mean Time (UTC+05:30).",
+      "explanation_hi": "भारत की मानक मध्याह्न रेखा 82°30' पूर्व देशांतर के साथ मिर्ज़ापुर (प्रयागराज, यूपी के पास) से होकर गुजरती है, जो ग्रीनविच मीन टाइम (UTC+05:30) से 5 घंटे 30 मिनट आगे है।",
       "tip_hi": "82°30' पूर्व मध्याह्न रेखा 5 राज्यों से होकर गुजरती है: उत्तर प्रदेश, मध्य प्रदेश, छत्तीसगढ़, ओडिशा और आंध्र प्रदेश।"
     },
     {
@@ -24503,7 +24503,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांवर झील (बेगूसराय) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River, designated as a Ramsar site in जुलाई 2020.",
+      "explanation_hi": "बेगुसराय जिले में कंवर झील एशिया की सबसे बड़ी मीठे पानी की ऑक्सबो झील है, जो बूढ़ी गंडक नदी के घुमावदार मोड़ से बनी है, जिसे जुलाई 2020 में रामसर साइट के रूप में नामित किया गया है।",
       "tip_hi": "ऑक्सबो झील का निर्माण = बूढ़ी गंडक नदी; स्थान=बेगूसराय; महत्व = भारत का 39वाँ रामसर स्थल।"
     },
     {
@@ -24584,7 +24584,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formula for sum of interior angles of an n-sided polygon = (n - 2) * 180 डिग्री. For a hexagon (n = 6): (6 - 2) * 180 = 4 * 180 = 720 डिग्री.",
+      "explanation_hi": "n-भुजा वाले बहुभुज के आंतरिक कोणों के योग का सूत्र = (n - 2) * 180 डिग्री। एक षट्भुज के लिए (n = 6): (6 - 2) * 180 = 4 * 180 = 720 डिग्री।",
       "tip_hi": "एक नियमित षट्भुज का प्रत्येक आंतरिक कोण = 720/6 = 120 डिग्री।"
     },
     {
@@ -24640,7 +24640,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Cost price of 1 अनुच्छेद = 20/25 = ₹0.80. Selling price of 1 अनुच्छेद = 25/20 = ₹1.25. Profit per अनुच्छेद = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
+      "explanation_hi": "1 वस्तु का लागत मूल्य = 20/25 = ₹0.80. 1 वस्तु का विक्रय मूल्य = 25/20 = ₹1.25. प्रति वस्तु लाभ = 1.25 - 0.80 = ₹0.45। लाभ % = (0.45 / 0.80) * 100 = 56.25%।",
       "tip_hi": "क्रॉस-गुणा ट्रिक: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%।"
     },
     {
@@ -24748,8 +24748,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "ध्वनि तरंगें are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through निर्वात, जबकि electromagnetic waves (light) can.",
-      "tip_hi": "Speed of sound: ठोस > द्रव > गैस > निर्वात (zero)."
+      "explanation_hi": "ध्वनि तरंगें यांत्रिक अनुदैर्ध्य तरंगें हैं जिनके प्रसार के लिए जड़ता और लोच वाले भौतिक माध्यम की आवश्यकता होती है। ध्वनि निर्वात के माध्यम से यात्रा नहीं कर सकती, जबकि विद्युत चुम्बकीय तरंगें (प्रकाश) कर सकती हैं।",
+      "tip_hi": "ध्वनि की गति: ठोस > तरल पदार्थ > गैसें > निर्वात (शून्य)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -24775,7 +24775,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 सेकंड. Speed = 500 / 25 = 20 m/s. Converting to किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "explanation_hi": "तय की गई कुल दूरी = ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई = 240 + 260 = 500 मीटर। लिया गया समय = 25 सेकंड. गति = 500/25 = 20 मीटर/सेकेंड। किमी/घंटा में परिवर्तित करना = 20 * (18/5) = 72 किमी/घंटा।",
       "tip_hi": "दूरी = ट्रेन + प्लेटफार्म = 500 मीटर. गति = 500/25 = 20 मीटर/सेकंड * 18/5 = 72 किमी/घंटा।"
     },
     {
@@ -24803,7 +24803,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "माना मूलधन = P. दोगुना होने का अर्थ है 5 वर्षों में SI = P। 4 गुना बनने के लिए, राशि = 4P, इसलिए SI = 3P. चूँकि SI समय के सीधे आनुपातिक है: समय = 3 * 5 = 15 वर्ष।",
-      "tip_hi": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष."
+      "tip_hi": "सूत्र: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -24884,7 +24884,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जैसे-जैसे तारों का प्रकाश पृथ्वी के वायुमंडल की विभिन्न परतों से होकर गुजरता है, जिसमें भौतिक तापमान और अपवर्तक सूचकांक लगातार भिन्न होते हैं, प्रकाश का मार्ग लगातार झुकता है, जिससे चमक और स्थिति में स्पष्ट उतार-चढ़ाव होता है।",
-      "tip_hi": "Star twinkling = Atmospheric अपवर्तन; Advanced sunrise & delayed sunset = Atmospheric अपवर्तन."
+      "tip_hi": "तारा टिमटिमाना = वायुमंडलीय अपवर्तन; उन्नत सूर्योदय और विलंबित सूर्यास्त = वायुमंडलीय अपवर्तन।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -24910,7 +24910,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pure उदासीन water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are अम्लीय, and pH > 7 are alkaline.",
+      "explanation_hi": "शुद्ध तटस्थ पानी में H+ और OH- आयनों की समान सांद्रता होती है (प्रत्येक 25°C पर 10^-7 mol/L), जिससे pH = -log[H+] = 7 प्राप्त होता है। pH <7 वाले घोल अम्लीय होते हैं, और pH > 7 क्षारीय होते हैं।",
       "tip_hi": "तटस्थ पीएच = 7. मानव रक्त पीएच = 7.35-7.45; अम्लीय वर्षा pH <5.6."
     },
     {
@@ -24937,7 +24937,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formulated by Raymond Lindeman in 1942, के दौरान energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and श्वसन, leaving only ~10% stored as flesh for the next trophic level.",
+      "explanation_hi": "1942 में रेमंड लिंडमैन द्वारा तैयार, एक जैविक खाद्य स्रोत से उपभोक्ता तक ऊर्जा हस्तांतरण के दौरान, लगभग 90% ऊर्जा चयापचय गर्मी और श्वसन के रूप में नष्ट हो जाती है, जिससे अगले ट्रॉफिक स्तर के लिए मांस के रूप में केवल ~ 10% संग्रहीत होता है।",
       "tip_hi": "पोषी स्तरों के बीच ऊर्जा हस्तांतरण हमेशा ~10% होता है; खाद्य श्रृंखलाओं को 4-5 कड़ियों तक सीमित करता है।"
     },
     {
@@ -24964,7 +24964,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Operation गंगा नदी was launched in late फरवरी 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
+      "explanation_hi": "ऑपरेशन गंगा फरवरी 2022 के अंत में पड़ोसी देशों (पोलैंड, रोमानिया, हंगरी, स्लोवाकिया) के माध्यम से युद्धग्रस्त यूक्रेन से ~20,000 भारतीय नागरिकों, मुख्य रूप से मेडिकल छात्रों को निकालने के लिए शुरू किया गया था।",
       "tip_hi": "ऑपरेशन गंगा = यूक्रेन (2022); ऑपरेशन देवी शक्ति = अफगानिस्तान (2021); ऑपरेशन कावेरी = सूडान (2023)।"
     },
     {
@@ -24992,7 +24992,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मी/से. में गति = 54 * (5/18) = 15 मी/से. दूरी = गति * समय = 15 मी/से * 20 सेकण्ड = 300 मीटर।",
-      "tip_hi": "Multiply किमी/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m."
+      "tip_hi": "किमी/घंटा को 5/18 से गुणा करें: 54 * 5/18 = 15 मीटर/सेकेंड। 15 * 20 = 300 मी."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -25100,7 +25100,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "संयुक्त दर = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 टंकी प्रति मिनट। आवश्यक समय = 12 मिनट.",
-      "tip_hi": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट."
+      "tip_hi": "शॉर्टकट: (ए * बी)/(ए + बी) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -25180,7 +25180,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Time difference = 11 - 5 = 6 मिनट = 6/60 घंटे = 1/10 घंटे. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 किमी.",
+      "explanation_hi": "समय का अंतर = 11 - 5 = 6 मिनट = 6/60 घंटा = 1/10 घंटा। सूत्र: दूरी = (एस1 * एस2) / (एस2 - एस1) * समय अंतर = (40 * 50) / (50 - 40) * (1/10) = 2000/10 * 1/10 = 20 किमी।",
       "tip_hi": "दूरी = (एस1*एस2)/(एस2-एस1) * (डेल्टा टी) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी।"
     },
     {
@@ -25208,7 +25208,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "माना वर्तमान आयु 7x और 2x है। 10 वर्षों में: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. पिता की आयु = 7x = 7 * 5 = 35 वर्ष।",
-      "tip_hi": "Ratio units: (9-7)=2 units in 10 वर्ष => 1 unit = 5 वर्ष. Father = 7 units = 35 वर्ष."
+      "tip_hi": "अनुपात इकाइयाँ: (9-7)=10 वर्षों में 2 इकाइयाँ => 1 इकाई = 5 वर्ष। पिता = 7 इकाई = 35 वर्ष."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -25234,7 +25234,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 60 लीटर: Milk = 40 L, Water = 20 L. Let 'x' लीटर of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर.",
+      "explanation_hi": "60 लीटर में: दूध = 40 लीटर, पानी = 20 लीटर। मान लीजिए 'x' लीटर पानी मिलाया गया है। (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर।",
       "tip_hi": "दूध 40 लीटर पर स्थिर रहता है। 1:2 के अनुपात में, 1 इकाई = 40 लीटर, इसलिए पानी 2 इकाई = 80 लीटर होना चाहिए। जोड़ा गया पानी = 80 - 20 = 60 लीटर।"
     },
     {
@@ -25289,7 +25289,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "तीन गुना के लिए, 8 वर्षों में SI = 2P, इसलिए ब्याज दर = 2P/(P * 8) = 25%। 9 बार बनने पर SI = 8P. समय = 8पी/(पी*0.25) = 32 वर्ष।",
-      "tip_hi": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष."
+      "tip_hi": "शॉर्टकट: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष।"
     }
   ],
   "bpsc-tre4-gkgs-math-set5": [
@@ -25425,7 +25425,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A light वर्ष is the astronomical distance that light travels in निर्वात in one Julian वर्ष (approx. 9.46 * 10^12 किमी or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
+      "explanation_hi": "एक प्रकाश वर्ष वह खगोलीय दूरी है जो प्रकाश एक जूलियन वर्ष में निर्वात में तय करता है (लगभग 9.46 * 10^12 किमी या 9.46 * 10^15 मीटर)। यह खगोलीय दूरी की इकाई है, समय की नहीं।",
       "tip_hi": "प्रकाश वर्ष और पारसेक = खगोलीय दूरी की इकाइयाँ; 1 पारसेक ≈ 3.26 प्रकाश वर्ष।"
     },
     {
@@ -25452,8 +25452,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 280 mandates that the राष्ट्रपति shall constitute a वित्त आयोग every fifth वर्ष (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.",
-      "tip_hi": "वित्त आयोग = अनुच्छेद 280, appointed every 5 वर्ष by the राष्ट्रपति. 16th FC Chairman = Dr. Arvind Panagariya."
+      "explanation_hi": "अनुच्छेद 280 में कहा गया है कि राष्ट्रपति संघ और राज्यों के बीच शुद्ध कर आय के वितरण की सिफारिश करने के लिए हर पांचवें वर्ष (या उससे पहले) एक वित्त आयोग का गठन करेंगे।",
+      "tip_hi": "वित्त आयोग = अनुच्छेद 280, प्रत्येक 5 वर्ष में राष्ट्रपति द्वारा नियुक्त किया जाता है। 16वें एफसी अध्यक्ष = डॉ. अरविंद पनगढ़िया।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -25534,7 +25534,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "अंतर्वाह दर = 1/8 टैंक/घंटा। रिसाव के साथ शुद्ध प्रवाह = 1/10 टैंक/घंटा। रिसाव दर = 1/8 - 1/10 = (5 - 4)/40 = 1/40 टैंक/घंटा। पूरी टंकी खाली करने का समय = 40 घंटे.",
-      "tip_hi": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 घंटे."
+      "tip_hi": "रिसाव सूत्र: (ए * बी) / (बी - ए) = (8 * 10) / (10 - 8) = 80/2 = 40 घंटे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -25668,8 +25668,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime जोड़े whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 जोड़े are possible: (13, 156) and (39, 52).",
-      "tip_hi": "ab = 2028 / 13^2 = 12. Co-prime factor जोड़े of 12 = (1, 12) and (3, 4) => exactly 2 जोड़े."
+      "explanation_hi": "माना संख्याएँ 13a और 13b हैं, जहाँ a और b सह-अभाज्य हैं। उत्पाद = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. सह-अभाज्य जोड़े जिनका उत्पाद 12 है: (1, 12) और (3, 4)। (नोट: (2, 6) सह-अभाज्य नहीं हैं)। इस प्रकार, ठीक 2 जोड़े संभव हैं: (13, 156) और (39, 52)।",
+      "tip_hi": "एबी = 2028 / 13^2 = 12. 12 के सह-अभाज्य कारक जोड़े = (1, 12) और (3, 4) => बिल्कुल 2 जोड़े।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -25695,7 +25695,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On mixing with water, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform जिप्सम (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
+      "explanation_hi": "पानी के साथ मिश्रित होने पर, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) एक एक्ज़ोथिर्मिक जलयोजन प्रतिक्रिया से गुजरता है, जो जिप्सम (CaSO4 · 2H2O) को सुधारने के लिए पानी के 1.5 अणुओं के साथ पुनः संयोजित होता है, जो एक इंटरलॉकिंग सुई की तरह कठोर नेटवर्क में क्रिस्टलीकृत हो जाता है।",
       "tip_hi": "पीओपी सेटिंग = जिप्सम में पुनर्जलीकरण (CaSO4 · 2H2O)।"
     },
     {
@@ -25722,8 +25722,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in नवम्बर 1942, जयप्रकाश नारायण established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.",
-      "tip_hi": "Azad Dasta (Nepal, 1942) = जयप्रकाश नारायण (JP); Escaped from Hazaribagh Jail."
+      "explanation_hi": "नवंबर 1942 में दिवाली की रात हज़ारीबाग़ सेंट्रल जेल से भागने के बाद, जयप्रकाश नारायण ने सशस्त्र गुरिल्ला प्रशिक्षण और तोड़फोड़ संचार प्रदान करने के लिए नेपाल के तराई के बकरो का टापू क्षेत्र में आज़ाद दस्ता प्रशिक्षण शिविर की स्थापना की।",
+      "tip_hi": "आज़ाद दस्ता (नेपाल, 1942)=जयप्रकाश नारायण (जेपी); हज़ारीबाग़ जेल से भाग गये।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -25885,7 +25885,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कुल संभावित परिणाम = 6 * 6 = 36। योग 8 देने वाले अनुकूल परिणाम: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 परिणाम। प्रायिकता = 5/36.",
-      "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
+      "tip_hi": "जोड़ियों का योग 8 है: (2,6), (3,5), (4,4), (5,3), (6,2) = 36 में से बिल्कुल 5 जोड़े => 5/36।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -25912,7 +25912,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मी/से. में गति = 72 * (5/18) = 20 मी./से. एक बिंदु वस्तु (खड़े आदमी) को पार करने के लिए, दूरी = ट्रेन की लंबाई = 180 मीटर। समय = दूरी/गति = 180/20 = 9 सेकंड।",
-      "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
+      "tip_hi": "गति = 72 * 5/18 = 20 मीटर/सेकेंड। समय = 180/20 = 9 सेकंड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -25994,7 +25994,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In निर्वात, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 किमी/s).",
+      "explanation_hi": "निर्वात में, सभी विद्युत चुम्बकीय विकिरण मौलिक सार्वभौमिक भौतिक स्थिरांक c = 299,792,458 m/s ≈ 3 × 10^8 m/s (या 3 × 10^5 किमी/सेकेंड) पर यात्रा करते हैं।",
       "tip_hi": "प्रकाश की गति c = 3 × 10^8 मी/से = 3 × 10^5 किमी/सेकेंड।"
     },
     {
@@ -26048,8 +26048,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
-      "tip_hi": "वृक्क (गुर्दा) unit = नेफ्रॉन (वृक्काणु); Nervous system unit = Neuron; फेफड़े unit = Alveolus."
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग 1 से 1.2 मिलियन नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल, समीपस्थ कुंडलित नलिका, हेनले का लूप और दूरस्थ कुंडलित नलिका शामिल होते हैं।",
+      "tip_hi": "किडनी इकाई = नेफ्रॉन; तंत्रिका तंत्र इकाई = न्यूरॉन; फेफड़े की इकाई = एल्वोलस."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -26075,7 +26075,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "के दौरान the Non-Cooperation movement, महात्मा गांधी opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 फरवरी 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
+      "explanation_hi": "असहयोग आंदोलन के दौरान, महात्मा गांधी ने बिहार नेशनल कॉलेज खोला और 6 फरवरी 1921 को पटना में 'बिहार विद्यापीठ' का उद्घाटन किया, जिसमें मौलाना मजहरुल हक को चांसलर और ब्रजकिशोर प्रसाद को उप-कुलपति नियुक्त किया गया।",
       "tip_hi": "6 फरवरी 1921 को गांधी जी द्वारा बिहार विद्यापीठ का उद्घाटन; मजहरुल हक (चांसलर), ब्रजकिशोर प्रसाद (कुलपति)।"
     },
     {
@@ -26185,8 +26185,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from पश्चिम leads to दक्षिण-पश्चिम.",
-      "tip_hi": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from पश्चिम is दक्षिण-पश्चिम."
+      "explanation_hi": "शुद्ध घूर्णन = दक्षिणावर्त (45° + 180°) - वामावर्त (270°) = 225° - 270° = -45° (अर्थात् 45° वामावर्त)। पश्चिम से घड़ी की विपरीत दिशा में 45° मुड़ने पर दक्षिण-पश्चिम की ओर जाता है।",
+      "tip_hi": "शुद्ध कोण = 225° CW - 270° ACW = 45° ACW। पश्चिम से 45° वामावर्त दक्षिण-पश्चिम है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -26212,8 +26212,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "दक्षिण-पूर्व (135°) becomes उत्तर (0°/360°), जो कि an anti-clockwise rotation of 135°. Rotating पश्चिम (270°) by 135° anti-clockwise: 270° - 135° = 135° = दक्षिण-पूर्व.",
-      "tip_hi": "Rotation = 135° anti-clockwise. पश्चिम rotated 135° ACW becomes दक्षिण-पूर्व."
+      "explanation_hi": "दक्षिण-पूर्व (135°) उत्तर (0°/360°) बन जाता है, जो 135° का वामावर्त घूर्णन है। पश्चिम (270°) से 135° वामावर्त दिशा में घूमना: 270° - 135° = 135° = दक्षिण-पूर्व।",
+      "tip_hi": "घूर्णन = 135° वामावर्त। पश्चिम में 135° पर घुमाया गया ACW दक्षिण-पूर्व बन जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -26401,7 +26401,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In every 12-घंटे period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-घंटे दिन, they coincide 11 * 2 = 22 times.",
+      "explanation_hi": "प्रत्येक 12-घंटे की अवधि में, सूइयाँ ठीक 11 बार मेल खाती हैं (11:00 और 1:00 के बीच, वे 12:00 पर केवल एक बार मेल खाती हैं)। पूरे 24 घंटे के दिन में, वे 11 * 2 = 22 बार मेल खाते हैं।",
       "tip_hi": "12 घंटे में ओवरलैपिंग = 11 बार; 24 घंटे में ओवरलैपिंग = 22 बार।"
     },
     {
@@ -26428,8 +26428,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total दिन from 15 Aug 1947 to 26 Jan 1950 = 895 दिन. Dividing 895 by 7 gives 127 सप्ताह and 6 odd दिन. Friday + 6 दिन = Thursday.",
-      "tip_hi": "15 अगस्त 1947 = Friday; 26 जनवरी 1950 = Thursday."
+      "explanation_hi": "15 अगस्त 1947 से 26 जनवरी 1950 तक कुल दिन = 895 दिन। 895 को 7 से विभाजित करने पर 127 सप्ताह और 6 विषम दिन प्राप्त होते हैं। शुक्रवार + 6 दिन = गुरुवार.",
+      "tip_hi": "15 अगस्त 1947 = शुक्रवार; 26 जनवरी 1950 = गुरुवार."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -26482,8 +26482,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "At 4:00, the hands are 20 मिनट spaces apart. To coincide, the मिनट hand must gain 20 spaces over the घंटे hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) मिनट past 4.",
-      "tip_hi": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) मिनट past 4."
+      "explanation_hi": "4:00 बजे, सूइयां 20 मिनट की दूरी पर होती हैं। संयोग के लिए, मिनट की सुई को घंटे की सुई से 20 स्थान आगे बढ़ना चाहिए। समय = 20 * (60/55) = 20 * (12/11) = 240/11 = 4 बजकर 21(9/11) मिनट।",
+      "tip_hi": "शॉर्टकट: एम = (60/11) * एच = (60/11) * 4 = 240/11 = 4 बजकर 21(9/11) मिनट।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -26509,8 +26509,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "World Earth दिन is celebrated annually on अप्रैल 22 to mobilize global support for environmental protection. World Health दिन is अप्रैल 7 and World Ozone दिन is सितम्बर 16.",
-      "tip_hi": "Calendar of environment दिन: 22 मार्च = World Water दिन; 22 अप्रैल = World Earth दिन; 22 मई = International Biological Diversity दिन."
+      "explanation_hi": "पर्यावरण संरक्षण के लिए वैश्विक समर्थन जुटाने के लिए प्रतिवर्ष 22 अप्रैल को विश्व पृथ्वी दिवस मनाया जाता है। विश्व स्वास्थ्य दिवस 7 अप्रैल है और विश्व ओजोन दिवस 16 सितंबर है।",
+      "tip_hi": "पर्यावरण दिवसों का कैलेंडर: 22 मार्च = विश्व जल दिवस; 22 अप्रैल = विश्व पृथ्वी दिवस; 22 मई = अंतर्राष्ट्रीय जैविक विविधता दिवस."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -26727,8 +26727,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "2024 is a leap वर्ष (divisible by 4) containing 366 दिन (52 सप्ताह + 2 odd दिन). In a leap वर्ष, the last दिन of the वर्ष (31 Dec) is one दिन ahead of the first दिन (1 Jan). Monday + 1 दिन = Tuesday.",
-      "tip_hi": "Ordinary वर्ष: First दिन = Last दिन; Leap वर्ष: Last दिन = First दिन + 1 दिन = Monday + 1 = Tuesday."
+      "explanation_hi": "2024 एक लीप वर्ष (4 से विभाज्य) है जिसमें 366 दिन (52 सप्ताह + 2 विषम दिन) हैं। लीप वर्ष में, वर्ष का अंतिम दिन (31 दिसंबर) पहले दिन (1 जनवरी) से एक दिन आगे होता है। सोमवार + 1 दिन = मंगलवार.",
+      "tip_hi": "साधारण वर्ष: पहला दिन = अंतिम दिन; लीप वर्ष: अंतिम दिन = पहला दिन + 1 दिन = सोमवार + 1 = मंगलवार।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -26837,7 +26837,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बाबू कुंवर सिंह of Jagdishpur (Bhojpur) led the armed rebellion across Arrah, Patna, and Azamgarh until his death in अप्रैल 1858. His brother Amar Singh continued guerrilla warfare in Kaimur hills.",
+      "explanation_hi": "जगदीशपुर (भोजपुर) के बाबू कुँवर सिंह ने अप्रैल 1858 में अपनी मृत्यु तक आरा, पटना और आज़मगढ़ में सशस्त्र विद्रोह का नेतृत्व किया। उनके भाई अमर सिंह ने कैमूर पहाड़ियों में गुरिल्ला युद्ध जारी रखा।",
       "tip_hi": "BPSC ने बड़े पैमाने पर कुँवर सिंह का परीक्षण किया; 23 अप्रैल 1858 को कैप्टन ले ग्रैंड की उनकी ऐतिहासिक हार को याद करें।"
     },
     {
@@ -26864,8 +26864,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गांधी-इरविन समझौता (5 मार्च 1931) (Delhi Pact) हस्ताक्षरित हुआ था 5th मार्च 1931 between महात्मा गांधी and Viceroy Lord Irwin, resulting in suspension of the Civil Disobedience Movement.",
-      "tip_hi": "1931 Sequence: 5 मार्च (गांधी-इरविन समझौता (5 मार्च 1931)) -> 23 मार्च (भगत सिंह execution) -> 29 मार्च (Karachi Session)."
+      "explanation_hi": "5 मार्च 1931 को महात्मा गांधी और वायसराय लॉर्ड इरविन के बीच गांधी-इरविन संधि (दिल्ली संधि) पर हस्ताक्षर किए गए, जिसके परिणामस्वरूप सविनय अवज्ञा आंदोलन को निलंबित कर दिया गया।",
+      "tip_hi": "1931 अनुक्रम: 5 मार्च (गांधी-इरविन समझौता) -> 23 मार्च (भगत सिंह फांसी) -> 29 मार्च (कराची सत्र)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -26891,8 +26891,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Poona Pact हस्ताक्षरित हुआ था 24th सितम्बर 1932 at Yerwada Jail between डॉ. बी.आर. अम्बेडकर and मदन मोहन मालवीय, replacing separate electorates with reserved seats.",
-      "tip_hi": "Memorize the वर्ष 1932: Communal Award (अगस्त) -> Fast unto death -> Poona Pact (24 सितम्बर 1932)."
+      "explanation_hi": "पूना संधि पर 24 सितंबर 1932 को यरवदा जेल में डॉ. बी.आर. के बीच हस्ताक्षर किए गए थे। अम्बेडकर और मदन मोहन मालवीय ने अलग निर्वाचन क्षेत्रों की जगह आरक्षित सीटें ला दीं।",
+      "tip_hi": "वर्ष 1932 को याद करें: सांप्रदायिक निर्णय (अगस्त) -> आमरण अनशन -> पूना समझौता (24 सितंबर 1932)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -26918,8 +26918,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The slogan 'Inquilab Zindabad' was coined in 1921 by Urdu poet and freedom fighter Maulana मौलाना हसरत मोहानी, and later popularized across India by भगत सिंह.",
-      "tip_hi": "BPSC official key consistently attributes the creation/coining of this slogan to Maulana मौलाना हसरत मोहानी."
+      "explanation_hi": "'इंकलाब जिंदाबाद' का नारा 1921 में उर्दू कवि और स्वतंत्रता सेनानी मौलाना हसरत मोहानी द्वारा दिया गया था, और बाद में भगत सिंह द्वारा पूरे भारत में लोकप्रिय हुआ।",
+      "tip_hi": "BPSC की आधिकारिक कुंजी लगातार इस नारे के निर्माण/इस्तेमाल का श्रेय मौलाना हसरत मोहानी को देती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -26945,8 +26945,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "डॉ. राजेंद्र प्रसाद authored 'India Divided' in 1946 while detained at Bankipore Jail के दौरान Quit India, presenting a rigorous analysis opposing partition.",
-      "tip_hi": "Major books by डॉ. राजेंद्र प्रसाद: 'India Divided', 'Atmakatha', and 'Champaran Mein महात्मा गांधी'."
+      "explanation_hi": "भारत छोड़ो आंदोलन के दौरान बांकीपुर जेल में बंद रहने के दौरान डॉ. राजेंद्र प्रसाद ने 1946 में 'इंडिया डिवाइडेड' लिखी, जिसमें विभाजन का विरोध करते हुए एक कठोर विश्लेषण प्रस्तुत किया गया।",
+      "tip_hi": "डॉ. राजेंद्र प्रसाद की प्रमुख पुस्तकें: 'इंडिया डिवाइडेड', 'आत्मकथा' और 'चंपारण में महात्मा गांधी'।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -26999,7 +26999,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pandit जवाहरलाल नेहरू described the 1935 Act as a 'new charter of slavery' and a machine with 'all brakes, but no engine.' His name is missing, so (E) is correct.",
+      "explanation_hi": "पंडित जवाहरलाल नेहरू ने 1935 के अधिनियम को 'गुलामी का नया चार्टर' और 'सभी ब्रेक, लेकिन कोई इंजन नहीं' वाली मशीन बताया। उसका नाम गायब है, इसलिए (ई) सही है।",
       "tip_hi": "प्रसिद्ध उद्धरण जिनके लेखक विकल्प (ए), (बी), और (सी) से अनुपस्थित हैं, क्लासिक बीपीएससी विकल्प (ई) ट्रिगर हैं।"
     },
     {
@@ -27027,7 +27027,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कैप्टन मोहन सिंह ने 1942 में मलाया में प्रथम भारतीय राष्ट्रीय सेना की स्थापना की। बाद में सुभाष चंद्र बोस ने इसे पुनर्गठित किया और 1943 में इसकी कमान संभाली।",
-      "tip_hi": "Founder = Captain Mohan Singh; Supreme Commander & Reorganizer = Netaji सुभाष चंद्र बोस."
+      "tip_hi": "संस्थापक = कैप्टन मोहन सिंह; सर्वोच्च कमांडर एवं पुनर्गठनकर्ता =नेताजी सुभाष चंद्र बोस।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -27053,8 +27053,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बंकिम चंद्र चटर्जी's novel 'Anandamath' (1882) is set के दौरान the Bengal famine of 1770 and depicts the Sannyasi and Fakir Rebellion (1763-1800).",
-      "tip_hi": "India's national song 'Vande Mataram' was originally written by बंकिम चंद्र चटर्जी in 'Anandamath'."
+      "explanation_hi": "बंकिम चंद्र चटर्जी का उपन्यास 'आनंदमठ' (1882) 1770 के बंगाल के अकाल के समय पर आधारित है और इसमें संन्यासी और फकीर विद्रोह (1763-1800) को दर्शाया गया है।",
+      "tip_hi": "भारत का राष्ट्रीय गीत 'वंदे मातरम' मूल रूप से बंकिम चंद्र चटर्जी द्वारा 'आनंदमठ' में लिखा गया था।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -27107,7 +27107,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Scottish watchmaker David Hare, along with राजा राममोहन राय and Radhakanta Deb, founded Hindu College in Calcutta in 1817.",
+      "explanation_hi": "स्कॉटिश घड़ी निर्माता डेविड हेयर ने राजा राम मोहन राय और राधाकांत देब के साथ मिलकर 1817 में कलकत्ता में हिंदू कॉलेज की स्थापना की।",
       "tip_hi": "जोनाथन डंकन ने 1791 में वाराणसी में संस्कृत कॉलेज की स्थापना की; डेरोजियो हिंदू कॉलेज में पढ़ाते थे।"
     },
     {
@@ -27161,7 +27161,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 3 जुलाई 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 जुलाई 1857.",
+      "explanation_hi": "3 जुलाई 1857 को, पीर अली खान ने ब्रिटिश शासन के खिलाफ पटना शहर में एक सशस्त्र विद्रोह का नेतृत्व किया, जिसमें डॉ. लिएल की मौत हो गई। उन्हें पकड़ लिया गया, साथियों के नामों का खुलासा करने से इनकार कर दिया गया और 7 जुलाई 1857 को सार्वजनिक रूप से फांसी दे दी गई।",
       "tip_hi": "1857 पटना शहर विद्रोह के नेता = पीर अली खान (कमिश्नर विलियम टायलर द्वारा फाँसी)।"
     },
     {
@@ -27188,8 +27188,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in फरवरी 1923 with Narayan Prasad as राष्ट्रपति and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.",
-      "tip_hi": "Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first मुख्यमंत्री of Bihar)."
+      "explanation_hi": "गया कांग्रेस विभाजन के बाद, फरवरी 1923 में बिहार में स्वराज पार्टी की एक शाखा स्थापित की गई, जिसके अध्यक्ष नारायण प्रसाद और सचिव अब्दुल बारी थे, जिसका विधान परिषद में राजनीतिक नेतृत्व डॉ. श्रीकृष्ण सिंह ने किया।",
+      "tip_hi": "स्वराज दल बिहार शाखा (1923) = श्रीकृष्ण सिंह (बिहार के पहले मुख्यमंत्री) के नेतृत्व में।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -27215,8 +27215,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress राष्ट्रपति continuously from 1940 to 1946 के दौरान World War II.",
-      "tip_hi": "1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (राष्ट्रपति continuously 1940-46)."
+      "explanation_hi": "मौलाना अबुल कलाम आज़ाद ने ऐतिहासिक 1940 के रामगढ़ सत्र की अध्यक्षता की, जहाँ कांग्रेस ने घोषणा की कि पूर्ण स्वतंत्रता से कम कुछ भी स्वीकार्य नहीं होगा। वे द्वितीय विश्व युद्ध के दौरान 1940 से 1946 तक लगातार कांग्रेस अध्यक्ष रहे।",
+      "tip_hi": "1940 रामगढ़ कांग्रेस अधिवेशन = मौलाना अबुल कलाम आज़ाद (लगातार 1940-46 तक अध्यक्ष)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -27269,8 +27269,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "उत्तर 10 किमी (+10y) -> पश्चिम 6 किमी (-6x) -> दक्षिण 10 किमी (-10y). Net displacement = -6x = 6 किमी due पश्चिम of starting position.",
-      "tip_hi": "Vertical movements (+10 किमी उत्तर and -10 किमी दक्षिण) cancel out; leaves 6 किमी पश्चिम."
+      "explanation_hi": "उत्तर 10 किमी (+10 वर्ष) -> पश्चिम 6 किमी (-6x) -> दक्षिण 10 किमी (-10 वर्ष)। शुद्ध विस्थापन = -6x = प्रारंभिक स्थिति के पश्चिम में 6 किमी।",
+      "tip_hi": "लंबवत गतिविधियां (+10 किमी उत्तर और -10 किमी दक्षिण) रद्द हो जाती हैं; 6 किमी पश्चिम की ओर निकलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -27296,8 +27296,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 अप्रैल 1917 and went to the residence of डॉ. राजेंद्र प्रसाद (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.",
-      "tip_hi": "Gandhi in Patna (10 अप्रैल 1917) visited डॉ. राजेंद्र प्रसाद's residence first with Raj Kumar Shukla."
+      "explanation_hi": "राज कुमार शुक्ला के साथ, गांधी 10 अप्रैल 1917 को पटना पहुंचे और डॉ. राजेंद्र प्रसाद (जो उस समय पुरी में थे) के आवास पर गए। उस शाम बाद में, उनके लंदन के पूर्व सहपाठी मौलाना मज़हरुल हक उनसे मिले और उन्हें अपने घर ले गए।",
+      "tip_hi": "गांधी जी पटना में (10 अप्रैल 1917) राज कुमार शुक्ल के साथ सबसे पहले डॉ. राजेंद्र प्रसाद के आवास पर गये।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -27323,8 +27323,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. राम मनोहर लोहिया) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in नवम्बर 1942.",
-      "tip_hi": "Underground Congress Radio (1942) = Usha Mehta and Dr. राम मनोहर लोहिया."
+      "explanation_hi": "डॉ. उषा मेहता (बाबूभाई प्रसाद, विट्ठलभाई झावेरी और डॉ. राम मनोहर लोहिया के साथ) ने नवंबर 1942 में अपनी गिरफ्तारी तक बंबई में गुप्त स्थानों से 42.34 मीटर बैंड पर गुप्त भूमिगत कांग्रेस रेडियो प्रसारण की स्थापना की।",
+      "tip_hi": "अंडरग्राउंड कांग्रेस रेडियो (1942) = उषा मेहता और डॉ. राम मनोहर लोहिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -27351,7 +27351,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "राज कुमार शुक्ल ने दिसंबर 1916 में लखनऊ में 31वें कांग्रेस अधिवेशन में बृजकिशोर प्रसाद के साथ भाग लिया और गांधीजी को नील किसानों की शिकायतों से अवगत कराया और उनसे चंपारण आने का वादा लिया।",
-      "tip_hi": "1916 Lucknow Session = Raj Kumar Shukla invited महात्मा गांधी to Champaran."
+      "tip_hi": "1916 लखनऊ अधिवेशन = राज कुमार शुक्ल ने महात्मा गांधी को चंपारण में आमंत्रित किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -27377,7 +27377,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan पश्चिम Bengal hills, receives the highest annual rainfall in the State (>180 सेमी to 200 सेमी).",
+      "explanation_hi": "उप-हिमालयी पश्चिम बंगाल की पहाड़ियों से सटे बिहार की चरम उत्तरपूर्वी सीमा पर स्थित किशनगंज में राज्य में सबसे अधिक वार्षिक वर्षा (>180 सेमी से 200 सेमी) होती है।",
       "tip_hi": "बिहार में सर्वाधिक वर्षा = किशनगंज; सबसे कम वर्षा = औरंगाबाद/अरवल."
     },
     {
@@ -27458,7 +27458,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gandhi opened his first primary school on 14 नवम्बर 1917 at Barharwa Lakhansen (20 miles पूर्व of Motihari) with teachers Babasaheb Soman and Sadashiv Lakshman Purohit. His सेकंड school was opened on 20 नवम्बर 1917 at Bhitiharwa.",
+      "explanation_hi": "गांधी जी ने अपना पहला प्राथमिक विद्यालय 14 नवंबर 1917 को बरहरवा लखनसेन (मोतिहारी से 20 मील पूर्व) में शिक्षकों बाबासाहेब सोमन और सदाशिव लक्ष्मण पुरोहित के साथ खोला। उनका दूसरा स्कूल 20 नवंबर 1917 को भितिहरवा में खोला गया।",
       "tip_hi": "चंपारण में गांधीजी द्वारा पहला स्कूल = बरहरवा लखनसेन (14 नवंबर 1917); दूसरा विद्यालय = भितिहरवा."
     },
     {
@@ -27486,7 +27486,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बागमती नदी बिहार में सीतामढी जिले के शोरवट के पास प्रवेश करती है और कोसी/कमला नदी प्रणाली में शामिल होने से पहले शिवहर, मुजफ्फरपुर और दरभंगा से होकर बहती है।",
-      "tip_hi": "Bagmati enters Bihar at Sitamarhi; गंडक नदी enters at पश्चिम Champaran; Kamla enters at Madhubani (Jayanagar)."
+      "tip_hi": "बागमती का बिहार में सीतामढी में प्रवेश; गंडक पश्चिमी चंपारण में प्रवेश कर गयी है; कमला का प्रवेश मधुबनी (जयनगर) में होता है।"
     }
   ],
   "bpsc-tre4-gkgs-history-set2": [
@@ -27514,8 +27514,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Smt. Droupadi Murmu, belonging to the Santhal tribal community of Mayurbhanj, Odisha and former राज्यपाल of Jharkhand, was sworn in on 25 जुलाई 2022 as the 15th राष्ट्रपति of India.",
-      "tip_hi": "15th राष्ट्रपति of India = Smt. Droupadi Murmu (First tribal and सेकंड woman राष्ट्रपति after Pratibha Patil)."
+      "explanation_hi": "श्रीमती ओडिशा के मयूरभंज के संथाल आदिवासी समुदाय से आने वाली और झारखंड की पूर्व राज्यपाल द्रौपदी मुर्मू ने 25 जुलाई 2022 को भारत के 15वें राष्ट्रपति के रूप में शपथ ली।",
+      "tip_hi": "भारत के 15वें राष्ट्रपति = श्रीमती द्रौपदी मुर्मू (प्रतिभा पाटिल के बाद पहली आदिवासी और दूसरी महिला राष्ट्रपति)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -27541,8 +27541,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Three rivers form parts of the natural boundary between Bihar and Uttar Pradesh: the गंडक नदी (in पश्चिम Champaran), the घाघरा नदी (in Saran/Siwan), and the Karmanasa (in Kaimur/Buxar). Since all three form boundaries, (D) is the official key.",
-      "tip_hi": "Border rivers between Bihar & UP = गंडक नदी, घाघरा नदी, Karmanasa. Option (D) उपर्युक्त में से एक से अधिक."
+      "explanation_hi": "तीन नदियाँ बिहार और उत्तर प्रदेश के बीच प्राकृतिक सीमा का हिस्सा हैं: गंडक (पश्चिम चंपारण में), घाघरा (सारन/सीवान में), और कर्मनाशा (कैमूर/बक्सर में)। चूँकि तीनों सीमाएँ बनाते हैं, (D) आधिकारिक कुंजी है।",
+      "tip_hi": "बिहार और यूपी के बीच की सीमावर्ती नदियाँ = गंडक, घाघरा, कर्मनाशा। विकल्प (डी) उपरोक्त में से एक से अधिक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -27568,7 +27568,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sheel Bhadra Yagee of Bakhtiyarpur (Patna) was सुभाष चंद्र बोस's trusted associate in Bihar, founding member and राष्ट्रपति of the All India Forward Bloc, actively participating in the INA movement.",
+      "explanation_hi": "बख्तियारपुर (पटना) के शील भद्र यागी बिहार में सुभाष चंद्र बोस के भरोसेमंद सहयोगी, अखिल भारतीय फॉरवर्ड ब्लॉक के संस्थापक सदस्य और अध्यक्ष थे, जो आईएनए आंदोलन में सक्रिय रूप से भाग ले रहे थे।",
       "tip_hi": "बिहार से फॉरवर्ड ब्लॉक/आईएनए नेता = शील भद्र यागी।"
     },
     {
@@ -27812,7 +27812,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "दिसंबर 1916 में कांग्रेस के 31वें लखनऊ सत्र में चंपारण कृषि संकट को उठाया गया और औपचारिक रूप से चर्चा की गई। चूंकि लखनऊ 1916 अनुपस्थित है, (ई) उत्तर है।",
-      "tip_hi": "At Lucknow 1916, Raj Kumar Shukla met महात्मा गांधी and urged him to visit Champaran."
+      "tip_hi": "1916 में लखनऊ में राज कुमार शुक्ल ने महात्मा गांधी से मुलाकात की और उनसे चंपारण आने का आग्रह किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -27838,8 +27838,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Bihar plains (both उत्तर Bihar Plains and दक्षिण Bihar Plains, comprising Magadha and Anga) form the core of the Middle गंगा नदी Plain.",
-      "tip_hi": "Upper गंगा नदी = UP पश्चिम of Allahabad; Middle गंगा नदी = Eastern UP and Bihar; Lower गंगा नदी = पश्चिम Bengal and Delta."
+      "explanation_hi": "बिहार का मैदान (उत्तर बिहार का मैदान और दक्षिण बिहार का मैदान, जिसमें मगध और अंगा शामिल हैं) मध्य गंगा के मैदान का मुख्य भाग हैं।",
+      "tip_hi": "ऊपरी गंगा = इलाहाबाद के पश्चिम में उत्तर प्रदेश; मध्य गंगा = पूर्वी उत्तर प्रदेश और बिहार; निचली गंगा = पश्चिम बंगाल और डेल्टा।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -27892,7 +27892,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Anandamath was published as a book in 1882 in Bengali by बंकिम चंद्र चटर्जी, inspiring nationalist pride through the hymn 'Vande Mataram'.",
+      "explanation_hi": "आनंदमठ को 1882 में बंकिम चंद्र चटर्जी द्वारा बंगाली में एक पुस्तक के रूप में प्रकाशित किया गया था, जो 'वंदे मातरम' भजन के माध्यम से राष्ट्रवादी गौरव को प्रेरित करता था।",
       "tip_hi": "1875-76 = 'वंदे मातरम' लिखा गया; 1882 = 'आनंदमठ' प्रकाशित; 1896 = कलकत्ता कांग्रेस अधिवेशन में गाया गया।"
     },
     {
@@ -27946,7 +27946,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "King George V announced the annulment/reversal of the Partition of Bengal at the Delhi Durbar in दिसम्बर 1911 के दौरान the viceroyalty of Lord Hardinge II.",
+      "explanation_hi": "किंग जॉर्ज पंचम ने दिसंबर 1911 में लॉर्ड हार्डिंग द्वितीय के वायसराय काल के दौरान दिल्ली दरबार में बंगाल विभाजन को रद्द/बदलने की घोषणा की।",
       "tip_hi": "1905 विभाजन = लार्ड कर्जन; 1909 मॉर्ले-मिंटो सुधार = लॉर्ड मिंटो; 1911 विलोपन = लॉर्ड हार्डिंग।"
     },
     {
@@ -27974,7 +27974,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "परसों = सोमवार -> कल = मंगलवार -> आज = ​​बुधवार -> कल = गुरुवार -> परसों = शुक्रवार।",
-      "tip_hi": "Count displacement from 'दिन before yesterday' (-2) to 'दिन after tomorrow' (+2): total +4 दिन. Monday + 4 दिन = Friday."
+      "tip_hi": "'परसों से पहले' (-2) से 'परसों' (+2) तक विस्थापन की गणना करें: कुल +4 दिन। सोमवार + 4 दिन = शुक्रवार."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -28000,7 +28000,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The intellectual reform movement of Brahmo Samaj founded by राजा राममोहन राय was predominantly confined to the urban educated middle class (Bhadralok) in Calcutta.",
+      "explanation_hi": "राजा राम मोहन राय द्वारा स्थापित ब्रह्म समाज का बौद्धिक सुधार आंदोलन मुख्य रूप से कलकत्ता में शहरी शिक्षित मध्यम वर्ग (भद्रलोक) तक ही सीमित था।",
       "tip_hi": "आर्य समाज ने पंजाब/यूपी में व्यापक ग्रामीण और जन लोकप्रियता हासिल की; ब्रह्म समाज मुख्य रूप से एक शहरी बौद्धिक अभिजात्य आंदोलन था।"
     },
     {
@@ -28027,8 +28027,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "गोपाल कृष्ण गोखले was the political mentor and guru of महात्मा गांधी, who advised him to travel across India for one वर्ष to understand ground realities. Gokhale is omitted from (A), (B), and (C).",
-      "tip_hi": "Gandhi's Political Guru = गोपाल कृष्ण गोखले; Gokhale's Political Guru = Justice M.G. Ranade. When Gokhale is not in A, B, or C, select Option (E).\nAnswer Key Summary Table — Set 3 (Q.81 to Q.120)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+      "explanation_hi": "गोपाल कृष्ण गोखले महात्मा गांधी के राजनीतिक गुरु और गुरु थे, जिन्होंने उन्हें जमीनी हकीकत समझने के लिए एक साल के लिए पूरे भारत की यात्रा करने की सलाह दी थी। गोखले को (ए), (बी), और (सी) से हटा दिया गया है।",
+      "tip_hi": "गांधी जी के राजनीतिक गुरु = गोपाल कृष्ण गोखले; गोखले के राजनीतिक गुरु = न्यायमूर्ति एम.जी. रानाडे. जब गोखले ए, बी या सी में नहीं हैं, तो विकल्प (ई) चुनें।\nउत्तर कुंजी सारांश तालिका - सेट 3 (प्र.81 से प्र.120)\nप्र. नहीं.\nबीपीएससी संस्करण और पेपर उत्पत्ति\nकोर कॉन्सेप्ट का परीक्षण किया गया\nआधिकारिक कुंजी"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5)",
@@ -28055,7 +28055,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पटना में एक देशभक्त पुस्तक विक्रेता, पीर अली खान ने 3 जुलाई 1857 को अंग्रेजों के खिलाफ सशस्त्र विद्रोह का आयोजन और नेतृत्व किया। उन्हें पकड़ लिया गया और कमिश्नर विलियम टायलर ने सार्वजनिक रूप से फांसी दे दी।",
-      "tip_hi": "Distinguish Patna leadership: Pir Ali Khan led the urban uprising in Patna city, जबकि बाबू कुंवर सिंह led the wider regional movement in Jagdishpur/Shahabad."
+      "tip_hi": "पटना के विशिष्ट नेतृत्व: पीर अली खान ने पटना शहर में शहरी विद्रोह का नेतृत्व किया, जबकि बाबू कुँवर सिंह ने जगदीशपुर/शाहाबाद में व्यापक क्षेत्रीय आंदोलन का नेतृत्व किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -28081,7 +28081,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Raj Kumar Shukla, an exploited peasant leader from Champaran, met महात्मा गांधी at the Lucknow Congress Session in दिसम्बर 1916 and persistently urged him to visit Champaran.",
+      "explanation_hi": "चंपारण के एक शोषित किसान नेता राज कुमार शुक्ल ने दिसंबर 1916 में लखनऊ कांग्रेस सत्र में महात्मा गांधी से मुलाकात की और उनसे चंपारण आने का आग्रह किया।",
       "tip_hi": "राज कुमार शुक्ल के निरंतर अनुनय के कारण सीधे 1917 का ऐतिहासिक चंपारण सत्याग्रह हुआ, जो भारत में गांधीजी का पहला सत्याग्रह प्रयोग था।"
     },
     {
@@ -28135,7 +28135,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the Gaya Congress Session of 1922, a Bihar branch of the Swaraj Party was established in फरवरी 1923 under the leadership of Dr. Shri Krishna Singh (first Premier/मुख्यमंत्री of Bihar).",
+      "explanation_hi": "1922 के गया कांग्रेस अधिवेशन के बाद, फरवरी 1923 में डॉ. श्रीकृष्ण सिंह (बिहार के प्रथम प्रधानमंत्री/मुख्यमंत्री) के नेतृत्व में स्वराज पार्टी की एक बिहार शाखा की स्थापना की गई।",
       "tip_hi": "राष्ट्रीय संस्थापक = सी.आर. दास और मोतीलाल नेहरू; बिहार नेता = डॉ. श्रीकृष्ण सिंह ('बिहार केसरी')."
     },
     {
@@ -28162,8 +28162,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Tropic of Cancer traverses 8 Indian States from पश्चिम to पूर्व: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, and Mizoram.",
-      "tip_hi": "Mnemonic from पश्चिम to पूर्व: 'GRM-CJ-WTM' -> Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, Mizoram."
+      "explanation_hi": "कर्क रेखा पश्चिम से पूर्व तक 8 भारतीय राज्यों से होकर गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
+      "tip_hi": "पश्चिम से पूर्व तक स्मरक: 'जीआरएम-सीजे-डब्ल्यूटीएम' -> गुजरात, राजस्थान, एमपी, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा, मिजोरम।"
     }
   ],
   "bpsc-tre4-gkgs-history-set3": [
@@ -28192,7 +28192,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "सोमेश्वर पहाड़ियाँ शिवालिक हिमालय की तलहटी का प्रतिनिधित्व करती हैं जो पश्चिम चंपारण जिले की उत्तरी सीमा तक फैली हुई है, जो सोमेश्वर किले (880 मीटर) पर समाप्त होती है।",
-      "tip_hi": "वाल्मीकि राष्ट्रीय उद्यान and Tiger Reserve, Bihar's only national park, is also situated in the Someshwar-Doon range in पश्चिम Champaran."
+      "tip_hi": "बिहार का एकमात्र राष्ट्रीय उद्यान, वाल्मिकी राष्ट्रीय उद्यान और टाइगर रिजर्व भी पश्चिम चंपारण में सोमेश्वर-दून रेंज में स्थित है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -28218,8 +28218,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंगा नदी enters Bihar near Chausa in Buxar district from Uttar Pradesh and traverses 445 किमी eastward across 12 districts before exiting via Katihar into पश्चिम Bengal.",
-      "tip_hi": "गंगा नदी in Bihar: Enters at Buxar (Chausa), longest stretch in Patna district (approx. 99 किमी), exits at Katihar/Bhagalpur."
+      "explanation_hi": "गंगा उत्तर प्रदेश से बक्सर जिले के चौसा के पास बिहार में प्रवेश करती है और पश्चिम बंगाल में कटिहार से बाहर निकलने से पहले 12 जिलों से होकर 445 किमी पूर्व की ओर बहती है।",
+      "tip_hi": "बिहार में गंगा: पटना जिले की सबसे लंबी दूरी (लगभग 99 किमी) बक्सर (चौसा) में प्रवेश करती है, कटिहार/भागलपुर में निकलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary Political Science",
@@ -28245,8 +28245,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री जवाहरलाल नेहरू inaugurated democratic decentralization via the 3-tier पंचायती राज system on महात्मा गांधी's birthday in 1959 at Nagaur, Rajasthan, following the Balwant Rai Mehta Committee report.",
-      "tip_hi": "1st State to adopt पंचायती राज = Rajasthan (Oct 1959); 2nd State = Andhra Pradesh (Nov 1959)."
+      "explanation_hi": "बलवंत राय मेहता समिति की रिपोर्ट के बाद, प्रधान मंत्री जवाहरलाल नेहरू ने 1959 में राजस्थान के नागौर में महात्मा गांधी के जन्मदिन पर 3-स्तरीय पंचायती राज प्रणाली के माध्यम से लोकतांत्रिक विकेंद्रीकरण का उद्घाटन किया।",
+      "tip_hi": "पंचायती राज अपनाने वाला पहला राज्य = राजस्थान (अक्टूबर 1959); दूसरा राज्य = आंध्र प्रदेश (नवंबर 1959)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -28272,7 +28272,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Initial direction = पूर्व. Turning right from पूर्व turns him to face दक्षिण. Turning left from दक्षिण turns him back to face पूर्व.",
+      "explanation_hi": "प्रारंभिक दिशा = पूर्व. पूर्व से दाएं मुड़ने पर उसका मुख दक्षिण की ओर हो जाता है। दक्षिण से बायीं ओर मुड़ने पर वह वापस पूर्व की ओर मुड़ जाता है।",
       "tip_hi": "दाएँ मोड़ (+90 डिग्री) के बाद बाएँ मोड़ (-90 डिग्री) रद्द हो जाता है; मुख दिशा पूर्व रहती है."
     },
     {
@@ -28299,7 +28299,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Announced at the Delhi Durbar in दिसम्बर 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 अप्रैल 1912. Orissa was subsequently separated from Bihar on 1 अप्रैल 1936.",
+      "explanation_hi": "किंग जॉर्ज पंचम द्वारा दिसंबर 1911 में दिल्ली दरबार में घोषणा की गई कि बिहार और उड़ीसा को औपचारिक रूप से 1 अप्रैल 1912 से बंगाल प्रेसीडेंसी से अलग कर दिया गया। बाद में 1 अप्रैल 1936 को उड़ीसा को बिहार से अलग कर दिया गया।",
       "tip_hi": "1912 = बिहार और उड़ीसा बंगाल से अलग हुए; 1936 = उड़ीसा बिहार से अलग हुआ; 2000 = झारखंड बिहार से अलग हुआ।"
     },
     {
@@ -28353,7 +28353,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Tropic of Cancer passes through 8 Indian States from पश्चिम to पूर्व: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, and Mizoram.",
+      "explanation_hi": "कर्क रेखा पश्चिम से पूर्व तक 8 भारतीय राज्यों से होकर गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
       "tip_hi": "स्मरणीय: 'मित्र पर गमछा ज़ार' (मिजोरम, त्रिपुरा, पश्चिम बंगाल, राजस्थान, गुजरात, मध्य प्रदेश, छत्तीसगढ़, झारखंड)।"
     },
     {
@@ -28408,7 +28408,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जबकि 1931 में एक अनौपचारिक समूह का गठन हुआ, बिहार सोशलिस्ट पार्टी (और कांग्रेस सोशलिस्ट पार्टी की स्थापना) का औपचारिक संस्थापक सम्मेलन 17 मई 1934 को आचार्य नरेंद्र देव के नेतृत्व में अंजुमन इस्लामिया हॉल, पटना में हुआ।",
-      "tip_hi": "Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (राष्ट्रपति) & JP (Secretary)."
+      "tip_hi": "बिहार सोशलिस्ट पार्टी का औपचारिक सम्मेलन = 1934 (अंजुमन इस्लामिया हॉल, पटना); नरेंद्र देव (अध्यक्ष) और जेपी (सचिव)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -28434,8 +28434,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the efforts of बाल गंगाधर तिलक and Mohammad Ali Jinnah, the Congress and Muslim League held their joint session at Lucknow in 1916, accepting separate electorates and demanding provincial self-government.",
-      "tip_hi": "Lucknow Pact 1916 = Congress & Muslim League alliance + Re-unification of Moderates and Extremists (राष्ट्रपति: A. C. Majumdar)."
+      "explanation_hi": "बाल गंगाधर तिलक और मोहम्मद अली जिन्ना के प्रयासों के तहत, कांग्रेस और मुस्लिम लीग ने 1916 में लखनऊ में अपना संयुक्त सत्र आयोजित किया, जिसमें अलग निर्वाचन क्षेत्रों को स्वीकार किया गया और प्रांतीय स्वशासन की मांग की गई।",
+      "tip_hi": "लखनऊ समझौता 1916 = कांग्रेस और मुस्लिम लीग गठबंधन + नरमपंथियों और उग्रवादियों का पुन: एकीकरण (अध्यक्ष: ए. सी. मजूमदार)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -28461,8 +28461,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sir Frank G. Sly (Commissioner of Central Provinces) was appointed राष्ट्रपति of the Champaran Agrarian Enquiry Committee by Lieutenant राज्यपाल Edward Gait. The committee unanimously recommended the abolition of the tinkathia system.",
-      "tip_hi": "Champaran Agrarian Committee: राष्ट्रपति = F. G. Sly; Member = महात्मा गांधी; Outcome = Champaran Agrarian Act 1918."
+      "explanation_hi": "सर फ्रैंक जी. स्ली (मध्य प्रांत के आयुक्त) को लेफ्टिनेंट गवर्नर एडवर्ड गैट द्वारा चंपारण कृषि जांच समिति का अध्यक्ष नियुक्त किया गया था। समिति ने सर्वसम्मति से तिनकठिया प्रथा को समाप्त करने की अनुशंसा की.",
+      "tip_hi": "चंपारण कृषि समिति: अध्यक्ष = एफ.जी. स्ली; सदस्य = महात्मा गांधी; परिणाम = चम्पारण कृषि अधिनियम 1918."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -28488,7 +28488,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 1908, a meeting में आयोजित किया गया था Patna under Nawab Sarfaraz Hussain Khan where the Bihar Provincial Congress Committee was formally constituted, choosing Syed Hasan Imam as its first permanent राष्ट्रपति.",
+      "explanation_hi": "1908 में, नवाब सरफराज हुसैन खान के नेतृत्व में पटना में एक बैठक हुई जहां बिहार प्रांतीय कांग्रेस कमेटी का औपचारिक रूप से गठन किया गया, जिसमें सैयद हसन इमाम को इसका पहला स्थायी अध्यक्ष चुना गया।",
       "tip_hi": "बिहार प्रांतीय कांग्रेस कमेटी का गठन = 1908 (नवाब सरफराज हुसैन खान के अधीन पटना सम्मेलन)।"
     },
     {
@@ -28515,8 +28515,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following ideological differences with महात्मा गांधी and the Congress Working Committee, सुभाष चंद्र बोस resigned in अप्रैल 1939 and announced the formation of the Forward Bloc within the Congress on 3 मई 1939 at Makur, Unnao.",
-      "tip_hi": "सुभाष चंद्र बोस founded Forward Bloc in 1939 (First All India Conference at Ramgarh, Bihar in 1940)."
+      "explanation_hi": "महात्मा गांधी और कांग्रेस कार्य समिति के साथ वैचारिक मतभेदों के बाद, सुभाष चंद्र बोस ने अप्रैल 1939 में इस्तीफा दे दिया और 3 मई 1939 को मकुर, उन्नाव में कांग्रेस के भीतर फॉरवर्ड ब्लॉक के गठन की घोषणा की।",
+      "tip_hi": "सुभाष चंद्र बोस ने 1939 में फॉरवर्ड ब्लॉक की स्थापना की (1940 में बिहार के रामगढ़ में पहला अखिल भारतीय सम्मेलन)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -28542,8 +28542,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी विवेकानंद founded the Ramakrishna Mission on 1 मई 1897 at Belur Math near Kolkata, named after his spiritual guru Ramakrishna Paramahamsa.",
-      "tip_hi": "Ramakrishna Mission (1897) = स्वामी विवेकानंद; Arya Samaj (1875) = Dayananda Saraswati; Brahmo Samaj (1828) = राजा राममोहन राय."
+      "explanation_hi": "स्वामी विवेकानन्द ने 1 मई 1897 को कोलकाता के पास बेलूर मठ में रामकृष्ण मिशन की स्थापना की, जिसका नाम उनके आध्यात्मिक गुरु रामकृष्ण परमहंस के नाम पर रखा गया।",
+      "tip_hi": "रामकृष्ण मिशन (1897) = स्वामी विवेकानन्द; आर्य समाज (1875) = दयानंद सरस्वती; ब्रह्म समाज (1828) = राजा राम मोहन राय।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -28569,8 +28569,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंडक नदी River (known in Nepal as the Saligrami or Narayani) enters Bihar at Valmikinagar in पश्चिम Champaran and forms the boundary between Bihar and UP before discharging into the गंगा नदी at Sonpur/Hajipur.",
-      "tip_hi": "गंडक नदी = Narayani / Saptagandaki; enters Bihar at Valmikinagar (पश्चिम Champaran); famous for Saligram stones."
+      "explanation_hi": "गंडक नदी (नेपाल में सालिग्रामी या नारायणी के नाम से जानी जाती है) पश्चिम चंपारण के वाल्मिकीनगर में बिहार में प्रवेश करती है और सोनपुर/हाजीपुर में गंगा में गिरने से पहले बिहार और यूपी के बीच सीमा बनाती है।",
+      "tip_hi": "गंडक = नारायणी/सप्तगंडकी; वाल्मिकीनगर (पश्चिमी चंपारण) में बिहार में प्रवेश करता है; सालिग्राम पत्थरों के लिए प्रसिद्ध है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -28596,7 +28596,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The All India Kisan Sabha was established on 11 अप्रैल 1936 at the Lucknow Congress session. स्वामी सहजानंद सरस्वती was elected राष्ट्रपति and Prof. N. G. Ranga was appointed General Secretary.",
+      "explanation_hi": "अखिल भारतीय किसान सभा की स्थापना 11 अप्रैल 1936 को लखनऊ कांग्रेस अधिवेशन में हुई थी। स्वामी सहजानंद सरस्वती को अध्यक्ष चुना गया और प्रो. एन.जी. रंगा को महासचिव नियुक्त किया गया।",
       "tip_hi": "बिहार प्रांतीय किसान सभा=1929 (सोनेपुर); अखिल भारतीय किसान सभा = 1936 (लखनऊ)।"
     },
     {
@@ -28623,7 +28623,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 25 जुलाई 1857, the sepoy soldiers of the 7th, 8th, and 40th Native Infantry regiments at Danapur revolted against General Lloyd, crossed the सोन नदी River, and joined बाबू कुंवर सिंह at Jagdishpur/Arrah.",
+      "explanation_hi": "25 जुलाई 1857 को, दानापुर में 7वीं, 8वीं और 40वीं नेटिव इन्फैंट्री रेजिमेंट के सिपाही सैनिकों ने जनरल लॉयड के खिलाफ विद्रोह किया, सोन नदी पार की और जगदीशपुर/आरा में बाबू कुँवर सिंह से जुड़ गए।",
       "tip_hi": "दानापुर विद्रोह रेजिमेंट = 7वीं, 8वीं और 40वीं नेटिव इन्फैंट्री (25 जुलाई 1857)।"
     },
     {
@@ -28704,8 +28704,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "वाल्मीकि राष्ट्रीय उद्यान covers an area of approx. 335.65 sq किमी (and sanctuary area of 898 sq किमी) in the Terai region of पश्चिम Champaran along the गंडक नदी River and Nepal border, forming Project Tiger Reserve No. 18.",
-      "tip_hi": "Only National Park of Bihar = वाल्मीकि राष्ट्रीय उद्यान (पश्चिम Champaran)."
+      "explanation_hi": "वाल्मिकी राष्ट्रीय उद्यान लगभग क्षेत्रफल में फैला हुआ है। गंडक नदी और नेपाल सीमा के साथ पश्चिम चंपारण के तराई क्षेत्र में 335.65 वर्ग किमी (और 898 वर्ग किमी का अभयारण्य क्षेत्र), जो प्रोजेक्ट टाइगर रिजर्व नंबर 18 बनाता है।",
+      "tip_hi": "बिहार का एकमात्र राष्ट्रीय उद्यान =वाल्मीकि राष्ट्रीय उद्यान (पश्चिमी चंपारण)।"
     }
   ],
   "bpsc-tre4-gkgs-geography-set1": [
@@ -28733,8 +28733,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंडक नदी merges into the left bank of the गंगा नदी at Sonpur (Saran) opposite Hajipur (Vaishali), the site of the world-famous Harihar Kshetra Sonepur Mela, Asia's largest cattle fair held on Kartik Purnima.",
-      "tip_hi": "गंडक नदी meets गंगा नदी at Sonpur/Hajipur; सोन नदी meets गंगा नदी at Maner/Danapur; Punpun meets गंगा नदी at Fatuha."
+      "explanation_hi": "गंडक सोनपुर (सारण) में हाजीपुर (वैशाली) के सामने गंगा के बाएं किनारे में विलीन हो जाती है, जो विश्व प्रसिद्ध हरिहरक्षेत्र सोनपुर मेला का स्थल है, जो कार्तिक पूर्णिमा पर आयोजित होने वाला एशिया का सबसे बड़ा पशु मेला है।",
+      "tip_hi": "गंडक सोनपुर/हाजीपुर में गंगा से मिलती है; मनेर/दानापुर में गंगा से मिला बेटा; पुनपुन फतुहा में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -28760,7 +28760,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Khadar is new alluvium deposited annually by monsoon floodwaters in low-lying river plains (गंडक नदी, कोसी नदी, Bagmati), highly fertile and rich in fine silt. Bangar represents older alluvium situated in upland terraces above flood level.",
+      "explanation_hi": "खादर नदी के निचले मैदानों (गंडक, कोसी, बागमती) में मानसूनी बाढ़ के पानी द्वारा प्रतिवर्ष जमा होने वाला नया जलोढ़ है, जो अत्यधिक उपजाऊ और महीन गाद से भरपूर होता है। बांगर बाढ़ स्तर से ऊपर ऊपरी छतों में स्थित पुराने जलोढ़ का प्रतिनिधित्व करता है।",
       "tip_hi": "नवीन बाढ़ जलोढ़ = खादर (अत्यधिक उपजाऊ); पुराना ऊपरी जलोढ़ = बांगर (कंकड़ पिंड शामिल हैं)।"
     },
     {
@@ -28841,8 +28841,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती established the BPKS at Sonepur in नवम्बर 1929 to protect tenant farmers from zamindari eviction. He was elected राष्ट्रपति, and Dr. Sri Krishna Singh was appointed Secretary.",
-      "tip_hi": "Bihar Provincial Kisan Sabha (1929, Sonepur) = राष्ट्रपति: स्वामी सहजानंद सरस्वती; Secretary: Sri Krishna Singh."
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने किरायेदार किसानों को जमींदारी बेदखली से बचाने के लिए नवंबर 1929 में सोनपुर में बीपीकेएस की स्थापना की। वे अध्यक्ष चुने गये और डॉ. श्रीकृष्ण सिंह सचिव नियुक्त किये गये।",
+      "tip_hi": "बिहार प्रांतीय किसान सभा (1929, सोनपुर) = अध्यक्ष: स्वामी सहजानंद सरस्वती; सचिव: श्रीकृष्ण सिंह."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -28868,7 +28868,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "'Loo' is the strong, scorching dry summer wind blowing from the Thar Desert eastward across northern India and Bihar के दौरान afternoon घंटे, causing heatstroke. Norwesters (Kalbaishakhi) are thunderstorm showers.",
+      "explanation_hi": "'लू' दोपहर के समय थार रेगिस्तान से पूर्व की ओर उत्तर भारत और बिहार में बहने वाली तेज़, चिलचिलाती शुष्क ग्रीष्म हवा है, जो लू का कारण बनती है। नॉरवेस्टर्स (कालबैशाखी) तूफानी वर्षा हैं।",
       "tip_hi": "गर्म शुष्क ग्रीष्म हवा = लू; आंधी-तूफ़ान प्री-मानसून वर्षा = कालबैशाखी (नॉर्वेस्टर)।"
     },
     {
@@ -28895,7 +28895,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jindhagada Peak (also के रूप में जाना जाता है Arma Konda) in the Araku Valley of Andhra Pradesh has an elevation of 1,690 metres, making it the highest peak of the Eastern Ghats. Mahendragiri (1,501 m) is in Odisha.",
+      "explanation_hi": "आंध्र प्रदेश की अराकू घाटी में जिंदगाड़ा चोटी (जिसे अरमा कोंडा के नाम से भी जाना जाता है) की ऊंचाई 1,690 मीटर है, जो इसे पूर्वी घाट की सबसे ऊंची चोटी बनाती है। महेंद्रगिरि (1,501 मीटर) ओडिशा में है।",
       "tip_hi": "पूर्वी घाट का उच्चतम भाग = जिंदहागाड़ा / अरमा कोंडा (1,690 मीटर); पश्चिमी घाट का उच्चतम भाग = अनामुडी (2,695 मीटर)।"
     },
     {
@@ -28922,8 +28922,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the गंगा नदी at Fatuha, approximately 25 किमी downstream of Patna.",
-      "tip_hi": "Punpun joins गंगा नदी at Fatuha; सोन नदी joins गंगा नदी at Danapur/Maner; गंडक नदी joins at Sonpur."
+      "explanation_hi": "पुनपुन नदी उत्तर-पूर्व में औरंगाबाद, अरवल और पटना जिलों से होकर बहती है और पटना से लगभग 25 किमी नीचे फतुहा में गंगा के दाहिने किनारे से मिलती है।",
+      "tip_hi": "फतुहा में पुनपुन गंगा से मिलती है; दानापुर/मनेर में बेटा गंगा में मिला; गंडक सोनपुर में मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -28949,8 +28949,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The सोन नदी Canal System was completed in 1874 by constructing an anicut weir across the सोन नदी River at Dehri (Rohtas). It bifurcates into the Western सोन नदी Canal (irrigating Rohtas, Bhojpur) and Eastern सोन नदी Canal (Aurangabad, Gaya, Patna).",
-      "tip_hi": "Oldest canal system in Bihar = सोन नदी Canal System (1874, Dehri-on-सोन नदी)."
+      "explanation_hi": "सोन नहर प्रणाली 1874 में डेहरी (रोहतास) में सोन नदी पर एक एनीकट बांध का निर्माण करके पूरी की गई थी। यह पश्चिमी सोन नहर (रोहतास, भोजपुर को सिंचित करती है) और पूर्वी सोन नहर (औरंगाबाद, गया, पटना) में विभाजित होती है।",
+      "tip_hi": "बिहार में सबसे पुरानी नहर प्रणाली = सोन नहर प्रणाली (1874, डेहरी-ऑन-सोन)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -29003,7 +29003,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पूर्व Indian Railway (EIR) line in Bihar was opened in 1860-62, connecting Howrah with Patna (Bankipore) and onward to Mughal Sarai along the गंगा नदी loop line.",
+      "explanation_hi": "बिहार में ईस्ट इंडियन रेलवे (ईआईआर) लाइन 1860-62 में खोली गई थी, जो हावड़ा को पटना (बांकीपुर) से जोड़ती थी और आगे गंगा लूप लाइन के साथ मुगल सराय तक जाती थी।",
       "tip_hi": "भारत में प्रथम रेलवे = 1853 (बॉम्बे-ठाणे); बिहार में प्रथम रेलवे = 1860-62 (ईस्ट इंडियन रेलवे)।"
     },
     {
@@ -29030,7 +29030,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Magadha was one of the sixteen great Mahajanapadas. Its early capital Girivraja (Rajgir) was fortified by Bimbisara and Ajatashatru. King Udayin (Haryanka dynasty) founded Pataliputra at the confluence of गंगा नदी and सोन नदी and shifted the capital there.",
+      "explanation_hi": "मगध सोलह महान महाजनपदों में से एक था। इसकी प्रारंभिक राजधानी गिरिव्रज (राजगीर) को बिम्बिसार और अजातशत्रु द्वारा मजबूत किया गया था। राजा उदायिन (हर्यंक वंश) ने गंगा और सोन के संगम पर पाटलिपुत्र की स्थापना की और राजधानी को वहीं स्थानांतरित कर दिया।",
       "tip_hi": "मगध की राजधानी पाटलिपुत्र में स्थानांतरित हुई = राजा उदयिन (हर्यंक वंश)।"
     },
     {
@@ -29111,7 +29111,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मुख्यमंत्री Nitish Kumar inaugurated the 411-metre-long and 3-metre-high 'Gayaji Dam' on the Falgu River near Vishnupad Temple on 8 सितम्बर 2022 to maintain round-the-वर्ष water depth for pilgrims.",
+      "explanation_hi": "मुख्यमंत्री नीतीश कुमार ने तीर्थयात्रियों के लिए साल भर पानी की गहराई बनाए रखने के लिए 8 सितंबर 2022 को विष्णुपद मंदिर के पास फल्गु नदी पर 411 मीटर लंबे और 3 मीटर ऊंचे 'गयाजी बांध' का उद्घाटन किया।",
       "tip_hi": "भारत का सबसे बड़ा रबर बांध = फल्गु नदी पर गयाजी बांध (गया, 411 मीटर लंबा)।"
     },
     {
@@ -29165,8 +29165,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पूर्व-पश्चिम Corridor of the Golden Quadrilateral project links Silchar in Assam (पूर्व) with Porbandar in Gujarat (पश्चिम).",
-      "tip_hi": "Corridors: पूर्व-पश्चिम = Silchar to Porbandar; उत्तर-दक्षिण = Srinagar to Kanyakumari."
+      "explanation_hi": "स्वर्णिम चतुर्भुज परियोजना का पूर्व-पश्चिम गलियारा असम (पूर्व) में सिलचर को गुजरात (पश्चिम) में पोरबंदर से जोड़ता है।",
+      "tip_hi": "गलियारे: पूर्व-पश्चिम = सिलचर से पोरबंदर; उत्तर-दक्षिण = श्रीनगर से कन्याकुमारी तक।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -29410,7 +29410,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "There are 90 डिग्री उत्तर, 90 डिग्री दक्षिण, and 1 Equator (0 डिग्री): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
+      "explanation_hi": "90 डिग्री उत्तर, 90 डिग्री दक्षिण और 1 भूमध्य रेखा (0 डिग्री) हैं: कुल 90 + 90 + 1 = 181 अक्षांश। (नोट: यदि ध्रुव बिंदुओं को छोड़कर केवल अक्षांश वृत्तों की गणना की जाए तो यह 179 है)।",
       "tip_hi": "अक्षांश की कुल समानताएँ = 181 (0° और दो 90° ध्रुवों सहित); अक्षांश वृत्त = 179."
     },
     {
@@ -29437,7 +29437,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती formally founded the Bihar Provincial Kisan Sabha in नवम्बर 1929 at the Sonepur Fair, with Shri Krishna Singh as its Secretary.",
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने नवंबर 1929 में सोनपुर मेले में औपचारिक रूप से बिहार प्रांतीय किसान सभा की स्थापना की, जिसके सचिव श्री कृष्ण सिंह थे।",
       "tip_hi": "प्रमुख वर्ष: 1929 = बिहार प्रांतीय किसान सभा (सोनेपुर); 1936 = अखिल भारतीय किसान सभा (स्वामी सहजानंद के अधीन लखनऊ)।"
     },
     {
@@ -29518,7 +29518,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sheohar has the highest जनसंख्या घनत्व in Bihar with 1,880 persons per sq किमी, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq किमी.",
+      "explanation_hi": "बिहार में शिवहर का जनसंख्या घनत्व 1,880 व्यक्ति प्रति वर्ग किमी के साथ सबसे अधिक है, इसके बाद पटना (1,823) का स्थान है। कैमूर (भभुआ) में सबसे कम घनत्व 488 व्यक्ति प्रति वर्ग किमी है।",
       "tip_hi": "घनत्व चरम: उच्चतम = शिवहर (1,880); न्यूनतम = कैमूर (488)."
     },
     {
@@ -29626,8 +29626,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The सोन नदी river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the गंगा नदी just पश्चिम of Danapur / Maner in Patna district. Punpun joins गंगा नदी at Fatuha.",
-      "tip_hi": "सोन नदी meets गंगा नदी at Danapur/Maner; Punpun meets गंगा नदी at Fatuha; गंडक नदी meets गंगा नदी at Sonpur/Hajipur."
+      "explanation_hi": "सोन नदी रोहतास, औरंगाबाद और भोजपुर जिलों से होकर उत्तर-पूर्व की ओर बहती है और पटना जिले में दानापुर/मनेर के ठीक पश्चिम में गंगा में मिल जाती है। पुनपुन फतुहा में गंगा से मिलती है।",
+      "tip_hi": "दानापुर/मनेर में गंगा से मिला बेटा; पुनपुन फतुहा में गंगा से मिलती है; गंडक सोनपुर/हाजीपुर में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -29653,8 +29653,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 1 जनवरी 2015 replacing the योजना आयोग, the प्रधानमंत्री serves as the ex-officio Chairperson of NITI Aayog.",
-      "tip_hi": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = प्रधानमंत्री."
+      "explanation_hi": "1 जनवरी 2015 को योजना आयोग की जगह स्थापित, प्रधान मंत्री नीति आयोग के पदेन अध्यक्ष के रूप में कार्य करते हैं।",
+      "tip_hi": "नीति आयोग, राष्ट्रीय विकास परिषद और अंतर-राज्य परिषद के अध्यक्ष = प्रधान मंत्री।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -29707,8 +29707,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 76 provides that the राष्ट्रपति shall appoint a person qualified to be a Judge of the सर्वोच्च न्यायालय to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in संसद without voting rights.",
-      "tip_hi": "Attorney General for India = अनुच्छेद 76 (Union highest law officer); Advocate General = अनुच्छेद 165 (State)."
+      "explanation_hi": "अनुच्छेद 76 में प्रावधान है कि राष्ट्रपति सर्वोच्च न्यायालय के न्यायाधीश बनने के लिए योग्य व्यक्ति को भारत का अटॉर्नी जनरल नियुक्त करेगा, जिसे भारत की सभी अदालतों में सुनने का अधिकार होगा और मतदान के अधिकार के बिना संसद में बोलने का अधिकार होगा।",
+      "tip_hi": "भारत के अटॉर्नी जनरल = अनुच्छेद 76 (संघ का सर्वोच्च कानून अधिकारी); महाधिवक्ता = अनुच्छेद 165 (राज्य)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -29735,7 +29735,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जलोढ़ मिट्टी और उच्च वर्षा (>140 सेमी) के कारण उत्तरपूर्वी बाढ़ क्षेत्र वाले जिले-पूर्णिया, कटिहार और किशनगंज-बिहार की प्राथमिक जूट उत्पादक बेल्ट बनाते हैं। पूर्णिया सबसे बड़ा एकल उत्पादक है, लेकिन कटिहार और किशनगंज भी प्रमुख उत्पादक हैं, जो (डी) को आधिकारिक कुंजी बनाते हैं।",
-      "tip_hi": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) उपर्युक्त में से एक से अधिक is correct."
+      "tip_hi": "BPSC प्रश्न जाल: जब जूट के लिए पूर्णिया, कटिहार और किशनगंज एक साथ दिखाई देते हैं, तो विकल्प (D) उपरोक्त में से एक से अधिक सही है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -29761,7 +29761,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aditya-L1 was launched on 2 सितम्बर 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million किमी from Earth, to study solar coronal heating and solar wind flares.",
+      "explanation_hi": "आदित्य-एल1 को 2 सितंबर 2023 को पीएसएलवी-सी57 पर लॉन्च किया गया था और सौर कोरोनल हीटिंग और सौर पवन फ्लेयर्स का अध्ययन करने के लिए इसे पृथ्वी से 1.5 मिलियन किमी दूर लैग्रेंजियन पॉइंट 1 (एल1) के आसपास एक हेलो कक्षा में सफलतापूर्वक स्थापित किया गया था।",
       "tip_hi": "भारत का सौर मिशन =आदित्य-L1 (PSLV-C57); गंतव्य = लैग्रेंज बिंदु 1 (एल1)।"
     },
     {
@@ -29789,7 +29789,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कैमूर वन्यजीव अभयारण्य, विंध्य पठार के ऊपर कैमूर और रोहतास जिलों में स्थित है, जो लगभग क्षेत्रफल में फैला हुआ है। 1,504.96 वर्ग किमी, जो इसे बिहार का सबसे बड़ा वन्यजीव अभयारण्य बनाता है।",
-      "tip_hi": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq किमी); Only National Park = वाल्मीकि राष्ट्रीय उद्यान."
+      "tip_hi": "बिहार में सबसे बड़ा वन्यजीव अभयारण्य = कैमूर वन्यजीव अभयारण्य (1,505 वर्ग किमी); एकमात्र राष्ट्रीय उद्यान=वाल्मीकि राष्ट्रीय उद्यान।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -29815,8 +29815,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The घाघरा नदी originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the गंगा नदी at Revelganj near Chhapra in Saran district.",
-      "tip_hi": "घाघरा नदी joins गंगा नदी at Revelganj (Chhapra); गंडक नदी joins at Sonpur; कोसी नदी joins at Kursela (Katihar)."
+      "explanation_hi": "घाघरा का उद्गम तिब्बत में मानसरोवर के निकट मापचाचुंगो ग्लेशियर से होता है। यह उत्तर प्रदेश से होकर बहती है (अयोध्या में सरयू के रूप में) और सारण जिले के छपरा के पास रेवेलगंज में गंगा के बाएं किनारे से मिलती है।",
+      "tip_hi": "घाघरा रेवेलगंज (छपरा) में गंगा से मिलती है; गंडक सोनपुर में मिलती है; कोसी कुर्सेला (कटिहार) में मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -29923,8 +29923,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 157 prescribes that no person shall be eligible for appointment as राज्यपाल unless he is a citizen of India and has completed the age of 35 वर्ष.",
-      "tip_hi": "Minimum age for राष्ट्रपति, Vice-राष्ट्रपति, and राज्यपाल is 35 वर्ष."
+      "explanation_hi": "अनुच्छेद 157 में प्रावधान है कि कोई भी व्यक्ति राज्यपाल के रूप में नियुक्ति के लिए पात्र नहीं होगा जब तक कि वह भारत का नागरिक न हो और 35 वर्ष की आयु पूरी न कर चुका हो।",
+      "tip_hi": "राष्ट्रपति, उपराष्ट्रपति और राज्यपाल के लिए न्यूनतम आयु 35 वर्ष है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -29950,7 +29950,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inaugurated by मुख्यमंत्री Nitish Kumar on 15-17 जनवरी 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "explanation_hi": "15-17 जनवरी 2021 को मुख्यमंत्री नीतीश कुमार द्वारा उद्घाटन किया गया, पर्यावरण-पर्यटन और प्रवासी पक्षी संरक्षण को बढ़ावा देने के लिए जमुई जिले के नागी बांध और नकटी बांध पक्षी अभयारण्यों के जुड़वां जलाशयों में 'कलरव' मनाया गया।",
       "tip_hi": "प्रथम राज्य पक्षी महोत्सव 'कलरव' = नागी-नकटी पक्षी अभयारण्य (जमुई)।"
     }
   ],
@@ -30033,8 +30033,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 118(4), the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting. In his absence, the Deputy अध्यक्ष (स्पीकर) presides, and if both are absent, the Deputy Chairman of the राज्यसभा presides. The Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides.",
-      "tip_hi": "Joint sitting: Summoned by राष्ट्रपति (Art. 108); Presided by लोकसभा अध्यक्ष (स्पीकर) (Art. 118(4))."
+      "explanation_hi": "अनुच्छेद 118(4) के तहत, लोकसभा अध्यक्ष संयुक्त बैठक की अध्यक्षता करता है। उनकी अनुपस्थिति में, उपसभापति अध्यक्षता करता है, और यदि दोनों अनुपस्थित हैं, तो राज्यसभा के उपसभापति अध्यक्षता करते हैं। राज्यसभा का सभापति (उपराष्ट्रपति) कभी अध्यक्षता नहीं करता।",
+      "tip_hi": "संयुक्त बैठक: राष्ट्रपति द्वारा बुलाया गया (अनुच्छेद 108); अध्यक्षता लोकसभा अध्यक्ष द्वारा की जाती है (अनुच्छेद 118(4))।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -30060,7 +30060,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd संशोधन added 10 duties in अनुच्छेद 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th संशोधन 2002.",
+      "explanation_hi": "सरदार स्वर्ण सिंह समिति (1976) ने मौलिक कर्तव्यों को शामिल करने की सिफारिश की। 42वें संशोधन ने यूएसएसआर संविधान से उधार लिए गए अनुच्छेद 51ए में 10 कर्तव्य जोड़े। 86वें संशोधन 2002 द्वारा 11वां कर्तव्य जोड़ा गया।",
       "tip_hi": "मौलिक कर्तव्य = स्वर्ण सिंह समिति (1976), 42वां संशोधन, यूएसएसआर से उधार लिया गया।"
     },
     {
@@ -30087,7 +30087,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the 56-दिन hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 अक्टूबर 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
+      "explanation_hi": "पोट्टी श्रीरामुलु की 56 दिनों की भूख हड़ताल और शहादत के बाद, 1 अक्टूबर 1953 को मद्रास राज्य (राजधानी कुरनूल) के उत्तरी जिलों को अलग करके तेलुगु भाषी लोगों के लिए आंध्र राज्य बनाया गया था। इसके परिणामस्वरूप फज़ल अली राज्य पुनर्गठन आयोग (1953) का गठन हुआ।",
       "tip_hi": "प्रथम भाषाई राज्य = आंध्र राज्य (1 अक्टूबर 1953); आमरण अनशन = पोट्टी श्रीरामुलु."
     },
     {
@@ -30114,8 +30114,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established under Letters Patent issued by King George V, Patna उच्च न्यायालय was formally opened by Viceroy Lord Hardinge on 3 फरवरी 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
-      "tip_hi": "Patna उच्च न्यायालय inaugurated = 3 फरवरी 1916 (1st Chief Justice: Sir Edward Chamier)."
+      "explanation_hi": "किंग जॉर्ज पंचम द्वारा जारी लेटर्स पेटेंट के तहत स्थापित, पटना उच्च न्यायालय को औपचारिक रूप से 3 फरवरी 1916 को वायसराय लॉर्ड हार्डिंग द्वारा खोला गया था। सर एडवर्ड मेनार्ड डेस चैंप्स चैमियर को इसका पहला मुख्य न्यायाधीश नियुक्त किया गया था।",
+      "tip_hi": "पटना उच्च न्यायालय का उद्घाटन = 3 फरवरी 1916 (प्रथम मुख्य न्यायाधीश: सर एडवर्ड चैमियर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -30141,8 +30141,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 94(b) of the Constitution of India, a member holding office as अध्यक्ष (स्पीकर) मई at any time resign his office by writing under his hand addressed to the Deputy अध्यक्ष (स्पीकर).",
-      "tip_hi": "अध्यक्ष (स्पीकर) resigns to Deputy अध्यक्ष (स्पीकर); Deputy अध्यक्ष (स्पीकर) resigns to अध्यक्ष (स्पीकर); राष्ट्रपति resigns to Vice-राष्ट्रपति."
+      "explanation_hi": "भारत के संविधान के अनुच्छेद 94 (बी) के तहत, अध्यक्ष के रूप में पद धारण करने वाला सदस्य किसी भी समय उपाध्यक्ष को संबोधित अपने हस्ताक्षर के तहत लिखकर अपने पद से इस्तीफा दे सकता है।",
+      "tip_hi": "स्पीकर ने डिप्टी स्पीकर को दिया इस्तीफा; डिप्टी स्पीकर ने स्पीकर को दिया इस्तीफा; राष्ट्रपति ने उपराष्ट्रपति को इस्तीफा दिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -30169,7 +30169,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बिहार विधान सभा (विधानसभा) में 243 सीधे निर्वाचित सीटें हैं (38 अनुसूचित जाति के लिए आरक्षित और 2 अनुसूचित जनजाति के लिए आरक्षित: मनिहारी और कटोरिया)।",
-      "tip_hi": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; लोकसभा = 40 seats; राज्यसभा = 16 seats."
+      "tip_hi": "बिहार विधान सभा = 243 सीटें; विधान परिषद = 75 सीटें; लोकसभा = 40 सीटें; राज्यसभा = 16 सीटें."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -30195,8 +30195,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar has 40 seats in the लोकसभा (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the राज्यसभा.",
-      "tip_hi": "Parliamentary representation of Bihar: लोकसभा = 40 seats; राज्यसभा = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "बिहार में लोकसभा की 40 सीटें हैं (जिनमें से 6 अनुसूचित जाति के लिए आरक्षित हैं: गोपालगंज, हाजीपुर, समस्तीपुर, सासाराम, गया और जमुई) और राज्यसभा में 16 सीटें हैं।",
+      "tip_hi": "बिहार का संसदीय प्रतिनिधित्व: लोकसभा = 40 सीटें; राज्यसभा = 16 सीटें.\nउत्तर कुंजी सारांश तालिका - सेट 12 (प्रश्न 441 से 480)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -30222,8 +30222,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established under the Patna University Act in अक्टूबर 1917, it initially had jurisdiction over all educational colleges across Bihar, Orissa, and Nepal. (Patna उच्च न्यायालय was opened in 1916).",
-      "tip_hi": "Patna उच्च न्यायालय = 1916; Patna University = 1917; PMCH (Prince of Wales Medical College) = 1925."
+      "explanation_hi": "अक्टूबर 1917 में पटना विश्वविद्यालय अधिनियम के तहत स्थापित, शुरुआत में इसका अधिकार क्षेत्र बिहार, उड़ीसा और नेपाल के सभी शैक्षणिक कॉलेजों पर था। (पटना उच्च न्यायालय 1916 में खोला गया था)।",
+      "tip_hi": "पटना उच्च न्यायालय = 1916; पटना विश्वविद्यालय = 1917; पीएमसीएच (प्रिंस ऑफ वेल्स मेडिकल कॉलेज) = 1925।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -30249,8 +30249,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the 1937 provincial elections, Rajiv Ranjan Prasad Sinha was elected as the first राष्ट्रपति of the newly constituted Bihar Legislative Council on 22 जुलाई 1937. (Ramdayalu Singh was elected first अध्यक्ष (स्पीकर) of the Legislative Assembly).",
-      "tip_hi": "1937 Bihar Legislature: Assembly अध्यक्ष (स्पीकर) = Ramdayalu Singh; Council राष्ट्रपति = Rajiv Ranjan Prasad Sinha."
+      "explanation_hi": "1937 के प्रांतीय चुनावों के बाद, 22 जुलाई 1937 को राजीव रंजन प्रसाद सिन्हा को नवगठित बिहार विधान परिषद के पहले अध्यक्ष के रूप में चुना गया। (रामदयालु सिंह विधान सभा के पहले अध्यक्ष चुने गए थे)।",
+      "tip_hi": "1937 बिहार विधानमंडल: विधानसभा अध्यक्ष = रामदयालु सिंह; परिषद अध्यक्ष = राजीव रंजन प्रसाद सिन्हा."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -30276,8 +30276,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 52nd संविधान संशोधन अधिनियम 1985 inserted the Tenth अनुसूची, laying down disqualification of legislators on grounds of defection from their political party.",
-      "tip_hi": "Anti-Defection Law = 52nd संशोधन अधिनियम 1985 (Tenth अनुसूची); Strengthened by 91st संशोधन 2003."
+      "explanation_hi": "52वें संवैधानिक संशोधन अधिनियम 1985 ने दसवीं अनुसूची को शामिल किया, जिसमें विधायकों को उनके राजनीतिक दल से दलबदल के आधार पर अयोग्य घोषित किया गया।",
+      "tip_hi": "दल-बदल विरोधी कानून = 52वां संशोधन अधिनियम 1985 (दसवीं अनुसूची); 91वें संशोधन 2003 द्वारा सुदृढ़ किया गया।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -30357,7 +30357,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jairamdas Daulatram served as the first राज्यपाल of Bihar in independent India from 15 अगस्त 1947 to 11 जनवरी 1948. (Sir James David Sifton was the first राज्यपाल of Bihar when Orissa separated in 1936).",
+      "explanation_hi": "जयरामदास दौलतराम ने 15 अगस्त 1947 से 11 जनवरी 1948 तक स्वतंत्र भारत में बिहार के पहले राज्यपाल के रूप में कार्य किया। (1936 में उड़ीसा अलग होने पर सर जेम्स डेविड सिफ्टन बिहार के पहले राज्यपाल थे)।",
       "tip_hi": "स्वतंत्र भारत में बिहार के प्रथम राज्यपाल = जयरामदास दौलतराम (15 अगस्त 1947)।"
     },
     {
@@ -30384,8 +30384,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 106th संविधान संशोधन अधिनियम 2023 (128th संशोधन Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the लोकसभा, State Legislative Assemblies, and Delhi Assembly for 15 वर्ष, to be implemented after delimitation following the next जनगणना.",
-      "tip_hi": "Women's Reservation in संसद (33%) = 106th संशोधन अधिनियम 2023 (Nari Shakti Vandan Adhiniyam)."
+      "explanation_hi": "106वें संवैधानिक संशोधन अधिनियम 2023 (128वें संशोधन विधेयक) में अनुच्छेद 330ए और 332ए शामिल किए गए, जिसके तहत लोकसभा, राज्य विधानसभाओं और दिल्ली विधानसभा में महिलाओं के लिए 15 वर्षों के लिए एक तिहाई सीटें आरक्षित की गईं, जिन्हें अगली जनगणना के बाद परिसीमन के बाद लागू किया जाएगा।",
+      "tip_hi": "संसद में महिला आरक्षण (33%) = 106वां संशोधन अधिनियम 2023 (नारी शक्ति वंदन अधिनियम)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -30411,8 +30411,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 143 confers Advisory Jurisdiction on the सर्वोच्च न्यायालय. The राष्ट्रपति मई refer a question of public importance to the सर्वोच्च न्यायालय for opinion. The opinion rendered is purely advisory and not binding on the राष्ट्रपति.",
-      "tip_hi": "Advisory Jurisdiction of सर्वोच्च न्यायालय = अनुच्छेद 143; Original Jurisdiction = अनुच्छेद 131; Special Leave Petition = अनुच्छेद 136."
+      "explanation_hi": "अनुच्छेद 143 सर्वोच्च न्यायालय को सलाहकारी क्षेत्राधिकार प्रदान करता है। राष्ट्रपति सार्वजनिक महत्व के किसी प्रश्न को राय के लिए सर्वोच्च न्यायालय को भेज सकते हैं। दी गई राय पूरी तरह से सलाहकारी है और राष्ट्रपति पर बाध्यकारी नहीं है।",
+      "tip_hi": "सर्वोच्च न्यायालय का सलाहकार क्षेत्राधिकार = अनुच्छेद 143; मूल क्षेत्राधिकार = अनुच्छेद 131; विशेष अनुमति याचिका = अनुच्छेद 136."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -30438,8 +30438,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 280 mandates the राष्ट्रपति of India to constitute a वित्त आयोग every fifth वर्ष to recommend the devolution of tax revenues between the Union and the States.",
-      "tip_hi": "अनुच्छेद 280 = वित्त आयोग; अनुच्छेद 315 = UPSC and State PSCs; अनुच्छेद 324 = चुनाव आयोग."
+      "explanation_hi": "अनुच्छेद 280 भारत के राष्ट्रपति को संघ और राज्यों के बीच कर राजस्व के हस्तांतरण की सिफारिश करने के लिए हर पांचवें वर्ष एक वित्त आयोग का गठन करने का आदेश देता है।",
+      "tip_hi": "अनुच्छेद 280 = वित्त आयोग; अनुच्छेद 315 = यूपीएससी और राज्य पीएससी; अनुच्छेद 324=चुनाव आयोग।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -30520,7 +30520,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मौलाना मजहरुल हक ने 1921 में पटना में गंगा के किनारे अपने मित्र खैरुन मियां द्वारा दान की गई जमीन पर सदाकत आश्रम की स्थापना की और यहीं से साप्ताहिक समाचार पत्र 'द मदरलैंड' निकाला।",
-      "tip_hi": "Sadaqat Ashram served as the residence of डॉ. राजेंद्र प्रसाद after his retirement as the राष्ट्रपति of India until his death in 1963."
+      "tip_hi": "भारत के राष्ट्रपति के रूप में सेवानिवृत्त होने के बाद 1963 में उनकी मृत्यु तक सदाकत आश्रम डॉ. राजेंद्र प्रसाद के निवास के रूप में कार्य करता था।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science",
@@ -30546,8 +30546,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fundamental Duties were incorporated into Part IV-A (अनुच्छेद 51A) by the 42nd संशोधन अधिनियम, 1976 on the recommendations of the Swaran Singh Committee, inspired by the Constitution of the USSR.",
-      "tip_hi": "Borrowing sources: Fundamental Duties = USSR; मौलिक अधिकार = USA; DPSP = Ireland; Parliamentary system = UK."
+      "explanation_hi": "यूएसएसआर के संविधान से प्रेरित, स्वर्ण सिंह समिति की सिफारिशों पर 42वें संशोधन अधिनियम, 1976 द्वारा मौलिक कर्तव्यों को भाग IV-ए (अनुच्छेद 51ए) में शामिल किया गया था।",
+      "tip_hi": "उधार स्रोत: मौलिक कर्तव्य = यूएसएसआर; मौलिक अधिकार = यूएसए; डीपीएसपी = आयरलैंड; संसदीय प्रणाली = ब्रिटेन."
     }
   ],
   "bpsc-tre4-gkgs-polity-set2": [
@@ -30575,8 +30575,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 118(4) of the Indian Constitution, the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting of संसद. The राष्ट्रपति summons the joint sitting under अनुच्छेद 108.",
-      "tip_hi": "Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides over a joint sitting as he is not a member of either House."
+      "explanation_hi": "भारतीय संविधान के अनुच्छेद 118(4) के तहत, लोकसभा अध्यक्ष संसद की संयुक्त बैठक की अध्यक्षता करते हैं। राष्ट्रपति अनुच्छेद 108 के तहत संयुक्त बैठक बुलाते हैं।",
+      "tip_hi": "राज्यसभा का सभापति (उपराष्ट्रपति) कभी भी संयुक्त बैठक की अध्यक्षता नहीं करता क्योंकि वह किसी भी सदन का सदस्य नहीं होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -30602,8 +30602,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 84(b) stipulates that a candidate must be not less than 30 वर्ष of age for the राज्यसभा and not less than 25 वर्ष for the लोकसभा.",
-      "tip_hi": "Constitutional Age Floor: Panchayat/Municipality = 21 वर्ष; लोकसभा/Vidhan Sabha = 25 वर्ष; राज्यसभा/Vidhan Parishad = 30 वर्ष; राष्ट्रपति/राज्यपाल = 35 वर्ष."
+      "explanation_hi": "अनुच्छेद 84 (बी) में कहा गया है कि राज्यसभा के लिए उम्मीदवार की आयु 30 वर्ष से कम नहीं होनी चाहिए और लोकसभा के लिए 25 वर्ष से कम नहीं होनी चाहिए।",
+      "tip_hi": "संवैधानिक आयु सीमा: पंचायत/नगर पालिका = 21 वर्ष; लोकसभा/विधानसभा = 25 वर्ष; राज्य सभा/विधान परिषद = 30 वर्ष; राष्ट्रपति/राज्यपाल = 35 वर्ष."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -30629,7 +30629,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Ghadar Party में स्थापित किया गया था 1913 by Lala Har Dayal, Sohan Singh Bhakna (राष्ट्रपति), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
+      "explanation_hi": "ग़दर पार्टी की स्थापना 1913 में लाला हर दयाल, सोहन सिंह भकना (अध्यक्ष) और करतार सिंह सराभा ने सैन फ्रांसिस्को में की थी, 'युगांतर आश्रम' की स्थापना की और साप्ताहिक समाचार पत्र 'ग़दर' का प्रकाशन किया।",
       "tip_hi": "ग़दर पार्टी = सैन फ्रांसिस्को (1913), लाला हर दयाल और सोहन सिंह भकना।"
     },
     {
@@ -30656,8 +30656,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 86th संविधान संशोधन अधिनियम 2002 inserted अनुच्छेद 21A into Part III, making elementary education a मौलिक अधिकार. It also updated अनुच्छेद 45 in DPSP and added 11th fundamental duty in अनुच्छेद 51A(k).",
-      "tip_hi": "Right to Education (RTE) = 86th Constitutional संशोधन 2002 (अनुच्छेद 21A)."
+      "explanation_hi": "86वें संवैधानिक संशोधन अधिनियम 2002 ने अनुच्छेद 21ए को भाग III में शामिल किया, जिससे प्रारंभिक शिक्षा एक मौलिक अधिकार बन गई। इसने डीपीएसपी में अनुच्छेद 45 को भी अद्यतन किया और अनुच्छेद 51ए(के) में 11वां मौलिक कर्तव्य जोड़ा।",
+      "tip_hi": "शिक्षा का अधिकार (आरटीई) = 86वां संवैधानिक संशोधन 2002 (अनुच्छेद 21ए)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -30710,8 +30710,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate पंचायती राज on 2 अक्टूबर 1959 at Nagaur, followed by Andhra Pradesh.",
-      "tip_hi": "3-tier पंचायती राज = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986)."
+      "explanation_hi": "बलवंत राय मेहता समिति (1957) ने 3-स्तरीय संरचना के माध्यम से 'लोकतांत्रिक विकेंद्रीकरण' की सिफारिश की। 2 अक्टूबर 1959 को नागौर में पंचायती राज का उद्घाटन करने वाला राजस्थान पहला राज्य था, उसके बाद आंध्र प्रदेश था।",
+      "tip_hi": "3-स्तरीय पंचायती राज = बलवंत राय मेहता (1957); 2-स्तरीय प्रणाली = अशोक मेहता (1977); संवैधानिक स्थिति = एल.एम. सिंघवी (1986)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -30764,8 +30764,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Drafting Committee was set up on 29 अगस्त 1947 with Dr. B. R. Ambedkar as its Chairman. डॉ. राजेंद्र प्रसाद was the permanent राष्ट्रपति of the Constituent Assembly.",
-      "tip_hi": "Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly राष्ट्रपति = डॉ. राजेंद्र प्रसाद.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "मसौदा समिति की स्थापना 29 अगस्त 1947 को डॉ. बी.आर. अम्बेडकर की अध्यक्षता में की गई थी। डॉ. राजेंद्र प्रसाद संविधान सभा के स्थायी अध्यक्ष थे।",
+      "tip_hi": "प्रारूप समिति के अध्यक्ष = डॉ. बी.आर. अम्बेडकर; संविधान सभा अध्यक्ष = डॉ. राजेंद्र प्रसाद।\nउत्तर कुंजी सारांश तालिका - सेट 7 (प्रश्न 241 से 280)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -30791,8 +30791,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Sachchidananda Sinha served as the temporary interim chairman on 9 दिसम्बर 1946. On 11 दिसम्बर 1946, डॉ. राजेंद्र प्रसाद was unanimously elected permanent राष्ट्रपति of the Constituent Assembly.",
-      "tip_hi": "Temporary Chairman (9 Dec 1946) = Dr. Sachchidananda Sinha; Permanent राष्ट्रपति (11 Dec 1946) = डॉ. राजेंद्र प्रसाद."
+      "explanation_hi": "डॉ. सच्चिदानंद सिन्हा ने 9 दिसंबर 1946 को अस्थायी अंतरिम अध्यक्ष के रूप में कार्य किया। 11 दिसंबर 1946 को डॉ. राजेंद्र प्रसाद को सर्वसम्मति से संविधान सभा का स्थायी अध्यक्ष चुना गया।",
+      "tip_hi": "अस्थायी अध्यक्ष (9 दिसंबर 1946) = डॉ. सच्चिदानंद सिन्हा; स्थायी राष्ट्रपति (11 दिसम्बर 1946) = डॉ. राजेंद्र प्रसाद।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -30818,8 +30818,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 169 deals with the abolition or creation of Legislative Councils in States. The Legislative Assembly must pass a resolution by a special majority (majority of total membership and not less than 2/3rds present and voting), following which संसद मई enact a simple law.",
-      "tip_hi": "Creation or Abolition of Legislative Council = अनुच्छेद 169; Composition of Council = अनुच्छेद 171."
+      "explanation_hi": "अनुच्छेद 169 राज्यों में विधान परिषदों के उन्मूलन या निर्माण से संबंधित है। विधान सभा को विशेष बहुमत (कुल सदस्यता का बहुमत और उपस्थित और मतदान करने वाले कम से कम 2/3) द्वारा एक प्रस्ताव पारित करना होगा, जिसके बाद संसद एक सरल कानून बना सकती है।",
+      "tip_hi": "विधान परिषद का निर्माण या समाप्ति = अनुच्छेद 169; परिषद् की संरचना = अनुच्छेद 171."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -30846,7 +30846,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "42वें संशोधन ने प्रारंभिक विवरण को 'संप्रभु लोकतांत्रिक गणराज्य' से 'संप्रभु समाजवादी धर्मनिरपेक्ष लोकतांत्रिक गणराज्य' में संशोधित किया, और 'राष्ट्र की एकता' को 'राष्ट्र की एकता और अखंडता' में बदल दिया।",
-      "tip_hi": "42nd संशोधन 1976 added 3 words: Socialist, Secular, Integrity. (प्रस्तावना amended only once)."
+      "tip_hi": "42वें संशोधन 1976 में 3 शब्द जोड़े गए: समाजवादी, धर्मनिरपेक्ष, अखंडता। (प्रस्तावना में केवल एक बार संशोधन किया गया)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -30872,8 +30872,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 324 provides for the establishment of the चुनाव आयोग of India to conduct elections to संसद, State Legislatures, and the offices of राष्ट्रपति and Vice-राष्ट्रपति. Elections to Panchayats are conducted by State Election Commissions under अनुच्छेद 243K.",
-      "tip_hi": "चुनाव आयोग of India = अनुच्छेद 324; Adult Suffrage = अनुच्छेद 326; State चुनाव आयोग (Panchayats) = अनुच्छेद 243K."
+      "explanation_hi": "अनुच्छेद 324 संसद, राज्य विधानसभाओं और राष्ट्रपति और उपराष्ट्रपति के कार्यालयों के चुनाव कराने के लिए भारत के चुनाव आयोग की स्थापना का प्रावधान करता है। अनुच्छेद 243K के तहत राज्य चुनाव आयोगों द्वारा पंचायतों के चुनाव कराए जाते हैं।",
+      "tip_hi": "भारत का चुनाव आयोग = अनुच्छेद 324; वयस्क मताधिकार = अनुच्छेद 326; राज्य निर्वाचन आयोग (पंचायत) = अनुच्छेद 243K."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -30926,8 +30926,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 148 establishes an independent CAG of India appointed by the राष्ट्रपति. Under अनुच्छेद 149 and 151, the CAG audits all accounts related to expenditure from the Consolidated Fund of India and submits reports to संसद and State Legislatures.",
-      "tip_hi": "CAG of India = अनुच्छेद 148; Term = 6 वर्ष or 65 वर्ष of age; Guardian of Public Purse."
+      "explanation_hi": "अनुच्छेद 148 राष्ट्रपति द्वारा नियुक्त भारत के एक स्वतंत्र CAG की स्थापना करता है। अनुच्छेद 149 और 151 के तहत, CAG भारत की संचित निधि से व्यय से संबंधित सभी खातों का ऑडिट करता है और संसद और राज्य विधानमंडलों को रिपोर्ट प्रस्तुत करता है।",
+      "tip_hi": "भारत का CAG = अनुच्छेद 148; अवधि = 6 वर्ष या 65 वर्ष की आयु; सार्वजनिक धन का संरक्षक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -30953,8 +30953,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the leadership of मुख्यमंत्री Nitish Kumar, the Bihar पंचायती राज Act 2006 was enacted, reserving 50% of all elected seats and office-bearer positions for women in ग्राम Panchayats, Panchayat Samitis, and Zilla Parishads.",
-      "tip_hi": "50% Women Reservation in Panchayats = Bihar पंचायती राज Act 2006 (First state in India)."
+      "explanation_hi": "मुख्यमंत्री नीतीश कुमार के नेतृत्व में, बिहार पंचायती राज अधिनियम 2006 लागू किया गया, जिसमें ग्राम पंचायतों, पंचायत समितियों और जिला परिषदों में महिलाओं के लिए सभी निर्वाचित सीटों और पदाधिकारी पदों में से 50% आरक्षित किया गया।",
+      "tip_hi": "पंचायतों में 50% महिला आरक्षण = बिहार पंचायती राज अधिनियम 2006 (भारत का पहला राज्य)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -30980,8 +30980,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 44th संविधान संशोधन अधिनियम 1978 enacted by the Janata Party government under Morarji Desai deleted अनुच्छेद 19(1)(f) and अनुच्छेद 31 from Part III and inserted अनुच्छेद 300A in Part XII, converting property into a non-fundamental legal/constitutional right.",
-      "tip_hi": "Right to Property deleted from मौलिक अधिकार = 44th संशोधन 1978 (now अनुच्छेद 300A)."
+      "explanation_hi": "मोरारजी देसाई के नेतृत्व में जनता पार्टी सरकार द्वारा अधिनियमित 44वें संवैधानिक संशोधन अधिनियम 1978 ने भाग III से अनुच्छेद 19(1)(एफ) और अनुच्छेद 31 को हटा दिया और भाग XII में अनुच्छेद 300ए को शामिल कर दिया, जिससे संपत्ति एक गैर-मौलिक कानूनी/संवैधानिक अधिकार में परिवर्तित हो गई।",
+      "tip_hi": "संपत्ति का अधिकार मौलिक अधिकारों से हटा दिया गया = 44वाँ संशोधन 1978 (अब अनुच्छेद 300ए)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -31034,8 +31034,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the अध्यक्ष (स्पीकर) of the लोकसभा thereon shall be final. The राज्यसभा has only 14 दिन to recommend changes.",
-      "tip_hi": "Certification of Money Bill = अध्यक्ष (स्पीकर) of लोकसभा (अनुच्छेद 110). Final and cannot be questioned in court."
+      "explanation_hi": "अनुच्छेद 110(3) में कहा गया है कि यदि कोई प्रश्न उठता है कि कोई विधेयक धन विधेयक है या नहीं, तो उस पर लोकसभा अध्यक्ष का निर्णय अंतिम होगा। राज्यसभा के पास बदलावों की सिफारिश करने के लिए केवल 14 दिन हैं।",
+      "tip_hi": "धन विधेयक का प्रमाणन = लोकसभा अध्यक्ष (अनुच्छेद 110)। अंतिम और अदालत में सवाल नहीं उठाया जा सकता."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -31061,8 +31061,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 73rd संशोधन added Part IX and the 11th अनुसूची (29 functional subjects for Panchayats). The 74th संशोधन added Part IX-A and the 12th अनुसूची (18 functional subjects for Municipalities).",
-      "tip_hi": "11th अनुसूची = Panchayats (29 items); 12th अनुसूची = Municipalities (18 items); 10th अनुसूची = Anti-Defection."
+      "explanation_hi": "73वें संशोधन में भाग IX और 11वीं अनुसूची (पंचायतों के लिए 29 कार्यात्मक विषय) जोड़ी गई। 74वें संशोधन में भाग IX-A और 12वीं अनुसूची (नगर पालिकाओं के लिए 18 कार्यात्मक विषय) जोड़ी गई।",
+      "tip_hi": "11वीं अनुसूची = पंचायतें (29 मदें); 12वीं अनुसूची = नगर पालिकाएँ (18 वस्तुएँ); 10वीं अनुसूची = दल-बदल विरोधी।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -31088,8 +31088,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 173, the minimum age for election to the Legislative Assembly (and लोकसभा) is 25 वर्ष. For Legislative Council (and राज्यसभा), it is 30 वर्ष. For Panchayat elections, it is 21 वर्ष.",
-      "tip_hi": "Age limits: Panchayats = 21; लोकसभा & Vidhan Sabha = 25; राज्यसभा & Vidhan Parishad = 30; राष्ट्रपति & राज्यपाल = 35."
+      "explanation_hi": "अनुच्छेद 173 के तहत, विधान सभा (और लोकसभा) के चुनाव के लिए न्यूनतम आयु 25 वर्ष है। विधान परिषद (और राज्यसभा) के लिए, यह 30 वर्ष है। पंचायत चुनाव के लिए यह अवधि 21 वर्ष है.",
+      "tip_hi": "आयु सीमा: पंचायत = 21; लोकसभा एवं विधानसभा = 25; राज्य सभा एवं विधान परिषद = 30; राष्ट्रपति एवं राज्यपाल = 35."
     }
   ],
   "bpsc-tre4-gkgs-bihar-set1": [
@@ -31117,7 +31117,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती founded the Bihar Provincial Kisan Sabha (1929) and led militant agrarian agitations across Bihar with the slogan 'Dharm Yuddh'.",
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने बिहार प्रांतीय किसान सभा (1929) की स्थापना की और 'धर्म युद्ध' के नारे के साथ पूरे बिहार में उग्र कृषि आंदोलनों का नेतृत्व किया।",
       "tip_hi": "स्वामी सहजानंद का आश्रम बिहटा (पटना) में था; उनका प्रसिद्ध मुखपत्र 'हुंकार' था।"
     },
     {
@@ -31145,7 +31145,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जब जिला मजिस्ट्रेट डब्ल्यू जी आर्चर ने गोरखा सैन्य पुलिस को उन पर गोली चलाने का आदेश दिया तो सात युवा छात्र (देवीपत चौधरी, उमाकांत प्रसाद सिन्हा, रामानंद सिंह, सतीश प्रसाद झा, जगपति कुमार, राजेंद्र सिंह और रामगोविंद सिंह) शहीद हो गए।",
-      "tip_hi": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 अगस्त 1942 (DM W.G. Archer)."
+      "tip_hi": "पटना सचिवालय गोलीबारी के 'सात शहीद' (सत शहीद) = 11 अगस्त 1942 (डीएम डब्ल्यू.जी. आर्चर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -31171,7 +31171,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Saharsa recorded the lowest female साक्षरता दर in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
+      "explanation_hi": "बिहार में सबसे कम महिला साक्षरता दर 41.68% के साथ सहरसा में दर्ज की गई। (नोट: जबकि पूर्णिया में 51.08% के साथ सबसे कम समग्र साक्षरता दर्ज की गई, जबकि सहरसा में विशेष रूप से सबसे कम महिला साक्षरता दर्ज की गई)। रोहतास में महिला साक्षरता सबसे अधिक (62.97%) थी।",
       "tip_hi": "महत्वपूर्ण जनगणना जाल: सबसे कम समग्र साक्षरता = पूर्णिया (51.08%); न्यूनतम महिला साक्षरता=सहरसा (41.68%)।"
     },
     {
@@ -31252,7 +31252,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of योजना आयोग) chaired the 9-member committee that submitted the Draft National Education Policy in मई 2019, which formed the basis of NEP 2020.",
+      "explanation_hi": "डॉ. कृष्णास्वामी कस्तूरीरंगन (इसरो के पूर्व अध्यक्ष और योजना आयोग के सदस्य) ने मई 2019 में राष्ट्रीय शिक्षा नीति का मसौदा प्रस्तुत करने वाली 9 सदस्यीय समिति की अध्यक्षता की, जिसने एनईपी 2020 का आधार बनाया।",
       "tip_hi": "एनईपी 2020 मसौदा समिति के अध्यक्ष = डॉ. के. कस्तूरीरंगन।\nउत्तर कुंजी सारांश तालिका - सेट 11 (प्रश्न 401 से 440)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     },
     {
@@ -31306,8 +31306,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 वर्ष of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
-      "tip_hi": "5th Tiger जनगणना (अप्रैल 2023) = 3,167 tigers (up from 2,967 in 2018)."
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने प्रोजेक्ट टाइगर के 50 साल पूरे होने के उपलक्ष्य में टाइगर रिजर्व के प्रबंधन प्रभावशीलता मूल्यांकन के 5वें चक्र की सारांश रिपोर्ट जारी की, जिसमें कैमरे में कैद बाघों की न्यूनतम संख्या 3,167 दर्ज की गई।",
+      "tip_hi": "5वीं बाघ गणना (अप्रैल 2023) = 3,167 बाघ (2018 में 2,967 से अधिक)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -31387,7 +31387,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 15 नवम्बर 1954 under the vision of मुख्यमंत्री Dr. Sri Krishna Singh and principal Charles Napier, Netarhat Vidyalaya was conceived on Gurukul lines and produced outstanding civil servants, scientists, and academics.",
+      "explanation_hi": "15 नवंबर 1954 को मुख्यमंत्री डॉ. श्रीकृष्ण सिंह और प्रिंसिपल चार्ल्स नेपियर के दृष्टिकोण के तहत स्थापित, नेतरहाट विद्यालय की कल्पना गुरुकुल तर्ज पर की गई थी और इसने उत्कृष्ट सिविल सेवकों, वैज्ञानिकों और शिक्षाविदों को जन्म दिया।",
       "tip_hi": "नेतरहाट विद्यालय की स्थापना 1954 में बिहार सरकार द्वारा की गई (संस्थापक प्राचार्य: चार्ल्स नेपियर)।"
     },
     {
@@ -31441,8 +31441,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Sri Krishna Singh (के रूप में जाना जाता है 'Sri Babu' and 'Bihar Kesari') served as the premier/मुख्यमंत्री of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy मुख्यमंत्री and Finance Minister.",
-      "tip_hi": "'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = जयप्रकाश नारायण."
+      "explanation_hi": "डॉ. श्रीकृष्ण सिंह ('श्री बाबू' और 'बिहार केसरी' के नाम से जाने जाते हैं) ने 1937-39 और 1946 से 1961 में अपनी मृत्यु तक लगातार बिहार के प्रधान मंत्री/मुख्यमंत्री के रूप में कार्य किया। डॉ. अनुग्रह नारायण सिन्हा ('बिहार विभूति') ने उप मुख्यमंत्री और वित्त मंत्री के रूप में कार्य किया।",
+      "tip_hi": "'बिहार केसरी' = डॉ. श्रीकृष्ण सिंह; 'बिहार विभूति' = डॉ. अनुग्रह नारायण सिन्हा; 'लोकनायक'=जयप्रकाश नारायण."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -31468,7 +31468,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to जनगणना 2011, Rohtas district recorded the highest overall साक्षरता दर (73.37%) as well as the highest rural साक्षरता दर in Bihar.",
+      "explanation_hi": "2011 की जनगणना के अनुसार, रोहतास जिले में बिहार में सबसे अधिक समग्र साक्षरता दर (73.37%) और साथ ही सबसे अधिक ग्रामीण साक्षरता दर दर्ज की गई।",
       "tip_hi": "बिहार साक्षरता: उच्चतम समग्र और ग्रामीण साक्षरता = रोहतास; न्यूनतम समग्र एवं ग्रामीण साक्षरता = पूर्णिया।"
     },
     {
@@ -31496,7 +31496,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "1820 से 1860 के दशक तक पटना भारत में वहाबी आंदोलन का प्रमुख मुख्यालय था, जिसे नेता मौलवी विलायत अली और इनायत अली द्वारा आयोजित किया गया था।",
-      "tip_hi": "Patna served as the pan-Indian organizational hub for propaganda and soldiers for the Wahabis on the उत्तर-पश्चिम Frontier."
+      "tip_hi": "पटना ने उत्तर-पश्चिम सीमा पर वहाबियों के प्रचार और सैनिकों के लिए अखिल भारतीय संगठनात्मक केंद्र के रूप में कार्य किया।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -31549,7 +31549,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary of the 5th cycle of Management Effectiveness Evaluation of Tiger Reserves in अप्रैल 2023, declaring 3,167 tigers in India.",
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने अप्रैल 2023 में टाइगर रिजर्व के प्रबंधन प्रभावशीलता मूल्यांकन के 5वें चक्र का सारांश जारी किया, जिसमें भारत में 3,167 बाघों की घोषणा की गई।",
       "tip_hi": "बाघों की आबादी 2,967 (2018) से बढ़कर 3,167 (2022 की जनगणना 2023 में जारी) हो गई।"
     },
     {
@@ -31603,7 +31603,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to जनगणना 2011, Purnia district had the lowest overall साक्षरता दर in Bihar (51.08%). Rohtas district recorded the highest overall साक्षरता दर (73.37%).",
+      "explanation_hi": "2011 की जनगणना के अनुसार, पूर्णिया जिले की समग्र साक्षरता दर बिहार में सबसे कम (51.08%) थी। रोहतास जिले में उच्चतम समग्र साक्षरता दर (73.37%) दर्ज की गई।",
       "tip_hi": "बिहार में साक्षरता चरम पर: कुल मिलाकर सबसे कम = पूर्णिया (51.08%); न्यूनतम महिला साक्षरता=सहरसा (41.68%); उच्चतम साक्षरता (कुल मिलाकर, पुरुष, महिला) = रोहतास।"
     },
     {
@@ -31686,7 +31686,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rohtas district recorded the highest overall साक्षरता दर in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is सेकंड with 70.68%.",
+      "explanation_hi": "रोहतास जिले में बिहार में सबसे अधिक समग्र साक्षरता दर 73.37% (पुरुष साक्षरता 82.88%, महिला साक्षरता 62.97%) दर्ज की गई। 70.68% के साथ पटना दूसरे स्थान पर है।",
       "tip_hi": "उच्चतम साक्षरता = रोहतास (73.37%); न्यूनतम साक्षरता = पूर्णिया (51.08%)।"
     },
     {
@@ -31713,7 +31713,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi announced that the landing site of Vikram lander on 23 अगस्त 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 अगस्त declared 'National Space दिन'.",
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने घोषणा की कि 23 अगस्त 2023 को विक्रम लैंडर की लैंडिंग साइट का नाम 'शिव शक्ति पॉइंट' रखा गया है। चंद्रयान-2 के दुर्घटना स्थल को 'तिरंगा प्वाइंट' नामित किया गया और 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' घोषित किया गया।",
       "tip_hi": "चंद्रयान-3 टचडाउन = शिव शक्ति बिंदु; चंद्रयान-2 प्रभाव =तिरंगा बिंदु; 23 अगस्त = राष्ट्रीय अंतरिक्ष दिवस."
     },
     {
@@ -31740,7 +31740,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 31 दिसम्बर 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th वित्त आयोग. N.K. Singh headed the 15th वित्त आयोग.",
+      "explanation_hi": "31 दिसंबर 2023 को सरकार ने नीति आयोग के पूर्व उपाध्यक्ष डॉ. अरविंद पनगढ़िया को 16वें वित्त आयोग का अध्यक्ष नियुक्त किया। एन.के. सिंह ने 15वें वित्त आयोग का नेतृत्व किया।",
       "tip_hi": "16वें वित्त आयोग के अध्यक्ष = डॉ. अरविंद पनगढ़िया; 15वें एफसी अध्यक्ष = एन.के. सिंह।"
     },
     {
@@ -31821,8 +31821,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "National Highway 27 is the सेकंड longest national highway in India, connecting Porbandar in Gujarat to Silchar in Assam. In Bihar, it traverses Gopalganj, Motihari, Muzaffarpur, Darbhanga, Jhanjharpur, Supaul, and Purnia as the 4-lane पूर्व-पश्चिम Corridor.",
-      "tip_hi": "पूर्व-पश्चिम Corridor through उत्तर Bihar = NH 27 (Old NH 28 & 31)."
+      "explanation_hi": "राष्ट्रीय राजमार्ग 27 भारत का दूसरा सबसे लंबा राष्ट्रीय राजमार्ग है, जो गुजरात के पोरबंदर को असम के सिलचर से जोड़ता है। बिहार में, यह 4-लेन ईस्ट-वेस्ट कॉरिडोर के रूप में गोपालगंज, मोतिहारी, मुजफ्फरपुर, दरभंगा, झंझारपुर, सुपौल और पूर्णिया से होकर गुजरता है।",
+      "tip_hi": "उत्तर बिहार के माध्यम से पूर्व-पश्चिम गलियारा = NH 27 (पुराना NH 28 और 31)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -31848,7 +31848,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "NEP 2020 restructured school curriculum into four stages: 5 वर्ष Foundational stage (ages 3-8), 3 वर्ष Preparatory stage (ages 8-11), 3 वर्ष Middle stage (ages 11-14), and 4 वर्ष Secondary stage (ages 14-18).",
+      "explanation_hi": "एनईपी 2020 ने स्कूली पाठ्यक्रम को चार चरणों में पुनर्गठित किया: 5 साल का बुनियादी चरण (उम्र 3-8), 3 साल का प्रारंभिक चरण (उम्र 8-11), 3 साल का मध्य चरण (उम्र 11-14), और 4 साल का माध्यमिक चरण (उम्र 14-18)।",
       "tip_hi": "एनईपी 2020 पाठ्यचर्या रूपरेखा = 5 + 3 + 3 + 4 (10 + 2 की जगह)।\nउत्तर कुंजी सारांश तालिका - सेट 9 (प्रश्न 321 से 360)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ],
@@ -31877,7 +31877,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बाबू कुंवर सिंह of Jagdishpur (Bhojpur) led the armed rebellion across Arrah, Patna, and Azamgarh until his death in अप्रैल 1858. His brother Amar Singh continued guerrilla warfare in Kaimur hills.",
+      "explanation_hi": "जगदीशपुर (भोजपुर) के बाबू कुँवर सिंह ने अप्रैल 1858 में अपनी मृत्यु तक आरा, पटना और आज़मगढ़ में सशस्त्र विद्रोह का नेतृत्व किया। उनके भाई अमर सिंह ने कैमूर पहाड़ियों में गुरिल्ला युद्ध जारी रखा।",
       "tip_hi": "BPSC ने बड़े पैमाने पर कुँवर सिंह का परीक्षण किया; 23 अप्रैल 1858 को कैप्टन ले ग्रैंड की उनकी ऐतिहासिक हार को याद करें।"
     },
     {
@@ -31904,8 +31904,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गांधी-इरविन समझौता (5 मार्च 1931) (Delhi Pact) हस्ताक्षरित हुआ था 5th मार्च 1931 between महात्मा गांधी and Viceroy Lord Irwin, resulting in suspension of the Civil Disobedience Movement.",
-      "tip_hi": "1931 Sequence: 5 मार्च (गांधी-इरविन समझौता (5 मार्च 1931)) -> 23 मार्च (भगत सिंह execution) -> 29 मार्च (Karachi Session)."
+      "explanation_hi": "5 मार्च 1931 को महात्मा गांधी और वायसराय लॉर्ड इरविन के बीच गांधी-इरविन संधि (दिल्ली संधि) पर हस्ताक्षर किए गए, जिसके परिणामस्वरूप सविनय अवज्ञा आंदोलन को निलंबित कर दिया गया।",
+      "tip_hi": "1931 अनुक्रम: 5 मार्च (गांधी-इरविन समझौता) -> 23 मार्च (भगत सिंह फांसी) -> 29 मार्च (कराची सत्र)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -31931,8 +31931,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Poona Pact हस्ताक्षरित हुआ था 24th सितम्बर 1932 at Yerwada Jail between डॉ. बी.आर. अम्बेडकर and मदन मोहन मालवीय, replacing separate electorates with reserved seats.",
-      "tip_hi": "Memorize the वर्ष 1932: Communal Award (अगस्त) -> Fast unto death -> Poona Pact (24 सितम्बर 1932)."
+      "explanation_hi": "पूना संधि पर 24 सितंबर 1932 को यरवदा जेल में डॉ. बी.आर. के बीच हस्ताक्षर किए गए थे। अम्बेडकर और मदन मोहन मालवीय ने अलग निर्वाचन क्षेत्रों की जगह आरक्षित सीटें ला दीं।",
+      "tip_hi": "वर्ष 1932 को याद करें: सांप्रदायिक निर्णय (अगस्त) -> आमरण अनशन -> पूना समझौता (24 सितंबर 1932)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -31958,8 +31958,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The slogan 'Inquilab Zindabad' was coined in 1921 by Urdu poet and freedom fighter Maulana मौलाना हसरत मोहानी, and later popularized across India by भगत सिंह.",
-      "tip_hi": "BPSC official key consistently attributes the creation/coining of this slogan to Maulana मौलाना हसरत मोहानी."
+      "explanation_hi": "'इंकलाब जिंदाबाद' का नारा 1921 में उर्दू कवि और स्वतंत्रता सेनानी मौलाना हसरत मोहानी द्वारा दिया गया था, और बाद में भगत सिंह द्वारा पूरे भारत में लोकप्रिय हुआ।",
+      "tip_hi": "BPSC की आधिकारिक कुंजी लगातार इस नारे के निर्माण/इस्तेमाल का श्रेय मौलाना हसरत मोहानी को देती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -31985,8 +31985,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "भारी जल (D2O) (D2O / Deuterium oxide) functions as a मंदक (Moderator) in thermal nuclear reactors to slow down fast fission neutrons to thermal speeds without excessive neutron absorption.",
-      "tip_hi": "मंदक (Moderator) = slows down neutrons (D2O, Graphite); नियंत्रक छड़ें = absorbs neutrons (Cadmium, Boron)."
+      "explanation_hi": "भारी पानी (D2O / ड्यूटेरियम ऑक्साइड) थर्मल परमाणु रिएक्टरों में एक मॉडरेटर के रूप में कार्य करता है जो अत्यधिक न्यूट्रॉन अवशोषण के बिना तेज विखंडन न्यूट्रॉन को थर्मल गति तक धीमा कर देता है।",
+      "tip_hi": "मॉडरेटर = न्यूट्रॉन को धीमा कर देता है (D2O, ग्रेफाइट); नियंत्रण छड़ें = न्यूट्रॉन (कैडमियम, बोरॉन) को अवशोषित करती हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -32039,8 +32039,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लैक्टियल्स (दूधिया नलिकाएं) are specialized लसिका कोशिकाएं situated in the आंत्र रसांकुर (विली) that absorb dietary emulsified fats (chylomicrons) into the लसिका तंत्र.",
-      "tip_hi": "Do not get confused by 'lact-'; in human पाचन, लैक्टियल्स (दूधिया नलिकाएं) absorb fats, while blood capillaries absorb sugars and amino acids."
+      "explanation_hi": "लैक्टियल्स आंतों के विली में स्थित विशेष लसीका केशिकाएं हैं जो लसीका प्रणाली में आहार इमल्सीफाइड वसा (काइलोमाइक्रोन) को अवशोषित करती हैं।",
+      "tip_hi": "'लैक्ट-' से भ्रमित न हों; मानव पाचन में, लैक्टियल्स वसा को अवशोषित करते हैं, जबकि रक्त केशिकाएं शर्करा और अमीनो एसिड को अवशोषित करती हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -32066,8 +32066,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin) is secreted by salivary glands in the mouth, breaking down complex dietary starch into maltose and dextrin.",
-      "tip_hi": "Amylase operates at pH 6.8 in the mouth; पेप्सिन breaks down proteins in the आमाशय (पेट) in अम्लीय pH (1.5-2.0)."
+      "explanation_hi": "लार एमाइलेज (पीटालिन) मुंह में लार ग्रंथियों द्वारा स्रावित होता है, जो जटिल आहार स्टार्च को माल्टोज़ और डेक्सट्रिन में तोड़ देता है।",
+      "tip_hi": "एमाइलेज मुंह में पीएच 6.8 पर काम करता है; पेप्सिन अम्लीय pH (1.5-2.0) में पेट में प्रोटीन को तोड़ता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -32093,7 +32093,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hydrated aluminium silicate (Al2O3 · 2SiO2 · 2H2O) corresponds to the mineral kaolinite, commercially के रूप में जाना जाता है china clay.",
+      "explanation_hi": "हाइड्रेटेड एल्यूमीनियम सिलिकेट (Al2O3 · 2SiO2 · 2H2O) खनिज काओलिनाइट से मेल खाता है, जिसे व्यावसायिक रूप से चीनी मिट्टी के रूप में जाना जाता है।",
       "tip_hi": "रेत = SiO2; बॉक्साइट = Al2O3 · 2H2O; चाइना क्ले (काओलिन) में सिलिकेट इकाई 2SiO2 शामिल है।"
     },
     {
@@ -32201,8 +32201,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "डॉ. राजेंद्र प्रसाद authored 'India Divided' in 1946 while detained at Bankipore Jail के दौरान Quit India, presenting a rigorous analysis opposing partition.",
-      "tip_hi": "Major books by डॉ. राजेंद्र प्रसाद: 'India Divided', 'Atmakatha', and 'Champaran Mein महात्मा गांधी'."
+      "explanation_hi": "भारत छोड़ो आंदोलन के दौरान बांकीपुर जेल में बंद रहने के दौरान डॉ. राजेंद्र प्रसाद ने 1946 में 'इंडिया डिवाइडेड' लिखी, जिसमें विभाजन का विरोध करते हुए एक कठोर विश्लेषण प्रस्तुत किया गया।",
+      "tip_hi": "डॉ. राजेंद्र प्रसाद की प्रमुख पुस्तकें: 'इंडिया डिवाइडेड', 'आत्मकथा' और 'चंपारण में महात्मा गांधी'।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -32337,7 +32337,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "केल्विन चक्र (अंधेरे प्रतिक्रिया) के दौरान, कार्बन डाइऑक्साइड ग्लूकोज को संश्लेषित करने के लिए इलेक्ट्रॉनों और हाइड्रोजन आयनों को स्वीकार करता है, जो रासायनिक कमी का प्रतिनिधित्व करता है।",
-      "tip_hi": "In प्रकाश संश्लेषण: Water is oxidized to Oxygen, while CO2 is reduced to Carbohydrates."
+      "tip_hi": "प्रकाश संश्लेषण में: पानी ऑक्सीजन में ऑक्सीकृत हो जाता है, जबकि CO2 कार्बोहाइड्रेट में अपचयित हो जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -32364,7 +32364,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ट्रैकोमा एक संक्रामक जीवाणु नेत्र संक्रमण है जो क्लैमाइडिया ट्रैकोमैटिस के कारण होता है, जिससे आंतरिक पलकें खुरदरी हो जाती हैं और अंधापन हो सकता है।",
-      "tip_hi": "Common eye disorders in BPSC: Trachoma, Cataract, Glaucoma, अबिंदुकता (एस्टिग्मैटिज्म), and निकट दृष्टि दोष (मायोपिया)."
+      "tip_hi": "बीपीएससी में सामान्य नेत्र विकार: ट्रैकोमा, मोतियाबिंद, ग्लूकोमा, दृष्टिवैषम्य और मायोपिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -32417,8 +32417,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lord Curzon's partition of Bengal took official effect on 16th अक्टूबर 1905, marked as a दिन of national mourning and Rakhi Bandhan across Bengal.",
-      "tip_hi": "Timeline of 1905: 20 जुलाई (Partition announced) -> 7 अगस्त (Boycott resolution at Calcutta) -> 16 अक्टूबर (Enforced)."
+      "explanation_hi": "लॉर्ड कर्जन द्वारा बंगाल का विभाजन 16 अक्टूबर 1905 को आधिकारिक रूप से प्रभावी हुआ, जिसे पूरे बंगाल में राष्ट्रीय शोक और राखी बंधन के दिन के रूप में मनाया गया।",
+      "tip_hi": "1905 की समयरेखा: 20 जुलाई (विभाजन की घोषणा) -> 7 अगस्त (कलकत्ता में बहिष्कार प्रस्ताव) -> 16 अक्टूबर (लागू)।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -32445,7 +32445,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "अखिल भारतीय कांग्रेस कमेटी ने 8 अगस्त 1942 को गोवालिया टैंक मैदान, बॉम्बे में ऐतिहासिक भारत छोड़ो प्रस्ताव की आधिकारिक पुष्टि की।",
-      "tip_hi": "8 अगस्त 1942 = Resolution passed ('Do or Die'); 9 अगस्त 1942 = Operation Zero घंटे arrests launched."
+      "tip_hi": "8 अगस्त 1942 = संकल्प पारित ('करो या मरो'); 9 अगस्त 1942 = ऑपरेशन जीरो आवर गिरफ्तारियां शुरू की गईं।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -32498,8 +32498,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "दादाभाई नौरोजी founded the पूर्व India Association (1866) and served as MP in the British House of Commons, championing Indian rights in Britain.",
-      "tip_hi": "दादाभाई नौरोजी formulated the 'Drain of Wealth' theory in 'Poverty and Un-British Rule in India'."
+      "explanation_hi": "दादाभाई नौरोजी ने ईस्ट इंडिया एसोसिएशन (1866) की स्थापना की और ब्रिटेन में भारतीय अधिकारों की वकालत करते हुए ब्रिटिश हाउस ऑफ कॉमन्स में सांसद के रूप में कार्य किया।",
+      "tip_hi": "दादाभाई नौरोजी ने 'भारत में गरीबी और गैर-ब्रिटिश शासन' में 'धन के निकास' सिद्धांत का प्रतिपादन किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -32525,7 +32525,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pandit जवाहरलाल नेहरू described the 1935 Act as a 'new charter of slavery' and a machine with 'all brakes, but no engine.' His name is missing, so (E) is correct.",
+      "explanation_hi": "पंडित जवाहरलाल नेहरू ने 1935 के अधिनियम को 'गुलामी का नया चार्टर' और 'सभी ब्रेक, लेकिन कोई इंजन नहीं' वाली मशीन बताया। उसका नाम गायब है, इसलिए (ई) सही है।",
       "tip_hi": "प्रसिद्ध उद्धरण जिनके लेखक विकल्प (ए), (बी), और (सी) से अनुपस्थित हैं, क्लासिक बीपीएससी विकल्प (ई) ट्रिगर हैं।"
     },
     {
@@ -32553,7 +32553,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कैप्टन मोहन सिंह ने 1942 में मलाया में प्रथम भारतीय राष्ट्रीय सेना की स्थापना की। बाद में सुभाष चंद्र बोस ने इसे पुनर्गठित किया और 1943 में इसकी कमान संभाली।",
-      "tip_hi": "Founder = Captain Mohan Singh; Supreme Commander & Reorganizer = Netaji सुभाष चंद्र बोस."
+      "tip_hi": "संस्थापक = कैप्टन मोहन सिंह; सर्वोच्च कमांडर एवं पुनर्गठनकर्ता =नेताजी सुभाष चंद्र बोस।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -32579,8 +32579,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बंकिम चंद्र चटर्जी's novel 'Anandamath' (1882) is set के दौरान the Bengal famine of 1770 and depicts the Sannyasi and Fakir Rebellion (1763-1800).",
-      "tip_hi": "India's national song 'Vande Mataram' was originally written by बंकिम चंद्र चटर्जी in 'Anandamath'."
+      "explanation_hi": "बंकिम चंद्र चटर्जी का उपन्यास 'आनंदमठ' (1882) 1770 के बंगाल के अकाल के समय पर आधारित है और इसमें संन्यासी और फकीर विद्रोह (1763-1800) को दर्शाया गया है।",
+      "tip_hi": "भारत का राष्ट्रीय गीत 'वंदे मातरम' मूल रूप से बंकिम चंद्र चटर्जी द्वारा 'आनंदमठ' में लिखा गया था।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -32633,7 +32633,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Swami Vidyanand led peasant movements across उत्तर Bihar (particularly against the Darbhanga Raj) के दौरान the Non-Cooperation period (1919-1922).",
+      "explanation_hi": "स्वामी विद्यानंद ने असहयोग काल (1919-1922) के दौरान पूरे उत्तर बिहार (विशेषकर दरभंगा राज के खिलाफ) में किसान आंदोलनों का नेतृत्व किया।",
       "tip_hi": "चम्पारण 1917 = राज कुमार शुक्ल; असहयोग 1919-22 = स्वामी विद्यानन्द; किसान सभा 1929-36 = स्वामी सहजानन्द।"
     },
     {
@@ -32660,7 +32660,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Scottish watchmaker David Hare, along with राजा राममोहन राय and Radhakanta Deb, founded Hindu College in Calcutta in 1817.",
+      "explanation_hi": "स्कॉटिश घड़ी निर्माता डेविड हेयर ने राजा राम मोहन राय और राधाकांत देब के साथ मिलकर 1817 में कलकत्ता में हिंदू कॉलेज की स्थापना की।",
       "tip_hi": "जोनाथन डंकन ने 1791 में वाराणसी में संस्कृत कॉलेज की स्थापना की; डेरोजियो हिंदू कॉलेज में पढ़ाते थे।"
     },
     {
@@ -32822,7 +32822,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती founded the Bihar Provincial Kisan Sabha (1929) and led militant agrarian agitations across Bihar with the slogan 'Dharm Yuddh'.",
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने बिहार प्रांतीय किसान सभा (1929) की स्थापना की और 'धर्म युद्ध' के नारे के साथ पूरे बिहार में उग्र कृषि आंदोलनों का नेतृत्व किया।",
       "tip_hi": "स्वामी सहजानंद का आश्रम बिहटा (पटना) में था; उनका प्रसिद्ध मुखपत्र 'हुंकार' था।"
     },
     {
@@ -32849,7 +32849,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Marine phytoplankton, algae, and oceanic vegetation contribute over 50-70% of atmospheric oxygen production through global marine प्रकाश संश्लेषण.",
+      "explanation_hi": "समुद्री फाइटोप्लांकटन, शैवाल और समुद्री वनस्पति वैश्विक समुद्री प्रकाश संश्लेषण के माध्यम से वायुमंडलीय ऑक्सीजन उत्पादन में 50-70% से अधिक का योगदान करते हैं।",
       "tip_hi": "स्थलीय वनों में चूक न करें; महासागर फाइटोप्लांकटन पृथ्वी की अधिकांश ऑक्सीजन का उत्पादन करता है।"
     },
     {
@@ -32904,7 +32904,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मैडम भीकाजी कामा ने 22 अगस्त 1907 को जर्मनी के स्टटगार्ट में अंतर्राष्ट्रीय समाजवादी सम्मेलन में भारतीय राष्ट्रीय ध्वज फहराया।",
-      "tip_hi": "Madam Bhikaji Cama is के रूप में जाना जाता है the 'Mother of Indian Revolution'; she published 'Bande Mataram' from Paris."
+      "tip_hi": "मैडम भीकाजी कामा को 'भारतीय क्रांति की जननी' के रूप में जाना जाता है; उन्होंने पेरिस से 'बंदे मातरम्' प्रकाशित किया।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5, Advt. 26/2023)",
@@ -32930,8 +32930,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी inaugurated Bihar Vidyapeeth at Patna on 6th फरवरी 1921 के दौरान the Non-Cooperation Movement to promote national education.",
-      "tip_hi": "Mazharul Haque was the first Chancellor and डॉ. राजेंद्र प्रसाद was the first Principal of Bihar Vidyapeeth.\nAnswer Key Summary Table — Set 1 (Q.1 to Q.40)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+      "explanation_hi": "राष्ट्रीय शिक्षा को बढ़ावा देने के लिए असहयोग आंदोलन के दौरान 6 फरवरी 1921 को महात्मा गांधी ने पटना में बिहार विद्यापीठ का उद्घाटन किया।",
+      "tip_hi": "मज़हरुल हक पहले चांसलर थे और डॉ. राजेंद्र प्रसाद बिहार विद्यापीठ के पहले प्राचार्य थे।\nउत्तर कुंजी सारांश तालिका - सेट 1 (प्र.1 से प्र.40)\nप्र. नहीं.\nबीपीएससी संस्करण और पेपर उत्पत्ति\nकोर कॉन्सेप्ट का परीक्षण किया गया\nआधिकारिक कुंजी"
     }
   ],
   "bpsc-tre4-general-studies-set10": [
@@ -33094,8 +33094,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from पश्चिम leads to दक्षिण-पश्चिम.",
-      "tip_hi": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from पश्चिम is दक्षिण-पश्चिम."
+      "explanation_hi": "शुद्ध घूर्णन = दक्षिणावर्त (45° + 180°) - वामावर्त (270°) = 225° - 270° = -45° (अर्थात् 45° वामावर्त)। पश्चिम से घड़ी की विपरीत दिशा में 45° मुड़ने पर दक्षिण-पश्चिम की ओर जाता है।",
+      "tip_hi": "शुद्ध कोण = 225° CW - 270° ACW = 45° ACW। पश्चिम से 45° वामावर्त दक्षिण-पश्चिम है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33121,8 +33121,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "दक्षिण-पूर्व (135°) becomes उत्तर (0°/360°), जो कि an anti-clockwise rotation of 135°. Rotating पश्चिम (270°) by 135° anti-clockwise: 270° - 135° = 135° = दक्षिण-पूर्व.",
-      "tip_hi": "Rotation = 135° anti-clockwise. पश्चिम rotated 135° ACW becomes दक्षिण-पूर्व."
+      "explanation_hi": "दक्षिण-पूर्व (135°) उत्तर (0°/360°) बन जाता है, जो 135° का वामावर्त घूर्णन है। पश्चिम (270°) से 135° वामावर्त दिशा में घूमना: 270° - 135° = 135° = दक्षिण-पूर्व।",
+      "tip_hi": "घूर्णन = 135° वामावर्त। पश्चिम में 135° पर घुमाया गया ACW दक्षिण-पूर्व बन जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33202,7 +33202,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 किमी (g = GM/R^2). Furthermore, अपकेंद्रीय बल due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
+      "explanation_hi": "पृथ्वी एक चपटा गोलाकार है जिसकी भूमध्यरेखीय त्रिज्या ध्रुवीय त्रिज्या से ~21 किमी (g = GM/R^2) अधिक है। इसके अलावा, पृथ्वी के घूमने के कारण केन्द्रापसारक बल ध्रुवों पर शून्य और भूमध्य रेखा पर अधिकतम होता है। परिणामस्वरूप, 'g' ध्रुवों पर अधिकतम (~9.83 m/s^2) और भूमध्य रेखा पर न्यूनतम (~9.78 m/s^2) होता है।",
       "tip_hi": "'जी' का मान: ध्रुवों पर अधिकतम, भूमध्य रेखा पर न्यूनतम, पृथ्वी के केंद्र पर शून्य।"
     },
     {
@@ -33229,8 +33229,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed अवश्रव्य (इन्फ्रासोनिक) (produced by earthquakes, elephants), and frequencies above 20 kHz are termed पराध्वनि (अल्ट्रासोनिक) (utilized by bats, dolphins, and medical ultrasound).",
-      "tip_hi": "श्रव्य range = 20 Hz – 20 kHz; अवश्रव्य (इन्फ्रासोनिक) < 20 Hz; पराध्वनि (अल्ट्रासोनिक) > 20 kHz."
+      "explanation_hi": "मानव श्रवण की क्षमता 20 हर्ट्ज़ से 20,000 हर्ट्ज़ तक होती है। 20 हर्ट्ज से नीचे की आवृत्तियों को इन्फ़्रासोनिक (भूकंप, हाथियों द्वारा निर्मित) कहा जाता है, और 20 किलोहर्ट्ज़ से ऊपर की आवृत्तियों को अल्ट्रासोनिक (चमगादड़, डॉल्फ़िन और मेडिकल अल्ट्रासाउंड द्वारा उपयोग किया जाता है) कहा जाता है।",
+      "tip_hi": "श्रव्य सीमा = 20 हर्ट्ज - 20 किलोहर्ट्ज़; इन्फ्रासोनिक <20 हर्ट्ज; अल्ट्रासोनिक > 20 किलोहर्ट्ज़।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33283,8 +33283,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सिलियरी मांसपेशियां contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.",
-      "tip_hi": "Power of accommodation = सिलियरी मांसपेशियां; Regulates पुतली size and light entry = आईरिस."
+      "explanation_hi": "निकट की वस्तुओं को देखने के लिए सिलिअरी मांसपेशियाँ लेंस की वक्रता और शक्ति को बढ़ाने के लिए सिकुड़ती हैं, और दूर की वस्तुओं को देखने के लिए लेंस को समतल करने के लिए आराम करती हैं। इस क्षमता को 'समायोजन की शक्ति' कहा जाता है।",
+      "tip_hi": "आवास की शक्ति = सिलिअरी मांसपेशियाँ; पुतली के आकार और प्रकाश प्रवेश को नियंत्रित करता है = आईरिस।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33310,8 +33310,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "हीमोग्लोबिन is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
-      "tip_hi": "Iron deficiency = हीमोग्लोबिन reduction => Nutritional Anaemia."
+      "explanation_hi": "हीमोग्लोबिन एक संयुग्मित मेटालोप्रोटीन है जिसमें चार लौह-पोर्फिरिन (हीम) समूह होते हैं। आयरन की कमी से माइक्रोसाइटिक हाइपोक्रोमिक एनीमिया होता है, जो थकान, पीली त्वचा और ऑक्सीजन परिवहन क्षमता में कमी की विशेषता है।",
+      "tip_hi": "आयरन की कमी = हीमोग्लोबिन में कमी => पोषण संबंधी एनीमिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33364,8 +33364,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मीथेन constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) consists primarily of ब्यूटेन and प्रोपेन.",
-      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन."
+      "explanation_hi": "मीथेन सीएनजी का 75-90% और बायोगैस (गोबर गैस) का 55-70% है। तरलीकृत पेट्रोलियम गैस (एलपीजी) में मुख्य रूप से ब्यूटेन और प्रोपेन होते हैं।",
+      "tip_hi": "सीएनजी और बायोगैस = मीथेन (CH4); एलपीजी = ब्यूटेन + प्रोपेन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33391,7 +33391,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 3 जुलाई 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 जुलाई 1857.",
+      "explanation_hi": "3 जुलाई 1857 को, पीर अली खान ने ब्रिटिश शासन के खिलाफ पटना शहर में एक सशस्त्र विद्रोह का नेतृत्व किया, जिसमें डॉ. लिएल की मौत हो गई। उन्हें पकड़ लिया गया, साथियों के नामों का खुलासा करने से इनकार कर दिया गया और 7 जुलाई 1857 को सार्वजनिक रूप से फांसी दे दी गई।",
       "tip_hi": "1857 पटना शहर विद्रोह के नेता = पीर अली खान (कमिश्नर विलियम टायलर द्वारा फाँसी)।"
     },
     {
@@ -33418,7 +33418,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted डॉ. राजेंद्र प्रसाद and Gandhi, exposing the assassination plot.",
+      "explanation_hi": "मोतिहारी में नील की खेती करने वाले इरविन के आवास पर काम करने वाले कर्मचारी बटक मियां को गांधीजी को जहर मिला दूध का गिलास देने का आदेश दिया गया। इसके बजाय, उन्होंने हत्या की साजिश का पर्दाफाश करते हुए डॉ. राजेंद्र प्रसाद और गांधी को सचेत कर दिया।",
       "tip_hi": "चंपारण में गांधीजी की जान बचाई (1917) = बटक मियां (बेतिया/मोतिहारी)।"
     },
     {
@@ -33445,7 +33445,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the गंगा नदी in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of डॉ. राजेंद्र प्रसाद.",
+      "explanation_hi": "मौलाना मजहरुल हक ने पटना के दीघा में गंगा के तट पर अपने उदार मित्र खैरुन मियां द्वारा दान किये गये आम के बगीचे पर सदाकत आश्रम का निर्माण कराया। बाद में इसने बिहार कांग्रेस के मुख्यालय और डॉ. राजेंद्र प्रसाद के सेवानिवृत्ति गृह के रूप में कार्य किया।",
       "tip_hi": "मजहरुल हक द्वारा स्थापित सदाकत आश्रम; खैरुन मियां द्वारा दान में दी गई जमीन।"
     },
     {
@@ -33472,8 +33472,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in फरवरी 1923 with Narayan Prasad as राष्ट्रपति and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.",
-      "tip_hi": "Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first मुख्यमंत्री of Bihar)."
+      "explanation_hi": "गया कांग्रेस विभाजन के बाद, फरवरी 1923 में बिहार में स्वराज पार्टी की एक शाखा स्थापित की गई, जिसके अध्यक्ष नारायण प्रसाद और सचिव अब्दुल बारी थे, जिसका विधान परिषद में राजनीतिक नेतृत्व डॉ. श्रीकृष्ण सिंह ने किया।",
+      "tip_hi": "स्वराज दल बिहार शाखा (1923) = श्रीकृष्ण सिंह (बिहार के पहले मुख्यमंत्री) के नेतृत्व में।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33499,8 +33499,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress राष्ट्रपति continuously from 1940 to 1946 के दौरान World War II.",
-      "tip_hi": "1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (राष्ट्रपति continuously 1940-46)."
+      "explanation_hi": "मौलाना अबुल कलाम आज़ाद ने ऐतिहासिक 1940 के रामगढ़ सत्र की अध्यक्षता की, जहाँ कांग्रेस ने घोषणा की कि पूर्ण स्वतंत्रता से कम कुछ भी स्वीकार्य नहीं होगा। वे द्वितीय विश्व युद्ध के दौरान 1940 से 1946 तक लगातार कांग्रेस अध्यक्ष रहे।",
+      "tip_hi": "1940 रामगढ़ कांग्रेस अधिवेशन = मौलाना अबुल कलाम आज़ाद (लगातार 1940-46 तक अध्यक्ष)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33527,7 +33527,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जब जिला मजिस्ट्रेट डब्ल्यू जी आर्चर ने गोरखा सैन्य पुलिस को उन पर गोली चलाने का आदेश दिया तो सात युवा छात्र (देवीपत चौधरी, उमाकांत प्रसाद सिन्हा, रामानंद सिंह, सतीश प्रसाद झा, जगपति कुमार, राजेंद्र सिंह और रामगोविंद सिंह) शहीद हो गए।",
-      "tip_hi": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 अगस्त 1942 (DM W.G. Archer)."
+      "tip_hi": "पटना सचिवालय गोलीबारी के 'सात शहीद' (सत शहीद) = 11 अगस्त 1942 (डीएम डब्ल्यू.जी. आर्चर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33580,7 +33580,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ralph Fitch visited Patna in 1586 के दौरान Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the गंगा नदी.",
+      "explanation_hi": "राल्फ़ फिच ने 1586 में अकबर के शासनकाल के दौरान पटना का दौरा किया और इसे गंगा के किनारे कपास, चीनी और अफ़ीम के समृद्ध व्यापार वाला एक समृद्ध वाणिज्यिक महानगर बताया।",
       "tip_hi": "बिहार/पटना की यात्रा करने वाला प्रथम अंग्रेज यात्री = राल्फ फिच (1586, अकबर का शासनकाल)।"
     },
     {
@@ -33607,8 +33607,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंडक नदी merges into the left bank of the गंगा नदी at Sonpur (Saran) opposite Hajipur (Vaishali), the site of the world-famous Harihar Kshetra Sonepur Mela, Asia's largest cattle fair held on Kartik Purnima.",
-      "tip_hi": "गंडक नदी meets गंगा नदी at Sonpur/Hajipur; सोन नदी meets गंगा नदी at Maner/Danapur; Punpun meets गंगा नदी at Fatuha."
+      "explanation_hi": "गंडक सोनपुर (सारण) में हाजीपुर (वैशाली) के सामने गंगा के बाएं किनारे में विलीन हो जाती है, जो विश्व प्रसिद्ध हरिहरक्षेत्र सोनपुर मेला का स्थल है, जो कार्तिक पूर्णिमा पर आयोजित होने वाला एशिया का सबसे बड़ा पशु मेला है।",
+      "tip_hi": "गंडक सोनपुर/हाजीपुर में गंगा से मिलती है; मनेर/दानापुर में गंगा से मिला बेटा; पुनपुन फतुहा में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33634,7 +33634,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Khadar is new alluvium deposited annually by monsoon floodwaters in low-lying river plains (गंडक नदी, कोसी नदी, Bagmati), highly fertile and rich in fine silt. Bangar represents older alluvium situated in upland terraces above flood level.",
+      "explanation_hi": "खादर नदी के निचले मैदानों (गंडक, कोसी, बागमती) में मानसूनी बाढ़ के पानी द्वारा प्रतिवर्ष जमा होने वाला नया जलोढ़ है, जो अत्यधिक उपजाऊ और महीन गाद से भरपूर होता है। बांगर बाढ़ स्तर से ऊपर ऊपरी छतों में स्थित पुराने जलोढ़ का प्रतिनिधित्व करता है।",
       "tip_hi": "नवीन बाढ़ जलोढ़ = खादर (अत्यधिक उपजाऊ); पुराना ऊपरी जलोढ़ = बांगर (कंकड़ पिंड शामिल हैं)।"
     },
     {
@@ -33661,7 +33661,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture सल्फ्यूरिक अम्ल (H2SO4).",
+      "explanation_hi": "रोहतास जिले के अमझोर में आयरन पाइराइट्स (FeS2) का भारत का प्रमुख भंडार है, जो कुल राष्ट्रीय भंडार का ~95% है, जिसका उपयोग पाइराइट्स, फॉस्फेट्स एंड केमिकल्स लिमिटेड (पीपीसीएल) द्वारा सल्फ्यूरिक एसिड के निर्माण के लिए किया जाता है।",
       "tip_hi": "बिहार में पाइराइट = अमझोर (रोहतास) - भारत का 95% भंडार; फ़ूल्स गोल्ड।"
     },
     {
@@ -33715,7 +33715,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Saharsa recorded the lowest female साक्षरता दर in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
+      "explanation_hi": "बिहार में सबसे कम महिला साक्षरता दर 41.68% के साथ सहरसा में दर्ज की गई। (नोट: जबकि पूर्णिया में 51.08% के साथ सबसे कम समग्र साक्षरता दर्ज की गई, जबकि सहरसा में विशेष रूप से सबसे कम महिला साक्षरता दर्ज की गई)। रोहतास में महिला साक्षरता सबसे अधिक (62.97%) थी।",
       "tip_hi": "महत्वपूर्ण जनगणना जाल: सबसे कम समग्र साक्षरता = पूर्णिया (51.08%); न्यूनतम महिला साक्षरता=सहरसा (41.68%)।"
     },
     {
@@ -33823,8 +33823,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 118(4), the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting. In his absence, the Deputy अध्यक्ष (स्पीकर) presides, and if both are absent, the Deputy Chairman of the राज्यसभा presides. The Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides.",
-      "tip_hi": "Joint sitting: Summoned by राष्ट्रपति (Art. 108); Presided by लोकसभा अध्यक्ष (स्पीकर) (Art. 118(4))."
+      "explanation_hi": "अनुच्छेद 118(4) के तहत, लोकसभा अध्यक्ष संयुक्त बैठक की अध्यक्षता करता है। उनकी अनुपस्थिति में, उपसभापति अध्यक्षता करता है, और यदि दोनों अनुपस्थित हैं, तो राज्यसभा के उपसभापति अध्यक्षता करते हैं। राज्यसभा का सभापति (उपराष्ट्रपति) कभी अध्यक्षता नहीं करता।",
+      "tip_hi": "संयुक्त बैठक: राष्ट्रपति द्वारा बुलाया गया (अनुच्छेद 108); अध्यक्षता लोकसभा अध्यक्ष द्वारा की जाती है (अनुच्छेद 118(4))।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -33850,7 +33850,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd संशोधन added 10 duties in अनुच्छेद 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th संशोधन 2002.",
+      "explanation_hi": "सरदार स्वर्ण सिंह समिति (1976) ने मौलिक कर्तव्यों को शामिल करने की सिफारिश की। 42वें संशोधन ने यूएसएसआर संविधान से उधार लिए गए अनुच्छेद 51ए में 10 कर्तव्य जोड़े। 86वें संशोधन 2002 द्वारा 11वां कर्तव्य जोड़ा गया।",
       "tip_hi": "मौलिक कर्तव्य = स्वर्ण सिंह समिति (1976), 42वां संशोधन, यूएसएसआर से उधार लिया गया।"
     },
     {
@@ -33877,7 +33877,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the 56-दिन hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 अक्टूबर 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
+      "explanation_hi": "पोट्टी श्रीरामुलु की 56 दिनों की भूख हड़ताल और शहादत के बाद, 1 अक्टूबर 1953 को मद्रास राज्य (राजधानी कुरनूल) के उत्तरी जिलों को अलग करके तेलुगु भाषी लोगों के लिए आंध्र राज्य बनाया गया था। इसके परिणामस्वरूप फज़ल अली राज्य पुनर्गठन आयोग (1953) का गठन हुआ।",
       "tip_hi": "प्रथम भाषाई राज्य = आंध्र राज्य (1 अक्टूबर 1953); आमरण अनशन = पोट्टी श्रीरामुलु."
     },
     {
@@ -33904,8 +33904,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांवर झील (बेगूसराय) (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River. It was designated as India's 39th Ramsar site in जुलाई 2020.",
-      "tip_hi": "Bihar's 1st Ramsar Site = कांवर झील (बेगूसराय) / Kabartal (Begusarai, 2020; Oxbow lake of Burhi गंडक नदी)."
+      "explanation_hi": "बेगुसराय जिले में कांवर झील (कबरतल) एशिया की सबसे बड़ी मीठे पानी की ऑक्सबो झील है, जो बूढ़ी गंडक नदी के घुमावदार मोड़ से बनी है। इसे जुलाई 2020 में भारत की 39वीं रामसर साइट के रूप में नामित किया गया था।",
+      "tip_hi": "बिहार का पहला रामसर स्थल = कांवर झील/कबरतल (बेगूसराय, 2020; बूढ़ी गंडक की ऑक्सबो झील)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -34014,7 +34014,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Downstream speed (D) = 36 / 3 = 12 किमी/h. Upstream speed (U) = 24 / 4 = 6 किमी/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/h. (Speed of boat in still water = (12 + 6)/2 = 9 किमी/h).",
+      "explanation_hi": "डाउनस्ट्रीम गति (डी) = 36/3 = 12 किमी/घंटा। धारा के प्रतिकूल गति (यू) = 24/4 = 6 किमी/घंटा। धारा की गति = (डी - यू) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/घंटा। (शांत पानी में नाव की गति = (12 + 6)/2 = 9 किमी/घंटा)।",
       "tip_hi": "वर्तमान गति = (डाउनस्ट्रीम - अपस्ट्रीम) / 2 = (12 - 6) / 2 = 3 किमी/घंटा।"
     },
     {
@@ -34176,8 +34176,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "उत्तर 10 किमी (+10y) -> पश्चिम 6 किमी (-6x) -> दक्षिण 10 किमी (-10y). Net displacement = -6x = 6 किमी due पश्चिम of starting position.",
-      "tip_hi": "Vertical movements (+10 किमी उत्तर and -10 किमी दक्षिण) cancel out; leaves 6 किमी पश्चिम."
+      "explanation_hi": "उत्तर 10 किमी (+10 वर्ष) -> पश्चिम 6 किमी (-6x) -> दक्षिण 10 किमी (-10 वर्ष)। शुद्ध विस्थापन = -6x = प्रारंभिक स्थिति के पश्चिम में 6 किमी।",
+      "tip_hi": "लंबवत गतिविधियां (+10 किमी उत्तर और -10 किमी दक्षिण) रद्द हो जाती हैं; 6 किमी पश्चिम की ओर निकलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34230,8 +34230,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पलायन वेग ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 किमी/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 किमी/s (ve = √2 * vo).",
-      "tip_hi": "पलायन वेग from Earth = 11.2 किमी/s; from Moon = 2.4 किमी/s; Orbital velocity = 7.9 किमी/s."
+      "explanation_hi": "पलायन वेग ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 मीटर/सेकेंड = 11.2 किमी/सेकेंड। सतह के निकट कक्षीय वेग vo = √(gR) ≈ 7.9 किमी/सेकेंड (ve = √2 * vo)।",
+      "tip_hi": "पृथ्वी से पलायन वेग = 11.2 किमी/सेकेंड; चंद्रमा से = 2.4 किमी/सेकेंड; कक्षीय वेग = 7.9 किमी/सेकेंड."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34311,7 +34311,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of क्षारीय zinc carbonate and acts as a sacrificial sacrificial anode क्योंकि its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
+      "explanation_hi": "गैल्वनीकरण लोहे की चादरों पर पिघले जस्ते की परत चढ़ाता है। जिंक बुनियादी जिंक कार्बोनेट की एक अवरोधक परत बनाता है और एक बलि बलि एनोड के रूप में कार्य करता है क्योंकि इसकी ऑक्सीकरण क्षमता (-0.76 V) लोहे (-0.44 V) की तुलना में अधिक नकारात्मक है।",
       "tip_hi": "गैल्वनीकरण = लोहे (Fe) पर जिंक (Zn) की कोटिंग।"
     },
     {
@@ -34338,8 +34338,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Senescent लाल रक्त कणिकाएं (RBC) are engulfed by macrophages in the spleen and यकृत (लीवर). The heme ring of हीमोग्लोबिन is catabolized by heme oxygenase into biliverdin, जो कि reduced to bilirubin and excreted via bile into the intestine.",
-      "tip_hi": "Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of हीमोग्लोबिन."
+      "explanation_hi": "प्लीहा और यकृत में वृद्ध लाल रक्त कोशिकाएं मैक्रोफेज द्वारा घेर ली जाती हैं। हीमोग्लोबिन की हीम रिंग को हीम ऑक्सीजनेज़ द्वारा बिलीवरडीन में अपचयित किया जाता है, जो बिलीरुबिन में बदल जाता है और पित्त के माध्यम से आंत में उत्सर्जित होता है।",
+      "tip_hi": "पित्त वर्णक (बिलीरुबिन और बिलीवरडीन) = हीमोग्लोबिन का कैटाबोलिक क्षरण।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34446,7 +34446,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Despite losing his left arm crossing the गंगा नदी, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 अप्रैल 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 अप्रैल as 'Vijay Utsav'.",
+      "explanation_hi": "गंगा पार करते समय अपना बायाँ हाथ खोने के बावजूद, कुँवर सिंह ने जगदीशपुर में फिर से प्रवेश किया और 23 अप्रैल 1858 को कैप्टन ले ग्रैंड के नेतृत्व में ब्रिटिश सेना को हरा दिया। ले ग्रैंड मारा गया और ब्रिटिश टुकड़ी नष्ट हो गई। बिहार 23 अप्रैल को 'विजय उत्सव' के रूप में मनाता है।",
       "tip_hi": "कैप्टन ले ग्रैंड पर कुँवर सिंह की विजय = 23 अप्रैल 1858 (बिहार में विजय दिवस के रूप में मनाया जाता है)।"
     },
     {
@@ -34473,8 +34473,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 अप्रैल 1917 and went to the residence of डॉ. राजेंद्र प्रसाद (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.",
-      "tip_hi": "Gandhi in Patna (10 अप्रैल 1917) visited डॉ. राजेंद्र प्रसाद's residence first with Raj Kumar Shukla."
+      "explanation_hi": "राज कुमार शुक्ला के साथ, गांधी 10 अप्रैल 1917 को पटना पहुंचे और डॉ. राजेंद्र प्रसाद (जो उस समय पुरी में थे) के आवास पर गए। उस शाम बाद में, उनके लंदन के पूर्व सहपाठी मौलाना मज़हरुल हक उनसे मिले और उन्हें अपने घर ले गए।",
+      "tip_hi": "गांधी जी पटना में (10 अप्रैल 1917) राज कुमार शुक्ल के साथ सबसे पहले डॉ. राजेंद्र प्रसाद के आवास पर गये।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34527,8 +34527,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती established the BPKS at Sonepur in नवम्बर 1929 to protect tenant farmers from zamindari eviction. He was elected राष्ट्रपति, and Dr. Sri Krishna Singh was appointed Secretary.",
-      "tip_hi": "Bihar Provincial Kisan Sabha (1929, Sonepur) = राष्ट्रपति: स्वामी सहजानंद सरस्वती; Secretary: Sri Krishna Singh."
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने किरायेदार किसानों को जमींदारी बेदखली से बचाने के लिए नवंबर 1929 में सोनपुर में बीपीकेएस की स्थापना की। वे अध्यक्ष चुने गये और डॉ. श्रीकृष्ण सिंह सचिव नियुक्त किये गये।",
+      "tip_hi": "बिहार प्रांतीय किसान सभा (1929, सोनपुर) = अध्यक्ष: स्वामी सहजानंद सरस्वती; सचिव: श्रीकृष्ण सिंह."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34554,7 +34554,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Champaran district, Salt Satyagraha began on 15 अप्रैल 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt मार्च.",
+      "explanation_hi": "चंपारण जिले में, नमक सत्याग्रह 15 अप्रैल 1930 को बिपिन बिहारी वर्मा (जिला बोर्ड के अध्यक्ष) के नेतृत्व में गोआद में शुरू हुआ, जहां प्रतिबंधित नमक का निर्माण होता था। नमक मार्च का उद्घाटन करने वाले सारण और चंपारण बिहार के पहले दो जिले थे।",
       "tip_hi": "चंपारण में नमक सत्याग्रह = बिपिन बिहारी वर्मा के नेतृत्व में; पटना में = अंबिका कांत सिन्हा (नखास पिंड)।"
     },
     {
@@ -34581,8 +34581,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. राम मनोहर लोहिया) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in नवम्बर 1942.",
-      "tip_hi": "Underground Congress Radio (1942) = Usha Mehta and Dr. राम मनोहर लोहिया."
+      "explanation_hi": "डॉ. उषा मेहता (बाबूभाई प्रसाद, विट्ठलभाई झावेरी और डॉ. राम मनोहर लोहिया के साथ) ने नवंबर 1942 में अपनी गिरफ्तारी तक बंबई में गुप्त स्थानों से 42.34 मीटर बैंड पर गुप्त भूमिगत कांग्रेस रेडियो प्रसारण की स्थापना की।",
+      "tip_hi": "अंडरग्राउंड कांग्रेस रेडियो (1942) = उषा मेहता और डॉ. राम मनोहर लोहिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34608,8 +34608,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "While 22 मार्च 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 अप्रैल 1912 with Sir Charles Stuart Bayley as Lieutenant राज्यपाल.",
-      "tip_hi": "Bihar Diwas = 22 मार्च; Administrative inception = 1 अप्रैल 1912."
+      "explanation_hi": "जबकि 22 मार्च 1912 को घोषणा की तारीख थी (बिहार दिवस के रूप में मनाई गई), बिहार और उड़ीसा प्रांत कानूनी रूप से अस्तित्व में आए और 1 अप्रैल 1912 को लेफ्टिनेंट गवर्नर के रूप में सर चार्ल्स स्टुअर्ट बेले के साथ प्रशासनिक रूप से कार्य करना शुरू किया।",
+      "tip_hi": "बिहार दिवस = 22 मार्च; प्रशासनिक स्थापना = 1 अप्रैल 1912."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34635,8 +34635,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Burhi गंडक नदी originates from Chautarwa Chaur near the Someshwar hills in पश्चिम Champaran. It flows southeast through पूर्व Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the गंगा नदी near Khagaria.",
-      "tip_hi": "Burhi गंडक नदी origin = Someshwar Range (Chautarwa Chaur, पश्चिम Champaran); joins गंगा नदी at Khagaria."
+      "explanation_hi": "बूढ़ी गंडक पश्चिम चंपारण में सोमेश्वर पहाड़ियों के निकट चौतरवा चौर से निकलती है। खगड़िया के पास गंगा में मिलने से पहले यह पूर्वी चंपारण, मुजफ्फरपुर, समस्तीपुर और बेगुसराय से होकर दक्षिण-पूर्व में बहती है।",
+      "tip_hi": "बूढ़ी गंडक का उद्गम = सोमेश्वर श्रेणी (चौतरवा चौर, पश्चिमी चंपारण); खगड़िया में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34662,8 +34662,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Balther soil is an अम्लीय, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of दक्षिण Bihar.",
-      "tip_hi": "Balther soil = Sandy, अम्लीय foothills soil of दक्षिण Bihar; Karail-Kewal = Heavy clayey alluvium."
+      "explanation_hi": "बाल्थर मिट्टी कैमूर, रोहतास, औरंगाबाद, गया, नवादा और बांका सीमा तलहटी में पाई जाने वाली कम पानी धारण वाली अम्लीय, रेतीली-दोमट से लेकर लौहयुक्त मिट्टी है। करैल-केवल दक्षिण बिहार का भारी मिट्टी वाला जलोढ़ है।",
+      "tip_hi": "बाल्थर मिट्टी = दक्षिण बिहार की रेतीली, अम्लीय तलहटी मिट्टी; करैल-केवल = भारी मिट्टीयुक्त जलोढ़।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34689,7 +34689,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "'Loo' is the strong, scorching dry summer wind blowing from the Thar Desert eastward across northern India and Bihar के दौरान afternoon घंटे, causing heatstroke. Norwesters (Kalbaishakhi) are thunderstorm showers.",
+      "explanation_hi": "'लू' दोपहर के समय थार रेगिस्तान से पूर्व की ओर उत्तर भारत और बिहार में बहने वाली तेज़, चिलचिलाती शुष्क ग्रीष्म हवा है, जो लू का कारण बनती है। नॉरवेस्टर्स (कालबैशाखी) तूफानी वर्षा हैं।",
       "tip_hi": "गर्म शुष्क ग्रीष्म हवा = लू; आंधी-तूफ़ान प्री-मानसून वर्षा = कालबैशाखी (नॉर्वेस्टर)।"
     },
     {
@@ -34716,8 +34716,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq किमी), followed by Jamui (21.34%) and Nawada (20.72%). पश्चिम Champaran has the largest absolute forest area (903.34 sq किमी).",
-      "tip_hi": "Highest Forest प्रतिशत = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq किमी); Lowest forest = Sheikhpura."
+      "explanation_hi": "कैमूर जिला अपने 31.56% क्षेत्र पर वन क्षेत्र (1,051.56 वर्ग किमी) के साथ बिहार में सबसे आगे है, इसके बाद जमुई (21.34%) और नवादा (20.72%) का स्थान है। पश्चिम चंपारण में सबसे बड़ा पूर्ण वन क्षेत्र (903.34 वर्ग किमी) है।",
+      "tip_hi": "उच्चतम वन प्रतिशत = कैमूर (31.56%); उच्चतम निरपेक्ष वन क्षेत्र = कैमूर (1,051 वर्ग किमी); सबसे निचला जंगल = शेखपुरा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34743,7 +34743,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jindhagada Peak (also के रूप में जाना जाता है Arma Konda) in the Araku Valley of Andhra Pradesh has an elevation of 1,690 metres, making it the highest peak of the Eastern Ghats. Mahendragiri (1,501 m) is in Odisha.",
+      "explanation_hi": "आंध्र प्रदेश की अराकू घाटी में जिंदगाड़ा चोटी (जिसे अरमा कोंडा के नाम से भी जाना जाता है) की ऊंचाई 1,690 मीटर है, जो इसे पूर्वी घाट की सबसे ऊंची चोटी बनाती है। महेंद्रगिरि (1,501 मीटर) ओडिशा में है।",
       "tip_hi": "पूर्वी घाट का उच्चतम भाग = जिंदहागाड़ा / अरमा कोंडा (1,690 मीटर); पश्चिमी घाट का उच्चतम भाग = अनामुडी (2,695 मीटर)।"
     },
     {
@@ -34824,8 +34824,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 368 empowers संसद to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'क्षारीय Structure' doctrine (Kesavananda Bharati case 1973).",
-      "tip_hi": "संशोधन of Constitution = अनुच्छेद 368 (Part XX, borrowed from दक्षिण Africa)."
+      "explanation_hi": "अनुच्छेद 368 संसद को 'मूल संरचना' सिद्धांत (केशवानंद भारती मामला 1973) के अधीन, उसमें निर्धारित प्रक्रिया के अनुसार संविधान के किसी भी प्रावधान को जोड़ने, बदलने या निरस्त करने के माध्यम से संशोधित करने का अधिकार देता है।",
+      "tip_hi": "संविधान में संशोधन = अनुच्छेद 368 (भाग XX, दक्षिण अफ्रीका से उधार लिया गया)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -34878,8 +34878,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 356(3) mandates that a proclamation of राष्ट्रपति's Rule ceases to operate at the expiration of 2 माह unless approved by resolutions of both लोकसभा and राज्यसभा by simple majority. National Emergency (Art. 352) requires approval within 1 माह.",
-      "tip_hi": "Approval deadline: National Emergency (Art. 352) = 1 माह; राष्ट्रपति's Rule (Art. 356) = 2 माह; Financial Emergency (Art. 360) = 2 माह."
+      "explanation_hi": "अनुच्छेद 356(3) में कहा गया है कि राष्ट्रपति शासन की उद्घोषणा 2 महीने की समाप्ति पर लागू नहीं होती जब तक कि इसे लोकसभा और राज्यसभा दोनों के प्रस्तावों द्वारा साधारण बहुमत से अनुमोदित नहीं किया जाता। राष्ट्रीय आपातकाल (अनुच्छेद 352) के लिए 1 महीने के भीतर अनुमोदन की आवश्यकता होती है।",
+      "tip_hi": "अनुमोदन की समय सीमा: राष्ट्रीय आपातकाल (अनुच्छेद 352) = 1 महीना; राष्ट्रपति शासन (अनुच्छेद 356) = 2 महीने; वित्तीय आपातकाल (अनुच्छेद 360) = 2 महीने।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35013,8 +35013,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In light-dependent reactions of प्रकाश संश्लेषण, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.",
-      "tip_hi": "Evolved Oxygen in प्रकाश संश्लेषण comes from Water (H2O), not from Carbon Dioxide."
+      "explanation_hi": "प्रकाश संश्लेषण की प्रकाश-निर्भर प्रतिक्रियाओं में, फोटोसिस्टम II पानी के अणुओं को विभाजित करता है: 2H2O -> 4H+ + 4e- + O2↑। सी.बी. वैन नील और रॉबर्ट हिल ने साबित किया कि विकसित ऑक्सीजन पानी से उत्पन्न होती है, CO2 से नहीं।",
+      "tip_hi": "प्रकाश संश्लेषण में विकसित ऑक्सीजन पानी (H2O) से आती है, कार्बन डाइऑक्साइड से नहीं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35067,7 +35067,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of योजना आयोग) chaired the 9-member committee that submitted the Draft National Education Policy in मई 2019, which formed the basis of NEP 2020.",
+      "explanation_hi": "डॉ. कृष्णास्वामी कस्तूरीरंगन (इसरो के पूर्व अध्यक्ष और योजना आयोग के सदस्य) ने मई 2019 में राष्ट्रीय शिक्षा नीति का मसौदा प्रस्तुत करने वाली 9 सदस्यीय समिति की अध्यक्षता की, जिसने एनईपी 2020 का आधार बनाया।",
       "tip_hi": "एनईपी 2020 मसौदा समिति के अध्यक्ष = डॉ. के. कस्तूरीरंगन।\nउत्तर कुंजी सारांश तालिका - सेट 11 (प्रश्न 401 से 440)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ],
@@ -35313,7 +35313,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ऑप्टिकल फाइबर में एक कोर होता है जो कम अपवर्तक सूचकांक के आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर कोर में प्रक्षेपित प्रकाश नगण्य सिग्नल हानि के साथ बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
-      "tip_hi": "ऑप्टिकल फाइबर = पूर्ण आंतरिक परावर्तन (TIR); Core refractive index > Cladding refractive index."
+      "tip_hi": "ऑप्टिकल फाइबर = कुल आंतरिक परावर्तन (टीआईआर); कोर अपवर्तक सूचकांक > क्लैडिंग अपवर्तक सूचकांक।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35366,8 +35366,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Domestic एलपीजी (द्रवीभूत पेट्रोलियम गैस) consists primarily of n-ब्यूटेन and isobutane (~60%) along with प्रोपेन (~40%). A मिनट quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
-      "tip_hi": "एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन; Odorant for leak detection = Ethyl Mercaptan."
+      "explanation_hi": "घरेलू एलपीजी में मुख्य रूप से एन-ब्यूटेन और आइसोब्यूटेन (~60%) के साथ-साथ प्रोपेन (~40%) होता है। गैस लीक का पता लगाने के लिए दुर्गंधयुक्त बदबूदार एजेंट के रूप में एथिल मर्कैप्टन (एथेनथियोल, C2H5SH) की एक मिनट की मात्रा मिलाई जाती है।",
+      "tip_hi": "एलपीजी = ब्यूटेन + प्रोपेन; रिसाव का पता लगाने के लिए गंधक = एथिल मर्कैप्टन।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35393,8 +35393,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांस्य (तांबा + टिन) is an alloy of Copper (~88-90%) and Tin (~10-12%). पीतल (तांबा + जस्ता) is an alloy of Copper and Zinc. सोल्डर (सीसा + टिन) is an alloy of Lead and Tin.",
-      "tip_hi": "कांस्य (तांबा + टिन) = Copper + Tin (Cu + Sn); पीतल (तांबा + जस्ता) = Copper + Zinc (Cu + Zn); सोल्डर (सीसा + टिन) = Lead + Tin (Pb + Sn)."
+      "explanation_hi": "कांस्य तांबे (~88-90%) और टिन (~10-12%) का एक मिश्र धातु है। पीतल, तांबा और जस्ता का एक मिश्र धातु है। सोल्डर सीसा और टिन का एक मिश्रधातु है।",
+      "tip_hi": "कांस्य = तांबा + टिन (Cu + Sn); पीतल = तांबा + जस्ता (Cu + Zn); सोल्डर = लेड + टिन (पीबी + एसएन)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35529,7 +35529,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "राज कुमार शुक्ल ने दिसंबर 1916 में लखनऊ में 31वें कांग्रेस अधिवेशन में बृजकिशोर प्रसाद के साथ भाग लिया और गांधीजी को नील किसानों की शिकायतों से अवगत कराया और उनसे चंपारण आने का वादा लिया।",
-      "tip_hi": "1916 Lucknow Session = Raj Kumar Shukla invited महात्मा गांधी to Champaran."
+      "tip_hi": "1916 लखनऊ अधिवेशन = राज कुमार शुक्ल ने महात्मा गांधी को चंपारण में आमंत्रित किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35555,8 +35555,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 27 नवम्बर 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the सेकंड individual satyagrahi of Bihar.",
-      "tip_hi": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = जवाहरलाल नेहरू. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha."
+      "explanation_hi": "27 नवंबर 1940 को डॉ. श्रीकृष्ण सिंह ने पटना में युद्ध-विरोधी भाषण देकर बिहार में व्यक्तिगत सत्याग्रह का उद्घाटन किया और गिरफ्तार कर लिये गये। डॉ. अनुग्रह नारायण सिन्हा बिहार के दूसरे व्यक्तिगत सत्याग्रही थे।",
+      "tip_hi": "भारत में व्यक्तिगत सत्याग्रह: पहला = विनोबा भावे, दूसरा = जवाहरलाल नेहरू। बिहार में: प्रथम = श्रीकृष्ण सिंह, द्वितीय = अनुग्रह नारायण सिन्हा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35582,8 +35582,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established under Letters Patent issued by King George V, Patna उच्च न्यायालय was formally opened by Viceroy Lord Hardinge on 3 फरवरी 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
-      "tip_hi": "Patna उच्च न्यायालय inaugurated = 3 फरवरी 1916 (1st Chief Justice: Sir Edward Chamier)."
+      "explanation_hi": "किंग जॉर्ज पंचम द्वारा जारी लेटर्स पेटेंट के तहत स्थापित, पटना उच्च न्यायालय को औपचारिक रूप से 3 फरवरी 1916 को वायसराय लॉर्ड हार्डिंग द्वारा खोला गया था। सर एडवर्ड मेनार्ड डेस चैंप्स चैमियर को इसका पहला मुख्य न्यायाधीश नियुक्त किया गया था।",
+      "tip_hi": "पटना उच्च न्यायालय का उद्घाटन = 3 फरवरी 1916 (प्रथम मुख्य न्यायाधीश: सर एडवर्ड चैमियर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35609,8 +35609,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the गंगा नदी at Fatuha, approximately 25 किमी downstream of Patna.",
-      "tip_hi": "Punpun joins गंगा नदी at Fatuha; सोन नदी joins गंगा नदी at Danapur/Maner; गंडक नदी joins at Sonpur."
+      "explanation_hi": "पुनपुन नदी उत्तर-पूर्व में औरंगाबाद, अरवल और पटना जिलों से होकर बहती है और पटना से लगभग 25 किमी नीचे फतुहा में गंगा के दाहिने किनारे से मिलती है।",
+      "tip_hi": "फतुहा में पुनपुन गंगा से मिलती है; दानापुर/मनेर में बेटा गंगा में मिला; गंडक सोनपुर में मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35636,7 +35636,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan पश्चिम Bengal hills, receives the highest annual rainfall in the State (>180 सेमी to 200 सेमी).",
+      "explanation_hi": "उप-हिमालयी पश्चिम बंगाल की पहाड़ियों से सटे बिहार की चरम उत्तरपूर्वी सीमा पर स्थित किशनगंज में राज्य में सबसे अधिक वार्षिक वर्षा (>180 सेमी से 200 सेमी) होती है।",
       "tip_hi": "बिहार में सर्वाधिक वर्षा = किशनगंज; सबसे कम वर्षा = औरंगाबाद/अरवल."
     },
     {
@@ -35690,8 +35690,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The सोन नदी Canal System was completed in 1874 by constructing an anicut weir across the सोन नदी River at Dehri (Rohtas). It bifurcates into the Western सोन नदी Canal (irrigating Rohtas, Bhojpur) and Eastern सोन नदी Canal (Aurangabad, Gaya, Patna).",
-      "tip_hi": "Oldest canal system in Bihar = सोन नदी Canal System (1874, Dehri-on-सोन नदी)."
+      "explanation_hi": "सोन नहर प्रणाली 1874 में डेहरी (रोहतास) में सोन नदी पर एक एनीकट बांध का निर्माण करके पूरी की गई थी। यह पश्चिमी सोन नहर (रोहतास, भोजपुर को सिंचित करती है) और पूर्वी सोन नहर (औरंगाबाद, गया, पटना) में विभाजित होती है।",
+      "tip_hi": "बिहार में सबसे पुरानी नहर प्रणाली = सोन नहर प्रणाली (1874, डेहरी-ऑन-सोन)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35717,8 +35717,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 94(b) of the Constitution of India, a member holding office as अध्यक्ष (स्पीकर) मई at any time resign his office by writing under his hand addressed to the Deputy अध्यक्ष (स्पीकर).",
-      "tip_hi": "अध्यक्ष (स्पीकर) resigns to Deputy अध्यक्ष (स्पीकर); Deputy अध्यक्ष (स्पीकर) resigns to अध्यक्ष (स्पीकर); राष्ट्रपति resigns to Vice-राष्ट्रपति."
+      "explanation_hi": "भारत के संविधान के अनुच्छेद 94 (बी) के तहत, अध्यक्ष के रूप में पद धारण करने वाला सदस्य किसी भी समय उपाध्यक्ष को संबोधित अपने हस्ताक्षर के तहत लिखकर अपने पद से इस्तीफा दे सकता है।",
+      "tip_hi": "स्पीकर ने डिप्टी स्पीकर को दिया इस्तीफा; डिप्टी स्पीकर ने स्पीकर को दिया इस्तीफा; राष्ट्रपति ने उपराष्ट्रपति को इस्तीफा दिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35744,8 +35744,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 50 obligates the State to take steps to separate the judiciary from the executive in public services. अनुच्छेद 40 deals with village panchayats, and अनुच्छेद 51 deals with international peace.",
-      "tip_hi": "अनुच्छेद 50 = Separation of Judiciary from Executive; अनुच्छेद 40 = Panchayats; अनुच्छेद 44 = Uniform Civil Code."
+      "explanation_hi": "अनुच्छेद 50 राज्य को सार्वजनिक सेवाओं में न्यायपालिका को कार्यपालिका से अलग करने के लिए कदम उठाने के लिए बाध्य करता है। अनुच्छेद 40 ग्राम पंचायतों से संबंधित है, और अनुच्छेद 51 अंतरराष्ट्रीय शांति से संबंधित है।",
+      "tip_hi": "अनुच्छेद 50 = न्यायपालिका का कार्यपालिका से पृथक्करण; अनुच्छेद 40 = पंचायतें; अनुच्छेद 44 = समान नागरिक संहिता."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35825,8 +35825,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 वर्ष of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
-      "tip_hi": "5th Tiger जनगणना (अप्रैल 2023) = 3,167 tigers (up from 2,967 in 2018)."
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने प्रोजेक्ट टाइगर के 50 साल पूरे होने के उपलक्ष्य में टाइगर रिजर्व के प्रबंधन प्रभावशीलता मूल्यांकन के 5वें चक्र की सारांश रिपोर्ट जारी की, जिसमें कैमरे में कैद बाघों की न्यूनतम संख्या 3,167 दर्ज की गई।",
+      "tip_hi": "5वीं बाघ गणना (अप्रैल 2023) = 3,167 बाघ (2018 में 2,967 से अधिक)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -35934,7 +35934,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "शहरीकरण और सेलुलर विकिरण के कारण इसकी खतरनाक गिरावट के खिलाफ जागरूकता बढ़ाने के लिए हाउस स्पैरो (पासर डोमेस्टिकस) को 2013 में बिहार के राज्य पक्षी के रूप में नामित किया गया था।",
-      "tip_hi": "State Bird of Bihar = House Sparrow (गौरैया); 20 मार्च = World Sparrow दिन."
+      "tip_hi": "बिहार का राज्य पक्षी = घरेलू गौरैया (गौरैया); 20 मार्च = विश्व गौरैया दिवस."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -36068,8 +36068,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the राष्ट्रपति and the exercise thereof shall be regulated by law.",
-      "tip_hi": "Supreme Commander of Armed Forces = राष्ट्रपति of India (अनुच्छेद 53(2))."
+      "explanation_hi": "संविधान के अनुच्छेद 53(2) में प्रावधान है कि संघ के रक्षा बलों की सर्वोच्च कमान राष्ट्रपति में निहित होगी और इसका प्रयोग कानून द्वारा नियंत्रित किया जाएगा।",
+      "tip_hi": "सशस्त्र बलों का सर्वोच्च कमांडर = भारत का राष्ट्रपति (अनुच्छेद 53(2))।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -36095,8 +36095,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 72 grants pardoning powers to the राष्ट्रपति for offences against Union laws, court-martial sentences, and all death sentences. The राज्यपाल has corresponding pardoning powers under अनुच्छेद 161 (except court martial and death sentence pardon).",
-      "tip_hi": "Pardoning Power: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
+      "explanation_hi": "अनुच्छेद 72 राष्ट्रपति को संघीय कानूनों, कोर्ट-मार्शल सजाओं और सभी मौत की सजाओं के खिलाफ अपराधों को माफ करने की शक्तियां प्रदान करता है। राज्यपाल के पास अनुच्छेद 161 के तहत क्षमादान की शक्तियाँ हैं (कोर्ट मार्शल और मृत्युदंड क्षमा को छोड़कर)।",
+      "tip_hi": "क्षमादान शक्ति: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -36123,7 +36123,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बिहार विधान सभा (विधानसभा) में 243 सीधे निर्वाचित सीटें हैं (38 अनुसूचित जाति के लिए आरक्षित और 2 अनुसूचित जनजाति के लिए आरक्षित: मनिहारी और कटोरिया)।",
-      "tip_hi": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; लोकसभा = 40 seats; राज्यसभा = 16 seats."
+      "tip_hi": "बिहार विधान सभा = 243 सीटें; विधान परिषद = 75 सीटें; लोकसभा = 40 सीटें; राज्यसभा = 16 सीटें."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -36149,8 +36149,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar has 40 seats in the लोकसभा (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the राज्यसभा.",
-      "tip_hi": "Parliamentary representation of Bihar: लोकसभा = 40 seats; राज्यसभा = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "बिहार में लोकसभा की 40 सीटें हैं (जिनमें से 6 अनुसूचित जाति के लिए आरक्षित हैं: गोपालगंज, हाजीपुर, समस्तीपुर, सासाराम, गया और जमुई) और राज्यसभा में 16 सीटें हैं।",
+      "tip_hi": "बिहार का संसदीय प्रतिनिधित्व: लोकसभा = 40 सीटें; राज्यसभा = 16 सीटें.\nउत्तर कुंजी सारांश तालिका - सेट 12 (प्रश्न 441 से 480)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ],
   "bpsc-tre4-general-studies-set13": [
@@ -36232,7 +36232,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Time difference = 15 मिनट = 15/60 = 1/4 घंटे. Distance = (S1 * S2) / (S2 - S1) * Time difference = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 किमी.",
+      "explanation_hi": "समय का अंतर = 15 मिनट = 15/60 = 1/4 घंटा। दूरी = (एस1 * एस2) / (एस2 - एस1) * समय अंतर = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 किमी।",
       "tip_hi": "D = (4 * 6)/2 * (15/60) = 12 * (1/4) = 3 किमी."
     },
     {
@@ -36286,7 +36286,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In every 12-घंटे period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-घंटे दिन, they coincide 11 * 2 = 22 times.",
+      "explanation_hi": "प्रत्येक 12-घंटे की अवधि में, सूइयाँ ठीक 11 बार मेल खाती हैं (11:00 और 1:00 के बीच, वे 12:00 पर केवल एक बार मेल खाती हैं)। पूरे 24 घंटे के दिन में, वे 11 * 2 = 22 बार मेल खाते हैं।",
       "tip_hi": "12 घंटे में ओवरलैपिंग = 11 बार; 24 घंटे में ओवरलैपिंग = 22 बार।"
     },
     {
@@ -36313,8 +36313,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total दिन from 15 Aug 1947 to 26 Jan 1950 = 895 दिन. Dividing 895 by 7 gives 127 सप्ताह and 6 odd दिन. Friday + 6 दिन = Thursday.",
-      "tip_hi": "15 अगस्त 1947 = Friday; 26 जनवरी 1950 = Thursday."
+      "explanation_hi": "15 अगस्त 1947 से 26 जनवरी 1950 तक कुल दिन = 895 दिन। 895 को 7 से विभाजित करने पर 127 सप्ताह और 6 विषम दिन प्राप्त होते हैं। शुक्रवार + 6 दिन = गुरुवार.",
+      "tip_hi": "15 अगस्त 1947 = शुक्रवार; 26 जनवरी 1950 = गुरुवार."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36340,8 +36340,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "चुंबकीय फ्लक्स is measured in वेबर (Wb = टेस्ला * m^2). टेस्ला (T) is the unit of चुंबकीय फ्लक्स density / चुंबकीय क्षेत्र strength, and हेनरी (H) is the unit of inductance.",
-      "tip_hi": "चुंबकीय फ्लक्स = वेबर (Wb); चुंबकीय क्षेत्र = टेस्ला (T); Inductance = हेनरी (H)."
+      "explanation_hi": "चुंबकीय प्रवाह को वेबर (Wb = Tesla * m^2) में मापा जाता है। टेस्ला (टी) चुंबकीय प्रवाह घनत्व/चुंबकीय क्षेत्र शक्ति की इकाई है, और हेनरी (एच) प्रेरण की इकाई है।",
+      "tip_hi": "चुंबकीय प्रवाह = वेबर (डब्ल्यूबी); चुंबकीय क्षेत्र = टेस्ला (टी); अधिष्ठापन = हेनरी (एच)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36367,7 +36367,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sir Isaac Newton demonstrated spectrum वर्ण विक्षेपण using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).",
+      "explanation_hi": "सर आइजैक न्यूटन ने त्रिकोणीय ग्लास प्रिज्म का उपयोग करके स्पेक्ट्रम फैलाव का प्रदर्शन किया और सत्यापित किया कि कोई और रंग विभाजन नहीं हुआ, जिससे साबित हुआ कि सफेद सूरज की रोशनी स्वाभाविक रूप से बहुरंगी (VIBGYOR) है।",
       "tip_hi": "प्रिज्म के माध्यम से प्रकाश स्पेक्ट्रम की खोज = सर आइजैक न्यूटन।"
     },
     {
@@ -36394,8 +36394,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vinegar is produced by bacterial fermentation of ethanol by Acetobacter into dilute एसिटिक अम्ल (CH3COOH, 5-8% v/v), widely used as a food preservative and flavoring.",
-      "tip_hi": "Vinegar = एसिटिक अम्ल (CH3COOH); Curd = लैक्टिक अम्ल; Sour milk = लैक्टिक अम्ल."
+      "explanation_hi": "सिरका एसीटोबैक्टर द्वारा इथेनॉल के जीवाणु किण्वन द्वारा पतला एसिटिक एसिड (CH3COOH, 5-8% v/v) में उत्पादित किया जाता है, जिसका व्यापक रूप से खाद्य संरक्षक और स्वाद के रूप में उपयोग किया जाता है।",
+      "tip_hi": "सिरका = एसिटिक एसिड (CH3COOH); दही = लैक्टिक एसिड; खट्टा दूध = लैक्टिक एसिड."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36448,8 +36448,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "माइटोकॉन्ड्रिया carry out the Krebs cycle and oxidative phosphorylation via inner membrane cristae to generate adenosine triphosphate (ATP), the universal chemical energy currency of eukaryotic cells.",
-      "tip_hi": "Powerhouse of Cell = माइटोकॉन्ड्रिया; Protein Factory = Ribosomes; Suicidal Bags = Lysosomes."
+      "explanation_hi": "माइटोकॉन्ड्रिया यूकेरियोटिक कोशिकाओं की सार्वभौमिक रासायनिक ऊर्जा मुद्रा, एडेनोसिन ट्राइफॉस्फेट (एटीपी) उत्पन्न करने के लिए आंतरिक झिल्ली क्राइस्टे के माध्यम से क्रेब्स चक्र और ऑक्सीडेटिव फॉस्फोराइलेशन को पूरा करता है।",
+      "tip_hi": "कोशिका का पावरहाउस = माइटोकॉन्ड्रिया; प्रोटीन फ़ैक्टरी = राइबोसोम; आत्मघाती थैलियाँ = लाइसोसोम।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36502,7 +36502,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Normal adult blood pressure is 120/80 मिमी Hg, representing systolic pressure of 120 मिमी Hg के दौरान ventricular contraction and diastolic pressure of 80 मिमी Hg के दौरान ventricular relaxation, measured using a sphygmomanometer.",
+      "explanation_hi": "सामान्य वयस्क रक्तचाप 120/80 मिमी एचजी है, जो वेंट्रिकुलर संकुचन के दौरान 120 मिमी एचजी के सिस्टोलिक दबाव और वेंट्रिकुलर विश्राम के दौरान 80 मिमी एचजी के डायस्टोलिक दबाव का प्रतिनिधित्व करता है, जिसे स्फिग्मोमैनोमीटर का उपयोग करके मापा जाता है।",
       "tip_hi": "सामान्य बीपी = 120/80 मिमी एचजी (सिस्टोलिक = 120, डायस्टोलिक = 80); यंत्र = रक्तदाबमापी."
     },
     {
@@ -36529,8 +36529,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin, pH ~6.8) is secreted by salivary glands and hydrolyzes about 30% of dietary starch into maltose disaccharides in the oral cavity before swallowing.",
-      "tip_hi": "Starch digesting enzyme in mouth = लार एमाइलेज (टायलिन) (Ptyalin)."
+      "explanation_hi": "लार एमाइलेज (पाइलिन, पीएच ~ 6.8) लार ग्रंथियों द्वारा स्रावित होता है और निगलने से पहले मौखिक गुहा में लगभग 30% आहार स्टार्च को माल्टोज़ डिसैकराइड में हाइड्रोलाइज़ करता है।",
+      "tip_hi": "मुँह में स्टार्च पचाने वाला एन्जाइम = लार एमाइलेज (टायलिन)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36583,7 +36583,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gandhi opened his first primary school on 14 नवम्बर 1917 at Barharwa Lakhansen (20 miles पूर्व of Motihari) with teachers Babasaheb Soman and Sadashiv Lakshman Purohit. His सेकंड school was opened on 20 नवम्बर 1917 at Bhitiharwa.",
+      "explanation_hi": "गांधी जी ने अपना पहला प्राथमिक विद्यालय 14 नवंबर 1917 को बरहरवा लखनसेन (मोतिहारी से 20 मील पूर्व) में शिक्षकों बाबासाहेब सोमन और सदाशिव लक्ष्मण पुरोहित के साथ खोला। उनका दूसरा स्कूल 20 नवंबर 1917 को भितिहरवा में खोला गया।",
       "tip_hi": "चंपारण में गांधीजी द्वारा पहला स्कूल = बरहरवा लखनसेन (14 नवंबर 1917); दूसरा विद्यालय = भितिहरवा."
     },
     {
@@ -36610,8 +36610,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established under the Patna University Act in अक्टूबर 1917, it initially had jurisdiction over all educational colleges across Bihar, Orissa, and Nepal. (Patna उच्च न्यायालय was opened in 1916).",
-      "tip_hi": "Patna उच्च न्यायालय = 1916; Patna University = 1917; PMCH (Prince of Wales Medical College) = 1925."
+      "explanation_hi": "अक्टूबर 1917 में पटना विश्वविद्यालय अधिनियम के तहत स्थापित, शुरुआत में इसका अधिकार क्षेत्र बिहार, उड़ीसा और नेपाल के सभी शैक्षणिक कॉलेजों पर था। (पटना उच्च न्यायालय 1916 में खोला गया था)।",
+      "tip_hi": "पटना उच्च न्यायालय = 1916; पटना विश्वविद्यालय = 1917; पीएमसीएच (प्रिंस ऑफ वेल्स मेडिकल कॉलेज) = 1925।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36637,8 +36637,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the 1937 provincial elections, Rajiv Ranjan Prasad Sinha was elected as the first राष्ट्रपति of the newly constituted Bihar Legislative Council on 22 जुलाई 1937. (Ramdayalu Singh was elected first अध्यक्ष (स्पीकर) of the Legislative Assembly).",
-      "tip_hi": "1937 Bihar Legislature: Assembly अध्यक्ष (स्पीकर) = Ramdayalu Singh; Council राष्ट्रपति = Rajiv Ranjan Prasad Sinha."
+      "explanation_hi": "1937 के प्रांतीय चुनावों के बाद, 22 जुलाई 1937 को राजीव रंजन प्रसाद सिन्हा को नवगठित बिहार विधान परिषद के पहले अध्यक्ष के रूप में चुना गया। (रामदयालु सिंह विधान सभा के पहले अध्यक्ष चुने गए थे)।",
+      "tip_hi": "1937 बिहार विधानमंडल: विधानसभा अध्यक्ष = रामदयालु सिंह; परिषद अध्यक्ष = राजीव रंजन प्रसाद सिन्हा."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36665,7 +36665,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बागमती नदी बिहार में सीतामढी जिले के शोरवट के पास प्रवेश करती है और कोसी/कमला नदी प्रणाली में शामिल होने से पहले शिवहर, मुजफ्फरपुर और दरभंगा से होकर बहती है।",
-      "tip_hi": "Bagmati enters Bihar at Sitamarhi; गंडक नदी enters at पश्चिम Champaran; Kamla enters at Madhubani (Jayanagar)."
+      "tip_hi": "बागमती का बिहार में सीतामढी में प्रवेश; गंडक पश्चिमी चंपारण में प्रवेश कर गयी है; कमला का प्रवेश मधुबनी (जयनगर) में होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36718,8 +36718,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 32 itself is a मौलिक अधिकार (Right to Constitutional Remedies) described by Dr. Ambedkar as the 'हृदय and soul of the Constitution'. Under it, the सर्वोच्च न्यायालय issues prerogative writs.",
-      "tip_hi": "अनुच्छेद 32 = सर्वोच्च न्यायालय writ jurisdiction (मौलिक अधिकार); अनुच्छेद 226 = उच्च न्यायालय writ jurisdiction."
+      "explanation_hi": "अनुच्छेद 32 अपने आप में एक मौलिक अधिकार (संवैधानिक उपचार का अधिकार) है जिसे डॉ. अम्बेडकर ने 'संविधान का हृदय और आत्मा' बताया है। इसके तहत सर्वोच्च न्यायालय विशेषाधिकार रिट जारी करता है।",
+      "tip_hi": "अनुच्छेद 32 = उच्चतम न्यायालय रिट क्षेत्राधिकार (मौलिक अधिकार); अनुच्छेद 226 = उच्च न्यायालय का रिट क्षेत्राधिकार।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36745,8 +36745,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 52nd संविधान संशोधन अधिनियम 1985 inserted the Tenth अनुसूची, laying down disqualification of legislators on grounds of defection from their political party.",
-      "tip_hi": "Anti-Defection Law = 52nd संशोधन अधिनियम 1985 (Tenth अनुसूची); Strengthened by 91st संशोधन 2003."
+      "explanation_hi": "52वें संवैधानिक संशोधन अधिनियम 1985 ने दसवीं अनुसूची को शामिल किया, जिसमें विधायकों को उनके राजनीतिक दल से दलबदल के आधार पर अयोग्य घोषित किया गया।",
+      "tip_hi": "दल-बदल विरोधी कानून = 52वां संशोधन अधिनियम 1985 (दसवीं अनुसूची); 91वें संशोधन 2003 द्वारा सुदृढ़ किया गया।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36772,8 +36772,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Smt. Droupadi Murmu, belonging to the Santhal tribal community of Mayurbhanj, Odisha and former राज्यपाल of Jharkhand, was sworn in on 25 जुलाई 2022 as the 15th राष्ट्रपति of India.",
-      "tip_hi": "15th राष्ट्रपति of India = Smt. Droupadi Murmu (First tribal and सेकंड woman राष्ट्रपति after Pratibha Patil)."
+      "explanation_hi": "श्रीमती ओडिशा के मयूरभंज के संथाल आदिवासी समुदाय से आने वाली और झारखंड की पूर्व राज्यपाल द्रौपदी मुर्मू ने 25 जुलाई 2022 को भारत के 15वें राष्ट्रपति के रूप में शपथ ली।",
+      "tip_hi": "भारत के 15वें राष्ट्रपति = श्रीमती द्रौपदी मुर्मू (प्रतिभा पाटिल के बाद पहली आदिवासी और दूसरी महिला राष्ट्रपति)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -36907,7 +36907,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Discovered by P. M. A. Millardet in Bordeaux (France) in 1882, Bordeaux mixture is a suspension of कॉपर सल्फेट (नीला थोथा) (CuSO4) and slaked lime (Ca(OH)2) in water, highly effective against downy mildew of grapevine and potato blight.",
+      "explanation_hi": "1882 में बोर्डो (फ्रांस) में पी. एम. ए. मिलार्डेट द्वारा खोजा गया, बोर्डो मिश्रण पानी में कॉपर सल्फेट (CuSO4) और बुझे हुए चूने (Ca (OH) 2) का एक निलंबन है, जो अंगूर और आलू के झुलसा रोग के खिलाफ अत्यधिक प्रभावी है।",
       "tip_hi": "बोर्डो मिश्रण = कॉपर सल्फेट + बुझा हुआ चूना (CuSO4 + Ca(OH)2)।"
     },
     {
@@ -36961,7 +36961,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पूर्व Indian Railway (EIR) line in Bihar was opened in 1860-62, connecting Howrah with Patna (Bankipore) and onward to Mughal Sarai along the गंगा नदी loop line.",
+      "explanation_hi": "बिहार में ईस्ट इंडियन रेलवे (ईआईआर) लाइन 1860-62 में खोली गई थी, जो हावड़ा को पटना (बांकीपुर) से जोड़ती थी और आगे गंगा लूप लाइन के साथ मुगल सराय तक जाती थी।",
       "tip_hi": "भारत में प्रथम रेलवे = 1853 (बॉम्बे-ठाणे); बिहार में प्रथम रेलवे = 1860-62 (ईस्ट इंडियन रेलवे)।"
     },
     {
@@ -36988,8 +36988,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Three rivers form parts of the natural boundary between Bihar and Uttar Pradesh: the गंडक नदी (in पश्चिम Champaran), the घाघरा नदी (in Saran/Siwan), and the Karmanasa (in Kaimur/Buxar). Since all three form boundaries, (D) is the official key.",
-      "tip_hi": "Border rivers between Bihar & UP = गंडक नदी, घाघरा नदी, Karmanasa. Option (D) उपर्युक्त में से एक से अधिक."
+      "explanation_hi": "तीन नदियाँ बिहार और उत्तर प्रदेश के बीच प्राकृतिक सीमा का हिस्सा हैं: गंडक (पश्चिम चंपारण में), घाघरा (सारन/सीवान में), और कर्मनाशा (कैमूर/बक्सर में)। चूँकि तीनों सीमाएँ बनाते हैं, (D) आधिकारिक कुंजी है।",
+      "tip_hi": "बिहार और यूपी के बीच की सीमावर्ती नदियाँ = गंडक, घाघरा, कर्मनाशा। विकल्प (डी) उपरोक्त में से एक से अधिक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37015,8 +37015,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 72, the राष्ट्रपति has the exclusive power to pardon death sentences. Although अनुच्छेद 161 empowers the राज्यपाल to commute or suspend sentences, the राज्यपाल cannot grant an absolute pardon in death penalty cases.",
-      "tip_hi": "Absolute pardon for death sentence = राष्ट्रपति of India alone (अनुच्छेद 72)."
+      "explanation_hi": "अनुच्छेद 72 के तहत, राष्ट्रपति के पास मौत की सजा को माफ करने की विशेष शक्ति है। हालाँकि अनुच्छेद 161 राज्यपाल को सजा कम करने या निलंबित करने का अधिकार देता है, लेकिन राज्यपाल मृत्युदंड के मामलों में पूर्ण क्षमा नहीं दे सकता है।",
+      "tip_hi": "मृत्युदंड के लिए पूर्ण क्षमा = अकेले भारत के राष्ट्रपति (अनुच्छेद 72)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37042,7 +37042,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 15 नवम्बर 1954 under the vision of मुख्यमंत्री Dr. Sri Krishna Singh and principal Charles Napier, Netarhat Vidyalaya was conceived on Gurukul lines and produced outstanding civil servants, scientists, and academics.",
+      "explanation_hi": "15 नवंबर 1954 को मुख्यमंत्री डॉ. श्रीकृष्ण सिंह और प्रिंसिपल चार्ल्स नेपियर के दृष्टिकोण के तहत स्थापित, नेतरहाट विद्यालय की कल्पना गुरुकुल तर्ज पर की गई थी और इसने उत्कृष्ट सिविल सेवकों, वैज्ञानिकों और शिक्षाविदों को जन्म दिया।",
       "tip_hi": "नेतरहाट विद्यालय की स्थापना 1954 में बिहार सरकार द्वारा की गई (संस्थापक प्राचार्य: चार्ल्स नेपियर)।"
     },
     {
@@ -37069,7 +37069,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sheel Bhadra Yagee of Bakhtiyarpur (Patna) was सुभाष चंद्र बोस's trusted associate in Bihar, founding member and राष्ट्रपति of the All India Forward Bloc, actively participating in the INA movement.",
+      "explanation_hi": "बख्तियारपुर (पटना) के शील भद्र यागी बिहार में सुभाष चंद्र बोस के भरोसेमंद सहयोगी, अखिल भारतीय फॉरवर्ड ब्लॉक के संस्थापक सदस्य और अध्यक्ष थे, जो आईएनए आंदोलन में सक्रिय रूप से भाग ले रहे थे।",
       "tip_hi": "बिहार से फॉरवर्ड ब्लॉक/आईएनए नेता = शील भद्र यागी।"
     },
     {
@@ -37204,7 +37204,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Magadha was one of the sixteen great Mahajanapadas. Its early capital Girivraja (Rajgir) was fortified by Bimbisara and Ajatashatru. King Udayin (Haryanka dynasty) founded Pataliputra at the confluence of गंगा नदी and सोन नदी and shifted the capital there.",
+      "explanation_hi": "मगध सोलह महान महाजनपदों में से एक था। इसकी प्रारंभिक राजधानी गिरिव्रज (राजगीर) को बिम्बिसार और अजातशत्रु द्वारा मजबूत किया गया था। राजा उदायिन (हर्यंक वंश) ने गंगा और सोन के संगम पर पाटलिपुत्र की स्थापना की और राजधानी को वहीं स्थानांतरित कर दिया।",
       "tip_hi": "मगध की राजधानी पाटलिपुत्र में स्थानांतरित हुई = राजा उदयिन (हर्यंक वंश)।"
     },
     {
@@ -37261,7 +37261,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "15, 20, 25 का एलसीएम = 300 इकाई क्षमता। A की दक्षता = +20, B = +15, C = -12 यूनिट/घंटा। शुद्ध प्रवाह = 20 + 15 - 12 = 23 यूनिट/घंटा। आवश्यक समय = 300/23 घंटे = 13.04 घंटे।",
-      "tip_hi": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 घंटे."
+      "tip_hi": "शुद्ध दर = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => समय = 300/23 घंटे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37449,8 +37449,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "At 4:00, the hands are 20 मिनट spaces apart. To coincide, the मिनट hand must gain 20 spaces over the घंटे hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) मिनट past 4.",
-      "tip_hi": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) मिनट past 4."
+      "explanation_hi": "4:00 बजे, सूइयां 20 मिनट की दूरी पर होती हैं। संयोग के लिए, मिनट की सुई को घंटे की सुई से 20 स्थान आगे बढ़ना चाहिए। समय = 20 * (60/55) = 20 * (12/11) = 240/11 = 4 बजकर 21(9/11) मिनट।",
+      "tip_hi": "शॉर्टकट: एम = (60/11) * एच = (60/11) * 4 = 240/11 = 4 बजकर 21(9/11) मिनट।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37476,7 +37476,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "1 kWh = 1,000 Watts * 3,600 सेकंड = 3,600,000 वाट-सेकंड = 3.6 × 10^6 Joules.",
+      "explanation_hi": "1 kWh = 1,000 वॉट * 3,600 सेकंड = 3,600,000 वॉट-सेकंड = 3.6 × 10^6 जूल।",
       "tip_hi": "1 वाणिज्यिक विद्युत इकाई = 1 kWh = 3.6 * 10^6 J."
     },
     {
@@ -37638,8 +37638,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in कोशिकाद्रव्य or bound to rough endoplasmic reticulum.",
-      "tip_hi": "Protein factory = Ribosomes; Powerhouse = माइटोकॉन्ड्रिया; Packaging centre = Golgi apparatus."
+      "explanation_hi": "राइबोसोम गैर-झिल्ली-बाध्य राइबोन्यूक्लियोप्रोटीन कॉम्प्लेक्स हैं जो आनुवंशिक एमआरएनए अनुक्रमों को पॉलीपेप्टाइड श्रृंखलाओं (प्रोटीन) में अनुवादित करते हैं। वे साइटोप्लाज्म में स्वतंत्र रूप से मौजूद होते हैं या खुरदरे एंडोप्लाज्मिक रेटिकुलम से बंधे होते हैं।",
+      "tip_hi": "प्रोटीन फ़ैक्टरी = राइबोसोम; पावरहाउस = माइटोकॉन्ड्रिया; पैकेजिंग केंद्र = गोल्गी उपकरण।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37665,8 +37665,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing पूर्ण आंतरिक परावर्तन.",
-      "tip_hi": "Mirage in deserts = पूर्ण आंतरिक परावर्तन (TIR) + Atmospheric अपवर्तन."
+      "explanation_hi": "गर्म ज़मीन निचली वायु परतों को गर्म करती है, जिससे वे ऊपरी ठंडी परतों की तुलना में वैकल्पिक रूप से कम घनी हो जाती हैं। आकाश से प्रकाश की किरणें सामान्य से लगातार दूर मुड़ती रहती हैं जब तक कि आपतन कोण क्रांतिक कोण से अधिक न हो जाए, पूर्ण आंतरिक परावर्तन से गुजरती है।",
+      "tip_hi": "रेगिस्तान में मृगतृष्णा = कुल आंतरिक परावर्तन (टीआईआर) + वायुमंडलीय अपवर्तन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37746,8 +37746,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Due to ill health, डॉ. राजेंद्र प्रसाद had not traveled to Bombay. Patna District Magistrate W. G. Archer arrested him from Sadaqat Ashram on 9 अगस्त 1942 and detained him in Bankipur Central Jail, where he wrote his autobiography 'Atmakatha'.",
-      "tip_hi": "डॉ. राजेंद्र प्रसाद detained in 1942 = Bankipur Jail (Patna); जयप्रकाश नारायण = Hazaribagh Jail."
+      "explanation_hi": "ख़राब स्वास्थ्य के कारण डॉ. राजेंद्र प्रसाद ने बम्बई की यात्रा नहीं की थी। 9 अगस्त 1942 को पटना के जिला मजिस्ट्रेट डब्ल्यू जी आर्चर ने उन्हें सदाकत आश्रम से गिरफ्तार कर लिया और बांकीपुर सेंट्रल जेल में बंद कर दिया, जहां उन्होंने अपनी आत्मकथा 'आत्मकथा' लिखी।",
+      "tip_hi": "1942 में डॉ. राजेंद्र प्रसाद को हिरासत में लिया गया = बांकीपुर जेल (पटना); जयप्रकाश नारायण=हजारीबाग जेल।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37773,8 +37773,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Sri Krishna Singh (के रूप में जाना जाता है 'Sri Babu' and 'Bihar Kesari') served as the premier/मुख्यमंत्री of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy मुख्यमंत्री and Finance Minister.",
-      "tip_hi": "'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = जयप्रकाश नारायण."
+      "explanation_hi": "डॉ. श्रीकृष्ण सिंह ('श्री बाबू' और 'बिहार केसरी' के नाम से जाने जाते हैं) ने 1937-39 और 1946 से 1961 में अपनी मृत्यु तक लगातार बिहार के प्रधान मंत्री/मुख्यमंत्री के रूप में कार्य किया। डॉ. अनुग्रह नारायण सिन्हा ('बिहार विभूति') ने उप मुख्यमंत्री और वित्त मंत्री के रूप में कार्य किया।",
+      "tip_hi": "'बिहार केसरी' = डॉ. श्रीकृष्ण सिंह; 'बिहार विभूति' = डॉ. अनुग्रह नारायण सिन्हा; 'लोकनायक'=जयप्रकाश नारायण."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -37800,7 +37800,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jairamdas Daulatram served as the first राज्यपाल of Bihar in independent India from 15 अगस्त 1947 to 11 जनवरी 1948. (Sir James David Sifton was the first राज्यपाल of Bihar when Orissa separated in 1936).",
+      "explanation_hi": "जयरामदास दौलतराम ने 15 अगस्त 1947 से 11 जनवरी 1948 तक स्वतंत्र भारत में बिहार के पहले राज्यपाल के रूप में कार्य किया। (1936 में उड़ीसा अलग होने पर सर जेम्स डेविड सिफ्टन बिहार के पहले राज्यपाल थे)।",
       "tip_hi": "स्वतंत्र भारत में बिहार के प्रथम राज्यपाल = जयरामदास दौलतराम (15 अगस्त 1947)।"
     },
     {
@@ -37854,7 +37854,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मुख्यमंत्री Nitish Kumar inaugurated the 411-metre-long and 3-metre-high 'Gayaji Dam' on the Falgu River near Vishnupad Temple on 8 सितम्बर 2022 to maintain round-the-वर्ष water depth for pilgrims.",
+      "explanation_hi": "मुख्यमंत्री नीतीश कुमार ने तीर्थयात्रियों के लिए साल भर पानी की गहराई बनाए रखने के लिए 8 सितंबर 2022 को विष्णुपद मंदिर के पास फल्गु नदी पर 411 मीटर लंबे और 3 मीटर ऊंचे 'गयाजी बांध' का उद्घाटन किया।",
       "tip_hi": "भारत का सबसे बड़ा रबर बांध = फल्गु नदी पर गयाजी बांध (गया, 411 मीटर लंबा)।"
     },
     {
@@ -37935,7 +37935,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lonar Lake is a hypersaline and alkaline crater lake formed by a high-velocity extraterrestrial meteorite impact into Deccan basalt rock के दौरान the Pleistocene epoch (~50,000 वर्ष ago).",
+      "explanation_hi": "लोनार झील एक अति लवणीय और क्षारीय क्रेटर झील है, जो प्लेइस्टोसिन युग (~50,000 वर्ष पूर्व) के दौरान डेक्कन बेसाल्ट चट्टान में एक उच्च-वेग अलौकिक उल्कापिंड के प्रभाव से बनी थी।",
       "tip_hi": "भारत में उल्कापिंड प्रभाव क्रेटर झील = लोनार झील (महाराष्ट्र, रामसर साइट)।"
     },
     {
@@ -37989,8 +37989,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 123 empowers the राष्ट्रपति to promulgate Ordinances when either House of संसद is not in session, having the same force and effect as an Act of संसद. An अध्यादेश must be approved by संसद within 6 सप्ताह of reassembly.",
-      "tip_hi": "अध्यादेश promulgation: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
+      "explanation_hi": "अनुच्छेद 123 राष्ट्रपति को अध्यादेश प्रख्यापित करने का अधिकार देता है जब संसद का कोई भी सदन सत्र में नहीं होता है, जिसका बल और प्रभाव संसद के अधिनियम के समान होता है। किसी भी अध्यादेश को संसद की दोबारा बैठक के 6 सप्ताह के भीतर मंजूरी मिलनी चाहिए।",
+      "tip_hi": "अध्यादेश प्रख्यापन: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -38016,8 +38016,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 312 provides that if the राज्यसभा declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, संसद मई by law create new All-India Services.",
-      "tip_hi": "Exclusive special powers of राज्यसभा: अनुच्छेद 249 (State list legislation) and अनुच्छेद 312 (New All-India Services)."
+      "explanation_hi": "अनुच्छेद 312 में प्रावधान है कि यदि राज्यसभा उपस्थित और मतदान करने वाले कम से कम दो-तिहाई सदस्यों द्वारा समर्थित प्रस्ताव द्वारा घोषणा करती है कि यह राष्ट्रीय हित में आवश्यक है, तो संसद कानून द्वारा नई अखिल भारतीय सेवाएं बना सकती है।",
+      "tip_hi": "राज्यसभा की विशिष्ट विशेष शक्तियाँ: अनुच्छेद 249 (राज्य सूची विधान) और अनुच्छेद 312 (नई अखिल भारतीय सेवाएँ)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -38044,7 +38044,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "आपातकालीन शक्तियों के दुरुपयोग को रोकने के लिए (जैसा कि 1975 में 'आंतरिक गड़बड़ी' के बहाने हुआ था), 44वें संशोधन ने राष्ट्रीय आपातकालीन आधार को युद्ध, बाहरी आक्रमण, या 'सशस्त्र विद्रोह' तक सीमित कर दिया, जिसके लिए केंद्रीय मंत्रिमंडल की लिखित सिफारिश की आवश्यकता थी।",
-      "tip_hi": "44th संशोधन substituted 'Armed Rebellion' for 'Internal Disturbance' in अनुच्छेद 352."
+      "tip_hi": "44वें संशोधन ने अनुच्छेद 352 में 'आंतरिक अशांति' के स्थान पर 'सशस्त्र विद्रोह' को प्रतिस्थापित कर दिया।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -38124,8 +38124,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 106th संविधान संशोधन अधिनियम 2023 (128th संशोधन Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the लोकसभा, State Legislative Assemblies, and Delhi Assembly for 15 वर्ष, to be implemented after delimitation following the next जनगणना.",
-      "tip_hi": "Women's Reservation in संसद (33%) = 106th संशोधन अधिनियम 2023 (Nari Shakti Vandan Adhiniyam)."
+      "explanation_hi": "106वें संवैधानिक संशोधन अधिनियम 2023 (128वें संशोधन विधेयक) में अनुच्छेद 330ए और 332ए शामिल किए गए, जिसके तहत लोकसभा, राज्य विधानसभाओं और दिल्ली विधानसभा में महिलाओं के लिए 15 वर्षों के लिए एक तिहाई सीटें आरक्षित की गईं, जिन्हें अगली जनगणना के बाद परिसीमन के बाद लागू किया जाएगा।",
+      "tip_hi": "संसद में महिला आरक्षण (33%) = 106वां संशोधन अधिनियम 2023 (नारी शक्ति वंदन अधिनियम)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -38259,8 +38259,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The well-drained alluvial tract along the Burhi गंडक नदी and कोसी नदी rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.",
-      "tip_hi": "Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi गंडक नदी & कोसी नदी plains)."
+      "explanation_hi": "बूढ़ी गंडक और कोसी नदियों (खगड़िया, बेगुसराय, समस्तीपुर और सहरसा को मिलाकर) के साथ अच्छी तरह से सूखा जलोढ़ पथ 'बिहार का मकई बेल्ट' बनाता है, जिसमें शीतकालीन मक्का उत्पादकता 50 क्विंटल/हेक्टेयर से अधिक दर्ज की जाती है।",
+      "tip_hi": "बिहार का मक्का का कटोरा = खगड़िया, बेगुसराय, समस्तीपुर (बूढ़ी गंडक और कोसी का मैदान)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -38286,8 +38286,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 143 confers Advisory Jurisdiction on the सर्वोच्च न्यायालय. The राष्ट्रपति मई refer a question of public importance to the सर्वोच्च न्यायालय for opinion. The opinion rendered is purely advisory and not binding on the राष्ट्रपति.",
-      "tip_hi": "Advisory Jurisdiction of सर्वोच्च न्यायालय = अनुच्छेद 143; Original Jurisdiction = अनुच्छेद 131; Special Leave Petition = अनुच्छेद 136."
+      "explanation_hi": "अनुच्छेद 143 सर्वोच्च न्यायालय को सलाहकारी क्षेत्राधिकार प्रदान करता है। राष्ट्रपति सार्वजनिक महत्व के किसी प्रश्न को राय के लिए सर्वोच्च न्यायालय को भेज सकते हैं। दी गई राय पूरी तरह से सलाहकारी है और राष्ट्रपति पर बाध्यकारी नहीं है।",
+      "tip_hi": "सर्वोच्च न्यायालय का सलाहकार क्षेत्राधिकार = अनुच्छेद 143; मूल क्षेत्राधिकार = अनुच्छेद 131; विशेष अनुमति याचिका = अनुच्छेद 136."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -38450,8 +38450,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Human Rights दिन is observed globally on 10th दिसम्बर to commemorate the adoption of the Universal Declaration of Human Rights (UDHR) by the UN General Assembly in 1948.",
-      "tip_hi": "24 अक्टूबर = United Nations दिन; 10 दिसम्बर = Human Rights दिन; 10 नवम्बर = World Science दिन for Peace."
+      "explanation_hi": "1948 में संयुक्त राष्ट्र महासभा द्वारा मानव अधिकारों की सार्वभौम घोषणा (यूडीएचआर) को अपनाने के उपलक्ष्य में 10 दिसंबर को विश्व स्तर पर मानवाधिकार दिवस मनाया जाता है।",
+      "tip_hi": "24 अक्टूबर = संयुक्त राष्ट्र दिवस; 10 दिसंबर = मानवाधिकार दिवस; 10 नवंबर = शांति के लिए विश्व विज्ञान दिवस।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -38478,7 +38478,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ताना भगत आंदोलन (1914) जात्रा भगत के नेतृत्व में छोटानागपुर की ओरांव जनजाति के बीच एक धार्मिक, कृषि और आदिवासी आंदोलन था, जो ब्रिटिश भूमि करों और साहूकारों का विरोध करता था।",
-      "tip_hi": "Tana Bhagats later allied with महात्मा गांधी's Non-Cooperation Movement, adopting non-violence and Khadi."
+      "tip_hi": "ताना भगत बाद में अहिंसा और खादी को अपनाते हुए महात्मा गांधी के असहयोग आंदोलन से जुड़ गए।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -38504,7 +38504,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "काली मिट्टी (रेगुर मिट्टी) (Regur soil) is widespread across the Deccan lava trap, predominantly found in Maharashtra, Gujarat, Madhya Pradesh, and parts of Karnataka. As both Gujarat and Karnataka have it, (D) is correct.",
+      "explanation_hi": "काली मिट्टी (रेगुर मिट्टी) दक्कन लावा जाल में व्यापक रूप से फैली हुई है, जो मुख्य रूप से महाराष्ट्र, गुजरात, मध्य प्रदेश और कर्नाटक के कुछ हिस्सों में पाई जाती है। चूंकि गुजरात और कर्नाटक दोनों में यह है, (डी) सही है।",
       "tip_hi": "रेगुर/काली कपास मिट्टी कई प्रायद्वीपीय राज्यों तक फैली हुई है; जब गुजरात और कर्नाटक एक साथ दिखाई दें, तो विकल्प (डी) चुनें।"
     },
     {
@@ -38585,8 +38585,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पूर्व-पश्चिम Corridor of the Golden Quadrilateral project links Silchar in Assam (पूर्व) with Porbandar in Gujarat (पश्चिम).",
-      "tip_hi": "Corridors: पूर्व-पश्चिम = Silchar to Porbandar; उत्तर-दक्षिण = Srinagar to Kanyakumari."
+      "explanation_hi": "स्वर्णिम चतुर्भुज परियोजना का पूर्व-पश्चिम गलियारा असम (पूर्व) में सिलचर को गुजरात (पश्चिम) में पोरबंदर से जोड़ता है।",
+      "tip_hi": "गलियारे: पूर्व-पश्चिम = सिलचर से पोरबंदर; उत्तर-दक्षिण = श्रीनगर से कन्याकुमारी तक।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -38612,7 +38612,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Stalactites (hanging from cave ceilings) and stalagmites (rising from cave floors) are depositional landforms produced by कैल्शियम कार्बोनेट (CaCO3) precipitation in karst underground water topography.",
+      "explanation_hi": "स्टैलेक्टाइट्स (गुफा की छत से लटकते हुए) और स्टैलेग्माइट्स (गुफा के फर्श से उभरे हुए) कार्स्ट भूमिगत जल स्थलाकृति में कैल्शियम कार्बोनेट वर्षा द्वारा निर्मित निक्षेपण स्थलरूप हैं।",
       "tip_hi": "मेमोरी सहायता: स्टैलेक्टाइट छत को 'कसकर' रखता है; स्टैलागमाइट 'हो सकता है' जमीन से छत तक पहुंच जाए; दोनों कार्स्ट भूजल द्वारा निर्मित हैं।"
     },
     {
@@ -38639,8 +38639,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "World Earth दिन is celebrated annually on अप्रैल 22 to mobilize global support for environmental protection. World Health दिन is अप्रैल 7 and World Ozone दिन is सितम्बर 16.",
-      "tip_hi": "Calendar of environment दिन: 22 मार्च = World Water दिन; 22 अप्रैल = World Earth दिन; 22 मई = International Biological Diversity दिन."
+      "explanation_hi": "पर्यावरण संरक्षण के लिए वैश्विक समर्थन जुटाने के लिए प्रतिवर्ष 22 अप्रैल को विश्व पृथ्वी दिवस मनाया जाता है। विश्व स्वास्थ्य दिवस 7 अप्रैल है और विश्व ओजोन दिवस 16 सितंबर है।",
+      "tip_hi": "पर्यावरण दिवसों का कैलेंडर: 22 मार्च = विश्व जल दिवस; 22 अप्रैल = विश्व पृथ्वी दिवस; 22 मई = अंतर्राष्ट्रीय जैविक विविधता दिवस."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -38829,7 +38829,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "दिसंबर 1916 में कांग्रेस के 31वें लखनऊ सत्र में चंपारण कृषि संकट को उठाया गया और औपचारिक रूप से चर्चा की गई। चूंकि लखनऊ 1916 अनुपस्थित है, (ई) उत्तर है।",
-      "tip_hi": "At Lucknow 1916, Raj Kumar Shukla met महात्मा गांधी and urged him to visit Champaran."
+      "tip_hi": "1916 में लखनऊ में राज कुमार शुक्ल ने महात्मा गांधी से मुलाकात की और उनसे चंपारण आने का आग्रह किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -38856,7 +38856,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "किसी भी घटना की प्रायिकता P(E) को 0 <= P(E) <= 1 को संतुष्ट करना होगा। -0.7 (नकारात्मक) और 1.2 (> 1) दोनों किसी घटना की प्रायिकताएं नहीं हो सकती हैं।",
-      "tip_hi": "Since both (B) and (C) violate the probability axiom [0, 1], Option (D) ('उपर्युक्त में से एक से अधिक') is correct."
+      "tip_hi": "चूँकि (बी) और (सी) दोनों संभाव्यता सिद्धांत [0, 1] का उल्लंघन करते हैं, विकल्प (डी) ('उपरोक्त में से एक से अधिक') सही है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -38909,8 +38909,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Salt Satyagraha in Bihar commenced in अप्रैल 1930, following Gandhiji's Dandi मार्च, with initial ground agitation organized on 15-16 अप्रैल 1930 in Champaran and Saran.",
-      "tip_hi": "Dandi मार्च began 12 मार्च 1930; Salt was broken on 6 अप्रैल 1930; Bihar salt agitation was initiated in mid-अप्रैल 1930."
+      "explanation_hi": "गांधीजी की दांडी यात्रा के बाद, बिहार में नमक सत्याग्रह अप्रैल 1930 में शुरू हुआ, जिसका प्रारंभिक जमीनी आंदोलन 15-16 अप्रैल 1930 को चंपारण और सारण में आयोजित किया गया था।",
+      "tip_hi": "दांडी मार्च 12 मार्च 1930 को शुरू हुआ; 6 अप्रैल 1930 को नमक तोड़ा गया; बिहार नमक आंदोलन अप्रैल 1930 के मध्य में शुरू किया गया था।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -38990,8 +38990,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Bihar plains (both उत्तर Bihar Plains and दक्षिण Bihar Plains, comprising Magadha and Anga) form the core of the Middle गंगा नदी Plain.",
-      "tip_hi": "Upper गंगा नदी = UP पश्चिम of Allahabad; Middle गंगा नदी = Eastern UP and Bihar; Lower गंगा नदी = पश्चिम Bengal and Delta."
+      "explanation_hi": "बिहार का मैदान (उत्तर बिहार का मैदान और दक्षिण बिहार का मैदान, जिसमें मगध और अंगा शामिल हैं) मध्य गंगा के मैदान का मुख्य भाग हैं।",
+      "tip_hi": "ऊपरी गंगा = इलाहाबाद के पश्चिम में उत्तर प्रदेश; मध्य गंगा = पूर्वी उत्तर प्रदेश और बिहार; निचली गंगा = पश्चिम बंगाल और डेल्टा।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -39071,7 +39071,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Leaching is the pedological process where soluble plant nutrients and silica are washed downward through the soil profile in regions of heavy tropical rainfall, forming लेटराइट मिट्टी.",
+      "explanation_hi": "लीचिंग एक पेडोलॉजिकल प्रक्रिया है जहां घुलनशील पौधों के पोषक तत्व और सिलिका भारी उष्णकटिबंधीय वर्षा वाले क्षेत्रों में मिट्टी की प्रोफाइल के माध्यम से नीचे की ओर धुल जाते हैं, जिससे लेटराइट मिट्टी बनती है।",
       "tip_hi": "लीचिंग में सीधे तौर पर मिट्टी के खनिज और भारी वर्षा की स्थिति दोनों शामिल होती है, जो बीपीएससी की आधिकारिक कुंजी (डी) को प्रेरित करती है।"
     },
     {
@@ -39126,7 +39126,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "भारत में, आदिम स्लेश-एंड-बर्न शिफ्टिंग कृषि को मध्य प्रदेश में 'बेवर' या 'दहिया' और ओडिशा में 'पामा डाबी' या 'कोमान' कहा जाता है। 'मिल्पा' मेक्सिको/मध्य अमेरिका में प्रचलित है।",
-      "tip_hi": "Local names in India: Bewar (MP), Podu (Andhra), Pama Dabi (Odisha), Jhum (उत्तर-पूर्व). Milpa is Mexico."
+      "tip_hi": "भारत में स्थानीय नाम: बेवर (मध्य प्रदेश), पोडु (आंध्र), पामा डाबी (ओडिशा), झूम (उत्तर-पूर्व)। मिल्पा मेक्सिको है."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -39206,7 +39206,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Iron and steel is a heavy, weight-losing क्षारीय mineral industry क्योंकि both its inputs (iron ore, coal, limestone) and finished outputs are heavy and bulky. Describing it as a light industry is false.",
+      "explanation_hi": "लोहा और इस्पात एक भारी, वजन कम करने वाला बुनियादी खनिज उद्योग है क्योंकि इसके इनपुट (लौह अयस्क, कोयला, चूना पत्थर) और तैयार आउटपुट दोनों भारी और बोझिल हैं। इसे प्रकाश उद्योग के रूप में वर्णित करना गलत है।",
       "tip_hi": "भारी उद्योग भारी कच्चे माल (लोहा और इस्पात) की खपत करते हैं; हल्के उद्योग कॉम्पैक्ट सामान (इलेक्ट्रॉनिक्स, घड़ियाँ) का उत्पादन करते हैं।"
     },
     {
@@ -39260,7 +39260,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Swatantra Party में स्थापित किया गया था 1959 by C. Rajagopalachari, advocating free enterprise, reduction of state control, and opposition to Nehru's socialist planning.",
+      "explanation_hi": "स्वतंत्र पार्टी की स्थापना 1959 में सी. राजगोपालाचारी ने की थी, जो मुक्त उद्यम, राज्य नियंत्रण में कमी और नेहरू की समाजवादी योजना के विरोध की वकालत करती थी।",
       "tip_hi": "स्वतंत्र पार्टी (1959) = सी. राजगोपालाचारी, मीनू मसानी, एन.जी. रंगा; स्वराज पार्टी (1923) = सी.आर. दास और मोतीलाल नेहरू।"
     },
     {
@@ -39287,7 +39287,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Seventh अनुसूची (अनुच्छेद 246) defines legislative powers divided into three lists: List I (Union List), List II (State List), and List III (Concurrent List).",
+      "explanation_hi": "सातवीं अनुसूची (अनुच्छेद 246) विधायी शक्तियों को तीन सूचियों में विभाजित करती है: सूची I (संघ सूची), सूची II (राज्य सूची), और सूची III (समवर्ती सूची)।",
       "tip_hi": "अनुसूचियाँ स्मरणीय: 7वीं = शक्तियों का विभाजन (संघ, राज्य, समवर्ती सूचियाँ); आठवां = राजभाषाएँ; 5वां = अनुसूचित क्षेत्र।"
     },
     {
@@ -39314,8 +39314,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 280 mandates the राष्ट्रपति of India to constitute a वित्त आयोग every fifth वर्ष to recommend the devolution of tax revenues between the Union and the States.",
-      "tip_hi": "अनुच्छेद 280 = वित्त आयोग; अनुच्छेद 315 = UPSC and State PSCs; अनुच्छेद 324 = चुनाव आयोग."
+      "explanation_hi": "अनुच्छेद 280 भारत के राष्ट्रपति को संघ और राज्यों के बीच कर राजस्व के हस्तांतरण की सिफारिश करने के लिए हर पांचवें वर्ष एक वित्त आयोग का गठन करने का आदेश देता है।",
+      "tip_hi": "अनुच्छेद 280 = वित्त आयोग; अनुच्छेद 315 = यूपीएससी और राज्य पीएससी; अनुच्छेद 324=चुनाव आयोग।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -39341,8 +39341,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the 73rd संविधान संशोधन अधिनियम, the 3-tier पंचायती राज structure comprises Zila Parishad (district level), Panchayat Samiti (block level), and ग्राम पंचायत (village level).",
-      "tip_hi": "Lowest level in rural governance = ग्राम पंचायत; Intermediate = Block/Panchayat Samiti; Apex = Zila Parishad."
+      "explanation_hi": "73वें संवैधानिक संशोधन अधिनियम के तहत, 3-स्तरीय पंचायती राज संरचना में जिला परिषद (जिला स्तर), पंचायत समिति (ब्लॉक स्तर), और ग्राम पंचायत (ग्राम स्तर) शामिल हैं।",
+      "tip_hi": "ग्रामीण शासन में निम्नतम स्तर = ग्राम पंचायत; मध्यवर्ती = ब्लॉक/पंचायत समिति; शीर्ष = जिला परिषद।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -39395,7 +39395,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to जनगणना 2011, Rohtas district recorded the highest overall साक्षरता दर (73.37%) as well as the highest rural साक्षरता दर in Bihar.",
+      "explanation_hi": "2011 की जनगणना के अनुसार, रोहतास जिले में बिहार में सबसे अधिक समग्र साक्षरता दर (73.37%) और साथ ही सबसे अधिक ग्रामीण साक्षरता दर दर्ज की गई।",
       "tip_hi": "बिहार साक्षरता: उच्चतम समग्र और ग्रामीण साक्षरता = रोहतास; न्यूनतम समग्र एवं ग्रामीण साक्षरता = पूर्णिया।"
     },
     {
@@ -39451,7 +39451,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fumaroles (धुँआरे / वातिमुख) are vents emitting steam and volcanic गैस (SO2, CO2, H2S) के दौरान the dying/senescent phase of volcanism when magma has ceased erupting.",
+      "explanation_hi": "फ़्यूमरोल्स (धुँरे/वातिमुख) ज्वालामुखी के ख़त्म होने/बुढ़ापे चरण के दौरान भाप और ज्वालामुखीय गैसों (SO2, CO2, H2S) उत्सर्जित करने वाले छिद्र हैं जब मैग्मा फूटना बंद हो जाता है।",
       "tip_hi": "ज्वालामुखी जीवन चक्र: सक्रिय विस्फोट -> क्रेटर निर्माण -> गीजर/हॉट स्प्रिंग्स -> फ्यूमरोल्स (अंतिम मरने वाली गैसीय अवस्था)।"
     },
     {
@@ -39478,8 +39478,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Toads (Amphibians), Crocodiles (Reptiles), and Fish (Pisces) are poikilothermic (असमतापी (शीत-रक्त वाले)) ectotherms. Only birds (Aves) and mammals are homeothermic (समतापी (उष्ण-रक्त वाले)).",
-      "tip_hi": "समतापी (उष्ण-रक्त वाले) = Birds & Mammals only. Reptiles, amphibians, and fish are असमतापी (शीत-रक्त वाले); hence Option (E) is correct."
+      "explanation_hi": "टोड (उभयचर), मगरमच्छ (सरीसृप), और मछली (मीन) पोइकिलोथर्मिक (ठंडे खून वाले) एक्टोथर्म हैं। केवल पक्षी (एवेस) और स्तनधारी ही होमोथर्मिक (गर्म रक्त वाले) होते हैं।",
+      "tip_hi": "गर्म रक्त वाले = केवल पक्षी और स्तनधारी। सरीसृप, उभयचर और मछलियाँ ठंडे खून वाले होते हैं; इसलिए विकल्प (ई) सही है।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -39505,7 +39505,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Anandamath was published as a book in 1882 in Bengali by बंकिम चंद्र चटर्जी, inspiring nationalist pride through the hymn 'Vande Mataram'.",
+      "explanation_hi": "आनंदमठ को 1882 में बंकिम चंद्र चटर्जी द्वारा बंगाली में एक पुस्तक के रूप में प्रकाशित किया गया था, जो 'वंदे मातरम' भजन के माध्यम से राष्ट्रवादी गौरव को प्रेरित करता था।",
       "tip_hi": "1875-76 = 'वंदे मातरम' लिखा गया; 1882 = 'आनंदमठ' प्रकाशित; 1896 = कलकत्ता कांग्रेस अधिवेशन में गाया गया।"
     },
     {
@@ -39640,8 +39640,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Due to Earth's elliptical orbit, the maximum distance (approx. 152 million किमी) occurs at Aphelion (अपसौर) around जुलाई 4. The closest distance occurs at Perihelion (उपसौर, Jan 3).",
-      "tip_hi": "Mnemonic: 'A'phelion = 'A'way (furthest, जुलाई 4); 'P'erihelion = 'P'ass (closest, जनवरी 3)."
+      "explanation_hi": "पृथ्वी की अण्डाकार कक्षा के कारण, अधिकतम दूरी (लगभग 152 मिलियन किमी) 4 जुलाई के आसपास एपेलियन (अप्सौर) में होती है। निकटतम दूरी पेरिहेलियन (उपसौर, 3 जनवरी) में होती है।",
+      "tip_hi": "स्मरणीय: 'ए'फेलियन = 'ए'वे (सबसे दूर, 4 जुलाई); 'पेरीहेलियन = 'पास' (निकटतम, 3 जनवरी)।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -39748,7 +39748,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "King George V announced the annulment/reversal of the Partition of Bengal at the Delhi Durbar in दिसम्बर 1911 के दौरान the viceroyalty of Lord Hardinge II.",
+      "explanation_hi": "किंग जॉर्ज पंचम ने दिसंबर 1911 में लॉर्ड हार्डिंग द्वितीय के वायसराय काल के दौरान दिल्ली दरबार में बंगाल विभाजन को रद्द/बदलने की घोषणा की।",
       "tip_hi": "1905 विभाजन = लार्ड कर्जन; 1909 मॉर्ले-मिंटो सुधार = लॉर्ड मिंटो; 1911 विलोपन = लॉर्ड हार्डिंग।"
     },
     {
@@ -39775,8 +39775,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "SONAR (Sound Navigation and Ranging) uses पराध्वनि (अल्ट्रासोनिक) ध्वनि तरंगें to map ocean depths and locate submerged objects, hills, valleys, and shipwrecks.",
-      "tip_hi": "SONAR = Underwater sound परावर्तन; RADAR = Atmospheric radio wave परावर्तन."
+      "explanation_hi": "सोनार (साउंड नेविगेशन एंड रेंजिंग) समुद्र की गहराई का मानचित्रण करने और जलमग्न वस्तुओं, पहाड़ियों, घाटियों और जहाजों के मलबे का पता लगाने के लिए अल्ट्रासोनिक ध्वनि तरंगों का उपयोग करता है।",
+      "tip_hi": "सोनार = पानी के नीचे ध्वनि प्रतिबिंब; राडार = वायुमंडलीय रेडियो तरंग प्रतिबिंब।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -39857,7 +39857,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "परसों = सोमवार -> कल = मंगलवार -> आज = ​​बुधवार -> कल = गुरुवार -> परसों = शुक्रवार।",
-      "tip_hi": "Count displacement from 'दिन before yesterday' (-2) to 'दिन after tomorrow' (+2): total +4 दिन. Monday + 4 दिन = Friday."
+      "tip_hi": "'परसों से पहले' (-2) से 'परसों' (+2) तक विस्थापन की गणना करें: कुल +4 दिन। सोमवार + 4 दिन = शुक्रवार."
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -39937,8 +39937,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 73rd and 74th Constitutional संशोधन Acts were enacted by संसद in 1992 and came into force in 1993 under the Prime Ministership of P. V. Narasimha Rao.",
-      "tip_hi": "73rd संशोधन (Panchayats) enforced 24 अप्रैल 1993; 74th संशोधन (Municipalities) enforced 1 जून 1993 के दौरान Narasimha Rao's tenure."
+      "explanation_hi": "73वें और 74वें संवैधानिक संशोधन अधिनियम 1992 में संसद द्वारा अधिनियमित किए गए और 1993 में पी. वी. नरसिम्हा राव के प्रधानमंत्रित्व काल में लागू हुए।",
+      "tip_hi": "73वां संशोधन (पंचायत) 24 अप्रैल 1993 को लागू हुआ; नरसिम्हा राव के कार्यकाल के दौरान 1 जून 1993 को 74वां संशोधन (नगर पालिकाएं) लागू किया गया।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -40073,7 +40073,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "1820 से 1860 के दशक तक पटना भारत में वहाबी आंदोलन का प्रमुख मुख्यालय था, जिसे नेता मौलवी विलायत अली और इनायत अली द्वारा आयोजित किया गया था।",
-      "tip_hi": "Patna served as the pan-Indian organizational hub for propaganda and soldiers for the Wahabis on the उत्तर-पश्चिम Frontier."
+      "tip_hi": "पटना ने उत्तर-पश्चिम सीमा पर वहाबियों के प्रचार और सैनिकों के लिए अखिल भारतीय संगठनात्मक केंद्र के रूप में कार्य किया।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -40126,7 +40126,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The intellectual reform movement of Brahmo Samaj founded by राजा राममोहन राय was predominantly confined to the urban educated middle class (Bhadralok) in Calcutta.",
+      "explanation_hi": "राजा राम मोहन राय द्वारा स्थापित ब्रह्म समाज का बौद्धिक सुधार आंदोलन मुख्य रूप से कलकत्ता में शहरी शिक्षित मध्यम वर्ग (भद्रलोक) तक ही सीमित था।",
       "tip_hi": "आर्य समाज ने पंजाब/यूपी में व्यापक ग्रामीण और जन लोकप्रियता हासिल की; ब्रह्म समाज मुख्य रूप से एक शहरी बौद्धिक अभिजात्य आंदोलन था।"
     },
     {
@@ -40153,7 +40153,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Acids turn blue litmus red. Vinegar contains dilute एसिटिक अम्ल (CH3COOH, pH approx. 2.5), जबकि धावन सोडा (Na2CO3·10H2O) (Na2CO3) and बेकिंग सोडा (NaHCO3) (NaHCO3) are क्षारीय.",
+      "explanation_hi": "अम्ल नीले लिटमस को लाल कर देते हैं। सिरके में पतला एसिटिक एसिड (CH3COOH, pH लगभग 2.5) होता है, जबकि धोने का सोडा (Na2CO3) और बेकिंग सोडा (NaHCO3) बुनियादी होते हैं।",
       "tip_hi": "एसिड नीले से लाल हो जाता है ('एबीआर'); आधार लाल से नीला ('बीआरबी') हो जाता है। सिरका अम्लीय है; सोडा क्षारीय होते हैं."
     },
     {
@@ -40180,8 +40180,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "India shares its longest land border of 4,096.7 किमी with Bangladesh, spanning पश्चिम Bengal, Meghalaya, Mizoram, Assam, and Tripura.",
-      "tip_hi": "Border lengths mnemonic: Bangladesh (4,096.7 किमी) > China (3,488 किमी) > Pakistan (3,323 किमी) > Nepal (1,751 किमी)."
+      "explanation_hi": "भारत अपनी सबसे लंबी 4,096.7 किमी लंबी भूमि सीमा बांग्लादेश के साथ साझा करता है, जो पश्चिम बंगाल, मेघालय, मिजोरम, असम और त्रिपुरा तक फैली हुई है।",
+      "tip_hi": "सीमा की लंबाई स्मरणीय: बांग्लादेश (4,096.7 किमी) > चीन (3,488 किमी) > पाकिस्तान (3,323 किमी) > नेपाल (1,751 किमी)।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -40207,8 +40207,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 42nd संविधान संशोधन अधिनियम, 1976 curtailed judicial review powers of the सर्वोच्च न्यायालय and High Courts, declaring that constitutional amendments could not be questioned in court.",
-      "tip_hi": "42nd संशोधन (1976) is के रूप में जाना जाता है the 'Mini-Constitution'; judicial review powers were later restored by the 44th संशोधन (1978)."
+      "explanation_hi": "42वें संवैधानिक संशोधन अधिनियम, 1976 ने सर्वोच्च न्यायालय और उच्च न्यायालयों की न्यायिक समीक्षा शक्तियों को कम कर दिया, यह घोषणा करते हुए कि संवैधानिक संशोधनों पर अदालत में सवाल नहीं उठाया जा सकता है।",
+      "tip_hi": "42वें संशोधन (1976) को 'लघु-संविधान' के नाम से जाना जाता है; न्यायिक समीक्षा की शक्तियाँ बाद में 44वें संशोधन (1978) द्वारा बहाल कर दी गईं।"
     },
     {
       "source": "BPSC TRE 3.0 - Primary Teacher (Classes 1-5, March 2024)",
@@ -40369,7 +40369,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary of the 5th cycle of Management Effectiveness Evaluation of Tiger Reserves in अप्रैल 2023, declaring 3,167 tigers in India.",
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने अप्रैल 2023 में टाइगर रिजर्व के प्रबंधन प्रभावशीलता मूल्यांकन के 5वें चक्र का सारांश जारी किया, जिसमें भारत में 3,167 बाघों की घोषणा की गई।",
       "tip_hi": "बाघों की आबादी 2,967 (2018) से बढ़कर 3,167 (2022 की जनगणना 2023 में जारी) हो गई।"
     },
     {
@@ -40423,7 +40423,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "There are 90 डिग्री उत्तर, 90 डिग्री दक्षिण, and 1 Equator (0 डिग्री): total 90 + 90 + 1 = 181 latitudes. (Note: If counting only latitude circles excluding pole points, it is 179).",
+      "explanation_hi": "90 डिग्री उत्तर, 90 डिग्री दक्षिण और 1 भूमध्य रेखा (0 डिग्री) हैं: कुल 90 + 90 + 1 = 181 अक्षांश। (नोट: यदि ध्रुव बिंदुओं को छोड़कर केवल अक्षांश वृत्तों की गणना की जाए तो यह 179 है)।",
       "tip_hi": "अक्षांश की कुल समानताएँ = 181 (0° और दो 90° ध्रुवों सहित); अक्षांश वृत्त = 179."
     },
     {
@@ -40504,8 +40504,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "गोपाल कृष्ण गोखले was the political mentor and guru of महात्मा गांधी, who advised him to travel across India for one वर्ष to understand ground realities. Gokhale is omitted from (A), (B), and (C).",
-      "tip_hi": "Gandhi's Political Guru = गोपाल कृष्ण गोखले; Gokhale's Political Guru = Justice M.G. Ranade. When Gokhale is not in A, B, or C, select Option (E).\nAnswer Key Summary Table — Set 3 (Q.81 to Q.120)\nQ. No.\nBPSC Edition & Paper Origin\nCore Concept Tested\nOfficial Key"
+      "explanation_hi": "गोपाल कृष्ण गोखले महात्मा गांधी के राजनीतिक गुरु और गुरु थे, जिन्होंने उन्हें जमीनी हकीकत समझने के लिए एक साल के लिए पूरे भारत की यात्रा करने की सलाह दी थी। गोखले को (ए), (बी), और (सी) से हटा दिया गया है।",
+      "tip_hi": "गांधी जी के राजनीतिक गुरु = गोपाल कृष्ण गोखले; गोखले के राजनीतिक गुरु = न्यायमूर्ति एम.जी. रानाडे. जब गोखले ए, बी या सी में नहीं हैं, तो विकल्प (ई) चुनें।\nउत्तर कुंजी सारांश तालिका - सेट 3 (प्र.81 से प्र.120)\nप्र. नहीं.\nबीपीएससी संस्करण और पेपर उत्पत्ति\nकोर कॉन्सेप्ट का परीक्षण किया गया\nआधिकारिक कुंजी"
     }
   ],
   "bpsc-tre4-general-studies-set4": [
@@ -40534,7 +40534,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पटना में एक देशभक्त पुस्तक विक्रेता, पीर अली खान ने 3 जुलाई 1857 को अंग्रेजों के खिलाफ सशस्त्र विद्रोह का आयोजन और नेतृत्व किया। उन्हें पकड़ लिया गया और कमिश्नर विलियम टायलर ने सार्वजनिक रूप से फांसी दे दी।",
-      "tip_hi": "Distinguish Patna leadership: Pir Ali Khan led the urban uprising in Patna city, जबकि बाबू कुंवर सिंह led the wider regional movement in Jagdishpur/Shahabad."
+      "tip_hi": "पटना के विशिष्ट नेतृत्व: पीर अली खान ने पटना शहर में शहरी विद्रोह का नेतृत्व किया, जबकि बाबू कुँवर सिंह ने जगदीशपुर/शाहाबाद में व्यापक क्षेत्रीय आंदोलन का नेतृत्व किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -40560,7 +40560,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Raj Kumar Shukla, an exploited peasant leader from Champaran, met महात्मा गांधी at the Lucknow Congress Session in दिसम्बर 1916 and persistently urged him to visit Champaran.",
+      "explanation_hi": "चंपारण के एक शोषित किसान नेता राज कुमार शुक्ल ने दिसंबर 1916 में लखनऊ कांग्रेस सत्र में महात्मा गांधी से मुलाकात की और उनसे चंपारण आने का आग्रह किया।",
       "tip_hi": "राज कुमार शुक्ल के निरंतर अनुनय के कारण सीधे 1917 का ऐतिहासिक चंपारण सत्याग्रह हुआ, जो भारत में गांधीजी का पहला सत्याग्रह प्रयोग था।"
     },
     {
@@ -40614,7 +40614,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती formally founded the Bihar Provincial Kisan Sabha in नवम्बर 1929 at the Sonepur Fair, with Shri Krishna Singh as its Secretary.",
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने नवंबर 1929 में सोनपुर मेले में औपचारिक रूप से बिहार प्रांतीय किसान सभा की स्थापना की, जिसके सचिव श्री कृष्ण सिंह थे।",
       "tip_hi": "प्रमुख वर्ष: 1929 = बिहार प्रांतीय किसान सभा (सोनेपुर); 1936 = अखिल भारतीय किसान सभा (स्वामी सहजानंद के अधीन लखनऊ)।"
     },
     {
@@ -40641,8 +40641,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in 1942, जयप्रकाश नारायण (JP) established the underground guerrilla force 'Azad Dasta' at Bakro ka Tapu in Nepal to disrupt British communications.",
-      "tip_hi": "Radio transmitter broadcast was managed by राम मनोहर लोहिया, but the overall founder and supreme leader of Azad Dasta was जयप्रकाश नारायण."
+      "explanation_hi": "1942 में दिवाली की रात हज़ारीबाग़ सेंट्रल जेल से भागने के बाद, जयप्रकाश नारायण (जेपी) ने ब्रिटिश संचार को बाधित करने के लिए नेपाल के बकरो का टापू में भूमिगत गुरिल्ला बल 'आजाद दस्ता' की स्थापना की।",
+      "tip_hi": "रेडियो ट्रांसमीटर प्रसारण का प्रबंधन राम मनोहर लोहिया द्वारा किया जाता था, लेकिन आज़ाद दस्ता के समग्र संस्थापक और सर्वोच्च नेता जयप्रकाश नारायण थे।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Teacher (Classes 1-5)",
@@ -40669,7 +40669,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जब पटना के जिला मजिस्ट्रेट डब्ल्यू.जी. आर्चर ने पुलिस को पटना सचिवालय पर तिरंगा फहराने का प्रयास कर रहे छात्रों पर गोली चलाने का आदेश दिया तो सात बहादुर छात्र स्वतंत्रता सेनानियों की मौके पर ही मौत हो गई।",
-      "tip_hi": "Remembered as 'The Seven Martyrs' (सात शहीद). A monumental कांस्य (तांबा + टिन) memorial stands in front of the Bihar Vidhan Sabha at Patna commemorating them."
+      "tip_hi": "'सात शहीद' के रूप में याद किया जाता है। उनकी स्मृति में पटना में बिहार विधान सभा के सामने एक विशाल कांस्य स्मारक खड़ा है।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary History",
@@ -40723,7 +40723,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मौलाना मजहरुल हक ने 1921 में पटना में गंगा के किनारे अपने मित्र खैरुन मियां द्वारा दान की गई जमीन पर सदाकत आश्रम की स्थापना की और यहीं से साप्ताहिक समाचार पत्र 'द मदरलैंड' निकाला।",
-      "tip_hi": "Sadaqat Ashram served as the residence of डॉ. राजेंद्र प्रसाद after his retirement as the राष्ट्रपति of India until his death in 1963."
+      "tip_hi": "भारत के राष्ट्रपति के रूप में सेवानिवृत्त होने के बाद 1963 में उनकी मृत्यु तक सदाकत आश्रम डॉ. राजेंद्र प्रसाद के निवास के रूप में कार्य करता था।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster Examination",
@@ -40749,7 +40749,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी delivered his historic 'Do or Die' call at the Gowalia Tank Maidan in Bombay on 8th अगस्त 1942 while launching the Quit India Movement.",
+      "explanation_hi": "महात्मा गांधी ने भारत छोड़ो आंदोलन की शुरुआत करते हुए 8 अगस्त 1942 को बॉम्बे के गोवालिया टैंक मैदान में अपना ऐतिहासिक 'करो या मरो' आह्वान किया था।",
       "tip_hi": "असहयोग (1920) ने एक वर्ष में स्वराज का वादा किया; भारत छोड़ो (1942) ने 'करो या मरो' मंत्र के साथ पूर्ण और तत्काल वापसी की मांग की।"
     },
     {
@@ -40776,7 +40776,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the Gaya Congress Session of 1922, a Bihar branch of the Swaraj Party was established in फरवरी 1923 under the leadership of Dr. Shri Krishna Singh (first Premier/मुख्यमंत्री of Bihar).",
+      "explanation_hi": "1922 के गया कांग्रेस अधिवेशन के बाद, फरवरी 1923 में डॉ. श्रीकृष्ण सिंह (बिहार के प्रथम प्रधानमंत्री/मुख्यमंत्री) के नेतृत्व में स्वराज पार्टी की एक बिहार शाखा की स्थापना की गई।",
       "tip_hi": "राष्ट्रीय संस्थापक = सी.आर. दास और मोतीलाल नेहरू; बिहार नेता = डॉ. श्रीकृष्ण सिंह ('बिहार केसरी')."
     },
     {
@@ -40830,8 +40830,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मीथेन (CH4) accounts for 75% to 95% of compressed natural gas (CNG) and between 50% to 70% of biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) predominantly contains ब्यूटेन and प्रोपेन.",
-      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) (cooking gas cylinders) = ब्यूटेन and प्रोपेन (with ethyl mercaptan odorant)."
+      "explanation_hi": "मीथेन (CH4) संपीड़ित प्राकृतिक गैस (CNG) में 75% से 95% और बायोगैस (गोबर गैस) में 50% से 70% के बीच होता है। तरलीकृत पेट्रोलियम गैस (एलपीजी) में मुख्य रूप से ब्यूटेन और प्रोपेन होते हैं।",
+      "tip_hi": "सीएनजी और बायोगैस = मीथेन (CH4); एलपीजी (कुकिंग गैस सिलेंडर) = ब्यूटेन और प्रोपेन (एथिल मर्कैप्टन गंध के साथ)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -40884,8 +40884,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, and renal tubule that filter blood and form urine.",
-      "tip_hi": "नेफ्रॉन (वृक्काणु) = वृक्क (गुर्दा) functional unit; Neuron = Nervous system unit; कूपिकाएं (एल्वियोली) = Respiratory gas exchange unit."
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग 1 से 1.2 मिलियन नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल और वृक्क नलिकाएं शामिल होती हैं जो रक्त को फ़िल्टर करती हैं और मूत्र बनाती हैं।",
+      "tip_hi": "नेफ्रॉन = किडनी कार्यात्मक इकाई; न्यूरॉन = तंत्रिका तंत्र इकाई; एल्वियोली = श्वसन गैस विनिमय इकाई।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -40911,8 +40911,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "ब्लीचिंग पाउडर (CaOCl2) is chemically calcium oxychloride (CaOCl2), manufactured by reacting dry slaked lime with chlorine gas: Ca(OH)2 + Cl2 -> CaOCl2 + H2O.",
-      "tip_hi": "प्लास्टर ऑफ पेरिस = CaSO4·1/2H2O; जिप्सम = CaSO4·2H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; ब्लीचिंग पाउडर (CaOCl2) = CaOCl2."
+      "explanation_hi": "ब्लीचिंग पाउडर रासायनिक रूप से कैल्शियम ऑक्सीक्लोराइड (CaOCl2) है, जो सूखे बुझे हुए चूने को क्लोरीन गैस: Ca(OH)2 + Cl2 -> CaOCl2 + H2O के साथ प्रतिक्रिया करके निर्मित किया जाता है।",
+      "tip_hi": "प्लास्टर ऑफ पेरिस = CaSO4·1/2H2O; जिप्सम = CaSO4·2H2O; बेकिंग सोडा = NaHCO3; ब्लीचिंग पाउडर = CaOCl2."
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary Chemistry",
@@ -40938,8 +40938,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "धावन सोडा (Na2CO3·10H2O) is सोडियम कार्बोनेट decahydrate (Na2CO3·10H2O), containing 10 molecules of water of crystallization. Anhydrous सोडियम कार्बोनेट (Na2CO3) is termed soda ash.",
-      "tip_hi": "धावन सोडा (Na2CO3·10H2O) = Na2CO3·10H2O; बेकिंग सोडा (NaHCO3) = NaHCO3; Caustic Soda = NaOH."
+      "explanation_hi": "वाशिंग सोडा सोडियम कार्बोनेट डिकाहाइड्रेट (Na2CO3·10H2O) है, जिसमें क्रिस्टलीकरण के पानी के 10 अणु होते हैं। निर्जल सोडियम कार्बोनेट (Na2CO3) को सोडा ऐश कहा जाता है।",
+      "tip_hi": "वाशिंग सोडा = Na2CO3·10H2O; बेकिंग सोडा = NaHCO3; कास्टिक सोडा = NaOH."
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -41019,8 +41019,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पीतल (तांबा + जस्ता) is a non-ferrous alloy of Copper (approx. 70%) and Zinc (approx. 30%). कांस्य (तांबा + टिन) is an alloy of Copper and Tin.",
-      "tip_hi": "Memory trick: पीतल (तांबा + जस्ता) = Cu + Zn (पीतल); कांस्य (तांबा + टिन) = Cu + Sn (कांसा); सोल्डर (सीसा + टिन) = Pb + Sn (टांका)."
+      "explanation_hi": "पीतल तांबा (लगभग 70%) और जस्ता (लगभग 30%) का एक अलौह मिश्र धातु है। कांस्य तांबे और टिन का एक मिश्र धातु है।",
+      "tip_hi": "मेमोरी ट्रिक: पीतल = Cu + Zn (पीतल); कांस्य = Cu + Sn (कांसा); सोल्डर = पीबी + एसएन (टांका)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Science",
@@ -41046,8 +41046,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "वर्ण विक्षेपण occurs क्योंकि light of different wavelengths travels at different speeds through the glass prism, resulting in differing angles of deviation (violet deviates the most, red the least).",
-      "tip_hi": "Rainbow formation involves अपवर्तन, वर्ण विक्षेपण, and पूर्ण आंतरिक परावर्तन in raindrops."
+      "explanation_hi": "फैलाव इसलिए होता है क्योंकि विभिन्न तरंग दैर्ध्य का प्रकाश कांच के प्रिज्म के माध्यम से अलग-अलग गति से यात्रा करता है, जिसके परिणामस्वरूप विचलन के अलग-अलग कोण होते हैं (बैंगनी सबसे अधिक विचलन करता है, लाल सबसे कम)।",
+      "tip_hi": "इंद्रधनुष निर्माण में वर्षा की बूंदों में अपवर्तन, फैलाव और पूर्ण आंतरिक प्रतिबिंब शामिल होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science",
@@ -41127,8 +41127,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Tropic of Cancer traverses 8 Indian States from पश्चिम to पूर्व: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, and Mizoram.",
-      "tip_hi": "Mnemonic from पश्चिम to पूर्व: 'GRM-CJ-WTM' -> Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, Mizoram."
+      "explanation_hi": "कर्क रेखा पश्चिम से पूर्व तक 8 भारतीय राज्यों से होकर गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
+      "tip_hi": "पश्चिम से पूर्व तक स्मरक: 'जीआरएम-सीजे-डब्ल्यूटीएम' -> गुजरात, राजस्थान, एमपी, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा, मिजोरम।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -41154,7 +41154,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Standard Meridian of India passes through Mirzapur (near Prayagraj, UP) along 82°30' E longitude, जो कि 5 घंटे and 30 मिनट ahead of Greenwich Mean Time (UTC+05:30).",
+      "explanation_hi": "भारत की मानक मध्याह्न रेखा 82°30' पूर्व देशांतर के साथ मिर्ज़ापुर (प्रयागराज, यूपी के पास) से होकर गुजरती है, जो ग्रीनविच मीन टाइम (UTC+05:30) से 5 घंटे 30 मिनट आगे है।",
       "tip_hi": "82°30' पूर्व मध्याह्न रेखा 5 राज्यों से होकर गुजरती है: उत्तर प्रदेश, मध्य प्रदेश, छत्तीसगढ़, ओडिशा और आंध्र प्रदेश।"
     },
     {
@@ -41182,7 +41182,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "सोमेश्वर पहाड़ियाँ शिवालिक हिमालय की तलहटी का प्रतिनिधित्व करती हैं जो पश्चिम चंपारण जिले की उत्तरी सीमा तक फैली हुई है, जो सोमेश्वर किले (880 मीटर) पर समाप्त होती है।",
-      "tip_hi": "वाल्मीकि राष्ट्रीय उद्यान and Tiger Reserve, Bihar's only national park, is also situated in the Someshwar-Doon range in पश्चिम Champaran."
+      "tip_hi": "बिहार का एकमात्र राष्ट्रीय उद्यान, वाल्मिकी राष्ट्रीय उद्यान और टाइगर रिजर्व भी पश्चिम चंपारण में सोमेश्वर-दून रेंज में स्थित है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -41208,8 +41208,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंगा नदी enters Bihar near Chausa in Buxar district from Uttar Pradesh and traverses 445 किमी eastward across 12 districts before exiting via Katihar into पश्चिम Bengal.",
-      "tip_hi": "गंगा नदी in Bihar: Enters at Buxar (Chausa), longest stretch in Patna district (approx. 99 किमी), exits at Katihar/Bhagalpur."
+      "explanation_hi": "गंगा उत्तर प्रदेश से बक्सर जिले के चौसा के पास बिहार में प्रवेश करती है और पश्चिम बंगाल में कटिहार से बाहर निकलने से पहले 12 जिलों से होकर 445 किमी पूर्व की ओर बहती है।",
+      "tip_hi": "बिहार में गंगा: पटना जिले की सबसे लंबी दूरी (लगभग 99 किमी) बक्सर (चौसा) में प्रवेश करती है, कटिहार/भागलपुर में निकलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster Examination",
@@ -41236,7 +41236,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बिहार का कुल क्षेत्रफल 94,163 वर्ग किलोमीटर है, जो भारत के कुल भौगोलिक क्षेत्र का लगभग 2.86% है, यह भारत में भूमि क्षेत्र के अनुसार 12वें स्थान पर है।",
-      "tip_hi": "Bihar area: 94,163 sq किमी; 2.86% of India; 3rd largest State by population (जनगणना 2011)."
+      "tip_hi": "बिहार क्षेत्र: 94,163 वर्ग किमी; भारत का 2.86%; जनसंख्या के हिसाब से तीसरा सबसे बड़ा राज्य (जनगणना 2011)।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary Geography",
@@ -41262,7 +41262,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "According to जनगणना 2011, Purnia district had the lowest overall साक्षरता दर in Bihar (51.08%). Rohtas district recorded the highest overall साक्षरता दर (73.37%).",
+      "explanation_hi": "2011 की जनगणना के अनुसार, पूर्णिया जिले की समग्र साक्षरता दर बिहार में सबसे कम (51.08%) थी। रोहतास जिले में उच्चतम समग्र साक्षरता दर (73.37%) दर्ज की गई।",
       "tip_hi": "बिहार में साक्षरता चरम पर: कुल मिलाकर सबसे कम = पूर्णिया (51.08%); न्यूनतम महिला साक्षरता=सहरसा (41.68%); उच्चतम साक्षरता (कुल मिलाकर, पुरुष, महिला) = रोहतास।"
     },
     {
@@ -41289,7 +41289,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांवर झील (बेगूसराय) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River, designated as a Ramsar site in जुलाई 2020.",
+      "explanation_hi": "बेगुसराय जिले में कंवर झील एशिया की सबसे बड़ी मीठे पानी की ऑक्सबो झील है, जो बूढ़ी गंडक नदी के घुमावदार मोड़ से बनी है, जिसे जुलाई 2020 में रामसर साइट के रूप में नामित किया गया है।",
       "tip_hi": "ऑक्सबो झील का निर्माण = बूढ़ी गंडक नदी; स्थान=बेगूसराय; महत्व = भारत का 39वाँ रामसर स्थल।"
     },
     {
@@ -41316,8 +41316,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Fundamental Duties were incorporated into Part IV-A (अनुच्छेद 51A) by the 42nd संशोधन अधिनियम, 1976 on the recommendations of the Swaran Singh Committee, inspired by the Constitution of the USSR.",
-      "tip_hi": "Borrowing sources: Fundamental Duties = USSR; मौलिक अधिकार = USA; DPSP = Ireland; Parliamentary system = UK."
+      "explanation_hi": "यूएसएसआर के संविधान से प्रेरित, स्वर्ण सिंह समिति की सिफारिशों पर 42वें संशोधन अधिनियम, 1976 द्वारा मौलिक कर्तव्यों को भाग IV-ए (अनुच्छेद 51ए) में शामिल किया गया था।",
+      "tip_hi": "उधार स्रोत: मौलिक कर्तव्य = यूएसएसआर; मौलिक अधिकार = यूएसए; डीपीएसपी = आयरलैंड; संसदीय प्रणाली = ब्रिटेन."
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary Political Science",
@@ -41343,8 +41343,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 118(4) of the Indian Constitution, the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting of संसद. The राष्ट्रपति summons the joint sitting under अनुच्छेद 108.",
-      "tip_hi": "Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides over a joint sitting as he is not a member of either House."
+      "explanation_hi": "भारतीय संविधान के अनुच्छेद 118(4) के तहत, लोकसभा अध्यक्ष संसद की संयुक्त बैठक की अध्यक्षता करते हैं। राष्ट्रपति अनुच्छेद 108 के तहत संयुक्त बैठक बुलाते हैं।",
+      "tip_hi": "राज्यसभा का सभापति (उपराष्ट्रपति) कभी भी संयुक्त बैठक की अध्यक्षता नहीं करता क्योंकि वह किसी भी सदन का सदस्य नहीं होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Social Science",
@@ -41370,8 +41370,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 84(b) stipulates that a candidate must be not less than 30 वर्ष of age for the राज्यसभा and not less than 25 वर्ष for the लोकसभा.",
-      "tip_hi": "Constitutional Age Floor: Panchayat/Municipality = 21 वर्ष; लोकसभा/Vidhan Sabha = 25 वर्ष; राज्यसभा/Vidhan Parishad = 30 वर्ष; राष्ट्रपति/राज्यपाल = 35 वर्ष."
+      "explanation_hi": "अनुच्छेद 84 (बी) में कहा गया है कि राज्यसभा के लिए उम्मीदवार की आयु 30 वर्ष से कम नहीं होनी चाहिए और लोकसभा के लिए 25 वर्ष से कम नहीं होनी चाहिए।",
+      "tip_hi": "संवैधानिक आयु सीमा: पंचायत/नगर पालिका = 21 वर्ष; लोकसभा/विधानसभा = 25 वर्ष; राज्य सभा/विधान परिषद = 30 वर्ष; राष्ट्रपति/राज्यपाल = 35 वर्ष."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science",
@@ -41424,8 +41424,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री जवाहरलाल नेहरू inaugurated democratic decentralization via the 3-tier पंचायती राज system on महात्मा गांधी's birthday in 1959 at Nagaur, Rajasthan, following the Balwant Rai Mehta Committee report.",
-      "tip_hi": "1st State to adopt पंचायती राज = Rajasthan (Oct 1959); 2nd State = Andhra Pradesh (Nov 1959)."
+      "explanation_hi": "बलवंत राय मेहता समिति की रिपोर्ट के बाद, प्रधान मंत्री जवाहरलाल नेहरू ने 1959 में राजस्थान के नागौर में महात्मा गांधी के जन्मदिन पर 3-स्तरीय पंचायती राज प्रणाली के माध्यम से लोकतांत्रिक विकेंद्रीकरण का उद्घाटन किया।",
+      "tip_hi": "पंचायती राज अपनाने वाला पहला राज्य = राजस्थान (अक्टूबर 1959); दूसरा राज्य = आंध्र प्रदेश (नवंबर 1959)।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School Math-Science",
@@ -41505,7 +41505,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formula for sum of interior angles of an n-sided polygon = (n - 2) * 180 डिग्री. For a hexagon (n = 6): (6 - 2) * 180 = 4 * 180 = 720 डिग्री.",
+      "explanation_hi": "n-भुजा वाले बहुभुज के आंतरिक कोणों के योग का सूत्र = (n - 2) * 180 डिग्री। एक षट्भुज के लिए (n = 6): (6 - 2) * 180 = 4 * 180 = 720 डिग्री।",
       "tip_hi": "एक नियमित षट्भुज का प्रत्येक आंतरिक कोण = 720/6 = 120 डिग्री।"
     },
     {
@@ -41615,7 +41615,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Cost price of 1 अनुच्छेद = 20/25 = ₹0.80. Selling price of 1 अनुच्छेद = 25/20 = ₹1.25. Profit per अनुच्छेद = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
+      "explanation_hi": "1 वस्तु का लागत मूल्य = 20/25 = ₹0.80. 1 वस्तु का विक्रय मूल्य = 25/20 = ₹1.25. प्रति वस्तु लाभ = 1.25 - 0.80 = ₹0.45। लाभ % = (0.45 / 0.80) * 100 = 56.25%।",
       "tip_hi": "क्रॉस-गुणा ट्रिक: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%।"
     },
     {
@@ -41777,7 +41777,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Initial direction = पूर्व. Turning right from पूर्व turns him to face दक्षिण. Turning left from दक्षिण turns him back to face पूर्व.",
+      "explanation_hi": "प्रारंभिक दिशा = पूर्व. पूर्व से दाएं मुड़ने पर उसका मुख दक्षिण की ओर हो जाता है। दक्षिण से बायीं ओर मुड़ने पर वह वापस पूर्व की ओर मुड़ जाता है।",
       "tip_hi": "दाएँ मोड़ (+90 डिग्री) के बाद बाएँ मोड़ (-90 डिग्री) रद्द हो जाता है; मुख दिशा पूर्व रहती है."
     },
     {
@@ -41831,8 +41831,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ant stings inject methanoic acid (common name फॉर्मिक अम्ल, HCOOH). It is neutralized by applying mild क्षारीय substances such as बेकिंग सोडा (NaHCO3) (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
-      "tip_hi": "फॉर्मिक अम्ल = Ant sting; Vinegar = एसिटिक अम्ल; Tomato = ऑक्सालिक अम्ल; Tamarind = टार्टरिक अम्ल."
+      "explanation_hi": "चींटी के डंक से मेथेनोइक एसिड (सामान्य नाम फॉर्मिक एसिड, HCOOH) निकलता है। बेकिंग सोडा (सोडियम हाइड्रोजन कार्बोनेट) या कैलामाइन लोशन (जिंक कार्बोनेट) जैसे हल्के बुनियादी पदार्थ लगाने से इसे बेअसर किया जाता है।",
+      "tip_hi": "फॉर्मिक एसिड = चींटी का डंक; सिरका = एसिटिक अम्ल; टमाटर = ऑक्सालिक एसिड; इमली = टार्टरिक एसिड."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -41885,8 +41885,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rainbow formation involves अपवर्तन and वर्ण विक्षेपण of sunlight as it enters water droplets, followed by पूर्ण आंतरिक परावर्तन at the back of the droplet, and अपवर्तन again as it exits.",
-      "tip_hi": "Three-stage optical process: अपवर्तन -> वर्ण विक्षेपण -> पूर्ण आंतरिक परावर्तन."
+      "explanation_hi": "इंद्रधनुष के निर्माण में सूर्य के प्रकाश का अपवर्तन और फैलाव शामिल होता है क्योंकि यह पानी की बूंदों में प्रवेश करता है, इसके बाद बूंद के पीछे पूर्ण आंतरिक प्रतिबिंब होता है, और बाहर निकलने पर फिर से अपवर्तन होता है।",
+      "tip_hi": "तीन चरण वाली ऑप्टिकल प्रक्रिया: अपवर्तन -> फैलाव -> कुल आंतरिक परावर्तन।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -41912,8 +41912,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्लास्टर ऑफ पेरिस is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating जिप्सम (CaSO4 · 2H2O) at 373 K (100°C).",
-      "tip_hi": "जिप्सम = dihydrate (2H2O); प्लास्टर ऑफ पेरिस = hemihydrate (1/2 H2O)."
+      "explanation_hi": "प्लास्टर ऑफ पेरिस कैल्शियम सल्फेट हेमीहाइड्रेट, CaSO4 · 1/2H2O (या 2CaSO4 · H2O) है, जो जिप्सम (CaSO4 · 2H2O) को 373 K (100°C) पर गर्म करने से बनता है।",
+      "tip_hi": "जिप्सम = डाइहाइड्रेट (2H2O); प्लास्टर ऑफ पेरिस = हेमीहाइड्रेट (1/2 H2O)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -41966,8 +41966,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पीयूष ग्रंथि gland (hypophysis) is called the master gland क्योंकि its tropic hormones regulate the secretion of थायरॉयड ग्रंथि, अधिवृक्क ग्रंथि cortex, and gonads, under hypothalamus control.",
-      "tip_hi": "Master Gland = पीयूष ग्रंथि; Master of Master Gland = Hypothalamus."
+      "explanation_hi": "पिट्यूटरी ग्रंथि (हाइपोफिसिस) को मास्टर ग्रंथि कहा जाता है क्योंकि इसके ट्रोपिक हार्मोन हाइपोथैलेमस नियंत्रण के तहत थायरॉयड, अधिवृक्क प्रांतस्था और गोनाड के स्राव को नियंत्रित करते हैं।",
+      "tip_hi": "मास्टर ग्रंथि = पिट्यूटरी; मास्टर ग्रंथि का स्वामी = हाइपोथैलेमस।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -42020,8 +42020,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "ध्वनि तरंगें are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through निर्वात, जबकि electromagnetic waves (light) can.",
-      "tip_hi": "Speed of sound: ठोस > द्रव > गैस > निर्वात (zero)."
+      "explanation_hi": "ध्वनि तरंगें यांत्रिक अनुदैर्ध्य तरंगें हैं जिनके प्रसार के लिए जड़ता और लोच वाले भौतिक माध्यम की आवश्यकता होती है। ध्वनि निर्वात के माध्यम से यात्रा नहीं कर सकती, जबकि विद्युत चुम्बकीय तरंगें (प्रकाश) कर सकती हैं।",
+      "tip_hi": "ध्वनि की गति: ठोस > तरल पदार्थ > गैसें > निर्वात (शून्य)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -42047,7 +42047,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the presidency of जवाहरलाल नेहरू at the Lahore Session in दिसम्बर 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 जनवरी 1930 as Independence दिन.",
+      "explanation_hi": "दिसंबर 1929 में लाहौर अधिवेशन में जवाहरलाल नेहरू की अध्यक्षता में कांग्रेस ने 'पूर्ण स्वराज' को अपने अंतिम लक्ष्य के रूप में अपनाया और 26 जनवरी 1930 को स्वतंत्रता दिवस के रूप में मनाने का निर्णय लिया।",
       "tip_hi": "1929 लाहौर = पूर्ण स्वराज + रावी के तट पर तिरंगा फहराया गया।"
     },
     {
@@ -42074,7 +42074,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Announced at the Delhi Durbar in दिसम्बर 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 अप्रैल 1912. Orissa was subsequently separated from Bihar on 1 अप्रैल 1936.",
+      "explanation_hi": "किंग जॉर्ज पंचम द्वारा दिसंबर 1911 में दिल्ली दरबार में घोषणा की गई कि बिहार और उड़ीसा को औपचारिक रूप से 1 अप्रैल 1912 से बंगाल प्रेसीडेंसी से अलग कर दिया गया। बाद में 1 अप्रैल 1936 को उड़ीसा को बिहार से अलग कर दिया गया।",
       "tip_hi": "1912 = बिहार और उड़ीसा बंगाल से अलग हुए; 1936 = उड़ीसा बिहार से अलग हुआ; 2000 = झारखंड बिहार से अलग हुआ।"
     },
     {
@@ -42182,7 +42182,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sheohar has the highest जनसंख्या घनत्व in Bihar with 1,880 persons per sq किमी, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq किमी.",
+      "explanation_hi": "बिहार में शिवहर का जनसंख्या घनत्व 1,880 व्यक्ति प्रति वर्ग किमी के साथ सबसे अधिक है, इसके बाद पटना (1,823) का स्थान है। कैमूर (भभुआ) में सबसे कम घनत्व 488 व्यक्ति प्रति वर्ग किमी है।",
       "tip_hi": "घनत्व चरम: उच्चतम = शिवहर (1,880); न्यूनतम = कैमूर (488)."
     },
     {
@@ -42209,8 +42209,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 61st संविधान संशोधन अधिनियम of 1988 amended अनुच्छेद 326 of the Constitution, lowering the voting age from 21 to 18 वर्ष. It came into force on 28 मार्च 1989 under Rajiv Gandhi's government.",
-      "tip_hi": "Voting age reduction (21 to 18) = 61st संशोधन 1988 (अनुच्छेद 326)."
+      "explanation_hi": "1988 के 61वें संवैधानिक संशोधन अधिनियम ने संविधान के अनुच्छेद 326 में संशोधन किया, जिससे मतदान की आयु 21 से घटाकर 18 वर्ष कर दी गई। यह 28 मार्च 1989 को राजीव गांधी की सरकार के तहत लागू हुआ।",
+      "tip_hi": "मतदान की आयु में कमी (21 से 18) = 61वाँ संशोधन 1988 (अनुच्छेद 326)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -42263,7 +42263,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 सेकंड. Speed = 500 / 25 = 20 m/s. Converting to किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "explanation_hi": "तय की गई कुल दूरी = ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई = 240 + 260 = 500 मीटर। लिया गया समय = 25 सेकंड. गति = 500/25 = 20 मीटर/सेकेंड। किमी/घंटा में परिवर्तित करना = 20 * (18/5) = 72 किमी/घंटा।",
       "tip_hi": "दूरी = ट्रेन + प्लेटफार्म = 500 मीटर. गति = 500/25 = 20 मीटर/सेकंड * 18/5 = 72 किमी/घंटा।"
     },
     {
@@ -42291,7 +42291,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "माना मूलधन = P. दोगुना होने का अर्थ है 5 वर्षों में SI = P। 4 गुना बनने के लिए, राशि = 4P, इसलिए SI = 3P. चूँकि SI समय के सीधे आनुपातिक है: समय = 3 * 5 = 15 वर्ष।",
-      "tip_hi": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष."
+      "tip_hi": "सूत्र: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -42398,7 +42398,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to फेफड़े, while pulmonary veins carry oxygenated blood from फेफड़े to left atrium.",
+      "explanation_hi": "आम तौर पर, धमनियां ऑक्सीजन युक्त रक्त ले जाती हैं और शिराएं ऑक्सीजन रहित रक्त ले जाती हैं। अपवाद फुफ्फुसीय रक्त वाहिकाएं हैं: फुफ्फुसीय धमनी ऑक्सीजन रहित रक्त को फेफड़ों तक ले जाती है, जबकि फुफ्फुसीय नसें ऑक्सीजन युक्त रक्त को फेफड़ों से बाएं आलिंद तक ले जाती हैं।",
       "tip_hi": "शिरा नियम का अपवाद: फुफ्फुसीय शिराएँ ऑक्सीजन युक्त रक्त ले जाती हैं।"
     },
     {
@@ -42426,7 +42426,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जैसे-जैसे तारों का प्रकाश पृथ्वी के वायुमंडल की विभिन्न परतों से होकर गुजरता है, जिसमें भौतिक तापमान और अपवर्तक सूचकांक लगातार भिन्न होते हैं, प्रकाश का मार्ग लगातार झुकता है, जिससे चमक और स्थिति में स्पष्ट उतार-चढ़ाव होता है।",
-      "tip_hi": "Star twinkling = Atmospheric अपवर्तन; Advanced sunrise & delayed sunset = Atmospheric अपवर्तन."
+      "tip_hi": "तारा टिमटिमाना = वायुमंडलीय अपवर्तन; उन्नत सूर्योदय और विलंबित सूर्यास्त = वायुमंडलीय अपवर्तन।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -42452,7 +42452,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pure उदासीन water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are अम्लीय, and pH > 7 are alkaline.",
+      "explanation_hi": "शुद्ध तटस्थ पानी में H+ और OH- आयनों की समान सांद्रता होती है (प्रत्येक 25°C पर 10^-7 mol/L), जिससे pH = -log[H+] = 7 प्राप्त होता है। pH <7 वाले घोल अम्लीय होते हैं, और pH > 7 क्षारीय होते हैं।",
       "tip_hi": "तटस्थ पीएच = 7. मानव रक्त पीएच = 7.35-7.45; अम्लीय वर्षा pH <5.6."
     },
     {
@@ -42560,7 +42560,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The कोसी नदी River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 किमी over 250 वर्ष, causing repeated disasters.",
+      "explanation_hi": "कोसी नदी तिब्बत/नेपाल (सप्तकोशी) से निकलती है और भीमनगर (सुपौल) में बिहार में प्रवेश करती है। भारी गाद भार और टूटे हुए चैनलों के कारण, यह 250 वर्षों में 130 किमी से अधिक पश्चिम की ओर स्थानांतरित हो गया है, जिससे बार-बार आपदाएँ आती हैं।",
       "tip_hi": "बिहार का दुःख=कोसी; बंगाल का दुःख = दामोदर."
     },
     {
@@ -42587,7 +42587,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rohtas district recorded the highest overall साक्षरता दर in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is सेकंड with 70.68%.",
+      "explanation_hi": "रोहतास जिले में बिहार में सबसे अधिक समग्र साक्षरता दर 73.37% (पुरुष साक्षरता 82.88%, महिला साक्षरता 62.97%) दर्ज की गई। 70.68% के साथ पटना दूसरे स्थान पर है।",
       "tip_hi": "उच्चतम साक्षरता = रोहतास (73.37%); न्यूनतम साक्षरता = पूर्णिया (51.08%)।"
     },
     {
@@ -42614,7 +42614,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formulated by Raymond Lindeman in 1942, के दौरान energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and श्वसन, leaving only ~10% stored as flesh for the next trophic level.",
+      "explanation_hi": "1942 में रेमंड लिंडमैन द्वारा तैयार, एक जैविक खाद्य स्रोत से उपभोक्ता तक ऊर्जा हस्तांतरण के दौरान, लगभग 90% ऊर्जा चयापचय गर्मी और श्वसन के रूप में नष्ट हो जाती है, जिससे अगले ट्रॉफिक स्तर के लिए मांस के रूप में केवल ~ 10% संग्रहीत होता है।",
       "tip_hi": "पोषी स्तरों के बीच ऊर्जा हस्तांतरण हमेशा ~10% होता है; खाद्य श्रृंखलाओं को 4-5 कड़ियों तक सीमित करता है।"
     },
     {
@@ -42641,7 +42641,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Operation गंगा नदी was launched in late फरवरी 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
+      "explanation_hi": "ऑपरेशन गंगा फरवरी 2022 के अंत में पड़ोसी देशों (पोलैंड, रोमानिया, हंगरी, स्लोवाकिया) के माध्यम से युद्धग्रस्त यूक्रेन से ~20,000 भारतीय नागरिकों, मुख्य रूप से मेडिकल छात्रों को निकालने के लिए शुरू किया गया था।",
       "tip_hi": "ऑपरेशन गंगा = यूक्रेन (2022); ऑपरेशन देवी शक्ति = अफगानिस्तान (2021); ऑपरेशन कावेरी = सूडान (2023)।"
     },
     {
@@ -42668,8 +42668,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 32 guarantees the Right to Constitutional Remedies, empowering the सर्वोच्च न्यायालय to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under अनुच्छेद 226.",
-      "tip_hi": "सर्वोच्च न्यायालय Writs = अनुच्छेद 32 (हृदय & Soul of Constitution by Ambedkar); उच्च न्यायालय Writs = अनुच्छेद 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "अनुच्छेद 32 संवैधानिक उपचारों के अधिकार की गारंटी देता है, सर्वोच्च न्यायालय को रिट (बंदी प्रत्यक्षीकरण, परमादेश, निषेध, अधिकार-वारंटो, सर्टिओरारी) जारी करने का अधिकार देता है। उच्च न्यायालय अनुच्छेद 226 के तहत समानांतर रिट शक्तियाँ प्राप्त करते हैं।",
+      "tip_hi": "सुप्रीम कोर्ट रिट = अनुच्छेद 32 (अंबेडकर द्वारा संविधान का हृदय और आत्मा); उच्च न्यायालय रिट = अनुच्छेद 226।\nउत्तर कुंजी सारांश तालिका - सेट 5 (प्रश्न 161 से 200)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ],
   "bpsc-tre4-general-studies-set6": [
@@ -42698,7 +42698,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मी/से. में गति = 54 * (5/18) = 15 मी/से. दूरी = गति * समय = 15 मी/से * 20 सेकण्ड = 300 मीटर।",
-      "tip_hi": "Multiply किमी/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m."
+      "tip_hi": "किमी/घंटा को 5/18 से गुणा करें: 54 * 5/18 = 15 मीटर/सेकेंड। 15 * 20 = 300 मी."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -42806,7 +42806,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "संयुक्त दर = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 टंकी प्रति मिनट। आवश्यक समय = 12 मिनट.",
-      "tip_hi": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट."
+      "tip_hi": "शॉर्टकट: (ए * बी)/(ए + बी) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -42914,7 +42914,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "हीरे का अपवर्तनांक बहुत अधिक (2.42) होता है, जिसके परिणामस्वरूप लगभग 24.4° का असाधारण छोटा क्रांतिक कोण बनता है। ठीक से काटे गए हीरे में प्रवेश करने वाला प्रकाश उभरने से पहले कई पूर्ण आंतरिक प्रतिबिंबों से गुजरता है।",
-      "tip_hi": "Diamond brilliance = पूर्ण आंतरिक परावर्तन (TIR) + high refractive index (2.42)."
+      "tip_hi": "हीरे की चमक = कुल आंतरिक परावर्तन (टीआईआर) + उच्च अपवर्तनांक (2.42)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -42940,8 +42940,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बेकिंग सोडा (NaHCO3) is सोडियम बाइकार्बोनेट / sodium hydrogen carbonate, NaHCO3. When heated के दौरान baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
-      "tip_hi": "बेकिंग सोडा (NaHCO3) = NaHCO3 (Bicarbonate); धावन सोडा (Na2CO3·10H2O) = Na2CO3 · 10H2O."
+      "explanation_hi": "बेकिंग सोडा सोडियम बाइकार्बोनेट/सोडियम हाइड्रोजन कार्बोनेट, NaHCO3 है। बेकिंग के दौरान गर्म करने पर, यह विघटित होकर CO2 गैस छोड़ता है, जिससे ब्रेड या केक का बैटर फूल जाता है और स्पंजी हो जाता है।",
+      "tip_hi": "बेकिंग सोडा = NaHCO3 (बाइकार्बोनेट); वाशिंग सोडा = Na2CO3 · 10H2O."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -42967,8 +42967,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Blood प्लेटलेट्स (रक्त बिम्बाणु) (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.",
-      "tip_hi": "Clotting cells = प्लेटलेट्स (रक्त बिम्बाणु) (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K."
+      "explanation_hi": "रक्त प्लेटलेट्स (थ्रोम्बोसाइट्स) थ्रोम्बोप्लास्टिन छोड़ते हैं, जो कैल्शियम आयनों की उपस्थिति में प्रोथ्रोम्बिन को थ्रोम्बिन में परिवर्तित करने का एक झरना शुरू करता है, अंततः एक फाइब्रिन जाल बनाता है जो रक्तस्राव को रोकता है।",
+      "tip_hi": "थक्का जमाने वाली कोशिकाएँ = प्लेटलेट्स (थ्रोम्बोसाइट्स); ऑक्सीजन परिवहन = आरबीसी; प्रतिरक्षा = डब्ल्यूबीसी; थक्का जमाने वाला विटामिन = विटामिन K."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -42994,8 +42994,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In निकट दृष्टि दोष (मायोपिया), light rays converge in front of the रेटिना. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the रेटिना.",
-      "tip_hi": "निकट दृष्टि दोष (मायोपिया) (Near-sighted) = अवतल लेंस; दूर दृष्टि दोष (हाइपरमेट्रोपिया) (Far-sighted) = उत्तल लेंस; अबिंदुकता (एस्टिग्मैटिज्म) = Cylindrical Lens."
+      "explanation_hi": "मायोपिया में प्रकाश किरणें रेटिना के सामने एकत्रित होती हैं। किरणों को मोड़ने के लिए उपयुक्त फोकल शक्ति का एक अपसारी (अवतल) लेंस आंख के सामने रखा जाता है ताकि वे रेटिना पर तेजी से ध्यान केंद्रित कर सकें।",
+      "tip_hi": "मायोपिया (निकट दृष्टि) = अवतल लेंस; हाइपरमेट्रोपिया (दूरदृष्टि) = उत्तल लेंस; दृष्टिवैषम्य = बेलनाकार लेंस।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43021,7 +43021,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and सोडियम हाइड्रॉक्साइड (NaOH). It possesses a lustrous silk-like appearance and soft texture.",
+      "explanation_hi": "रेयॉन एक पुनर्जीवित सेल्युलोसिक फाइबर है जो कार्बन डाइसल्फ़ाइड और सोडियम हाइड्रॉक्साइड के साथ रासायनिक रूप से उपचारित शुद्ध लकड़ी के गूदे से निर्मित होता है। इसमें चमकदार रेशम जैसी उपस्थिति और मुलायम बनावट है।",
       "tip_hi": "कृत्रिम रेशम = रेयान (लकड़ी के गूदे से); प्रथम पूर्ण सिंथेटिक फाइबर = नायलॉन।"
     },
     {
@@ -43102,7 +43102,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 सितम्बर 1987 (commemorated globally as World Ozone दिन) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.",
+      "explanation_hi": "ओजोन परत को नुकसान पहुंचाने वाले पदार्थों पर मॉन्ट्रियल प्रोटोकॉल पर 16 सितंबर 1987 को सहमति हुई थी (विश्व स्तर पर विश्व ओजोन दिवस के रूप में मनाया जाता है) और 1989 में लागू हुआ, जिसमें 99% ओजोन-घटाने वाले पदार्थों को सफलतापूर्वक चरणबद्ध तरीके से समाप्त कर दिया गया।",
       "tip_hi": "ओजोन परत संरक्षण = मॉन्ट्रियल प्रोटोकॉल (1987); ग्रीनहाउस गैस कटौती = क्योटो प्रोटोकॉल (1997)।"
     },
     {
@@ -43129,7 +43129,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Ghadar Party में स्थापित किया गया था 1913 by Lala Har Dayal, Sohan Singh Bhakna (राष्ट्रपति), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
+      "explanation_hi": "ग़दर पार्टी की स्थापना 1913 में लाला हर दयाल, सोहन सिंह भकना (अध्यक्ष) और करतार सिंह सराभा ने सैन फ्रांसिस्को में की थी, 'युगांतर आश्रम' की स्थापना की और साप्ताहिक समाचार पत्र 'ग़दर' का प्रकाशन किया।",
       "tip_hi": "ग़दर पार्टी = सैन फ्रांसिस्को (1913), लाला हर दयाल और सोहन सिंह भकना।"
     },
     {
@@ -43183,8 +43183,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "When the Congress initially declined to form a government over the राज्यपाल's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 अप्रैल 1937, serving until Sri Krishna Singh took oath on 20 जुलाई 1937.",
-      "tip_hi": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress मुख्यमंत्री = Sri Krishna Singh."
+      "explanation_hi": "जब कांग्रेस ने शुरू में राज्यपाल की विशेष वीटो शक्तियों पर सरकार बनाने से इनकार कर दिया, तो मोहम्मद यूनुस (मुस्लिम स्वतंत्र पार्टी के नेता) ने 1 अप्रैल 1937 को अंतरिम मंत्रालय का गठन किया, जो 20 जुलाई 1937 को श्री कृष्ण सिंह के शपथ लेने तक कार्यरत रहे।",
+      "tip_hi": "बिहार के प्रथम प्रधानमंत्री = मोहम्मद यूनुस (अंतरिम); प्रथम कांग्रेस मुख्यमंत्री = श्रीकृष्ण सिंह।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43264,8 +43264,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The सोन नदी river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the गंगा नदी just पश्चिम of Danapur / Maner in Patna district. Punpun joins गंगा नदी at Fatuha.",
-      "tip_hi": "सोन नदी meets गंगा नदी at Danapur/Maner; Punpun meets गंगा नदी at Fatuha; गंडक नदी meets गंगा नदी at Sonpur/Hajipur."
+      "explanation_hi": "सोन नदी रोहतास, औरंगाबाद और भोजपुर जिलों से होकर उत्तर-पूर्व की ओर बहती है और पटना जिले में दानापुर/मनेर के ठीक पश्चिम में गंगा में मिल जाती है। पुनपुन फतुहा में गंगा से मिलती है।",
+      "tip_hi": "दानापुर/मनेर में गंगा से मिला बेटा; पुनपुन फतुहा में गंगा से मिलती है; गंडक सोनपुर/हाजीपुर में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43318,7 +43318,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in नवम्बर 1932 to avenge the martyrdom of भगत सिंह, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 मई 1934.",
+      "explanation_hi": "बैकुंठ शुक्ल ने भगत सिंह, सुखदेव और राजगुरु की शहादत का बदला लेने के लिए नवंबर 1932 में बेतिया में गद्दार फणींद्र नाथ घोष की हत्या कर दी। उन्हें गिरफ्तार किया गया, दोषी ठहराया गया और 14 मई 1934 को गया सेंट्रल जेल में फांसी दे दी गई।",
       "tip_hi": "अनुमोदक फणीन्द्र नाथ घोष की हत्या = बैकुंठ शुक्ल (गया जेल में फाँसी 1934)।"
     },
     {
@@ -43345,7 +43345,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Tropic of Cancer passes through 8 Indian States from पश्चिम to पूर्व: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, and Mizoram.",
+      "explanation_hi": "कर्क रेखा पश्चिम से पूर्व तक 8 भारतीय राज्यों से होकर गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
       "tip_hi": "स्मरणीय: 'मित्र पर गमछा ज़ार' (मिजोरम, त्रिपुरा, पश्चिम बंगाल, राजस्थान, गुजरात, मध्य प्रदेश, छत्तीसगढ़, झारखंड)।"
     },
     {
@@ -43426,8 +43426,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 1 जनवरी 2015 replacing the योजना आयोग, the प्रधानमंत्री serves as the ex-officio Chairperson of NITI Aayog.",
-      "tip_hi": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = प्रधानमंत्री."
+      "explanation_hi": "1 जनवरी 2015 को योजना आयोग की जगह स्थापित, प्रधान मंत्री नीति आयोग के पदेन अध्यक्ष के रूप में कार्य करते हैं।",
+      "tip_hi": "नीति आयोग, राष्ट्रीय विकास परिषद और अंतर-राज्य परिषद के अध्यक्ष = प्रधान मंत्री।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43453,8 +43453,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 86th संविधान संशोधन अधिनियम 2002 inserted अनुच्छेद 21A into Part III, making elementary education a मौलिक अधिकार. It also updated अनुच्छेद 45 in DPSP and added 11th fundamental duty in अनुच्छेद 51A(k).",
-      "tip_hi": "Right to Education (RTE) = 86th Constitutional संशोधन 2002 (अनुच्छेद 21A)."
+      "explanation_hi": "86वें संवैधानिक संशोधन अधिनियम 2002 ने अनुच्छेद 21ए को भाग III में शामिल किया, जिससे प्रारंभिक शिक्षा एक मौलिक अधिकार बन गई। इसने डीपीएसपी में अनुच्छेद 45 को भी अद्यतन किया और अनुच्छेद 51ए(के) में 11वां मौलिक कर्तव्य जोड़ा।",
+      "tip_hi": "शिक्षा का अधिकार (आरटीई) = 86वां संवैधानिक संशोधन 2002 (अनुच्छेद 21ए)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43480,7 +43480,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi announced that the landing site of Vikram lander on 23 अगस्त 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 अगस्त declared 'National Space दिन'.",
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने घोषणा की कि 23 अगस्त 2023 को विक्रम लैंडर की लैंडिंग साइट का नाम 'शिव शक्ति पॉइंट' रखा गया है। चंद्रयान-2 के दुर्घटना स्थल को 'तिरंगा प्वाइंट' नामित किया गया और 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' घोषित किया गया।",
       "tip_hi": "चंद्रयान-3 टचडाउन = शिव शक्ति बिंदु; चंद्रयान-2 प्रभाव =तिरंगा बिंदु; 23 अगस्त = राष्ट्रीय अंतरिक्ष दिवस."
     },
     {
@@ -43507,7 +43507,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Time difference = 11 - 5 = 6 मिनट = 6/60 घंटे = 1/10 घंटे. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 किमी.",
+      "explanation_hi": "समय का अंतर = 11 - 5 = 6 मिनट = 6/60 घंटा = 1/10 घंटा। सूत्र: दूरी = (एस1 * एस2) / (एस2 - एस1) * समय अंतर = (40 * 50) / (50 - 40) * (1/10) = 2000/10 * 1/10 = 20 किमी।",
       "tip_hi": "दूरी = (एस1*एस2)/(एस2-एस1) * (डेल्टा टी) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी।"
     },
     {
@@ -43535,7 +43535,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "माना वर्तमान आयु 7x और 2x है। 10 वर्षों में: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. पिता की आयु = 7x = 7 * 5 = 35 वर्ष।",
-      "tip_hi": "Ratio units: (9-7)=2 units in 10 वर्ष => 1 unit = 5 वर्ष. Father = 7 units = 35 वर्ष."
+      "tip_hi": "अनुपात इकाइयाँ: (9-7)=10 वर्षों में 2 इकाइयाँ => 1 इकाई = 5 वर्ष। पिता = 7 इकाई = 35 वर्ष."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43588,7 +43588,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 60 लीटर: Milk = 40 L, Water = 20 L. Let 'x' लीटर of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर.",
+      "explanation_hi": "60 लीटर में: दूध = 40 लीटर, पानी = 20 लीटर। मान लीजिए 'x' लीटर पानी मिलाया गया है। (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर।",
       "tip_hi": "दूध 40 लीटर पर स्थिर रहता है। 1:2 के अनुपात में, 1 इकाई = 40 लीटर, इसलिए पानी 2 इकाई = 80 लीटर होना चाहिए। जोड़ा गया पानी = 80 - 20 = 60 लीटर।"
     },
     {
@@ -43642,8 +43642,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बॉक्साइट (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, बॉक्साइट is digested in hot सोडियम हाइड्रॉक्साइड (NaOH) to produce pure alumina, जो कि then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.",
-      "tip_hi": "Aluminium ore = बॉक्साइट; Iron ore = हेमेटाइट / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite."
+      "explanation_hi": "बॉक्साइट (Al2O3 · 2H2O) प्रमुख एल्यूमीनियम अयस्क है। बायर प्रक्रिया में, शुद्ध एल्यूमिना का उत्पादन करने के लिए बॉक्साइट को गर्म सोडियम हाइड्रॉक्साइड में पचाया जाता है, जिसे बाद में धातु एल्यूमीनियम का उत्पादन करने के लिए हॉल-हेरोल्ट सेल में इलेक्ट्रोलाइज किया जाता है।",
+      "tip_hi": "एल्युमीनियम अयस्क = बॉक्साइट; लौह अयस्क = हेमेटाइट/मैग्नेटाइट; सीसा अयस्क = गैलेना; तांबा अयस्क = चैलकोपाइराइट."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43669,8 +43669,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पर्णहरिम (क्लोरोफिल) (predominantly पर्णहरिम (क्लोरोफिल) a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.",
-      "tip_hi": "Photosynthetic green pigment = पर्णहरिम (क्लोरोफिल) (central metal atom = Magnesium, Mg)."
+      "explanation_hi": "क्लोरोफिल (मुख्य रूप से क्लोरोफिल ए और बी) में एक मैग्नीशियम पोर्फिरिन रिंग होता है और हरे रंग की रोशनी को प्रतिबिंबित करते हुए मुख्य रूप से दृश्यमान स्पेक्ट्रम के नीले और लाल तरंग दैर्ध्य में प्रकाश को अवशोषित करता है।",
+      "tip_hi": "प्रकाश संश्लेषक हरा वर्णक = क्लोरोफिल (केंद्रीय धातु परमाणु = मैग्नीशियम, एमजी)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43724,7 +43724,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जबकि 1931 में एक अनौपचारिक समूह का गठन हुआ, बिहार सोशलिस्ट पार्टी (और कांग्रेस सोशलिस्ट पार्टी की स्थापना) का औपचारिक संस्थापक सम्मेलन 17 मई 1934 को आचार्य नरेंद्र देव के नेतृत्व में अंजुमन इस्लामिया हॉल, पटना में हुआ।",
-      "tip_hi": "Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (राष्ट्रपति) & JP (Secretary)."
+      "tip_hi": "बिहार सोशलिस्ट पार्टी का औपचारिक सम्मेलन = 1934 (अंजुमन इस्लामिया हॉल, पटना); नरेंद्र देव (अध्यक्ष) और जेपी (सचिव)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -43750,7 +43750,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-किमी stretch of the गंगा नदी from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.",
+      "explanation_hi": "1991 में स्थापित, विक्रमशिला गंगा डॉल्फिन अभयारण्य, सुल्तानगंज से भागलपुर जिले के कहलगांव तक गंगा के 60 किलोमीटर के विस्तार को कवर करता है, जो भारत के एकमात्र समर्पित डॉल्फिन अभयारण्य के रूप में संरक्षित है।",
       "tip_hi": "गंगा डॉल्फिन अभयारण्य = विक्रमशिला (भागलपुर); राष्ट्रीय जलीय जीव = गांगेय डॉल्फिन (प्लैटनिस्टा गैंगेटिका)।\nउत्तर कुंजी सारांश तालिका - सेट 6 (प्रश्न 201 से 240)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ],
@@ -43780,7 +43780,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "तीन गुना के लिए, 8 वर्षों में SI = 2P, इसलिए ब्याज दर = 2P/(P * 8) = 25%। 9 बार बनने पर SI = 8P. समय = 8पी/(पी*0.25) = 32 वर्ष।",
-      "tip_hi": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष."
+      "tip_hi": "शॉर्टकट: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -43968,8 +43968,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "2024 is a leap वर्ष (divisible by 4) containing 366 दिन (52 सप्ताह + 2 odd दिन). In a leap वर्ष, the last दिन of the वर्ष (31 Dec) is one दिन ahead of the first दिन (1 Jan). Monday + 1 दिन = Tuesday.",
-      "tip_hi": "Ordinary वर्ष: First दिन = Last दिन; Leap वर्ष: Last दिन = First दिन + 1 दिन = Monday + 1 = Tuesday."
+      "explanation_hi": "2024 एक लीप वर्ष (4 से विभाज्य) है जिसमें 366 दिन (52 सप्ताह + 2 विषम दिन) हैं। लीप वर्ष में, वर्ष का अंतिम दिन (31 दिसंबर) पहले दिन (1 जनवरी) से एक दिन आगे होता है। सोमवार + 1 दिन = मंगलवार.",
+      "tip_hi": "साधारण वर्ष: पहला दिन = अंतिम दिन; लीप वर्ष: अंतिम दिन = पहला दिन + 1 दिन = सोमवार + 1 = मंगलवार।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -43995,7 +43995,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Newton's सेकंड Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction जोड़े.",
+      "explanation_hi": "न्यूटन का गति का दूसरा नियम बल की मात्रात्मक परिभाषा देता है: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (निरंतर द्रव्यमान के लिए)। पहला नियम जड़ता को परिभाषित करता है, और तीसरा नियम क्रिया-प्रतिक्रिया युग्म को परिभाषित करता है।",
       "tip_hi": "पहला नियम = बल और जड़ता की परिभाषा; दूसरा नियम = बल का माप (F = ma); तीसरा नियम = क्रिया-प्रतिक्रिया।"
     },
     {
@@ -44076,8 +44076,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Iodine is essential for the synthesis of thyroxine (T4) and triiodothyronine (T3) by the थायरॉयड ग्रंथि gland. Iodine deficiency stimulates excessive TSH release, causing hyperplasia and enlargement of the थायरॉयड ग्रंथि gland (goitre).",
-      "tip_hi": "Goitre = थायरॉयड ग्रंथि Gland enlargement (Iodine deficiency); Hormone = Thyroxine."
+      "explanation_hi": "आयोडीन थायरॉयड ग्रंथि द्वारा थायरोक्सिन (T4) और ट्राईआयोडोथायरोनिन (T3) के संश्लेषण के लिए आवश्यक है। आयोडीन की कमी अत्यधिक टीएसएच रिलीज को उत्तेजित करती है, जिससे हाइपरप्लासिया और थायरॉयड ग्रंथि (गॉयटर) का विस्तार होता है।",
+      "tip_hi": "घेंघा = थायरॉयड ग्रंथि का बढ़ना (आयोडीन की कमी); हार्मोन = थायरोक्सिन."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44131,7 +44131,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पानी से भरे चावल के खेतों और जुगाली करने वाले पशुओं के रुमेन की अवायवीय स्थितियों में काम करने वाले मिथेनोजेनिक आर्कबैक्टीरिया भारी मात्रा में बायोजेनिक मीथेन (सीएच 4), एक शक्तिशाली ग्रीनहाउस गैस का उत्पादन करते हैं।",
-      "tip_hi": "Paddy fields & cattle belching = मीथेन (CH4); Coal mines & marsh gas = मीथेन."
+      "tip_hi": "धान के खेत और मवेशियों की डकार = मीथेन (CH4); कोयला खदानें एवं दलदली गैस = मीथेन।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44157,8 +44157,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.",
-      "tip_hi": "सोडियम बाइकार्बोनेट = Fire extinguishers + बेकिंग सोडा (NaHCO3)."
+      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) सोडा-एसिड अग्निशामक में एसिड के साथ प्रतिक्रिया करके बड़ी मात्रा में कार्बन डाइऑक्साइड (CO2) गैस छोड़ता है जो आग को बुझाती है।",
+      "tip_hi": "सोडियम बाइकार्बोनेट = अग्निशामक यंत्र + बेकिंग सोडा।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44184,7 +44184,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A light वर्ष is the astronomical distance that light travels in निर्वात in one Julian वर्ष (approx. 9.46 * 10^12 किमी or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
+      "explanation_hi": "एक प्रकाश वर्ष वह खगोलीय दूरी है जो प्रकाश एक जूलियन वर्ष में निर्वात में तय करता है (लगभग 9.46 * 10^12 किमी या 9.46 * 10^15 मीटर)। यह खगोलीय दूरी की इकाई है, समय की नहीं।",
       "tip_hi": "प्रकाश वर्ष और पारसेक = खगोलीय दूरी की इकाइयाँ; 1 पारसेक ≈ 3.26 प्रकाश वर्ष।"
     },
     {
@@ -44211,8 +44211,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the efforts of बाल गंगाधर तिलक and Mohammad Ali Jinnah, the Congress and Muslim League held their joint session at Lucknow in 1916, accepting separate electorates and demanding provincial self-government.",
-      "tip_hi": "Lucknow Pact 1916 = Congress & Muslim League alliance + Re-unification of Moderates and Extremists (राष्ट्रपति: A. C. Majumdar)."
+      "explanation_hi": "बाल गंगाधर तिलक और मोहम्मद अली जिन्ना के प्रयासों के तहत, कांग्रेस और मुस्लिम लीग ने 1916 में लखनऊ में अपना संयुक्त सत्र आयोजित किया, जिसमें अलग निर्वाचन क्षेत्रों को स्वीकार किया गया और प्रांतीय स्वशासन की मांग की गई।",
+      "tip_hi": "लखनऊ समझौता 1916 = कांग्रेस और मुस्लिम लीग गठबंधन + नरमपंथियों और उग्रवादियों का पुन: एकीकरण (अध्यक्ष: ए. सी. मजूमदार)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44238,8 +44238,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sir Frank G. Sly (Commissioner of Central Provinces) was appointed राष्ट्रपति of the Champaran Agrarian Enquiry Committee by Lieutenant राज्यपाल Edward Gait. The committee unanimously recommended the abolition of the tinkathia system.",
-      "tip_hi": "Champaran Agrarian Committee: राष्ट्रपति = F. G. Sly; Member = महात्मा गांधी; Outcome = Champaran Agrarian Act 1918."
+      "explanation_hi": "सर फ्रैंक जी. स्ली (मध्य प्रांत के आयुक्त) को लेफ्टिनेंट गवर्नर एडवर्ड गैट द्वारा चंपारण कृषि जांच समिति का अध्यक्ष नियुक्त किया गया था। समिति ने सर्वसम्मति से तिनकठिया प्रथा को समाप्त करने की अनुशंसा की.",
+      "tip_hi": "चंपारण कृषि समिति: अध्यक्ष = एफ.जी. स्ली; सदस्य = महात्मा गांधी; परिणाम = चम्पारण कृषि अधिनियम 1918."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44265,7 +44265,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 1908, a meeting में आयोजित किया गया था Patna under Nawab Sarfaraz Hussain Khan where the Bihar Provincial Congress Committee was formally constituted, choosing Syed Hasan Imam as its first permanent राष्ट्रपति.",
+      "explanation_hi": "1908 में, नवाब सरफराज हुसैन खान के नेतृत्व में पटना में एक बैठक हुई जहां बिहार प्रांतीय कांग्रेस कमेटी का औपचारिक रूप से गठन किया गया, जिसमें सैयद हसन इमाम को इसका पहला स्थायी अध्यक्ष चुना गया।",
       "tip_hi": "बिहार प्रांतीय कांग्रेस कमेटी का गठन = 1908 (नवाब सरफराज हुसैन खान के अधीन पटना सम्मेलन)।"
     },
     {
@@ -44292,8 +44292,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following ideological differences with महात्मा गांधी and the Congress Working Committee, सुभाष चंद्र बोस resigned in अप्रैल 1939 and announced the formation of the Forward Bloc within the Congress on 3 मई 1939 at Makur, Unnao.",
-      "tip_hi": "सुभाष चंद्र बोस founded Forward Bloc in 1939 (First All India Conference at Ramgarh, Bihar in 1940)."
+      "explanation_hi": "महात्मा गांधी और कांग्रेस कार्य समिति के साथ वैचारिक मतभेदों के बाद, सुभाष चंद्र बोस ने अप्रैल 1939 में इस्तीफा दे दिया और 3 मई 1939 को मकुर, उन्नाव में कांग्रेस के भीतर फॉरवर्ड ब्लॉक के गठन की घोषणा की।",
+      "tip_hi": "सुभाष चंद्र बोस ने 1939 में फॉरवर्ड ब्लॉक की स्थापना की (1940 में बिहार के रामगढ़ में पहला अखिल भारतीय सम्मेलन)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44347,7 +44347,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "रेगुर (काली कपास मिट्टी) बेसाल्टिक डेक्कन ट्रैप लावा चट्टानों (महाराष्ट्र, गुजरात, एमपी) के अपक्षय से प्राप्त होती है। यह चिकनी मिट्टी से भरपूर है, इसमें उच्च नमी बनाए रखने की क्षमता है और यह कपास की खेती के लिए आदर्श है।",
-      "tip_hi": "काली मिट्टी (रेगुर मिट्टी) = Regur = Basaltic lava = Cotton cultivation."
+      "tip_hi": "काली मिट्टी = रेगुर = बेसाल्टिक लावा = कपास की खेती।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44427,8 +44427,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 76 provides that the राष्ट्रपति shall appoint a person qualified to be a Judge of the सर्वोच्च न्यायालय to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in संसद without voting rights.",
-      "tip_hi": "Attorney General for India = अनुच्छेद 76 (Union highest law officer); Advocate General = अनुच्छेद 165 (State)."
+      "explanation_hi": "अनुच्छेद 76 में प्रावधान है कि राष्ट्रपति सर्वोच्च न्यायालय के न्यायाधीश बनने के लिए योग्य व्यक्ति को भारत का अटॉर्नी जनरल नियुक्त करेगा, जिसे भारत की सभी अदालतों में सुनने का अधिकार होगा और मतदान के अधिकार के बिना संसद में बोलने का अधिकार होगा।",
+      "tip_hi": "भारत के अटॉर्नी जनरल = अनुच्छेद 76 (संघ का सर्वोच्च कानून अधिकारी); महाधिवक्ता = अनुच्छेद 165 (राज्य)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44454,8 +44454,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate पंचायती राज on 2 अक्टूबर 1959 at Nagaur, followed by Andhra Pradesh.",
-      "tip_hi": "3-tier पंचायती राज = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986)."
+      "explanation_hi": "बलवंत राय मेहता समिति (1957) ने 3-स्तरीय संरचना के माध्यम से 'लोकतांत्रिक विकेंद्रीकरण' की सिफारिश की। 2 अक्टूबर 1959 को नागौर में पंचायती राज का उद्घाटन करने वाला राजस्थान पहला राज्य था, उसके बाद आंध्र प्रदेश था।",
+      "tip_hi": "3-स्तरीय पंचायती राज = बलवंत राय मेहता (1957); 2-स्तरीय प्रणाली = अशोक मेहता (1977); संवैधानिक स्थिति = एल.एम. सिंघवी (1986)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44481,8 +44481,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 280 mandates that the राष्ट्रपति shall constitute a वित्त आयोग every fifth वर्ष (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.",
-      "tip_hi": "वित्त आयोग = अनुच्छेद 280, appointed every 5 वर्ष by the राष्ट्रपति. 16th FC Chairman = Dr. Arvind Panagariya."
+      "explanation_hi": "अनुच्छेद 280 में कहा गया है कि राष्ट्रपति संघ और राज्यों के बीच शुद्ध कर आय के वितरण की सिफारिश करने के लिए हर पांचवें वर्ष (या उससे पहले) एक वित्त आयोग का गठन करेंगे।",
+      "tip_hi": "वित्त आयोग = अनुच्छेद 280, प्रत्येक 5 वर्ष में राष्ट्रपति द्वारा नियुक्त किया जाता है। 16वें एफसी अध्यक्ष = डॉ. अरविंद पनगढ़िया।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44508,7 +44508,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 31 दिसम्बर 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th वित्त आयोग. N.K. Singh headed the 15th वित्त आयोग.",
+      "explanation_hi": "31 दिसंबर 2023 को सरकार ने नीति आयोग के पूर्व उपाध्यक्ष डॉ. अरविंद पनगढ़िया को 16वें वित्त आयोग का अध्यक्ष नियुक्त किया। एन.के. सिंह ने 15वें वित्त आयोग का नेतृत्व किया।",
       "tip_hi": "16वें वित्त आयोग के अध्यक्ष = डॉ. अरविंद पनगढ़िया; 15वें एफसी अध्यक्ष = एन.के. सिंह।"
     },
     {
@@ -44589,7 +44589,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The pale yellow colour of normal urine is due to the pigment urochrome (urobilin), a breakdown end-product of हीमोग्लोबिन degradation excreted by the kidneys.",
+      "explanation_hi": "सामान्य मूत्र का हल्का पीला रंग वर्णक यूरोक्रोम (यूरोबिलिन) के कारण होता है, जो कि गुर्दे द्वारा उत्सर्जित हीमोग्लोबिन क्षरण का एक टूटने वाला अंतिम उत्पाद है।",
       "tip_hi": "मूत्र का पीला रंग = यूरोक्रोम; पित्त पीला वर्णक = बिलीरुबिन।"
     },
     {
@@ -44643,7 +44643,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 213 empowers the राज्यपाल to promulgate an अध्यादेश when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. राष्ट्रपति's अध्यादेश power is under अनुच्छेद 123.",
+      "explanation_hi": "अनुच्छेद 213 राज्यपाल को उस समय अध्यादेश प्रख्यापित करने का अधिकार देता है जब राज्य विधान सभा (या द्विसदनीय विधायिका में दोनों सदन) सत्र में नहीं चल रहे हों। राष्ट्रपति की अध्यादेश की शक्ति अनुच्छेद 123 के अंतर्गत है।",
       "tip_hi": "अध्यादेश Powers: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
     },
     {
@@ -44670,8 +44670,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी विवेकानंद founded the Ramakrishna Mission on 1 मई 1897 at Belur Math near Kolkata, named after his spiritual guru Ramakrishna Paramahamsa.",
-      "tip_hi": "Ramakrishna Mission (1897) = स्वामी विवेकानंद; Arya Samaj (1875) = Dayananda Saraswati; Brahmo Samaj (1828) = राजा राममोहन राय."
+      "explanation_hi": "स्वामी विवेकानन्द ने 1 मई 1897 को कोलकाता के पास बेलूर मठ में रामकृष्ण मिशन की स्थापना की, जिसका नाम उनके आध्यात्मिक गुरु रामकृष्ण परमहंस के नाम पर रखा गया।",
+      "tip_hi": "रामकृष्ण मिशन (1897) = स्वामी विवेकानन्द; आर्य समाज (1875) = दयानंद सरस्वती; ब्रह्म समाज (1828) = राजा राम मोहन राय।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44698,7 +44698,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जलोढ़ मिट्टी और उच्च वर्षा (>140 सेमी) के कारण उत्तरपूर्वी बाढ़ क्षेत्र वाले जिले-पूर्णिया, कटिहार और किशनगंज-बिहार की प्राथमिक जूट उत्पादक बेल्ट बनाते हैं। पूर्णिया सबसे बड़ा एकल उत्पादक है, लेकिन कटिहार और किशनगंज भी प्रमुख उत्पादक हैं, जो (डी) को आधिकारिक कुंजी बनाते हैं।",
-      "tip_hi": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) उपर्युक्त में से एक से अधिक is correct."
+      "tip_hi": "BPSC प्रश्न जाल: जब जूट के लिए पूर्णिया, कटिहार और किशनगंज एक साथ दिखाई देते हैं, तो विकल्प (D) उपरोक्त में से एक से अधिक सही है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -44724,7 +44724,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Conducted in two phases के दौरान 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 अक्टूबर 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
+      "explanation_hi": "2023 के दौरान दो चरणों में आयोजित, बिहार जाति-आधारित सर्वेक्षण के निष्कर्ष आधिकारिक तौर पर गांधी जयंती (2 अक्टूबर 2023) को जारी किए गए थे, जिसमें ईबीसी 36.01%, ओबीसी 27.13%, एससी 19.65%, एसटी 1.68% और सामान्य श्रेणी 15.52% दर्ज की गई थी।",
       "tip_hi": "2 अक्टूबर 2023 को जारी बिहार जाति सर्वेक्षण: ईबीसी (36%) + ओबीसी (27%) = 63% कुल पिछड़ा वर्ग।"
     },
     {
@@ -44751,7 +44751,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aditya-L1 was launched on 2 सितम्बर 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million किमी from Earth, to study solar coronal heating and solar wind flares.",
+      "explanation_hi": "आदित्य-एल1 को 2 सितंबर 2023 को पीएसएलवी-सी57 पर लॉन्च किया गया था और सौर कोरोनल हीटिंग और सौर पवन फ्लेयर्स का अध्ययन करने के लिए इसे पृथ्वी से 1.5 मिलियन किमी दूर लैग्रेंजियन पॉइंट 1 (एल1) के आसपास एक हेलो कक्षा में सफलतापूर्वक स्थापित किया गया था।",
       "tip_hi": "भारत का सौर मिशन =आदित्य-L1 (PSLV-C57); गंतव्य = लैग्रेंज बिंदु 1 (एल1)।"
     },
     {
@@ -44832,8 +44832,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Drafting Committee was set up on 29 अगस्त 1947 with Dr. B. R. Ambedkar as its Chairman. डॉ. राजेंद्र प्रसाद was the permanent राष्ट्रपति of the Constituent Assembly.",
-      "tip_hi": "Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly राष्ट्रपति = डॉ. राजेंद्र प्रसाद.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "मसौदा समिति की स्थापना 29 अगस्त 1947 को डॉ. बी.आर. अम्बेडकर की अध्यक्षता में की गई थी। डॉ. राजेंद्र प्रसाद संविधान सभा के स्थायी अध्यक्ष थे।",
+      "tip_hi": "प्रारूप समिति के अध्यक्ष = डॉ. बी.आर. अम्बेडकर; संविधान सभा अध्यक्ष = डॉ. राजेंद्र प्रसाद।\nउत्तर कुंजी सारांश तालिका - सेट 7 (प्रश्न 241 से 280)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ],
   "bpsc-tre4-general-studies-set8": [
@@ -44862,7 +44862,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "अंतर्वाह दर = 1/8 टैंक/घंटा। रिसाव के साथ शुद्ध प्रवाह = 1/10 टैंक/घंटा। रिसाव दर = 1/8 - 1/10 = (5 - 4)/40 = 1/40 टैंक/घंटा। पूरी टंकी खाली करने का समय = 40 घंटे.",
-      "tip_hi": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 घंटे."
+      "tip_hi": "रिसाव सूत्र: (ए * बी) / (बी - ए) = (8 * 10) / (10 - 8) = 80/2 = 40 घंटे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -44969,7 +44969,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Adrenaline (epinephrine) increases हृदय rate, dilates bronchioles, elevates blood pressure, and stimulates glycogenolysis in the यकृत (लीवर) to release glucose rapidly into the bloodstream के दौरान acute emergencies.",
+      "explanation_hi": "एड्रेनालाईन (एपिनेफ्रिन) हृदय गति को बढ़ाता है, ब्रोन्किओल्स को फैलाता है, रक्तचाप को बढ़ाता है, और तीव्र आपात स्थिति के दौरान रक्तप्रवाह में ग्लूकोज को तेजी से छोड़ने के लिए यकृत में ग्लाइकोजेनोलिसिस को उत्तेजित करता है।",
       "tip_hi": "आपातकालीन हार्मोन / 3F हार्मोन (लड़ाई, उड़ान, डर) = एड्रेनालाईन।"
     },
     {
@@ -45050,8 +45050,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "महात्मा गांधी presided over the 39th Session of the Indian National Congress at Belgaum (now Belagavi, Karnataka) in दिसम्बर 1924. This was the only INC session ever presided over by Gandhi.",
-      "tip_hi": "Only Congress session presided by महात्मा गांधी = 1924 Belgaum Session (Karnataka)."
+      "explanation_hi": "महात्मा गांधी ने दिसंबर 1924 में बेलगाम (अब बेलगावी, कर्नाटक) में भारतीय राष्ट्रीय कांग्रेस के 39वें सत्र की अध्यक्षता की। यह एकमात्र कांग्रेस सत्र था जिसकी अध्यक्षता गांधी ने की थी।",
+      "tip_hi": "महात्मा गांधी की अध्यक्षता में एकमात्र कांग्रेस अधिवेशन = 1924 बेलगाम अधिवेशन (कर्नाटक)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45077,8 +45077,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Sachchidananda Sinha served as the temporary interim chairman on 9 दिसम्बर 1946. On 11 दिसम्बर 1946, डॉ. राजेंद्र प्रसाद was unanimously elected permanent राष्ट्रपति of the Constituent Assembly.",
-      "tip_hi": "Temporary Chairman (9 Dec 1946) = Dr. Sachchidananda Sinha; Permanent राष्ट्रपति (11 Dec 1946) = डॉ. राजेंद्र प्रसाद."
+      "explanation_hi": "डॉ. सच्चिदानंद सिन्हा ने 9 दिसंबर 1946 को अस्थायी अंतरिम अध्यक्ष के रूप में कार्य किया। 11 दिसंबर 1946 को डॉ. राजेंद्र प्रसाद को सर्वसम्मति से संविधान सभा का स्थायी अध्यक्ष चुना गया।",
+      "tip_hi": "अस्थायी अध्यक्ष (9 दिसंबर 1946) = डॉ. सच्चिदानंद सिन्हा; स्थायी राष्ट्रपति (11 दिसम्बर 1946) = डॉ. राजेंद्र प्रसाद।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45104,7 +45104,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Founded in 1918 by डॉ. राजेंद्र प्रसाद and Sachchidananda Sinha, 'The Searchlight' was edited with great patriotic distinction by Murli Manohar Prasad for decades, championing civil disobedience and peasant causes in Bihar.",
+      "explanation_hi": "1918 में डॉ. राजेंद्र प्रसाद और सच्चिदानंद सिन्हा द्वारा स्थापित, 'द सर्चलाइट' का संपादन मुरली मनोहर प्रसाद ने दशकों तक महान देशभक्तिपूर्ण विशिष्टता के साथ किया, और बिहार में सविनय अवज्ञा और किसान मुद्दों का समर्थन किया।",
       "tip_hi": "'द सर्चलाइट' संपादक = मुरली मनोहर प्रसाद; 'द मदरलैंड' के संस्थापक = मजहरुल हक।"
     },
     {
@@ -45185,8 +45185,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 169 deals with the abolition or creation of Legislative Councils in States. The Legislative Assembly must pass a resolution by a special majority (majority of total membership and not less than 2/3rds present and voting), following which संसद मई enact a simple law.",
-      "tip_hi": "Creation or Abolition of Legislative Council = अनुच्छेद 169; Composition of Council = अनुच्छेद 171."
+      "explanation_hi": "अनुच्छेद 169 राज्यों में विधान परिषदों के उन्मूलन या निर्माण से संबंधित है। विधान सभा को विशेष बहुमत (कुल सदस्यता का बहुमत और उपस्थित और मतदान करने वाले कम से कम 2/3) द्वारा एक प्रस्ताव पारित करना होगा, जिसके बाद संसद एक सरल कानून बना सकती है।",
+      "tip_hi": "विधान परिषद का निर्माण या समाप्ति = अनुच्छेद 169; परिषद् की संरचना = अनुच्छेद 171."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45213,7 +45213,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "42वें संशोधन ने प्रारंभिक विवरण को 'संप्रभु लोकतांत्रिक गणराज्य' से 'संप्रभु समाजवादी धर्मनिरपेक्ष लोकतांत्रिक गणराज्य' में संशोधित किया, और 'राष्ट्र की एकता' को 'राष्ट्र की एकता और अखंडता' में बदल दिया।",
-      "tip_hi": "42nd संशोधन 1976 added 3 words: Socialist, Secular, Integrity. (प्रस्तावना amended only once)."
+      "tip_hi": "42वें संशोधन 1976 में 3 शब्द जोड़े गए: समाजवादी, धर्मनिरपेक्ष, अखंडता। (प्रस्तावना में केवल एक बार संशोधन किया गया)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45320,8 +45320,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime जोड़े whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 जोड़े are possible: (13, 156) and (39, 52).",
-      "tip_hi": "ab = 2028 / 13^2 = 12. Co-prime factor जोड़े of 12 = (1, 12) and (3, 4) => exactly 2 जोड़े."
+      "explanation_hi": "माना संख्याएँ 13a और 13b हैं, जहाँ a और b सह-अभाज्य हैं। उत्पाद = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. सह-अभाज्य जोड़े जिनका उत्पाद 12 है: (1, 12) और (3, 4)। (नोट: (2, 6) सह-अभाज्य नहीं हैं)। इस प्रकार, ठीक 2 जोड़े संभव हैं: (13, 156) और (39, 52)।",
+      "tip_hi": "एबी = 2028 / 13^2 = 12. 12 के सह-अभाज्य कारक जोड़े = (1, 12) और (3, 4) => बिल्कुल 2 जोड़े।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45347,7 +45347,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On mixing with water, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform जिप्सम (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
+      "explanation_hi": "पानी के साथ मिश्रित होने पर, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) एक एक्ज़ोथिर्मिक जलयोजन प्रतिक्रिया से गुजरता है, जो जिप्सम (CaSO4 · 2H2O) को सुधारने के लिए पानी के 1.5 अणुओं के साथ पुनः संयोजित होता है, जो एक इंटरलॉकिंग सुई की तरह कठोर नेटवर्क में क्रिस्टलीकृत हो जाता है।",
       "tip_hi": "पीओपी सेटिंग = जिप्सम में पुनर्जलीकरण (CaSO4 · 2H2O)।"
     },
     {
@@ -45374,8 +45374,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in नवम्बर 1942, जयप्रकाश नारायण established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.",
-      "tip_hi": "Azad Dasta (Nepal, 1942) = जयप्रकाश नारायण (JP); Escaped from Hazaribagh Jail."
+      "explanation_hi": "नवंबर 1942 में दिवाली की रात हज़ारीबाग़ सेंट्रल जेल से भागने के बाद, जयप्रकाश नारायण ने सशस्त्र गुरिल्ला प्रशिक्षण और तोड़फोड़ संचार प्रदान करने के लिए नेपाल के तराई के बकरो का टापू क्षेत्र में आज़ाद दस्ता प्रशिक्षण शिविर की स्थापना की।",
+      "tip_hi": "आज़ाद दस्ता (नेपाल, 1942)=जयप्रकाश नारायण (जेपी); हज़ारीबाग़ जेल से भाग गये।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45401,8 +45401,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंडक नदी River (known in Nepal as the Saligrami or Narayani) enters Bihar at Valmikinagar in पश्चिम Champaran and forms the boundary between Bihar and UP before discharging into the गंगा नदी at Sonpur/Hajipur.",
-      "tip_hi": "गंडक नदी = Narayani / Saptagandaki; enters Bihar at Valmikinagar (पश्चिम Champaran); famous for Saligram stones."
+      "explanation_hi": "गंडक नदी (नेपाल में सालिग्रामी या नारायणी के नाम से जानी जाती है) पश्चिम चंपारण के वाल्मिकीनगर में बिहार में प्रवेश करती है और सोनपुर/हाजीपुर में गंगा में गिरने से पहले बिहार और यूपी के बीच सीमा बनाती है।",
+      "tip_hi": "गंडक = नारायणी/सप्तगंडकी; वाल्मिकीनगर (पश्चिमी चंपारण) में बिहार में प्रवेश करता है; सालिग्राम पत्थरों के लिए प्रसिद्ध है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45455,8 +45455,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 324 provides for the establishment of the चुनाव आयोग of India to conduct elections to संसद, State Legislatures, and the offices of राष्ट्रपति and Vice-राष्ट्रपति. Elections to Panchayats are conducted by State Election Commissions under अनुच्छेद 243K.",
-      "tip_hi": "चुनाव आयोग of India = अनुच्छेद 324; Adult Suffrage = अनुच्छेद 326; State चुनाव आयोग (Panchayats) = अनुच्छेद 243K."
+      "explanation_hi": "अनुच्छेद 324 संसद, राज्य विधानसभाओं और राष्ट्रपति और उपराष्ट्रपति के कार्यालयों के चुनाव कराने के लिए भारत के चुनाव आयोग की स्थापना का प्रावधान करता है। अनुच्छेद 243K के तहत राज्य चुनाव आयोगों द्वारा पंचायतों के चुनाव कराए जाते हैं।",
+      "tip_hi": "भारत का चुनाव आयोग = अनुच्छेद 324; वयस्क मताधिकार = अनुच्छेद 326; राज्य निर्वाचन आयोग (पंचायत) = अनुच्छेद 243K."
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45536,7 +45536,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The All India Kisan Sabha was established on 11 अप्रैल 1936 at the Lucknow Congress session. स्वामी सहजानंद सरस्वती was elected राष्ट्रपति and Prof. N. G. Ranga was appointed General Secretary.",
+      "explanation_hi": "अखिल भारतीय किसान सभा की स्थापना 11 अप्रैल 1936 को लखनऊ कांग्रेस अधिवेशन में हुई थी। स्वामी सहजानंद सरस्वती को अध्यक्ष चुना गया और प्रो. एन.जी. रंगा को महासचिव नियुक्त किया गया।",
       "tip_hi": "बिहार प्रांतीय किसान सभा=1929 (सोनेपुर); अखिल भारतीय किसान सभा = 1936 (लखनऊ)।"
     },
     {
@@ -45563,8 +45563,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kishanganj, located at the eastern tip of Bihar (part of the Siliguri corridor area), borders Nepal to its उत्तर and पश्चिम Bengal (Darjeeling and Uttar Dinajpur districts) to its पूर्व.",
-      "tip_hi": "Borders both Nepal and पश्चिम Bengal = Kishanganj; Borders both Nepal and UP = पश्चिम Champaran."
+      "explanation_hi": "किशनगंज, बिहार के पूर्वी सिरे (सिलीगुड़ी कॉरिडोर क्षेत्र का हिस्सा) पर स्थित है, इसकी सीमा उत्तर में नेपाल और पूर्व में पश्चिम बंगाल (दार्जिलिंग और उत्तर दिनाजपुर जिले) से लगती है।",
+      "tip_hi": "नेपाल और पश्चिम बंगाल दोनों की सीमा = किशनगंज; नेपाल और यूपी दोनों की सीमा = पश्चिमी चंपारण।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45590,8 +45590,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gastric chief cells secrete pepsinogen, जो कि activated into पेप्सिन by हाइड्रोक्लोरिक अम्ल (HCl) (HCl, pH ~1.5 to 2.0). पेप्सिन cleaves complex dietary proteins into shorter peptides (proteoses and peptones).",
-      "tip_hi": "Protein पाचन enzymes: आमाशय (पेट) (अम्लीय) = पेप्सिन; अग्न्याशय/छोटी आंत (alkaline) = ट्रिप्सिन."
+      "explanation_hi": "गैस्ट्रिक मुख्य कोशिकाएं पेप्सिनोजेन स्रावित करती हैं, जो हाइड्रोक्लोरिक एसिड (एचसीएल, पीएच ~ 1.5 से 2.0) द्वारा पेप्सिन में सक्रिय होता है। पेप्सिन जटिल आहार प्रोटीन को छोटे पेप्टाइड्स (प्रोटिओस और पेप्टोन) में तोड़ देता है।",
+      "tip_hi": "प्रोटीन पाचन एंजाइम: पेट (अम्लीय) = पेप्सिन; अग्न्याशय/छोटी आंत (क्षारीय) = ट्रिप्सिन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45644,7 +45644,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 25 जुलाई 1857, the sepoy soldiers of the 7th, 8th, and 40th Native Infantry regiments at Danapur revolted against General Lloyd, crossed the सोन नदी River, and joined बाबू कुंवर सिंह at Jagdishpur/Arrah.",
+      "explanation_hi": "25 जुलाई 1857 को, दानापुर में 7वीं, 8वीं और 40वीं नेटिव इन्फैंट्री रेजिमेंट के सिपाही सैनिकों ने जनरल लॉयड के खिलाफ विद्रोह किया, सोन नदी पार की और जगदीशपुर/आरा में बाबू कुँवर सिंह से जुड़ गए।",
       "tip_hi": "दानापुर विद्रोह रेजिमेंट = 7वीं, 8वीं और 40वीं नेटिव इन्फैंट्री (25 जुलाई 1857)।"
     },
     {
@@ -45725,8 +45725,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 148 establishes an independent CAG of India appointed by the राष्ट्रपति. Under अनुच्छेद 149 and 151, the CAG audits all accounts related to expenditure from the Consolidated Fund of India and submits reports to संसद and State Legislatures.",
-      "tip_hi": "CAG of India = अनुच्छेद 148; Term = 6 वर्ष or 65 वर्ष of age; Guardian of Public Purse."
+      "explanation_hi": "अनुच्छेद 148 राष्ट्रपति द्वारा नियुक्त भारत के एक स्वतंत्र CAG की स्थापना करता है। अनुच्छेद 149 और 151 के तहत, CAG भारत की संचित निधि से व्यय से संबंधित सभी खातों का ऑडिट करता है और संसद और राज्य विधानमंडलों को रिपोर्ट प्रस्तुत करता है।",
+      "tip_hi": "भारत का CAG = अनुच्छेद 148; अवधि = 6 वर्ष या 65 वर्ष की आयु; सार्वजनिक धन का संरक्षक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45752,8 +45752,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the leadership of मुख्यमंत्री Nitish Kumar, the Bihar पंचायती राज Act 2006 was enacted, reserving 50% of all elected seats and office-bearer positions for women in ग्राम Panchayats, Panchayat Samitis, and Zilla Parishads.",
-      "tip_hi": "50% Women Reservation in Panchayats = Bihar पंचायती राज Act 2006 (First state in India)."
+      "explanation_hi": "मुख्यमंत्री नीतीश कुमार के नेतृत्व में, बिहार पंचायती राज अधिनियम 2006 लागू किया गया, जिसमें ग्राम पंचायतों, पंचायत समितियों और जिला परिषदों में महिलाओं के लिए सभी निर्वाचित सीटों और पदाधिकारी पदों में से 50% आरक्षित किया गया।",
+      "tip_hi": "पंचायतों में 50% महिला आरक्षण = बिहार पंचायती राज अधिनियम 2006 (भारत का पहला राज्य)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45779,8 +45779,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "National Highway 27 is the सेकंड longest national highway in India, connecting Porbandar in Gujarat to Silchar in Assam. In Bihar, it traverses Gopalganj, Motihari, Muzaffarpur, Darbhanga, Jhanjharpur, Supaul, and Purnia as the 4-lane पूर्व-पश्चिम Corridor.",
-      "tip_hi": "पूर्व-पश्चिम Corridor through उत्तर Bihar = NH 27 (Old NH 28 & 31)."
+      "explanation_hi": "राष्ट्रीय राजमार्ग 27 भारत का दूसरा सबसे लंबा राष्ट्रीय राजमार्ग है, जो गुजरात के पोरबंदर को असम के सिलचर से जोड़ता है। बिहार में, यह 4-लेन ईस्ट-वेस्ट कॉरिडोर के रूप में गोपालगंज, मोतिहारी, मुजफ्फरपुर, दरभंगा, झंझारपुर, सुपौल और पूर्णिया से होकर गुजरता है।",
+      "tip_hi": "उत्तर बिहार के माध्यम से पूर्व-पश्चिम गलियारा = NH 27 (पुराना NH 28 और 31)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45834,7 +45834,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कैमूर वन्यजीव अभयारण्य, विंध्य पठार के ऊपर कैमूर और रोहतास जिलों में स्थित है, जो लगभग क्षेत्रफल में फैला हुआ है। 1,504.96 वर्ग किमी, जो इसे बिहार का सबसे बड़ा वन्यजीव अभयारण्य बनाता है।",
-      "tip_hi": "Largest Wildlife Sanctuary in Bihar = Kaimur Wildlife Sanctuary (1,505 sq किमी); Only National Park = वाल्मीकि राष्ट्रीय उद्यान."
+      "tip_hi": "बिहार में सबसे बड़ा वन्यजीव अभयारण्य = कैमूर वन्यजीव अभयारण्य (1,505 वर्ग किमी); एकमात्र राष्ट्रीय उद्यान=वाल्मीकि राष्ट्रीय उद्यान।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45887,8 +45887,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 44th संविधान संशोधन अधिनियम 1978 enacted by the Janata Party government under Morarji Desai deleted अनुच्छेद 19(1)(f) and अनुच्छेद 31 from Part III and inserted अनुच्छेद 300A in Part XII, converting property into a non-fundamental legal/constitutional right.",
-      "tip_hi": "Right to Property deleted from मौलिक अधिकार = 44th संशोधन 1978 (now अनुच्छेद 300A)."
+      "explanation_hi": "मोरारजी देसाई के नेतृत्व में जनता पार्टी सरकार द्वारा अधिनियमित 44वें संवैधानिक संशोधन अधिनियम 1978 ने भाग III से अनुच्छेद 19(1)(एफ) और अनुच्छेद 31 को हटा दिया और भाग XII में अनुच्छेद 300ए को शामिल कर दिया, जिससे संपत्ति एक गैर-मौलिक कानूनी/संवैधानिक अधिकार में परिवर्तित हो गई।",
+      "tip_hi": "संपत्ति का अधिकार मौलिक अधिकारों से हटा दिया गया = 44वाँ संशोधन 1978 (अब अनुच्छेद 300ए)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -45971,7 +45971,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कुल संभावित परिणाम = 6 * 6 = 36। योग 8 देने वाले अनुकूल परिणाम: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 परिणाम। प्रायिकता = 5/36.",
-      "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
+      "tip_hi": "जोड़ियों का योग 8 है: (2,6), (3,5), (4,4), (5,3), (6,2) = 36 में से बिल्कुल 5 जोड़े => 5/36।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -45998,7 +45998,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मी/से. में गति = 72 * (5/18) = 20 मी./से. एक बिंदु वस्तु (खड़े आदमी) को पार करने के लिए, दूरी = ट्रेन की लंबाई = 180 मीटर। समय = दूरी/गति = 180/20 = 9 सेकंड।",
-      "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
+      "tip_hi": "गति = 72 * 5/18 = 20 मीटर/सेकेंड। समय = 180/20 = 9 सेकंड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46159,7 +46159,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In निर्वात, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 किमी/s).",
+      "explanation_hi": "निर्वात में, सभी विद्युत चुम्बकीय विकिरण मौलिक सार्वभौमिक भौतिक स्थिरांक c = 299,792,458 m/s ≈ 3 × 10^8 m/s (या 3 × 10^5 किमी/सेकेंड) पर यात्रा करते हैं।",
       "tip_hi": "प्रकाश की गति c = 3 × 10^8 मी/से = 3 × 10^5 किमी/सेकेंड।"
     },
     {
@@ -46213,8 +46213,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
-      "tip_hi": "वृक्क (गुर्दा) unit = नेफ्रॉन (वृक्काणु); Nervous system unit = Neuron; फेफड़े unit = Alveolus."
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग 1 से 1.2 मिलियन नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल, समीपस्थ कुंडलित नलिका, हेनले का लूप और दूरस्थ कुंडलित नलिका शामिल होते हैं।",
+      "tip_hi": "किडनी इकाई = नेफ्रॉन; तंत्रिका तंत्र इकाई = न्यूरॉन; फेफड़े की इकाई = एल्वोलस."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46294,7 +46294,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its केंद्रक (नाभिक).",
+      "explanation_hi": "प्रोटियम (1H1) की द्रव्यमान संख्या A = 1 और परमाणु संख्या Z = 1 है। न्यूट्रॉन की संख्या N = A - Z = 1 - 1 = 0 है। यह प्रकृति में एकमात्र स्थिर आइसोटोप है जिसके नाभिक में कोई न्यूट्रॉन नहीं है।",
       "tip_hi": "प्रोटियम में 0 न्यूट्रॉन हैं; ड्यूटेरियम में 1 न्यूट्रॉन होता है; ट्रिटियम में 2 न्यूट्रॉन होते हैं।"
     },
     {
@@ -46376,7 +46376,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "फैजाबाद के मौलवी अहमदुल्ला शाह ने चिनहट में सर हेनरी लॉरेंस के नेतृत्व में ब्रिटिश सेना को हराकर अवध में हजारों लोगों को संगठित किया। ब्रिटिश अधिकारियों ने उन्हें एक साहसी योद्धा और एक अजेय शत्रु के रूप में सराहा।",
-      "tip_hi": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = बाबू कुंवर सिंह."
+      "tip_hi": "1857 नेता: फैजाबाद = मौलवी अहमदुल्ला शाह; बरेली = खान बहादुर खान; दिल्ली = बख्त खान; बिहार = बाबू कुँवर सिंह."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46429,7 +46429,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "के दौरान the Non-Cooperation movement, महात्मा गांधी opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 फरवरी 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
+      "explanation_hi": "असहयोग आंदोलन के दौरान, महात्मा गांधी ने बिहार नेशनल कॉलेज खोला और 6 फरवरी 1921 को पटना में 'बिहार विद्यापीठ' का उद्घाटन किया, जिसमें मौलाना मजहरुल हक को चांसलर और ब्रजकिशोर प्रसाद को उप-कुलपति नियुक्त किया गया।",
       "tip_hi": "6 फरवरी 1921 को गांधी जी द्वारा बिहार विद्यापीठ का उद्घाटन; मजहरुल हक (चांसलर), ब्रजकिशोर प्रसाद (कुलपति)।"
     },
     {
@@ -46483,8 +46483,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), डॉ. राजेंद्र प्रसाद formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
-      "tip_hi": "Bihar Central Relief Committee (1934 Earthquake) = डॉ. राजेंद्र प्रसाद."
+      "explanation_hi": "1934 के भूकंप (परिमाण ~8.0) के बाद जेल से रिहा होने के तुरंत बाद, डॉ. राजेंद्र प्रसाद ने बिहार केंद्रीय राहत समिति का गठन किया और उसका नेतृत्व किया, जिसने पारदर्शिता के साथ देशव्यापी राहत कोष और सामग्री का समन्वय किया।",
+      "tip_hi": "बिहार केंद्रीय राहत समिति (1934 भूकंप) = डॉ. राजेंद्र प्रसाद।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46591,8 +46591,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The घाघरा नदी originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the गंगा नदी at Revelganj near Chhapra in Saran district.",
-      "tip_hi": "घाघरा नदी joins गंगा नदी at Revelganj (Chhapra); गंडक नदी joins at Sonpur; कोसी नदी joins at Kursela (Katihar)."
+      "explanation_hi": "घाघरा का उद्गम तिब्बत में मानसरोवर के निकट मापचाचुंगो ग्लेशियर से होता है। यह उत्तर प्रदेश से होकर बहती है (अयोध्या में सरयू के रूप में) और सारण जिले के छपरा के पास रेवेलगंज में गंगा के बाएं किनारे से मिलती है।",
+      "tip_hi": "घाघरा रेवेलगंज (छपरा) में गंगा से मिलती है; गंडक सोनपुर में मिलती है; कोसी कुर्सेला (कटिहार) में मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46645,8 +46645,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "वाल्मीकि राष्ट्रीय उद्यान covers an area of approx. 335.65 sq किमी (and sanctuary area of 898 sq किमी) in the Terai region of पश्चिम Champaran along the गंडक नदी River and Nepal border, forming Project Tiger Reserve No. 18.",
-      "tip_hi": "Only National Park of Bihar = वाल्मीकि राष्ट्रीय उद्यान (पश्चिम Champaran)."
+      "explanation_hi": "वाल्मिकी राष्ट्रीय उद्यान लगभग क्षेत्रफल में फैला हुआ है। गंडक नदी और नेपाल सीमा के साथ पश्चिम चंपारण के तराई क्षेत्र में 335.65 वर्ग किमी (और 898 वर्ग किमी का अभयारण्य क्षेत्र), जो प्रोजेक्ट टाइगर रिजर्व नंबर 18 बनाता है।",
+      "tip_hi": "बिहार का एकमात्र राष्ट्रीय उद्यान =वाल्मीकि राष्ट्रीय उद्यान (पश्चिमी चंपारण)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46780,8 +46780,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the अध्यक्ष (स्पीकर) of the लोकसभा thereon shall be final. The राज्यसभा has only 14 दिन to recommend changes.",
-      "tip_hi": "Certification of Money Bill = अध्यक्ष (स्पीकर) of लोकसभा (अनुच्छेद 110). Final and cannot be questioned in court."
+      "explanation_hi": "अनुच्छेद 110(3) में कहा गया है कि यदि कोई प्रश्न उठता है कि कोई विधेयक धन विधेयक है या नहीं, तो उस पर लोकसभा अध्यक्ष का निर्णय अंतिम होगा। राज्यसभा के पास बदलावों की सिफारिश करने के लिए केवल 14 दिन हैं।",
+      "tip_hi": "धन विधेयक का प्रमाणन = लोकसभा अध्यक्ष (अनुच्छेद 110)। अंतिम और अदालत में सवाल नहीं उठाया जा सकता."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46807,8 +46807,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 352 governs National Emergency. (अनुच्छेद 356 provides for राष्ट्रपति's Rule in States due to constitutional failure, and अनुच्छेद 360 provides for Financial Emergency).",
-      "tip_hi": "Emergency provisions: अनुच्छेद 352 = National; अनुच्छेद 356 = State (राष्ट्रपति's Rule); अनुच्छेद 360 = Financial."
+      "explanation_hi": "अनुच्छेद 352 राष्ट्रीय आपातकाल को नियंत्रित करता है। (अनुच्छेद 356 संवैधानिक विफलता के कारण राज्यों में राष्ट्रपति शासन का प्रावधान करता है, और अनुच्छेद 360 वित्तीय आपातकाल का प्रावधान करता है)।",
+      "tip_hi": "आपातकालीन प्रावधान: अनुच्छेद 352 = राष्ट्रीय; अनुच्छेद 356 = राज्य (राष्ट्रपति शासन); अनुच्छेद 360 = वित्तीय।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46834,8 +46834,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 73rd संशोधन added Part IX and the 11th अनुसूची (29 functional subjects for Panchayats). The 74th संशोधन added Part IX-A and the 12th अनुसूची (18 functional subjects for Municipalities).",
-      "tip_hi": "11th अनुसूची = Panchayats (29 items); 12th अनुसूची = Municipalities (18 items); 10th अनुसूची = Anti-Defection."
+      "explanation_hi": "73वें संशोधन में भाग IX और 11वीं अनुसूची (पंचायतों के लिए 29 कार्यात्मक विषय) जोड़ी गई। 74वें संशोधन में भाग IX-A और 12वीं अनुसूची (नगर पालिकाओं के लिए 18 कार्यात्मक विषय) जोड़ी गई।",
+      "tip_hi": "11वीं अनुसूची = पंचायतें (29 मदें); 12वीं अनुसूची = नगर पालिकाएँ (18 वस्तुएँ); 10वीं अनुसूची = दल-बदल विरोधी।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46861,8 +46861,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 173, the minimum age for election to the Legislative Assembly (and लोकसभा) is 25 वर्ष. For Legislative Council (and राज्यसभा), it is 30 वर्ष. For Panchayat elections, it is 21 वर्ष.",
-      "tip_hi": "Age limits: Panchayats = 21; लोकसभा & Vidhan Sabha = 25; राज्यसभा & Vidhan Parishad = 30; राष्ट्रपति & राज्यपाल = 35."
+      "explanation_hi": "अनुच्छेद 173 के तहत, विधान सभा (और लोकसभा) के चुनाव के लिए न्यूनतम आयु 25 वर्ष है। विधान परिषद (और राज्यसभा) के लिए, यह 30 वर्ष है। पंचायत चुनाव के लिए यह अवधि 21 वर्ष है.",
+      "tip_hi": "आयु सीमा: पंचायत = 21; लोकसभा एवं विधानसभा = 25; राज्य सभा एवं विधान परिषद = 30; राष्ट्रपति एवं राज्यपाल = 35."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46888,8 +46888,8 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 157 prescribes that no person shall be eligible for appointment as राज्यपाल unless he is a citizen of India and has completed the age of 35 वर्ष.",
-      "tip_hi": "Minimum age for राष्ट्रपति, Vice-राष्ट्रपति, and राज्यपाल is 35 वर्ष."
+      "explanation_hi": "अनुच्छेद 157 में प्रावधान है कि कोई भी व्यक्ति राज्यपाल के रूप में नियुक्ति के लिए पात्र नहीं होगा जब तक कि वह भारत का नागरिक न हो और 35 वर्ष की आयु पूरी न कर चुका हो।",
+      "tip_hi": "राष्ट्रपति, उपराष्ट्रपति और राज्यपाल के लिए न्यूनतम आयु 35 वर्ष है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -46942,7 +46942,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inaugurated by मुख्यमंत्री Nitish Kumar on 15-17 जनवरी 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "explanation_hi": "15-17 जनवरी 2021 को मुख्यमंत्री नीतीश कुमार द्वारा उद्घाटन किया गया, पर्यावरण-पर्यटन और प्रवासी पक्षी संरक्षण को बढ़ावा देने के लिए जमुई जिले के नागी बांध और नकटी बांध पक्षी अभयारण्यों के जुड़वां जलाशयों में 'कलरव' मनाया गया।",
       "tip_hi": "प्रथम राज्य पक्षी महोत्सव 'कलरव' = नागी-नकटी पक्षी अभयारण्य (जमुई)।"
     },
     {
@@ -46969,7 +46969,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new संसद building, featuring the लोकसभा chamber styled on the National Bird Peacock and राज्यसभा on the National Flower Lotus.",
+      "explanation_hi": "अहमदाबाद स्थित वास्तुकार डॉ. बिमल पटेल (एचसीपी डिजाइन) ने त्रिकोणीय नए संसद भवन का डिजाइन तैयार किया, जिसमें लोकसभा कक्ष को राष्ट्रीय पक्षी मोर और राज्यसभा कक्ष को राष्ट्रीय फूल कमल पर डिजाइन किया गया है।",
       "tip_hi": "नए संसद भवन के वास्तुकार = डॉ. बिमल पटेल (एचसीपी डिजाइन, अहमदाबाद)।"
     },
     {
@@ -46996,7 +46996,7 @@ export const SETS_DATA: Record<string, QuestionItem[]> = {
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "NEP 2020 restructured school curriculum into four stages: 5 वर्ष Foundational stage (ages 3-8), 3 वर्ष Preparatory stage (ages 8-11), 3 वर्ष Middle stage (ages 11-14), and 4 वर्ष Secondary stage (ages 14-18).",
+      "explanation_hi": "एनईपी 2020 ने स्कूली पाठ्यक्रम को चार चरणों में पुनर्गठित किया: 5 साल का बुनियादी चरण (उम्र 3-8), 3 साल का प्रारंभिक चरण (उम्र 8-11), 3 साल का मध्य चरण (उम्र 11-14), और 4 साल का माध्यमिक चरण (उम्र 14-18)।",
       "tip_hi": "एनईपी 2020 पाठ्यचर्या रूपरेखा = 5 + 3 + 3 + 4 (10 + 2 की जगह)।\nउत्तर कुंजी सारांश तालिका - सेट 9 (प्रश्न 321 से 360)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]

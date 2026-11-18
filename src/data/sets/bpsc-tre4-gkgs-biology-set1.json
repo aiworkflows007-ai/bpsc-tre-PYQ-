@@ -31,8 +31,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लैक्टियल्स (दूधिया नलिकाएं) are specialized लसिका कोशिकाएं situated in the आंत्र रसांकुर (विली) that absorb dietary emulsified fats (chylomicrons) into the लसिका तंत्र.",
-      "tip_hi": "Do not get confused by 'lact-'; in human पाचन, लैक्टियल्स (दूधिया नलिकाएं) absorb fats, while blood capillaries absorb sugars and amino acids."
+      "explanation_hi": "लैक्टियल्स आंतों के विली में स्थित विशेष लसीका केशिकाएं हैं जो लसीका प्रणाली में आहार इमल्सीफाइड वसा (काइलोमाइक्रोन) को अवशोषित करती हैं।",
+      "tip_hi": "'लैक्ट-' से भ्रमित न हों; मानव पाचन में, लैक्टियल्स वसा को अवशोषित करते हैं, जबकि रक्त केशिकाएं शर्करा और अमीनो एसिड को अवशोषित करती हैं।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin) is secreted by salivary glands in the mouth, breaking down complex dietary starch into maltose and dextrin.",
-      "tip_hi": "Amylase operates at pH 6.8 in the mouth; पेप्सिन breaks down proteins in the आमाशय (पेट) in अम्लीय pH (1.5-2.0)."
+      "explanation_hi": "लार एमाइलेज (पीटालिन) मुंह में लार ग्रंथियों द्वारा स्रावित होता है, जो जटिल आहार स्टार्च को माल्टोज़ और डेक्सट्रिन में तोड़ देता है।",
+      "tip_hi": "एमाइलेज मुंह में पीएच 6.8 पर काम करता है; पेप्सिन अम्लीय pH (1.5-2.0) में पेट में प्रोटीन को तोड़ता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Middle School (Classes 6-8)",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "केल्विन चक्र (अंधेरे प्रतिक्रिया) के दौरान, कार्बन डाइऑक्साइड ग्लूकोज को संश्लेषित करने के लिए इलेक्ट्रॉनों और हाइड्रोजन आयनों को स्वीकार करता है, जो रासायनिक कमी का प्रतिनिधित्व करता है।",
-      "tip_hi": "In प्रकाश संश्लेषण: Water is oxidized to Oxygen, while CO2 is reduced to Carbohydrates."
+      "tip_hi": "प्रकाश संश्लेषण में: पानी ऑक्सीजन में ऑक्सीकृत हो जाता है, जबकि CO2 कार्बोहाइड्रेट में अपचयित हो जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -167,7 +167,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ट्रैकोमा एक संक्रामक जीवाणु नेत्र संक्रमण है जो क्लैमाइडिया ट्रैकोमैटिस के कारण होता है, जिससे आंतरिक पलकें खुरदरी हो जाती हैं और अंधापन हो सकता है।",
-      "tip_hi": "Common eye disorders in BPSC: Trachoma, Cataract, Glaucoma, अबिंदुकता (एस्टिग्मैटिज्म), and निकट दृष्टि दोष (मायोपिया)."
+      "tip_hi": "बीपीएससी में सामान्य नेत्र विकार: ट्रैकोमा, मोतियाबिंद, ग्लूकोमा, दृष्टिवैषम्य और मायोपिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Senior Secondary (Classes 11-12)",
@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मैडम भीकाजी कामा ने 22 अगस्त 1907 को जर्मनी के स्टटगार्ट में अंतर्राष्ट्रीय समाजवादी सम्मेलन में भारतीय राष्ट्रीय ध्वज फहराया।",
-      "tip_hi": "Madam Bhikaji Cama is के रूप में जाना जाता है the 'Mother of Indian Revolution'; she published 'Bande Mataram' from Paris."
+      "tip_hi": "मैडम भीकाजी कामा को 'भारतीय क्रांति की जननी' के रूप में जाना जाता है; उन्होंने पेरिस से 'बंदे मातरम्' प्रकाशित किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "हीमोग्लोबिन is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
-      "tip_hi": "Iron deficiency = हीमोग्लोबिन reduction => Nutritional Anaemia."
+      "explanation_hi": "हीमोग्लोबिन एक संयुग्मित मेटालोप्रोटीन है जिसमें चार लौह-पोर्फिरिन (हीम) समूह होते हैं। आयरन की कमी से माइक्रोसाइटिक हाइपोक्रोमिक एनीमिया होता है, जो थकान, पीली त्वचा और ऑक्सीजन परिवहन क्षमता में कमी की विशेषता है।",
+      "tip_hi": "आयरन की कमी = हीमोग्लोबिन में कमी => पोषण संबंधी एनीमिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -355,7 +355,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted डॉ. राजेंद्र प्रसाद and Gandhi, exposing the assassination plot.",
+      "explanation_hi": "मोतिहारी में नील की खेती करने वाले इरविन के आवास पर काम करने वाले कर्मचारी बटक मियां को गांधीजी को जहर मिला दूध का गिलास देने का आदेश दिया गया। इसके बजाय, उन्होंने हत्या की साजिश का पर्दाफाश करते हुए डॉ. राजेंद्र प्रसाद और गांधी को सचेत कर दिया।",
       "tip_hi": "चंपारण में गांधीजी की जान बचाई (1917) = बटक मियां (बेतिया/मोतिहारी)।"
     },
     {
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Senescent लाल रक्त कणिकाएं (RBC) are engulfed by macrophages in the spleen and यकृत (लीवर). The heme ring of हीमोग्लोबिन is catabolized by heme oxygenase into biliverdin, जो कि reduced to bilirubin and excreted via bile into the intestine.",
-      "tip_hi": "Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of हीमोग्लोबिन."
+      "explanation_hi": "प्लीहा और यकृत में वृद्ध लाल रक्त कोशिकाएं मैक्रोफेज द्वारा घेर ली जाती हैं। हीमोग्लोबिन की हीम रिंग को हीम ऑक्सीजनेज़ द्वारा बिलीवरडीन में अपचयित किया जाता है, जो बिलीरुबिन में बदल जाता है और पित्त के माध्यम से आंत में उत्सर्जित होता है।",
+      "tip_hi": "पित्त वर्णक (बिलीरुबिन और बिलीवरडीन) = हीमोग्लोबिन का कैटाबोलिक क्षरण।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In light-dependent reactions of प्रकाश संश्लेषण, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.",
-      "tip_hi": "Evolved Oxygen in प्रकाश संश्लेषण comes from Water (H2O), not from Carbon Dioxide."
+      "explanation_hi": "प्रकाश संश्लेषण की प्रकाश-निर्भर प्रतिक्रियाओं में, फोटोसिस्टम II पानी के अणुओं को विभाजित करता है: 2H2O -> 4H+ + 4e- + O2↑। सी.बी. वैन नील और रॉबर्ट हिल ने साबित किया कि विकसित ऑक्सीजन पानी से उत्पन्न होती है, CO2 से नहीं।",
+      "tip_hi": "प्रकाश संश्लेषण में विकसित ऑक्सीजन पानी (H2O) से आती है, कार्बन डाइऑक्साइड से नहीं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -626,7 +626,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ऑप्टिकल फाइबर में एक कोर होता है जो कम अपवर्तक सूचकांक के आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर कोर में प्रक्षेपित प्रकाश नगण्य सिग्नल हानि के साथ बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
-      "tip_hi": "ऑप्टिकल फाइबर = पूर्ण आंतरिक परावर्तन (TIR); Core refractive index > Cladding refractive index."
+      "tip_hi": "ऑप्टिकल फाइबर = कुल आंतरिक परावर्तन (टीआईआर); कोर अपवर्तक सूचकांक > क्लैडिंग अपवर्तक सूचकांक।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 27 नवम्बर 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the सेकंड individual satyagrahi of Bihar.",
-      "tip_hi": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = जवाहरलाल नेहरू. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha."
+      "explanation_hi": "27 नवंबर 1940 को डॉ. श्रीकृष्ण सिंह ने पटना में युद्ध-विरोधी भाषण देकर बिहार में व्यक्तिगत सत्याग्रह का उद्घाटन किया और गिरफ्तार कर लिये गये। डॉ. अनुग्रह नारायण सिन्हा बिहार के दूसरे व्यक्तिगत सत्याग्रही थे।",
+      "tip_hi": "भारत में व्यक्तिगत सत्याग्रह: पहला = विनोबा भावे, दूसरा = जवाहरलाल नेहरू। बिहार में: प्रथम = श्रीकृष्ण सिंह, द्वितीय = अनुग्रह नारायण सिन्हा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -761,7 +761,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "शहरीकरण और सेलुलर विकिरण के कारण इसकी खतरनाक गिरावट के खिलाफ जागरूकता बढ़ाने के लिए हाउस स्पैरो (पासर डोमेस्टिकस) को 2013 में बिहार के राज्य पक्षी के रूप में नामित किया गया था।",
-      "tip_hi": "State Bird of Bihar = House Sparrow (गौरैया); 20 मार्च = World Sparrow दिन."
+      "tip_hi": "बिहार का राज्य पक्षी = घरेलू गौरैया (गौरैया); 20 मार्च = विश्व गौरैया दिवस."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -814,8 +814,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vinegar is produced by bacterial fermentation of ethanol by Acetobacter into dilute एसिटिक अम्ल (CH3COOH, 5-8% v/v), widely used as a food preservative and flavoring.",
-      "tip_hi": "Vinegar = एसिटिक अम्ल (CH3COOH); Curd = लैक्टिक अम्ल; Sour milk = लैक्टिक अम्ल."
+      "explanation_hi": "सिरका एसीटोबैक्टर द्वारा इथेनॉल के जीवाणु किण्वन द्वारा पतला एसिटिक एसिड (CH3COOH, 5-8% v/v) में उत्पादित किया जाता है, जिसका व्यापक रूप से खाद्य संरक्षक और स्वाद के रूप में उपयोग किया जाता है।",
+      "tip_hi": "सिरका = एसिटिक एसिड (CH3COOH); दही = लैक्टिक एसिड; खट्टा दूध = लैक्टिक एसिड."
     }
   ]
 }

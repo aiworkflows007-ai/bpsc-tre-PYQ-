@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Downstream speed (D) = 36 / 3 = 12 किमी/h. Upstream speed (U) = 24 / 4 = 6 किमी/h. Speed of current = (D - U) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/h. (Speed of boat in still water = (12 + 6)/2 = 9 किमी/h).",
+      "explanation_hi": "डाउनस्ट्रीम गति (डी) = 36/3 = 12 किमी/घंटा। धारा के प्रतिकूल गति (यू) = 24/4 = 6 किमी/घंटा। धारा की गति = (डी - यू) / 2 = (12 - 6) / 2 = 6 / 2 = 3 किमी/घंटा। (शांत पानी में नाव की गति = (12 + 6)/2 = 9 किमी/घंटा)।",
       "tip_hi": "वर्तमान गति = (डाउनस्ट्रीम - अपस्ट्रीम) / 2 = (12 - 6) / 2 = 3 किमी/घंटा।"
     },
     {
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "उत्तर 10 किमी (+10y) -> पश्चिम 6 किमी (-6x) -> दक्षिण 10 किमी (-10y). Net displacement = -6x = 6 किमी due पश्चिम of starting position.",
-      "tip_hi": "Vertical movements (+10 किमी उत्तर and -10 किमी दक्षिण) cancel out; leaves 6 किमी पश्चिम."
+      "explanation_hi": "उत्तर 10 किमी (+10 वर्ष) -> पश्चिम 6 किमी (-6x) -> दक्षिण 10 किमी (-10 वर्ष)। शुद्ध विस्थापन = -6x = प्रारंभिक स्थिति के पश्चिम में 6 किमी।",
+      "tip_hi": "लंबवत गतिविधियां (+10 किमी उत्तर और -10 किमी दक्षिण) रद्द हो जाती हैं; 6 किमी पश्चिम की ओर निकलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पलायन वेग ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 m/s = 11.2 किमी/s. Orbital velocity near surface vo = √(gR) ≈ 7.9 किमी/s (ve = √2 * vo).",
-      "tip_hi": "पलायन वेग from Earth = 11.2 किमी/s; from Moon = 2.4 किमी/s; Orbital velocity = 7.9 किमी/s."
+      "explanation_hi": "पलायन वेग ve = √(2gR) = √(2 * 9.8 * 6.4 * 10^6) ≈ 11,200 मीटर/सेकेंड = 11.2 किमी/सेकेंड। सतह के निकट कक्षीय वेग vo = √(gR) ≈ 7.9 किमी/सेकेंड (ve = √2 * vo)।",
+      "tip_hi": "पृथ्वी से पलायन वेग = 11.2 किमी/सेकेंड; चंद्रमा से = 2.4 किमी/सेकेंड; कक्षीय वेग = 7.9 किमी/सेकेंड."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -328,7 +328,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Galvanization coats iron sheets with molten zinc. Zinc forms a barrier layer of क्षारीय zinc carbonate and acts as a sacrificial sacrificial anode क्योंकि its oxidation potential (-0.76 V) is more negative than that of iron (-0.44 V).",
+      "explanation_hi": "गैल्वनीकरण लोहे की चादरों पर पिघले जस्ते की परत चढ़ाता है। जिंक बुनियादी जिंक कार्बोनेट की एक अवरोधक परत बनाता है और एक बलि बलि एनोड के रूप में कार्य करता है क्योंकि इसकी ऑक्सीकरण क्षमता (-0.76 V) लोहे (-0.44 V) की तुलना में अधिक नकारात्मक है।",
       "tip_hi": "गैल्वनीकरण = लोहे (Fe) पर जिंक (Zn) की कोटिंग।"
     },
     {
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Senescent लाल रक्त कणिकाएं (RBC) are engulfed by macrophages in the spleen and यकृत (लीवर). The heme ring of हीमोग्लोबिन is catabolized by heme oxygenase into biliverdin, जो कि reduced to bilirubin and excreted via bile into the intestine.",
-      "tip_hi": "Bile pigments (Bilirubin & Biliverdin) = Catabolic degradation of हीमोग्लोबिन."
+      "explanation_hi": "प्लीहा और यकृत में वृद्ध लाल रक्त कोशिकाएं मैक्रोफेज द्वारा घेर ली जाती हैं। हीमोग्लोबिन की हीम रिंग को हीम ऑक्सीजनेज़ द्वारा बिलीवरडीन में अपचयित किया जाता है, जो बिलीरुबिन में बदल जाता है और पित्त के माध्यम से आंत में उत्सर्जित होता है।",
+      "tip_hi": "पित्त वर्णक (बिलीरुबिन और बिलीवरडीन) = हीमोग्लोबिन का कैटाबोलिक क्षरण।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Despite losing his left arm crossing the गंगा नदी, Kunwar Singh re-entered Jagdishpur and routed British forces under Captain Le Grand on 23 अप्रैल 1858. Le Grand was killed and the British detachment destroyed. Bihar celebrates 23 अप्रैल as 'Vijay Utsav'.",
+      "explanation_hi": "गंगा पार करते समय अपना बायाँ हाथ खोने के बावजूद, कुँवर सिंह ने जगदीशपुर में फिर से प्रवेश किया और 23 अप्रैल 1858 को कैप्टन ले ग्रैंड के नेतृत्व में ब्रिटिश सेना को हरा दिया। ले ग्रैंड मारा गया और ब्रिटिश टुकड़ी नष्ट हो गई। बिहार 23 अप्रैल को 'विजय उत्सव' के रूप में मनाता है।",
       "tip_hi": "कैप्टन ले ग्रैंड पर कुँवर सिंह की विजय = 23 अप्रैल 1858 (बिहार में विजय दिवस के रूप में मनाया जाता है)।"
     },
     {
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Accompanied by Raj Kumar Shukla, Gandhi arrived at Patna on 10 अप्रैल 1917 and went to the residence of डॉ. राजेंद्र प्रसाद (who was away in Puri at the time). Later that evening, his former London classmate Maulana Mazharul Haque met him and took him to his house.",
-      "tip_hi": "Gandhi in Patna (10 अप्रैल 1917) visited डॉ. राजेंद्र प्रसाद's residence first with Raj Kumar Shukla."
+      "explanation_hi": "राज कुमार शुक्ला के साथ, गांधी 10 अप्रैल 1917 को पटना पहुंचे और डॉ. राजेंद्र प्रसाद (जो उस समय पुरी में थे) के आवास पर गए। उस शाम बाद में, उनके लंदन के पूर्व सहपाठी मौलाना मज़हरुल हक उनसे मिले और उन्हें अपने घर ले गए।",
+      "tip_hi": "गांधी जी पटना में (10 अप्रैल 1917) राज कुमार शुक्ल के साथ सबसे पहले डॉ. राजेंद्र प्रसाद के आवास पर गये।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी सहजानंद सरस्वती established the BPKS at Sonepur in नवम्बर 1929 to protect tenant farmers from zamindari eviction. He was elected राष्ट्रपति, and Dr. Sri Krishna Singh was appointed Secretary.",
-      "tip_hi": "Bihar Provincial Kisan Sabha (1929, Sonepur) = राष्ट्रपति: स्वामी सहजानंद सरस्वती; Secretary: Sri Krishna Singh."
+      "explanation_hi": "स्वामी सहजानंद सरस्वती ने किरायेदार किसानों को जमींदारी बेदखली से बचाने के लिए नवंबर 1929 में सोनपुर में बीपीकेएस की स्थापना की। वे अध्यक्ष चुने गये और डॉ. श्रीकृष्ण सिंह सचिव नियुक्त किये गये।",
+      "tip_hi": "बिहार प्रांतीय किसान सभा (1929, सोनपुर) = अध्यक्ष: स्वामी सहजानंद सरस्वती; सचिव: श्रीकृष्ण सिंह."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -571,7 +571,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In Champaran district, Salt Satyagraha began on 15 अप्रैल 1930 under Bipin Bihari Varma (Chairman of District Board) at Goad, manufacturing contraband salt. Saran and Champaran were the first two districts in Bihar to inaugurate the salt मार्च.",
+      "explanation_hi": "चंपारण जिले में, नमक सत्याग्रह 15 अप्रैल 1930 को बिपिन बिहारी वर्मा (जिला बोर्ड के अध्यक्ष) के नेतृत्व में गोआद में शुरू हुआ, जहां प्रतिबंधित नमक का निर्माण होता था। नमक मार्च का उद्घाटन करने वाले सारण और चंपारण बिहार के पहले दो जिले थे।",
       "tip_hi": "चंपारण में नमक सत्याग्रह = बिपिन बिहारी वर्मा के नेतृत्व में; पटना में = अंबिका कांत सिन्हा (नखास पिंड)।"
     },
     {
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Usha Mehta (along with Babubhai Prasad, Vithalbhai Jhaveri, and Dr. राम मनोहर लोहिया) set up the clandestine underground Congress Radio broadcasting on 42.34 metres band from secret locations in Bombay until their arrest in नवम्बर 1942.",
-      "tip_hi": "Underground Congress Radio (1942) = Usha Mehta and Dr. राम मनोहर लोहिया."
+      "explanation_hi": "डॉ. उषा मेहता (बाबूभाई प्रसाद, विट्ठलभाई झावेरी और डॉ. राम मनोहर लोहिया के साथ) ने नवंबर 1942 में अपनी गिरफ्तारी तक बंबई में गुप्त स्थानों से 42.34 मीटर बैंड पर गुप्त भूमिगत कांग्रेस रेडियो प्रसारण की स्थापना की।",
+      "tip_hi": "अंडरग्राउंड कांग्रेस रेडियो (1942) = उषा मेहता और डॉ. राम मनोहर लोहिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "While 22 मार्च 1912 was the date of declaration (celebrated as Bihar Diwas), the Province of Bihar and Orissa legally came into existence and began functioning administratively on 1 अप्रैल 1912 with Sir Charles Stuart Bayley as Lieutenant राज्यपाल.",
-      "tip_hi": "Bihar Diwas = 22 मार्च; Administrative inception = 1 अप्रैल 1912."
+      "explanation_hi": "जबकि 22 मार्च 1912 को घोषणा की तारीख थी (बिहार दिवस के रूप में मनाई गई), बिहार और उड़ीसा प्रांत कानूनी रूप से अस्तित्व में आए और 1 अप्रैल 1912 को लेफ्टिनेंट गवर्नर के रूप में सर चार्ल्स स्टुअर्ट बेले के साथ प्रशासनिक रूप से कार्य करना शुरू किया।",
+      "tip_hi": "बिहार दिवस = 22 मार्च; प्रशासनिक स्थापना = 1 अप्रैल 1912."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Burhi गंडक नदी originates from Chautarwa Chaur near the Someshwar hills in पश्चिम Champaran. It flows southeast through पूर्व Champaran, Muzaffarpur, Samastipur, and Begusarai before joining the गंगा नदी near Khagaria.",
-      "tip_hi": "Burhi गंडक नदी origin = Someshwar Range (Chautarwa Chaur, पश्चिम Champaran); joins गंगा नदी at Khagaria."
+      "explanation_hi": "बूढ़ी गंडक पश्चिम चंपारण में सोमेश्वर पहाड़ियों के निकट चौतरवा चौर से निकलती है। खगड़िया के पास गंगा में मिलने से पहले यह पूर्वी चंपारण, मुजफ्फरपुर, समस्तीपुर और बेगुसराय से होकर दक्षिण-पूर्व में बहती है।",
+      "tip_hi": "बूढ़ी गंडक का उद्गम = सोमेश्वर श्रेणी (चौतरवा चौर, पश्चिमी चंपारण); खगड़िया में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Balther soil is an अम्लीय, sandy-loamy to ferruginous soil with low water retention found along the Kaimur, Rohtas, Aurangabad, Gaya, Nawada, and Banka border foothills. Karail-Kewal is the heavy clayey alluvium of दक्षिण Bihar.",
-      "tip_hi": "Balther soil = Sandy, अम्लीय foothills soil of दक्षिण Bihar; Karail-Kewal = Heavy clayey alluvium."
+      "explanation_hi": "बाल्थर मिट्टी कैमूर, रोहतास, औरंगाबाद, गया, नवादा और बांका सीमा तलहटी में पाई जाने वाली कम पानी धारण वाली अम्लीय, रेतीली-दोमट से लेकर लौहयुक्त मिट्टी है। करैल-केवल दक्षिण बिहार का भारी मिट्टी वाला जलोढ़ है।",
+      "tip_hi": "बाल्थर मिट्टी = दक्षिण बिहार की रेतीली, अम्लीय तलहटी मिट्टी; करैल-केवल = भारी मिट्टीयुक्त जलोढ़।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -706,7 +706,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "'Loo' is the strong, scorching dry summer wind blowing from the Thar Desert eastward across northern India and Bihar के दौरान afternoon घंटे, causing heatstroke. Norwesters (Kalbaishakhi) are thunderstorm showers.",
+      "explanation_hi": "'लू' दोपहर के समय थार रेगिस्तान से पूर्व की ओर उत्तर भारत और बिहार में बहने वाली तेज़, चिलचिलाती शुष्क ग्रीष्म हवा है, जो लू का कारण बनती है। नॉरवेस्टर्स (कालबैशाखी) तूफानी वर्षा हैं।",
       "tip_hi": "गर्म शुष्क ग्रीष्म हवा = लू; आंधी-तूफ़ान प्री-मानसून वर्षा = कालबैशाखी (नॉर्वेस्टर)।"
     },
     {
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kaimur district leads Bihar with 31.56% of its area under forest cover (1,051.56 sq किमी), followed by Jamui (21.34%) and Nawada (20.72%). पश्चिम Champaran has the largest absolute forest area (903.34 sq किमी).",
-      "tip_hi": "Highest Forest प्रतिशत = Kaimur (31.56%); Highest Absolute Forest Area = Kaimur (1,051 sq किमी); Lowest forest = Sheikhpura."
+      "explanation_hi": "कैमूर जिला अपने 31.56% क्षेत्र पर वन क्षेत्र (1,051.56 वर्ग किमी) के साथ बिहार में सबसे आगे है, इसके बाद जमुई (21.34%) और नवादा (20.72%) का स्थान है। पश्चिम चंपारण में सबसे बड़ा पूर्ण वन क्षेत्र (903.34 वर्ग किमी) है।",
+      "tip_hi": "उच्चतम वन प्रतिशत = कैमूर (31.56%); उच्चतम निरपेक्ष वन क्षेत्र = कैमूर (1,051 वर्ग किमी); सबसे निचला जंगल = शेखपुरा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -760,7 +760,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jindhagada Peak (also के रूप में जाना जाता है Arma Konda) in the Araku Valley of Andhra Pradesh has an elevation of 1,690 metres, making it the highest peak of the Eastern Ghats. Mahendragiri (1,501 m) is in Odisha.",
+      "explanation_hi": "आंध्र प्रदेश की अराकू घाटी में जिंदगाड़ा चोटी (जिसे अरमा कोंडा के नाम से भी जाना जाता है) की ऊंचाई 1,690 मीटर है, जो इसे पूर्वी घाट की सबसे ऊंची चोटी बनाती है। महेंद्रगिरि (1,501 मीटर) ओडिशा में है।",
       "tip_hi": "पूर्वी घाट का उच्चतम भाग = जिंदहागाड़ा / अरमा कोंडा (1,690 मीटर); पश्चिमी घाट का उच्चतम भाग = अनामुडी (2,695 मीटर)।"
     },
     {
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 368 empowers संसद to amend by way of addition, variation or repeal any provision of the Constitution according to the procedure laid down therein, subject to the 'क्षारीय Structure' doctrine (Kesavananda Bharati case 1973).",
-      "tip_hi": "संशोधन of Constitution = अनुच्छेद 368 (Part XX, borrowed from दक्षिण Africa)."
+      "explanation_hi": "अनुच्छेद 368 संसद को 'मूल संरचना' सिद्धांत (केशवानंद भारती मामला 1973) के अधीन, उसमें निर्धारित प्रक्रिया के अनुसार संविधान के किसी भी प्रावधान को जोड़ने, बदलने या निरस्त करने के माध्यम से संशोधित करने का अधिकार देता है।",
+      "tip_hi": "संविधान में संशोधन = अनुच्छेद 368 (भाग XX, दक्षिण अफ्रीका से उधार लिया गया)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 356(3) mandates that a proclamation of राष्ट्रपति's Rule ceases to operate at the expiration of 2 माह unless approved by resolutions of both लोकसभा and राज्यसभा by simple majority. National Emergency (Art. 352) requires approval within 1 माह.",
-      "tip_hi": "Approval deadline: National Emergency (Art. 352) = 1 माह; राष्ट्रपति's Rule (Art. 356) = 2 माह; Financial Emergency (Art. 360) = 2 माह."
+      "explanation_hi": "अनुच्छेद 356(3) में कहा गया है कि राष्ट्रपति शासन की उद्घोषणा 2 महीने की समाप्ति पर लागू नहीं होती जब तक कि इसे लोकसभा और राज्यसभा दोनों के प्रस्तावों द्वारा साधारण बहुमत से अनुमोदित नहीं किया जाता। राष्ट्रीय आपातकाल (अनुच्छेद 352) के लिए 1 महीने के भीतर अनुमोदन की आवश्यकता होती है।",
+      "tip_hi": "अनुमोदन की समय सीमा: राष्ट्रीय आपातकाल (अनुच्छेद 352) = 1 महीना; राष्ट्रपति शासन (अनुच्छेद 356) = 2 महीने; वित्तीय आपातकाल (अनुच्छेद 360) = 2 महीने।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In light-dependent reactions of प्रकाश संश्लेषण, photosystem II splits water molecules: 2H2O -> 4H+ + 4e- + O2↑. C.B. van Niel and Robert Hill proved that evolved oxygen originates from water, not from CO2.",
-      "tip_hi": "Evolved Oxygen in प्रकाश संश्लेषण comes from Water (H2O), not from Carbon Dioxide."
+      "explanation_hi": "प्रकाश संश्लेषण की प्रकाश-निर्भर प्रतिक्रियाओं में, फोटोसिस्टम II पानी के अणुओं को विभाजित करता है: 2H2O -> 4H+ + 4e- + O2↑। सी.बी. वैन नील और रॉबर्ट हिल ने साबित किया कि विकसित ऑक्सीजन पानी से उत्पन्न होती है, CO2 से नहीं।",
+      "tip_hi": "प्रकाश संश्लेषण में विकसित ऑक्सीजन पानी (H2O) से आती है, कार्बन डाइऑक्साइड से नहीं।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1084,7 +1084,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Krishnaswamy Kasturirangan (former ISRO Chairman and member of योजना आयोग) chaired the 9-member committee that submitted the Draft National Education Policy in मई 2019, which formed the basis of NEP 2020.",
+      "explanation_hi": "डॉ. कृष्णास्वामी कस्तूरीरंगन (इसरो के पूर्व अध्यक्ष और योजना आयोग के सदस्य) ने मई 2019 में राष्ट्रीय शिक्षा नीति का मसौदा प्रस्तुत करने वाली 9 सदस्यीय समिति की अध्यक्षता की, जिसने एनईपी 2020 का आधार बनाया।",
       "tip_hi": "एनईपी 2020 मसौदा समिति के अध्यक्ष = डॉ. के. कस्तूरीरंगन।\nउत्तर कुंजी सारांश तालिका - सेट 11 (प्रश्न 401 से 440)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]

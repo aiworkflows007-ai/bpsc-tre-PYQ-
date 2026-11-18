@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from पश्चिम leads to दक्षिण-पश्चिम.",
-      "tip_hi": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from पश्चिम is दक्षिण-पश्चिम."
+      "explanation_hi": "शुद्ध घूर्णन = दक्षिणावर्त (45° + 180°) - वामावर्त (270°) = 225° - 270° = -45° (अर्थात् 45° वामावर्त)। पश्चिम से घड़ी की विपरीत दिशा में 45° मुड़ने पर दक्षिण-पश्चिम की ओर जाता है।",
+      "tip_hi": "शुद्ध कोण = 225° CW - 270° ACW = 45° ACW। पश्चिम से 45° वामावर्त दक्षिण-पश्चिम है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -85,8 +85,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "दक्षिण-पूर्व (135°) becomes उत्तर (0°/360°), जो कि an anti-clockwise rotation of 135°. Rotating पश्चिम (270°) by 135° anti-clockwise: 270° - 135° = 135° = दक्षिण-पूर्व.",
-      "tip_hi": "Rotation = 135° anti-clockwise. पश्चिम rotated 135° ACW becomes दक्षिण-पूर्व."
+      "explanation_hi": "दक्षिण-पूर्व (135°) उत्तर (0°/360°) बन जाता है, जो 135° का वामावर्त घूर्णन है। पश्चिम (270°) से 135° वामावर्त दिशा में घूमना: 270° - 135° = 135° = दक्षिण-पूर्व।",
+      "tip_hi": "घूर्णन = 135° वामावर्त। पश्चिम में 135° पर घुमाया गया ACW दक्षिण-पूर्व बन जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -274,7 +274,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In every 12-घंटे period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-घंटे दिन, they coincide 11 * 2 = 22 times.",
+      "explanation_hi": "प्रत्येक 12-घंटे की अवधि में, सूइयाँ ठीक 11 बार मेल खाती हैं (11:00 और 1:00 के बीच, वे 12:00 पर केवल एक बार मेल खाती हैं)। पूरे 24 घंटे के दिन में, वे 11 * 2 = 22 बार मेल खाते हैं।",
       "tip_hi": "12 घंटे में ओवरलैपिंग = 11 बार; 24 घंटे में ओवरलैपिंग = 22 बार।"
     },
     {
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total दिन from 15 Aug 1947 to 26 Jan 1950 = 895 दिन. Dividing 895 by 7 gives 127 सप्ताह and 6 odd दिन. Friday + 6 दिन = Thursday.",
-      "tip_hi": "15 अगस्त 1947 = Friday; 26 जनवरी 1950 = Thursday."
+      "explanation_hi": "15 अगस्त 1947 से 26 जनवरी 1950 तक कुल दिन = 895 दिन। 895 को 7 से विभाजित करने पर 127 सप्ताह और 6 विषम दिन प्राप्त होते हैं। शुक्रवार + 6 दिन = गुरुवार.",
+      "tip_hi": "15 अगस्त 1947 = शुक्रवार; 26 जनवरी 1950 = गुरुवार."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "At 4:00, the hands are 20 मिनट spaces apart. To coincide, the मिनट hand must gain 20 spaces over the घंटे hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) मिनट past 4.",
-      "tip_hi": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) मिनट past 4."
+      "explanation_hi": "4:00 बजे, सूइयां 20 मिनट की दूरी पर होती हैं। संयोग के लिए, मिनट की सुई को घंटे की सुई से 20 स्थान आगे बढ़ना चाहिए। समय = 20 * (60/55) = 20 * (12/11) = 240/11 = 4 बजकर 21(9/11) मिनट।",
+      "tip_hi": "शॉर्टकट: एम = (60/11) * एच = (60/11) * 4 = 240/11 = 4 बजकर 21(9/11) मिनट।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT (Classes 9-10)",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "World Earth दिन is celebrated annually on अप्रैल 22 to mobilize global support for environmental protection. World Health दिन is अप्रैल 7 and World Ozone दिन is सितम्बर 16.",
-      "tip_hi": "Calendar of environment दिन: 22 मार्च = World Water दिन; 22 अप्रैल = World Earth दिन; 22 मई = International Biological Diversity दिन."
+      "explanation_hi": "पर्यावरण संरक्षण के लिए वैश्विक समर्थन जुटाने के लिए प्रतिवर्ष 22 अप्रैल को विश्व पृथ्वी दिवस मनाया जाता है। विश्व स्वास्थ्य दिवस 7 अप्रैल है और विश्व ओजोन दिवस 16 सितंबर है।",
+      "tip_hi": "पर्यावरण दिवसों का कैलेंडर: 22 मार्च = विश्व जल दिवस; 22 अप्रैल = विश्व पृथ्वी दिवस; 22 मई = अंतर्राष्ट्रीय जैविक विविधता दिवस."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",

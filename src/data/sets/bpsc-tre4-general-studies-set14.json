@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "15, 20, 25 का एलसीएम = 300 इकाई क्षमता। A की दक्षता = +20, B = +15, C = -12 यूनिट/घंटा। शुद्ध प्रवाह = 20 + 15 - 12 = 23 यूनिट/घंटा। आवश्यक समय = 300/23 घंटे = 13.04 घंटे।",
-      "tip_hi": "Net rate = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => Time = 300/23 घंटे."
+      "tip_hi": "शुद्ध दर = 1/15 + 1/20 - 1/25 = (20 + 15 - 12)/300 = 23/300 => समय = 300/23 घंटे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "At 4:00, the hands are 20 मिनट spaces apart. To coincide, the मिनट hand must gain 20 spaces over the घंटे hand. Time = 20 * (60/55) = 20 * (12/11) = 240/11 = 21(9/11) मिनट past 4.",
-      "tip_hi": "Shortcut: M = (60/11) * H = (60/11) * 4 = 240/11 = 21(9/11) मिनट past 4."
+      "explanation_hi": "4:00 बजे, सूइयां 20 मिनट की दूरी पर होती हैं। संयोग के लिए, मिनट की सुई को घंटे की सुई से 20 स्थान आगे बढ़ना चाहिए। समय = 20 * (60/55) = 20 * (12/11) = 240/11 = 4 बजकर 21(9/11) मिनट।",
+      "tip_hi": "शॉर्टकट: एम = (60/11) * एच = (60/11) * 4 = 240/11 = 4 बजकर 21(9/11) मिनट।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -247,7 +247,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "1 kWh = 1,000 Watts * 3,600 सेकंड = 3,600,000 वाट-सेकंड = 3.6 × 10^6 Joules.",
+      "explanation_hi": "1 kWh = 1,000 वॉट * 3,600 सेकंड = 3,600,000 वॉट-सेकंड = 3.6 × 10^6 जूल।",
       "tip_hi": "1 वाणिज्यिक विद्युत इकाई = 1 kWh = 3.6 * 10^6 J."
     },
     {
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ribosomes are non-membrane-bound ribonucleoprotein complexes that translate genetic mRNA sequences into polypeptide chains (proteins). They exist free in कोशिकाद्रव्य or bound to rough endoplasmic reticulum.",
-      "tip_hi": "Protein factory = Ribosomes; Powerhouse = माइटोकॉन्ड्रिया; Packaging centre = Golgi apparatus."
+      "explanation_hi": "राइबोसोम गैर-झिल्ली-बाध्य राइबोन्यूक्लियोप्रोटीन कॉम्प्लेक्स हैं जो आनुवंशिक एमआरएनए अनुक्रमों को पॉलीपेप्टाइड श्रृंखलाओं (प्रोटीन) में अनुवादित करते हैं। वे साइटोप्लाज्म में स्वतंत्र रूप से मौजूद होते हैं या खुरदरे एंडोप्लाज्मिक रेटिकुलम से बंधे होते हैं।",
+      "tip_hi": "प्रोटीन फ़ैक्टरी = राइबोसोम; पावरहाउस = माइटोकॉन्ड्रिया; पैकेजिंग केंद्र = गोल्गी उपकरण।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Hot ground heats the lowest air layers, making them optically less dense than upper cooler layers. Light rays from the sky bend continuously away from the normal until the angle of incidence exceeds the critical angle, undergoing पूर्ण आंतरिक परावर्तन.",
-      "tip_hi": "Mirage in deserts = पूर्ण आंतरिक परावर्तन (TIR) + Atmospheric अपवर्तन."
+      "explanation_hi": "गर्म ज़मीन निचली वायु परतों को गर्म करती है, जिससे वे ऊपरी ठंडी परतों की तुलना में वैकल्पिक रूप से कम घनी हो जाती हैं। आकाश से प्रकाश की किरणें सामान्य से लगातार दूर मुड़ती रहती हैं जब तक कि आपतन कोण क्रांतिक कोण से अधिक न हो जाए, पूर्ण आंतरिक परावर्तन से गुजरती है।",
+      "tip_hi": "रेगिस्तान में मृगतृष्णा = कुल आंतरिक परावर्तन (टीआईआर) + वायुमंडलीय अपवर्तन।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Due to ill health, डॉ. राजेंद्र प्रसाद had not traveled to Bombay. Patna District Magistrate W. G. Archer arrested him from Sadaqat Ashram on 9 अगस्त 1942 and detained him in Bankipur Central Jail, where he wrote his autobiography 'Atmakatha'.",
-      "tip_hi": "डॉ. राजेंद्र प्रसाद detained in 1942 = Bankipur Jail (Patna); जयप्रकाश नारायण = Hazaribagh Jail."
+      "explanation_hi": "ख़राब स्वास्थ्य के कारण डॉ. राजेंद्र प्रसाद ने बम्बई की यात्रा नहीं की थी। 9 अगस्त 1942 को पटना के जिला मजिस्ट्रेट डब्ल्यू जी आर्चर ने उन्हें सदाकत आश्रम से गिरफ्तार कर लिया और बांकीपुर सेंट्रल जेल में बंद कर दिया, जहां उन्होंने अपनी आत्मकथा 'आत्मकथा' लिखी।",
+      "tip_hi": "1942 में डॉ. राजेंद्र प्रसाद को हिरासत में लिया गया = बांकीपुर जेल (पटना); जयप्रकाश नारायण=हजारीबाग जेल।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Dr. Sri Krishna Singh (के रूप में जाना जाता है 'Sri Babu' and 'Bihar Kesari') served as the premier/मुख्यमंत्री of Bihar continuously from 1937-39 and from 1946 until his death in 1961. Dr. Anugrah Narayan Sinha ('Bihar Vibhuti') served as Deputy मुख्यमंत्री and Finance Minister.",
-      "tip_hi": "'Bihar Kesari' = Dr. Sri Krishna Singh; 'Bihar Vibhuti' = Dr. Anugrah Narayan Sinha; 'Loknayak' = जयप्रकाश नारायण."
+      "explanation_hi": "डॉ. श्रीकृष्ण सिंह ('श्री बाबू' और 'बिहार केसरी' के नाम से जाने जाते हैं) ने 1937-39 और 1946 से 1961 में अपनी मृत्यु तक लगातार बिहार के प्रधान मंत्री/मुख्यमंत्री के रूप में कार्य किया। डॉ. अनुग्रह नारायण सिन्हा ('बिहार विभूति') ने उप मुख्यमंत्री और वित्त मंत्री के रूप में कार्य किया।",
+      "tip_hi": "'बिहार केसरी' = डॉ. श्रीकृष्ण सिंह; 'बिहार विभूति' = डॉ. अनुग्रह नारायण सिन्हा; 'लोकनायक'=जयप्रकाश नारायण."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -571,7 +571,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Jairamdas Daulatram served as the first राज्यपाल of Bihar in independent India from 15 अगस्त 1947 to 11 जनवरी 1948. (Sir James David Sifton was the first राज्यपाल of Bihar when Orissa separated in 1936).",
+      "explanation_hi": "जयरामदास दौलतराम ने 15 अगस्त 1947 से 11 जनवरी 1948 तक स्वतंत्र भारत में बिहार के पहले राज्यपाल के रूप में कार्य किया। (1936 में उड़ीसा अलग होने पर सर जेम्स डेविड सिफ्टन बिहार के पहले राज्यपाल थे)।",
       "tip_hi": "स्वतंत्र भारत में बिहार के प्रथम राज्यपाल = जयरामदास दौलतराम (15 अगस्त 1947)।"
     },
     {
@@ -625,7 +625,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मुख्यमंत्री Nitish Kumar inaugurated the 411-metre-long and 3-metre-high 'Gayaji Dam' on the Falgu River near Vishnupad Temple on 8 सितम्बर 2022 to maintain round-the-वर्ष water depth for pilgrims.",
+      "explanation_hi": "मुख्यमंत्री नीतीश कुमार ने तीर्थयात्रियों के लिए साल भर पानी की गहराई बनाए रखने के लिए 8 सितंबर 2022 को विष्णुपद मंदिर के पास फल्गु नदी पर 411 मीटर लंबे और 3 मीटर ऊंचे 'गयाजी बांध' का उद्घाटन किया।",
       "tip_hi": "भारत का सबसे बड़ा रबर बांध = फल्गु नदी पर गयाजी बांध (गया, 411 मीटर लंबा)।"
     },
     {
@@ -706,7 +706,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Lonar Lake is a hypersaline and alkaline crater lake formed by a high-velocity extraterrestrial meteorite impact into Deccan basalt rock के दौरान the Pleistocene epoch (~50,000 वर्ष ago).",
+      "explanation_hi": "लोनार झील एक अति लवणीय और क्षारीय क्रेटर झील है, जो प्लेइस्टोसिन युग (~50,000 वर्ष पूर्व) के दौरान डेक्कन बेसाल्ट चट्टान में एक उच्च-वेग अलौकिक उल्कापिंड के प्रभाव से बनी थी।",
       "tip_hi": "भारत में उल्कापिंड प्रभाव क्रेटर झील = लोनार झील (महाराष्ट्र, रामसर साइट)।"
     },
     {
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 123 empowers the राष्ट्रपति to promulgate Ordinances when either House of संसद is not in session, having the same force and effect as an Act of संसद. An अध्यादेश must be approved by संसद within 6 सप्ताह of reassembly.",
-      "tip_hi": "अध्यादेश promulgation: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
+      "explanation_hi": "अनुच्छेद 123 राष्ट्रपति को अध्यादेश प्रख्यापित करने का अधिकार देता है जब संसद का कोई भी सदन सत्र में नहीं होता है, जिसका बल और प्रभाव संसद के अधिनियम के समान होता है। किसी भी अध्यादेश को संसद की दोबारा बैठक के 6 सप्ताह के भीतर मंजूरी मिलनी चाहिए।",
+      "tip_hi": "अध्यादेश प्रख्यापन: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 312 provides that if the राज्यसभा declares by resolution supported by not less than two-thirds of members present and voting that it is necessary in the national interest, संसद मई by law create new All-India Services.",
-      "tip_hi": "Exclusive special powers of राज्यसभा: अनुच्छेद 249 (State list legislation) and अनुच्छेद 312 (New All-India Services)."
+      "explanation_hi": "अनुच्छेद 312 में प्रावधान है कि यदि राज्यसभा उपस्थित और मतदान करने वाले कम से कम दो-तिहाई सदस्यों द्वारा समर्थित प्रस्ताव द्वारा घोषणा करती है कि यह राष्ट्रीय हित में आवश्यक है, तो संसद कानून द्वारा नई अखिल भारतीय सेवाएं बना सकती है।",
+      "tip_hi": "राज्यसभा की विशिष्ट विशेष शक्तियाँ: अनुच्छेद 249 (राज्य सूची विधान) और अनुच्छेद 312 (नई अखिल भारतीय सेवाएँ)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -815,7 +815,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "आपातकालीन शक्तियों के दुरुपयोग को रोकने के लिए (जैसा कि 1975 में 'आंतरिक गड़बड़ी' के बहाने हुआ था), 44वें संशोधन ने राष्ट्रीय आपातकालीन आधार को युद्ध, बाहरी आक्रमण, या 'सशस्त्र विद्रोह' तक सीमित कर दिया, जिसके लिए केंद्रीय मंत्रिमंडल की लिखित सिफारिश की आवश्यकता थी।",
-      "tip_hi": "44th संशोधन substituted 'Armed Rebellion' for 'Internal Disturbance' in अनुच्छेद 352."
+      "tip_hi": "44वें संशोधन ने अनुच्छेद 352 में 'आंतरिक अशांति' के स्थान पर 'सशस्त्र विद्रोह' को प्रतिस्थापित कर दिया।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 106th संविधान संशोधन अधिनियम 2023 (128th संशोधन Bill) inserted Articles 330A and 332A, reserving one-third of seats for women in the लोकसभा, State Legislative Assemblies, and Delhi Assembly for 15 वर्ष, to be implemented after delimitation following the next जनगणना.",
-      "tip_hi": "Women's Reservation in संसद (33%) = 106th संशोधन अधिनियम 2023 (Nari Shakti Vandan Adhiniyam)."
+      "explanation_hi": "106वें संवैधानिक संशोधन अधिनियम 2023 (128वें संशोधन विधेयक) में अनुच्छेद 330ए और 332ए शामिल किए गए, जिसके तहत लोकसभा, राज्य विधानसभाओं और दिल्ली विधानसभा में महिलाओं के लिए 15 वर्षों के लिए एक तिहाई सीटें आरक्षित की गईं, जिन्हें अगली जनगणना के बाद परिसीमन के बाद लागू किया जाएगा।",
+      "tip_hi": "संसद में महिला आरक्षण (33%) = 106वां संशोधन अधिनियम 2023 (नारी शक्ति वंदन अधिनियम)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The well-drained alluvial tract along the Burhi गंडक नदी and कोसी नदी rivers (comprising Khagaria, Begusarai, Samastipur, and Saharsa) forms the 'Corn Belt of Bihar', recording winter maize productivity exceeding 50 quintals/hectare.",
-      "tip_hi": "Maize bowl of Bihar = Khagaria, Begusarai, Samastipur (Burhi गंडक नदी & कोसी नदी plains)."
+      "explanation_hi": "बूढ़ी गंडक और कोसी नदियों (खगड़िया, बेगुसराय, समस्तीपुर और सहरसा को मिलाकर) के साथ अच्छी तरह से सूखा जलोढ़ पथ 'बिहार का मकई बेल्ट' बनाता है, जिसमें शीतकालीन मक्का उत्पादकता 50 क्विंटल/हेक्टेयर से अधिक दर्ज की जाती है।",
+      "tip_hi": "बिहार का मक्का का कटोरा = खगड़िया, बेगुसराय, समस्तीपुर (बूढ़ी गंडक और कोसी का मैदान)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -1057,8 +1057,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 143 confers Advisory Jurisdiction on the सर्वोच्च न्यायालय. The राष्ट्रपति मई refer a question of public importance to the सर्वोच्च न्यायालय for opinion. The opinion rendered is purely advisory and not binding on the राष्ट्रपति.",
-      "tip_hi": "Advisory Jurisdiction of सर्वोच्च न्यायालय = अनुच्छेद 143; Original Jurisdiction = अनुच्छेद 131; Special Leave Petition = अनुच्छेद 136."
+      "explanation_hi": "अनुच्छेद 143 सर्वोच्च न्यायालय को सलाहकारी क्षेत्राधिकार प्रदान करता है। राष्ट्रपति सार्वजनिक महत्व के किसी प्रश्न को राय के लिए सर्वोच्च न्यायालय को भेज सकते हैं। दी गई राय पूरी तरह से सलाहकारी है और राष्ट्रपति पर बाध्यकारी नहीं है।",
+      "tip_hi": "सर्वोच्च न्यायालय का सलाहकार क्षेत्राधिकार = अनुच्छेद 143; मूल क्षेत्राधिकार = अनुच्छेद 131; विशेष अनुमति याचिका = अनुच्छेद 136."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",

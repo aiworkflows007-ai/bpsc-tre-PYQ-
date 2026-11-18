@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "ऑप्टिकल फाइबर में एक कोर होता है जो कम अपवर्तक सूचकांक के आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर कोर में प्रक्षेपित प्रकाश नगण्य सिग्नल हानि के साथ बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
-      "tip_hi": "ऑप्टिकल फाइबर = पूर्ण आंतरिक परावर्तन (TIR); Core refractive index > Cladding refractive index."
+      "tip_hi": "ऑप्टिकल फाइबर = कुल आंतरिक परावर्तन (टीआईआर); कोर अपवर्तक सूचकांक > क्लैडिंग अपवर्तक सूचकांक।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Domestic एलपीजी (द्रवीभूत पेट्रोलियम गैस) consists primarily of n-ब्यूटेन and isobutane (~60%) along with प्रोपेन (~40%). A मिनट quantity of ethyl mercaptan (ethanethiol, C2H5SH) is added as a foul-smelling stenching agent to detect gas leaks.",
-      "tip_hi": "एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन; Odorant for leak detection = Ethyl Mercaptan."
+      "explanation_hi": "घरेलू एलपीजी में मुख्य रूप से एन-ब्यूटेन और आइसोब्यूटेन (~60%) के साथ-साथ प्रोपेन (~40%) होता है। गैस लीक का पता लगाने के लिए दुर्गंधयुक्त बदबूदार एजेंट के रूप में एथिल मर्कैप्टन (एथेनथियोल, C2H5SH) की एक मिनट की मात्रा मिलाई जाती है।",
+      "tip_hi": "एलपीजी = ब्यूटेन + प्रोपेन; रिसाव का पता लगाने के लिए गंधक = एथिल मर्कैप्टन।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांस्य (तांबा + टिन) is an alloy of Copper (~88-90%) and Tin (~10-12%). पीतल (तांबा + जस्ता) is an alloy of Copper and Zinc. सोल्डर (सीसा + टिन) is an alloy of Lead and Tin.",
-      "tip_hi": "कांस्य (तांबा + टिन) = Copper + Tin (Cu + Sn); पीतल (तांबा + जस्ता) = Copper + Zinc (Cu + Zn); सोल्डर (सीसा + टिन) = Lead + Tin (Pb + Sn)."
+      "explanation_hi": "कांस्य तांबे (~88-90%) और टिन (~10-12%) का एक मिश्र धातु है। पीतल, तांबा और जस्ता का एक मिश्र धातु है। सोल्डर सीसा और टिन का एक मिश्रधातु है।",
+      "tip_hi": "कांस्य = तांबा + टिन (Cu + Sn); पीतल = तांबा + जस्ता (Cu + Zn); सोल्डर = लेड + टिन (पीबी + एसएन)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -464,7 +464,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "राज कुमार शुक्ल ने दिसंबर 1916 में लखनऊ में 31वें कांग्रेस अधिवेशन में बृजकिशोर प्रसाद के साथ भाग लिया और गांधीजी को नील किसानों की शिकायतों से अवगत कराया और उनसे चंपारण आने का वादा लिया।",
-      "tip_hi": "1916 Lucknow Session = Raj Kumar Shukla invited महात्मा गांधी to Champaran."
+      "tip_hi": "1916 लखनऊ अधिवेशन = राज कुमार शुक्ल ने महात्मा गांधी को चंपारण में आमंत्रित किया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 27 नवम्बर 1940, Dr. Sri Krishna Singh inaugurated Individual Satyagraha in Bihar by delivering an anti-war speech at Patna and was arrested. Dr. Anugrah Narayan Sinha was the सेकंड individual satyagrahi of Bihar.",
-      "tip_hi": "Individual Satyagraha in India: 1st = Vinoba Bhave, 2nd = जवाहरलाल नेहरू. In Bihar: 1st = Sri Krishna Singh, 2nd = Anugrah Narayan Sinha."
+      "explanation_hi": "27 नवंबर 1940 को डॉ. श्रीकृष्ण सिंह ने पटना में युद्ध-विरोधी भाषण देकर बिहार में व्यक्तिगत सत्याग्रह का उद्घाटन किया और गिरफ्तार कर लिये गये। डॉ. अनुग्रह नारायण सिन्हा बिहार के दूसरे व्यक्तिगत सत्याग्रही थे।",
+      "tip_hi": "भारत में व्यक्तिगत सत्याग्रह: पहला = विनोबा भावे, दूसरा = जवाहरलाल नेहरू। बिहार में: प्रथम = श्रीकृष्ण सिंह, द्वितीय = अनुग्रह नारायण सिन्हा।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established under Letters Patent issued by King George V, Patna उच्च न्यायालय was formally opened by Viceroy Lord Hardinge on 3 फरवरी 1916. Sir Edward Maynard Des Champs Chamier was appointed its first Chief Justice.",
-      "tip_hi": "Patna उच्च न्यायालय inaugurated = 3 फरवरी 1916 (1st Chief Justice: Sir Edward Chamier)."
+      "explanation_hi": "किंग जॉर्ज पंचम द्वारा जारी लेटर्स पेटेंट के तहत स्थापित, पटना उच्च न्यायालय को औपचारिक रूप से 3 फरवरी 1916 को वायसराय लॉर्ड हार्डिंग द्वारा खोला गया था। सर एडवर्ड मेनार्ड डेस चैंप्स चैमियर को इसका पहला मुख्य न्यायाधीश नियुक्त किया गया था।",
+      "tip_hi": "पटना उच्च न्यायालय का उद्घाटन = 3 फरवरी 1916 (प्रथम मुख्य न्यायाधीश: सर एडवर्ड चैमियर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Punpun River flows northeast through Aurangabad, Arwal, and Patna districts and joins the right bank of the गंगा नदी at Fatuha, approximately 25 किमी downstream of Patna.",
-      "tip_hi": "Punpun joins गंगा नदी at Fatuha; सोन नदी joins गंगा नदी at Danapur/Maner; गंडक नदी joins at Sonpur."
+      "explanation_hi": "पुनपुन नदी उत्तर-पूर्व में औरंगाबाद, अरवल और पटना जिलों से होकर बहती है और पटना से लगभग 25 किमी नीचे फतुहा में गंगा के दाहिने किनारे से मिलती है।",
+      "tip_hi": "फतुहा में पुनपुन गंगा से मिलती है; दानापुर/मनेर में बेटा गंगा में मिला; गंडक सोनपुर में मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -571,7 +571,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Kishanganj, located at the extreme northeastern border of Bihar adjoining the Sub-Himalayan पश्चिम Bengal hills, receives the highest annual rainfall in the State (>180 सेमी to 200 सेमी).",
+      "explanation_hi": "उप-हिमालयी पश्चिम बंगाल की पहाड़ियों से सटे बिहार की चरम उत्तरपूर्वी सीमा पर स्थित किशनगंज में राज्य में सबसे अधिक वार्षिक वर्षा (>180 सेमी से 200 सेमी) होती है।",
       "tip_hi": "बिहार में सर्वाधिक वर्षा = किशनगंज; सबसे कम वर्षा = औरंगाबाद/अरवल."
     },
     {
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The सोन नदी Canal System was completed in 1874 by constructing an anicut weir across the सोन नदी River at Dehri (Rohtas). It bifurcates into the Western सोन नदी Canal (irrigating Rohtas, Bhojpur) and Eastern सोन नदी Canal (Aurangabad, Gaya, Patna).",
-      "tip_hi": "Oldest canal system in Bihar = सोन नदी Canal System (1874, Dehri-on-सोन नदी)."
+      "explanation_hi": "सोन नहर प्रणाली 1874 में डेहरी (रोहतास) में सोन नदी पर एक एनीकट बांध का निर्माण करके पूरी की गई थी। यह पश्चिमी सोन नहर (रोहतास, भोजपुर को सिंचित करती है) और पूर्वी सोन नहर (औरंगाबाद, गया, पटना) में विभाजित होती है।",
+      "tip_hi": "बिहार में सबसे पुरानी नहर प्रणाली = सोन नहर प्रणाली (1874, डेहरी-ऑन-सोन)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -652,8 +652,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 94(b) of the Constitution of India, a member holding office as अध्यक्ष (स्पीकर) मई at any time resign his office by writing under his hand addressed to the Deputy अध्यक्ष (स्पीकर).",
-      "tip_hi": "अध्यक्ष (स्पीकर) resigns to Deputy अध्यक्ष (स्पीकर); Deputy अध्यक्ष (स्पीकर) resigns to अध्यक्ष (स्पीकर); राष्ट्रपति resigns to Vice-राष्ट्रपति."
+      "explanation_hi": "भारत के संविधान के अनुच्छेद 94 (बी) के तहत, अध्यक्ष के रूप में पद धारण करने वाला सदस्य किसी भी समय उपाध्यक्ष को संबोधित अपने हस्ताक्षर के तहत लिखकर अपने पद से इस्तीफा दे सकता है।",
+      "tip_hi": "स्पीकर ने डिप्टी स्पीकर को दिया इस्तीफा; डिप्टी स्पीकर ने स्पीकर को दिया इस्तीफा; राष्ट्रपति ने उपराष्ट्रपति को इस्तीफा दिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 50 obligates the State to take steps to separate the judiciary from the executive in public services. अनुच्छेद 40 deals with village panchayats, and अनुच्छेद 51 deals with international peace.",
-      "tip_hi": "अनुच्छेद 50 = Separation of Judiciary from Executive; अनुच्छेद 40 = Panchayats; अनुच्छेद 44 = Uniform Civil Code."
+      "explanation_hi": "अनुच्छेद 50 राज्य को सार्वजनिक सेवाओं में न्यायपालिका को कार्यपालिका से अलग करने के लिए कदम उठाने के लिए बाध्य करता है। अनुच्छेद 40 ग्राम पंचायतों से संबंधित है, और अनुच्छेद 51 अंतरराष्ट्रीय शांति से संबंधित है।",
+      "tip_hi": "अनुच्छेद 50 = न्यायपालिका का कार्यपालिका से पृथक्करण; अनुच्छेद 40 = पंचायतें; अनुच्छेद 44 = समान नागरिक संहिता."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi released the summary report of 5th cycle of Management Effectiveness Evaluation of Tiger Reserves commemorating 50 वर्ष of Project Tiger, recording a minimum camera-trapped tiger count of 3,167.",
-      "tip_hi": "5th Tiger जनगणना (अप्रैल 2023) = 3,167 tigers (up from 2,967 in 2018)."
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने प्रोजेक्ट टाइगर के 50 साल पूरे होने के उपलक्ष्य में टाइगर रिजर्व के प्रबंधन प्रभावशीलता मूल्यांकन के 5वें चक्र की सारांश रिपोर्ट जारी की, जिसमें कैमरे में कैद बाघों की न्यूनतम संख्या 3,167 दर्ज की गई।",
+      "tip_hi": "5वीं बाघ गणना (अप्रैल 2023) = 3,167 बाघ (2018 में 2,967 से अधिक)।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -869,7 +869,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "शहरीकरण और सेलुलर विकिरण के कारण इसकी खतरनाक गिरावट के खिलाफ जागरूकता बढ़ाने के लिए हाउस स्पैरो (पासर डोमेस्टिकस) को 2013 में बिहार के राज्य पक्षी के रूप में नामित किया गया था।",
-      "tip_hi": "State Bird of Bihar = House Sparrow (गौरैया); 20 मार्च = World Sparrow दिन."
+      "tip_hi": "बिहार का राज्य पक्षी = घरेलू गौरैया (गौरैया); 20 मार्च = विश्व गौरैया दिवस."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 53(2) of the Constitution provides that the supreme command of the Defence Forces of the Union shall be vested in the राष्ट्रपति and the exercise thereof shall be regulated by law.",
-      "tip_hi": "Supreme Commander of Armed Forces = राष्ट्रपति of India (अनुच्छेद 53(2))."
+      "explanation_hi": "संविधान के अनुच्छेद 53(2) में प्रावधान है कि संघ के रक्षा बलों की सर्वोच्च कमान राष्ट्रपति में निहित होगी और इसका प्रयोग कानून द्वारा नियंत्रित किया जाएगा।",
+      "tip_hi": "सशस्त्र बलों का सर्वोच्च कमांडर = भारत का राष्ट्रपति (अनुच्छेद 53(2))।"
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1030,8 +1030,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 72 grants pardoning powers to the राष्ट्रपति for offences against Union laws, court-martial sentences, and all death sentences. The राज्यपाल has corresponding pardoning powers under अनुच्छेद 161 (except court martial and death sentence pardon).",
-      "tip_hi": "Pardoning Power: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
+      "explanation_hi": "अनुच्छेद 72 राष्ट्रपति को संघीय कानूनों, कोर्ट-मार्शल सजाओं और सभी मौत की सजाओं के खिलाफ अपराधों को माफ करने की शक्तियां प्रदान करता है। राज्यपाल के पास अनुच्छेद 161 के तहत क्षमादान की शक्तियाँ हैं (कोर्ट मार्शल और मृत्युदंड क्षमा को छोड़कर)।",
+      "tip_hi": "क्षमादान शक्ति: राष्ट्रपति = अनुच्छेद 72; राज्यपाल = अनुच्छेद 161."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1058,7 +1058,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बिहार विधान सभा (विधानसभा) में 243 सीधे निर्वाचित सीटें हैं (38 अनुसूचित जाति के लिए आरक्षित और 2 अनुसूचित जनजाति के लिए आरक्षित: मनिहारी और कटोरिया)।",
-      "tip_hi": "Bihar Legislative Assembly = 243 seats; Legislative Council = 75 seats; लोकसभा = 40 seats; राज्यसभा = 16 seats."
+      "tip_hi": "बिहार विधान सभा = 243 सीटें; विधान परिषद = 75 सीटें; लोकसभा = 40 सीटें; राज्यसभा = 16 सीटें."
     },
     {
       "source": "BPSC TRE 2.0 - Headmaster / Secondary Paper",
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Bihar has 40 seats in the लोकसभा (of which 6 are reserved for Scheduled Castes: Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) and 16 seats in the राज्यसभा.",
-      "tip_hi": "Parliamentary representation of Bihar: लोकसभा = 40 seats; राज्यसभा = 16 seats.\nAnswer Key Summary Table — Set 12 (Questions 441 to 480)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "बिहार में लोकसभा की 40 सीटें हैं (जिनमें से 6 अनुसूचित जाति के लिए आरक्षित हैं: गोपालगंज, हाजीपुर, समस्तीपुर, सासाराम, गया और जमुई) और राज्यसभा में 16 सीटें हैं।",
+      "tip_hi": "बिहार का संसदीय प्रतिनिधित्व: लोकसभा = 40 सीटें; राज्यसभा = 16 सीटें.\nउत्तर कुंजी सारांश तालिका - सेट 12 (प्रश्न 441 से 480)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

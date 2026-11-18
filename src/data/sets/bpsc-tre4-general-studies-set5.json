@@ -31,7 +31,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Cost price of 1 अनुच्छेद = 20/25 = ₹0.80. Selling price of 1 अनुच्छेद = 25/20 = ₹1.25. Profit per अनुच्छेद = 1.25 - 0.80 = ₹0.45. Profit % = (0.45 / 0.80) * 100 = 56.25%.",
+      "explanation_hi": "1 वस्तु का लागत मूल्य = 20/25 = ₹0.80. 1 वस्तु का विक्रय मूल्य = 25/20 = ₹1.25. प्रति वस्तु लाभ = 1.25 - 0.80 = ₹0.45। लाभ % = (0.45 / 0.80) * 100 = 56.25%।",
       "tip_hi": "क्रॉस-गुणा ट्रिक: (25*25 - 20*20) / (20*20) * 100 = (625 - 400)/400 * 100 = 225/4 = 56.25%।"
     },
     {
@@ -193,7 +193,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Initial direction = पूर्व. Turning right from पूर्व turns him to face दक्षिण. Turning left from दक्षिण turns him back to face पूर्व.",
+      "explanation_hi": "प्रारंभिक दिशा = पूर्व. पूर्व से दाएं मुड़ने पर उसका मुख दक्षिण की ओर हो जाता है। दक्षिण से बायीं ओर मुड़ने पर वह वापस पूर्व की ओर मुड़ जाता है।",
       "tip_hi": "दाएँ मोड़ (+90 डिग्री) के बाद बाएँ मोड़ (-90 डिग्री) रद्द हो जाता है; मुख दिशा पूर्व रहती है."
     },
     {
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ant stings inject methanoic acid (common name फॉर्मिक अम्ल, HCOOH). It is neutralized by applying mild क्षारीय substances such as बेकिंग सोडा (NaHCO3) (sodium hydrogen carbonate) or calamine lotion (zinc carbonate).",
-      "tip_hi": "फॉर्मिक अम्ल = Ant sting; Vinegar = एसिटिक अम्ल; Tomato = ऑक्सालिक अम्ल; Tamarind = टार्टरिक अम्ल."
+      "explanation_hi": "चींटी के डंक से मेथेनोइक एसिड (सामान्य नाम फॉर्मिक एसिड, HCOOH) निकलता है। बेकिंग सोडा (सोडियम हाइड्रोजन कार्बोनेट) या कैलामाइन लोशन (जिंक कार्बोनेट) जैसे हल्के बुनियादी पदार्थ लगाने से इसे बेअसर किया जाता है।",
+      "tip_hi": "फॉर्मिक एसिड = चींटी का डंक; सिरका = एसिटिक अम्ल; टमाटर = ऑक्सालिक एसिड; इमली = टार्टरिक एसिड."
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rainbow formation involves अपवर्तन and वर्ण विक्षेपण of sunlight as it enters water droplets, followed by पूर्ण आंतरिक परावर्तन at the back of the droplet, and अपवर्तन again as it exits.",
-      "tip_hi": "Three-stage optical process: अपवर्तन -> वर्ण विक्षेपण -> पूर्ण आंतरिक परावर्तन."
+      "explanation_hi": "इंद्रधनुष के निर्माण में सूर्य के प्रकाश का अपवर्तन और फैलाव शामिल होता है क्योंकि यह पानी की बूंदों में प्रवेश करता है, इसके बाद बूंद के पीछे पूर्ण आंतरिक प्रतिबिंब होता है, और बाहर निकलने पर फिर से अपवर्तन होता है।",
+      "tip_hi": "तीन चरण वाली ऑप्टिकल प्रक्रिया: अपवर्तन -> फैलाव -> कुल आंतरिक परावर्तन।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्लास्टर ऑफ पेरिस is calcium sulphate hemihydrate, CaSO4 · 1/2H2O (or 2CaSO4 · H2O), formed by heating जिप्सम (CaSO4 · 2H2O) at 373 K (100°C).",
-      "tip_hi": "जिप्सम = dihydrate (2H2O); प्लास्टर ऑफ पेरिस = hemihydrate (1/2 H2O)."
+      "explanation_hi": "प्लास्टर ऑफ पेरिस कैल्शियम सल्फेट हेमीहाइड्रेट, CaSO4 · 1/2H2O (या 2CaSO4 · H2O) है, जो जिप्सम (CaSO4 · 2H2O) को 373 K (100°C) पर गर्म करने से बनता है।",
+      "tip_hi": "जिप्सम = डाइहाइड्रेट (2H2O); प्लास्टर ऑफ पेरिस = हेमीहाइड्रेट (1/2 H2O)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पीयूष ग्रंथि gland (hypophysis) is called the master gland क्योंकि its tropic hormones regulate the secretion of थायरॉयड ग्रंथि, अधिवृक्क ग्रंथि cortex, and gonads, under hypothalamus control.",
-      "tip_hi": "Master Gland = पीयूष ग्रंथि; Master of Master Gland = Hypothalamus."
+      "explanation_hi": "पिट्यूटरी ग्रंथि (हाइपोफिसिस) को मास्टर ग्रंथि कहा जाता है क्योंकि इसके ट्रोपिक हार्मोन हाइपोथैलेमस नियंत्रण के तहत थायरॉयड, अधिवृक्क प्रांतस्था और गोनाड के स्राव को नियंत्रित करते हैं।",
+      "tip_hi": "मास्टर ग्रंथि = पिट्यूटरी; मास्टर ग्रंथि का स्वामी = हाइपोथैलेमस।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "ध्वनि तरंगें are mechanical longitudinal waves that require a material medium with inertia and elasticity to propagate. Sound cannot travel through निर्वात, जबकि electromagnetic waves (light) can.",
-      "tip_hi": "Speed of sound: ठोस > द्रव > गैस > निर्वात (zero)."
+      "explanation_hi": "ध्वनि तरंगें यांत्रिक अनुदैर्ध्य तरंगें हैं जिनके प्रसार के लिए जड़ता और लोच वाले भौतिक माध्यम की आवश्यकता होती है। ध्वनि निर्वात के माध्यम से यात्रा नहीं कर सकती, जबकि विद्युत चुम्बकीय तरंगें (प्रकाश) कर सकती हैं।",
+      "tip_hi": "ध्वनि की गति: ठोस > तरल पदार्थ > गैसें > निर्वात (शून्य)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the presidency of जवाहरलाल नेहरू at the Lahore Session in दिसम्बर 1929, the Congress adopted 'Purna Swaraj' as its ultimate goal and decided to celebrate 26 जनवरी 1930 as Independence दिन.",
+      "explanation_hi": "दिसंबर 1929 में लाहौर अधिवेशन में जवाहरलाल नेहरू की अध्यक्षता में कांग्रेस ने 'पूर्ण स्वराज' को अपने अंतिम लक्ष्य के रूप में अपनाया और 26 जनवरी 1930 को स्वतंत्रता दिवस के रूप में मनाने का निर्णय लिया।",
       "tip_hi": "1929 लाहौर = पूर्ण स्वराज + रावी के तट पर तिरंगा फहराया गया।"
     },
     {
@@ -490,7 +490,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Announced at the Delhi Durbar in दिसम्बर 1911 by King George V, Bihar and Orissa were formally carved out of the Bengal Presidency effective from 1 अप्रैल 1912. Orissa was subsequently separated from Bihar on 1 अप्रैल 1936.",
+      "explanation_hi": "किंग जॉर्ज पंचम द्वारा दिसंबर 1911 में दिल्ली दरबार में घोषणा की गई कि बिहार और उड़ीसा को औपचारिक रूप से 1 अप्रैल 1912 से बंगाल प्रेसीडेंसी से अलग कर दिया गया। बाद में 1 अप्रैल 1936 को उड़ीसा को बिहार से अलग कर दिया गया।",
       "tip_hi": "1912 = बिहार और उड़ीसा बंगाल से अलग हुए; 1936 = उड़ीसा बिहार से अलग हुआ; 2000 = झारखंड बिहार से अलग हुआ।"
     },
     {
@@ -598,7 +598,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sheohar has the highest जनसंख्या घनत्व in Bihar with 1,880 persons per sq किमी, followed by Patna (1,823). Kaimur (Bhabhua) has the lowest density with 488 persons per sq किमी.",
+      "explanation_hi": "बिहार में शिवहर का जनसंख्या घनत्व 1,880 व्यक्ति प्रति वर्ग किमी के साथ सबसे अधिक है, इसके बाद पटना (1,823) का स्थान है। कैमूर (भभुआ) में सबसे कम घनत्व 488 व्यक्ति प्रति वर्ग किमी है।",
       "tip_hi": "घनत्व चरम: उच्चतम = शिवहर (1,880); न्यूनतम = कैमूर (488)."
     },
     {
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 61st संविधान संशोधन अधिनियम of 1988 amended अनुच्छेद 326 of the Constitution, lowering the voting age from 21 to 18 वर्ष. It came into force on 28 मार्च 1989 under Rajiv Gandhi's government.",
-      "tip_hi": "Voting age reduction (21 to 18) = 61st संशोधन 1988 (अनुच्छेद 326)."
+      "explanation_hi": "1988 के 61वें संवैधानिक संशोधन अधिनियम ने संविधान के अनुच्छेद 326 में संशोधन किया, जिससे मतदान की आयु 21 से घटाकर 18 वर्ष कर दी गई। यह 28 मार्च 1989 को राजीव गांधी की सरकार के तहत लागू हुआ।",
+      "tip_hi": "मतदान की आयु में कमी (21 से 18) = 61वाँ संशोधन 1988 (अनुच्छेद 326)।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -679,7 +679,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total distance covered = Length of train + Length of platform = 240 + 260 = 500 m. Time taken = 25 सेकंड. Speed = 500 / 25 = 20 m/s. Converting to किमी/h = 20 * (18/5) = 72 किमी/h.",
+      "explanation_hi": "तय की गई कुल दूरी = ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई = 240 + 260 = 500 मीटर। लिया गया समय = 25 सेकंड. गति = 500/25 = 20 मीटर/सेकेंड। किमी/घंटा में परिवर्तित करना = 20 * (18/5) = 72 किमी/घंटा।",
       "tip_hi": "दूरी = ट्रेन + प्लेटफार्म = 500 मीटर. गति = 500/25 = 20 मीटर/सेकंड * 18/5 = 72 किमी/घंटा।"
     },
     {
@@ -707,7 +707,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "माना मूलधन = P. दोगुना होने का अर्थ है 5 वर्षों में SI = P। 4 गुना बनने के लिए, राशि = 4P, इसलिए SI = 3P. चूँकि SI समय के सीधे आनुपातिक है: समय = 3 * 5 = 15 वर्ष।",
-      "tip_hi": "Formula: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष."
+      "tip_hi": "सूत्र: (N2 - 1)/(N1 - 1) = T2/T1 => (4 - 1)/(2 - 1) = T2/5 => T2 = 3 * 5 = 15 वर्ष।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -814,7 +814,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Generally, arteries carry oxygenated blood and veins carry deoxygenated blood. The exceptions are pulmonary blood vessels: Pulmonary artery carries deoxygenated blood to फेफड़े, while pulmonary veins carry oxygenated blood from फेफड़े to left atrium.",
+      "explanation_hi": "आम तौर पर, धमनियां ऑक्सीजन युक्त रक्त ले जाती हैं और शिराएं ऑक्सीजन रहित रक्त ले जाती हैं। अपवाद फुफ्फुसीय रक्त वाहिकाएं हैं: फुफ्फुसीय धमनी ऑक्सीजन रहित रक्त को फेफड़ों तक ले जाती है, जबकि फुफ्फुसीय नसें ऑक्सीजन युक्त रक्त को फेफड़ों से बाएं आलिंद तक ले जाती हैं।",
       "tip_hi": "शिरा नियम का अपवाद: फुफ्फुसीय शिराएँ ऑक्सीजन युक्त रक्त ले जाती हैं।"
     },
     {
@@ -842,7 +842,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जैसे-जैसे तारों का प्रकाश पृथ्वी के वायुमंडल की विभिन्न परतों से होकर गुजरता है, जिसमें भौतिक तापमान और अपवर्तक सूचकांक लगातार भिन्न होते हैं, प्रकाश का मार्ग लगातार झुकता है, जिससे चमक और स्थिति में स्पष्ट उतार-चढ़ाव होता है।",
-      "tip_hi": "Star twinkling = Atmospheric अपवर्तन; Advanced sunrise & delayed sunset = Atmospheric अपवर्तन."
+      "tip_hi": "तारा टिमटिमाना = वायुमंडलीय अपवर्तन; उन्नत सूर्योदय और विलंबित सूर्यास्त = वायुमंडलीय अपवर्तन।"
     },
     {
       "source": "BPSC TRE 3.0 - PRT & Middle School GS",
@@ -868,7 +868,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Pure उदासीन water has equal concentrations of H+ and OH- ions (10^-7 mol/L each at 25°C), yielding pH = -log[H+] = 7. Solutions with pH < 7 are अम्लीय, and pH > 7 are alkaline.",
+      "explanation_hi": "शुद्ध तटस्थ पानी में H+ और OH- आयनों की समान सांद्रता होती है (प्रत्येक 25°C पर 10^-7 mol/L), जिससे pH = -log[H+] = 7 प्राप्त होता है। pH <7 वाले घोल अम्लीय होते हैं, और pH > 7 क्षारीय होते हैं।",
       "tip_hi": "तटस्थ पीएच = 7. मानव रक्त पीएच = 7.35-7.45; अम्लीय वर्षा pH <5.6."
     },
     {
@@ -976,7 +976,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The कोसी नदी River rises in Tibet/Nepal (Saptakoshi) and enters Bihar at Bhimnagar (Supaul). Due to massive silt load and braided channels, it has shifted westward by over 130 किमी over 250 वर्ष, causing repeated disasters.",
+      "explanation_hi": "कोसी नदी तिब्बत/नेपाल (सप्तकोशी) से निकलती है और भीमनगर (सुपौल) में बिहार में प्रवेश करती है। भारी गाद भार और टूटे हुए चैनलों के कारण, यह 250 वर्षों में 130 किमी से अधिक पश्चिम की ओर स्थानांतरित हो गया है, जिससे बार-बार आपदाएँ आती हैं।",
       "tip_hi": "बिहार का दुःख=कोसी; बंगाल का दुःख = दामोदर."
     },
     {
@@ -1003,7 +1003,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rohtas district recorded the highest overall साक्षरता दर in Bihar at 73.37% (Male literacy 82.88%, Female literacy 62.97%). Patna is सेकंड with 70.68%.",
+      "explanation_hi": "रोहतास जिले में बिहार में सबसे अधिक समग्र साक्षरता दर 73.37% (पुरुष साक्षरता 82.88%, महिला साक्षरता 62.97%) दर्ज की गई। 70.68% के साथ पटना दूसरे स्थान पर है।",
       "tip_hi": "उच्चतम साक्षरता = रोहतास (73.37%); न्यूनतम साक्षरता = पूर्णिया (51.08%)।"
     },
     {
@@ -1030,7 +1030,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Formulated by Raymond Lindeman in 1942, के दौरान energy transfer from an organic food source to a consumer, approximately 90% of energy is lost as metabolic heat and श्वसन, leaving only ~10% stored as flesh for the next trophic level.",
+      "explanation_hi": "1942 में रेमंड लिंडमैन द्वारा तैयार, एक जैविक खाद्य स्रोत से उपभोक्ता तक ऊर्जा हस्तांतरण के दौरान, लगभग 90% ऊर्जा चयापचय गर्मी और श्वसन के रूप में नष्ट हो जाती है, जिससे अगले ट्रॉफिक स्तर के लिए मांस के रूप में केवल ~ 10% संग्रहीत होता है।",
       "tip_hi": "पोषी स्तरों के बीच ऊर्जा हस्तांतरण हमेशा ~10% होता है; खाद्य श्रृंखलाओं को 4-5 कड़ियों तक सीमित करता है।"
     },
     {
@@ -1057,7 +1057,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Operation गंगा नदी was launched in late फरवरी 2022 to evacuate ~20,000 Indian nationals, primarily medical students, from war-torn Ukraine through neighbouring countries (Poland, Romania, Hungary, Slovakia).",
+      "explanation_hi": "ऑपरेशन गंगा फरवरी 2022 के अंत में पड़ोसी देशों (पोलैंड, रोमानिया, हंगरी, स्लोवाकिया) के माध्यम से युद्धग्रस्त यूक्रेन से ~20,000 भारतीय नागरिकों, मुख्य रूप से मेडिकल छात्रों को निकालने के लिए शुरू किया गया था।",
       "tip_hi": "ऑपरेशन गंगा = यूक्रेन (2022); ऑपरेशन देवी शक्ति = अफगानिस्तान (2021); ऑपरेशन कावेरी = सूडान (2023)।"
     },
     {
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 32 guarantees the Right to Constitutional Remedies, empowering the सर्वोच्च न्यायालय to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). High Courts derive parallel writ powers under अनुच्छेद 226.",
-      "tip_hi": "सर्वोच्च न्यायालय Writs = अनुच्छेद 32 (हृदय & Soul of Constitution by Ambedkar); उच्च न्यायालय Writs = अनुच्छेद 226.\nAnswer Key Summary Table — Set 5 (Questions 161 to 200)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "अनुच्छेद 32 संवैधानिक उपचारों के अधिकार की गारंटी देता है, सर्वोच्च न्यायालय को रिट (बंदी प्रत्यक्षीकरण, परमादेश, निषेध, अधिकार-वारंटो, सर्टिओरारी) जारी करने का अधिकार देता है। उच्च न्यायालय अनुच्छेद 226 के तहत समानांतर रिट शक्तियाँ प्राप्त करते हैं।",
+      "tip_hi": "सुप्रीम कोर्ट रिट = अनुच्छेद 32 (अंबेडकर द्वारा संविधान का हृदय और आत्मा); उच्च न्यायालय रिट = अनुच्छेद 226।\nउत्तर कुंजी सारांश तालिका - सेट 5 (प्रश्न 161 से 200)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

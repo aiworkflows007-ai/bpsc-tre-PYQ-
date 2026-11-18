@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Net rotation = Clockwise (45° + 180°) - Anti-clockwise (270°) = 225° - 270° = -45° (i.e. 45° anti-clockwise). Turning 45° anti-clockwise from पश्चिम leads to दक्षिण-पश्चिम.",
-      "tip_hi": "Net angle = 225° CW - 270° ACW = 45° ACW. 45° anti-clockwise from पश्चिम is दक्षिण-पश्चिम."
+      "explanation_hi": "शुद्ध घूर्णन = दक्षिणावर्त (45° + 180°) - वामावर्त (270°) = 225° - 270° = -45° (अर्थात् 45° वामावर्त)। पश्चिम से घड़ी की विपरीत दिशा में 45° मुड़ने पर दक्षिण-पश्चिम की ओर जाता है।",
+      "tip_hi": "शुद्ध कोण = 225° CW - 270° ACW = 45° ACW। पश्चिम से 45° वामावर्त दक्षिण-पश्चिम है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "दक्षिण-पूर्व (135°) becomes उत्तर (0°/360°), जो कि an anti-clockwise rotation of 135°. Rotating पश्चिम (270°) by 135° anti-clockwise: 270° - 135° = 135° = दक्षिण-पूर्व.",
-      "tip_hi": "Rotation = 135° anti-clockwise. पश्चिम rotated 135° ACW becomes दक्षिण-पूर्व."
+      "explanation_hi": "दक्षिण-पूर्व (135°) उत्तर (0°/360°) बन जाता है, जो 135° का वामावर्त घूर्णन है। पश्चिम (270°) से 135° वामावर्त दिशा में घूमना: 270° - 135° = 135° = दक्षिण-पूर्व।",
+      "tip_hi": "घूर्णन = 135° वामावर्त। पश्चिम में 135° पर घुमाया गया ACW दक्षिण-पूर्व बन जाता है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -274,7 +274,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Earth is an oblate spheroid with equatorial radius greater than polar radius by ~21 किमी (g = GM/R^2). Furthermore, अपकेंद्रीय बल due to Earth's rotation is zero at the poles and maximum at the equator. Consequently, 'g' is maximum at the poles (~9.83 m/s^2) and minimum at the equator (~9.78 m/s^2).",
+      "explanation_hi": "पृथ्वी एक चपटा गोलाकार है जिसकी भूमध्यरेखीय त्रिज्या ध्रुवीय त्रिज्या से ~21 किमी (g = GM/R^2) अधिक है। इसके अलावा, पृथ्वी के घूमने के कारण केन्द्रापसारक बल ध्रुवों पर शून्य और भूमध्य रेखा पर अधिकतम होता है। परिणामस्वरूप, 'g' ध्रुवों पर अधिकतम (~9.83 m/s^2) और भूमध्य रेखा पर न्यूनतम (~9.78 m/s^2) होता है।",
       "tip_hi": "'जी' का मान: ध्रुवों पर अधिकतम, भूमध्य रेखा पर न्यूनतम, पृथ्वी के केंद्र पर शून्य।"
     },
     {
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Human hearing spans 20 Hz to 20,000 Hz. Frequencies below 20 Hz are termed अवश्रव्य (इन्फ्रासोनिक) (produced by earthquakes, elephants), and frequencies above 20 kHz are termed पराध्वनि (अल्ट्रासोनिक) (utilized by bats, dolphins, and medical ultrasound).",
-      "tip_hi": "श्रव्य range = 20 Hz – 20 kHz; अवश्रव्य (इन्फ्रासोनिक) < 20 Hz; पराध्वनि (अल्ट्रासोनिक) > 20 kHz."
+      "explanation_hi": "मानव श्रवण की क्षमता 20 हर्ट्ज़ से 20,000 हर्ट्ज़ तक होती है। 20 हर्ट्ज से नीचे की आवृत्तियों को इन्फ़्रासोनिक (भूकंप, हाथियों द्वारा निर्मित) कहा जाता है, और 20 किलोहर्ट्ज़ से ऊपर की आवृत्तियों को अल्ट्रासोनिक (चमगादड़, डॉल्फ़िन और मेडिकल अल्ट्रासाउंड द्वारा उपयोग किया जाता है) कहा जाता है।",
+      "tip_hi": "श्रव्य सीमा = 20 हर्ट्ज - 20 किलोहर्ट्ज़; इन्फ्रासोनिक <20 हर्ट्ज; अल्ट्रासोनिक > 20 किलोहर्ट्ज़।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -355,8 +355,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सिलियरी मांसपेशियां contract to increase the curvature and power of the lens for viewing near objects, and relax to flatten the lens for distant viewing. This ability is termed the 'power of accommodation'.",
-      "tip_hi": "Power of accommodation = सिलियरी मांसपेशियां; Regulates पुतली size and light entry = आईरिस."
+      "explanation_hi": "निकट की वस्तुओं को देखने के लिए सिलिअरी मांसपेशियाँ लेंस की वक्रता और शक्ति को बढ़ाने के लिए सिकुड़ती हैं, और दूर की वस्तुओं को देखने के लिए लेंस को समतल करने के लिए आराम करती हैं। इस क्षमता को 'समायोजन की शक्ति' कहा जाता है।",
+      "tip_hi": "आवास की शक्ति = सिलिअरी मांसपेशियाँ; पुतली के आकार और प्रकाश प्रवेश को नियंत्रित करता है = आईरिस।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "हीमोग्लोबिन is a conjugated metalloprotein containing four iron-porphyrin (heme) groups. Iron deficiency leads to microcytic hypochromic anaemia, characterized by fatigue, pale skin, and reduced oxygen transport capacity.",
-      "tip_hi": "Iron deficiency = हीमोग्लोबिन reduction => Nutritional Anaemia."
+      "explanation_hi": "हीमोग्लोबिन एक संयुग्मित मेटालोप्रोटीन है जिसमें चार लौह-पोर्फिरिन (हीम) समूह होते हैं। आयरन की कमी से माइक्रोसाइटिक हाइपोक्रोमिक एनीमिया होता है, जो थकान, पीली त्वचा और ऑक्सीजन परिवहन क्षमता में कमी की विशेषता है।",
+      "tip_hi": "आयरन की कमी = हीमोग्लोबिन में कमी => पोषण संबंधी एनीमिया।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "मीथेन constitutes 75-90% of CNG and 55-70% of Biogas (gobar gas). Liquefied Petroleum Gas (एलपीजी (द्रवीभूत पेट्रोलियम गैस)) consists primarily of ब्यूटेन and प्रोपेन.",
-      "tip_hi": "CNG & Biogas = मीथेन (CH4); एलपीजी (द्रवीभूत पेट्रोलियम गैस) = ब्यूटेन + प्रोपेन."
+      "explanation_hi": "मीथेन सीएनजी का 75-90% और बायोगैस (गोबर गैस) का 55-70% है। तरलीकृत पेट्रोलियम गैस (एलपीजी) में मुख्य रूप से ब्यूटेन और प्रोपेन होते हैं।",
+      "tip_hi": "सीएनजी और बायोगैस = मीथेन (CH4); एलपीजी = ब्यूटेन + प्रोपेन।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 3 जुलाई 1857, Pir Ali Khan led an armed uprising in Patna city against British rule, in which Dr. Lyell was killed. He was captured, refused to disclose comrades' names, and was publicly hanged on 7 जुलाई 1857.",
+      "explanation_hi": "3 जुलाई 1857 को, पीर अली खान ने ब्रिटिश शासन के खिलाफ पटना शहर में एक सशस्त्र विद्रोह का नेतृत्व किया, जिसमें डॉ. लिएल की मौत हो गई। उन्हें पकड़ लिया गया, साथियों के नामों का खुलासा करने से इनकार कर दिया गया और 7 जुलाई 1857 को सार्वजनिक रूप से फांसी दे दी गई।",
       "tip_hi": "1857 पटना शहर विद्रोह के नेता = पीर अली खान (कमिश्नर विलियम टायलर द्वारा फाँसी)।"
     },
     {
@@ -490,7 +490,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Batak Mian, an employee at the indigo planter Erwin's residence in Motihari, was ordered to give glass of poisoned milk to Gandhi. Instead, he alerted डॉ. राजेंद्र प्रसाद and Gandhi, exposing the assassination plot.",
+      "explanation_hi": "मोतिहारी में नील की खेती करने वाले इरविन के आवास पर काम करने वाले कर्मचारी बटक मियां को गांधीजी को जहर मिला दूध का गिलास देने का आदेश दिया गया। इसके बजाय, उन्होंने हत्या की साजिश का पर्दाफाश करते हुए डॉ. राजेंद्र प्रसाद और गांधी को सचेत कर दिया।",
       "tip_hi": "चंपारण में गांधीजी की जान बचाई (1917) = बटक मियां (बेतिया/मोतिहारी)।"
     },
     {
@@ -517,7 +517,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Mazharul Haque constructed Sadaqat Ashram on a mango grove donated by his generous friend Khairun Mian on the banks of the गंगा नदी in Digha, Patna. It later served as the headquarters of Bihar Congress and the retirement home of डॉ. राजेंद्र प्रसाद.",
+      "explanation_hi": "मौलाना मजहरुल हक ने पटना के दीघा में गंगा के तट पर अपने उदार मित्र खैरुन मियां द्वारा दान किये गये आम के बगीचे पर सदाकत आश्रम का निर्माण कराया। बाद में इसने बिहार कांग्रेस के मुख्यालय और डॉ. राजेंद्र प्रसाद के सेवानिवृत्ति गृह के रूप में कार्य किया।",
       "tip_hi": "मजहरुल हक द्वारा स्थापित सदाकत आश्रम; खैरुन मियां द्वारा दान में दी गई जमीन।"
     },
     {
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the Gaya Congress split, a branch of the Swaraj Party was established in Bihar in फरवरी 1923 with Narayan Prasad as राष्ट्रपति and Abdul Bari as Secretary, led politically in the legislative council by Dr. Sri Krishna Singh.",
-      "tip_hi": "Swaraj Dal Bihar branch (1923) = Led by Sri Krishna Singh (first मुख्यमंत्री of Bihar)."
+      "explanation_hi": "गया कांग्रेस विभाजन के बाद, फरवरी 1923 में बिहार में स्वराज पार्टी की एक शाखा स्थापित की गई, जिसके अध्यक्ष नारायण प्रसाद और सचिव अब्दुल बारी थे, जिसका विधान परिषद में राजनीतिक नेतृत्व डॉ. श्रीकृष्ण सिंह ने किया।",
+      "tip_hi": "स्वराज दल बिहार शाखा (1923) = श्रीकृष्ण सिंह (बिहार के पहले मुख्यमंत्री) के नेतृत्व में।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Maulana Abul Kalam Azad presided over the historic 1940 Ramgarh session, where Congress declared that nothing short of complete independence would be acceptable. He remained Congress राष्ट्रपति continuously from 1940 to 1946 के दौरान World War II.",
-      "tip_hi": "1940 Ramgarh Congress Session = Maulana Abul Kalam Azad (राष्ट्रपति continuously 1940-46)."
+      "explanation_hi": "मौलाना अबुल कलाम आज़ाद ने ऐतिहासिक 1940 के रामगढ़ सत्र की अध्यक्षता की, जहाँ कांग्रेस ने घोषणा की कि पूर्ण स्वतंत्रता से कम कुछ भी स्वीकार्य नहीं होगा। वे द्वितीय विश्व युद्ध के दौरान 1940 से 1946 तक लगातार कांग्रेस अध्यक्ष रहे।",
+      "tip_hi": "1940 रामगढ़ कांग्रेस अधिवेशन = मौलाना अबुल कलाम आज़ाद (लगातार 1940-46 तक अध्यक्ष)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -599,7 +599,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जब जिला मजिस्ट्रेट डब्ल्यू जी आर्चर ने गोरखा सैन्य पुलिस को उन पर गोली चलाने का आदेश दिया तो सात युवा छात्र (देवीपत चौधरी, उमाकांत प्रसाद सिन्हा, रामानंद सिंह, सतीश प्रसाद झा, जगपति कुमार, राजेंद्र सिंह और रामगोविंद सिंह) शहीद हो गए।",
-      "tip_hi": "'Seven Martyrs' (सात शहीद) of Patna Secretariat firing = 11 अगस्त 1942 (DM W.G. Archer)."
+      "tip_hi": "पटना सचिवालय गोलीबारी के 'सात शहीद' (सत शहीद) = 11 अगस्त 1942 (डीएम डब्ल्यू.जी. आर्चर)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -652,7 +652,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ralph Fitch visited Patna in 1586 के दौरान Akbar's reign, describing it as a flourishing commercial metropolis with thriving trades in cotton, sugar, and opium along the गंगा नदी.",
+      "explanation_hi": "राल्फ़ फिच ने 1586 में अकबर के शासनकाल के दौरान पटना का दौरा किया और इसे गंगा के किनारे कपास, चीनी और अफ़ीम के समृद्ध व्यापार वाला एक समृद्ध वाणिज्यिक महानगर बताया।",
       "tip_hi": "बिहार/पटना की यात्रा करने वाला प्रथम अंग्रेज यात्री = राल्फ फिच (1586, अकबर का शासनकाल)।"
     },
     {
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The गंडक नदी merges into the left bank of the गंगा नदी at Sonpur (Saran) opposite Hajipur (Vaishali), the site of the world-famous Harihar Kshetra Sonepur Mela, Asia's largest cattle fair held on Kartik Purnima.",
-      "tip_hi": "गंडक नदी meets गंगा नदी at Sonpur/Hajipur; सोन नदी meets गंगा नदी at Maner/Danapur; Punpun meets गंगा नदी at Fatuha."
+      "explanation_hi": "गंडक सोनपुर (सारण) में हाजीपुर (वैशाली) के सामने गंगा के बाएं किनारे में विलीन हो जाती है, जो विश्व प्रसिद्ध हरिहरक्षेत्र सोनपुर मेला का स्थल है, जो कार्तिक पूर्णिमा पर आयोजित होने वाला एशिया का सबसे बड़ा पशु मेला है।",
+      "tip_hi": "गंडक सोनपुर/हाजीपुर में गंगा से मिलती है; मनेर/दानापुर में गंगा से मिला बेटा; पुनपुन फतुहा में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -706,7 +706,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Khadar is new alluvium deposited annually by monsoon floodwaters in low-lying river plains (गंडक नदी, कोसी नदी, Bagmati), highly fertile and rich in fine silt. Bangar represents older alluvium situated in upland terraces above flood level.",
+      "explanation_hi": "खादर नदी के निचले मैदानों (गंडक, कोसी, बागमती) में मानसूनी बाढ़ के पानी द्वारा प्रतिवर्ष जमा होने वाला नया जलोढ़ है, जो अत्यधिक उपजाऊ और महीन गाद से भरपूर होता है। बांगर बाढ़ स्तर से ऊपर ऊपरी छतों में स्थित पुराने जलोढ़ का प्रतिनिधित्व करता है।",
       "tip_hi": "नवीन बाढ़ जलोढ़ = खादर (अत्यधिक उपजाऊ); पुराना ऊपरी जलोढ़ = बांगर (कंकड़ पिंड शामिल हैं)।"
     },
     {
@@ -733,7 +733,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Amjhor in Rohtas district contains India's premier deposits of iron pyrites (FeS2), accounting for ~95% of total national reserves, utilized by Pyrites, Phosphates & Chemicals Limited (PPCL) to manufacture सल्फ्यूरिक अम्ल (H2SO4).",
+      "explanation_hi": "रोहतास जिले के अमझोर में आयरन पाइराइट्स (FeS2) का भारत का प्रमुख भंडार है, जो कुल राष्ट्रीय भंडार का ~95% है, जिसका उपयोग पाइराइट्स, फॉस्फेट्स एंड केमिकल्स लिमिटेड (पीपीसीएल) द्वारा सल्फ्यूरिक एसिड के निर्माण के लिए किया जाता है।",
       "tip_hi": "बिहार में पाइराइट = अमझोर (रोहतास) - भारत का 95% भंडार; फ़ूल्स गोल्ड।"
     },
     {
@@ -787,7 +787,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Saharsa recorded the lowest female साक्षरता दर in Bihar at 41.68%. (Note: While Purnia recorded the lowest overall literacy at 51.08%, Saharsa had the lowest female literacy specifically). Rohtas had the highest female literacy (62.97%).",
+      "explanation_hi": "बिहार में सबसे कम महिला साक्षरता दर 41.68% के साथ सहरसा में दर्ज की गई। (नोट: जबकि पूर्णिया में 51.08% के साथ सबसे कम समग्र साक्षरता दर्ज की गई, जबकि सहरसा में विशेष रूप से सबसे कम महिला साक्षरता दर्ज की गई)। रोहतास में महिला साक्षरता सबसे अधिक (62.97%) थी।",
       "tip_hi": "महत्वपूर्ण जनगणना जाल: सबसे कम समग्र साक्षरता = पूर्णिया (51.08%); न्यूनतम महिला साक्षरता=सहरसा (41.68%)।"
     },
     {
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 118(4), the अध्यक्ष (स्पीकर) of the लोकसभा presides over a joint sitting. In his absence, the Deputy अध्यक्ष (स्पीकर) presides, and if both are absent, the Deputy Chairman of the राज्यसभा presides. The Chairman of राज्यसभा (Vice-राष्ट्रपति) never presides.",
-      "tip_hi": "Joint sitting: Summoned by राष्ट्रपति (Art. 108); Presided by लोकसभा अध्यक्ष (स्पीकर) (Art. 118(4))."
+      "explanation_hi": "अनुच्छेद 118(4) के तहत, लोकसभा अध्यक्ष संयुक्त बैठक की अध्यक्षता करता है। उनकी अनुपस्थिति में, उपसभापति अध्यक्षता करता है, और यदि दोनों अनुपस्थित हैं, तो राज्यसभा के उपसभापति अध्यक्षता करते हैं। राज्यसभा का सभापति (उपराष्ट्रपति) कभी अध्यक्षता नहीं करता।",
+      "tip_hi": "संयुक्त बैठक: राष्ट्रपति द्वारा बुलाया गया (अनुच्छेद 108); अध्यक्षता लोकसभा अध्यक्ष द्वारा की जाती है (अनुच्छेद 118(4))।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -922,7 +922,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Sardar Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties. The 42nd संशोधन added 10 duties in अनुच्छेद 51A borrowed from the USSR Constitution. An 11th duty was added by the 86th संशोधन 2002.",
+      "explanation_hi": "सरदार स्वर्ण सिंह समिति (1976) ने मौलिक कर्तव्यों को शामिल करने की सिफारिश की। 42वें संशोधन ने यूएसएसआर संविधान से उधार लिए गए अनुच्छेद 51ए में 10 कर्तव्य जोड़े। 86वें संशोधन 2002 द्वारा 11वां कर्तव्य जोड़ा गया।",
       "tip_hi": "मौलिक कर्तव्य = स्वर्ण सिंह समिति (1976), 42वां संशोधन, यूएसएसआर से उधार लिया गया।"
     },
     {
@@ -949,7 +949,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the 56-दिन hunger strike and martyrdom of Potti Sreeramulu, Andhra State was created on 1 अक्टूबर 1953 for Telugu-speaking people by carving out northern districts of Madras State (capital Kurnool). This led to the Fazl Ali States Reorganisation Commission (1953).",
+      "explanation_hi": "पोट्टी श्रीरामुलु की 56 दिनों की भूख हड़ताल और शहादत के बाद, 1 अक्टूबर 1953 को मद्रास राज्य (राजधानी कुरनूल) के उत्तरी जिलों को अलग करके तेलुगु भाषी लोगों के लिए आंध्र राज्य बनाया गया था। इसके परिणामस्वरूप फज़ल अली राज्य पुनर्गठन आयोग (1953) का गठन हुआ।",
       "tip_hi": "प्रथम भाषाई राज्य = आंध्र राज्य (1 अक्टूबर 1953); आमरण अनशन = पोट्टी श्रीरामुलु."
     },
     {
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "कांवर झील (बेगूसराय) (Kabartal) in Begusarai district is Asia's largest freshwater oxbow lake, formed by the meandering of the Burhi गंडक नदी River. It was designated as India's 39th Ramsar site in जुलाई 2020.",
-      "tip_hi": "Bihar's 1st Ramsar Site = कांवर झील (बेगूसराय) / Kabartal (Begusarai, 2020; Oxbow lake of Burhi गंडक नदी)."
+      "explanation_hi": "बेगुसराय जिले में कांवर झील (कबरतल) एशिया की सबसे बड़ी मीठे पानी की ऑक्सबो झील है, जो बूढ़ी गंडक नदी के घुमावदार मोड़ से बनी है। इसे जुलाई 2020 में भारत की 39वीं रामसर साइट के रूप में नामित किया गया था।",
+      "tip_hi": "बिहार का पहला रामसर स्थल = कांवर झील/कबरतल (बेगूसराय, 2020; बूढ़ी गंडक की ऑक्सबो झील)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",

@@ -85,7 +85,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Time difference = 15 मिनट = 15/60 = 1/4 घंटे. Distance = (S1 * S2) / (S2 - S1) * Time difference = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 किमी.",
+      "explanation_hi": "समय का अंतर = 15 मिनट = 15/60 = 1/4 घंटा। दूरी = (एस1 * एस2) / (एस2 - एस1) * समय अंतर = (4 * 6) / (6 - 4) * (1/4) = 24 / 2 * 1/4 = 12 * 1/4 = 3 किमी।",
       "tip_hi": "D = (4 * 6)/2 * (15/60) = 12 * (1/4) = 3 किमी."
     },
     {
@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In every 12-घंटे period, the hands coincide exactly 11 times (between 11:00 and 1:00, they coincide only once at 12:00). In a full 24-घंटे दिन, they coincide 11 * 2 = 22 times.",
+      "explanation_hi": "प्रत्येक 12-घंटे की अवधि में, सूइयाँ ठीक 11 बार मेल खाती हैं (11:00 और 1:00 के बीच, वे 12:00 पर केवल एक बार मेल खाती हैं)। पूरे 24 घंटे के दिन में, वे 11 * 2 = 22 बार मेल खाते हैं।",
       "tip_hi": "12 घंटे में ओवरलैपिंग = 11 बार; 24 घंटे में ओवरलैपिंग = 22 बार।"
     },
     {
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Total दिन from 15 Aug 1947 to 26 Jan 1950 = 895 दिन. Dividing 895 by 7 gives 127 सप्ताह and 6 odd दिन. Friday + 6 दिन = Thursday.",
-      "tip_hi": "15 अगस्त 1947 = Friday; 26 जनवरी 1950 = Thursday."
+      "explanation_hi": "15 अगस्त 1947 से 26 जनवरी 1950 तक कुल दिन = 895 दिन। 895 को 7 से विभाजित करने पर 127 सप्ताह और 6 विषम दिन प्राप्त होते हैं। शुक्रवार + 6 दिन = गुरुवार.",
+      "tip_hi": "15 अगस्त 1947 = शुक्रवार; 26 जनवरी 1950 = गुरुवार."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "चुंबकीय फ्लक्स is measured in वेबर (Wb = टेस्ला * m^2). टेस्ला (T) is the unit of चुंबकीय फ्लक्स density / चुंबकीय क्षेत्र strength, and हेनरी (H) is the unit of inductance.",
-      "tip_hi": "चुंबकीय फ्लक्स = वेबर (Wb); चुंबकीय क्षेत्र = टेस्ला (T); Inductance = हेनरी (H)."
+      "explanation_hi": "चुंबकीय प्रवाह को वेबर (Wb = Tesla * m^2) में मापा जाता है। टेस्ला (टी) चुंबकीय प्रवाह घनत्व/चुंबकीय क्षेत्र शक्ति की इकाई है, और हेनरी (एच) प्रेरण की इकाई है।",
+      "tip_hi": "चुंबकीय प्रवाह = वेबर (डब्ल्यूबी); चुंबकीय क्षेत्र = टेस्ला (टी); अधिष्ठापन = हेनरी (एच)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -220,7 +220,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sir Isaac Newton demonstrated spectrum वर्ण विक्षेपण using a triangular glass prism and verified that no further color splitting occurred, proving that white sunlight is inherently polychromatic (VIBGYOR).",
+      "explanation_hi": "सर आइजैक न्यूटन ने त्रिकोणीय ग्लास प्रिज्म का उपयोग करके स्पेक्ट्रम फैलाव का प्रदर्शन किया और सत्यापित किया कि कोई और रंग विभाजन नहीं हुआ, जिससे साबित हुआ कि सफेद सूरज की रोशनी स्वाभाविक रूप से बहुरंगी (VIBGYOR) है।",
       "tip_hi": "प्रिज्म के माध्यम से प्रकाश स्पेक्ट्रम की खोज = सर आइजैक न्यूटन।"
     },
     {
@@ -247,8 +247,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Vinegar is produced by bacterial fermentation of ethanol by Acetobacter into dilute एसिटिक अम्ल (CH3COOH, 5-8% v/v), widely used as a food preservative and flavoring.",
-      "tip_hi": "Vinegar = एसिटिक अम्ल (CH3COOH); Curd = लैक्टिक अम्ल; Sour milk = लैक्टिक अम्ल."
+      "explanation_hi": "सिरका एसीटोबैक्टर द्वारा इथेनॉल के जीवाणु किण्वन द्वारा पतला एसिटिक एसिड (CH3COOH, 5-8% v/v) में उत्पादित किया जाता है, जिसका व्यापक रूप से खाद्य संरक्षक और स्वाद के रूप में उपयोग किया जाता है।",
+      "tip_hi": "सिरका = एसिटिक एसिड (CH3COOH); दही = लैक्टिक एसिड; खट्टा दूध = लैक्टिक एसिड."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "माइटोकॉन्ड्रिया carry out the Krebs cycle and oxidative phosphorylation via inner membrane cristae to generate adenosine triphosphate (ATP), the universal chemical energy currency of eukaryotic cells.",
-      "tip_hi": "Powerhouse of Cell = माइटोकॉन्ड्रिया; Protein Factory = Ribosomes; Suicidal Bags = Lysosomes."
+      "explanation_hi": "माइटोकॉन्ड्रिया यूकेरियोटिक कोशिकाओं की सार्वभौमिक रासायनिक ऊर्जा मुद्रा, एडेनोसिन ट्राइफॉस्फेट (एटीपी) उत्पन्न करने के लिए आंतरिक झिल्ली क्राइस्टे के माध्यम से क्रेब्स चक्र और ऑक्सीडेटिव फॉस्फोराइलेशन को पूरा करता है।",
+      "tip_hi": "कोशिका का पावरहाउस = माइटोकॉन्ड्रिया; प्रोटीन फ़ैक्टरी = राइबोसोम; आत्मघाती थैलियाँ = लाइसोसोम।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -355,7 +355,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Normal adult blood pressure is 120/80 मिमी Hg, representing systolic pressure of 120 मिमी Hg के दौरान ventricular contraction and diastolic pressure of 80 मिमी Hg के दौरान ventricular relaxation, measured using a sphygmomanometer.",
+      "explanation_hi": "सामान्य वयस्क रक्तचाप 120/80 मिमी एचजी है, जो वेंट्रिकुलर संकुचन के दौरान 120 मिमी एचजी के सिस्टोलिक दबाव और वेंट्रिकुलर विश्राम के दौरान 80 मिमी एचजी के डायस्टोलिक दबाव का प्रतिनिधित्व करता है, जिसे स्फिग्मोमैनोमीटर का उपयोग करके मापा जाता है।",
       "tip_hi": "सामान्य बीपी = 120/80 मिमी एचजी (सिस्टोलिक = 120, डायस्टोलिक = 80); यंत्र = रक्तदाबमापी."
     },
     {
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "लार एमाइलेज (टायलिन) (ptyalin, pH ~6.8) is secreted by salivary glands and hydrolyzes about 30% of dietary starch into maltose disaccharides in the oral cavity before swallowing.",
-      "tip_hi": "Starch digesting enzyme in mouth = लार एमाइलेज (टायलिन) (Ptyalin)."
+      "explanation_hi": "लार एमाइलेज (पाइलिन, पीएच ~ 6.8) लार ग्रंथियों द्वारा स्रावित होता है और निगलने से पहले मौखिक गुहा में लगभग 30% आहार स्टार्च को माल्टोज़ डिसैकराइड में हाइड्रोलाइज़ करता है।",
+      "tip_hi": "मुँह में स्टार्च पचाने वाला एन्जाइम = लार एमाइलेज (टायलिन)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -436,7 +436,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Gandhi opened his first primary school on 14 नवम्बर 1917 at Barharwa Lakhansen (20 miles पूर्व of Motihari) with teachers Babasaheb Soman and Sadashiv Lakshman Purohit. His सेकंड school was opened on 20 नवम्बर 1917 at Bhitiharwa.",
+      "explanation_hi": "गांधी जी ने अपना पहला प्राथमिक विद्यालय 14 नवंबर 1917 को बरहरवा लखनसेन (मोतिहारी से 20 मील पूर्व) में शिक्षकों बाबासाहेब सोमन और सदाशिव लक्ष्मण पुरोहित के साथ खोला। उनका दूसरा स्कूल 20 नवंबर 1917 को भितिहरवा में खोला गया।",
       "tip_hi": "चंपारण में गांधीजी द्वारा पहला स्कूल = बरहरवा लखनसेन (14 नवंबर 1917); दूसरा विद्यालय = भितिहरवा."
     },
     {
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established under the Patna University Act in अक्टूबर 1917, it initially had jurisdiction over all educational colleges across Bihar, Orissa, and Nepal. (Patna उच्च न्यायालय was opened in 1916).",
-      "tip_hi": "Patna उच्च न्यायालय = 1916; Patna University = 1917; PMCH (Prince of Wales Medical College) = 1925."
+      "explanation_hi": "अक्टूबर 1917 में पटना विश्वविद्यालय अधिनियम के तहत स्थापित, शुरुआत में इसका अधिकार क्षेत्र बिहार, उड़ीसा और नेपाल के सभी शैक्षणिक कॉलेजों पर था। (पटना उच्च न्यायालय 1916 में खोला गया था)।",
+      "tip_hi": "पटना उच्च न्यायालय = 1916; पटना विश्वविद्यालय = 1917; पीएमसीएच (प्रिंस ऑफ वेल्स मेडिकल कॉलेज) = 1925।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following the 1937 provincial elections, Rajiv Ranjan Prasad Sinha was elected as the first राष्ट्रपति of the newly constituted Bihar Legislative Council on 22 जुलाई 1937. (Ramdayalu Singh was elected first अध्यक्ष (स्पीकर) of the Legislative Assembly).",
-      "tip_hi": "1937 Bihar Legislature: Assembly अध्यक्ष (स्पीकर) = Ramdayalu Singh; Council राष्ट्रपति = Rajiv Ranjan Prasad Sinha."
+      "explanation_hi": "1937 के प्रांतीय चुनावों के बाद, 22 जुलाई 1937 को राजीव रंजन प्रसाद सिन्हा को नवगठित बिहार विधान परिषद के पहले अध्यक्ष के रूप में चुना गया। (रामदयालु सिंह विधान सभा के पहले अध्यक्ष चुने गए थे)।",
+      "tip_hi": "1937 बिहार विधानमंडल: विधानसभा अध्यक्ष = रामदयालु सिंह; परिषद अध्यक्ष = राजीव रंजन प्रसाद सिन्हा."
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -518,7 +518,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "बागमती नदी बिहार में सीतामढी जिले के शोरवट के पास प्रवेश करती है और कोसी/कमला नदी प्रणाली में शामिल होने से पहले शिवहर, मुजफ्फरपुर और दरभंगा से होकर बहती है।",
-      "tip_hi": "Bagmati enters Bihar at Sitamarhi; गंडक नदी enters at पश्चिम Champaran; Kamla enters at Madhubani (Jayanagar)."
+      "tip_hi": "बागमती का बिहार में सीतामढी में प्रवेश; गंडक पश्चिमी चंपारण में प्रवेश कर गयी है; कमला का प्रवेश मधुबनी (जयनगर) में होता है।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 32 itself is a मौलिक अधिकार (Right to Constitutional Remedies) described by Dr. Ambedkar as the 'हृदय and soul of the Constitution'. Under it, the सर्वोच्च न्यायालय issues prerogative writs.",
-      "tip_hi": "अनुच्छेद 32 = सर्वोच्च न्यायालय writ jurisdiction (मौलिक अधिकार); अनुच्छेद 226 = उच्च न्यायालय writ jurisdiction."
+      "explanation_hi": "अनुच्छेद 32 अपने आप में एक मौलिक अधिकार (संवैधानिक उपचार का अधिकार) है जिसे डॉ. अम्बेडकर ने 'संविधान का हृदय और आत्मा' बताया है। इसके तहत सर्वोच्च न्यायालय विशेषाधिकार रिट जारी करता है।",
+      "tip_hi": "अनुच्छेद 32 = उच्चतम न्यायालय रिट क्षेत्राधिकार (मौलिक अधिकार); अनुच्छेद 226 = उच्च न्यायालय का रिट क्षेत्राधिकार।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 52nd संविधान संशोधन अधिनियम 1985 inserted the Tenth अनुसूची, laying down disqualification of legislators on grounds of defection from their political party.",
-      "tip_hi": "Anti-Defection Law = 52nd संशोधन अधिनियम 1985 (Tenth अनुसूची); Strengthened by 91st संशोधन 2003."
+      "explanation_hi": "52वें संवैधानिक संशोधन अधिनियम 1985 ने दसवीं अनुसूची को शामिल किया, जिसमें विधायकों को उनके राजनीतिक दल से दलबदल के आधार पर अयोग्य घोषित किया गया।",
+      "tip_hi": "दल-बदल विरोधी कानून = 52वां संशोधन अधिनियम 1985 (दसवीं अनुसूची); 91वें संशोधन 2003 द्वारा सुदृढ़ किया गया।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -625,8 +625,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Smt. Droupadi Murmu, belonging to the Santhal tribal community of Mayurbhanj, Odisha and former राज्यपाल of Jharkhand, was sworn in on 25 जुलाई 2022 as the 15th राष्ट्रपति of India.",
-      "tip_hi": "15th राष्ट्रपति of India = Smt. Droupadi Murmu (First tribal and सेकंड woman राष्ट्रपति after Pratibha Patil)."
+      "explanation_hi": "श्रीमती ओडिशा के मयूरभंज के संथाल आदिवासी समुदाय से आने वाली और झारखंड की पूर्व राज्यपाल द्रौपदी मुर्मू ने 25 जुलाई 2022 को भारत के 15वें राष्ट्रपति के रूप में शपथ ली।",
+      "tip_hi": "भारत के 15वें राष्ट्रपति = श्रीमती द्रौपदी मुर्मू (प्रतिभा पाटिल के बाद पहली आदिवासी और दूसरी महिला राष्ट्रपति)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -760,7 +760,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Discovered by P. M. A. Millardet in Bordeaux (France) in 1882, Bordeaux mixture is a suspension of कॉपर सल्फेट (नीला थोथा) (CuSO4) and slaked lime (Ca(OH)2) in water, highly effective against downy mildew of grapevine and potato blight.",
+      "explanation_hi": "1882 में बोर्डो (फ्रांस) में पी. एम. ए. मिलार्डेट द्वारा खोजा गया, बोर्डो मिश्रण पानी में कॉपर सल्फेट (CuSO4) और बुझे हुए चूने (Ca (OH) 2) का एक निलंबन है, जो अंगूर और आलू के झुलसा रोग के खिलाफ अत्यधिक प्रभावी है।",
       "tip_hi": "बोर्डो मिश्रण = कॉपर सल्फेट + बुझा हुआ चूना (CuSO4 + Ca(OH)2)।"
     },
     {
@@ -814,7 +814,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The पूर्व Indian Railway (EIR) line in Bihar was opened in 1860-62, connecting Howrah with Patna (Bankipore) and onward to Mughal Sarai along the गंगा नदी loop line.",
+      "explanation_hi": "बिहार में ईस्ट इंडियन रेलवे (ईआईआर) लाइन 1860-62 में खोली गई थी, जो हावड़ा को पटना (बांकीपुर) से जोड़ती थी और आगे गंगा लूप लाइन के साथ मुगल सराय तक जाती थी।",
       "tip_hi": "भारत में प्रथम रेलवे = 1853 (बॉम्बे-ठाणे); बिहार में प्रथम रेलवे = 1860-62 (ईस्ट इंडियन रेलवे)।"
     },
     {
@@ -841,8 +841,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Three rivers form parts of the natural boundary between Bihar and Uttar Pradesh: the गंडक नदी (in पश्चिम Champaran), the घाघरा नदी (in Saran/Siwan), and the Karmanasa (in Kaimur/Buxar). Since all three form boundaries, (D) is the official key.",
-      "tip_hi": "Border rivers between Bihar & UP = गंडक नदी, घाघरा नदी, Karmanasa. Option (D) उपर्युक्त में से एक से अधिक."
+      "explanation_hi": "तीन नदियाँ बिहार और उत्तर प्रदेश के बीच प्राकृतिक सीमा का हिस्सा हैं: गंडक (पश्चिम चंपारण में), घाघरा (सारन/सीवान में), और कर्मनाशा (कैमूर/बक्सर में)। चूँकि तीनों सीमाएँ बनाते हैं, (D) आधिकारिक कुंजी है।",
+      "tip_hi": "बिहार और यूपी के बीच की सीमावर्ती नदियाँ = गंडक, घाघरा, कर्मनाशा। विकल्प (डी) उपरोक्त में से एक से अधिक।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 72, the राष्ट्रपति has the exclusive power to pardon death sentences. Although अनुच्छेद 161 empowers the राज्यपाल to commute or suspend sentences, the राज्यपाल cannot grant an absolute pardon in death penalty cases.",
-      "tip_hi": "Absolute pardon for death sentence = राष्ट्रपति of India alone (अनुच्छेद 72)."
+      "explanation_hi": "अनुच्छेद 72 के तहत, राष्ट्रपति के पास मौत की सजा को माफ करने की विशेष शक्ति है। हालाँकि अनुच्छेद 161 राज्यपाल को सजा कम करने या निलंबित करने का अधिकार देता है, लेकिन राज्यपाल मृत्युदंड के मामलों में पूर्ण क्षमा नहीं दे सकता है।",
+      "tip_hi": "मृत्युदंड के लिए पूर्ण क्षमा = अकेले भारत के राष्ट्रपति (अनुच्छेद 72)।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT Social Science & Maths",
@@ -895,7 +895,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 15 नवम्बर 1954 under the vision of मुख्यमंत्री Dr. Sri Krishna Singh and principal Charles Napier, Netarhat Vidyalaya was conceived on Gurukul lines and produced outstanding civil servants, scientists, and academics.",
+      "explanation_hi": "15 नवंबर 1954 को मुख्यमंत्री डॉ. श्रीकृष्ण सिंह और प्रिंसिपल चार्ल्स नेपियर के दृष्टिकोण के तहत स्थापित, नेतरहाट विद्यालय की कल्पना गुरुकुल तर्ज पर की गई थी और इसने उत्कृष्ट सिविल सेवकों, वैज्ञानिकों और शिक्षाविदों को जन्म दिया।",
       "tip_hi": "नेतरहाट विद्यालय की स्थापना 1954 में बिहार सरकार द्वारा की गई (संस्थापक प्राचार्य: चार्ल्स नेपियर)।"
     },
     {
@@ -922,7 +922,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sheel Bhadra Yagee of Bakhtiyarpur (Patna) was सुभाष चंद्र बोस's trusted associate in Bihar, founding member and राष्ट्रपति of the All India Forward Bloc, actively participating in the INA movement.",
+      "explanation_hi": "बख्तियारपुर (पटना) के शील भद्र यागी बिहार में सुभाष चंद्र बोस के भरोसेमंद सहयोगी, अखिल भारतीय फॉरवर्ड ब्लॉक के संस्थापक सदस्य और अध्यक्ष थे, जो आईएनए आंदोलन में सक्रिय रूप से भाग ले रहे थे।",
       "tip_hi": "बिहार से फॉरवर्ड ब्लॉक/आईएनए नेता = शील भद्र यागी।"
     },
     {
@@ -1057,7 +1057,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Magadha was one of the sixteen great Mahajanapadas. Its early capital Girivraja (Rajgir) was fortified by Bimbisara and Ajatashatru. King Udayin (Haryanka dynasty) founded Pataliputra at the confluence of गंगा नदी and सोन नदी and shifted the capital there.",
+      "explanation_hi": "मगध सोलह महान महाजनपदों में से एक था। इसकी प्रारंभिक राजधानी गिरिव्रज (राजगीर) को बिम्बिसार और अजातशत्रु द्वारा मजबूत किया गया था। राजा उदायिन (हर्यंक वंश) ने गंगा और सोन के संगम पर पाटलिपुत्र की स्थापना की और राजधानी को वहीं स्थानांतरित कर दिया।",
       "tip_hi": "मगध की राजधानी पाटलिपुत्र में स्थानांतरित हुई = राजा उदयिन (हर्यंक वंश)।"
     },
     {

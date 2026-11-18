@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मी/से. में गति = 54 * (5/18) = 15 मी/से. दूरी = गति * समय = 15 मी/से * 20 सेकण्ड = 300 मीटर।",
-      "tip_hi": "Multiply किमी/h by 5/18: 54 * 5/18 = 15 m/s. 15 * 20 = 300 m."
+      "tip_hi": "किमी/घंटा को 5/18 से गुणा करें: 54 * 5/18 = 15 मीटर/सेकेंड। 15 * 20 = 300 मी."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -140,7 +140,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "संयुक्त दर = (1/20 + 1/30) = (3 + 2)/60 = 5/60 = 1/12 टंकी प्रति मिनट। आवश्यक समय = 12 मिनट.",
-      "tip_hi": "Shortcut: (A * B)/(A + B) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट."
+      "tip_hi": "शॉर्टकट: (ए * बी)/(ए + बी) = (20 * 30)/(20 + 30) = 600/50 = 12 मिनट।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "हीरे का अपवर्तनांक बहुत अधिक (2.42) होता है, जिसके परिणामस्वरूप लगभग 24.4° का असाधारण छोटा क्रांतिक कोण बनता है। ठीक से काटे गए हीरे में प्रवेश करने वाला प्रकाश उभरने से पहले कई पूर्ण आंतरिक प्रतिबिंबों से गुजरता है।",
-      "tip_hi": "Diamond brilliance = पूर्ण आंतरिक परावर्तन (TIR) + high refractive index (2.42)."
+      "tip_hi": "हीरे की चमक = कुल आंतरिक परावर्तन (टीआईआर) + उच्च अपवर्तनांक (2.42)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -274,8 +274,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बेकिंग सोडा (NaHCO3) is सोडियम बाइकार्बोनेट / sodium hydrogen carbonate, NaHCO3. When heated के दौरान baking, it decomposes to release CO2 gas, which causes bread or cake batter to rise and become spongy.",
-      "tip_hi": "बेकिंग सोडा (NaHCO3) = NaHCO3 (Bicarbonate); धावन सोडा (Na2CO3·10H2O) = Na2CO3 · 10H2O."
+      "explanation_hi": "बेकिंग सोडा सोडियम बाइकार्बोनेट/सोडियम हाइड्रोजन कार्बोनेट, NaHCO3 है। बेकिंग के दौरान गर्म करने पर, यह विघटित होकर CO2 गैस छोड़ता है, जिससे ब्रेड या केक का बैटर फूल जाता है और स्पंजी हो जाता है।",
+      "tip_hi": "बेकिंग सोडा = NaHCO3 (बाइकार्बोनेट); वाशिंग सोडा = Na2CO3 · 10H2O."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Blood प्लेटलेट्स (रक्त बिम्बाणु) (thrombocytes) release thromboplastin, which initiates a cascade converting prothrombin into thrombin in the presence of calcium ions, ultimately forming a fibrin mesh that stops bleeding.",
-      "tip_hi": "Clotting cells = प्लेटलेट्स (रक्त बिम्बाणु) (Thrombocytes); Oxygen transport = RBCs; Immunity = WBCs; Clotting vitamin = Vitamin K."
+      "explanation_hi": "रक्त प्लेटलेट्स (थ्रोम्बोसाइट्स) थ्रोम्बोप्लास्टिन छोड़ते हैं, जो कैल्शियम आयनों की उपस्थिति में प्रोथ्रोम्बिन को थ्रोम्बिन में परिवर्तित करने का एक झरना शुरू करता है, अंततः एक फाइब्रिन जाल बनाता है जो रक्तस्राव को रोकता है।",
+      "tip_hi": "थक्का जमाने वाली कोशिकाएँ = प्लेटलेट्स (थ्रोम्बोसाइट्स); ऑक्सीजन परिवहन = आरबीसी; प्रतिरक्षा = डब्ल्यूबीसी; थक्का जमाने वाला विटामिन = विटामिन K."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In निकट दृष्टि दोष (मायोपिया), light rays converge in front of the रेटिना. A diverging (concave) lens of suitable focal power is placed in front of the eye to diverge rays so they focus sharply onto the रेटिना.",
-      "tip_hi": "निकट दृष्टि दोष (मायोपिया) (Near-sighted) = अवतल लेंस; दूर दृष्टि दोष (हाइपरमेट्रोपिया) (Far-sighted) = उत्तल लेंस; अबिंदुकता (एस्टिग्मैटिज्म) = Cylindrical Lens."
+      "explanation_hi": "मायोपिया में प्रकाश किरणें रेटिना के सामने एकत्रित होती हैं। किरणों को मोड़ने के लिए उपयुक्त फोकल शक्ति का एक अपसारी (अवतल) लेंस आंख के सामने रखा जाता है ताकि वे रेटिना पर तेजी से ध्यान केंद्रित कर सकें।",
+      "tip_hi": "मायोपिया (निकट दृष्टि) = अवतल लेंस; हाइपरमेट्रोपिया (दूरदृष्टि) = उत्तल लेंस; दृष्टिवैषम्य = बेलनाकार लेंस।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -355,7 +355,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Rayon is a regenerated cellulosic fibre manufactured from purified wood pulp chemically treated with carbon disulfide and सोडियम हाइड्रॉक्साइड (NaOH). It possesses a lustrous silk-like appearance and soft texture.",
+      "explanation_hi": "रेयॉन एक पुनर्जीवित सेल्युलोसिक फाइबर है जो कार्बन डाइसल्फ़ाइड और सोडियम हाइड्रॉक्साइड के साथ रासायनिक रूप से उपचारित शुद्ध लकड़ी के गूदे से निर्मित होता है। इसमें चमकदार रेशम जैसी उपस्थिति और मुलायम बनावट है।",
       "tip_hi": "कृत्रिम रेशम = रेयान (लकड़ी के गूदे से); प्रथम पूर्ण सिंथेटिक फाइबर = नायलॉन।"
     },
     {
@@ -436,7 +436,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Montreal Protocol on Substances that Deplete the Ozone Layer was agreed on 16 सितम्बर 1987 (commemorated globally as World Ozone दिन) and came into force in 1989, successfully phasing out 99% of ozone-depleting substances.",
+      "explanation_hi": "ओजोन परत को नुकसान पहुंचाने वाले पदार्थों पर मॉन्ट्रियल प्रोटोकॉल पर 16 सितंबर 1987 को सहमति हुई थी (विश्व स्तर पर विश्व ओजोन दिवस के रूप में मनाया जाता है) और 1989 में लागू हुआ, जिसमें 99% ओजोन-घटाने वाले पदार्थों को सफलतापूर्वक चरणबद्ध तरीके से समाप्त कर दिया गया।",
       "tip_hi": "ओजोन परत संरक्षण = मॉन्ट्रियल प्रोटोकॉल (1987); ग्रीनहाउस गैस कटौती = क्योटो प्रोटोकॉल (1997)।"
     },
     {
@@ -463,7 +463,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Ghadar Party में स्थापित किया गया था 1913 by Lala Har Dayal, Sohan Singh Bhakna (राष्ट्रपति), and Kartar Singh Sarabha in San Francisco, setting up the 'Yugantar Ashram' and publishing the weekly newspaper 'Ghadar'.",
+      "explanation_hi": "ग़दर पार्टी की स्थापना 1913 में लाला हर दयाल, सोहन सिंह भकना (अध्यक्ष) और करतार सिंह सराभा ने सैन फ्रांसिस्को में की थी, 'युगांतर आश्रम' की स्थापना की और साप्ताहिक समाचार पत्र 'ग़दर' का प्रकाशन किया।",
       "tip_hi": "ग़दर पार्टी = सैन फ्रांसिस्को (1913), लाला हर दयाल और सोहन सिंह भकना।"
     },
     {
@@ -517,8 +517,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "When the Congress initially declined to form a government over the राज्यपाल's special veto powers, Mohammad Yunus (leader of the Muslim Independent Party) formed the interim ministry on 1 अप्रैल 1937, serving until Sri Krishna Singh took oath on 20 जुलाई 1937.",
-      "tip_hi": "First Premier of Bihar = Mohammad Yunus (Interim); First Congress मुख्यमंत्री = Sri Krishna Singh."
+      "explanation_hi": "जब कांग्रेस ने शुरू में राज्यपाल की विशेष वीटो शक्तियों पर सरकार बनाने से इनकार कर दिया, तो मोहम्मद यूनुस (मुस्लिम स्वतंत्र पार्टी के नेता) ने 1 अप्रैल 1937 को अंतरिम मंत्रालय का गठन किया, जो 20 जुलाई 1937 को श्री कृष्ण सिंह के शपथ लेने तक कार्यरत रहे।",
+      "tip_hi": "बिहार के प्रथम प्रधानमंत्री = मोहम्मद यूनुस (अंतरिम); प्रथम कांग्रेस मुख्यमंत्री = श्रीकृष्ण सिंह।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -598,8 +598,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The सोन नदी river flows northeastward through Rohtas, Aurangabad, and Bhojpur districts and merges into the गंगा नदी just पश्चिम of Danapur / Maner in Patna district. Punpun joins गंगा नदी at Fatuha.",
-      "tip_hi": "सोन नदी meets गंगा नदी at Danapur/Maner; Punpun meets गंगा नदी at Fatuha; गंडक नदी meets गंगा नदी at Sonpur/Hajipur."
+      "explanation_hi": "सोन नदी रोहतास, औरंगाबाद और भोजपुर जिलों से होकर उत्तर-पूर्व की ओर बहती है और पटना जिले में दानापुर/मनेर के ठीक पश्चिम में गंगा में मिल जाती है। पुनपुन फतुहा में गंगा से मिलती है।",
+      "tip_hi": "दानापुर/मनेर में गंगा से मिला बेटा; पुनपुन फतुहा में गंगा से मिलती है; गंडक सोनपुर/हाजीपुर में गंगा से मिलती है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -652,7 +652,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Baikunth Shukla assassinated the traitor Phanindra Nath Ghosh in Bettiah in नवम्बर 1932 to avenge the martyrdom of भगत सिंह, Sukhdev, and Rajguru. He was arrested, convicted, and hanged at Gaya Central Jail on 14 मई 1934.",
+      "explanation_hi": "बैकुंठ शुक्ल ने भगत सिंह, सुखदेव और राजगुरु की शहादत का बदला लेने के लिए नवंबर 1932 में बेतिया में गद्दार फणींद्र नाथ घोष की हत्या कर दी। उन्हें गिरफ्तार किया गया, दोषी ठहराया गया और 14 मई 1934 को गया सेंट्रल जेल में फांसी दे दी गई।",
       "tip_hi": "अनुमोदक फणीन्द्र नाथ घोष की हत्या = बैकुंठ शुक्ल (गया जेल में फाँसी 1934)।"
     },
     {
@@ -679,7 +679,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Tropic of Cancer passes through 8 Indian States from पश्चिम to पूर्व: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, पश्चिम Bengal, Tripura, and Mizoram.",
+      "explanation_hi": "कर्क रेखा पश्चिम से पूर्व तक 8 भारतीय राज्यों से होकर गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
       "tip_hi": "स्मरणीय: 'मित्र पर गमछा ज़ार' (मिजोरम, त्रिपुरा, पश्चिम बंगाल, राजस्थान, गुजरात, मध्य प्रदेश, छत्तीसगढ़, झारखंड)।"
     },
     {
@@ -760,8 +760,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established on 1 जनवरी 2015 replacing the योजना आयोग, the प्रधानमंत्री serves as the ex-officio Chairperson of NITI Aayog.",
-      "tip_hi": "Chairperson of NITI Aayog, National Development Council & Inter-State Council = प्रधानमंत्री."
+      "explanation_hi": "1 जनवरी 2015 को योजना आयोग की जगह स्थापित, प्रधान मंत्री नीति आयोग के पदेन अध्यक्ष के रूप में कार्य करते हैं।",
+      "tip_hi": "नीति आयोग, राष्ट्रीय विकास परिषद और अंतर-राज्य परिषद के अध्यक्ष = प्रधान मंत्री।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -787,8 +787,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 86th संविधान संशोधन अधिनियम 2002 inserted अनुच्छेद 21A into Part III, making elementary education a मौलिक अधिकार. It also updated अनुच्छेद 45 in DPSP and added 11th fundamental duty in अनुच्छेद 51A(k).",
-      "tip_hi": "Right to Education (RTE) = 86th Constitutional संशोधन 2002 (अनुच्छेद 21A)."
+      "explanation_hi": "86वें संवैधानिक संशोधन अधिनियम 2002 ने अनुच्छेद 21ए को भाग III में शामिल किया, जिससे प्रारंभिक शिक्षा एक मौलिक अधिकार बन गई। इसने डीपीएसपी में अनुच्छेद 45 को भी अद्यतन किया और अनुच्छेद 51ए(के) में 11वां मौलिक कर्तव्य जोड़ा।",
+      "tip_hi": "शिक्षा का अधिकार (आरटीई) = 86वां संवैधानिक संशोधन 2002 (अनुच्छेद 21ए)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -814,7 +814,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "प्रधानमंत्री Narendra Modi announced that the landing site of Vikram lander on 23 अगस्त 2023 is named 'Shiv Shakti Point'. The crash site of Chandrayaan-2 was designated 'Tiranga Point', and 23 अगस्त declared 'National Space दिन'.",
+      "explanation_hi": "प्रधान मंत्री नरेंद्र मोदी ने घोषणा की कि 23 अगस्त 2023 को विक्रम लैंडर की लैंडिंग साइट का नाम 'शिव शक्ति पॉइंट' रखा गया है। चंद्रयान-2 के दुर्घटना स्थल को 'तिरंगा प्वाइंट' नामित किया गया और 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' घोषित किया गया।",
       "tip_hi": "चंद्रयान-3 टचडाउन = शिव शक्ति बिंदु; चंद्रयान-2 प्रभाव =तिरंगा बिंदु; 23 अगस्त = राष्ट्रीय अंतरिक्ष दिवस."
     },
     {
@@ -841,7 +841,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Time difference = 11 - 5 = 6 मिनट = 6/60 घंटे = 1/10 घंटे. Formula: Distance = (S1 * S2) / (S2 - S1) * Time difference = (40 * 50) / (50 - 40) * (1/10) = 2000 / 10 * 1/10 = 20 किमी.",
+      "explanation_hi": "समय का अंतर = 11 - 5 = 6 मिनट = 6/60 घंटा = 1/10 घंटा। सूत्र: दूरी = (एस1 * एस2) / (एस2 - एस1) * समय अंतर = (40 * 50) / (50 - 40) * (1/10) = 2000/10 * 1/10 = 20 किमी।",
       "tip_hi": "दूरी = (एस1*एस2)/(एस2-एस1) * (डेल्टा टी) = (40*50)/10 * (6/60) = 200 * 1/10 = 20 किमी।"
     },
     {
@@ -869,7 +869,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "माना वर्तमान आयु 7x और 2x है। 10 वर्षों में: (7x + 10)/(2x + 10) = 9/4 => 4(7x + 10) = 9(2x + 10) => 28x + 40 = 18x + 90 => 10x = 50 => x = 5. पिता की आयु = 7x = 7 * 5 = 35 वर्ष।",
-      "tip_hi": "Ratio units: (9-7)=2 units in 10 वर्ष => 1 unit = 5 वर्ष. Father = 7 units = 35 वर्ष."
+      "tip_hi": "अनुपात इकाइयाँ: (9-7)=10 वर्षों में 2 इकाइयाँ => 1 इकाई = 5 वर्ष। पिता = 7 इकाई = 35 वर्ष."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -922,7 +922,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 60 लीटर: Milk = 40 L, Water = 20 L. Let 'x' लीटर of water be added. (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर.",
+      "explanation_hi": "60 लीटर में: दूध = 40 लीटर, पानी = 20 लीटर। मान लीजिए 'x' लीटर पानी मिलाया गया है। (40) / (20 + x) = 1/2 => 20 + x = 80 => x = 60 लीटर।",
       "tip_hi": "दूध 40 लीटर पर स्थिर रहता है। 1:2 के अनुपात में, 1 इकाई = 40 लीटर, इसलिए पानी 2 इकाई = 80 लीटर होना चाहिए। जोड़ा गया पानी = 80 - 20 = 60 लीटर।"
     },
     {
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "बॉक्साइट (Al2O3 · 2H2O) is the principal aluminium ore. In the Bayer process, बॉक्साइट is digested in hot सोडियम हाइड्रॉक्साइड (NaOH) to produce pure alumina, जो कि then electrolyzed in the Hall-Héroult cell to produce metallic aluminium.",
-      "tip_hi": "Aluminium ore = बॉक्साइट; Iron ore = हेमेटाइट / Magnetite; Lead ore = Galena; Copper ore = Chalcopyrite."
+      "explanation_hi": "बॉक्साइट (Al2O3 · 2H2O) प्रमुख एल्यूमीनियम अयस्क है। बायर प्रक्रिया में, शुद्ध एल्यूमिना का उत्पादन करने के लिए बॉक्साइट को गर्म सोडियम हाइड्रॉक्साइड में पचाया जाता है, जिसे बाद में धातु एल्यूमीनियम का उत्पादन करने के लिए हॉल-हेरोल्ट सेल में इलेक्ट्रोलाइज किया जाता है।",
+      "tip_hi": "एल्युमीनियम अयस्क = बॉक्साइट; लौह अयस्क = हेमेटाइट/मैग्नेटाइट; सीसा अयस्क = गैलेना; तांबा अयस्क = चैलकोपाइराइट."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -1003,8 +1003,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "पर्णहरिम (क्लोरोफिल) (predominantly पर्णहरिम (क्लोरोफिल) a and b) contains a magnesium porphyrin ring and absorbs light mainly in the blue and red wavelengths of the visible spectrum while reflecting green light.",
-      "tip_hi": "Photosynthetic green pigment = पर्णहरिम (क्लोरोफिल) (central metal atom = Magnesium, Mg)."
+      "explanation_hi": "क्लोरोफिल (मुख्य रूप से क्लोरोफिल ए और बी) में एक मैग्नीशियम पोर्फिरिन रिंग होता है और हरे रंग की रोशनी को प्रतिबिंबित करते हुए मुख्य रूप से दृश्यमान स्पेक्ट्रम के नीले और लाल तरंग दैर्ध्य में प्रकाश को अवशोषित करता है।",
+      "tip_hi": "प्रकाश संश्लेषक हरा वर्णक = क्लोरोफिल (केंद्रीय धातु परमाणु = मैग्नीशियम, एमजी)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -1058,7 +1058,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जबकि 1931 में एक अनौपचारिक समूह का गठन हुआ, बिहार सोशलिस्ट पार्टी (और कांग्रेस सोशलिस्ट पार्टी की स्थापना) का औपचारिक संस्थापक सम्मेलन 17 मई 1934 को आचार्य नरेंद्र देव के नेतृत्व में अंजुमन इस्लामिया हॉल, पटना में हुआ।",
-      "tip_hi": "Bihar Socialist Party formal convention = 1934 (Anjuman Islamia Hall, Patna); Narendra Deva (राष्ट्रपति) & JP (Secretary)."
+      "tip_hi": "बिहार सोशलिस्ट पार्टी का औपचारिक सम्मेलन = 1934 (अंजुमन इस्लामिया हॉल, पटना); नरेंद्र देव (अध्यक्ष) और जेपी (सचिव)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 1 (Advt. 21/2023)",
@@ -1084,7 +1084,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Established in 1991, the Vikramshila Gangetic Dolphin Sanctuary covers a 60-किमी stretch of the गंगा नदी from Sultanganj to Kahalgaon in Bhagalpur district, protected as India's only dedicated dolphin sanctuary.",
+      "explanation_hi": "1991 में स्थापित, विक्रमशिला गंगा डॉल्फिन अभयारण्य, सुल्तानगंज से भागलपुर जिले के कहलगांव तक गंगा के 60 किलोमीटर के विस्तार को कवर करता है, जो भारत के एकमात्र समर्पित डॉल्फिन अभयारण्य के रूप में संरक्षित है।",
       "tip_hi": "गंगा डॉल्फिन अभयारण्य = विक्रमशिला (भागलपुर); राष्ट्रीय जलीय जीव = गांगेय डॉल्फिन (प्लैटनिस्टा गैंगेटिका)।\nउत्तर कुंजी सारांश तालिका - सेट 6 (प्रश्न 201 से 240)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]

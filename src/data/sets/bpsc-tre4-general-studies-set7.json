@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "तीन गुना के लिए, 8 वर्षों में SI = 2P, इसलिए ब्याज दर = 2P/(P * 8) = 25%। 9 बार बनने पर SI = 8P. समय = 8पी/(पी*0.25) = 32 वर्ष।",
-      "tip_hi": "Shortcut: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष."
+      "tip_hi": "शॉर्टकट: (N1 - 1)/T1 = (N2 - 1)/T2 => (3 - 1)/8 = (9 - 1)/T2 => 2/8 = 8/T2 => T2 = 32 वर्ष।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -220,8 +220,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "2024 is a leap वर्ष (divisible by 4) containing 366 दिन (52 सप्ताह + 2 odd दिन). In a leap वर्ष, the last दिन of the वर्ष (31 Dec) is one दिन ahead of the first दिन (1 Jan). Monday + 1 दिन = Tuesday.",
-      "tip_hi": "Ordinary वर्ष: First दिन = Last दिन; Leap वर्ष: Last दिन = First दिन + 1 दिन = Monday + 1 = Tuesday."
+      "explanation_hi": "2024 एक लीप वर्ष (4 से विभाज्य) है जिसमें 366 दिन (52 सप्ताह + 2 विषम दिन) हैं। लीप वर्ष में, वर्ष का अंतिम दिन (31 दिसंबर) पहले दिन (1 जनवरी) से एक दिन आगे होता है। सोमवार + 1 दिन = मंगलवार.",
+      "tip_hi": "साधारण वर्ष: पहला दिन = अंतिम दिन; लीप वर्ष: अंतिम दिन = पहला दिन + 1 दिन = सोमवार + 1 = मंगलवार।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -247,7 +247,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Newton's सेकंड Law of Motion gives the quantitative definition of force: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (for constant mass). First law defines inertia, and third law defines action-reaction जोड़े.",
+      "explanation_hi": "न्यूटन का गति का दूसरा नियम बल की मात्रात्मक परिभाषा देता है: F = dp/dt = d(mv)/dt = m(dv/dt) = ma (निरंतर द्रव्यमान के लिए)। पहला नियम जड़ता को परिभाषित करता है, और तीसरा नियम क्रिया-प्रतिक्रिया युग्म को परिभाषित करता है।",
       "tip_hi": "पहला नियम = बल और जड़ता की परिभाषा; दूसरा नियम = बल का माप (F = ma); तीसरा नियम = क्रिया-प्रतिक्रिया।"
     },
     {
@@ -328,8 +328,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Iodine is essential for the synthesis of thyroxine (T4) and triiodothyronine (T3) by the थायरॉयड ग्रंथि gland. Iodine deficiency stimulates excessive TSH release, causing hyperplasia and enlargement of the थायरॉयड ग्रंथि gland (goitre).",
-      "tip_hi": "Goitre = थायरॉयड ग्रंथि Gland enlargement (Iodine deficiency); Hormone = Thyroxine."
+      "explanation_hi": "आयोडीन थायरॉयड ग्रंथि द्वारा थायरोक्सिन (T4) और ट्राईआयोडोथायरोनिन (T3) के संश्लेषण के लिए आवश्यक है। आयोडीन की कमी अत्यधिक टीएसएच रिलीज को उत्तेजित करती है, जिससे हाइपरप्लासिया और थायरॉयड ग्रंथि (गॉयटर) का विस्तार होता है।",
+      "tip_hi": "घेंघा = थायरॉयड ग्रंथि का बढ़ना (आयोडीन की कमी); हार्मोन = थायरोक्सिन."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -383,7 +383,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पानी से भरे चावल के खेतों और जुगाली करने वाले पशुओं के रुमेन की अवायवीय स्थितियों में काम करने वाले मिथेनोजेनिक आर्कबैक्टीरिया भारी मात्रा में बायोजेनिक मीथेन (सीएच 4), एक शक्तिशाली ग्रीनहाउस गैस का उत्पादन करते हैं।",
-      "tip_hi": "Paddy fields & cattle belching = मीथेन (CH4); Coal mines & marsh gas = मीथेन."
+      "tip_hi": "धान के खेत और मवेशियों की डकार = मीथेन (CH4); कोयला खदानें एवं दलदली गैस = मीथेन।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -409,8 +409,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) reacts with acids in soda-acid fire extinguishers to release large volumes of carbon dioxide (CO2) gas that blanket and extinguish fires.",
-      "tip_hi": "सोडियम बाइकार्बोनेट = Fire extinguishers + बेकिंग सोडा (NaHCO3)."
+      "explanation_hi": "सोडियम बाइकार्बोनेट (NaHCO3) सोडा-एसिड अग्निशामक में एसिड के साथ प्रतिक्रिया करके बड़ी मात्रा में कार्बन डाइऑक्साइड (CO2) गैस छोड़ता है जो आग को बुझाती है।",
+      "tip_hi": "सोडियम बाइकार्बोनेट = अग्निशामक यंत्र + बेकिंग सोडा।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -436,7 +436,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A light वर्ष is the astronomical distance that light travels in निर्वात in one Julian वर्ष (approx. 9.46 * 10^12 किमी or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
+      "explanation_hi": "एक प्रकाश वर्ष वह खगोलीय दूरी है जो प्रकाश एक जूलियन वर्ष में निर्वात में तय करता है (लगभग 9.46 * 10^12 किमी या 9.46 * 10^15 मीटर)। यह खगोलीय दूरी की इकाई है, समय की नहीं।",
       "tip_hi": "प्रकाश वर्ष और पारसेक = खगोलीय दूरी की इकाइयाँ; 1 पारसेक ≈ 3.26 प्रकाश वर्ष।"
     },
     {
@@ -463,8 +463,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under the efforts of बाल गंगाधर तिलक and Mohammad Ali Jinnah, the Congress and Muslim League held their joint session at Lucknow in 1916, accepting separate electorates and demanding provincial self-government.",
-      "tip_hi": "Lucknow Pact 1916 = Congress & Muslim League alliance + Re-unification of Moderates and Extremists (राष्ट्रपति: A. C. Majumdar)."
+      "explanation_hi": "बाल गंगाधर तिलक और मोहम्मद अली जिन्ना के प्रयासों के तहत, कांग्रेस और मुस्लिम लीग ने 1916 में लखनऊ में अपना संयुक्त सत्र आयोजित किया, जिसमें अलग निर्वाचन क्षेत्रों को स्वीकार किया गया और प्रांतीय स्वशासन की मांग की गई।",
+      "tip_hi": "लखनऊ समझौता 1916 = कांग्रेस और मुस्लिम लीग गठबंधन + नरमपंथियों और उग्रवादियों का पुन: एकीकरण (अध्यक्ष: ए. सी. मजूमदार)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -490,8 +490,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Sir Frank G. Sly (Commissioner of Central Provinces) was appointed राष्ट्रपति of the Champaran Agrarian Enquiry Committee by Lieutenant राज्यपाल Edward Gait. The committee unanimously recommended the abolition of the tinkathia system.",
-      "tip_hi": "Champaran Agrarian Committee: राष्ट्रपति = F. G. Sly; Member = महात्मा गांधी; Outcome = Champaran Agrarian Act 1918."
+      "explanation_hi": "सर फ्रैंक जी. स्ली (मध्य प्रांत के आयुक्त) को लेफ्टिनेंट गवर्नर एडवर्ड गैट द्वारा चंपारण कृषि जांच समिति का अध्यक्ष नियुक्त किया गया था। समिति ने सर्वसम्मति से तिनकठिया प्रथा को समाप्त करने की अनुशंसा की.",
+      "tip_hi": "चंपारण कृषि समिति: अध्यक्ष = एफ.जी. स्ली; सदस्य = महात्मा गांधी; परिणाम = चम्पारण कृषि अधिनियम 1918."
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -517,7 +517,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In 1908, a meeting में आयोजित किया गया था Patna under Nawab Sarfaraz Hussain Khan where the Bihar Provincial Congress Committee was formally constituted, choosing Syed Hasan Imam as its first permanent राष्ट्रपति.",
+      "explanation_hi": "1908 में, नवाब सरफराज हुसैन खान के नेतृत्व में पटना में एक बैठक हुई जहां बिहार प्रांतीय कांग्रेस कमेटी का औपचारिक रूप से गठन किया गया, जिसमें सैयद हसन इमाम को इसका पहला स्थायी अध्यक्ष चुना गया।",
       "tip_hi": "बिहार प्रांतीय कांग्रेस कमेटी का गठन = 1908 (नवाब सरफराज हुसैन खान के अधीन पटना सम्मेलन)।"
     },
     {
@@ -544,8 +544,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Following ideological differences with महात्मा गांधी and the Congress Working Committee, सुभाष चंद्र बोस resigned in अप्रैल 1939 and announced the formation of the Forward Bloc within the Congress on 3 मई 1939 at Makur, Unnao.",
-      "tip_hi": "सुभाष चंद्र बोस founded Forward Bloc in 1939 (First All India Conference at Ramgarh, Bihar in 1940)."
+      "explanation_hi": "महात्मा गांधी और कांग्रेस कार्य समिति के साथ वैचारिक मतभेदों के बाद, सुभाष चंद्र बोस ने अप्रैल 1939 में इस्तीफा दे दिया और 3 मई 1939 को मकुर, उन्नाव में कांग्रेस के भीतर फॉरवर्ड ब्लॉक के गठन की घोषणा की।",
+      "tip_hi": "सुभाष चंद्र बोस ने 1939 में फॉरवर्ड ब्लॉक की स्थापना की (1940 में बिहार के रामगढ़ में पहला अखिल भारतीय सम्मेलन)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -599,7 +599,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "रेगुर (काली कपास मिट्टी) बेसाल्टिक डेक्कन ट्रैप लावा चट्टानों (महाराष्ट्र, गुजरात, एमपी) के अपक्षय से प्राप्त होती है। यह चिकनी मिट्टी से भरपूर है, इसमें उच्च नमी बनाए रखने की क्षमता है और यह कपास की खेती के लिए आदर्श है।",
-      "tip_hi": "काली मिट्टी (रेगुर मिट्टी) = Regur = Basaltic lava = Cotton cultivation."
+      "tip_hi": "काली मिट्टी = रेगुर = बेसाल्टिक लावा = कपास की खेती।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 76 provides that the राष्ट्रपति shall appoint a person qualified to be a Judge of the सर्वोच्च न्यायालय to be the Attorney General for India, who has the right of audience in all courts in India and right to speak in संसद without voting rights.",
-      "tip_hi": "Attorney General for India = अनुच्छेद 76 (Union highest law officer); Advocate General = अनुच्छेद 165 (State)."
+      "explanation_hi": "अनुच्छेद 76 में प्रावधान है कि राष्ट्रपति सर्वोच्च न्यायालय के न्यायाधीश बनने के लिए योग्य व्यक्ति को भारत का अटॉर्नी जनरल नियुक्त करेगा, जिसे भारत की सभी अदालतों में सुनने का अधिकार होगा और मतदान के अधिकार के बिना संसद में बोलने का अधिकार होगा।",
+      "tip_hi": "भारत के अटॉर्नी जनरल = अनुच्छेद 76 (संघ का सर्वोच्च कानून अधिकारी); महाधिवक्ता = अनुच्छेद 165 (राज्य)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -706,8 +706,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Balwant Rai Mehta Committee (1957) recommended 'Democratic Decentralization' via a 3-tier structure. Rajasthan was the first state to inaugurate पंचायती राज on 2 अक्टूबर 1959 at Nagaur, followed by Andhra Pradesh.",
-      "tip_hi": "3-tier पंचायती राज = Balwant Rai Mehta (1957); 2-tier system = Ashok Mehta (1977); Constitutional status = L.M. Singhvi (1986)."
+      "explanation_hi": "बलवंत राय मेहता समिति (1957) ने 3-स्तरीय संरचना के माध्यम से 'लोकतांत्रिक विकेंद्रीकरण' की सिफारिश की। 2 अक्टूबर 1959 को नागौर में पंचायती राज का उद्घाटन करने वाला राजस्थान पहला राज्य था, उसके बाद आंध्र प्रदेश था।",
+      "tip_hi": "3-स्तरीय पंचायती राज = बलवंत राय मेहता (1957); 2-स्तरीय प्रणाली = अशोक मेहता (1977); संवैधानिक स्थिति = एल.एम. सिंघवी (1986)।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 280 mandates that the राष्ट्रपति shall constitute a वित्त आयोग every fifth वर्ष (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.",
-      "tip_hi": "वित्त आयोग = अनुच्छेद 280, appointed every 5 वर्ष by the राष्ट्रपति. 16th FC Chairman = Dr. Arvind Panagariya."
+      "explanation_hi": "अनुच्छेद 280 में कहा गया है कि राष्ट्रपति संघ और राज्यों के बीच शुद्ध कर आय के वितरण की सिफारिश करने के लिए हर पांचवें वर्ष (या उससे पहले) एक वित्त आयोग का गठन करेंगे।",
+      "tip_hi": "वित्त आयोग = अनुच्छेद 280, प्रत्येक 5 वर्ष में राष्ट्रपति द्वारा नियुक्त किया जाता है। 16वें एफसी अध्यक्ष = डॉ. अरविंद पनगढ़िया।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -760,7 +760,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On 31 दिसम्बर 2023, the Government appointed former NITI Aayog Vice-Chairman Dr. Arvind Panagariya as Chairman of the 16th वित्त आयोग. N.K. Singh headed the 15th वित्त आयोग.",
+      "explanation_hi": "31 दिसंबर 2023 को सरकार ने नीति आयोग के पूर्व उपाध्यक्ष डॉ. अरविंद पनगढ़िया को 16वें वित्त आयोग का अध्यक्ष नियुक्त किया। एन.के. सिंह ने 15वें वित्त आयोग का नेतृत्व किया।",
       "tip_hi": "16वें वित्त आयोग के अध्यक्ष = डॉ. अरविंद पनगढ़िया; 15वें एफसी अध्यक्ष = एन.के. सिंह।"
     },
     {
@@ -841,7 +841,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The pale yellow colour of normal urine is due to the pigment urochrome (urobilin), a breakdown end-product of हीमोग्लोबिन degradation excreted by the kidneys.",
+      "explanation_hi": "सामान्य मूत्र का हल्का पीला रंग वर्णक यूरोक्रोम (यूरोबिलिन) के कारण होता है, जो कि गुर्दे द्वारा उत्सर्जित हीमोग्लोबिन क्षरण का एक टूटने वाला अंतिम उत्पाद है।",
       "tip_hi": "मूत्र का पीला रंग = यूरोक्रोम; पित्त पीला वर्णक = बिलीरुबिन।"
     },
     {
@@ -895,7 +895,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 213 empowers the राज्यपाल to promulgate an अध्यादेश when the State Legislative Assembly (or both Houses in a bicameral legislature) is not in session. राष्ट्रपति's अध्यादेश power is under अनुच्छेद 123.",
+      "explanation_hi": "अनुच्छेद 213 राज्यपाल को उस समय अध्यादेश प्रख्यापित करने का अधिकार देता है जब राज्य विधान सभा (या द्विसदनीय विधायिका में दोनों सदन) सत्र में नहीं चल रहे हों। राष्ट्रपति की अध्यादेश की शक्ति अनुच्छेद 123 के अंतर्गत है।",
       "tip_hi": "अध्यादेश Powers: राष्ट्रपति = अनुच्छेद 123; राज्यपाल = अनुच्छेद 213."
     },
     {
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "स्वामी विवेकानंद founded the Ramakrishna Mission on 1 मई 1897 at Belur Math near Kolkata, named after his spiritual guru Ramakrishna Paramahamsa.",
-      "tip_hi": "Ramakrishna Mission (1897) = स्वामी विवेकानंद; Arya Samaj (1875) = Dayananda Saraswati; Brahmo Samaj (1828) = राजा राममोहन राय."
+      "explanation_hi": "स्वामी विवेकानन्द ने 1 मई 1897 को कोलकाता के पास बेलूर मठ में रामकृष्ण मिशन की स्थापना की, जिसका नाम उनके आध्यात्मिक गुरु रामकृष्ण परमहंस के नाम पर रखा गया।",
+      "tip_hi": "रामकृष्ण मिशन (1897) = स्वामी विवेकानन्द; आर्य समाज (1875) = दयानंद सरस्वती; ब्रह्म समाज (1828) = राजा राम मोहन राय।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -950,7 +950,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "जलोढ़ मिट्टी और उच्च वर्षा (>140 सेमी) के कारण उत्तरपूर्वी बाढ़ क्षेत्र वाले जिले-पूर्णिया, कटिहार और किशनगंज-बिहार की प्राथमिक जूट उत्पादक बेल्ट बनाते हैं। पूर्णिया सबसे बड़ा एकल उत्पादक है, लेकिन कटिहार और किशनगंज भी प्रमुख उत्पादक हैं, जो (डी) को आधिकारिक कुंजी बनाते हैं।",
-      "tip_hi": "BPSC Question Trap: When Purnia, Katihar, and Kishanganj appear together for jute, Option (D) उपर्युक्त में से एक से अधिक is correct."
+      "tip_hi": "BPSC प्रश्न जाल: जब जूट के लिए पूर्णिया, कटिहार और किशनगंज एक साथ दिखाई देते हैं, तो विकल्प (D) उपरोक्त में से एक से अधिक सही है।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -976,7 +976,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Conducted in two phases के दौरान 2023, the findings of the Bihar Caste-based Survey were officially released on Gandhi Jayanti (2 अक्टूबर 2023), recording EBCs at 36.01%, OBCs at 27.13%, SCs at 19.65%, STs at 1.68%, and General Category at 15.52%.",
+      "explanation_hi": "2023 के दौरान दो चरणों में आयोजित, बिहार जाति-आधारित सर्वेक्षण के निष्कर्ष आधिकारिक तौर पर गांधी जयंती (2 अक्टूबर 2023) को जारी किए गए थे, जिसमें ईबीसी 36.01%, ओबीसी 27.13%, एससी 19.65%, एसटी 1.68% और सामान्य श्रेणी 15.52% दर्ज की गई थी।",
       "tip_hi": "2 अक्टूबर 2023 को जारी बिहार जाति सर्वेक्षण: ईबीसी (36%) + ओबीसी (27%) = 63% कुल पिछड़ा वर्ग।"
     },
     {
@@ -1003,7 +1003,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Aditya-L1 was launched on 2 सितम्बर 2023 aboard PSLV-C57 and successfully placed into a halo orbit around the Lagrangian point 1 (L1), 1.5 million किमी from Earth, to study solar coronal heating and solar wind flares.",
+      "explanation_hi": "आदित्य-एल1 को 2 सितंबर 2023 को पीएसएलवी-सी57 पर लॉन्च किया गया था और सौर कोरोनल हीटिंग और सौर पवन फ्लेयर्स का अध्ययन करने के लिए इसे पृथ्वी से 1.5 मिलियन किमी दूर लैग्रेंजियन पॉइंट 1 (एल1) के आसपास एक हेलो कक्षा में सफलतापूर्वक स्थापित किया गया था।",
       "tip_hi": "भारत का सौर मिशन =आदित्य-L1 (PSLV-C57); गंतव्य = लैग्रेंज बिंदु 1 (एल1)।"
     },
     {
@@ -1084,8 +1084,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The Drafting Committee was set up on 29 अगस्त 1947 with Dr. B. R. Ambedkar as its Chairman. डॉ. राजेंद्र प्रसाद was the permanent राष्ट्रपति of the Constituent Assembly.",
-      "tip_hi": "Drafting Committee Chairman = Dr. B. R. Ambedkar; Constituent Assembly राष्ट्रपति = डॉ. राजेंद्र प्रसाद.\nAnswer Key Summary Table — Set 7 (Questions 241 to 280)\nQ. No.\nExam / Source Tag\nCore Concept Tested\nKey"
+      "explanation_hi": "मसौदा समिति की स्थापना 29 अगस्त 1947 को डॉ. बी.आर. अम्बेडकर की अध्यक्षता में की गई थी। डॉ. राजेंद्र प्रसाद संविधान सभा के स्थायी अध्यक्ष थे।",
+      "tip_hi": "प्रारूप समिति के अध्यक्ष = डॉ. बी.आर. अम्बेडकर; संविधान सभा अध्यक्ष = डॉ. राजेंद्र प्रसाद।\nउत्तर कुंजी सारांश तालिका - सेट 7 (प्रश्न 241 से 280)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]
 }

@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "A light वर्ष is the astronomical distance that light travels in निर्वात in one Julian वर्ष (approx. 9.46 * 10^12 किमी or 9.46 * 10^15 metres). It is a unit of astronomical distance, not time.",
+      "explanation_hi": "एक प्रकाश वर्ष वह खगोलीय दूरी है जो प्रकाश एक जूलियन वर्ष में निर्वात में तय करता है (लगभग 9.46 * 10^12 किमी या 9.46 * 10^15 मीटर)। यह खगोलीय दूरी की इकाई है, समय की नहीं।",
       "tip_hi": "प्रकाश वर्ष और पारसेक = खगोलीय दूरी की इकाइयाँ; 1 पारसेक ≈ 3.26 प्रकाश वर्ष।"
     },
     {
@@ -166,8 +166,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 280 mandates that the राष्ट्रपति shall constitute a वित्त आयोग every fifth वर्ष (or earlier) to recommend the distribution of net tax proceeds between the Union and the States.",
-      "tip_hi": "वित्त आयोग = अनुच्छेद 280, appointed every 5 वर्ष by the राष्ट्रपति. 16th FC Chairman = Dr. Arvind Panagariya."
+      "explanation_hi": "अनुच्छेद 280 में कहा गया है कि राष्ट्रपति संघ और राज्यों के बीच शुद्ध कर आय के वितरण की सिफारिश करने के लिए हर पांचवें वर्ष (या उससे पहले) एक वित्त आयोग का गठन करेंगे।",
+      "tip_hi": "वित्त आयोग = अनुच्छेद 280, प्रत्येक 5 वर्ष में राष्ट्रपति द्वारा नियुक्त किया जाता है। 16वें एफसी अध्यक्ष = डॉ. अरविंद पनगढ़िया।"
     },
     {
       "source": "BPSC TRE 1.0 - Primary Shift 2 (Advt. 21/2023)",
@@ -248,7 +248,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "अंतर्वाह दर = 1/8 टैंक/घंटा। रिसाव के साथ शुद्ध प्रवाह = 1/10 टैंक/घंटा। रिसाव दर = 1/8 - 1/10 = (5 - 4)/40 = 1/40 टैंक/घंटा। पूरी टंकी खाली करने का समय = 40 घंटे.",
-      "tip_hi": "Leak formula: (A * B) / (B - A) = (8 * 10) / (10 - 8) = 80 / 2 = 40 घंटे."
+      "tip_hi": "रिसाव सूत्र: (ए * बी) / (बी - ए) = (8 * 10) / (10 - 8) = 80/2 = 40 घंटे।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -382,8 +382,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Let the numbers be 13a and 13b, where a and b are co-prime. Product = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. Co-prime जोड़े whose product is 12: (1, 12) and (3, 4). (Note: (2, 6) are not co-prime). Thus, exactly 2 जोड़े are possible: (13, 156) and (39, 52).",
-      "tip_hi": "ab = 2028 / 13^2 = 12. Co-prime factor जोड़े of 12 = (1, 12) and (3, 4) => exactly 2 जोड़े."
+      "explanation_hi": "माना संख्याएँ 13a और 13b हैं, जहाँ a और b सह-अभाज्य हैं। उत्पाद = 13a * 13b = 169ab = 2028 => ab = 2028 / 169 = 12. सह-अभाज्य जोड़े जिनका उत्पाद 12 है: (1, 12) और (3, 4)। (नोट: (2, 6) सह-अभाज्य नहीं हैं)। इस प्रकार, ठीक 2 जोड़े संभव हैं: (13, 156) और (39, 52)।",
+      "tip_hi": "एबी = 2028 / 13^2 = 12. 12 के सह-अभाज्य कारक जोड़े = (1, 12) और (3, 4) => बिल्कुल 2 जोड़े।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -409,7 +409,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "On mixing with water, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) undergoes an exothermic hydration reaction, recombining with 1.5 molecules of water to reform जिप्सम (CaSO4 · 2H2O), which crystallizes into an interlocking needle-like hard network.",
+      "explanation_hi": "पानी के साथ मिश्रित होने पर, प्लास्टर ऑफ पेरिस (CaSO4 · 1/2H2O) एक एक्ज़ोथिर्मिक जलयोजन प्रतिक्रिया से गुजरता है, जो जिप्सम (CaSO4 · 2H2O) को सुधारने के लिए पानी के 1.5 अणुओं के साथ पुनः संयोजित होता है, जो एक इंटरलॉकिंग सुई की तरह कठोर नेटवर्क में क्रिस्टलीकृत हो जाता है।",
       "tip_hi": "पीओपी सेटिंग = जिप्सम में पुनर्जलीकरण (CaSO4 · 2H2O)।"
     },
     {
@@ -436,8 +436,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "After escaping from Hazaribagh Central Jail on Diwali night in नवम्बर 1942, जयप्रकाश नारायण established the Azad Dasta training camp in the Bakro ka Tapu area of Nepal's Terai to impart armed guerrilla training and sabotage communications.",
-      "tip_hi": "Azad Dasta (Nepal, 1942) = जयप्रकाश नारायण (JP); Escaped from Hazaribagh Jail."
+      "explanation_hi": "नवंबर 1942 में दिवाली की रात हज़ारीबाग़ सेंट्रल जेल से भागने के बाद, जयप्रकाश नारायण ने सशस्त्र गुरिल्ला प्रशिक्षण और तोड़फोड़ संचार प्रदान करने के लिए नेपाल के तराई के बकरो का टापू क्षेत्र में आज़ाद दस्ता प्रशिक्षण शिविर की स्थापना की।",
+      "tip_hi": "आज़ाद दस्ता (नेपाल, 1942)=जयप्रकाश नारायण (जेपी); हज़ारीबाग़ जेल से भाग गये।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
@@ -599,7 +599,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कुल संभावित परिणाम = 6 * 6 = 36। योग 8 देने वाले अनुकूल परिणाम: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 परिणाम। प्रायिकता = 5/36.",
-      "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
+      "tip_hi": "जोड़ियों का योग 8 है: (2,6), (3,5), (4,4), (5,3), (6,2) = 36 में से बिल्कुल 5 जोड़े => 5/36।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -626,7 +626,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मी/से. में गति = 72 * (5/18) = 20 मी./से. एक बिंदु वस्तु (खड़े आदमी) को पार करने के लिए, दूरी = ट्रेन की लंबाई = 180 मीटर। समय = दूरी/गति = 180/20 = 9 सेकंड।",
-      "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
+      "tip_hi": "गति = 72 * 5/18 = 20 मीटर/सेकेंड। समय = 180/20 = 9 सेकंड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",

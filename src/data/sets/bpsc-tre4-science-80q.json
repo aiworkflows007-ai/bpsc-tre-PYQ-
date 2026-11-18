@@ -32,7 +32,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "आंख का लेंस आपतित प्रकाश किरणों को रेटिना पर केंद्रित करता है, आंख के पीछे एक प्रकाश-संवेदनशील स्क्रीन होती है जिसमें फोटोरिसेप्टर छड़ें और शंकु होते हैं जो विद्युत आवेग उत्पन्न करते हैं।",
-      "tip_hi": "कॉर्निया = transparent front window; आईरिस = regulates पुतली diameter; रेटिना = screen where real and inverted image is formed."
+      "tip_hi": "कॉर्निया = पारदर्शी सामने की खिड़की; आईरिस = पुतली के व्यास को नियंत्रित करता है; रेटिना = स्क्रीन जहां वास्तविक और उलटा प्रतिबिम्ब बनता है।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -58,8 +58,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Mechanical ध्वनि तरंगें propagate via particle collisions; higher elasticity and closer atomic packing in ठोस yield the highest acoustic velocity (approx. 5100 m/s in steel vs. 1500 m/s in water and 343 m/s in air).",
-      "tip_hi": "Sound velocity order: ठोस > द्रव > गैस >> निर्वात (0 m/s, cannot travel through निर्वात)."
+      "explanation_hi": "यांत्रिक ध्वनि तरंगें कण टकराव के माध्यम से फैलती हैं; ठोस पदार्थों में उच्च लोच और निकट परमाणु पैकिंग से उच्चतम ध्वनिक वेग (स्टील में लगभग 5100 मीटर/सेकेंड बनाम पानी में 1500 मीटर/सेकंड और हवा में 343 मीटर/सेकेंड) प्राप्त होता है।",
+      "tip_hi": "ध्वनि वेग क्रम: ठोस > तरल पदार्थ > गैसें >> निर्वात (0 m/s, निर्वात के माध्यम से यात्रा नहीं कर सकता)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -86,7 +86,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "संवहन में गुरुत्वाकर्षण के तहत घनत्व प्रवणता के कारण द्रव कणों का स्थूल द्रव्यमान संचलन शामिल होता है। इसलिए, यह विशेष रूप से तरल पदार्थों (तरल पदार्थ और गैसों) में होता है।",
-      "tip_hi": "Conduction = ठोस (fixed particles); Convection = Fluids (द्रव & गैस); Radiation = निर्वात & transparent media (no material medium required)."
+      "tip_hi": "चालन = ठोस (स्थिर कण); संवहन = तरल पदार्थ (तरल पदार्थ और गैसें); विकिरण = निर्वात एवं पारदर्शी मीडिया (किसी भौतिक माध्यम की आवश्यकता नहीं)।"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -139,7 +139,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Optical fibres consist of a high refractive index core surrounded by lower refractive index cladding. Light launched at an angle exceeding the critical angle undergoes repeated पूर्ण आंतरिक परावर्तन without signal leakage.",
+      "explanation_hi": "ऑप्टिकल फाइबर में एक उच्च अपवर्तक सूचकांक कोर होता है जो कम अपवर्तक सूचकांक आवरण से घिरा होता है। क्रांतिक कोण से अधिक कोण पर प्रक्षेपित प्रकाश सिग्नल रिसाव के बिना बार-बार पूर्ण आंतरिक परावर्तन से गुजरता है।",
       "tip_hi": "टीआईआर के लिए दो शर्तें: (1) प्रकाश को सघन माध्यम से विरल माध्यम तक यात्रा करनी चाहिए, और (2) घटना का कोण क्रांतिक कोण से अधिक होना चाहिए।"
     },
     {
@@ -545,7 +545,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "प्रकाश की आवृत्ति विशेष रूप से उत्पन्न स्रोत के परमाणु दोलनों पर निर्भर करती है। मीडिया सीमाओं के पार अपवर्तन के दौरान, वेग और तरंग दैर्ध्य आनुपातिक रूप से कम हो जाते हैं (v = f * लैम्ब्डा), जिससे आवृत्ति अपरिवर्तित रहती है।",
-      "tip_hi": "In अपवर्तन: Frequency (f) remains invariant; Velocity (v) and Wavelength (lambda) change proportionally; Wave slows down and bends towards normal in denser media.\nSection 2: Chemistry (रसायन विज्ञान) — Questions 21 to 40\nPeriodic Trends, Molecular Structure, Coordination Chemistry, Organic Mechanisms & Thermochemistry"
+      "tip_hi": "अपवर्तन में: आवृत्ति (f) अपरिवर्तनीय रहती है; वेग (v) और तरंग दैर्ध्य (लैम्ब्डा) आनुपातिक रूप से बदलते हैं; सघन मीडिया में तरंग धीमी हो जाती है और सामान्य की ओर झुक जाती है।\nधारा 2: रसायन विज्ञान (रसायन विज्ञान) - प्रश्न 21 से 40\nआवधिक रुझान, आणविक संरचना, समन्वय रसायन विज्ञान, कार्बनिक तंत्र और थर्मोकैमिस्ट्री"
     },
     {
       "source": "BPSC TGT Science - Advt. 23/2023",
@@ -1112,7 +1112,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "क्लोरोप्लास्ट दोहरे झिल्ली वाले अंग हैं जिनमें क्लोरोफिल वर्णक होते हैं; प्रकाश-निर्भर प्रतिक्रियाएं थायलाकोइड ग्रैना झिल्ली पर होती हैं, जबकि प्रकाश-स्वतंत्र केल्विन चक्र स्ट्रोमा में होता है।",
-      "tip_hi": "माइटोकॉन्ड्रिया = Cellular respiration (Powerhouse of cell); Ribosomes = Protein synthesis; Chloroplasts = Photosynthesis (Kitchen of cell)."
+      "tip_hi": "माइटोकॉन्ड्रिया = कोशिकीय श्वसन (कोशिका का पावरहाउस); राइबोसोम = प्रोटीन संश्लेषण; क्लोरोप्लास्ट = प्रकाश संश्लेषण (कोशिका की रसोई)।"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -1138,8 +1138,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "फ्लोएम (भोजन संवहन) conducts soluble organic substances synthesized during photosynthesis (predominantly sucrose) bidirectionally from source to sink via sieve tube elements and companion cells.",
-      "tip_hi": "जाइलम (जल संवहन) = Unidirectional transport of water and dissolved minerals; फ्लोएम (भोजन संवहन) = Bidirectional translocation of organic nutrients (food)."
+      "explanation_hi": "फ्लोएम प्रकाश संश्लेषण के दौरान संश्लेषित घुलनशील कार्बनिक पदार्थों (मुख्य रूप से सुक्रोज) को स्रोत से सिंक तक छलनी ट्यूब तत्वों और साथी कोशिकाओं के माध्यम से द्विदिश रूप से संचालित करता है।",
+      "tip_hi": "जाइलम = पानी और घुले हुए खनिजों का एकदिशात्मक परिवहन; फ्लोएम = जैविक पोषक तत्वों (भोजन) का द्विदिशीय स्थानांतरण।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1435,8 +1435,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Commercial fibres of Sunn hemp (Crotalaria juncea) and Jute (Corchorus) are sclerenchymatous bast fibres derived from secondary फ्लोएम (भोजन संवहन) tissue in the stem cortex.",
-      "tip_hi": "Bast fibres = Secondary फ्लोएम (भोजन संवहन) (Jute, Hemp, Flax); Surface fibres = Epidermal seed hairs (Cotton); Leaf fibres = Sclerenchyma of monocot leaves (Sisal)."
+      "explanation_hi": "सुन्न हेम्प (क्रोटेलारिया जंसिया) और जूट (कोरकोरस) के वाणिज्यिक फाइबर, स्टेम कॉर्टेक्स में द्वितीयक फ्लोएम ऊतक से प्राप्त स्क्लेरेन्काइमेटस बास्ट फाइबर हैं।",
+      "tip_hi": "बास्ट फाइबर = द्वितीयक फ्लोएम (जूट, भांग, सन); सतही रेशे = एपिडर्मल बीज बाल (कपास); पत्ती के रेशे = मोनोकॉट पत्तियों का स्क्लेरेन्काइमा (सिसल)।"
     },
     {
       "source": "BPSC Middle School & TGT Science",
@@ -1544,7 +1544,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "फल पकने के दौरान, हरे क्लोरोफिल वर्णक नष्ट हो जाते हैं जबकि थायलाकोइड्स घुल जाते हैं, जिससे प्रकाश संश्लेषक क्लोरोप्लास्ट कैरोटीनॉयड और लाइकोपीन वर्णकों से भरपूर गैर-प्रकाश संश्लेषक क्रोमोप्लास्ट में बदल जाते हैं।",
-      "tip_hi": "Plastid transformation during ripening: Green हरितलवक (क्लोरोप्लास्ट) -> Red/Yellow Chromoplast. Amyloplasts store starch; Leucoplasts are colorless."
+      "tip_hi": "पकने के दौरान प्लास्टिड परिवर्तन: हरा क्लोरोप्लास्ट -> लाल/पीला क्रोमोप्लास्ट। एमाइलोप्लास्ट स्टार्च को संग्रहित करते हैं; ल्यूकोप्लास्ट रंगहीन होते हैं।"
     },
     {
       "source": "BPSC Senior Secondary Botany - Advt. 24/2023",
@@ -1678,7 +1678,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Secretin is released by duodenum S-cells in response to अम्लीय chyme, stimulating the exocrine अग्न्याशय to secrete watery pancreatic juice rich in bicarbonate ions to neutralize stomach acid.",
+      "explanation_hi": "अम्लीय काइम के जवाब में डुओडेनम एस-कोशिकाओं द्वारा सेक्रेटिन जारी किया जाता है, जो पेट के एसिड को बेअसर करने के लिए बाइकार्बोनेट आयनों से भरपूर पानी वाले अग्नाशयी रस को स्रावित करने के लिए एक्सोक्राइन अग्न्याशय को उत्तेजित करता है।",
       "tip_hi": "सीक्रेटिन = अग्नाशयी बाइकार्बोनेट और जल स्राव को उत्तेजित करता है; कोलेसीस्टोकिनिन (सीसीके) = पित्ताशय की थैली से पित्त निष्कासन और अग्नाशयी पाचन एंजाइमों को उत्तेजित करता है।"
     },
     {
@@ -1706,7 +1706,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पेप्सिन पेट का सक्रिय प्रोटियोलिटिक एंजाइम है, जो गैस्ट्रिक एचसीएल द्वारा निष्क्रिय पेप्सिनोजन से परिवर्तित होता है; यह जटिल प्रोटीन को प्रोटिओज़ और पेप्टोन में विभाजित करने के लिए पीएच 1.5-2.0 पर इष्टतम रूप से संचालित होता है।",
-      "tip_hi": "पेप्सिन = operates in अम्लीय medium (pH 1.5-2.0) in stomach; ट्रिप्सिन = operates in alkaline medium (pH 7.8-8.5) in small intestine."
+      "tip_hi": "पेप्सिन = पेट में अम्लीय माध्यम (पीएच 1.5-2.0) में काम करता है; ट्रिप्सिन = छोटी आंत में क्षारीय माध्यम (पीएच 7.8-8.5) में कार्य करता है।"
     },
     {
       "source": "BPSC Middle School & Senior Secondary",
@@ -1733,7 +1733,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग दस लाख नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल और गुर्दे की नलिकाएं शामिल होती हैं जो रक्त अल्ट्राफिल्ट्रेशन, चयनात्मक पुनर्अवशोषण और ट्यूबलर स्राव करती हैं।",
-      "tip_hi": "नेफ्रॉन (वृक्काणु) = Excretory and filtration unit of Kidney; Neuron = Structural and functional unit of Nervous system."
+      "tip_hi": "नेफ्रॉन = गुर्दे की उत्सर्जन और निस्पंदन इकाई; न्यूरॉन = तंत्रिका तंत्र की संरचनात्मक और कार्यात्मक इकाई।"
     },
     {
       "source": "BPSC Senior Secondary Zoology - Advt. 24/2023",
@@ -1814,7 +1814,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "पेरिस्टलसिस एक अनैच्छिक प्रतिवर्त है जो भोजन के बोलस के पीछे समन्वित गोलाकार मांसपेशी संकुचन और उसके आगे अनुदैर्ध्य मांसपेशी विश्राम द्वारा विशेषता है, जो भोजन को पाचन तंत्र में धकेलता है।",
-      "tip_hi": "Peristalsis = Muscular wave movement propelling food through gut; Translocation = फ्लोएम (भोजन संवहन) nutrient transport; Transpiration = Water vapor loss from leaves."
+      "tip_hi": "पेरिस्टलसिस = मांसपेशियों की तरंग गति जो भोजन को आंत के माध्यम से आगे बढ़ाती है; स्थानान्तरण = फ्लोएम पोषक तत्व परिवहन; वाष्पोत्सर्जन = पत्तियों से जलवाष्प की हानि।"
     },
     {
       "source": "BPSC Middle School Question Paper - Science",
@@ -2110,7 +2110,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Thyroxine (T4) is an iodinated amino acid derivative synthesized from tyrosine in the थायरॉयड ग्रंथि gland. In contrast, aldosterone and estrogen are lipid-soluble steroid hormones synthesized from cholesterol.",
+      "explanation_hi": "थायरोक्सिन (T4) थायरॉयड ग्रंथि में टायरोसिन से संश्लेषित एक आयोडीन युक्त अमीनो एसिड व्युत्पन्न है। इसके विपरीत, एल्डोस्टेरोन और एस्ट्रोजन कोलेस्ट्रॉल से संश्लेषित लिपिड-घुलनशील स्टेरॉयड हार्मोन हैं।",
       "tip_hi": "स्टेरॉयड हार्मोन (कोलेस्ट्रॉल से) = कोर्टिसोल, एल्डोस्टेरोन, एस्ट्रोजन, प्रोजेस्टेरोन, टेस्टोस्टेरोन; अमीनो एसिड डेरिवेटिव = थायरोक्सिन, एपिनेफ्रिन।"
     },
     {

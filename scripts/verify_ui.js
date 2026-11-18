@@ -57,8 +57,8 @@ async function run() {
     })
   }
 
-  // Target local server directly
-  const newTarget = await send('Target.createTarget', { url: 'http://localhost:5173/#/app' })
+  // Target live production server
+  const newTarget = await send('Target.createTarget', { url: 'https://bpsc-tre-pyq.onrender.com/#/app' })
   const targetId = newTarget.result.targetId
   const attachRes = await send('Target.attachToTarget', { targetId, flatten: true })
   const sessionId = attachRes.result.sessionId

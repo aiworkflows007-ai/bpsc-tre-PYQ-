@@ -72,7 +72,8 @@ def needs_hindi_translation(hi_text, en_text):
         return True
     hi_count = len(re.findall(r'[\u0900-\u097F]', hi_text))
     en_count = len(re.findall(r'[a-zA-Z]', hi_text))
-    if en_count > 15 and hi_count < 10:
+    # If English letters exceed 10 and make up more than 15% of all letters
+    if en_count > 10 and (hi_count == 0 or (en_count / (en_count + hi_count)) > 0.15):
         return True
     if hi_text.strip() == en_text.strip():
         return True

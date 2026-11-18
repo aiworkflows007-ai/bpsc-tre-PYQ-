@@ -59,7 +59,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "कुल संभावित परिणाम = 6 * 6 = 36। योग 8 देने वाले अनुकूल परिणाम: (2,6), (3,5), (4,4), (5,3), (6,2) = 5 परिणाम। प्रायिकता = 5/36.",
-      "tip_hi": "जोड़े summing to 8: (2,6), (3,5), (4,4), (5,3), (6,2) = exactly 5 जोड़े out of 36 => 5/36."
+      "tip_hi": "जोड़ियों का योग 8 है: (2,6), (3,5), (4,4), (5,3), (6,2) = 36 में से बिल्कुल 5 जोड़े => 5/36।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -86,7 +86,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "मी/से. में गति = 72 * (5/18) = 20 मी./से. एक बिंदु वस्तु (खड़े आदमी) को पार करने के लिए, दूरी = ट्रेन की लंबाई = 180 मीटर। समय = दूरी/गति = 180/20 = 9 सेकंड।",
-      "tip_hi": "Speed = 72 * 5/18 = 20 m/s. Time = 180 / 20 = 9 सेकंड."
+      "tip_hi": "गति = 72 * 5/18 = 20 मीटर/सेकेंड। समय = 180/20 = 9 सेकंड।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -247,7 +247,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "In निर्वात, all electromagnetic radiation travels at the fundamental universal physical constant c = 299,792,458 m/s ≈ 3 × 10^8 m/s (or 3 × 10^5 किमी/s).",
+      "explanation_hi": "निर्वात में, सभी विद्युत चुम्बकीय विकिरण मौलिक सार्वभौमिक भौतिक स्थिरांक c = 299,792,458 m/s ≈ 3 × 10^8 m/s (या 3 × 10^5 किमी/सेकेंड) पर यात्रा करते हैं।",
       "tip_hi": "प्रकाश की गति c = 3 × 10^8 मी/से = 3 × 10^5 किमी/सेकेंड।"
     },
     {
@@ -301,8 +301,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Each human वृक्क (गुर्दा) contains approximately 1 to 1.2 million nephrons consisting of a glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, and distal convoluted tubule.",
-      "tip_hi": "वृक्क (गुर्दा) unit = नेफ्रॉन (वृक्काणु); Nervous system unit = Neuron; फेफड़े unit = Alveolus."
+      "explanation_hi": "प्रत्येक मानव गुर्दे में लगभग 1 से 1.2 मिलियन नेफ्रॉन होते हैं जिनमें ग्लोमेरुलस, बोमन कैप्सूल, समीपस्थ कुंडलित नलिका, हेनले का लूप और दूरस्थ कुंडलित नलिका शामिल होते हैं।",
+      "tip_hi": "किडनी इकाई = नेफ्रॉन; तंत्रिका तंत्र इकाई = न्यूरॉन; फेफड़े की इकाई = एल्वोलस."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -382,7 +382,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Protium (1H1) has mass number A = 1 and atomic number Z = 1. The number of neutrons N = A - Z = 1 - 1 = 0. It is the only stable isotope in nature without any neutrons in its केंद्रक (नाभिक).",
+      "explanation_hi": "प्रोटियम (1H1) की द्रव्यमान संख्या A = 1 और परमाणु संख्या Z = 1 है। न्यूट्रॉन की संख्या N = A - Z = 1 - 1 = 0 है। यह प्रकृति में एकमात्र स्थिर आइसोटोप है जिसके नाभिक में कोई न्यूट्रॉन नहीं है।",
       "tip_hi": "प्रोटियम में 0 न्यूट्रॉन हैं; ड्यूटेरियम में 1 न्यूट्रॉन होता है; ट्रिटियम में 2 न्यूट्रॉन होते हैं।"
     },
     {
@@ -464,7 +464,7 @@
         "उपर्युक्त में से कोई नहीं"
       ],
       "explanation_hi": "फैजाबाद के मौलवी अहमदुल्ला शाह ने चिनहट में सर हेनरी लॉरेंस के नेतृत्व में ब्रिटिश सेना को हराकर अवध में हजारों लोगों को संगठित किया। ब्रिटिश अधिकारियों ने उन्हें एक साहसी योद्धा और एक अजेय शत्रु के रूप में सराहा।",
-      "tip_hi": "1857 leaders: Faizabad = Maulvi Ahmadullah Shah; Bareilly = Khan Bahadur Khan; Delhi = Bakht Khan; Bihar = बाबू कुंवर सिंह."
+      "tip_hi": "1857 नेता: फैजाबाद = मौलवी अहमदुल्ला शाह; बरेली = खान बहादुर खान; दिल्ली = बख्त खान; बिहार = बाबू कुँवर सिंह."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -517,7 +517,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "के दौरान the Non-Cooperation movement, महात्मा गांधी opened Bihar National College and inaugurated 'Bihar Vidyapeeth' at Patna on 6 फरवरी 1921, appointing Maulana Mazharul Haque as Chancellor and Brajkishore Prasad as Vice-Chancellor.",
+      "explanation_hi": "असहयोग आंदोलन के दौरान, महात्मा गांधी ने बिहार नेशनल कॉलेज खोला और 6 फरवरी 1921 को पटना में 'बिहार विद्यापीठ' का उद्घाटन किया, जिसमें मौलाना मजहरुल हक को चांसलर और ब्रजकिशोर प्रसाद को उप-कुलपति नियुक्त किया गया।",
       "tip_hi": "6 फरवरी 1921 को गांधी जी द्वारा बिहार विद्यापीठ का उद्घाटन; मजहरुल हक (चांसलर), ब्रजकिशोर प्रसाद (कुलपति)।"
     },
     {
@@ -571,8 +571,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Immediately upon release from prison after the 1934 earthquake (magnitude ~8.0), डॉ. राजेंद्र प्रसाद formed and headed the Bihar Central Relief Committee, coordinating countrywide relief funds and materials with transparency.",
-      "tip_hi": "Bihar Central Relief Committee (1934 Earthquake) = डॉ. राजेंद्र प्रसाद."
+      "explanation_hi": "1934 के भूकंप (परिमाण ~8.0) के बाद जेल से रिहा होने के तुरंत बाद, डॉ. राजेंद्र प्रसाद ने बिहार केंद्रीय राहत समिति का गठन किया और उसका नेतृत्व किया, जिसने पारदर्शिता के साथ देशव्यापी राहत कोष और सामग्री का समन्वय किया।",
+      "tip_hi": "बिहार केंद्रीय राहत समिति (1934 भूकंप) = डॉ. राजेंद्र प्रसाद।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -679,8 +679,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The घाघरा नदी originates from the Mapchachungo glacier near Mansarovar in Tibet. It flows through UP (as Sarayu at Ayodhya) and joins the left bank of the गंगा नदी at Revelganj near Chhapra in Saran district.",
-      "tip_hi": "घाघरा नदी joins गंगा नदी at Revelganj (Chhapra); गंडक नदी joins at Sonpur; कोसी नदी joins at Kursela (Katihar)."
+      "explanation_hi": "घाघरा का उद्गम तिब्बत में मानसरोवर के निकट मापचाचुंगो ग्लेशियर से होता है। यह उत्तर प्रदेश से होकर बहती है (अयोध्या में सरयू के रूप में) और सारण जिले के छपरा के पास रेवेलगंज में गंगा के बाएं किनारे से मिलती है।",
+      "tip_hi": "घाघरा रेवेलगंज (छपरा) में गंगा से मिलती है; गंडक सोनपुर में मिलती है; कोसी कुर्सेला (कटिहार) में मिलती है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -733,8 +733,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "वाल्मीकि राष्ट्रीय उद्यान covers an area of approx. 335.65 sq किमी (and sanctuary area of 898 sq किमी) in the Terai region of पश्चिम Champaran along the गंडक नदी River and Nepal border, forming Project Tiger Reserve No. 18.",
-      "tip_hi": "Only National Park of Bihar = वाल्मीकि राष्ट्रीय उद्यान (पश्चिम Champaran)."
+      "explanation_hi": "वाल्मिकी राष्ट्रीय उद्यान लगभग क्षेत्रफल में फैला हुआ है। गंडक नदी और नेपाल सीमा के साथ पश्चिम चंपारण के तराई क्षेत्र में 335.65 वर्ग किमी (और 898 वर्ग किमी का अभयारण्य क्षेत्र), जो प्रोजेक्ट टाइगर रिजर्व नंबर 18 बनाता है।",
+      "tip_hi": "बिहार का एकमात्र राष्ट्रीय उद्यान =वाल्मीकि राष्ट्रीय उद्यान (पश्चिमी चंपारण)।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -868,8 +868,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 110(3) states that if any question arises whether a Bill is a Money Bill or not, the decision of the अध्यक्ष (स्पीकर) of the लोकसभा thereon shall be final. The राज्यसभा has only 14 दिन to recommend changes.",
-      "tip_hi": "Certification of Money Bill = अध्यक्ष (स्पीकर) of लोकसभा (अनुच्छेद 110). Final and cannot be questioned in court."
+      "explanation_hi": "अनुच्छेद 110(3) में कहा गया है कि यदि कोई प्रश्न उठता है कि कोई विधेयक धन विधेयक है या नहीं, तो उस पर लोकसभा अध्यक्ष का निर्णय अंतिम होगा। राज्यसभा के पास बदलावों की सिफारिश करने के लिए केवल 14 दिन हैं।",
+      "tip_hi": "धन विधेयक का प्रमाणन = लोकसभा अध्यक्ष (अनुच्छेद 110)। अंतिम और अदालत में सवाल नहीं उठाया जा सकता."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -895,8 +895,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 352 governs National Emergency. (अनुच्छेद 356 provides for राष्ट्रपति's Rule in States due to constitutional failure, and अनुच्छेद 360 provides for Financial Emergency).",
-      "tip_hi": "Emergency provisions: अनुच्छेद 352 = National; अनुच्छेद 356 = State (राष्ट्रपति's Rule); अनुच्छेद 360 = Financial."
+      "explanation_hi": "अनुच्छेद 352 राष्ट्रीय आपातकाल को नियंत्रित करता है। (अनुच्छेद 356 संवैधानिक विफलता के कारण राज्यों में राष्ट्रपति शासन का प्रावधान करता है, और अनुच्छेद 360 वित्तीय आपातकाल का प्रावधान करता है)।",
+      "tip_hi": "आपातकालीन प्रावधान: अनुच्छेद 352 = राष्ट्रीय; अनुच्छेद 356 = राज्य (राष्ट्रपति शासन); अनुच्छेद 360 = वित्तीय।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -922,8 +922,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "The 73rd संशोधन added Part IX and the 11th अनुसूची (29 functional subjects for Panchayats). The 74th संशोधन added Part IX-A and the 12th अनुसूची (18 functional subjects for Municipalities).",
-      "tip_hi": "11th अनुसूची = Panchayats (29 items); 12th अनुसूची = Municipalities (18 items); 10th अनुसूची = Anti-Defection."
+      "explanation_hi": "73वें संशोधन में भाग IX और 11वीं अनुसूची (पंचायतों के लिए 29 कार्यात्मक विषय) जोड़ी गई। 74वें संशोधन में भाग IX-A और 12वीं अनुसूची (नगर पालिकाओं के लिए 18 कार्यात्मक विषय) जोड़ी गई।",
+      "tip_hi": "11वीं अनुसूची = पंचायतें (29 मदें); 12वीं अनुसूची = नगर पालिकाएँ (18 वस्तुएँ); 10वीं अनुसूची = दल-बदल विरोधी।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -949,8 +949,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Under अनुच्छेद 173, the minimum age for election to the Legislative Assembly (and लोकसभा) is 25 वर्ष. For Legislative Council (and राज्यसभा), it is 30 वर्ष. For Panchayat elections, it is 21 वर्ष.",
-      "tip_hi": "Age limits: Panchayats = 21; लोकसभा & Vidhan Sabha = 25; राज्यसभा & Vidhan Parishad = 30; राष्ट्रपति & राज्यपाल = 35."
+      "explanation_hi": "अनुच्छेद 173 के तहत, विधान सभा (और लोकसभा) के चुनाव के लिए न्यूनतम आयु 25 वर्ष है। विधान परिषद (और राज्यसभा) के लिए, यह 30 वर्ष है। पंचायत चुनाव के लिए यह अवधि 21 वर्ष है.",
+      "tip_hi": "आयु सीमा: पंचायत = 21; लोकसभा एवं विधानसभा = 25; राज्य सभा एवं विधान परिषद = 30; राष्ट्रपति एवं राज्यपाल = 35."
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -976,8 +976,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "अनुच्छेद 157 prescribes that no person shall be eligible for appointment as राज्यपाल unless he is a citizen of India and has completed the age of 35 वर्ष.",
-      "tip_hi": "Minimum age for राष्ट्रपति, Vice-राष्ट्रपति, and राज्यपाल is 35 वर्ष."
+      "explanation_hi": "अनुच्छेद 157 में प्रावधान है कि कोई भी व्यक्ति राज्यपाल के रूप में नियुक्ति के लिए पात्र नहीं होगा जब तक कि वह भारत का नागरिक न हो और 35 वर्ष की आयु पूरी न कर चुका हो।",
+      "tip_hi": "राष्ट्रपति, उपराष्ट्रपति और राज्यपाल के लिए न्यूनतम आयु 35 वर्ष है।"
     },
     {
       "source": "BPSC TRE 2.0 - Secondary / TGT Exam",
@@ -1030,7 +1030,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Inaugurated by मुख्यमंत्री Nitish Kumar on 15-17 जनवरी 2021, 'Kalrav' was celebrated at the twin reservoirs of Nagi Dam and Nakti Dam bird sanctuaries in Jamui district to promote eco-tourism and migratory bird conservation.",
+      "explanation_hi": "15-17 जनवरी 2021 को मुख्यमंत्री नीतीश कुमार द्वारा उद्घाटन किया गया, पर्यावरण-पर्यटन और प्रवासी पक्षी संरक्षण को बढ़ावा देने के लिए जमुई जिले के नागी बांध और नकटी बांध पक्षी अभयारण्यों के जुड़वां जलाशयों में 'कलरव' मनाया गया।",
       "tip_hi": "प्रथम राज्य पक्षी महोत्सव 'कलरव' = नागी-नकटी पक्षी अभयारण्य (जमुई)।"
     },
     {
@@ -1057,7 +1057,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "Ahmedabad-based architect Dr. Bimal Patel (HCP Design) designed the triangular new संसद building, featuring the लोकसभा chamber styled on the National Bird Peacock and राज्यसभा on the National Flower Lotus.",
+      "explanation_hi": "अहमदाबाद स्थित वास्तुकार डॉ. बिमल पटेल (एचसीपी डिजाइन) ने त्रिकोणीय नए संसद भवन का डिजाइन तैयार किया, जिसमें लोकसभा कक्ष को राष्ट्रीय पक्षी मोर और राज्यसभा कक्ष को राष्ट्रीय फूल कमल पर डिजाइन किया गया है।",
       "tip_hi": "नए संसद भवन के वास्तुकार = डॉ. बिमल पटेल (एचसीपी डिजाइन, अहमदाबाद)।"
     },
     {
@@ -1084,7 +1084,7 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "NEP 2020 restructured school curriculum into four stages: 5 वर्ष Foundational stage (ages 3-8), 3 वर्ष Preparatory stage (ages 8-11), 3 वर्ष Middle stage (ages 11-14), and 4 वर्ष Secondary stage (ages 14-18).",
+      "explanation_hi": "एनईपी 2020 ने स्कूली पाठ्यक्रम को चार चरणों में पुनर्गठित किया: 5 साल का बुनियादी चरण (उम्र 3-8), 3 साल का प्रारंभिक चरण (उम्र 8-11), 3 साल का मध्य चरण (उम्र 11-14), और 4 साल का माध्यमिक चरण (उम्र 14-18)।",
       "tip_hi": "एनईपी 2020 पाठ्यचर्या रूपरेखा = 5 + 3 + 3 + 4 (10 + 2 की जगह)।\nउत्तर कुंजी सारांश तालिका - सेट 9 (प्रश्न 321 से 360)\nप्र. नहीं.\nपरीक्षा/स्रोत टैग\nकोर कॉन्सेप्ट का परीक्षण किया गया\nकुंजी"
     }
   ]

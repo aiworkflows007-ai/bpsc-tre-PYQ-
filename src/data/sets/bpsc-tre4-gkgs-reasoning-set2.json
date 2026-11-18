@@ -193,8 +193,8 @@
         "उपर्युक्त में से एक से अधिक",
         "उपर्युक्त में से कोई नहीं"
       ],
-      "explanation_hi": "2024 is a leap वर्ष (divisible by 4) containing 366 दिन (52 सप्ताह + 2 odd दिन). In a leap वर्ष, the last दिन of the वर्ष (31 Dec) is one दिन ahead of the first दिन (1 Jan). Monday + 1 दिन = Tuesday.",
-      "tip_hi": "Ordinary वर्ष: First दिन = Last दिन; Leap वर्ष: Last दिन = First दिन + 1 दिन = Monday + 1 = Tuesday."
+      "explanation_hi": "2024 एक लीप वर्ष (4 से विभाज्य) है जिसमें 366 दिन (52 सप्ताह + 2 विषम दिन) हैं। लीप वर्ष में, वर्ष का अंतिम दिन (31 दिसंबर) पहले दिन (1 जनवरी) से एक दिन आगे होता है। सोमवार + 1 दिन = मंगलवार.",
+      "tip_hi": "साधारण वर्ष: पहला दिन = अंतिम दिन; लीप वर्ष: अंतिम दिन = पहला दिन + 1 दिन = सोमवार + 1 = मंगलवार।"
     },
     {
       "source": "BPSC TRE 2.0 - TGT & Middle School (Advt. 22/2023)",
