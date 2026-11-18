@@ -1681,11 +1681,15 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
   const isEnglishOnly = activeSet.section === 'qualifying' && activeSet.subject === 'English Language'
   const isHindiOnly = activeSet.section === 'qualifying' && activeSet.subject === 'General Hindi'
 
-  const [index, setIndex] = useState(0)
+  const [index, setIndex] = useState<number>(() => {
+    const saved = prefs.get<number>(`currentIndex_${activeSet.id}`, 0)
+    return saved >= 0 && saved < (SETS_DATA[activeSet.id]?.length || 1) ? saved : 0
+  })
   const [answers, setAnswers] = useState<Record<number, number>>(() => prefs.get(`draft_${activeSet.id}`, {}))
   const [flags, setFlags] = useState<number[]>(() => prefs.get(`flags_${activeSet.id}`, []))
   const [seconds, setSeconds] = useState(() => prefs.get(`elapsed_${activeSet.id}`, 0))
   const [submitted, setSubmitted] = useState(false)
+  const [paletteOpen, setPaletteOpen] = useState(false)
   const [qLang, setQLang] = useState<'en' | 'hi'>(() => {
     if (isEnglishOnly) return 'en'
     if (isHindiOnly) return 'hi'
@@ -1702,7 +1706,8 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
     prefs.set(`draft_${activeSet.id}`, answers)
     prefs.set(`flags_${activeSet.id}`, flags)
     prefs.set(`elapsed_${activeSet.id}`, seconds)
-  }, [answers, flags, seconds, activeSet.id])
+    prefs.set(`currentIndex_${activeSet.id}`, index)
+  }, [answers, flags, seconds, index, activeSet.id])
 
   useEffect(() => {
     if (isEnglishOnly) {
@@ -1727,6 +1732,7 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
 
   const q = currentQuestions[index] || currentQuestions[0]
   const done = Object.keys(answers).length
+  const flaggedCount = flags.length
 
   const finish = () => {
     const score = currentQuestions.filter(x => answers[x.id] === x.answer).length
@@ -1748,182 +1754,356 @@ function Practice({ lang, setRoute }: { lang: Lang; setRoute: (s: string) => voi
       ].slice(0, 30)
     )
     prefs.set(`draft_${activeSet.id}`, {})
+    prefs.set(`currentIndex_${activeSet.id}`, 0)
     setSubmitted(true)
+    setPaletteOpen(false)
+  }
+
+  const formatTime = (sec: number) => {
+    const m = Math.floor(sec / 60)
+    const s = sec % 60
+    return `${String(m).padStart(2, '0')}:${String(s).padStart(2, '0')}`
+  }
+
+  if (submitted) {
+    return (
+      <Results
+        questionsList={currentQuestions}
+        answers={answers}
+        seconds={seconds}
+        setRoute={setRoute}
+        activeSet={activeSet}
+        onNextSet={(next: SetMeta) => {
+          prefs.set('currentSetId', next.id)
+          prefs.set('lastSubject', next.title)
+          setSubmitted(false)
+          setIndex(0)
+          setAnswers({})
+          setFlags([])
+          setSeconds(0)
+          setShowSolution(false)
+        }}
+        onRetry={() => {
+          setSubmitted(false)
+          setIndex(0)
+          setAnswers({})
+          setFlags([])
+          setSeconds(0)
+          setShowSolution(false)
+        }}
+      />
+    )
   }
 
   return (
-    <main className="exam">
-      <div className="exam-bar">
-        <button className="wordmark" onClick={() => setRoute('/app')}>
-          TRE Ready · {activeSet.title}
-        </button>
-        <div className="exam-meta">
-          <span>
+    <main className="exam-root">
+      {/* Sticky Compact Top Bar (56px) */}
+      <header className="cbt-header">
+        <div className="cbt-header-left">
+          <button className="cbt-exit-btn" onClick={() => setRoute('/app')} title="Exit to Sets">
+            ← Exit
+          </button>
+          <div className="cbt-set-title" title={activeSet.title}>
+            {activeSet.title}
+          </div>
+        </div>
+
+        <div className="cbt-header-center">
+          <span className="cbt-count-badge">Q {index + 1}/{currentQuestions.length}</span>
+          <div className="cbt-timer" title="Elapsed Time">
             <Icon name="clock" />
-            {t.time}: {String(Math.floor(seconds / 60)).padStart(2, '0')}:{String(seconds % 60).padStart(2, '0')}
-          </span>
-          <span>
-            {done}/{currentQuestions.length} answered
-          </span>
-          <button className="submit" onClick={finish}>
-            {t.submit}
+            <span>{formatTime(seconds)}</span>
+          </div>
+        </div>
+
+        <div className="cbt-header-right">
+          {!isEnglishOnly && !isHindiOnly && (
+            <button
+              className="cbt-lang-btn"
+              onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}
+              title="Toggle Hindi/English"
+            >
+              🌐 {qLang === 'en' ? 'हिन्दी' : 'EN'}
+            </button>
+          )}
+          <button
+            className={`cbt-palette-trigger ${paletteOpen ? 'active' : ''}`}
+            onClick={() => setPaletteOpen(o => !o)}
+            title="Question Palette"
+          >
+            ▦ <span className="palette-label">Palette</span>
+          </button>
+          <button className="cbt-submit-btn" onClick={finish}>
+            Submit
           </button>
         </div>
-      </div>
+      </header>
 
-      {submitted ? (
-        <Results
-          questionsList={currentQuestions}
-          answers={answers}
-          seconds={seconds}
-          setRoute={setRoute}
-          activeSet={activeSet}
-          onNextSet={(next: SetMeta) => {
-            prefs.set('currentSetId', next.id)
-            prefs.set('lastSubject', next.title)
-            setSubmitted(false)
-            setIndex(0)
-            setAnswers({})
-            setFlags([])
-            setSeconds(0)
-            setShowSolution(false)
-          }}
-          onRetry={() => {
-            setSubmitted(false)
-            setIndex(0)
-            setAnswers({})
-            setFlags([])
-            setSeconds(0)
-            setShowSolution(false)
-          }}
-        />
-      ) : (
-        <div className="exam-body">
-          <section className="question-area">
-            <div className="question-top">
-              <p>
-                {t.question} {index + 1} of {currentQuestions.length}
-              </p>
-              <div className="q-header-actions">
-                {!isEnglishOnly && !isHindiOnly && (
-                  <button className="lang-toggle-btn" onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}>
-                    🌐 {qLang === 'en' ? 'हिन्दी में देखें' : 'View in English'}
-                  </button>
-                )}
+      <div className="cbt-workspace">
+          {/* Left Column: Question + Options + In-Question Solution + Bottom Action Bar */}
+          <section className="cbt-left-col">
+            <div className="cbt-question-scroll">
+              <div className="cbt-q-meta">
+                <span className="cbt-q-num">Question {index + 1} of {currentQuestions.length}</span>
+                {q.source && <span className="source-tag">📄 {q.source}</span>}
+              </div>
+
+              <div className="progress-line" style={{ margin: '12px 0 16px' }}>
+                <i style={{ width: `${((index + 1) / currentQuestions.length) * 100}%` }} />
+              </div>
+
+              <h1 className="cbt-q-title">
+                {qLang === 'hi' ? q.hi : q.en}
+              </h1>
+
+              {/* Clean Option Cards: 48px touch targets, items-start A/B/C/D/E badges */}
+              <div className="options-list">
+                {q.options.map((o, i) => {
+                  const isSelected = answers[q.id] === i
+                  const letter = String.fromCharCode(65 + i)
+                  return (
+                    <button
+                      key={o + i}
+                      type="button"
+                      className={`option-card ${isSelected ? 'selected' : ''}`}
+                      onClick={() => setAnswers(a => ({ ...a, [q.id]: i }))}
+                    >
+                      <b className="opt-letter">{letter}</b>
+                      <span className="opt-text">{getOptionText(q, i, qLang)}</span>
+                    </button>
+                  )
+                })}
+              </div>
+
+              {/* In-Question Instant Solution & Exam Setter Tricks */}
+              <div className="practice-action-row" style={{ marginTop: '20px' }}>
                 <button
-                  className={flags.includes(q.id) ? 'flagged' : ''}
+                  type="button"
+                  className="toggle-solution-btn"
+                  onClick={() => setShowSolution(s => !s)}
+                >
+                  {showSolution
+                    ? (qLang === 'hi' ? '🙈 समाधान छिपाएँ' : '🙈 Hide Solution')
+                    : (qLang === 'hi' ? '💡 आधिकारिक समाधान एवं ट्रिक्स देखें' : '💡 View Solution & Exam Setter Tips')}
+                </button>
+              </div>
+
+              {showSolution && (
+                <div className="practice-solution-card">
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px', flexWrap: 'wrap', gap: '8px' }}>
+                    <div className="sol-badge" style={{ margin: 0 }}>
+                      {qLang === 'hi' ? '✓ आधिकारिक उत्तर एवं विस्तृत समाधान' : '✓ Official Answer & Exam Setter Insights'}
+                    </div>
+                    {!isEnglishOnly && !isHindiOnly && (
+                      <button
+                        type="button"
+                        className="lang-toggle-btn"
+                        style={{ padding: '3px 10px', fontSize: '12px' }}
+                        onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}
+                      >
+                        🌐 {qLang === 'en' ? 'हिन्दी में समाधान देखें' : 'View Solution in English'}
+                      </button>
+                    )}
+                  </div>
+                  <p className="sol-answer">
+                    <b>{qLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b>{' '}
+                    <span className="ans-pill">
+                      ({q.answer_letter}) {getAnswerText(q, qLang)}
+                    </span>
+                  </p>
+                  <div className="sol-explanation">
+                    <b>{qLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या:' : 'Official Explanation:'}</b>
+                    <p>{qLang === 'hi' ? (q.explanation_hi || q.explanation) : q.explanation}</p>
+                  </div>
+                  {(q.tip || q.tip_hi) && (
+                    <div className="tip-box">
+                      <b>{qLang === 'hi' ? '💡 परीक्षा-संकेत एवं ट्रिक्स:' : "💡 Exam Setter's Tip & Quick Trick:"}</b>
+                      {qLang === 'hi' ? (q.tip_hi || q.tip) : q.tip}
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+
+            {/* Bottom Action Bar: Prev | Mark/Clear | Next/Submit */}
+            <div className="cbt-bottom-bar">
+              <button
+                type="button"
+                className="cbt-prev-btn"
+                disabled={index === 0}
+                onClick={() => {
+                  setIndex(i => Math.max(0, i - 1))
+                  setShowSolution(false)
+                }}
+              >
+                ← {t.previous}
+              </button>
+
+              <div style={{ display: 'flex', gap: '8px' }}>
+                <button
+                  type="button"
+                  className={`cbt-mark-btn ${flags.includes(q.id) ? 'marked' : ''}`}
                   onClick={() => setFlags(f => (f.includes(q.id) ? f.filter(x => x !== q.id) : [...f, q.id]))}
                 >
                   <Icon name="flag" />
-                  {t.mark}
+                  <span>{flags.includes(q.id) ? 'Marked' : 'Mark'}</span>
                 </button>
-              </div>
-            </div>
-
-            <div className="progress-line">
-              <i style={{ width: `${((index + 1) / currentQuestions.length) * 100}%` }} />
-            </div>
-
-            {q.source && <span className="source-tag">📄 Source: {q.source}</span>}
-
-            <h1>{qLang === 'hi' ? q.hi : q.en}</h1>
-
-            <div className="options">
-              {q.options.map((o, i) => (
-                <button
-                  key={o + i}
-                  className={answers[q.id] === i ? 'selected' : ''}
-                  onClick={() => setAnswers(a => ({ ...a, [q.id]: i }))}
-                >
-                  <b>{String.fromCharCode(65 + i)}</b>
-                  <span>{getOptionText(q, i, qLang)}</span>
-                </button>
-              ))}
-            </div>
-
-            {/* In-Question Instant Solution & Exam Setter Tricks */}
-            <div className="practice-action-row">
-              <button
-                type="button"
-                className="toggle-solution-btn"
-                onClick={() => setShowSolution(s => !s)}
-              >
-                {showSolution
-                  ? (qLang === 'hi' ? '🙈 समाधान छिपाएँ' : '🙈 Hide Solution')
-                  : (qLang === 'hi' ? '💡 आधिकारिक समाधान एवं ट्रिक्स देखें' : '💡 View Solution & Exam Setter Tips')}
-              </button>
-            </div>
-
-            {showSolution && (
-              <div className="practice-solution-card">
-                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px', flexWrap: 'wrap', gap: '8px' }}>
-                  <div className="sol-badge" style={{ margin: 0 }}>
-                    {qLang === 'hi' ? '✓ आधिकारिक उत्तर एवं विस्तृत समाधान' : '✓ Official Answer & Exam Setter Insights'}
-                  </div>
-                  {!isEnglishOnly && !isHindiOnly && (
-                    <button
-                      type="button"
-                      className="lang-toggle-btn"
-                      style={{ padding: '3px 10px', fontSize: '12px' }}
-                      onClick={() => setQLang(qLang === 'en' ? 'hi' : 'en')}
-                    >
-                      🌐 {qLang === 'en' ? 'हिन्दी में समाधान देखें' : 'View Solution in English'}
-                    </button>
-                  )}
-                </div>
-                <p className="sol-answer">
-                  <b>{qLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b>{' '}
-                  <span className="ans-pill">
-                    ({q.answer_letter}) {getAnswerText(q, qLang)}
-                  </span>
-                </p>
-                <div className="sol-explanation">
-                  <b>{qLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या:' : 'Official Explanation:'}</b>
-                  <p>{qLang === 'hi' ? (q.explanation_hi || q.explanation) : q.explanation}</p>
-                </div>
-                {(q.tip || q.tip_hi) && (
-                  <div className="tip-box">
-                    <b>{qLang === 'hi' ? '💡 परीक्षा-संकेत एवं ट्रिक्स:' : "💡 Exam Setter's Tip & Quick Trick:"}</b>
-                    {qLang === 'hi' ? (q.tip_hi || q.tip) : q.tip}
-                  </div>
+                {answers[q.id] !== undefined && (
+                  <button
+                    type="button"
+                    style={{ background: '#f1f5f9', border: '1px solid #cbd5e1', borderRadius: '6px', padding: '6px 10px', fontSize: '12px', fontWeight: 700, color: '#64748b', cursor: 'pointer' }}
+                    onClick={() => {
+                      setAnswers(a => {
+                        const copy = { ...a }
+                        delete copy[q.id]
+                        return copy
+                      })
+                    }}
+                  >
+                    Clear
+                  </button>
                 )}
               </div>
-            )}
 
-            <div className="question-nav">
-              <button className="secondary" disabled={!index} onClick={() => { setIndex(index - 1); setShowSolution(false) }}>
-                ← {t.previous}
-              </button>
               {index === currentQuestions.length - 1 ? (
-                <button className="primary" onClick={finish}>
+                <button type="button" className="cbt-submit-btn" onClick={finish}>
                   {t.submit}
                 </button>
               ) : (
-                <button className="primary" onClick={() => { setIndex(index + 1); setShowSolution(false) }}>
+                <button
+                  type="button"
+                  className="cbt-next-btn"
+                  onClick={() => {
+                    setIndex(i => Math.min(currentQuestions.length - 1, i + 1))
+                    setShowSolution(false)
+                  }}
+                >
                   {t.next} →
                 </button>
               )}
             </div>
           </section>
 
-          <aside className="palette">
-            <p>QUESTION PALETTE ({currentQuestions.length} QUESTIONS)</p>
-            <div>
-              {currentQuestions.map((x, i) => (
-                <button
-                  key={x.id}
-                  className={`${i === index ? 'current' : ''} ${answers[x.id] !== undefined ? 'answered' : ''} ${
-                    flags.includes(x.id) ? 'review' : ''
-                  }`}
-                  onClick={() => setIndex(i)}
-                >
-                  {i + 1}
+          {/* Desktop Right Column: Locked CBT Question Palette */}
+          <aside className="cbt-right-col">
+            <div className="cbt-palette-card">
+              <div className="cbt-palette-header">
+                <h3>Question Palette</h3>
+                <span className="cbt-count-badge" style={{ color: '#475569' }}>{done}/{currentQuestions.length} answered</span>
+              </div>
+
+              {/* Legend */}
+              <div className="palette-legend">
+                <div className="legend-item"><span className="legend-dot answered" /> Answered ({done})</div>
+                <div className="legend-item"><span className="legend-dot review" /> Marked ({flaggedCount})</div>
+                <div className="legend-item"><span className="legend-dot" style={{ background: '#e2e8f0' }} /> Remaining ({currentQuestions.length - done})</div>
+              </div>
+
+              {/* 5-Column Question Grid */}
+              <div className="palette-grid">
+                {currentQuestions.map((item, i) => {
+                  const isCurrent = i === index
+                  const isAnswered = answers[item.id] !== undefined
+                  const isFlagged = flags.includes(item.id)
+
+                  let stateClass = ''
+                  if (isCurrent) stateClass = 'current'
+                  else if (isFlagged) stateClass = 'review'
+                  else if (isAnswered) stateClass = 'answered'
+
+                  return (
+                    <button
+                      key={item.id}
+                      type="button"
+                      className={`palette-num-btn ${stateClass}`}
+                      onClick={() => {
+                        setIndex(i)
+                        setShowSolution(false)
+                      }}
+                    >
+                      {i + 1}
+                    </button>
+                  )
+                })}
+              </div>
+
+              <div style={{ marginTop: '16px' }}>
+                <button type="button" className="cbt-submit-btn" style={{ width: '100%', padding: '12px' }} onClick={finish}>
+                  Submit Test
                 </button>
-              ))}
+              </div>
             </div>
-            <small>Gold = review · Teal = answered</small>
           </aside>
         </div>
+
+        {/* Mobile Slide-Up Drawer Question Palette */}
+      {paletteOpen && (
+        <>
+          <div className="drawer-backdrop" onClick={() => setPaletteOpen(false)} />
+          <div className="drawer-sheet">
+            <div className="drawer-handle" />
+            <div className="drawer-header">
+              <div>
+                <h3 style={{ margin: 0, fontSize: '16px', fontWeight: 800 }}>Question Palette</h3>
+                <span style={{ fontSize: '12px', color: '#64748b' }}>
+                  {done} answered · {flaggedCount} marked · {currentQuestions.length} total
+                </span>
+              </div>
+              <button
+                type="button"
+                className="drawer-close-btn"
+                onClick={() => setPaletteOpen(false)}
+              >
+                ✕
+              </button>
+            </div>
+
+            <div className="palette-legend" style={{ margin: '12px 0' }}>
+              <div className="legend-item"><span className="legend-dot answered" /> Answered</div>
+              <div className="legend-item"><span className="legend-dot review" /> Marked</div>
+              <div className="legend-item"><span className="legend-dot" style={{ background: '#e2e8f0' }} /> Remaining</div>
+            </div>
+
+            <div className="palette-grid">
+              {currentQuestions.map((item, i) => {
+                const isCurrent = i === index
+                const isAnswered = answers[item.id] !== undefined
+                const isFlagged = flags.includes(item.id)
+
+                let stateClass = ''
+                if (isCurrent) stateClass = 'current'
+                else if (isFlagged) stateClass = 'review'
+                else if (isAnswered) stateClass = 'answered'
+
+                return (
+                  <button
+                    key={item.id}
+                    type="button"
+                    className={`palette-num-btn ${stateClass}`}
+                    onClick={() => {
+                      setIndex(i)
+                      setShowSolution(false)
+                      setPaletteOpen(false)
+                    }}
+                  >
+                    {i + 1}
+                  </button>
+                )
+              })}
+            </div>
+
+            <div style={{ marginTop: '16px', display: 'flex', gap: '10px' }}>
+              <button
+                type="button"
+                className="cbt-submit-btn"
+                style={{ flex: 1, padding: '12px' }}
+                onClick={finish}
+              >
+                Submit Test
+              </button>
+            </div>
+          </div>
+        </>
       )}
     </main>
   )
@@ -1953,12 +2133,23 @@ function Results({
     if (isHindiOnly) return 'hi'
     return 'hi' // Default bilingual sets to Hindi
   })
+  const [filter, setFilter] = useState<'all' | 'correct' | 'incorrect'>('all')
 
   const score = questionsList.filter(q => answers[q.id] === q.answer).length
   const pct = Math.round((score / questionsList.length) * 100)
   const isQualifying = activeSet.section === 'qualifying'
   const isPassed = pct >= 30
   const isMastered = pct >= 80
+
+  const filteredQuestions = useMemo(() => {
+    if (filter === 'correct') {
+      return questionsList.filter(q => answers[q.id] === q.answer)
+    }
+    if (filter === 'incorrect') {
+      return questionsList.filter(q => answers[q.id] !== q.answer)
+    }
+    return questionsList
+  }, [questionsList, answers, filter])
 
   // Find next set in the same subject
   const subjectSets = SETS_CATALOG.filter(s => s.subject === activeSet.subject)
@@ -2061,56 +2252,91 @@ function Results({
         </div>
       )}
 
+      {/* Filter Tabs: All | Correct | Incorrect */}
+      <div className="results-filter-tabs">
+        <button
+          type="button"
+          className={`filter-tab ${filter === 'all' ? 'active' : ''}`}
+          onClick={() => setFilter('all')}
+        >
+          {resLang === 'hi' ? `सभी प्रश्न (${questionsList.length})` : `All Questions (${questionsList.length})`}
+        </button>
+        <button
+          type="button"
+          className={`filter-tab tab-correct ${filter === 'correct' ? 'active' : ''}`}
+          onClick={() => setFilter('correct')}
+        >
+          {resLang === 'hi' ? `✓ सही (${score})` : `✓ Correct (${score})`}
+        </button>
+        <button
+          type="button"
+          className={`filter-tab tab-incorrect ${filter === 'incorrect' ? 'active' : ''}`}
+          onClick={() => setFilter('incorrect')}
+        >
+          {resLang === 'hi' ? `✗ गलत / अनुत्तरित (${questionsList.length - score})` : `✗ Incorrect / Skipped (${questionsList.length - score})`}
+        </button>
+      </div>
+
       <div className="result-grid">
-        {questionsList.map(q => {
+        {filteredQuestions.map(q => {
           const isCorrect = answers[q.id] === q.answer
           return (
-            <article key={q.id} className={isCorrect ? 'correct' : 'incorrect'}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '8px', marginBottom: '6px' }}>
-                <span>
+            <article key={q.id} className={`result-card ${isCorrect ? 'correct' : 'incorrect'}`}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '8px', marginBottom: '8px' }}>
+                <span className={`result-status-badge ${isCorrect ? 'badge-correct' : 'badge-incorrect'}`}>
                   {isCorrect ? (resLang === 'hi' ? '✓ सही उत्तर' : '✓ Correct') : (resLang === 'hi' ? '✗ गलत उत्तर / समीक्षा आवश्यक' : '✗ Incorrect / Review Needed')} · {resLang === 'hi' ? 'प्रश्न' : 'Question'} {q.id}
                 </span>
                 {!isEnglishOnly && !isHindiOnly && (
                   <button
                     type="button"
                     className="lang-toggle-btn"
-                    style={{ padding: '2px 8px', fontSize: '11px' }}
+                    style={{ padding: '3px 10px', fontSize: '11.5px' }}
                     onClick={() => setResLang(r => r === 'en' ? 'hi' : 'en')}
                   >
                     🌐 {resLang === 'en' ? 'हिन्दी समाधान' : 'English Solution'}
                   </button>
                 )}
               </div>
-              {q.source && <span className="source-tag">Source: {q.source}</span>}
-              <h3>
+              {q.source && <span className="source-tag">📄 {q.source}</span>}
+              <h3 style={{ fontSize: '16px', lineHeight: 1.68, margin: '10px 0' }}>
                 {resLang === 'hi' ? q.hi : q.en}
                 {q.hi !== q.en && (
-                  <span style={{ display: 'block', fontSize: '14px', color: '#667085', marginTop: '4px' }}>
+                  <span style={{ display: 'block', fontSize: '13.5px', color: '#64748b', marginTop: '4px', fontWeight: 400 }}>
                     {resLang === 'hi' ? q.en : q.hi}
                   </span>
                 )}
               </h3>
 
-              <p>
-                <b>{resLang === 'hi' ? 'आपका उत्तर:' : 'Your choice:'}</b>{' '}
-                {answers[q.id] !== undefined
-                  ? `(${String.fromCharCode(65 + answers[q.id])}) ${getOptionText(q, answers[q.id], resLang)}`
-                  : (resLang === 'hi' ? 'उत्तर नहीं दिया' : 'Not attempted')}
-              </p>
-              <p style={{ color: '#147d75' }}>
-                <b>{resLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b> ({q.answer_letter}){' '}
-                {getAnswerText(q, resLang)}
-              </p>
+              <div className="result-answers-box" style={{ background: '#f8fafc', padding: '12px 14px', borderRadius: '8px', margin: '10px 0', border: '1px solid #e2e8f0' }}>
+                <p style={{ margin: '0 0 6px 0', fontSize: '14px' }}>
+                  <b style={{ color: '#475569' }}>{resLang === 'hi' ? 'आपका उत्तर:' : 'Your choice:'}</b>{' '}
+                  {answers[q.id] !== undefined ? (
+                    <span style={{ fontWeight: 700, color: isCorrect ? '#059669' : '#dc2626' }}>
+                      ({String.fromCharCode(65 + answers[q.id])}) {getOptionText(q, answers[q.id], resLang)}
+                    </span>
+                  ) : (
+                    <span style={{ color: '#94a3b8', fontStyle: 'italic' }}>
+                      {resLang === 'hi' ? 'उत्तर नहीं दिया' : 'Not attempted'}
+                    </span>
+                  )}
+                </p>
+                <p style={{ margin: 0, fontSize: '14px', color: '#059669' }}>
+                  <b>{resLang === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer:'}</b>{' '}
+                  <span style={{ fontWeight: 800 }}>({q.answer_letter}) {getAnswerText(q, resLang)}</span>
+                </p>
+              </div>
 
-              <p>
-                <b>{resLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या / समाधान:' : 'Official Explanation:'}</b>{' '}
-                {resLang === 'hi' ? (q.explanation_hi || q.explanation) : q.explanation}
-              </p>
+              <div className="result-explanation" style={{ marginTop: '10px', fontSize: '14px', lineHeight: 1.65 }}>
+                <b style={{ color: '#0f172a' }}>{resLang === 'hi' ? 'आधिकारिक विस्तृत व्याख्या / समाधान:' : 'Official Explanation:'}</b>{' '}
+                <p style={{ margin: '4px 0 0 0', color: '#334155' }}>
+                  {resLang === 'hi' ? (q.explanation_hi || q.explanation) : q.explanation}
+                </p>
+              </div>
 
               {(q.tip || q.tip_hi) && (
-                <div className="tip-box">
+                <div className="tip-box" style={{ marginTop: '10px' }}>
                   <b>{resLang === 'hi' ? '💡 परीक्षा-संकेत एवं ट्रिक्स:' : "💡 Exam Setter's Tip / Trick:"}</b>
-                  {resLang === 'hi' ? (q.tip_hi || q.tip) : q.tip}
+                  <p style={{ margin: '4px 0 0 0' }}>{resLang === 'hi' ? (q.tip_hi || q.tip) : q.tip}</p>
                 </div>
               )}
             </article>
@@ -2385,28 +2611,34 @@ function Root() {
       <Static page={route} setRoute={setRoute} />
     )
 
+  const isPracticeMode = route === '/app/practice'
+
   return (
     <>
-      {/* Top Creator Ribbon */}
-      <div className="creator-top-bar">
-        <span>🚀 Engineered for Bihar's Future Teachers by <b>Ashok Kumar</b></span>
-        <a
-          href="https://ai-workflows.cloud/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="creator-link-chip"
-        >
-          ai-workflows.cloud ↗
-        </a>
-      </div>
+      {!isPracticeMode && (
+        <>
+          {/* Top Creator Ribbon */}
+          <div className="creator-top-bar">
+            <span>🚀 Engineered for Bihar's Future Teachers by <b>Ashok Kumar</b></span>
+            <a
+              href="https://ai-workflows.cloud/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="creator-link-chip"
+            >
+              ai-workflows.cloud ↗
+            </a>
+          </div>
 
-      <Header
-        lang={lang}
-        setLang={setLang}
-        route={route}
-        setRoute={setRoute}
-        onOpenAppModal={() => setShowAppModal(true)}
-      />
+          <Header
+            lang={lang}
+            setLang={setLang}
+            route={route}
+            setRoute={setRoute}
+            onOpenAppModal={() => setShowAppModal(true)}
+          />
+        </>
+      )}
 
       {body}
 
@@ -2417,28 +2649,30 @@ function Root() {
         onInstall={handleNativeInstall}
       />
 
-      <footer>
-        <div>
-          <b>TRE Ready · BPSC TRE 4.0 Authentic Practice Platform</b>
-          <span style={{ display: 'block', marginTop: '4px', color: '#64748b' }}>
-            Made with ❤️ by{' '}
-            <a
-              href="https://ai-workflows.cloud/"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ color: '#147d75', fontWeight: 700, textDecoration: 'none' }}
-            >
-              Ashok Kumar (ai-workflows.cloud)
-            </a>
-          </span>
-        </div>
-        <div style={{ textAlign: 'right' }}>
-          <span>100% Free Open Educational Resource</span>
-          <span style={{ display: 'block', marginTop: '4px', color: '#64748b' }}>
-            71 Sets · 1,898 Authentic Questions · Offline PWA
-          </span>
-        </div>
-      </footer>
+      {!isPracticeMode && (
+        <footer>
+          <div>
+            <b>TRE Ready · BPSC TRE 4.0 Authentic Practice Platform</b>
+            <span style={{ display: 'block', marginTop: '4px', color: '#64748b' }}>
+              Made with ❤️ by{' '}
+              <a
+                href="https://ai-workflows.cloud/"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: '#147d75', fontWeight: 700, textDecoration: 'none' }}
+              >
+                Ashok Kumar (ai-workflows.cloud)
+              </a>
+            </span>
+          </div>
+          <div style={{ textAlign: 'right' }}>
+            <span>100% Free Open Educational Resource</span>
+            <span style={{ display: 'block', marginTop: '4px', color: '#64748b' }}>
+              71 Sets · 1,898 Authentic Questions · Offline PWA
+            </span>
+          </div>
+        </footer>
+      )}
     </>
   )
 }

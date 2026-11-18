@@ -1,5 +1,5 @@
-// TRE Ready Service Worker - Offline PWA Support
-const CACHE_NAME = 'tre-ready-v1';
+// TRE Ready Service Worker - Offline PWA Support (Network-First for HTML/JSON, Cache-First for static assets)
+const CACHE_NAME = 'tre-ready-v2';
 const CORE_ASSETS = [
   './',
   './index.html',
@@ -34,29 +34,54 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
-  // Only handle GET requests
   if (event.request.method !== 'GET') return;
 
-  // Stale-while-revalidate strategy for same-origin assets
-  event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      const fetchPromise = fetch(event.request)
+  const url = new URL(event.request.url);
+  const isNavigate = event.request.mode === 'navigate';
+  const isHtml = event.request.destination === 'document' || url.pathname.endsWith('.html');
+  const isJsonData = url.pathname.endsWith('.json');
+
+  // NETWORK-FIRST strategy for HTML navigation & JSON data
+  // Prevents stale cache after deployments while supporting 100% offline fallback
+  if (isNavigate || isHtml || isJsonData) {
+    event.respondWith(
+      fetch(event.request)
         .then((networkResponse) => {
           if (networkResponse && networkResponse.status === 200) {
-            const responseToCache = networkResponse.clone();
+            const responseClone = networkResponse.clone();
             caches.open(CACHE_NAME).then((cache) => {
-              cache.put(event.request, responseToCache);
+              cache.put(event.request, responseClone);
             });
           }
           return networkResponse;
         })
         .catch(() => {
-          // If offline and request is navigation, return cached index.html
-          if (event.request.mode === 'navigate') {
-            return caches.match('./index.html');
+          return caches.match(event.request).then((cached) => {
+            if (cached) return cached;
+            if (isNavigate) return caches.match('./index.html');
+            return new Response('{"error":"offline"}', {
+              headers: { 'Content-Type': 'application/json' }
+            });
+          });
+        })
+    );
+    return;
+  }
+
+  // CACHE-FIRST / STALE-WHILE-REVALIDATE for hashed scripts, styles, and images
+  event.respondWith(
+    caches.match(event.request).then((cachedResponse) => {
+      const fetchPromise = fetch(event.request)
+        .then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const responseClone = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => {
+              cache.put(event.request, responseClone);
+            });
           }
-          return cachedResponse;
-        });
+          return networkResponse;
+        })
+        .catch(() => cachedResponse);
 
       return cachedResponse || fetchPromise;
     })
