@@ -58,7 +58,7 @@ async function run() {
   }
 
   // Target live production server
-  const newTarget = await send('Target.createTarget', { url: 'https://bpsc-tre-pyq.onrender.com/#/app' })
+  const newTarget = await send('Target.createTarget', { url: 'https://bpsc-tre-pyq.onrender.com/#/app?category=subject' })
   const targetId = newTarget.result.targetId
   const attachRes = await send('Target.attachToTarget', { targetId, flatten: true })
   const sessionId = attachRes.result.sessionId
@@ -88,20 +88,30 @@ async function run() {
     return res.result?.result?.value
   }
 
-  // Set currentSetId to computer science to test the exact user's question
-  console.log('Testing Computer Science Question 3 (from user screenshot)...')
-  await evalJs(`
-    localStorage.setItem('tre-ready:v2:currentSetId', JSON.stringify('bpsc-tre4-computer-science-pgt-80q'));
-    location.hash = '#/app/practice';
-  `)
-  await sleep(1200)
+  console.log('Verifying live Render Part-III Subject Chooser...')
+  await sleep(1000)
+  await takeScreenshot('live_render_subject_chooser.png')
 
-  // Navigate to Question 3
+  console.log('Clicking Computer Science on live Render...')
   await evalJs(`
-    const qButtons = document.querySelectorAll('.palette button');
-    if (qButtons.length >= 3) qButtons[2].click();
+    const csCard = document.querySelectorAll('.gkgs-choice-card')[0];
+    if (csCard) csCard.click();
   `)
-  await sleep(500)
+  await sleep(1000)
+  await takeScreenshot('live_render_subject_cs_sets.png')
+
+  console.log('Returning to chooser and clicking General Science...')
+  await evalJs(`
+    const backBtn = document.querySelector('.back');
+    if (backBtn) backBtn.click();
+  `)
+  await sleep(800)
+  await evalJs(`
+    const sciCard = document.querySelectorAll('.gkgs-choice-card')[1];
+    if (sciCard) sciCard.click();
+  `)
+  await sleep(1000)
+  await takeScreenshot('live_render_subject_science_sets.png')
 
   // Open solution in English
   await evalJs(`
